@@ -1,0 +1,890 @@
+{
+  "files": {
+    "_pages/404.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "d19f987bf89fcd13416537e7b978c502a41d263701beac3e30f43ef4a8766a71",
+      "urls": [
+        "https://www.legalluminary.com/404.html"
+      ]
+    },
+    "_pages/about.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "7e1bb1eea36e202951a7833d15213c524d930642f858cb0f031f2db32b4891bd",
+      "urls": [
+        "https://www.legalluminary.com/about/"
+      ]
+    },
+    "_pages/advertise.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "fe4a6ed17db2fb3722f550cfde5373484c6432078ec8c2a78a5acc0ac0558a71",
+      "urls": [
+        "https://www.legalluminary.com/advertise/"
+      ]
+    },
+    "_pages/archive.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "461b23361a65438c251275edac0ccc11228cb0c93f50573d6dad5612e2fd3757",
+      "urls": [
+        "https://www.legalluminary.com/archive/"
+      ]
+    },
+    "_pages/artificial-intelligence.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "723faa8b78636f5c44cfc96d741403ffb9953fcffea55ca78c84252540d48f0c",
+      "urls": [
+        "https://github.com/sweeden-ttu/luminary-law",
+        "https://www.legalluminary.com/artificial-intelligence/"
+      ]
+    },
+    "_pages/bail-bonds.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "1213f7b6f77c6b47b7723dd481c117305e379d1aa5e89d491c84b26461e1960e",
+      "urls": [
+        "https://statutes.capitol.texas.gov/"
+      ]
+    },
+    "_pages/bell-county.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "2b9c9b73ee5293458563c9f02c463c4e5aec70c9df1c79aab863863c5a86cc5d",
+      "urls": [
+        "https://bell.go2gov.net",
+        "https://justice.bellcounty.texas.gov/PublicPortal/",
+        "https://www.bellcountytx.com/"
+      ]
+    },
+    "_pages/bsi-phone-call-recording.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "88f43b5c74cfde2d852f79a6ee77d640235ddcb8b53dbbde900a89b9757e0eb9",
+      "urls": [
+        "https://www.legalluminary.com/articles/bsi-phone-call-recording/"
+      ]
+    },
+    "_pages/defense.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": false,
+        "has_sources": true,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "e0fd978338c802946b14298a312f44cb3a2b0e770e7548eff04a2ccc59a4d32e",
+      "urls": [
+        "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.22.htm"
+      ]
+    },
+    "_pages/frontpage.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "85a32af204d2273de1326a32fd2ea7464eba84c872afac7d16b8c0ecc777d58c",
+      "urls": [
+        "https://www.legalluminary.com/"
+      ]
+    },
+    "_pages/legal-news.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": false,
+        "has_sources": true,
+        "source_type": "news",
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "c8556a4b4242ed98ac5c0387a50f367fca7f3b3f0d2e4ee23764182dda618fa6",
+      "urls": [
+        "https://capitol.texas.gov/",
+        "https://www.bellcountytx.com/",
+        "https://www.texasattorneygeneral.gov/"
+      ]
+    },
+    "_pages/m3u8downloader.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "ac34e2b077594760239f42c4c709f25c760219d223bae475140a599fa4e23e79",
+      "urls": [
+        "https://www.legalluminary.com/m3u8downloader/"
+      ]
+    },
+    "_pages/news-feeds.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "7caebb71461f64c7200c67215b6842325b6a31eec66e1c4c645a09cd61f27024",
+      "urls": [
+        "https://capitol.texas.gov/",
+        "https://gov.texas.gov/",
+        "https://kdhnews.com/",
+        "https://www.bellcountytx.com/",
+        "https://www.beltontexas.gov/",
+        "https://www.congress.gov/",
+        "https://www.killeentexas.gov/",
+        "https://www.kwtx.com/",
+        "https://www.legalluminary.com/news-feeds/",
+        "https://www.statesman.com/",
+        "https://www.supremecourt.gov/",
+        "https://www.tdtnews.com/",
+        "https://www.templetx.gov/",
+        "https://www.texasattorneygeneral.gov/",
+        "https://www.whitehouse.gov/"
+      ]
+    },
+    "_pages/personal-injury.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "a616d87131a1e46d4b774babb7229cd93053610dcf8749a65d96ce73323c4985",
+      "urls": [
+        "https://mbaattorneys.com",
+        "https://statutes.capitol.texas.gov/"
+      ]
+    },
+    "_pages/resources.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "caf5625d616fe6d5d605250ffc35ccb4e76ad210814252cc3e7eea1a1ceaef3d",
+      "urls": [
+        "https://justice.bellcounty.texas.gov/PublicPortal/",
+        "https://sll.texas.gov",
+        "https://statutes.capitol.texas.gov",
+        "https://www.bellcountytx.com",
+        "https://www.bellcountytx.com/",
+        "https://www.bellcountytx.com/county_government/county_attorney/index.php",
+        "https://www.bellcountytx.com/county_government/county_clerk/index.php",
+        "https://www.bellcountytx.com/county_government/county_courts/index.php",
+        "https://www.bellcountytx.com/county_government/district_attorney/index.php",
+        "https://www.bellcountytx.com/county_government/district_courts/index.php",
+        "https://www.bellcountytx.com/county_government/justice_of_the_peace/index.php",
+        "https://www.bellcountytx.com/county_government/sheriff/index.php",
+        "https://www.bellcountytx.com/district_clerk/index.php",
+        "https://www.beltontexas.gov/",
+        "https://www.killeentexas.gov/172/Municipal-Court",
+        "https://www.templetx.gov/",
+        "https://www.texasbar.com",
+        "https://www.txwd.uscourts.gov/main-forms/cash-bail/"
+      ]
+    },
+    "_pages/texas-law.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": false,
+        "has_sources": true,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "2cafb40301d3165bd99ba3f8a1979fcaae0d0589c9528af16e2b65ac0d2fe696",
+      "urls": [
+        "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.32.htm",
+        "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.55A.htm"
+      ]
+    },
+    "_posts/2020-03-18-my-first-post.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "00114834045f5432f383e71b0a8ba6ec80ab1e5a28142e6e74d4a67a60103b63",
+      "urls": [
+        "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+        "https://www.legalluminary.com/"
+      ]
+    },
+    "_posts/2020-03-22-get-code.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "96d27bf9d67c4cf7a851db47b4913c4f69a675ceff2fefec33f2574978672d12",
+      "urls": [
+        "https://github.com/sweeden-ttu/legal-luminary",
+        "https://sweeden-ttu.github.io",
+        "https://sweeden-ttu.github.io/myblog",
+        "https://www.legalluminary.com/"
+      ]
+    },
+    "_posts/2020-03-24-edit-content.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "cb02596708662a017862559c91d13030e85354b8781e816b4027dfee47cc435c",
+      "urls": [
+        "https://daringfireball.net/projects/markdown/syntax",
+        "https://pages.github.com/",
+        "https://typora.io/",
+        "https://www.legalluminary.com/"
+      ]
+    },
+    "_posts/2020-03-25-github-edit.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "e299c4f2471ae2c3719149b95a8c477cdd5cd9de097e5900d64c236606dece56",
+      "urls": [
+        "https://www.legalluminary.com/"
+      ]
+    },
+    "_posts/2020-04-15-posts.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "7fb568a2fc853d806a1c65d39c12440fe06eda71ae7b10d758a3d17f2f35baaf",
+      "urls": [
+        "https://jekyllrb.com/docs/posts/",
+        "https://www.legalluminary.com/"
+      ]
+    },
+    "_posts/2020-04-17-local-env.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "9c0c327cea11c49448ff5f3a2898ad8acc976ee519d3f9521380c402004a0f1f",
+      "urls": [
+        "http://localhost:8080/gh-pages-minima-starter",
+        "https://docs.docker.com/compose/",
+        "https://docs.docker.com/get-docker/",
+        "https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll",
+        "https://www.legalluminary.com/"
+      ]
+    },
+    "_posts/2020-04-19-links.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "b82b6354279563e05e9a706d9204f00148e9c888123226d1bdce00cbf9f908a4",
+      "urls": [
+        "https://jekyllrb.com/docs/liquid/",
+        "https://shopify.github.io/liquid/",
+        "https://www.legalluminary.com/",
+        "https://www.webisland.agency/blog/jekyll-internal-links/",
+        "https://yourusername.github.io/project"
+      ]
+    },
+    "_posts/2020-04-20-html.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "5f4b915eb05a5a9d083f8fa8805150a68ca5acebedec24dc76607b12b491e781",
+      "urls": [
+        "https://www.legalluminary.com/"
+      ]
+    },
+    "_posts/2025-08-03-common-mistakes-filing-social-security-disability.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "a903c2fd370634c8b82bf6f23cef4216431d77214c1a1dd2757eb3181223ad51",
+      "urls": [
+        "https://mbaattorneys.com",
+        "https://www.ssa.gov/"
+      ]
+    },
+    "_posts/2025-09-03-how-long-does-probate-take-in-texas.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "c5bcce2f533d89ac227bd6b605b3acf22361b76aafbf0641770fe2ccf25fa289",
+      "urls": [
+        "https://mbaattorneys.com",
+        "https://statutes.capitol.texas.gov/"
+      ]
+    },
+    "_posts/2025-10-01-what-happens-if-hurt-in-store-holiday-shopping.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "f2264397f6639903c3c39c49bcb3d19b8c536779ecdaca5c5ec1f3b265fc6e46",
+      "urls": [
+        "https://mbaattorneys.com",
+        "https://statutes.capitol.texas.gov/"
+      ]
+    },
+    "_posts/2025-11-02-top-social-security-disability-myths-debunked.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "efd8f1891bf3acefa9b9311aa3e018cd8f443d68fe0da12d636788977d5b2675",
+      "urls": [
+        "https://mbaattorneys.com",
+        "https://www.ssa.gov/"
+      ]
+    },
+    "_posts/2025-12-02-holiday-reminder-updating-your-will.md": {
+      "errors": [],
+      "front_matter": {
+        "has_source_url": true,
+        "has_sources": false,
+        "source_type": null,
+        "verified_at": "2026-02-11"
+      },
+      "ok": true,
+      "sha256": "0ad24d1ac9416858d3085d0c88e4029abdff6fd985f32afe0cc3c9fb9c1e690e",
+      "urls": [
+        "https://mbaattorneys.com",
+        "https://statutes.capitol.texas.gov/"
+      ]
+    }
+  },
+  "generated_at": "2026-02-12T04:40:24.918947+00:00",
+  "in_scope_dirs": [
+    "_pages",
+    "_posts"
+  ],
+  "reachability": {
+    "https://bell.go2gov.net": {
+      "error": null,
+      "final_url": null,
+      "ok": true,
+      "skipped": true,
+      "status": null
+    },
+    "https://capitol.texas.gov/": {
+      "error": null,
+      "final_url": "https://capitol.texas.gov/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://daringfireball.net/projects/markdown/syntax": {
+      "error": null,
+      "final_url": "https://daringfireball.net/projects/markdown/syntax",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://docs.docker.com/compose/": {
+      "error": null,
+      "final_url": "https://docs.docker.com/compose/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://docs.docker.com/get-docker/": {
+      "error": null,
+      "final_url": "https://docs.docker.com/get-started/get-docker/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://github.com/sweeden-ttu/legal-luminary": {
+      "error": null,
+      "final_url": "https://github.com/sweeden-ttu/legal-luminary",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://github.com/sweeden-ttu/luminary-law": {
+      "error": null,
+      "final_url": "https://github.com/sweeden-ttu/luminary-law",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://gov.texas.gov/": {
+      "error": null,
+      "final_url": "https://gov.texas.gov/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll": {
+      "error": null,
+      "final_url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://jekyllrb.com/docs/liquid/": {
+      "error": null,
+      "final_url": "https://jekyllrb.com/docs/liquid/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://jekyllrb.com/docs/posts/": {
+      "error": null,
+      "final_url": "https://jekyllrb.com/docs/posts/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://justice.bellcounty.texas.gov/PublicPortal/": {
+      "error": null,
+      "final_url": null,
+      "ok": true,
+      "skipped": true,
+      "status": null
+    },
+    "https://kdhnews.com/": {
+      "error": null,
+      "final_url": "https://kdhnews.com/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://mbaattorneys.com": {
+      "error": null,
+      "final_url": "https://www.mbaattorneys.com/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif": {
+      "error": null,
+      "final_url": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://pages.github.com/": {
+      "error": null,
+      "final_url": "https://pages.github.com/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://shopify.github.io/liquid/": {
+      "error": null,
+      "final_url": "https://shopify.github.io/liquid/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://sll.texas.gov": {
+      "error": null,
+      "final_url": "https://sll.texas.gov",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://statutes.capitol.texas.gov": {
+      "error": null,
+      "final_url": "https://statutes.capitol.texas.gov",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://statutes.capitol.texas.gov/": {
+      "error": null,
+      "final_url": "https://statutes.capitol.texas.gov/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.32.htm": {
+      "error": null,
+      "final_url": "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.32.htm",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.55A.htm": {
+      "error": null,
+      "final_url": "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.55A.htm",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.22.htm": {
+      "error": null,
+      "final_url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.22.htm",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://typora.io/": {
+      "error": null,
+      "final_url": "https://typora.io/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.bellcountytx.com": {
+      "error": null,
+      "final_url": "https://www.bellcountytx.com",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.bellcountytx.com/": {
+      "error": null,
+      "final_url": "https://www.bellcountytx.com/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.bellcountytx.com/county_government/county_attorney/index.php": {
+      "error": null,
+      "final_url": "https://www.bellcountytx.com/county_government/county_attorney/index.php",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.bellcountytx.com/county_government/county_clerk/index.php": {
+      "error": null,
+      "final_url": "https://www.bellcountytx.com/county_government/county_clerk/index.php",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.bellcountytx.com/county_government/county_courts/index.php": {
+      "error": null,
+      "final_url": "https://www.bellcountytx.com/county_government/county_courts/index.php",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.bellcountytx.com/county_government/district_attorney/index.php": {
+      "error": null,
+      "final_url": "https://www.bellcountytx.com/county_government/district_attorney/index.php",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.bellcountytx.com/county_government/district_courts/index.php": {
+      "error": null,
+      "final_url": "https://www.bellcountytx.com/county_government/district_courts/index.php",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.bellcountytx.com/county_government/justice_of_the_peace/index.php": {
+      "error": null,
+      "final_url": "https://www.bellcountytx.com/county_government/justice_of_the_peace/index.php",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.bellcountytx.com/county_government/sheriff/index.php": {
+      "error": null,
+      "final_url": "https://www.bellcountytx.com/county_government/sheriff/index.php",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.bellcountytx.com/district_clerk/index.php": {
+      "error": null,
+      "final_url": "https://www.bellcountytx.com/district_clerk/index.php",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.beltontexas.gov/": {
+      "error": null,
+      "final_url": "https://www.beltontexas.gov/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.congress.gov/": {
+      "error": null,
+      "final_url": null,
+      "ok": true,
+      "skipped": true,
+      "status": null
+    },
+    "https://www.killeentexas.gov/": {
+      "error": null,
+      "final_url": "https://www.killeentexas.gov/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.killeentexas.gov/172/Municipal-Court": {
+      "error": null,
+      "final_url": "https://www.killeentexas.gov/172/Municipal-Court",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.kwtx.com/": {
+      "error": null,
+      "final_url": "https://www.kwtx.com/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.legalluminary.com/": {
+      "error": null,
+      "final_url": "https://www.legalluminary.com/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.legalluminary.com/404.html": {
+      "error": null,
+      "final_url": "https://www.legalluminary.com/404.html",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.legalluminary.com/about/": {
+      "error": null,
+      "final_url": "https://www.legalluminary.com/about/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.legalluminary.com/advertise/": {
+      "error": null,
+      "final_url": "https://www.legalluminary.com/advertise/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.legalluminary.com/archive/": {
+      "error": null,
+      "final_url": "https://www.legalluminary.com/archive/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.legalluminary.com/articles/bsi-phone-call-recording/": {
+      "error": null,
+      "final_url": "https://www.legalluminary.com/articles/bsi-phone-call-recording/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.legalluminary.com/artificial-intelligence/": {
+      "error": null,
+      "final_url": "https://www.legalluminary.com/artificial-intelligence/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.legalluminary.com/m3u8downloader/": {
+      "error": null,
+      "final_url": "https://www.legalluminary.com/m3u8downloader/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.legalluminary.com/news-feeds/": {
+      "error": null,
+      "final_url": "https://www.legalluminary.com/news-feeds/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.ssa.gov/": {
+      "error": null,
+      "final_url": null,
+      "ok": true,
+      "skipped": true,
+      "status": null
+    },
+    "https://www.statesman.com/": {
+      "error": null,
+      "final_url": "https://www.statesman.com/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.supremecourt.gov/": {
+      "error": null,
+      "final_url": "https://www.supremecourt.gov/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.tdtnews.com/": {
+      "error": null,
+      "final_url": "https://www.tdtnews.com/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.templetx.gov/": {
+      "error": null,
+      "final_url": "https://www.templetx.gov/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.texasattorneygeneral.gov/": {
+      "error": null,
+      "final_url": "https://www.texasattorneygeneral.gov/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.texasbar.com": {
+      "error": null,
+      "final_url": "https://www.texasbar.com",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.txwd.uscourts.gov/main-forms/cash-bail/": {
+      "error": null,
+      "final_url": "https://www.txwd.uscourts.gov/main-forms/cash-bail/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.webisland.agency/blog/jekyll-internal-links/": {
+      "error": null,
+      "final_url": "https://www.webisland.agency/blog/jekyll-internal-links/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    },
+    "https://www.whitehouse.gov/": {
+      "error": null,
+      "final_url": "https://www.whitehouse.gov/",
+      "ok": true,
+      "skipped": false,
+      "status": 200
+    }
+  },
+  "repo": null,
+  "run_id": null,
+  "sha": null,
+  "summary": {
+    "files_failed": 0,
+    "files_ok": 29,
+    "files_total": 29
+  }
+}

@@ -236,6 +236,31 @@
       <div class="content-wrapper">
         <article class="main-content">
           {{ content }}
+          {% if page.source_url or page.sources or page.verified_at %}
+          <section class="content-traceability" aria-label="Content sources and verification">
+            <hr>
+            <h2>Sources & Verification</h2>
+            {% if page.verified_at %}
+              <p><strong>Verified:</strong> {{ page.verified_at }}</p>
+            {% endif %}
+            {% if page.source_url %}
+              <p><strong>Source:</strong> <a href="{{ page.source_url }}" target="_blank" rel="noopener noreferrer">{{ page.source_url }}</a></p>
+            {% endif %}
+            {% if page.sources %}
+              <ul>
+                {% for s in page.sources %}
+                  {% if s.url %}
+                    <li>
+                      <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer">
+                        {{ s.label | default: s.url }}
+                      </a>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </section>
+          {% endif %}
           {% if page.collection == 'posts' %}
           <section class="related-resources" aria-labelledby="related-resources-title">
             <h2 id="related-resources-title">Related Legal Resources</h2>
