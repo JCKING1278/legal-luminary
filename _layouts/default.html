@@ -295,6 +295,23 @@
     </div>
   </main>
 
+  {% unless page.url == '/' %}
+  <section class="recent-articles-section">
+    <div class="container">
+      <h2>Recent Articles</h2>
+      <div class="articles-list">
+        {% for post in site.posts limit:6 %}
+        <div class="article-item">
+          <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+          <p class="article-date">{{ post.date | date: "%B %d, %Y" }}</p>
+          <p class="article-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+          <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endunless %}
   <footer class="site-footer">
     <div class="container">
       <div class="footer-grid">
