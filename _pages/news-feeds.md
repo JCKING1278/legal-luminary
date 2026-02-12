@@ -3,7 +3,6 @@ permalink: /news-feeds/
 layout: default
 title: News Feeds (Research)
 robots: noindex,nofollow
-source_url: "https://www.legalluminary.com/news-feeds/"
 verified_at: 2026-02-11
 ---
 

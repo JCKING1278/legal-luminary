@@ -18,5 +18,29 @@ extra_allowlist_hosts: []
  
  # Temporarily exempt specific markdown files from traceability requirements.
  # Paths are repo-relative (e.g. "_pages/about.md").
-exempt_traceability_files: []
- 
+ #
+ # These pages are original site content (no external citation source exists).
+ # They previously used self-referential source_url values pointing to legalluminary.com,
+ # which has been removed from the allowlist because the site under verification
+ # cannot serve as its own citation source.
+exempt_traceability_files:
+  # Original site pages
+  - "_pages/about.md"
+  - "_pages/advertise.md"
+  - "_pages/archive.md"
+  - "_pages/404.md"
+  - "_pages/artificial-intelligence.md"
+  - "_pages/bsi-phone-call-recording.md"
+  - "_pages/frontpage.md"
+  - "_pages/m3u8downloader.md"
+  - "_pages/news-feeds.md"
+  # Tutorial posts from site launch (2020) — authored content, no external source
+  - "_posts/2020-03-18-my-first-post.md"
+  - "_posts/2020-03-22-get-code.md"
+  - "_posts/2020-03-24-edit-content.md"
+  - "_posts/2020-03-25-github-edit.md"
+  - "_posts/2020-04-15-posts.md"
+  - "_posts/2020-04-17-local-env.md"
+  - "_posts/2020-04-19-links.md"
+  - "_posts/2020-04-20-html.md"
+

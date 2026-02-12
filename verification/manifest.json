@@ -3,72 +3,63 @@
     "_pages/404.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "d19f987bf89fcd13416537e7b978c502a41d263701beac3e30f43ef4a8766a71",
-      "urls": [
-        "https://www.legalluminary.com/404.html"
-      ]
+      "sha256": "78db6216783e11a75544aecd26980cc4a2271f308d024f504228473c5fc5c313",
+      "urls": []
     },
     "_pages/about.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "7e1bb1eea36e202951a7833d15213c524d930642f858cb0f031f2db32b4891bd",
-      "urls": [
-        "https://www.legalluminary.com/about/"
-      ]
+      "sha256": "1714c9911904d3682fb8a071e3b92594a297eb1e4aa8d127297ae270bde59ad2",
+      "urls": []
     },
     "_pages/advertise.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "fe4a6ed17db2fb3722f550cfde5373484c6432078ec8c2a78a5acc0ac0558a71",
-      "urls": [
-        "https://www.legalluminary.com/advertise/"
-      ]
+      "sha256": "1b8e44a37666f7e72c19c04f294e625d12d83602ebc4259e11b9ce7ac22f64b0",
+      "urls": []
     },
     "_pages/archive.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "461b23361a65438c251275edac0ccc11228cb0c93f50573d6dad5612e2fd3757",
-      "urls": [
-        "https://www.legalluminary.com/archive/"
-      ]
+      "sha256": "ca5d2c6405b543d5ff39b84c1a28a6edf6866ab520a665b4199cb8dbcbb84cab",
+      "urls": []
     },
     "_pages/artificial-intelligence.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "723faa8b78636f5c44cfc96d741403ffb9953fcffea55ca78c84252540d48f0c",
+      "sha256": "c63b9dc0ef34ce0e772201a10d6216f8638d9ad722a998083d65bc941003f058",
       "urls": [
-        "https://github.com/sweeden-ttu/luminary-law",
-        "https://www.legalluminary.com/artificial-intelligence/"
+        "https://github.com/sweeden-ttu/luminary-law"
       ]
     },
     "_pages/bail-bonds.md": {
@@ -104,16 +95,14 @@
     "_pages/bsi-phone-call-recording.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "88f43b5c74cfde2d852f79a6ee77d640235ddcb8b53dbbde900a89b9757e0eb9",
-      "urls": [
-        "https://www.legalluminary.com/articles/bsi-phone-call-recording/"
-      ]
+      "sha256": "55a7bd253fefbeadc57e39d623a27717a87220789c4573d9f03c65df01b7f800",
+      "urls": []
     },
     "_pages/defense.md": {
       "errors": [],
@@ -132,16 +121,14 @@
     "_pages/frontpage.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "85a32af204d2273de1326a32fd2ea7464eba84c872afac7d16b8c0ecc777d58c",
-      "urls": [
-        "https://www.legalluminary.com/"
-      ]
+      "sha256": "c915f81ddc07d159c9080e4b46b723b902b0c05f049353351952a256a18e548f",
+      "urls": []
     },
     "_pages/legal-news.md": {
       "errors": [],
@@ -162,27 +149,25 @@
     "_pages/m3u8downloader.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "ac34e2b077594760239f42c4c709f25c760219d223bae475140a599fa4e23e79",
-      "urls": [
-        "https://www.legalluminary.com/m3u8downloader/"
-      ]
+      "sha256": "3cd8268fde28d0a1df2d1b848085c71bf21057aa208c0f55574bc58479c1003a",
+      "urls": []
     },
     "_pages/news-feeds.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "7caebb71461f64c7200c67215b6842325b6a31eec66e1c4c645a09cd61f27024",
+      "sha256": "f7624a9347e2b051b94148879265e060e00adeff30fee48e2ce35ad5594f9be7",
       "urls": [
         "https://capitol.texas.gov/",
         "https://gov.texas.gov/",
@@ -192,7 +177,6 @@
         "https://www.congress.gov/",
         "https://www.killeentexas.gov/",
         "https://www.kwtx.com/",
-        "https://www.legalluminary.com/news-feeds/",
         "https://www.statesman.com/",
         "https://www.supremecourt.gov/",
         "https://www.tdtnews.com/",
@@ -265,113 +249,105 @@
     "_posts/2020-03-18-my-first-post.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "00114834045f5432f383e71b0a8ba6ec80ab1e5a28142e6e74d4a67a60103b63",
+      "sha256": "17018c4ac0b318936ddd39ee40a4770cc0672db8f34563795351ecc74e769e97",
       "urls": [
-        "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
-        "https://www.legalluminary.com/"
+        "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
       ]
     },
     "_posts/2020-03-22-get-code.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "96d27bf9d67c4cf7a851db47b4913c4f69a675ceff2fefec33f2574978672d12",
+      "sha256": "6b54b17bb286e2554c61d755d83ca58f758858fab9345b769cfc5e2d23484678",
       "urls": [
         "https://github.com/sweeden-ttu/legal-luminary",
         "https://sweeden-ttu.github.io",
-        "https://sweeden-ttu.github.io/myblog",
-        "https://www.legalluminary.com/"
+        "https://sweeden-ttu.github.io/myblog"
       ]
     },
     "_posts/2020-03-24-edit-content.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "cb02596708662a017862559c91d13030e85354b8781e816b4027dfee47cc435c",
+      "sha256": "bcd09a23d328bd89aefd4be33a5fe72075589a296a0f9a8fdbede20f380145e3",
       "urls": [
         "https://daringfireball.net/projects/markdown/syntax",
         "https://pages.github.com/",
-        "https://typora.io/",
-        "https://www.legalluminary.com/"
+        "https://typora.io/"
       ]
     },
     "_posts/2020-03-25-github-edit.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "e299c4f2471ae2c3719149b95a8c477cdd5cd9de097e5900d64c236606dece56",
-      "urls": [
-        "https://www.legalluminary.com/"
-      ]
+      "sha256": "1f49884fc03fbe6cf62696fbf90b10cc8874f88c10d7101ca7cbb616285539cb",
+      "urls": []
     },
     "_posts/2020-04-15-posts.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "7fb568a2fc853d806a1c65d39c12440fe06eda71ae7b10d758a3d17f2f35baaf",
+      "sha256": "a31c957a068d840aea6a293de67833dcbfe5f9bb66cfe61756d1e636691d60a3",
       "urls": [
-        "https://jekyllrb.com/docs/posts/",
-        "https://www.legalluminary.com/"
+        "https://jekyllrb.com/docs/posts/"
       ]
     },
     "_posts/2020-04-17-local-env.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "9c0c327cea11c49448ff5f3a2898ad8acc976ee519d3f9521380c402004a0f1f",
+      "sha256": "26669ec57addb9fc7e7e58acb5f14c59bc651debb0d6ea096a17739a4d1d01b1",
       "urls": [
         "http://localhost:8080/gh-pages-minima-starter",
         "https://docs.docker.com/compose/",
         "https://docs.docker.com/get-docker/",
-        "https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll",
-        "https://www.legalluminary.com/"
+        "https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll"
       ]
     },
     "_posts/2020-04-19-links.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "b82b6354279563e05e9a706d9204f00148e9c888123226d1bdce00cbf9f908a4",
+      "sha256": "547511aeac73af515d716fd02e4df4e7f981842722619fce6eb1735f73394d2e",
       "urls": [
         "https://jekyllrb.com/docs/liquid/",
         "https://shopify.github.io/liquid/",
-        "https://www.legalluminary.com/",
         "https://www.webisland.agency/blog/jekyll-internal-links/",
         "https://yourusername.github.io/project"
       ]
@@ -379,16 +355,14 @@
     "_posts/2020-04-20-html.md": {
       "errors": [],
       "front_matter": {
-        "has_source_url": true,
+        "has_source_url": false,
         "has_sources": false,
         "source_type": null,
         "verified_at": "2026-02-11"
       },
       "ok": true,
-      "sha256": "5f4b915eb05a5a9d083f8fa8805150a68ca5acebedec24dc76607b12b491e781",
-      "urls": [
-        "https://www.legalluminary.com/"
-      ]
+      "sha256": "e4974240763de1894315d6c6c313dcc6308c1e236f55bdae722ae1bc639a3ec8",
+      "urls": []
     },
     "_posts/2025-08-03-common-mistakes-filing-social-security-disability.md": {
       "errors": [],
@@ -466,7 +440,7 @@
       ]
     }
   },
-  "generated_at": "2026-02-12T04:40:24.918947+00:00",
+  "generated_at": "2026-02-12T05:10:07.653843+00:00",
   "in_scope_dirs": [
     "_pages",
     "_posts"
@@ -741,69 +715,6 @@
     "https://www.kwtx.com/": {
       "error": null,
       "final_url": "https://www.kwtx.com/",
-      "ok": true,
-      "skipped": false,
-      "status": 200
-    },
-    "https://www.legalluminary.com/": {
-      "error": null,
-      "final_url": "https://www.legalluminary.com/",
-      "ok": true,
-      "skipped": false,
-      "status": 200
-    },
-    "https://www.legalluminary.com/404.html": {
-      "error": null,
-      "final_url": "https://www.legalluminary.com/404.html",
-      "ok": true,
-      "skipped": false,
-      "status": 200
-    },
-    "https://www.legalluminary.com/about/": {
-      "error": null,
-      "final_url": "https://www.legalluminary.com/about/",
-      "ok": true,
-      "skipped": false,
-      "status": 200
-    },
-    "https://www.legalluminary.com/advertise/": {
-      "error": null,
-      "final_url": "https://www.legalluminary.com/advertise/",
-      "ok": true,
-      "skipped": false,
-      "status": 200
-    },
-    "https://www.legalluminary.com/archive/": {
-      "error": null,
-      "final_url": "https://www.legalluminary.com/archive/",
-      "ok": true,
-      "skipped": false,
-      "status": 200
-    },
-    "https://www.legalluminary.com/articles/bsi-phone-call-recording/": {
-      "error": null,
-      "final_url": "https://www.legalluminary.com/articles/bsi-phone-call-recording/",
-      "ok": true,
-      "skipped": false,
-      "status": 200
-    },
-    "https://www.legalluminary.com/artificial-intelligence/": {
-      "error": null,
-      "final_url": "https://www.legalluminary.com/artificial-intelligence/",
-      "ok": true,
-      "skipped": false,
-      "status": 200
-    },
-    "https://www.legalluminary.com/m3u8downloader/": {
-      "error": null,
-      "final_url": "https://www.legalluminary.com/m3u8downloader/",
-      "ok": true,
-      "skipped": false,
-      "status": 200
-    },
-    "https://www.legalluminary.com/news-feeds/": {
-      "error": null,
-      "final_url": "https://www.legalluminary.com/news-feeds/",
       "ok": true,
       "skipped": false,
       "status": 200

@@ -2,7 +2,6 @@
 title: "Tutorial I: my first post"
 date: 2020-03-18
 layout: post
-source_url: "https://www.legalluminary.com/"
 verified_at: 2026-02-11
 ---
 

@@ -6,7 +6,6 @@ hero: true
 hero_title: "Advertising Opportunities"
 hero_subtitle: "Reach clients actively seeking legal services in Central Texas"
 description: "Advertising opportunities for attorneys and legal service providers in Bell County and Central Texas."
-source_url: "https://www.legalluminary.com/advertise/"
 verified_at: 2026-02-11
 ---
 

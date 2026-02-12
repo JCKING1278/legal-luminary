@@ -2,7 +2,6 @@
 permalink: /archive/
 layout: page
 title: Blog archive
-source_url: "https://www.legalluminary.com/archive/"
 verified_at: 2026-02-11
 ---
 

@@ -5,11 +5,9 @@
  # - Keep this list tight; add news domains only when explicitly approved.
  
  hosts:
-   # This site / internal references
-   - host: legalluminary.com
-     allow_subdomains: true
-     category: internal
- 
+   # NOTE: legalluminary.com is intentionally NOT listed here. This is the site
+   # being verified; its own URLs are not valid external citation sources.
+
    # Advertiser / contact link present in posts
    - host: mbaattorneys.com
      allow_subdomains: true

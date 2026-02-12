@@ -39,7 +39,6 @@ sidebar_ads_content: |
     <p>Reach clients actively seeking legal services in Bell County and Central Texas.</p>
     <a href="/advertise/" class="ad-cta">Learn More</a>
   </div>
-source_url: "https://www.legalluminary.com/"
 verified_at: 2026-02-11
 ---
 

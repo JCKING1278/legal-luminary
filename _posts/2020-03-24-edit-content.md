@@ -2,7 +2,6 @@
 title: "Tutorial III: editing your content"
 date: 2020-03-24
 layout: post
-source_url: "https://www.legalluminary.com/"
 verified_at: 2026-02-11
 ---
 
