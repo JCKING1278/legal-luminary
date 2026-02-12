@@ -48,3 +48,5 @@ verification/manifest.json
 # Temporary files
 tmp/
 temp/
+._*
+._

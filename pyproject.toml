@@ -1,14 +1,56 @@
- [project]
- name = "legal-luminary-verification"
- version = "0.1.0"
- description = "Verification + traceability tooling for the Legal Luminary Jekyll site."
- requires-python = ">=3.11"
- dependencies = [
-   "httpx>=0.27.0",
-   "langsmith>=0.7.1",
-   "pyyaml>=6.0.1",
+[project]
+name = "legal-luminary-verification"
+version = "0.2.0"
+description = "Trustworthy AI Legal and Governmental Content Validator with LangGraph integration."
+requires-python = ">=3.11"
+dependencies = [
+  "httpx>=0.27.0",
+  "langsmith>=0.7.1",
+  "pyyaml>=6.0.1",
+  "langgraph>=1.0.0",
+  "langchain>=0.3.0",
+  "langchain-openai>=0.2.0",
+  "langchain-ollama>=0.2.0",
+  "python-dotenv>=1.0.1",
+  "typing_extensions>=4.0.0",
+  "requests>=2.31.0",
 ]
- 
- [tool.uv]
- package = false
+
+[project.optional-dependencies]
+dev = ["mypy>=1.11.1", "ruff>=0.6.1", "pytest>=8.3.5"]
+
+[build-system]
+requires = ["setuptools>=73.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["agent", "validators", "config"]
+[tool.setuptools.package-dir]
+"agent" = "src/agent"
+"validators" = "validators"
+"config" = "config"
+
+[tool.ruff]
+lint.select = [
+    "E",
+    "F",
+    "I",
+    "D",
+    "D401",
+    "T201",
+    "UP",
+]
+lint.ignore = [
+    "UP006",
+    "UP007",
+    "UP035",
+    "D417",
+    "E501",
+]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.uv]
+package = false
  
