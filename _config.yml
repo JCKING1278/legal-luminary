@@ -139,8 +139,6 @@ include:
   - _pages
   - _includes
   - _layouts
-  - _posts
-  - _site
   - _data
   - _sass
   - .nojekyll
