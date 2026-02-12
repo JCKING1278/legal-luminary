@@ -1,11 +1,13 @@
 #!/bin/bash
 
 CURRENT_DATE=$(date -I | cut -d'T' -f1)
+echo "Current date: $CURRENT_DATE"
 
 for file in _posts/*.md; do
   # Extract the date part of the filename
   FILENAME=$(basename "$file")
   POST_DATE_STR=$(echo "$FILENAME" | cut -d'-' -f1-3)
+  echo "Processing $FILENAME, post date: $POST_DATE_STR"
   
   # Convert to seconds since epoch for comparison
   # The -j flag is for BSD date, which is what's on macOS.
@@ -13,6 +15,7 @@ for file in _posts/*.md; do
   
   # If the above command fails, it's not a valid date, so skip it.
   if [ -z "$POST_DATE_SEC" ]; then
+    echo "Skipping $FILENAME: invalid date format."
     continue
   fi
   
