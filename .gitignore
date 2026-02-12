@@ -35,6 +35,10 @@ AGENTS.md
 # Node (if using any build tools)
 node_modules/
 
+# Python (uv venv + verifier outputs)
+.venv/
+verification/manifest.json
+
 # LaTeX / pdflatex intermediate files
 *.aux
 *.out
