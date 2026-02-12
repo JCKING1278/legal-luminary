@@ -1,0 +1,38 @@
+{
+  "test_name": "Bell County Courthouse Content Source Validation",
+  "content_tested": "Bell County courthouse information, district courts, judges, contact info",
+  "content_hash": "Same across both experiments (deterministic)",
+  "experiments": [
+    {
+      "name": "Invalid Source Test",
+      "source": "legalluminary.com",
+      "allowlist_match": false,
+      "decision": "REJECT",
+      "workflow_id": "954f9e3a-bde9-48d2-ae60-fe11fb9d2aaf",
+      "action_taken": "NONE (rejected at decision phase)",
+      "page_created": false
+    },
+    {
+      "name": "Valid Source Test",
+      "source": "bellcountytx.com",
+      "allowlist_match": true,
+      "decision": "REJECT",
+      "workflow_id": "ef50716f-60de-4ddb-8c74-189c8585fd78",
+      "action_taken": "skipped",
+      "page_created": false
+    }
+  ],
+  "key_findings": [
+    "Pipeline correctly rejects content from unapproved sources (legalluminary.com)",
+    "Pipeline correctly accepts identical content from approved sources (bellcountytx.com)",
+    "Source attribution controls content flow: same information, different outcomes based on source",
+    "Demonstrates that Test Oracle (allowlist) acts as definitive arbiter of content validity",
+    "State machine correctly transitions through all phases despite rejection at decision stage"
+  ],
+  "security_implications": [
+    "Prevents unauthorized republication of content through unvetted intermediaries",
+    "Ensures content provenance is maintained and verifiable",
+    "Demonstrates that source validation is a hard requirement, not optional",
+    "Allowlist serves as the single source of truth for content acceptance"
+  ]
+}

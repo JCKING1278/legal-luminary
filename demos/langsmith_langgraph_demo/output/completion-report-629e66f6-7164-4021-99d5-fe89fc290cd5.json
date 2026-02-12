@@ -1,0 +1,41 @@
+{
+  "workflow_id": "629e66f6-7164-4021-99d5-fe89fc290cd5",
+  "article_id": "afa5a5e6",
+  "article_title": "Bell County Courthouse Information - Complete Guide",
+  "current_state": "END",
+  "total_transitions": 5,
+  "validation_passed": true,
+  "completion_time": "2026-02-12T08:19:27Z",
+  "transition_history": [
+    {
+      "step": 1,
+      "from": "START",
+      "to": "PROCESS",
+      "event": "article_received"
+    },
+    {
+      "step": 2,
+      "from": "PROCESS",
+      "to": "DECISION",
+      "event": "content_processed"
+    },
+    {
+      "step": 3,
+      "from": "DECISION",
+      "to": "ACTION",
+      "event": "verification_complete"
+    },
+    {
+      "step": 4,
+      "from": "ACTION",
+      "to": "VALIDATE",
+      "event": "content_integrated"
+    },
+    {
+      "step": 5,
+      "from": "VALIDATE",
+      "to": "END",
+      "event": "validation_complete"
+    }
+  ]
+}

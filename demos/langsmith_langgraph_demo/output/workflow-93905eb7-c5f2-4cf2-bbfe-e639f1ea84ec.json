@@ -1,0 +1,113 @@
+{
+  "workflow_id": "93905eb7-c5f2-4cf2-bbfe-e639f1ea84ec",
+  "article_id": "4ef66a3a",
+  "article_title": "Bell County Courthouse Information - Complete Guide",
+  "current_state": "END",
+  "transitions": [
+    {
+      "from": "START",
+      "to": "PROCESS",
+      "timestamp": "2026-02-12T08:23:49Z",
+      "event": "article_received",
+      "data": {
+        "id": "4ef66a3a",
+        "title": "Bell County Courthouse Information - Complete Guide",
+        "source": "bellcountytx.gov",
+        "ingestion_time": "2026-02-12T08:23:49Z",
+        "expected_category": "Bell County News"
+      },
+      "decision_result": null
+    },
+    {
+      "from": "PROCESS",
+      "to": "DECISION",
+      "timestamp": "2026-02-12T08:23:49Z",
+      "event": "content_processed",
+      "data": {
+        "content_hash": "684347188d4d38a8cf2a8034eabf924e438dec40d0d75fcb1314dac827d2f337",
+        "content_length": 2119,
+        "line_count": 42,
+        "source_domain": "bellcountytx.gov",
+        "timestamp": "2026-02-12T08:23:49Z"
+      },
+      "decision_result": null
+    },
+    {
+      "from": "DECISION",
+      "to": "ACTION",
+      "timestamp": "2026-02-12T08:23:49Z",
+      "event": "verification_complete",
+      "data": {
+        "domain_check": {
+          "valid": true,
+          "matched": "bellcountytx.gov",
+          "domain": "bellcountytx.gov"
+        },
+        "content_check": {
+          "valid": true,
+          "min_length": 50,
+          "actual_length": 2119
+        },
+        "contact_check": {
+          "valid": false
+        },
+        "final_decision": "ACCEPT",
+        "reasons": [
+          "Contact verification failed (non-blocking)"
+        ],
+        "timestamp": "2026-02-12T08:23:49Z"
+      },
+      "decision_result": true
+    },
+    {
+      "from": "ACTION",
+      "to": "VALIDATE",
+      "timestamp": "2026-02-12T08:23:49Z",
+      "event": "content_integrated",
+      "data": {
+        "action": "page_created",
+        "page_filename": "bell-county-bell-county-courthouse-informa-4ef66a3a.md",
+        "page_path": "/Users/owner/legal-luminary/demos/langsmith_langgraph_demo/staging/bell-county-bell-county-courthouse-informa-4ef66a3a.md",
+        "page_slug": "bell-county-courthouse-informa",
+        "frontmatter": {
+          "title": "Bell County Courthouse Information - Complete Guide",
+          "category": "Bell County News",
+          "source": "bellcountytx.gov",
+          "verification_id": "93905eb7-c5f2-4cf2-bbfe-e639f1ea84ec"
+        },
+        "content_preview": "---\nlayout: default\ntitle: Bell County Courthouse Information - Complete Guide\ncategory: Bell County News\nsource: bellcountytx.gov\ningestion_date: 2026-02-12T08:23:49Z\nverification_id: 93905eb7-c5f2-4...",
+        "timestamp": "2026-02-12T08:23:49Z"
+      },
+      "decision_result": null
+    },
+    {
+      "from": "VALIDATE",
+      "to": "END",
+      "timestamp": "2026-02-12T08:23:49Z",
+      "event": "validation_complete",
+      "data": {
+        "timestamp": "2026-02-12T08:23:49Z",
+        "checks": {
+          "workflow_log": {
+            "status": "PASS",
+            "detail": "Log file exists at /Users/owner/legal-luminary/demos/langsmith_langgraph_demo/output/workflow-93905eb7-c5f2-4cf2-bbfe-e639f1ea84ec.json"
+          },
+          "page_file": {
+            "status": "PASS",
+            "detail": "Page file exists, size: 2360 bytes"
+          },
+          "decision_validity": {
+            "status": "PASS",
+            "detail": "Decision recorded: ACCEPT"
+          },
+          "state_progression": {
+            "status": "PASS",
+            "detail": "Workflow in terminal state: VALIDATE"
+          }
+        },
+        "all_passed": true
+      },
+      "decision_result": true
+    }
+  ]
+}

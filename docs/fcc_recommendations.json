@@ -1,0 +1,94 @@
+{
+  "analysis_date": "2026-02-12",
+  "region": "Bell County, Texas",
+  "primary_fcc_affiliates_active": [
+    {
+      "call_letters": "KCEN",
+      "channel": 25,
+      "network": "NBC",
+      "market": "Waco-Temple-Bryan",
+      "status": "ACTIVE",
+      "in_allowlist": true,
+      "domain": "kcen.com"
+    },
+    {
+      "call_letters": "KWTX",
+      "channel": 10,
+      "network": "ABC/MyNetworkTV",
+      "market": "Waco-Temple-Bryan",
+      "status": "ACTIVE",
+      "in_allowlist": true,
+      "domain": "kwtx.com"
+    }
+  ],
+  "recommended_additions": [
+    {
+      "call_letters": "KWTB",
+      "channel": 47,
+      "network": "Telemundo",
+      "market": "Waco-Temple-Bryan",
+      "status": "ACTIVE",
+      "priority": "HIGH",
+      "reason": "Spanish-language news, same market as KCEN/KWTX",
+      "suggested_domain": "kwtb.com",
+      "fcc_licensed": true
+    },
+    {
+      "call_letters": "KWBU",
+      "frequency": "103.3 FM",
+      "network": "NPR",
+      "market": "Waco-Temple-Bryan",
+      "status": "ACTIVE",
+      "priority": "HIGH",
+      "reason": "Public radio news, established news operations",
+      "suggested_domain": "kwbu.org",
+      "fcc_licensed": true
+    },
+    {
+      "publication": "Temple Daily Telegram",
+      "market": "Temple (Bell County)",
+      "status": "ACTIVE",
+      "priority": "HIGH",
+      "reason": "Direct Bell County coverage, local news",
+      "suggested_domain": "templedailytelegram.com",
+      "fcc_licensed": false,
+      "note": "Print/digital publication, not FCC broadcast"
+    },
+    {
+      "call_letters": "KVUE",
+      "channel": 24,
+      "network": "ABC",
+      "market": "Austin",
+      "status": "ACTIVE",
+      "priority": "MEDIUM",
+      "reason": "Secondary Central Texas reach",
+      "suggested_domain": "kvue.com",
+      "fcc_licensed": true
+    },
+    {
+      "call_letters": "KBTX",
+      "channel": 3,
+      "network": "CBS",
+      "market": "Bryan-College Station",
+      "status": "ACTIVE",
+      "priority": "MEDIUM",
+      "reason": "Regional reach to north-central Texas",
+      "suggested_domain": "kbtx.com",
+      "fcc_licensed": true
+    }
+  ],
+  "summary": {
+    "total_identified_sources": 9,
+    "fcc_licensed_broadcast": 7,
+    "print_digital_publications": 2,
+    "current_in_allowlist": 3,
+    "recommended_to_add": 5,
+    "geographic_coverage": "Bell County and surrounding Central Texas region",
+    "news_categories": [
+      "Television",
+      "Radio",
+      "Digital",
+      "Print"
+    ]
+  }
+}
