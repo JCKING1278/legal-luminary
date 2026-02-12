@@ -2,6 +2,8 @@
 title: "Holiday Reminder: Updating Your Will After Life Changes This Year"
 date: 2025-12-02
 layout: default
+source_url: "https://statutes.capitol.texas.gov/"
+verified_at: 2026-02-11
 ---
 
 The holiday season provides an ideal opportunity for Texas residents to review and update their wills following significant life changes during the year.

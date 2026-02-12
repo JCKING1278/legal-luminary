@@ -6,6 +6,8 @@ hero: true
 hero_title: "Bell County Legal Information"
 hero_subtitle: "Local courts, procedures, and resources for Central Texas residents"
 description: "Bell County court information, local legal procedures, and resources for Killeen, Temple, and Belton area residents."
+source_url: "https://www.bellcountytx.com/"
+verified_at: 2026-02-11
 ---
 
 <p class="intro-text">

@@ -7,6 +7,8 @@ hero: true
 hero_title: "Bail Bonds Services"
 hero_subtitle: "Fast, reliable bail bond services available 24/7 throughout Texas and nationwide"
 description: "Bail bonds information for Bell County and Texas. Get fast release from jail with Bad Boy Bail Bonds. Payment plans available."
+source_url: "https://statutes.capitol.texas.gov/"
+verified_at: 2026-02-11
 ---
 
 <p class="intro-text">

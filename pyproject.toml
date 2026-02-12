@@ -1,0 +1,13 @@
+ [project]
+ name = "legal-luminary-verification"
+ version = "0.1.0"
+ description = "Verification + traceability tooling for the Legal Luminary Jekyll site."
+ requires-python = ">=3.11"
+ dependencies = [
+   "httpx>=0.27.0",
+   "pyyaml>=6.0.1",
+ ]
+ 
+ [tool.uv]
+ package = false
+ 

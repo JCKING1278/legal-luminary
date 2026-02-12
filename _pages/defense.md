@@ -6,6 +6,10 @@ hero: true
 hero_title: "Criminal Defense Information"
 hero_subtitle: "Understanding rights and finding aggressive representation in Bell County"
 description: "Criminal defense information for Bell County. Learn about assault, domestic violence, and other charges. Find experienced defense attorneys."
+sources:
+  - url: "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.22.htm"
+    label: "Texas Penal Code Chapter 22 (Assaultive Offenses)"
+verified_at: 2026-02-11
 ---
 
 <p class="intro-text">

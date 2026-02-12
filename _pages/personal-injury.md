@@ -6,6 +6,8 @@ hero: true
 hero_title: "Personal Injury Information"
 hero_subtitle: "Understanding rights when individuals have been injured through no fault of their own"
 description: "Personal injury information for Bell County. Car accidents, workplace injuries, premises liability. Find experienced injury attorneys."
+source_url: "https://statutes.capitol.texas.gov/"
+verified_at: 2026-02-11
 ---
 
 <p class="intro-text">

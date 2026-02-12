@@ -6,6 +6,12 @@ hero: true
 hero_title: "Understanding Texas Law"
 hero_subtitle: "A comprehensive guide to state statutes, criminal procedures, and civil remedies"
 description: "Overview of Texas criminal law, personal injury law, and legal procedures. Information for Bell County residents."
+sources:
+  - url: "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.55A.htm"
+    label: "Texas Code of Criminal Procedure Chapter 55A (Expunction)"
+  - url: "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.32.htm"
+    label: "Texas Code of Criminal Procedure Chapter 32 (includes Article 32.01)"
+verified_at: 2026-02-11
 ---
 
 <p class="intro-text">

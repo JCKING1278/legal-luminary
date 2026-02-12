@@ -4,6 +4,15 @@ title: Legal News
 permalink: /legal-news/
 sidebar_ads: general
 description: Latest legal news from Bell County Texas and Texas state government sources
+source_type: news
+sources:
+  - url: "https://www.bellcountytx.com/"
+    label: "Bell County, Texas (official site)"
+  - url: "https://capitol.texas.gov/"
+    label: "Texas Legislature Online"
+  - url: "https://www.texasattorneygeneral.gov/"
+    label: "Texas Attorney General (press releases)"
+verified_at: 2026-02-11
 ---
 
 # Legal News

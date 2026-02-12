@@ -2,6 +2,8 @@
 title: "Tutorial III: editing your content"
 date: 2020-03-24
 layout: post
+source_url: "https://www.legalluminary.com/"
+verified_at: 2026-02-11
 ---
 
 From the [last post]({{ site.base_url }}{% link _posts/2020-03-22-get-code.md %}), your website is published with your details but now how to edit the frontpage, remove the example blog posts or create your own. Let's dive in to that. 

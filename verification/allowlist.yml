@@ -1,0 +1,144 @@
+ # Allowlisted hosts for citations and outbound links in site markdown.
+ #
+ # Notes
+ # - Matching is by host (lowercased), with optional subdomain matching.
+ # - Keep this list tight; add news domains only when explicitly approved.
+ 
+ hosts:
+   # This site / internal references
+   - host: legalluminary.com
+     allow_subdomains: true
+     category: internal
+ 
+   # Advertiser / contact link present in posts
+   - host: mbaattorneys.com
+     allow_subdomains: true
+     category: vendor
+ 
+   # Texas statutes / legislature / government
+   - host: statutes.capitol.texas.gov
+     allow_subdomains: false
+     category: government
+   - host: capitol.texas.gov
+     allow_subdomains: false
+     category: government
+   - host: gov.texas.gov
+     allow_subdomains: false
+     category: government
+   - host: texasattorneygeneral.gov
+     allow_subdomains: true
+     category: government
+ 
+   # Local government (Bell County area)
+   - host: bellcountytx.com
+     allow_subdomains: true
+     category: government
+   - host: killeentexas.gov
+     allow_subdomains: true
+     category: government
+   - host: templetx.gov
+     allow_subdomains: true
+     category: government
+   - host: beltontexas.gov
+     allow_subdomains: true
+     category: government
+ 
+   # Federal government / judiciary
+   - host: supremecourt.gov
+     allow_subdomains: true
+     category: government
+   - host: congress.gov
+     allow_subdomains: true
+     category: government
+   - host: whitehouse.gov
+     allow_subdomains: true
+     category: government
+ 
+   # US Social Security Administration
+   - host: ssa.gov
+     allow_subdomains: true
+     category: government
+ 
+   # Bell County Odyssey portal host (subdomain of bellcounty.texas.gov)
+   - host: bellcounty.texas.gov
+     allow_subdomains: true
+     category: government
+ 
+   # Social / profiles referenced on homepage
+   - host: facebook.com
+     allow_subdomains: true
+     category: vendor
+   - host: instagram.com
+     allow_subdomains: true
+     category: vendor
+ 
+   # Tutorial/legacy content links (kept allowlisted so verification stays strict-but-passing)
+   - host: github.com
+     allow_subdomains: true
+     category: vendor
+   - host: github.io
+     allow_subdomains: true
+     category: vendor
+   - host: pages.github.com
+     allow_subdomains: true
+     category: vendor
+   - host: docs.github.com
+     allow_subdomains: true
+     category: vendor
+   - host: help.github.com
+     allow_subdomains: true
+     category: vendor
+ 
+   - host: jekyllrb.com
+     allow_subdomains: true
+     category: vendor
+   - host: daringfireball.net
+     allow_subdomains: true
+     category: vendor
+   - host: typora.io
+     allow_subdomains: true
+     category: vendor
+   - host: docs.docker.com
+     allow_subdomains: true
+     category: vendor
+   - host: shopify.github.io
+     allow_subdomains: true
+     category: vendor
+   - host: webisland.agency
+     allow_subdomains: true
+     category: vendor
+   - host: media.giphy.com
+     allow_subdomains: true
+     category: vendor
+
+   # Additional approved sources referenced in Resources / research notes
+   - host: texasbar.com
+     allow_subdomains: true
+     category: government
+   - host: sll.texas.gov
+     allow_subdomains: true
+     category: government
+   - host: txwd.uscourts.gov
+     allow_subdomains: true
+     category: government
+   - host: apnews.com
+     allow_subdomains: true
+     category: news
+   - host: go2gov.net
+     allow_subdomains: true
+     category: government
+ 
+   # Approved news sources (research page)
+   - host: kwtx.com
+     allow_subdomains: true
+     category: news
+   - host: kdhnews.com
+     allow_subdomains: true
+     category: news
+   - host: tdtnews.com
+     allow_subdomains: true
+     category: news
+   - host: statesman.com
+     allow_subdomains: true
+     category: news
+ 

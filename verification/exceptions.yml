@@ -1,0 +1,22 @@
+ # Temporary exceptions for verification (keep this file small).
+ 
+ # Skip reachability checks for specific URLs (exact match).
+skip_reachability_urls:
+  # Government portal fails SSL verification in some CI environments
+  - "https://justice.bellcounty.texas.gov/PublicPortal/"
+ 
+ # Skip reachability checks for entire hosts.
+skip_reachability_hosts:
+  # Frequently returns 403 to automated clients
+  - "congress.gov"
+  - "ssa.gov"
+  # Intermittent timeouts in CI
+  - "go2gov.net"
+ 
+ # Allow specific hosts even if not on the allowlist (prefer editing allowlist.yml instead).
+extra_allowlist_hosts: []
+ 
+ # Temporarily exempt specific markdown files from traceability requirements.
+ # Paths are repo-relative (e.g. "_pages/about.md").
+exempt_traceability_files: []
+ 

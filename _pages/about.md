@@ -6,6 +6,8 @@ hero: true
 hero_title: "About Central Texas Legal Resource"
 hero_subtitle: "Connecting Bell County residents with qualified legal representation"
 description: "Learn about Central Texas Legal Resource, our mission, and our commitment to helping Central Texas residents find qualified legal representation."
+source_url: "https://www.legalluminary.com/about/"
+verified_at: 2026-02-11
 ---
 
 ## Our Mission

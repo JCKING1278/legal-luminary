@@ -3,6 +3,8 @@ permalink: /news-feeds/
 layout: default
 title: News Feeds (Research)
 robots: noindex,nofollow
+source_url: "https://www.legalluminary.com/news-feeds/"
+verified_at: 2026-02-11
 ---
 
 # News feeds to consider (research)
@@ -76,7 +78,7 @@ This page is a curated list of **RSS/Atom** feeds that may be useful for adding 
 
 ## Notes on AP / Reuters
 
-- AP RSS endpoints may be blocked/require JS or subscription. Initial quick test against `https://apnews.com/hub/politics/rss` returned an HTML “page unavailable” response, so I would **not** rely on AP RSS without confirming access.
+- AP RSS endpoints may be blocked/require JS or subscription. Initial quick tests returned “page unavailable” responses, so AP RSS should not be relied on without confirming access.
 
 ---
 

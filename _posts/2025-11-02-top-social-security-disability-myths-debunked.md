@@ -2,6 +2,8 @@
 title: "Top Social Security Disability Myths Debunked"
 date: 2025-11-02
 layout: default
+source_url: "https://www.ssa.gov/"
+verified_at: 2026-02-11
 ---
 
 Many misconceptions surround Social Security Disability (SSD) benefits. Understanding the truth helps Texans navigate the system more effectively.

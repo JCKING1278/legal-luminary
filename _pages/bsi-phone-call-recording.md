@@ -4,6 +4,8 @@ title: BSI Phone Call Recording
 permalink: /articles/bsi-phone-call-recording/
 sidebar_ads: general
 description: Download the recorded phone call between Scott Weeden and BSI Financial Services in multiple audio formats
+source_url: "https://www.legalluminary.com/articles/bsi-phone-call-recording/"
+verified_at: 2026-02-11
 ---
 
 # BSI Phone Call Recording
