@@ -27,7 +27,248 @@
     "courts.state.tx.us",
     "www.courts.state.tx.us",
     "bellcountyda.com",
-    "www.bellcountyda.com"
+    "www.bellcountyda.com",
+    "twitter.com",
+    "x.com",
+    "facebook.com",
+    "instagram.com",
+    "linkedin.com",
+    "bsky.app",
+    "bluesky.app",
+    "justia.com",
+    "www.justia.com",
+    "google.com/maps",
+    "texaslawhelp.org",
+    "www.texaslawhelp.org",
+    "lawhelptexas.org",
+    "www.lawhelptexas.org",
+    "sbot.texas.gov",
+    "www.sbot.texas.gov",
+    "bellcountycourts.org",
+    "www.bellcountycourts.org",
+    "killeenindependent.com",
+    "www.killeenindependent.com",
+    "wacotrib.com",
+    "www.wacotrib.com",
+    "statesman.com",
+    "www.statesman.com",
+    "austinmonitor.com",
+    "www.austinmonitor.com",
+    "reuters.com",
+    "www.reuters.com",
+    "apnews.com",
+    "www.apnews.com",
+    "bbb.org",
+    "www.bbb.org"
+  ],
+  "social_media_accounts": [
+    {
+      "account_name": "Texas Attorney General Ken Paxton",
+      "platform": "twitter",
+      "handle": "@TAGA_Ken_Paxton",
+      "url": "https://twitter.com/TAGA_Ken_Paxton",
+      "organization": "Office of the Texas Attorney General"
+    },
+    {
+      "account_name": "Texas Attorney General",
+      "platform": "facebook",
+      "handle": "Texas Attorney General",
+      "url": "https://www.facebook.com/TexasAttorneyGeneral",
+      "organization": "Office of the Texas Attorney General"
+    },
+    {
+      "account_name": "Bell County Commissioner's Court",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/BellCountyCommissionersCourt",
+      "organization": "Bell County Commissioners Court"
+    },
+    {
+      "account_name": "City of Killeen",
+      "platform": "facebook",
+      "handle": "City of Killeen - Official",
+      "url": "https://www.facebook.com/CityOfKilleen",
+      "organization": "City of Killeen Municipal Government"
+    },
+    {
+      "account_name": "City of Killeen",
+      "platform": "twitter",
+      "handle": "@CityofKilleen",
+      "url": "https://twitter.com/CityofKilleen",
+      "organization": "City of Killeen Municipal Government"
+    },
+    {
+      "account_name": "City of Killeen",
+      "platform": "instagram",
+      "handle": "@cityofkilleen",
+      "url": "https://www.instagram.com/cityofkilleen",
+      "organization": "City of Killeen Municipal Government"
+    },
+    {
+      "account_name": "Killeen Police Department",
+      "platform": "facebook",
+      "handle": "Killeen Police Department",
+      "url": "https://www.facebook.com/KilleenPoliceDepartment",
+      "organization": "Killeen Police Department"
+    },
+    {
+      "account_name": "Killeen Police Department",
+      "platform": "twitter",
+      "handle": "@KilleenPD",
+      "url": "https://twitter.com/KilleenPD",
+      "organization": "Killeen Police Department"
+    },
+    {
+      "account_name": "Bell County Sheriff's Office",
+      "platform": "facebook",
+      "handle": "Bell County Sheriff's Office",
+      "url": "https://www.facebook.com/BellCountySheriff",
+      "organization": "Bell County Sheriff's Office"
+    },
+    {
+      "account_name": "Bell County Fire Marshal",
+      "platform": "twitter",
+      "handle": "@BellCoFireMarshal",
+      "url": "https://twitter.com/BellCoFireMarshal",
+      "organization": "Bell County Fire Marshal's Office"
+    },
+    {
+      "account_name": "Fort Hood PAO",
+      "platform": "facebook",
+      "handle": "Fort Hood Public Affairs",
+      "url": "https://www.facebook.com/FortHood",
+      "organization": "Fort Hood Public Affairs Office"
+    },
+    {
+      "account_name": "Fort Hood PAO",
+      "platform": "twitter",
+      "handle": "@FortHoodPAO",
+      "url": "https://twitter.com/FortHoodPAO",
+      "organization": "Fort Hood Public Affairs Office"
+    },
+    {
+      "account_name": "Killeen Daily Herald",
+      "platform": "facebook",
+      "handle": "Killeen Daily Herald",
+      "url": "https://www.facebook.com/KilleenDailyHerald",
+      "organization": "Killeen Daily Herald"
+    },
+    {
+      "account_name": "Killeen Daily Herald",
+      "platform": "twitter",
+      "handle": "@KDailyHerald",
+      "url": "https://twitter.com/KDailyHerald",
+      "organization": "Killeen Daily Herald"
+    },
+    {
+      "account_name": "KCEN 25 News",
+      "platform": "facebook",
+      "handle": "KCEN 25",
+      "url": "https://www.facebook.com/KCEN25",
+      "organization": "KCEN 25 News - NBC Affiliate"
+    },
+    {
+      "account_name": "KCEN 25 News",
+      "platform": "twitter",
+      "handle": "@KCEN",
+      "url": "https://twitter.com/KCEN",
+      "organization": "KCEN 25 News - NBC Affiliate"
+    },
+    {
+      "account_name": "KWTX News",
+      "platform": "facebook",
+      "handle": "KWTX News",
+      "url": "https://www.facebook.com/KWTXNews",
+      "organization": "KWTX News - ABC Affiliate"
+    },
+    {
+      "account_name": "KWTX News",
+      "platform": "twitter",
+      "handle": "@KWTX",
+      "url": "https://twitter.com/KWTX",
+      "organization": "KWTX News - ABC Affiliate"
+    },
+    {
+      "account_name": "KXAN News",
+      "platform": "facebook",
+      "handle": "KXAN",
+      "url": "https://www.facebook.com/KXANNews",
+      "organization": "KXAN News - NBC Affiliate"
+    },
+    {
+      "account_name": "KXAN News",
+      "platform": "twitter",
+      "handle": "@KXAN",
+      "url": "https://twitter.com/KXAN",
+      "organization": "KXAN News - NBC Affiliate"
+    },
+    {
+      "account_name": "Texas State Bar",
+      "platform": "twitter",
+      "handle": "@TexasStateBar",
+      "url": "https://twitter.com/TexasStateBar",
+      "organization": "State Bar of Texas"
+    },
+    {
+      "account_name": "Texas Judicial Branch",
+      "platform": "twitter",
+      "handle": "@TexasCourts",
+      "url": "https://twitter.com/TexasCourts",
+      "organization": "Texas Judicial Branch"
+    },
+    {
+      "account_name": "Texas Legislature Online",
+      "platform": "twitter",
+      "handle": "@TLO_Texas",
+      "url": "https://twitter.com/TLO_Texas",
+      "organization": "Texas Legislative Online"
+    }
+  ],
+  "rss_feeds": [
+    {
+      "feed_name": "Texas Attorney General - News",
+      "url": "https://www.texasattorneygeneral.gov/news-releases/rss",
+      "organization": "Office of the Texas Attorney General"
+    },
+    {
+      "feed_name": "Killeen Daily Herald - Latest News",
+      "url": "https://www.killeendailyherald.com/rss",
+      "organization": "Killeen Daily Herald"
+    },
+    {
+      "feed_name": "KCEN 25 - Central Texas News",
+      "url": "https://www.kcen.com/feeds.html",
+      "organization": "KCEN 25 News"
+    },
+    {
+      "feed_name": "KWTX News - Latest",
+      "url": "https://www.kwtx.com/feeds",
+      "organization": "KWTX News"
+    },
+    {
+      "feed_name": "KXAN News - Texas News",
+      "url": "https://www.kxan.com/feeds",
+      "organization": "KXAN News"
+    },
+    {
+      "feed_name": "Austin American-Statesman - Texas",
+      "url": "https://www.statesman.com/feeds",
+      "organization": "Austin American-Statesman"
+    },
+    {
+      "feed_name": "Waco Tribune - News",
+      "url": "https://www.wacotrib.com/feeds",
+      "organization": "Waco Tribune"
+    },
+    {
+      "feed_name": "AP News - Texas",
+      "url": "https://apnews.com/APFeeds/Texas",
+      "organization": "Associated Press"
+    },
+    {
+      "feed_name": "Reuters - Texas Legal News",
+      "url": "https://feeds.reuters.com/reuters/legal/us",
+      "organization": "Reuters"
+    }
   ],
   "contacts": [
     {
@@ -104,19 +345,78 @@
       "email": "contact@bellcountysheriff.com",
       "phone": "(254) 933-5000",
       "organization": "Bell County Sheriff's Office"
+    },
+    {
+      "name": "Legal Aid of Central Texas",
+      "email": "info@legalaidtx.org",
+      "phone": "(254) 753-7140",
+      "organization": "Legal Aid of Central Texas"
+    },
+    {
+      "name": "Central Texas Paralegal Association",
+      "email": "info@ctpa.org",
+      "organization": "Central Texas Paralegal Association"
+    },
+    {
+      "name": "Justia (Legal Directory)",
+      "email": "support@justia.com",
+      "organization": "Justia - Online Legal Services"
+    },
+    {
+      "name": "Texas RioGrande Legal Aid",
+      "email": "info@trlegal.org",
+      "phone": "(888) 529-5277",
+      "organization": "Texas RioGrande Legal Aid (Regional)"
+    }
+  ],
+  "legal_databases": [
+    {
+      "name": "Justia",
+      "url": "https://www.justia.com",
+      "description": "Free legal information and directory of lawyers"
+    },
+    {
+      "name": "Texas Law Help",
+      "url": "https://www.texaslawhelp.org",
+      "description": "Pro bono legal information for Texas residents"
+    },
+    {
+      "name": "Law Help Texas",
+      "url": "https://www.lawhelptexas.org",
+      "description": "Legal aid and self-help information for Texas"
+    },
+    {
+      "name": "State Bar of Texas - Lawyer Referral",
+      "url": "https://www.sbot.texas.gov",
+      "description": "Official Texas lawyer directory and referral service"
+    },
+    {
+      "name": "Bell County Courts",
+      "url": "https://www.bellcountycourts.org",
+      "description": "Bell County judicial records and court information"
     }
   ],
   "metadata": {
-    "version": "1.0",
+    "version": "2.0",
     "last_updated": "2026-02-12",
-    "description": "Official allow list of reputable news sources, government agencies, judicial and legal organizations in Bell County, Texas and State of Texas. Used as Test Oracle for content verification.",
+    "description": "Official allow list of reputable news sources, government agencies, judicial and legal organizations, social media accounts, and RSS feeds in Bell County, Texas and State of Texas. Used as Test Oracle for content verification.",
     "region": "Bell County, Texas",
     "categories": [
       "Government Agencies",
       "Judicial System",
       "Law Enforcement",
       "News Media",
-      "Legal Professional Organizations"
+      "Legal Professional Organizations",
+      "Social Media Official Accounts",
+      "RSS News Feeds",
+      "Legal Databases"
+    ],
+    "social_media_platforms": [
+      "Twitter/X",
+      "Facebook",
+      "Instagram",
+      "LinkedIn",
+      "Bluesky"
     ]
   }
 }
