@@ -1,12 +1,122 @@
 {
   "domains": [
-    "legalluminary.com",
-    "www.legalluminary.com"
+    "texasattorneygeneral.gov",
+    "www.texasattorneygeneral.gov",
+    "capitol.texas.gov",
+    "www.capitol.texas.gov",
+    "commissioners.bellcountytx.gov",
+    "www.commissioners.bellcountytx.gov",
+    "bellcountytx.gov",
+    "www.bellcountytx.gov",
+    "cityofkilleen.com",
+    "www.cityofkilleen.com",
+    "killeenpd.org",
+    "www.killeenpd.org",
+    "killeendailyherald.com",
+    "www.killeendailyherald.com",
+    "kcen.com",
+    "www.kcen.com",
+    "kwtx.com",
+    "www.kwtx.com",
+    "kxan.com",
+    "www.kxan.com",
+    "texasbar.com",
+    "www.texasbar.com",
+    "forthood.org",
+    "www.forthood.org",
+    "courts.state.tx.us",
+    "www.courts.state.tx.us",
+    "bellcountyda.com",
+    "www.bellcountyda.com"
   ],
   "contacts": [
     {
-      "name": "Legal Luminary",
-      "email": "contact@legalluminary.com"
+      "name": "Texas Attorney General",
+      "email": "public.information@oag.texas.gov",
+      "phone": "(512) 463-2100",
+      "organization": "Office of the Texas Attorney General"
+    },
+    {
+      "name": "Bell County District Attorney",
+      "email": "webmaster@bellcountyda.com",
+      "organization": "Bell County District Attorney's Office"
+    },
+    {
+      "name": "Bell County Commissioners Court",
+      "email": "commissioners@bellcountytx.gov",
+      "phone": "(254) 933-5000",
+      "organization": "Bell County Commissioners Court"
+    },
+    {
+      "name": "City of Killeen",
+      "email": "cityofkilleen@cityofkilleen.com",
+      "phone": "(254) 501-7800",
+      "organization": "City of Killeen Municipal Government"
+    },
+    {
+      "name": "Killeen Police Department",
+      "email": "publicaffairs@killeenpd.org",
+      "phone": "(254) 501-8830",
+      "organization": "Killeen Police Department"
+    },
+    {
+      "name": "Killeen Daily Herald",
+      "email": "newsroom@kdh.net",
+      "phone": "(254) 501-7480",
+      "organization": "Killeen Daily Herald (Local News)"
+    },
+    {
+      "name": "KCEN 25 (NBC Central Texas)",
+      "email": "news@kcen.com",
+      "phone": "(254) 776-1425",
+      "organization": "KCEN 25 News - NBC Affiliate"
+    },
+    {
+      "name": "KWTX News",
+      "email": "news@kwtx.com",
+      "phone": "(254) 776-5555",
+      "organization": "KWTX News - ABC Affiliate"
+    },
+    {
+      "name": "KXAN News",
+      "email": "news@kxan.com",
+      "organization": "KXAN News - NBC Affiliate"
+    },
+    {
+      "name": "State Bar of Texas",
+      "email": "publicrelations@texasbar.com",
+      "phone": "(512) 427-1463",
+      "organization": "State Bar of Texas"
+    },
+    {
+      "name": "Texas Judicial Branch",
+      "email": "contact@courts.state.tx.us",
+      "organization": "Texas Court System (Courts of Appeals & Supreme Court)"
+    },
+    {
+      "name": "Fort Hood Public Affairs",
+      "email": "publicaffairs@forthood.org",
+      "phone": "(254) 288-1110",
+      "organization": "Fort Hood (U.S. Army Installation)"
+    },
+    {
+      "name": "Bell County Sheriff's Office",
+      "email": "contact@bellcountysheriff.com",
+      "phone": "(254) 933-5000",
+      "organization": "Bell County Sheriff's Office"
     }
-  ]
+  ],
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-02-12",
+    "description": "Official allow list of reputable news sources, government agencies, judicial and legal organizations in Bell County, Texas and State of Texas. Used as Test Oracle for content verification.",
+    "region": "Bell County, Texas",
+    "categories": [
+      "Government Agencies",
+      "Judicial System",
+      "Law Enforcement",
+      "News Media",
+      "Legal Professional Organizations"
+    ]
+  }
 }
