@@ -1,0 +1,20 @@
+{
+  "dataset_name": "langsmith_langgraph_pipeline",
+  "description": "Nodes and edges representing the deterministic validation pipeline",
+  "nodes": [
+    {"id": "n_extract", "type": "snapshot", "label": "Extract Content"},
+    {"id": "n_verify", "type": "verification", "label": "Evidence Verification (Router)"},
+    {"id": "n_generate", "type": "generation", "label": "Content Generation"},
+    {"id": "n_eval", "type": "evaluation", "label": "Evaluator (LLM)"},
+    {"id": "n_publish", "type": "action", "label": "Publish/Stage"},
+    {"id": "n_reject", "type": "action", "label": "Reject/Flag"}
+  ],
+  "edges": [
+    {"from": "n_extract", "to": "n_verify", "label": "provides"},
+    {"from": "n_verify", "to": "n_generate", "label": "verified"},
+    {"from": "n_verify", "to": "n_reject", "label": "invalid"},
+    {"from": "n_generate", "to": "n_eval", "label": "drafts"},
+    {"from": "n_eval", "to": "n_publish", "label": "accepted"},
+    {"from": "n_eval", "to": "n_reject", "label": "rejected"}
+  ]
+}

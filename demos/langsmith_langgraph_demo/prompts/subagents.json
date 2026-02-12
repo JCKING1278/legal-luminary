@@ -1,0 +1,7 @@
+{
+  "extractor_prompt": "Extract the main textual content, metadata (title, h1), and contact clues (emails, phone numbers) from the provided HTML. Return a JSON object with keys: title, text, contacts.",
+  "verifier_prompt": "Given a domain and contact list, check whether the domain and at least one contact appear in the Official Allow List. Return {\"allowed\": true|false, \"matches\": [...]}.",
+  "generator_prompt": "Using the verified snapshot JSON, generate a markdown draft following repository front-matter requirements. Include a short provenance block with source URL and snapshot hash.",
+  "evaluator_prompt": "Evaluate the generated markdown for: cohesion (0-1), relevance (0-1), and toxicity (0-1). Return JSON {\"cohesion\":x, \"relevance\":y, \"toxicity\":z, \"summary\":\"...\"}.",
+  "iterative_instructions": "If the evaluator returns toxicity above threshold or relevance below threshold, return to Content Generation with specific corrective instructions. Loop until adequacy criteria are met or a fixed iteration limit is reached. Log each attempt as a separate evidence object."
+}
