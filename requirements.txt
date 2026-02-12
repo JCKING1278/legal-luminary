@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langsmith
+langchain-community
+ruff
+pytest
+pyyaml
+httpx
+langchain-core
+langgraph
+beautifulsoup4

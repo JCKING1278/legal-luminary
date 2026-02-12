@@ -1,0 +1,5 @@
+requests
+python-dotenv
+# Optional SDKs (install if available)
+langsmith
+langgraph
