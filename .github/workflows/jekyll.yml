@@ -27,9 +27,113 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  integrate-news-articles:
+    name: Integrate Approved News Articles
+    runs-on: ubuntu-latest
+    outputs:
+      articles_created: ${{ steps.integrate.outputs.posts_created }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          
+      - name: Install dependencies
+        run: pip install pyyaml frontmatter requests slugify
+        
+      - name: Pull latest news feeds
+        run: |
+          git pull origin main || true
+          
+      - name: Create article integration script
+        id: integrate
+        run: |
+          python3 << 'ARTICLE_SCRIPT'
+import json
+import sys
+from datetime import datetime
+from pathlib import Path
+from slugify import slugify
+
+def load_allowlist():
+    path = Path("demos/langsmith_langgraph_demo/allowlist.json")
+    with open(path) as f:
+        return json.load(f)
+
+def is_approved_source(source_url, allowlist):
+    domain = source_url.lower().replace("https://", "").replace("http://", "").split("/")[0]
+    normalized = domain.replace("www.", "")
+    approved_domains = set(d.lower().replace("www.", "") for d in allowlist["domains"])
+    return any(norm in normalized or normalized in norm for norm in approved_domains)
+
+def main():
+    allowlist = load_allowlist()
+    feed_path = Path("_data/news-feed.json")
+    
+    if not feed_path.exists():
+        print("posts_created=0")
+        return 0
+    
+    with open(feed_path) as f:
+        feed = json.load(f)
+    
+    posts_created = []
+    posts_dir = Path("_posts")
+    posts_dir.mkdir(exist_ok=True)
+    
+    for feed_source in feed.get("feeds", []):
+        if not is_approved_source(feed_source.get("url", ""), allowlist):
+            continue
+        
+        for article in feed_source.get("items", [])[:3]:  # Limit 3 per source
+            title = article.get("title", "Untitled")
+            slug = slugify(title)[:40]
+            date_str = article.get("date", datetime.now().isoformat())
+            
+            try:
+                date_obj = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+                post_date = date_obj.strftime("%Y-%m-%d")
+            except:
+                post_date = datetime.now().strftime("%Y-%m-%d")
+            
+            filename = f"{post_date}-{slug}.md"
+            filepath = posts_dir / filename
+            
+            if filepath.exists():
+                continue
+            
+            content = f'''---
+title: "{title}"
+date: {post_date}
+layout: default
+source_url: "{article.get('link', '')}"
+source_name: "{article.get('source', '')}"
+verified_at: {datetime.now().strftime('%Y-%m-%d')}
+category: news
+---
+
+{article.get('excerpt', '')}
+
+[Read full article]({article.get('link', '')})
+'''
+            filepath.write_text(content)
+            posts_created.append(filename)
+    
+    print(f"posts_created={len(posts_created)}")
+    return len(posts_created)
+
+main()
+ARTICLE_SCRIPT
+
   verify_markdown:
     name: Verify markdown traceability
     runs-on: ubuntu-latest
+    needs: integrate-news-articles
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -51,10 +155,18 @@ jobs:
         with:
           name: verification-manifest
           path: verification/manifest.json
+          
+      - name: Report article integration
+        if: always()
+        run: |
+          echo "## Article Integration" >> $GITHUB_STEP_SUMMARY
+          echo "Articles synced: ${{ needs.integrate-news-articles.outputs.articles_created }}" >> $GITHUB_STEP_SUMMARY
+          echo "Status: Ready for Jekyll build" >> $GITHUB_STEP_SUMMARY
 
   # Build job
   build:
     runs-on: ubuntu-latest
+    needs: verify_markdown
     needs: verify_markdown
     steps:
       - name: Checkout

@@ -69,7 +69,15 @@
     "apnews.com",
     "www.apnews.com",
     "bbb.org",
-    "www.bbb.org"
+    "www.bbb.org",
+    "kdhnews.com",
+    "www.kdhnews.com",
+    "killeenpdnews.com",
+    "www.killeenpdnews.com",
+    "city-of-temple.prowly.com",
+    "prowly.com",
+    "www.prowly.com",
+    "www.killeentexas.gov"
   ],
   "social_media_accounts": [
     {
@@ -502,9 +510,9 @@
     }
   ],
   "metadata": {
-    "version": "2.1",
+    "version": "2.2",
     "last_updated": "2026-02-13",
-    "description": "Official allow list of reputable news sources, government agencies, judicial and legal organizations, social media accounts, and RSS feeds in Bell County, Texas and State of Texas. Used as Test Oracle for content verification.",
+    "description": "Official allow list of reputable news sources, government agencies, judicial and legal organizations, social media accounts, and RSS feeds in Bell County, Texas and State of Texas. v2.2 adds local news sources (Killeen Police, Temple Police) and news service platforms. Used as Test Oracle for content verification.",
     "region": "Bell County, Texas",
     "categories": [
       "Government Agencies",

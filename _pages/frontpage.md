@@ -88,6 +88,19 @@ Our mission is to help residents of Killeen, Temple, Belton, Harker Heights, Cop
 <li><strong>Personal Injury Basics</strong> — Rights when individuals have been injured</li>
 </ul>
 
+## Recent Articles
+
+<div class="articles-list">
+{% for post in site.posts limit:6 %}
+<div class="article-item">
+<h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+<p class="article-date">{{ post.date | date: "%B %d, %Y" }}</p>
+<p class="article-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+<a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
+</div>
+{% endfor %}
+</div>
+
 <div class="legal-notice">
 <strong>Important Notice:</strong> The information provided on this website is for general educational purposes only and does not constitute legal advice. No attorney-client relationship is formed by use of this site. Every legal situation is unique. For advice specific to their circumstances, individuals should consult with a licensed Texas attorney. The attorneys advertised on this site are independent practitioners licensed in Texas and are solely responsible for their own services. Prior results do not guarantee a similar outcome.
 </div>

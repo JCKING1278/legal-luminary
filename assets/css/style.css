@@ -556,6 +556,69 @@ ul.check-list li::before { content: "✓"; position: absolute; left: 0; color: v
 }
 .card h3 { font-size: 1.125rem; }
 
+/* Articles List */
+.articles-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.article-item {
+  background: var(--white);
+  border: 1px solid var(--gray-light);
+  border-radius: 4px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.article-item:hover {
+  shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.article-item h4 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.125rem;
+  line-height: 1.4;
+}
+
+.article-item h4 a {
+  color: var(--navy);
+  text-decoration: none;
+}
+
+.article-item h4 a:hover {
+  color: var(--gold-dark);
+}
+
+.article-date {
+  color: var(--gray);
+  font-size: 0.875rem;
+  margin: 0.5rem 0 0.75rem 0;
+}
+
+.article-excerpt {
+  color: var(--text);
+  font-size: 0.95rem;
+  margin: 0.75rem 0;
+  line-height: 1.6;
+}
+
+.read-more {
+  display: inline-block;
+  color: var(--gold-dark);
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: 0.75rem;
+  transition: color 0.2s ease;
+}
+
+.read-more:hover {
+  color: var(--gold);
+}
+
 /* Footer */
 .site-footer { background: var(--navy-dark); color: var(--white); padding: 2.5rem 0 1.25rem; margin-top: 2.5rem; }
 

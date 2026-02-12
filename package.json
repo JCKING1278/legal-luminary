@@ -8,11 +8,18 @@
     "test:e2e:headed": "npx playwright test --headed",
     "test:broken-links": "npx playwright test tests/broken-links.spec.ts",
     "test:broken-links:server": "start-server-and-test jekyll:serve http://127.0.0.1:4000 test:broken-links",
+    "test:articles": "npx playwright test test_cases/article-integration.spec.ts",
+    "test:articles:ui": "npx playwright test test_cases/article-integration.spec.ts --ui",
+    "test:articles:headed": "npx playwright test test_cases/article-integration.spec.ts --headed",
+    "integrate:articles": "bundle exec ruby scripts/integrate_approved_posts.rb",
+    "integrate:verify": "npm run integrate:articles && npm run jekyll:build",
     "jekyll:serve": "bundle exec jekyll serve --livereload --host 127.0.0.1 --port 4000 --baseurl '' --incremental",
     "jekyll:build": "bundle exec jekyll build",
     "e2e": "npm run jekyll:build && start-server-and-test jekyll:serve http://127.0.0.1:4000 test:e2e",
+    "e2e:articles": "npm run jekyll:build && start-server-and-test jekyll:serve http://127.0.0.1:4000 test:articles",
     "verify:build": "bundle exec jekyll build",
-    "verify:test": "npm run e2e"
+    "verify:test": "npm run e2e",
+    "verify:integration": "npm run integrate:articles && npm run jekyll:build && start-server-and-test jekyll:serve http://127.0.0.1:4000 test:articles"
   },
   "devDependencies": {
     "@playwright/test": "^1.50.0",
