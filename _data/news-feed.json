@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T18:49:08-06:00",
+  "last_updated": "2026-02-12T06:30:28+00:00",
   "feeds": [
     {
       "source": "City of Killeen",
@@ -12,6 +12,125 @@
       "url": "https://kdhnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory",
       "items": [],
       "item_count": 0
+    },
+    {
+      "source": "Killeen Police Department",
+      "url": "https://killeenpdnews.com/feed/",
+      "items": [
+        {
+          "title": "Killeen Police Identify and Arrest Murder Suspect",
+          "link": "https://killeenpdnews.com/2026/02/11/killeen-police-identify-and-arrest-murder-suspect-3/",
+          "date": "2026-02-12T06:30:19+00:00",
+          "excerpt": "Killeen, TX (February 11, 2026) UPDATE: Detectives with the Robbery-Homicide Unit have identified a suspect in the murder of Brandon Richards.&#160;On Wednesday, February 11, 2026, detectives presente...",
+          "source": "Killeen Police Department"
+        },
+        {
+          "title": "Killeen Police Investigating the Murder of a 22-Year-Old Male",
+          "link": "https://killeenpdnews.com/2026/02/10/killeen-police-investigating-the-murder-of-a-22-year-old-male/",
+          "date": "2026-02-12T06:30:19+00:00",
+          "excerpt": "Killeen, TX (February 9, 2026): The Killeen Police Department is actively investigating a shooting that resulted in the death of a 22-year-old male. On Monday, February 9, 2026, at approximately 7:42 ...",
+          "source": "Killeen Police Department"
+        },
+        {
+          "title": "Killeen Police Investigating the Murder of a 35-Year-Old Male",
+          "link": "https://killeenpdnews.com/2026/02/01/killeen-police-investigating-the-murder-of-a-35-year-old-male/",
+          "date": "2026-02-12T06:30:19+00:00",
+          "excerpt": "Killeen, TX (February 1, 2026): The Killeen Police Department is actively investigating a shooting that resulted in the death of James Marquis Simmons. On Sunday, February 1, 2026, at approximately 3:...",
+          "source": "Killeen Police Department"
+        },
+        {
+          "title": "Killeen Police Investigating Multi-Vehicle Crash on Interstate 14",
+          "link": "https://killeenpdnews.com/2026/01/31/killeen-police-investigating-multi-vehicle-crash-on-interstate-14/",
+          "date": "2026-02-12T06:30:19+00:00",
+          "excerpt": "Killeen, TX (January 31, 2026): Killeen Police are investigating a multi-vehicle crash on I-14 resulting in multiple injuries. On Saturday, January 31, 2026, at approximately 2:26 a.m., officers respo...",
+          "source": "Killeen Police Department"
+        },
+        {
+          "title": "Killeen Police Investigate a Single-Vehicle Fatality on Roy Reynolds",
+          "link": "https://killeenpdnews.com/2026/01/28/killeen-police-investigate-a-single-vehicle-fatality-on-roy-reynolds/",
+          "date": "2026-02-12T06:30:19+00:00",
+          "excerpt": "Killeen, TX (January 28, 2026): Investigators with the Killeen Police Department Traffic Unit are investigating a fatal single-vehicle crash on Roy Reynolds Drive. On Wednesday, January 28, 2026, at a...",
+          "source": "Killeen Police Department"
+        },
+        {
+          "title": "Killeen Police Conduct a Death Investigation on Rancier Avenue",
+          "link": "https://killeenpdnews.com/2026/01/26/killeen-police-conduct-a-death-investigation-on-rancier-avenue/",
+          "date": "2026-02-12T06:30:19+00:00",
+          "excerpt": "Killeen, TX (January 26, 2026): Officers with the Killeen Police Department responded to the 200 block of W. Rancier Avenue at approximately 5:11 a.m. in reference to the unknown status of a person. U...",
+          "source": "Killeen Police Department"
+        },
+        {
+          "title": "Killeen Police Identify Deceased Male from Fatal Shooting",
+          "link": "https://killeenpdnews.com/2026/01/22/killeen-police-identify-deceased-male-from-fatal-shooting/",
+          "date": "2026-02-12T06:30:19+00:00",
+          "excerpt": "Killeen, TX (January 22, 2026): UPDATE – Detectives with the Killeen Police Department Criminal Investigation Division have identified the deceased male involved in a fatal shooting that occurred in t...",
+          "source": "Killeen Police Department"
+        },
+        {
+          "title": "Killeen Police Investigate Fatal Shooting on Illinois Avenue",
+          "link": "https://killeenpdnews.com/2026/01/18/killeen-police-investigate-fatal-shooting-on-illinois-avenue/",
+          "date": "2026-02-12T06:30:19+00:00",
+          "excerpt": "Killeen, TX (January 18, 2026): The Killeen Police Department is investigating a shooting that resulted in the death of a 58-year-old male. On Sunday, January 18, 2026, at approximately 1:34 p.m., off...",
+          "source": "Killeen Police Department"
+        },
+        {
+          "title": "Killeen Police Charge Second Suspect in Fatal Monte Carlo Shooting",
+          "link": "https://killeenpdnews.com/2026/01/15/killeen-police-charge-second-suspect-in-fatal-monte-carlo-shooting/",
+          "date": "2026-02-12T06:30:19+00:00",
+          "excerpt": "Killeen, TX (January 15, 2026): UPDATE – Detectives with the Killeen Police Department Robbery-Homicide Unit have identified a second suspect in the murder of 22-year-old Tai’Lynn Akaya Wright. Follow...",
+          "source": "Killeen Police Department"
+        },
+        {
+          "title": "Killeen Police Investigate a Fatality Crash on Stan Schlueter Loop",
+          "link": "https://killeenpdnews.com/2026/01/10/killeen-police-investigate-a-fatality-crash-on-stan-schlueter-loop/",
+          "date": "2026-02-12T06:30:19+00:00",
+          "excerpt": "Killeen, TX (January 10, 2026): Killeen Police are actively investigating the death of a 34-year-old male from a vehicle collision. On Saturday, January 10, 2026, at approximately 8:58 a.m., officers ...",
+          "source": "Killeen Police Department"
+        }
+      ],
+      "item_count": 10
+    },
+    {
+      "source": "Temple Police Department",
+      "url": "https://city-of-temple.prowly.com/rss",
+      "items": [
+        {
+          "title": "​Code Compliance",
+          "link": "https://city-of-temple.prowly.com/446338-code-compliance",
+          "date": "2026-02-12T06:30:21+00:00",
+          "excerpt": "02/11/26 ​Code Compliance From inspections and patrol to education and connecting residents with resources, the City of Temple’s Code Compliance team works every day to keep our community safe, health...",
+          "source": "Temple Police Department"
+        },
+        {
+          "title": "City of Temple to Host 5th Annual Black History Month Ceremony",
+          "link": "https://city-of-temple.prowly.com/446284-city-of-temple-to-host-5th-annual-black-history-month-ceremony",
+          "date": "2026-02-12T06:30:21+00:00",
+          "excerpt": "02/11/26 City of Temple to Host 5th Annual Black History Month Ceremony Ceremony to be held on Wednesday, February 18 TEMPLE, TX (February 11, 2026) – The City of Temple is excited to invite the commu...",
+          "source": "Temple Police Department"
+        },
+        {
+          "title": "Temple Police Department investigates a traffic accident, 1 deceased",
+          "link": "https://city-of-temple.prowly.com/446336-temple-police-department-investigates-a-traffic-accident-1-deceased",
+          "date": "2026-02-12T06:30:21+00:00",
+          "excerpt": "02/10/26 Temple Police Department investigates a traffic accident, 1 deceased TEMPLE, TX (February 10, 2026) – The Temple Police Department is investigating a traffic accident that left one individual...",
+          "source": "Temple Police Department"
+        },
+        {
+          "title": "Temple Police Department investigates a traffic accident, 2 injured",
+          "link": "https://city-of-temple.prowly.com/446140-temple-police-department-investigates-a-traffic-accident-2-injured",
+          "date": "2026-02-12T06:30:21+00:00",
+          "excerpt": "02/10/26 Temple Police Department investigates a traffic accident, 2 injured TEMPLE, TX (February 10, 2026) – The Temple Police Department has been informed that the 16‑year‑old victim who sustained l...",
+          "source": "Temple Police Department"
+        },
+        {
+          "title": "Temple Police Department investigates assault on a public servant, 4 injured",
+          "link": "https://city-of-temple.prowly.com/446125-temple-police-department-investigates-assault-on-a-public-servant-4-injured",
+          "date": "2026-02-12T06:30:21+00:00",
+          "excerpt": "02/09/26 Temple Police Department investigates assault on a public servant, 4 injured TEMPLE, TX (February 9, 2026) – The Temple Police Department is investigating an assault involving two police offi...",
+          "source": "Temple Police Department"
+        }
+      ],
+      "item_count": 5
     },
     {
       "source": "Texas Legislature - Today's Bills Filed",
@@ -38,6 +157,112 @@
       "error": "Failed to fetch or parse feed"
     }
   ],
-  "all_items": [],
-  "total_items": 0
+  "all_items": [
+    {
+      "title": "Temple Police Department investigates assault on a public servant, 4 injured",
+      "link": "https://city-of-temple.prowly.com/446125-temple-police-department-investigates-assault-on-a-public-servant-4-injured",
+      "date": "2026-02-12T06:30:21+00:00",
+      "excerpt": "02/09/26 Temple Police Department investigates assault on a public servant, 4 injured TEMPLE, TX (February 9, 2026) – The Temple Police Department is investigating an assault involving two police offi...",
+      "source": "Temple Police Department"
+    },
+    {
+      "title": "Temple Police Department investigates a traffic accident, 2 injured",
+      "link": "https://city-of-temple.prowly.com/446140-temple-police-department-investigates-a-traffic-accident-2-injured",
+      "date": "2026-02-12T06:30:21+00:00",
+      "excerpt": "02/10/26 Temple Police Department investigates a traffic accident, 2 injured TEMPLE, TX (February 10, 2026) – The Temple Police Department has been informed that the 16‑year‑old victim who sustained l...",
+      "source": "Temple Police Department"
+    },
+    {
+      "title": "Temple Police Department investigates a traffic accident, 1 deceased",
+      "link": "https://city-of-temple.prowly.com/446336-temple-police-department-investigates-a-traffic-accident-1-deceased",
+      "date": "2026-02-12T06:30:21+00:00",
+      "excerpt": "02/10/26 Temple Police Department investigates a traffic accident, 1 deceased TEMPLE, TX (February 10, 2026) – The Temple Police Department is investigating a traffic accident that left one individual...",
+      "source": "Temple Police Department"
+    },
+    {
+      "title": "City of Temple to Host 5th Annual Black History Month Ceremony",
+      "link": "https://city-of-temple.prowly.com/446284-city-of-temple-to-host-5th-annual-black-history-month-ceremony",
+      "date": "2026-02-12T06:30:21+00:00",
+      "excerpt": "02/11/26 City of Temple to Host 5th Annual Black History Month Ceremony Ceremony to be held on Wednesday, February 18 TEMPLE, TX (February 11, 2026) – The City of Temple is excited to invite the commu...",
+      "source": "Temple Police Department"
+    },
+    {
+      "title": "​Code Compliance",
+      "link": "https://city-of-temple.prowly.com/446338-code-compliance",
+      "date": "2026-02-12T06:30:21+00:00",
+      "excerpt": "02/11/26 ​Code Compliance From inspections and patrol to education and connecting residents with resources, the City of Temple’s Code Compliance team works every day to keep our community safe, health...",
+      "source": "Temple Police Department"
+    },
+    {
+      "title": "Killeen Police Investigate a Fatality Crash on Stan Schlueter Loop",
+      "link": "https://killeenpdnews.com/2026/01/10/killeen-police-investigate-a-fatality-crash-on-stan-schlueter-loop/",
+      "date": "2026-02-12T06:30:19+00:00",
+      "excerpt": "Killeen, TX (January 10, 2026): Killeen Police are actively investigating the death of a 34-year-old male from a vehicle collision. On Saturday, January 10, 2026, at approximately 8:58 a.m., officers ...",
+      "source": "Killeen Police Department"
+    },
+    {
+      "title": "Killeen Police Charge Second Suspect in Fatal Monte Carlo Shooting",
+      "link": "https://killeenpdnews.com/2026/01/15/killeen-police-charge-second-suspect-in-fatal-monte-carlo-shooting/",
+      "date": "2026-02-12T06:30:19+00:00",
+      "excerpt": "Killeen, TX (January 15, 2026): UPDATE – Detectives with the Killeen Police Department Robbery-Homicide Unit have identified a second suspect in the murder of 22-year-old Tai’Lynn Akaya Wright. Follow...",
+      "source": "Killeen Police Department"
+    },
+    {
+      "title": "Killeen Police Investigate Fatal Shooting on Illinois Avenue",
+      "link": "https://killeenpdnews.com/2026/01/18/killeen-police-investigate-fatal-shooting-on-illinois-avenue/",
+      "date": "2026-02-12T06:30:19+00:00",
+      "excerpt": "Killeen, TX (January 18, 2026): The Killeen Police Department is investigating a shooting that resulted in the death of a 58-year-old male. On Sunday, January 18, 2026, at approximately 1:34 p.m., off...",
+      "source": "Killeen Police Department"
+    },
+    {
+      "title": "Killeen Police Identify Deceased Male from Fatal Shooting",
+      "link": "https://killeenpdnews.com/2026/01/22/killeen-police-identify-deceased-male-from-fatal-shooting/",
+      "date": "2026-02-12T06:30:19+00:00",
+      "excerpt": "Killeen, TX (January 22, 2026): UPDATE – Detectives with the Killeen Police Department Criminal Investigation Division have identified the deceased male involved in a fatal shooting that occurred in t...",
+      "source": "Killeen Police Department"
+    },
+    {
+      "title": "Killeen Police Conduct a Death Investigation on Rancier Avenue",
+      "link": "https://killeenpdnews.com/2026/01/26/killeen-police-conduct-a-death-investigation-on-rancier-avenue/",
+      "date": "2026-02-12T06:30:19+00:00",
+      "excerpt": "Killeen, TX (January 26, 2026): Officers with the Killeen Police Department responded to the 200 block of W. Rancier Avenue at approximately 5:11 a.m. in reference to the unknown status of a person. U...",
+      "source": "Killeen Police Department"
+    },
+    {
+      "title": "Killeen Police Investigate a Single-Vehicle Fatality on Roy Reynolds",
+      "link": "https://killeenpdnews.com/2026/01/28/killeen-police-investigate-a-single-vehicle-fatality-on-roy-reynolds/",
+      "date": "2026-02-12T06:30:19+00:00",
+      "excerpt": "Killeen, TX (January 28, 2026): Investigators with the Killeen Police Department Traffic Unit are investigating a fatal single-vehicle crash on Roy Reynolds Drive. On Wednesday, January 28, 2026, at a...",
+      "source": "Killeen Police Department"
+    },
+    {
+      "title": "Killeen Police Investigating Multi-Vehicle Crash on Interstate 14",
+      "link": "https://killeenpdnews.com/2026/01/31/killeen-police-investigating-multi-vehicle-crash-on-interstate-14/",
+      "date": "2026-02-12T06:30:19+00:00",
+      "excerpt": "Killeen, TX (January 31, 2026): Killeen Police are investigating a multi-vehicle crash on I-14 resulting in multiple injuries. On Saturday, January 31, 2026, at approximately 2:26 a.m., officers respo...",
+      "source": "Killeen Police Department"
+    },
+    {
+      "title": "Killeen Police Investigating the Murder of a 35-Year-Old Male",
+      "link": "https://killeenpdnews.com/2026/02/01/killeen-police-investigating-the-murder-of-a-35-year-old-male/",
+      "date": "2026-02-12T06:30:19+00:00",
+      "excerpt": "Killeen, TX (February 1, 2026): The Killeen Police Department is actively investigating a shooting that resulted in the death of James Marquis Simmons. On Sunday, February 1, 2026, at approximately 3:...",
+      "source": "Killeen Police Department"
+    },
+    {
+      "title": "Killeen Police Investigating the Murder of a 22-Year-Old Male",
+      "link": "https://killeenpdnews.com/2026/02/10/killeen-police-investigating-the-murder-of-a-22-year-old-male/",
+      "date": "2026-02-12T06:30:19+00:00",
+      "excerpt": "Killeen, TX (February 9, 2026): The Killeen Police Department is actively investigating a shooting that resulted in the death of a 22-year-old male. On Monday, February 9, 2026, at approximately 7:42 ...",
+      "source": "Killeen Police Department"
+    },
+    {
+      "title": "Killeen Police Identify and Arrest Murder Suspect",
+      "link": "https://killeenpdnews.com/2026/02/11/killeen-police-identify-and-arrest-murder-suspect-3/",
+      "date": "2026-02-12T06:30:19+00:00",
+      "excerpt": "Killeen, TX (February 11, 2026) UPDATE: Detectives with the Robbery-Homicide Unit have identified a suspect in the murder of Brandon Richards.&#160;On Wednesday, February 11, 2026, detectives presente...",
+      "source": "Killeen Police Department"
+    }
+  ],
+  "total_items": 15
 }
