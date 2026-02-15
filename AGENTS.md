@@ -38,6 +38,69 @@ legal-luminary-1/
 └── _site/                   # Generated site (build output, gitignored)
 ```
 
+### Agent Code (.agents/)
+
+```
+.agents/
+└── legal-luminary/           # Legal document validation agent
+    ├── config/
+    │   └── settings.py       # Configuration (API keys, trusted domains)
+    ├── validators/          # Validation modules
+    │   ├── court_doc_validator.py
+    │   ├── election_validator.py
+    │   ├── judge_validator.py
+    │   ├── law_validator.py
+    │   ├── news_validator.py
+    │   ├── official_validator.py
+    │   └── template_validator.py
+    ├── experiments/          # Experiment scripts
+    ├── tests/                # Unit tests
+    ├── pipeline.py           # Main pipeline
+    └── state.py              # State management
+```
+
+## 🤖 Using the Legal-Luminary Agent
+
+The `.agents/legal-luminary/` directory contains a legal document validation system that verifies the authenticity of legal content including court documents, laws, judges, elections, and officials.
+
+### Trusted Domains
+
+The agent maintains trusted domain lists for validation:
+- **Texas Legal Resources**: `texaslawhelp.org`, `texascourthelp.gov`, `texasbar.com`, `edtexweblog.com`
+- **Texas Courts**: `texascourthelp.gov`, `txcourts.gov`, `txcourts.net`
+- **Law Firms**: Allen & Overy, Clifford Chance, Freshfields, Linklaters, Slaughter and May
+
+### Running the Agent
+
+```bash
+# Navigate to agent directory
+cd .agents/legal-luminary
+
+# Install dependencies (if needed)
+pip install -r requirements.txt
+
+# Run tests
+python -m pytest tests/
+
+# Run pipeline (requires API keys)
+python pipeline.py
+```
+
+### Configuration
+
+API keys are configured in `.agents/legal-luminary/config/settings.py`:
+- `OPENAI_API_KEY`: OpenAI for LLM verification
+- `COURTLISTENER_API_KEY`: Court document validation
+- `CONGRESS_GOV_API_KEY`: Legislation verification
+- `FEC_API_KEY`: Election official verification
+
+### Key Features
+
+- **Court Document Validation**: Verifies real cases via CourtListener API
+- **Law Validation**: Confirms statutes exist via Congress.gov
+- **Judge Verification**: Validates judges via CourtListener
+- **Official Validation**: Checks elected officials via FEC/Congress.gov
+
 ### Key Configuration Files
 
 - **`_config.yml`**: Site configuration, navigation, plugins, service area info
