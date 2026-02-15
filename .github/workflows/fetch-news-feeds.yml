@@ -22,17 +22,19 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-          
+
+      - name: Ensure Gemfile.lock includes Linux platform
+        run: |
+          if ! grep -q 'x86_64-linux' Gemfile.lock; then
+            sed -i '/^PLATFORMS$/a\  x86_64-linux' Gemfile.lock
+          fi
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
           bundler-cache: true
-          
-      - name: Install dependencies
-        run: |
-          bundle install
-          
+
       - name: Fetch RSS feeds
         run: |
           bundle exec ruby scripts/fetch-rss-feeds.rb
