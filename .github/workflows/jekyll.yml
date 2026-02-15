@@ -33,6 +33,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Ensure Gemfile.lock includes Linux platform
+        run: |
+          if ! grep -q 'x86_64-linux' Gemfile.lock; then
+            sed -i '/^PLATFORMS$/a\  x86_64-linux' Gemfile.lock
+          fi
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
