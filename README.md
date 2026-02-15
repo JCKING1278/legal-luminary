@@ -1,5 +1,7 @@
 # Central Texas Legal Resource
 
+[![Build](https://github.com/sweeden-ttu/legal-luminary/actions/workflows/jekyll.yml/badge.svg)](https://github.com/sweeden-ttu/legal-luminary/actions/workflows/jekyll.yml)
+
 A professional [located in the geographical area you serve] legal information website for Bell County and Central Texas, built with Jekyll for GitHub Pages hosting using GitHub Actions.
 
 
