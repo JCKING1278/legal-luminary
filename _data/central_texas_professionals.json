@@ -1,0 +1,35 @@
+{
+  "notaries": [
+    {
+      "name": "Kathy Lapham",
+      "city": "The Woodlands",
+      "phone": "",
+      "expire_date": "02/07/2028",
+      "notary_id": "134751650"
+    },
+    {
+      "name": "Monika Sharma",
+      "city": "Plano",
+      "phone": "",
+      "expire_date": "07/12/2026",
+      "notary_id": "133853828"
+    },
+    {
+      "name": "E. A Heisey",
+      "city": "Bell County",
+      "phone": "(254) 238-7639",
+      "expire_date": "",
+      "notary_id": ""
+    }
+  ],
+  "tdlr_licensees": [
+    {
+      "name": "Central Texas Process Service",
+      "business_name": "Johnathan King",
+      "license_type": "Process Server",
+      "phone": "(254) 317-6688",
+      "city": "Killeen",
+      "county": "Bell"
+    }
+  ]
+}

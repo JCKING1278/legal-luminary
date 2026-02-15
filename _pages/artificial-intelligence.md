@@ -177,6 +177,194 @@ Cloud Fronts Group - Central Texas Legal Aids provides cutting-edge artificial i
 
 **Note:** Luminary Law is designed to assist legal professionals and should be used as a supplementary tool alongside traditional legal research and analysis methods.
 
+---
+
+## Legal Luminary Agent — Demonstration
+
+The **Legal Luminary** agent is a LangGraph-based validator that checks legal and governmental content against authoritative sources (court rosters, Congress.gov, Texas SOS, CourtListener, etc.). Below are example **demonstration calls** and **sample outputs** that the agent can produce. These correspond to the [Human Test Questions](https://github.com/sweeden-ttu/software-vv-asn1/blob/main/SPEC.md#9-human-test-questions-user-facing) defined in the project specification.
+
+### How to call the agent
+
+From Python (or the pipeline CLI):
+
+```python
+from pipeline import validate
+
+result = validate(
+    content_type="judge",           # or "" for auto-detect
+    query="Chief Justice John Roberts, U.S. Supreme Court",
+    raw_content=""
+)
+# result is the final PipelineState (dict) with overall_status, provenance, etc.
+```
+
+From the command line (project root):
+
+```bash
+cd legal-luminary && python pipeline.py
+# Runs built-in demo cases and prints results
+```
+
+### Example 1: Judge verification (valid)
+
+**Call:**
+
+```python
+validate(content_type="judge", query="Chief Justice John Roberts", raw_content="")
+```
+
+**Sample output:**
+
+```json
+{
+  "overall_status": "verified",
+  "overall_confidence": 0.92,
+  "detected_content_type": "judge",
+  "provenance": {
+    "source_name": "CourtListener",
+    "authoritative_source": "courtlistener.com",
+    "verification_status": "verified",
+    "confidence_score": 0.92
+  },
+  "judge_validation": {
+    "is_valid": true,
+    "confidence": 0.92,
+    "source_used": "CourtListener",
+    "details": "Judge found in court roster: John G. Roberts Jr., Supreme Court of the United States"
+  }
+}
+```
+
+### Example 2: Elected official (valid)
+
+**Call:**
+
+```python
+validate(content_type="official", query="Senator Ted Cruz, Texas", raw_content="")
+```
+
+**Sample output:**
+
+```json
+{
+  "overall_status": "verified",
+  "overall_confidence": 0.88,
+  "detected_content_type": "official",
+  "provenance": {
+    "source_name": "Congress.gov",
+    "authoritative_source": "congress.gov",
+    "verification_status": "verified"
+  },
+  "official_validation": {
+    "is_valid": true,
+    "confidence": 0.88,
+    "source_used": "Congress.gov",
+    "details": "Member found: Ted Cruz (R-TX), U.S. Senate"
+  }
+}
+```
+
+### Example 3: Court case citation (valid)
+
+**Call:**
+
+```python
+validate(content_type="court_document", query="Brown v. Board of Education, 347 U.S. 483 (1954)", raw_content="")
+```
+
+**Sample output:**
+
+```json
+{
+  "overall_status": "verified",
+  "overall_confidence": 0.95,
+  "detected_content_type": "court_document",
+  "provenance": {
+    "source_name": "CourtListener",
+    "authoritative_source": "courtlistener.com",
+    "verification_status": "verified"
+  },
+  "court_doc_validation": {
+    "is_valid": true,
+    "confidence": 0.95,
+    "source_used": "CourtListener",
+    "details": "Case found: Brown v. Board of Education, 347 U.S. 483 (1954)"
+  }
+}
+```
+
+### Example 4: Notary lookup — negative test (must fail)
+
+A name that is **not** in the Texas Secretary of State Notary Public database should return unverified/failed.
+
+**Call:**
+
+```python
+validate(content_type="notary_public", query="Example Name Not In Database", raw_content="")
+```
+
+**Sample output:**
+
+```json
+{
+  "overall_status": "escalated",
+  "overall_confidence": 0.0,
+  "detected_content_type": "notary_public",
+  "provenance": {
+    "source_name": "Texas Open Data Portal",
+    "authoritative_source": "data.texas.gov",
+    "verification_status": "unverified"
+  },
+  "notary_validation": {
+    "is_valid": false,
+    "confidence": 0.0,
+    "source_used": "Texas Notary Public Commissions (data.texas.gov)",
+    "details": "No Texas notaries found for: Example Name Not In Database"
+  }
+}
+```
+
+### Example 5: Fabricated judge (invalid)
+
+**Call:**
+
+```python
+validate(content_type="judge", query="Judge Marcus Thornberry, Supreme Court", raw_content="")
+```
+
+**Sample output:**
+
+```json
+{
+  "overall_status": "escalated",
+  "overall_confidence": 0.12,
+  "detected_content_type": "judge",
+  "judge_validation": {
+    "is_valid": false,
+    "confidence": 0.12,
+    "source_used": "CourtListener",
+    "details": "Not found in court roster"
+  }
+}
+```
+
+### Content types supported
+
+| Content type       | Example query | Authoritative source(s)        |
+|--------------------|---------------|-------------------------------|
+| `news_source`      | URL to article or domain | Allow list, NewsGuard        |
+| `judge`            | Judge name + court        | CourtListener, uscourts.gov  |
+| `official`         | Elected official name    | Congress.gov, FEC            |
+| `election`         | Election or candidate     | FEC, state election boards    |
+| `law`              | Statute citation          | statutes.capitol.texas.gov, Congress |
+| `court_document`    | Case citation or docket  | CourtListener, PACER        |
+| `legal_template`   | Form name or ID           | USCourt.gov, txcourts.gov    |
+| `notary_public`    | Notary name or location   | Texas SOS, data.texas.gov   |
+
+For full specification and test oracle details, see the [Legal Luminary SPEC](https://github.com/sweeden-ttu/software-vv-asn1/blob/main/SPEC.md) and [RUBRIC](https://github.com/sweeden-ttu/software-vv-asn1/blob/main/RUBRIC.md) in the project repository.
+
+---
+
 ## Integration Capabilities
 
 ### Platform Integrations

@@ -20,17 +20,28 @@ sidebar_ads_content: |
   </div>
 
   <div class="ad-card">
-    <div class="ad-specialty">Notary Public</div>
-    <h4>Scott Weeden, Notary Public</h4>
-    <p>Licensed notary public services. Document notarization, affidavits, and official certifications. Mobile service available.</p>
+    <div class="ad-specialty">Notaries & Licensed Professionals</div>
+    <h4>Central Texas — Texas Open Data</h4>
+    <p>Notaries and TDLR-licensed professionals in Central Texas. Data from <a href="https://data.texas.gov" target="_blank" rel="noopener noreferrer">data.texas.gov</a> (Notary Public Commissions, TDLR All Licenses).</p>
+    {% assign pros = site.data.central_texas_professionals %}
+    {% if pros.notaries.size > 0 %}
     <div class="ad-contact">
-      <div class="ad-phone">
-        <a href="mailto:notary@legalluminary.com">📞 notary@legalluminary.com</a>
-      </div>
-      <div>📱 <a href="https://facebook.com/scotdwg81" target="_blank" rel="noopener noreferrer">Facebook</a> | <a href="https://instagram.com/scotdwg81" target="_blank" rel="noopener noreferrer">Instagram</a></div>
+      <strong>Sample notaries:</strong>
+      {% for n in pros.notaries limit:2 %}
+      <div>{{ n.name }}{% if n.city %} — {{ n.city }}{% endif %}{% if n.phone %} · <a href="tel:{{ n.phone | replace: ' ', '' }}">{{ n.phone }}</a>{% endif %}</div>
+      {% endfor %}
     </div>
-    <a href="tel:+12543176688" class="ad-cta">Get in Touch</a>
-    <p class="ad-disclaimer">Licensed Notary Public in Texas, Bell County</p>
+    {% endif %}
+    {% if pros.tdlr_licensees.size > 0 %}
+    <div class="ad-contact">
+      <strong>Sample licensed professionals:</strong>
+      {% for t in pros.tdlr_licensees limit:2 %}
+      <div>{{ t.name }}{% if t.license_type %} ({{ t.license_type }}){% endif %}{% if t.phone %} · <a href="tel:{{ t.phone | replace: ' ', '' }}">{{ t.phone }}</a>{% endif %}</div>
+      {% endfor %}
+    </div>
+    {% endif %}
+    <a href="https://data.texas.gov/dataset/Texas-Notary-Public-Commissions/gmd3-bnrd" target="_blank" rel="noopener noreferrer" class="ad-cta">Look up notaries & TDLR licenses</a>
+    <p class="ad-disclaimer">Verify any licensee at data.texas.gov or tdlr.texas.gov</p>
   </div>
 
   <div class="ad-card">
