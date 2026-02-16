@@ -1,0 +1,76 @@
+# Legal Luminary Validation Pipeline Metadata
+# Integrated from agent specs (unvague_spec_agent, agent_builder)
+# Used by Jekyll for pipeline status display and documentation
+
+version: "1.0"
+last_updated: "2026-02-16"
+source: "langsmith/langsmith/unvague_specs_output.md"
+
+agents:
+  - name: database-designer
+    order: 1
+    description: State schema, manifest, allow-list schemas
+    outputs:
+      - state.py
+      - verification/manifest.json
+      - verification/allowlist.yml
+    spec_count: 8
+    test_case_count: 5
+
+  - name: document-doctor
+    order: 2
+    description: Extractor and Evidence Verifier
+    outputs:
+      - extractor
+      - evidence_verify node
+    spec_count: 8
+    test_case_count: 6
+
+  - name: validator
+    order: 3
+    description: Seven validators (news, judge, official, election, law, court_doc, template)
+    outputs:
+      - validators/*.py
+    spec_count: 10
+    test_case_count: 8
+
+  - name: orchestrator
+    order: 4
+    description: LangGraph routing, conditional edges, retry/escalation
+    outputs:
+      - pipeline.py
+    spec_count: 8
+    test_case_count: 7
+
+  - name: integrator
+    order: 5
+    description: Markdown output, front matter, manifest update
+    outputs:
+      - _pages/
+      - _posts/
+    spec_count: 9
+    test_case_count: 6
+
+  - name: legal-luminary
+    order: 6
+    description: Full pipeline, Texas crawler, experiments 1-6
+    outputs:
+      - pipeline
+      - experiments/
+      - CI workflow
+    spec_count: 10
+    test_case_count: 7
+
+validation_thresholds:
+  confidence_verified: 0.7
+  readiness_publish: 0.95
+  max_retries: 3
+
+content_types:
+  - news
+  - judge
+  - official
+  - election
+  - law
+  - court_doc
+  - template

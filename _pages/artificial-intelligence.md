@@ -13,6 +13,20 @@ verified_at: 2026-02-11
 Cloud Fronts Group - Central Texas Legal Aids provides cutting-edge artificial intelligence integrations designed to enhance legal services, improve efficiency, and better serve clients throughout Central Texas. These AI-powered solutions help legal professionals streamline workflows, automate routine tasks, and deliver more effective representation.
 </p>
 
+## Legal Luminary Validation Pipeline
+
+The Legal Luminary platform uses a six-stage validation pipeline to ensure content accuracy and traceability:
+
+{% assign pipeline = site.data.pipeline %}
+{% if pipeline and pipeline.agents %}
+<ul>
+  {% for agent in pipeline.agents %}
+  <li><strong>{{ agent.name }}</strong> ({{ agent.order }}/6): {{ agent.description }} — {{ agent.spec_count }} specs, {{ agent.test_case_count }} test cases</li>
+  {% endfor %}
+</ul>
+<p>Thresholds: confidence ≥ {{ pipeline.validation_thresholds.confidence_verified }} for VERIFIED; readiness ≥ {{ pipeline.validation_thresholds.readiness_publish }} to publish; max {{ pipeline.validation_thresholds.max_retries }} retries.</p>
+{% endif %}
+
 ## AI Integration Services
 
 ### Document Automation & Management

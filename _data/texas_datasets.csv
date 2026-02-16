@@ -1,0 +1,231 @@
+id,name,description,category,tags,viewCount,downloadCount,displayType,url
+wv2p-kpcm,"CCI 4.5 Abuse/Neglect Investigations - Alleged and Confirmed Victims By County FY2016-FY2025","This chart counts victims in completed day care (DCI) and residential care investigations (RCI). Completed investigations only include those cases conducted as a traditional investigation that were not administratively closed or merged into another stage.  An investigation can only be administratively closed if all allegations have a disposition of administrative closure. A completed investigation can include more than one alleged victim.  Completed investigations do not include any Alternative ",See Category Tile,"dfps; cps; cci; dci; rcci; victims; abuse neglect investigations; oidb; databook; data book; child protective investigations",23,1,table,https://data.texas.gov/dataset/wv2p-kpcm
+a743-wj72,"Official - VSR Data for Cooperative & Tele Contracts FY2026","Official dataset for Vendor Sales Reporting for Cooperative and Telecom contracts for the 2026 fiscal year.",,"",141,21,table,https://data.texas.gov/dataset/a743-wj72
+6sgn-vce6,"School Nutrition Programs - Procurement Review with Findings- Program Year 2024 - 2025","About the Dataset
+
+This dataset contains:
+A list of School Food Authorities (SFAs) that had findings as a result of their most recent Procurement Review with TDA, including:
+List of findings
+
+Type of Findings
+
+Corresponding administrative review question
+
+This report can be found on SquareMeals Compliance for NSLP for the current program year and will be posted to ODP within three months after the end of the program year.",,"",24,4,table,https://data.texas.gov/dataset/6sgn-vce6
+tbs7-dnx4,"School Nutrition Programs - Detailed Administrative Review with Findings- Program Year 2024 - 2025","This dataset contains:
+A list of School Food Authorities (SFAs) that had findings as a result of their most recent Administrative Review with TDA, including:
+List of findings
+
+Type of Findings
+
+Corresponding administrative review question
+
+This report can be found on SquareMeals Compliance for NSLP for the current program year and will be posted to ODP within three months after the end of the program year.",,"",36,6,table,https://data.texas.gov/dataset/tbs7-dnx4
+h3fk-yxsr,"School Nutrition Programs - Administrative Review Summary - Program Year 2024 - 2025","About the Dataset
+
+This dataset contains:
+A list of School Food Authorities (SFAs) that have recently undergone Administrative Reviews with TDA, including:
+Types of school nutrition program operated
+
+Special provision programs utilized
+
+Whether or not there were Findings
+
+This report can be found on SquareMeals Compliance for NSLP for the current program year and will be posted to ODP within three months after the end of the program year.",,"",26,7,table,https://data.texas.gov/dataset/h3fk-yxsr
+kdjf-3cvx,"UIC Step Rate Test Results","Inventory of all step-rate test (SRT) reports received by UIC.",,"uic",80,90,table,https://data.texas.gov/dataset/kdjf-3cvx
+3d85-imbc,"UIC Bottom Hole Pressure Test Rate","Inventory of all bottom-hole pressure (BHP) reports received by UIC",,"uic",118,76,table,https://data.texas.gov/dataset/3d85-imbc
+nvc8-hrkf,"Well Bottom Location","It contains all the well bottom spots on the RRC GIS map.",,"uic",59,89,table,https://data.texas.gov/dataset/nvc8-hrkf
+t9ai-tqhm,"UIC well location","Inventory of all UIC #s for injection wells under RRC jurisdiction; contains permit parameters, latitude and longitude well coordinates.",,"uic",73,130,table,https://data.texas.gov/dataset/t9ai-tqhm
+kazt-kxmn,"Wellbore Plugging","Wellbore plugging information as reported on RRC Form W-3; one row per API # per plug.",,"uic",60,101,table,https://data.texas.gov/dataset/kazt-kxmn
+8nns-qz94,"Wellbore Casing","Wellbore casing information as reported on RRC Form G-1/W-2; one row per API # per casing string.",,"uic",63,140,table,https://data.texas.gov/dataset/8nns-qz94
+6hcg-dq5n,"UIC H10 Injection Monitoring","Monthly injection volume and pressure data as reported on RRC Form H-10; one row per UIC # per month",,"uic",64,88,table,https://data.texas.gov/dataset/6hcg-dq5n
+q4fw-9sy9,"Texas Department of Criminal Justice Releases FY 2025","All inmate releases from the TDCJ for FY 2025",,"",152,132,table,https://data.texas.gov/dataset/q4fw-9sy9
+8ha4-kikr,"Texas Department of Criminal Justice Receives FY 2025","All inmate receives into the TDCJ for FY",,"",58,132,table,https://data.texas.gov/dataset/8ha4-kikr
+87eh-wyyj,"High Value Dataset: December 2025","Currently incarcerated inmate population with relevant demographic, offense, and parole information.",,"tdcj; texas inmates; incarcerated; texas department of criminal justice; prison",50,1178,table,https://data.texas.gov/dataset/87eh-wyyj
+bnxp-9nme,"Capital Metro Shapefiles - JANUARY 2026","Routes, Stops, Park & Rides, ADA Polygons, and Service Area for the January 2026 Service Period.",See Category Tile,"routes; stops; park n rides; service area; ada; shp; shapefile; gis",43,11,blob,https://data.texas.gov/dataset/bnxp-9nme
+taag-g6wx,"Official - Customer List for Vendor Sales Reporting","",,"",60,3,table,https://data.texas.gov/dataset/taag-g6wx
+nzvj-29aj,"High Value Dataset: November 2025","Currently incarcerated inmate population with relevant demographic, offense, and parole information.",,"tdcj; texas inmates; incarcerated; texas department of criminal justice; prison",94,115,table,https://data.texas.gov/dataset/nzvj-29aj
+7k4b-rebm,"Appraisal Management Company File","",,"",130,19,table,https://data.texas.gov/dataset/7k4b-rebm
+e67c-q3mr,"Appraiser Applications File","",,"",88,9,table,https://data.texas.gov/dataset/e67c-q3mr
+nmqp-zmi7,"Appraiser File","",,"",138,30,table,https://data.texas.gov/dataset/nmqp-zmi7
+bf5n-799f,"Applications for Initial License Issuance for Salespersons and Brokers","",,"",842,145,table,https://data.texas.gov/dataset/bf5n-799f
+3p42-m5cn,"Easement or Right-Of-Ways Agents License Holder Information","",,"",214,71,table,https://data.texas.gov/dataset/3p42-m5cn
+pkr9-9isv,"Inspector License Holder Information","",,"",353,55,table,https://data.texas.gov/dataset/pkr9-9isv
+s7ft-44qi,"Broker and Sales Agent License Holder Information","",,"",3644,784,table,https://data.texas.gov/dataset/s7ft-44qi
+36xq-2n6m,"2025-2026 Monthly CACFP Day Care Home Meals & Snacks Served","<b><a href=https://form.jotform.com/212794867706167 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Child and Adult Care Food Program (CACFP) Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This data set contains claims information for <b> meal reimbursement for CACFP participating as Day Care Homes for the program year 2025-2026.</b> The CACFP program year begins October 1 and ends September 30. <p>
+
+
+<b> This dataset only includes claims subm",,"",22,0,visualization_canvas_chart,https://data.texas.gov/dataset/36xq-2n6m
+9yt4-5xci,"2025-2026 Monthly CACFP Child Center Meals & Snacks Served","<b><a href=https://form.jotform.com/212794867706167 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Child and Adult Care Food Program (CACFP) Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This data set contains claims information for <b>meal reimbursement for sites participating in CACFP as child centers for the program year 2025-2026. This includes Child Care Centers, At-Risk centers, Head Start sites, Outside School Hours sites, and Emergen",,"",24,0,visualization_canvas_chart,https://data.texas.gov/dataset/9yt4-5xci
+q9ze-49nx,"2025-2026 Monthly CACFP Adult Care Meals & Snacks Served","<b><a href=https://form.jotform.com/212794867706167 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Child and Adult Care Food Program (CACFP) Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This data set contains claims information for <b> meal reimbursement for CACFP participating as Adult Day Care centers for program year 2025 - 2026.</b> The CACFP program year begins October 1 and ends September 30. <p>
+
+<b> This dataset only includes claims",,"",27,0,visualization_canvas_chart,https://data.texas.gov/dataset/q9ze-49nx
+y9vb-baab,"2025-2026 CACFP Day Care Home Meals and Snacks Served","Total breakfast, lunches, and snacks served through CACFP by Day Care Home providers for program year 2025-2026. Meal counts are based on valid claims submitted for meal reimbursement.",,"",36,0,measure,https://data.texas.gov/dataset/y9vb-baab
+cvki-4mgs,"Civil Judgments Issued - Fiscal Year 2025","",,"",56,3,table,https://data.texas.gov/dataset/cvki-4mgs
+ygta-hs3n,"Supplemental Environmental Projects - Fiscal Year 2025","",,"",43,1,table,https://data.texas.gov/dataset/ygta-hs3n
+65hs-8285,"2025-2026 CACFP Child Center Meals and Snacks","Total breakfast, lunches, and snacks served through CACFP for Child Care Centers, At-Risk sites, Head Start sites, Outside School Hours sites, and Emergency Shelters for program year 2025-2026. Meal counts are based on approved claims submitted for meal reimbursement.",,"",25,0,measure,https://data.texas.gov/dataset/65hs-8285
+69n4-7aev,"Administrative Orders Issued - Fiscal Year 2025","",,"",61,3,table,https://data.texas.gov/dataset/69n4-7aev
+bk4a-yqyq,"2025-2026 CACFP Adult Care Meals and Snacks","Total breakfast, lunches, and snacks served through CACFP at Adult Care Centers for program year 2025-2026. Meal counts are based on approved claims submitted for meal reimbursement",,"",38,0,measure,https://data.texas.gov/dataset/bk4a-yqyq
+gxkx-igrr,"High Value Dataset: October 2025","Currently incarcerated inmate population with relevant demographic, offense, and parole information.",,"tdcj; texas inmates; incarcerated; texas department of criminal justice; prison",98,429,table,https://data.texas.gov/dataset/gxkx-igrr
+x9ve-x3iy,"Child and Adult Care Food Programs (CACFP) –Day Care Home – Meal Reimbursement – Program Year 2025 - 2026","<b><a href=https://form.jotform.com/212794867706167 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Child and Adult Care Food Program (CACFP) Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This data set contains claims information for <b> meal reimbursement for CACFP participating as Day Care Homes for the program year 2025-2026.</b> The CACFP program year begins October 1 and ends September 30. <p>
+
+
+<b> This dataset only includes claims subm",,"",62,475,table,https://data.texas.gov/dataset/x9ve-x3iy
+y9zm-iygj,"Child and Adult Care Food Programs (CACFP) –Child Centers – Meal Reimbursement – Program Year 2025 - 2026","<b><a href=https://form.jotform.com/212794867706167 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Child and Adult Care Food Program (CACFP) Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This data set contains claims information for <b>meal reimbursement for sites participating in CACFP as child centers for the program year 2025-2026. This includes Child Care Centers, At-Risk centers, Head Start sites, Outside School Hours sites, and Emergen",,"",284,510,table,https://data.texas.gov/dataset/y9zm-iygj
+e97f-7pag,"Child and Adult Care Food Programs (CACFP) – Adult Day Care – Meal Reimbursement – Program Year 2025 - 2026","<b><a href=https://form.jotform.com/212794867706167 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Child and Adult Care Food Program (CACFP) Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This data set contains claims information for <b> meal reimbursement for CACFP participating as Adult Day Care centers for program year 2025 - 2026.</b> The CACFP program year begins October 1 and ends September 30. <p>
+
+<b> This dataset only includes claims",,"",75,188,table,https://data.texas.gov/dataset/e97f-7pag
+cans-tww2,"High Value Dataset: September 2025","Currently incarcerated inmate population with relevant demographic, offense, and parole information.",,"tdcj; texas inmates; incarcerated; texas department of criminal justice; prison",273,14647,table,https://data.texas.gov/dataset/cans-tww2
+6ryq-m87u,"CACFP Centers - At-Risk Site Map - 2025-2026","",,"",132,0,visualization_canvas_map,https://data.texas.gov/dataset/6ryq-m87u
+tnbd-fazt,"2025-2026 CACFP Centers - At-Risk Site List","",,"",248,24,table,https://data.texas.gov/dataset/tnbd-fazt
+2zpi-yjjs,"Texas State Expenditures By County 2024","Texas State Expenditures by County shows where state dollars are spent. It lists state expenditures by agency and type of expenditure in each county. This report was created using information from the state's Uniform Statewide Accounting System. It reflects actual net expenditures of funds from accounts held in the State Treasury during the state's fiscal year, Sept. 1 through Aug. 31.
+
+The data is available through the Texas Open Data Portal, can be filtered as needed and is downloadable for fu",,"",243,238,table,https://data.texas.gov/dataset/2zpi-yjjs
+ftvp-5fsy,"PY2025-2026 SNP Sponsor Contacts","Contracting Entity (CE)/sponsor-level contact information for School Nutrition Program participants approved to operate Program Year (PY) 2025-2026. CEs may have cancelled or terminated participation after initial approval.",,"",152,2,table,https://data.texas.gov/dataset/ftvp-5fsy
+inks-xbpw,"CACFP Day Care Homes - Site Map - 2025-2026","<b><a href=https://form.jotform.com/212794867706167 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Child and Adult Care Food Program (CACFP) Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This dataset contains <b>contact and program participation information for Day Care Home (DCH) providers approved to operate under the Child and Adult Care Food Program (CACFP) during program year 2025-2026.</b> Contracting Entity (CE) sponsors can participa",,"",191,0,visualization_canvas_map,https://data.texas.gov/dataset/inks-xbpw
+bxu8-6qc6,"CACFP Centers - Site Map - 2025-2026","<b><a href=https://form.jotform.com/212794867706167 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Child and Adult Care Food Program (CACFP) Data</a></b><p>
+
+<b>About the Dataset</b><br>
+
+This dataset contains contact and program participation information for all Texas child and adult care centers approved by the Texas Department of Agriculture to operate as a meal site under the Child and Adult Care Food Program (CACFP) during the 2025-2026",,"",258,0,visualization_canvas_map,https://data.texas.gov/dataset/bxu8-6qc6
+8amv-s5xb,"2025-2026 CACFP Day Care Home Approved Providers","Count of day care home providers approved to participate in CACFP for 2025-2026. May include providers that cancelled participation after initial approval. Provider count is based on CE's Application Effective Date for program year.",,"",141,0,measure,https://data.texas.gov/dataset/8amv-s5xb
+tpyu-226h,"2025-2026 CACFP Day Care Home Sponsor List","CEs approved to sponsor CACFP Day Care Homes in the 2025-2026 program year.",,"",179,15,table,https://data.texas.gov/dataset/tpyu-226h
+3qrv-yppp,"2025-2026 Approved CACFP Day Care Home CEs","Count of Contracting Entities (CEs) approved to sponsor CACFP day care home providers for 2025-2026. May include CEs that cancelled participation after initial approval. CE count is based on CE's Application Effective Date for program year.",,"",143,0,measure,https://data.texas.gov/dataset/3qrv-yppp
+h3we-9kth,"2025-2026 CACFP Center Sites Approved","Count of meal sites approved to participate as a CACFP center for 2025-2026. CACFP Centers include Adult Day Care, Child Care Centers, At-Risk sites, Head Start sites, Emergency Shelters, and sites providing meals Outside School Hours. May include sites that cancelled participation after initial approval. Site count is based on CE's Application Effective Date for program year.",,"",167,0,measure,https://data.texas.gov/dataset/h3we-9kth
+7jm6-e3xx,"2025-2026 CACFP Centers Sponsor List","CEs approved to sponsor CACFP Centers in the 2025-2026 program year.",,"",269,48,table,https://data.texas.gov/dataset/7jm6-e3xx
+vxfn-vdhv,"2025-2026 CACFP Center CEs Approved","Count of Contracting Entities (CEs) approved to sponsor CACFP meal sites for 2025-2026. CACFP Centers include Adult Day Care, Child Care Centers, At-Risk sites, Head Start sites, Emergency Shelters, and sites providing meals Outside School Hours. May include CEs that cancelled participation after initial approval. CE count is based on CE's Application Effective Date for program year.",,"",158,0,measure,https://data.texas.gov/dataset/vxfn-vdhv
+ub2y-4i6h,"Child and Adult Care Food Programs (CACFP) – Day Care Homes – Site-Level Contact and Program Participation – Program Year 2025-2026","<b><a href=https://form.jotform.com/212794867706167 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Child and Adult Care Food Program (CACFP) Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This dataset contains <b>contact and program participation information for Day Care Home (DCH) providers approved to operate under the Child and Adult Care Food Program (CACFP) during program year 2025-2026.</b> Contracting Entity (CE) sponsors can participa",,"",356,1048,table,https://data.texas.gov/dataset/ub2y-4i6h
+py3b-tqc9,"Child and Adult Care Food Programs (CACFP) – Centers – Site-Level Contact and Program Participation – Program Year 2025-2026","<b><a href=https://form.jotform.com/212794867706167 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Child and Adult Care Food Program (CACFP) Data</a></b><p>
+
+<b>About the Dataset</b><br>
+
+This dataset contains contact and program participation information for all Texas child and adult care centers approved by the Texas Department of Agriculture to operate as a meal site under the Child and Adult Care Food Program (CACFP) during the 2025-2026",,"",775,2325,table,https://data.texas.gov/dataset/py3b-tqc9
+9b32-yeu6,"High Value Dataset: August 2025","Currently incarcerated inmate population with relevant demographic, offense, and parole information.",,"tdcj; texas inmates; incarcerated; texas department of criminal justice; prison",424,1767,table,https://data.texas.gov/dataset/9b32-yeu6
+gs7z-7faf,"Capital Metro Shapefiles - AUGUST 2025","Routes, Stops, Park & Rides, ADA Polygons, and Service Area for the August 2025 Service Period.",See Category Tile,"routes; stops; park n rides; service area; ada; shp; shapefile; gis",243,39,blob,https://data.texas.gov/dataset/gs7z-7faf
+drau-zphx,"Project Information","The Project Information dataset displays detailed project information such as location, type of work, and estimated cost for projects scheduled for letting within the designated two consecutive fiscal years.
+
+Its contents are refreshed hourly with data from TxDOT’s transportation program management system, TXDOTCONNECT.
+Project Information dataset includes data in current fiscal year plus 3 years forward.",,"contract information; location; type of work; estimated cost; letting; fiscal year; txdotconnect; project estimate; bid; bidder; city; ccsj; highway; project description; project classification",884,2008,table,https://data.texas.gov/dataset/drau-zphx
+32b9-xz9p,"School Nutrition Program - Site Map - 2025-2026","<b><a href=https://form.jotform.com/210556567409057 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for School Nutrition Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This dataset contains <b>contact information and program participation information for all School Nutrition Program (SNP) meal sites approved by TDA to operate during the 2025-2026 program year.</b>  Contracting Entities (CE) or sites they sponsor may cancel or terminate participati",,"",159,0,visualization_canvas_map,https://data.texas.gov/dataset/32b9-xz9p
+gjph-ieuz,"Important Update About Texas Lottery Open Data","All Texas Lottery and Charitable Bingo operations transferred to the Texas Department of Licensing and Regulation (TDLR) on September 1, 2025.",See Category Tile,"lottery; texas lottery; texas lottery commission; education; gaming; draw; scratch ticket; bingo; charitable bingo; employee; employees; powerball; mega millions; lotto texas; texas two step; all or nothing; pick 3; daily 4; cash five; veterans; foundation school fund; texas education; texas veterans; fund for veterans assistance; texas department of licensing and regulation; texas department of licensing & regulation; lottery & charitable bingo",531,0,story,https://data.texas.gov/dataset/gjph-ieuz
+vffy-snc6,"Collin CAD Appraisal Data - 2025","2025 Certified Appraisal Data with supplemental updates",,"collin county; property tax; tax appraisal; collin cad; ccad; certified",1179,944,table,https://data.texas.gov/dataset/vffy-snc6
+ptxr-mdsr,"2025-2026 After School Care Program (ASCP) Snacks Served","Total snacks served through ASCP for program year 2025-2026. Meal counts are based on approved claims submitted for meal reimbursement. CEs have 60 days to file monthly claims for meal reimbursement.",,"",157,0,measure,https://data.texas.gov/dataset/ptxr-mdsr
+beir-2wht,"2025-2026 National School Lunch Program (NSLP) Lunches Served","Total lunches served through NSLP for program year 2025-2026. Meal counts are based on approved claims submitted for meal reimbursement. CEs have 60 days to file monthly claims for meal reimbursement.",,"",209,0,measure,https://data.texas.gov/dataset/beir-2wht
+euaa-pxxi,"2025-2026 School Breakfast Program (SBP) Breakfasts Served","Total breakfasts served through SBP for program year 2025-2026. Meal counts are based on accepted claims submitted for meal reimbursement. CEs have 60 days to file monthly claims for meal reimbursement.",,"",44,0,measure,https://data.texas.gov/dataset/euaa-pxxi
+tayf-xfe5,"2025-2026 Monthly SNP School Meals & Snacks Served","<b><a href=https://form.jotform.com/210556567409057 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for School Nutrition Data</a></b><p>
+
+
+<b>About the Dataset</b><br>
+This dataset contains claims information for paid or approved to pay <b>meal reimbursement for sites participating in school nutrition programs for program year 2025-2026.</b><p>
+
+An overview of <b>all SNP data available</b> on the Texas Open Data Portal can be found at our <b><a h",,"",106,0,visualization_canvas_chart,https://data.texas.gov/dataset/tayf-xfe5
+kvpm-i2g5,"2025-2026 TDA Food and Nutrition Program Dashboard","Visual summaries of TDA Food and Nutrition program participation as measured by number of approved CEs and sites, meals served, and site distribution in Texas for the program year..",,"",899,0,story,https://data.texas.gov/dataset/kvpm-i2g5
+uxyi-iaf9,"2025-2026 School Nutrition Program Meals and Snacks Served","Total breakfast, lunches, and snacks served through School Nutrition Programs for program year 2025-2026. Meal counts are based on approved claims submitted for meal reimbursement. CEs have 60 days to submit a claim.",,"",77,0,measure,https://data.texas.gov/dataset/uxyi-iaf9
+n8r9-x8nx,"2025-2026 School Nutrition Program Sites Approved","Count of sites approved for PY2025-2026, including sites that have cancelled or terminated after initial approval. 
+
+Measure is generated from 2025-2026 School Nutrition Program Contacts and Program Participation dataset. Operation based on CE's OperationStartDate. Approved site will be counted once CE Operation Start Date arrives.",,"",53,0,measure,https://data.texas.gov/dataset/n8r9-x8nx
+9gr3-mdp7,"2025-2026 School Nutrition Program CEs Approved","Count of CEs approved for PY2025-2026, including CEs that have cancelled or terminated participation after initial approval. 
+
+Measure is generated from 2025-2026 School Sponsors List filtered view which is based on 2025-2026 School Nutrition Program Contacts and Program Participation dataset. Operation based on CE's OperationStartDate. Approved CE will be counted once CE Operation Start Date arrives.",,"",48,0,measure,https://data.texas.gov/dataset/9gr3-mdp7
+r2z5-6df9,"PY2025-2026 SNP Sponsor Contacts","Contracting Entity (CE)/sponsor-level contact information for School Nutrition Program participants approved to operate Program Year (PY) 2025-2026. CEs may have cancelled or terminated participation after initial approval.",,"",59,49,table,https://data.texas.gov/dataset/r2z5-6df9
+hqb9-8dh4,"School Nutrition Programs - Meal Reimbursement Information - Program Year 2025-2026","<b><a href=https://form.jotform.com/210556567409057 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for School Nutrition Data</a></b><p>
+
+
+<b>About the Dataset</b><br>
+This dataset contains claims information for paid or approved to pay <b>meal reimbursement for sites participating in school nutrition programs for program year 2025-2026.</b><p>
+
+An overview of <b>all SNP data available</b> on the Texas Open Data Portal can be found at our <b><a h",,"",935,836,table,https://data.texas.gov/dataset/hqb9-8dh4
+3qgy-p3sr,"School Nutrition Programs - Contact Information and Site-Level Program Participation - Program Year 2025-2026","<b><a href=https://form.jotform.com/210556567409057 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for School Nutrition Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This dataset contains <b>contact information and program participation information for all School Nutrition Program (SNP) meal sites approved by TDA to operate during the 2025-2026 program year.</b>  Contracting Entities (CE) or sites they sponsor may cancel or terminate participati",,"",392,2142,table,https://data.texas.gov/dataset/3qgy-p3sr
+pp37-5cwt,"TCA All Approved Grants FY25","The Texas Commission on the Arts funds a wide variety of arts and cultural activities across the state. This is a list of all the grants approved by the Commission. These grant activities will occur sometime within fiscal year 2025 (Sept 1, 2024 through August 31, 2025).",See Category Tile,"texas commission on the arts; arts; grants",85,1119,table,https://data.texas.gov/dataset/pp37-5cwt
+iii9-bpgw,"High Value Dataset: July 2025","Currently incarcerated inmate population with relevant demographic, offense, and parole information.",,"tdcj; texas inmates; incarcerated; texas department of criminal justice; prison",390,1347,table,https://data.texas.gov/dataset/iii9-bpgw
+8kc5-95uk,"Texas Commission on Environmental Quality - Sanitary Sewer Overflows (SSO)","An SSO is a type of unauthorized discharge of untreated or partially treated wastewater from a collection system or its components (e.g., a manhole, lift station, or cleanout) before it reaches a wastewater treatment facility. Collection systems that are properly designed, operated, and maintained will collect and transport all of the sewage and industrial wastewater that flow into them to a facility for appropriate treatment. However, SSOs can occur if there is significant inflow/infiltration, ",,"office of compliance and enforcement; oce; sso; sanitary sewer overflow; program support & environmental assistance division; psead",239,238,table,https://data.texas.gov/dataset/8kc5-95uk
+eezu-z548,"Texas Open Data Portal Resource Guide 2025","The Texas Open Data Portal Resource Guide 2025 is produced by the Texas Department of Information Resources to assist publishing organizations in their use of the Open Data Portal. While not exhaustive, this document serves as a guide in establishing an open data governance framework, creating an open data inventory, and publishing open data in an efficient and standardized manner.",,"odp; resource; user guide; portal; ocdo; dir; guide",1414,125,blob,https://data.texas.gov/dataset/eezu-z548
+mcpi-5m58,"School Nutrition Programs – Food Service Management Company (FSMC) Information – Program Year 2025-2026","<b><a href=https://form.jotform.com/210556567409057 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for School Nutrition Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This dataset contains <b>contact information for each Contracting Entity (CE) sponsor approved to participate in School Nutrition Programs during program year 2025-2026 and information on Food Service Management Company (FSMC) they may contract with.</b> The School Nutrition Program",,"",596,6484,table,https://data.texas.gov/dataset/mcpi-5m58
+cuhf-bpya,"Summer Meal Programs - Summer Food Service Program (SFSP) - Meal Reimbursement - Program Period 2025","<b><a href=https://form.jotform.com/212795081587163 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Summer Meal Programs Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This dataset contains  <b>CE-level meal reimbursement from approved TDA claims for Summer Food Service Program (SFSP) participants in summer 2025.</b> Summer meal programs typically operate mid-May through August unless otherwise noted. Participants have 60 days from the final m",,"",278,202,table,https://data.texas.gov/dataset/cuhf-bpya
+u4fj-has6,"Summer Meal Programs - Seamless Summer Option (SSO) – Meal Reimbursement - Program Year 2025","<b><a href=https://form.jotform.com/212795081587163 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Summer Meal Programs Data</a></b><p>
+
+<b>About the Dataset</b><br>
+This dataset contains  <b>CE-level meal reimbursement from approved TDA claims for Seamless Summer Option (SSO) participants in summer 2025.</b> Summer meal programs typically operate mid-May through August unless otherwise noted. Participants have 60 days from the final meal se",,"",229,205,table,https://data.texas.gov/dataset/u4fj-has6
+t37e-qpsx,"Collin CAD Appraisal Notices","Notice of Appraised Value data for the most recent three years",,"",474,537,table,https://data.texas.gov/dataset/t37e-qpsx
+4eve-d2pe,"2025 Total Summer SSO Meals and Snacks Served","Sum of breakfast, lunch, supper and snacks served by SSO May 2025-August 2025.",,"",71,0,measure,https://data.texas.gov/dataset/4eve-d2pe
+u6wd-894a,"2025 Total SFSP Meals and Snacks Served","Sum of breakfast, lunch, supper and snacks served by SFSP May 2025-August 2025.",,"",46,0,measure,https://data.texas.gov/dataset/u6wd-894a
+ndvb-vtqg,"Summer Meal Programs - Summer Food Service Program (SFSP) - Meal Count Information - Program Period 2025","Filtered view of SFSP meals served from 2025 All Summer Sites Meal Count raw dataset.",,"",125,35,table,https://data.texas.gov/dataset/ndvb-vtqg
+afkg-4jih,"Summer Meal Programs - Seamless Summer Option (SSO) - Meal Count Information - Program Period 2025","Filtered view of SSO meals served from 2025 All Summer Sites Meal Count raw dataset.",,"",84,222,table,https://data.texas.gov/dataset/afkg-4jih
+6e9f-unai,"Summer Meal Programs - Site Map - Summer 2025","<b>This data is intended for reporting purposes only.</b>
+Please visit <b> <a href=https://squaremeals.org/Programs/Summer-Meal-Programs/Summer-Meal-Site-Map target=""_blank"">SummerFood.org</a> </b>to find an open summer meal site near you or <b>dial 2-1-1 </b>to speak to an operator regarding food assistance.
+
+<b><a href=https://form.jotform.com/212795081587163 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Summer Meal Programs Data</a></b",,"",119,0,visualization_canvas_map,https://data.texas.gov/dataset/6e9f-unai
+juwq-a6hr,"2025 Monthly SFSP & SSO Summer Meals and Snacks","This data is intended for reporting purposes only. <br>
+<b>Please visit <a href=https://squaremeals.org/Programs/Summer-Meal-Programs/Summer-Meal-Site-Map target=""_blank"">SummerFood.org</a> or text FOOD to 304-304 to find an open summer meal sites near you. <b/><p>
+
+
+<b><a href=https://form.jotform.com/212795081587163 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Summer Meal Programs Data</a></b><p>
+
+
+<b>About the Dataset</b><br>
+This dat",,"",71,0,visualization_canvas_chart,https://data.texas.gov/dataset/juwq-a6hr
+2mm8-rqyi,"Texas Commission on Environmental Quality - NOR Episodic Notifications","This dataset lists site information, waste codes, and waste descriptions for episodic notifications for unregistered generators. Episodic notifications for unregistered generators are temporary waste generation events that require notification but do not require a solid waste registration. Episodic notifications prior to February 7, 2022 were referred to as one-time shipments.",,"nor; occupational licensing & registration division; oow; office of waste",394,1531,table,https://data.texas.gov/dataset/2mm8-rqyi
+wrji-7bkt,"2025 Total Summer Meals and Snacks Served","Sum of breakfast, lunch, supper and snacks served by SFSP & SSO May 2025-August 2025.",,"",67,0,measure,https://data.texas.gov/dataset/wrji-7bkt
+t3jr-vyxe,"2025 Approved SFSP & SSO Meal Sites","Count of sites approved to operate Summer Food Service Program (SFSP) or Seamless Summer Option (SSO) for 2025. May include sites that have cancelled participation after initial approval. Site count is based on Site Start Date.",,"",77,0,measure,https://data.texas.gov/dataset/t3jr-vyxe
+4tpe-vtdp,"2025 Approved Summer Meal Program CEs","Count of CEs approved to operate Summer Food Service Program (SFSP) or Seamless Summer Option (SSO) for 2025. May include CEs that have cancelled participation after initial approval. CE count is based on Operational Start Date.",,"",59,0,measure,https://data.texas.gov/dataset/4tpe-vtdp
+7z9t-futv,"Summer Meal Programs - All Summer Sites - Meal Count - Program Period 2025","This data is intended for reporting purposes only. <br>
+<b>Please visit <a href=https://squaremeals.org/Programs/Summer-Meal-Programs/Summer-Meal-Site-Map target=""_blank"">SummerFood.org</a> or text FOOD to 304-304 to find an open summer meal sites near you. <b/><p>
+
+
+<b><a href=https://form.jotform.com/212795081587163 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Summer Meal Programs Data</a></b><p>
+
+
+<b>About the Dataset</b><br>
+This dat",,"",385,1129,table,https://data.texas.gov/dataset/7z9t-futv
+6ygv-mity,"Capital Metro Shapefiles - JUNE 2025","Routes, Stops, Park & Rides, ADA Polygons, and Service Area for the June 2025 Service Period.",,"routes; stops; park n rides; service area; ada; shp; shapefile; gis",171,45,blob,https://data.texas.gov/dataset/6ygv-mity
+wcic-9ixs,"CACFP Centers - At-Risk Site Map - 2024-2025","",,"",580,0,visualization_canvas_map,https://data.texas.gov/dataset/wcic-9ixs
+wd4s-qwh9,"2024-2025 CACFP Centers - At-Risk Site List","",,"",271,40,table,https://data.texas.gov/dataset/wd4s-qwh9
+kiys-58q4,"Remediation Division Documents Search Portal","The search portal displays the last five years of incoming and outgoing documents receipt/submittal data for the following TCEQ Office of Waste, Remediation Division programs: Industrial Hazardous Waste Corrective Action (IHWCA), Innocent Owner/Operator Program (IOP), Municipal Setting Designation (MSD), and Voluntary Cleanup Program (VCP).",,"",2784,0,story,https://data.texas.gov/dataset/kiys-58q4
+bssc-pq4k,"Texas Commission on Environmental Quality - Remediation Division","The search portal displays the last five years of incoming and outgoing documents receipt/submittal data for the following TCEQ Office of Waste, Remediation Division programs:  Industrial Hazardous Waste Corrective Action (IHWCA), Innocent Owner/Operator Program (IOP), Leaking Petroleum Storage Tanks (LPST), Municipal Setting Designation (MSD), and Voluntary Cleanup Program (VCP).",,"office of waste; remediation division; oow; remediation correspondence; remediation submittals; remediation letters; remediation document",488,3197,table,https://data.texas.gov/dataset/bssc-pq4k
+pgq4-7ntc,"Welcome to the Texas Open Data Portal 2025","",,"",17874,0,story,https://data.texas.gov/dataset/pgq4-7ntc
+48hw-yzuj,"2025 SSO Contacts","This is a filtered view of the 2025 All Summer Sites and includes only sites that have been approved to operate Seamless Summer Option (SSO) for 2025.",,"",204,45,table,https://data.texas.gov/dataset/48hw-yzuj
+epb2-v98c,"2025 SFSP Contacts","This is a filtered view of the 2025 All Summer Sites and includes only sites that have been approved to operate Summer Food Service Program (SFSP) for 2025.",,"",155,53,table,https://data.texas.gov/dataset/epb2-v98c
+ujz9-4qbc,"PY25 All Summer Sites Sponsor List","All 2025 Summer Meal Program Sponsor Contacts. CE and sites that have cancelled participation after their initial approval for the program year may be included.
+
+OperationStartDate is based on CEs operation start date. CEs sponsoring SSO sites will typically have an OperationStartDate at the beginning of their 2024-2025 school year as SSO is considered an extension of school meal programming.",,"",116,133,table,https://data.texas.gov/dataset/ujz9-4qbc
+dj2r-c9rw,"Summer Meal Programs - All Summer Sites - Contact and Program Participation Information - Program Period 2025","<b>This data is intended for reporting purposes only.</b>
+Please visit <b> <a href=https://squaremeals.org/Programs/Summer-Meal-Programs/Summer-Meal-Site-Map target=""_blank"">SummerFood.org</a> </b>to find an open summer meal site near you or <b>dial 2-1-1 </b>to speak to an operator regarding food assistance.
+
+<b><a href=https://form.jotform.com/212795081587163 target=""_blank"">Help us provide the most useful data by completing our ODP User Feedback Survey for Summer Meal Programs Data</a></b",,"",457,2756,table,https://data.texas.gov/dataset/dj2r-c9rw
+5n6q-4r86,"Texas Department of Criminal Justice Releases FY 2024","All inmate releases from the TDCJ for FY 2024",,"tdcj; texas inmates; texas department of criminal justice; releases; released",1207,539,table,https://data.texas.gov/dataset/5n6q-4r86

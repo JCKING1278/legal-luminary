@@ -1,0 +1,772 @@
+{
+  "metadata": {
+    "timestamp": "2026-02-16T07:56:39.735Z",
+    "source": "data.texas.gov",
+    "experiment": "Experiment 5 - Texas Data Pipeline",
+    "totalDatasets": 100,
+    "legalDatasets": 20,
+    "categories": {
+      "LAW_VERIFICATION": 12,
+      "NEWS": 3,
+      "ATTORNEY_RESOURCE": 5
+    }
+  },
+  "datasets": {
+    "LAW_VERIFICATION": [
+      {
+        "id": "wv2p-kpcm",
+        "name": "CCI 4.5 Abuse/Neglect Investigations - Alleged and Confirmed Victims By County FY2016-FY2025",
+        "description": "This chart counts victims in completed day care (DCI) and residential care investigations (RCI). Completed investigations only include those cases conducted as a traditional investigation that were not administratively closed or merged into another stage.  An investigation can only be administratively closed if all allegations have a disposition of administrative closure. A completed investigation can include more than one alleged victim.  Completed investigations do not include any Alternative Response stages. \n\nA confirmed victim on a completed investigation is a child who is a victim on at least one allegation with a disposition of reason to believe.  \n\nAn unconfirmed victim on a completed investigation is a child who was an alleged victim on at least one allegation with a disposition of unable to complete, unable to determine or ruled out. \n\nA description of Alternative Response and how it differs from a traditional investigation and the definitions of the different dispositions in a traditional investigation are in the glossary. \n\nThis chart addresses Texas Family Code §264.017, Subsection (b)(3).\n\nFOOTNOTES\n\nPopulation Data Source: Population Estimates and Projections Program, Texas State Data Center, Office of the State Demographer and the Institute for Demographic and Socioeconomic Research, The University of Texas at San Antonio. Current Population Estimates and Projections Data as of December 2025. \"Other\" includes children not categorized as Hispanic, Anglo, African American, Asian or Native American.",
+        "category": "See Category Tile",
+        "tags": [
+          "dfps",
+          "cps",
+          "cci",
+          "dci",
+          "rcci",
+          "victims",
+          "abuse neglect investigations",
+          "oidb",
+          "databook",
+          "data book",
+          "child protective investigations"
+        ],
+        "viewCount": 23,
+        "downloadCount": 1,
+        "createdAt": 1770667010,
+        "updatedAt": 1770667425,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/wv2p-kpcm"
+      },
+      {
+        "id": "q4fw-9sy9",
+        "name": "Texas Department of Criminal Justice Releases FY 2025",
+        "description": "All inmate releases from the TDCJ for FY 2025",
+        "category": "",
+        "tags": [],
+        "viewCount": 152,
+        "downloadCount": 132,
+        "createdAt": 1768997508,
+        "updatedAt": 1768997717,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/q4fw-9sy9"
+      },
+      {
+        "id": "8ha4-kikr",
+        "name": "Texas Department of Criminal Justice Receives FY 2025",
+        "description": "All inmate receives into the TDCJ for FY",
+        "category": "",
+        "tags": [],
+        "viewCount": 58,
+        "downloadCount": 132,
+        "createdAt": 1768996940,
+        "updatedAt": 1768997878,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/8ha4-kikr"
+      },
+      {
+        "id": "87eh-wyyj",
+        "name": "High Value Dataset: December 2025",
+        "description": "Currently incarcerated inmate population with relevant demographic, offense, and parole information.",
+        "category": "",
+        "tags": [
+          "tdcj",
+          "texas inmates",
+          "incarcerated",
+          "texas department of criminal justice",
+          "prison"
+        ],
+        "viewCount": 50,
+        "downloadCount": 1178,
+        "createdAt": 1768986310,
+        "updatedAt": 1768986840,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/87eh-wyyj"
+      },
+      {
+        "id": "nzvj-29aj",
+        "name": "High Value Dataset: November 2025",
+        "description": "Currently incarcerated inmate population with relevant demographic, offense, and parole information.",
+        "category": "",
+        "tags": [
+          "tdcj",
+          "texas inmates",
+          "incarcerated",
+          "texas department of criminal justice",
+          "prison"
+        ],
+        "viewCount": 94,
+        "downloadCount": 115,
+        "createdAt": 1765821305,
+        "updatedAt": 1765821686,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/nzvj-29aj"
+      },
+      {
+        "id": "gxkx-igrr",
+        "name": "High Value Dataset: October 2025",
+        "description": "Currently incarcerated inmate population with relevant demographic, offense, and parole information.",
+        "category": "",
+        "tags": [
+          "tdcj",
+          "texas inmates",
+          "incarcerated",
+          "texas department of criminal justice",
+          "prison"
+        ],
+        "viewCount": 98,
+        "downloadCount": 429,
+        "createdAt": 1763663512,
+        "updatedAt": 1763663902,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/gxkx-igrr"
+      },
+      {
+        "id": "cans-tww2",
+        "name": "High Value Dataset: September 2025",
+        "description": "Currently incarcerated inmate population with relevant demographic, offense, and parole information.",
+        "category": "",
+        "tags": [
+          "tdcj",
+          "texas inmates",
+          "incarcerated",
+          "texas department of criminal justice",
+          "prison"
+        ],
+        "viewCount": 273,
+        "downloadCount": 14647,
+        "createdAt": 1761743717,
+        "updatedAt": 1761744226,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/cans-tww2"
+      },
+      {
+        "id": "9b32-yeu6",
+        "name": "High Value Dataset: August 2025",
+        "description": "Currently incarcerated inmate population with relevant demographic, offense, and parole information.",
+        "category": "",
+        "tags": [
+          "tdcj",
+          "texas inmates",
+          "incarcerated",
+          "texas department of criminal justice",
+          "prison"
+        ],
+        "viewCount": 424,
+        "downloadCount": 1767,
+        "createdAt": 1758545439,
+        "updatedAt": 1758545803,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/9b32-yeu6"
+      },
+      {
+        "id": "gjph-ieuz",
+        "name": "Important Update About Texas Lottery Open Data",
+        "description": "All Texas Lottery and Charitable Bingo operations transferred to the Texas Department of Licensing and Regulation (TDLR) on September 1, 2025.",
+        "category": "See Category Tile",
+        "tags": [
+          "lottery",
+          "texas lottery",
+          "texas lottery commission",
+          "education",
+          "gaming",
+          "draw",
+          "scratch ticket",
+          "bingo",
+          "charitable bingo",
+          "employee",
+          "employees",
+          "powerball",
+          "mega millions",
+          "lotto texas",
+          "texas two step",
+          "all or nothing",
+          "pick 3",
+          "daily 4",
+          "cash five",
+          "veterans",
+          "foundation school fund",
+          "texas education",
+          "texas veterans",
+          "fund for veterans assistance",
+          "texas department of licensing and regulation",
+          "texas department of licensing & regulation",
+          "lottery & charitable bingo"
+        ],
+        "viewCount": 531,
+        "downloadCount": 0,
+        "createdAt": 1756830236,
+        "updatedAt": 1756830236,
+        "displayType": "story",
+        "url": "https://data.texas.gov/dataset/gjph-ieuz"
+      },
+      {
+        "id": "iii9-bpgw",
+        "name": "High Value Dataset: July 2025",
+        "description": "Currently incarcerated inmate population with relevant demographic, offense, and parole information.",
+        "category": "",
+        "tags": [
+          "tdcj",
+          "texas inmates",
+          "incarcerated",
+          "texas department of criminal justice",
+          "prison"
+        ],
+        "viewCount": 390,
+        "downloadCount": 1347,
+        "createdAt": 1755883772,
+        "updatedAt": 1755884247,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/iii9-bpgw"
+      },
+      {
+        "id": "8kc5-95uk",
+        "name": "Texas Commission on Environmental Quality - Sanitary Sewer Overflows (SSO)",
+        "description": "An SSO is a type of unauthorized discharge of untreated or partially treated wastewater from a collection system or its components (e.g., a manhole, lift station, or cleanout) before it reaches a wastewater treatment facility. Collection systems that are properly designed, operated, and maintained will collect and transport all of the sewage and industrial wastewater that flow into them to a facility for appropriate treatment. However, SSOs can occur if there is significant inflow/infiltration, the collection system is poorly operated and maintained, or the system lacks adequate capacity to collect or store flows for treatment, or to treat them.",
+        "category": "",
+        "tags": [
+          "office of compliance and enforcement",
+          "oce",
+          "sso",
+          "sanitary sewer overflow",
+          "program support & environmental assistance division",
+          "psead"
+        ],
+        "viewCount": 239,
+        "downloadCount": 238,
+        "createdAt": 1752776557,
+        "updatedAt": 1770329518,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/8kc5-95uk"
+      },
+      {
+        "id": "5n6q-4r86",
+        "name": "Texas Department of Criminal Justice Releases FY 2024",
+        "description": "All inmate releases from the TDCJ for FY 2024",
+        "category": "",
+        "tags": [
+          "tdcj",
+          "texas inmates",
+          "texas department of criminal justice",
+          "releases",
+          "released"
+        ],
+        "viewCount": 1207,
+        "downloadCount": 539,
+        "createdAt": 1744832771,
+        "updatedAt": 1768990118,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/5n6q-4r86"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "6sgn-vce6",
+        "name": "School Nutrition Programs - Procurement Review with Findings- Program Year 2024 - 2025",
+        "description": "About the Dataset\n\nThis dataset contains:\nA list of School Food Authorities (SFAs) that had findings as a result of their most recent Procurement Review with TDA, including:\nList of findings\n\nType of Findings\n\nCorresponding administrative review question\n\nThis report can be found on SquareMeals Compliance for NSLP for the current program year and will be posted to ODP within three months after the end of the program year.",
+        "category": "",
+        "tags": [],
+        "viewCount": 24,
+        "downloadCount": 4,
+        "createdAt": 1769801463,
+        "updatedAt": 1769805058,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/6sgn-vce6"
+      },
+      {
+        "id": "tbs7-dnx4",
+        "name": "School Nutrition Programs - Detailed Administrative Review with Findings- Program Year 2024 - 2025",
+        "description": "This dataset contains:\nA list of School Food Authorities (SFAs) that had findings as a result of their most recent Administrative Review with TDA, including:\nList of findings\n\nType of Findings\n\nCorresponding administrative review question\n\nThis report can be found on SquareMeals Compliance for NSLP for the current program year and will be posted to ODP within three months after the end of the program year.",
+        "category": "",
+        "tags": [],
+        "viewCount": 36,
+        "downloadCount": 6,
+        "createdAt": 1769800792,
+        "updatedAt": 1769804912,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/tbs7-dnx4"
+      },
+      {
+        "id": "h3fk-yxsr",
+        "name": "School Nutrition Programs - Administrative Review Summary - Program Year 2024 - 2025",
+        "description": "About the Dataset\n\nThis dataset contains:\nA list of School Food Authorities (SFAs) that have recently undergone Administrative Reviews with TDA, including:\nTypes of school nutrition program operated\n\nSpecial provision programs utilized\n\nWhether or not there were Findings\n\nThis report can be found on SquareMeals Compliance for NSLP for the current program year and will be posted to ODP within three months after the end of the program year.",
+        "category": "",
+        "tags": [],
+        "viewCount": 26,
+        "downloadCount": 7,
+        "createdAt": 1769793658,
+        "updatedAt": 1769804791,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/h3fk-yxsr"
+      }
+    ],
+    "ATTORNEY_RESOURCE": [
+      {
+        "id": "t9ai-tqhm",
+        "name": "UIC well location",
+        "description": "Inventory of all UIC #s for injection wells under RRC jurisdiction; contains permit parameters, latitude and longitude well coordinates.",
+        "category": "",
+        "tags": [
+          "uic"
+        ],
+        "viewCount": 73,
+        "downloadCount": 130,
+        "createdAt": 1769195676,
+        "updatedAt": 1769448158,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/t9ai-tqhm"
+      },
+      {
+        "id": "bf5n-799f",
+        "name": "Applications for Initial License Issuance for Salespersons and Brokers",
+        "description": "",
+        "category": "",
+        "tags": [],
+        "viewCount": 842,
+        "downloadCount": 145,
+        "createdAt": 1765318348,
+        "updatedAt": 1769137545,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/bf5n-799f"
+      },
+      {
+        "id": "3p42-m5cn",
+        "name": "Easement or Right-Of-Ways Agents License Holder Information",
+        "description": "",
+        "category": "",
+        "tags": [],
+        "viewCount": 214,
+        "downloadCount": 71,
+        "createdAt": 1765317820,
+        "updatedAt": 1769166619,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/3p42-m5cn"
+      },
+      {
+        "id": "pkr9-9isv",
+        "name": "Inspector License Holder Information",
+        "description": "",
+        "category": "",
+        "tags": [],
+        "viewCount": 353,
+        "downloadCount": 55,
+        "createdAt": 1765317575,
+        "updatedAt": 1770226729,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/pkr9-9isv"
+      },
+      {
+        "id": "s7ft-44qi",
+        "name": "Broker and Sales Agent License Holder Information",
+        "description": "",
+        "category": "",
+        "tags": [],
+        "viewCount": 3644,
+        "downloadCount": 784,
+        "createdAt": 1765317132,
+        "updatedAt": 1771157699,
+        "displayType": "table",
+        "url": "https://data.texas.gov/dataset/s7ft-44qi"
+      }
+    ]
+  },
+  "langGraphState": {
+    "datasets_discovered": [
+      "wv2p-kpcm",
+      "a743-wj72",
+      "6sgn-vce6",
+      "tbs7-dnx4",
+      "h3fk-yxsr",
+      "kdjf-3cvx",
+      "3d85-imbc",
+      "nvc8-hrkf",
+      "t9ai-tqhm",
+      "kazt-kxmn",
+      "8nns-qz94",
+      "6hcg-dq5n",
+      "q4fw-9sy9",
+      "8ha4-kikr",
+      "87eh-wyyj",
+      "bnxp-9nme",
+      "taag-g6wx",
+      "nzvj-29aj",
+      "7k4b-rebm",
+      "e67c-q3mr",
+      "nmqp-zmi7",
+      "bf5n-799f",
+      "3p42-m5cn",
+      "pkr9-9isv",
+      "s7ft-44qi",
+      "36xq-2n6m",
+      "9yt4-5xci",
+      "q9ze-49nx",
+      "y9vb-baab",
+      "cvki-4mgs",
+      "ygta-hs3n",
+      "65hs-8285",
+      "69n4-7aev",
+      "bk4a-yqyq",
+      "gxkx-igrr",
+      "x9ve-x3iy",
+      "y9zm-iygj",
+      "e97f-7pag",
+      "cans-tww2",
+      "6ryq-m87u",
+      "tnbd-fazt",
+      "2zpi-yjjs",
+      "ftvp-5fsy",
+      "inks-xbpw",
+      "bxu8-6qc6",
+      "8amv-s5xb",
+      "tpyu-226h",
+      "3qrv-yppp",
+      "h3we-9kth",
+      "7jm6-e3xx",
+      "vxfn-vdhv",
+      "ub2y-4i6h",
+      "py3b-tqc9",
+      "9b32-yeu6",
+      "gs7z-7faf",
+      "drau-zphx",
+      "32b9-xz9p",
+      "gjph-ieuz",
+      "vffy-snc6",
+      "ptxr-mdsr",
+      "beir-2wht",
+      "euaa-pxxi",
+      "tayf-xfe5",
+      "kvpm-i2g5",
+      "uxyi-iaf9",
+      "n8r9-x8nx",
+      "9gr3-mdp7",
+      "r2z5-6df9",
+      "hqb9-8dh4",
+      "3qgy-p3sr",
+      "pp37-5cwt",
+      "iii9-bpgw",
+      "8kc5-95uk",
+      "eezu-z548",
+      "mcpi-5m58",
+      "cuhf-bpya",
+      "u4fj-has6",
+      "t37e-qpsx",
+      "4eve-d2pe",
+      "u6wd-894a",
+      "ndvb-vtqg",
+      "afkg-4jih",
+      "6e9f-unai",
+      "juwq-a6hr",
+      "2mm8-rqyi",
+      "wrji-7bkt",
+      "t3jr-vyxe",
+      "4tpe-vtdp",
+      "7z9t-futv",
+      "6ygv-mity",
+      "wcic-9ixs",
+      "wd4s-qwh9",
+      "kiys-58q4",
+      "bssc-pq4k",
+      "pgq4-7ntc",
+      "48hw-yzuj",
+      "epb2-v98c",
+      "ujz9-4qbc",
+      "dj2r-c9rw",
+      "5n6q-4r86"
+    ],
+    "legal_datasets": [
+      "wv2p-kpcm",
+      "6sgn-vce6",
+      "tbs7-dnx4",
+      "h3fk-yxsr",
+      "t9ai-tqhm",
+      "q4fw-9sy9",
+      "8ha4-kikr",
+      "87eh-wyyj",
+      "nzvj-29aj",
+      "bf5n-799f",
+      "3p42-m5cn",
+      "pkr9-9isv",
+      "s7ft-44qi",
+      "gxkx-igrr",
+      "cans-tww2",
+      "9b32-yeu6",
+      "gjph-ieuz",
+      "iii9-bpgw",
+      "8kc5-95uk",
+      "5n6q-4r86"
+    ],
+    "classification": {
+      "LAW_VERIFICATION": [
+        "wv2p-kpcm",
+        "q4fw-9sy9",
+        "8ha4-kikr",
+        "87eh-wyyj",
+        "nzvj-29aj",
+        "gxkx-igrr",
+        "cans-tww2",
+        "9b32-yeu6",
+        "gjph-ieuz",
+        "iii9-bpgw",
+        "8kc5-95uk",
+        "5n6q-4r86"
+      ],
+      "NEWS": [
+        "6sgn-vce6",
+        "tbs7-dnx4",
+        "h3fk-yxsr"
+      ],
+      "ATTORNEY_RESOURCE": [
+        "t9ai-tqhm",
+        "bf5n-799f",
+        "3p42-m5cn",
+        "pkr9-9isv",
+        "s7ft-44qi"
+      ]
+    },
+    "quality_scores": {
+      "scores": [
+        {
+          "id": "wv2p-kpcm",
+          "name": "CCI 4.5 Abuse/Neglect Investigations - Alleged and Confirmed Victims By County FY2016-FY2025",
+          "qualityScore": 80,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 1537,
+            "viewCount": 23,
+            "downloadCount": 1,
+            "hasTags": true
+          }
+        },
+        {
+          "id": "6sgn-vce6",
+          "name": "School Nutrition Programs - Procurement Review with Findings- Program Year 2024 - 2025",
+          "qualityScore": 75,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 425,
+            "viewCount": 24,
+            "downloadCount": 4,
+            "hasTags": false
+          }
+        },
+        {
+          "id": "tbs7-dnx4",
+          "name": "School Nutrition Programs - Detailed Administrative Review with Findings- Program Year 2024 - 2025",
+          "qualityScore": 75,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 409,
+            "viewCount": 36,
+            "downloadCount": 6,
+            "hasTags": false
+          }
+        },
+        {
+          "id": "h3fk-yxsr",
+          "name": "School Nutrition Programs - Administrative Review Summary - Program Year 2024 - 2025",
+          "qualityScore": 75,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 442,
+            "viewCount": 26,
+            "downloadCount": 7,
+            "hasTags": false
+          }
+        },
+        {
+          "id": "t9ai-tqhm",
+          "name": "UIC well location",
+          "qualityScore": 80,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 136,
+            "viewCount": 73,
+            "downloadCount": 130,
+            "hasTags": true
+          }
+        },
+        {
+          "id": "q4fw-9sy9",
+          "name": "Texas Department of Criminal Justice Releases FY 2025",
+          "qualityScore": 70,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 45,
+            "viewCount": 152,
+            "downloadCount": 132,
+            "hasTags": false
+          }
+        },
+        {
+          "id": "8ha4-kikr",
+          "name": "Texas Department of Criminal Justice Receives FY 2025",
+          "qualityScore": 60,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 40,
+            "viewCount": 58,
+            "downloadCount": 132,
+            "hasTags": false
+          }
+        },
+        {
+          "id": "87eh-wyyj",
+          "name": "High Value Dataset: December 2025",
+          "qualityScore": 65,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 100,
+            "viewCount": 50,
+            "downloadCount": 1178,
+            "hasTags": true
+          }
+        },
+        {
+          "id": "nzvj-29aj",
+          "name": "High Value Dataset: November 2025",
+          "qualityScore": 65,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 100,
+            "viewCount": 94,
+            "downloadCount": 115,
+            "hasTags": true
+          }
+        },
+        {
+          "id": "bf5n-799f",
+          "name": "Applications for Initial License Issuance for Salespersons and Brokers",
+          "qualityScore": 70,
+          "metrics": {
+            "hasDescription": false,
+            "descLength": 0,
+            "viewCount": 842,
+            "downloadCount": 145,
+            "hasTags": false
+          }
+        },
+        {
+          "id": "3p42-m5cn",
+          "name": "Easement or Right-Of-Ways Agents License Holder Information",
+          "qualityScore": 70,
+          "metrics": {
+            "hasDescription": false,
+            "descLength": 0,
+            "viewCount": 214,
+            "downloadCount": 71,
+            "hasTags": false
+          }
+        },
+        {
+          "id": "pkr9-9isv",
+          "name": "Inspector License Holder Information",
+          "qualityScore": 70,
+          "metrics": {
+            "hasDescription": false,
+            "descLength": 0,
+            "viewCount": 353,
+            "downloadCount": 55,
+            "hasTags": false
+          }
+        },
+        {
+          "id": "s7ft-44qi",
+          "name": "Broker and Sales Agent License Holder Information",
+          "qualityScore": 70,
+          "metrics": {
+            "hasDescription": false,
+            "descLength": 0,
+            "viewCount": 3644,
+            "downloadCount": 784,
+            "hasTags": false
+          }
+        },
+        {
+          "id": "gxkx-igrr",
+          "name": "High Value Dataset: October 2025",
+          "qualityScore": 65,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 100,
+            "viewCount": 98,
+            "downloadCount": 429,
+            "hasTags": true
+          }
+        },
+        {
+          "id": "cans-tww2",
+          "name": "High Value Dataset: September 2025",
+          "qualityScore": 75,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 100,
+            "viewCount": 273,
+            "downloadCount": 14647,
+            "hasTags": true
+          }
+        },
+        {
+          "id": "9b32-yeu6",
+          "name": "High Value Dataset: August 2025",
+          "qualityScore": 75,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 100,
+            "viewCount": 424,
+            "downloadCount": 1767,
+            "hasTags": true
+          }
+        },
+        {
+          "id": "gjph-ieuz",
+          "name": "Important Update About Texas Lottery Open Data",
+          "qualityScore": 80,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 142,
+            "viewCount": 531,
+            "downloadCount": 0,
+            "hasTags": true
+          }
+        },
+        {
+          "id": "iii9-bpgw",
+          "name": "High Value Dataset: July 2025",
+          "qualityScore": 75,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 100,
+            "viewCount": 390,
+            "downloadCount": 1347,
+            "hasTags": true
+          }
+        },
+        {
+          "id": "8kc5-95uk",
+          "name": "Texas Commission on Environmental Quality - Sanitary Sewer Overflows (SSO)",
+          "qualityScore": 100,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 653,
+            "viewCount": 239,
+            "downloadCount": 238,
+            "hasTags": true
+          }
+        },
+        {
+          "id": "5n6q-4r86",
+          "name": "Texas Department of Criminal Justice Releases FY 2024",
+          "qualityScore": 75,
+          "metrics": {
+            "hasDescription": true,
+            "descLength": 45,
+            "viewCount": 1207,
+            "downloadCount": 539,
+            "hasTags": true
+          }
+        }
+      ],
+      "averageScore": 73.5
+    }
+  }
+}
