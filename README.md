@@ -1,6 +1,6 @@
 # Central Texas Legal Luminary Resource
 
-[![Build](https://github.com/sweeden-ttu/legal-luminary/actions/workflows/jekyll.yml/badge.svg)](https://github.com/sweeden-ttu/legal-luminary/actions/workflows/jekyll.yml) Verification &amp; Validation Status
+[![Verification &amp; Validation](https://github.com/sweeden-ttu/legal-luminary/actions/workflows/jekyll.yml/badge.svg)](https://github.com/sweeden-ttu/legal-luminary/actions/workflows/jekyll.yml) 
 
 ## 🚀 Quick Start
 
