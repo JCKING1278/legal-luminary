@@ -21,6 +21,9 @@ export SITE_URL="https://www.legalluminary.com/"
 ```
 
 3. Run the demo:
+```bash
+> python demo.py
+```
 ```mermaid
 sequenceDiagram
     participant Agent as Extractor
@@ -37,9 +40,6 @@ sequenceDiagram
     CI->>LLM: decide accept/reject
 ```
 
-```bash
-python demo.py
-```
 What the demo does:
 - Fetches text from `SITE_URL` (or reads `SITE_TEXT` env var).
 - Computes a SHA-256 snapshot hash.
@@ -54,9 +54,8 @@ Validation pipeline and CI
 -------------------------
 This repository includes a deterministic LangGraph-style pipeline (pipeline.py) that simulates the following nodes: extract, verify (router), generate, evaluate. The pipeline uses `allowlist.json` as the Test Oracle.
 
-<!-- Pipeline Flow -->
-<MermaidFileLoader file="diagrams/pipeline_flow.mmd" />
 ```mermaid
+
 ```
 
 Run the pipeline locally using a text file:
