@@ -2,10 +2,10 @@ flowchart TD
     A[Extract Content]  
     B[Evidence Verification Route]  
     C[Content Generation] 
-    +  D[Evaluator Node LLM]
-    +  E{Adequacy?}
-    +  F[Publish / Stage Content]
-    +  G[Reject / Flag Invalid]
+    D[Evaluator Node LLM]
+    E{Adequacy?}
+    F[Publish / Stage Content]
+    G[Reject / Flag Invalid]
 
     A --> B
     B -- verified --> C
