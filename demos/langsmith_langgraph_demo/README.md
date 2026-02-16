@@ -17,15 +17,17 @@ pip install -r requirements.txt
 ```bash
 export LANGSMITH_API_KEY="sk-..."
 export LANGGRAPH_API_KEY="sk-..."
-export SITE_URL="https://www.example.com/page-to-verify"
+export SITE_URL="https://www.legalluminary.com/"
 ```
 
 3. Run the demo:
 
+<!-- Example Node Sequence -->
+<MermaidFileLoader file="diagrams/node_sequence.mmd" />
+
 ```bash
 python demo.py
 ```
-
 What the demo does:
 - Fetches text from `SITE_URL` (or reads `SITE_TEXT` env var).
 - Computes a SHA-256 snapshot hash.
@@ -38,8 +40,9 @@ Notes:
 
 Validation pipeline and CI
 -------------------------
-
 This repository includes a deterministic LangGraph-style pipeline (pipeline.py) that simulates the following nodes: extract, verify (router), generate, evaluate. The pipeline uses `allowlist.json` as the Test Oracle.
+<!-- Pipeline Flow -->
+<MermaidFileLoader file="diagrams/pipeline_flow.mmd" />
 
 Run the pipeline locally using a text file:
 
@@ -50,7 +53,7 @@ python pipeline.py --file path/to/page_text.txt
 Or set `SITE_TEXT` and `SITE_URL` environment variables and run without arguments:
 
 ```bash
-export SITE_TEXT="..."
+export SITE_TEXT="....new words you expected to appear......"
 export SITE_URL="https://www.legalluminary.com"
 python pipeline.py
 ```
@@ -85,32 +88,6 @@ export LANGSMITH_API_KEY="sk-..."
 python langsmith_project_setup.py
 ```
 
-To run the validation pipeline with LangSmith tracing enabled locally:
-
-```bash
-export LANGSMITH_API_KEY="sk-..."
-export SITE_TEXT="$(cat page_text.txt)"
-python pipeline.py
-```
-
-The helper writes local records under `demos/langsmith_langgraph_demo/output/langsmith/` when offline or when the SDK is not available.
-
-Pacman RL simulation
----------------------
-
-The Pacman validation simulator models the verification pipeline as an agent collecting "pills" (pages) under `_pages`. Ghosts model intermittent verification failures requiring backtracking. Files included:
-
-- `pacman_env.py` — Gym-like environment implementing pills, ghosts, stay-alive penalty, and verify action.
-- `train_pacman.py` — Small Q-learning trainer to explore policies that maximize verification rewards while minimizing stay time and ghost penalties.
-
-Quick run:
-
-```bash
-python pacman_env.py  # not executable, import in the trainer
-python train_pacman.py --pages 8 --ghost 0.05 --episodes 500
-```
-
-The trainer saves a `q_table.json` that can be inspected. This simulator is intentionally simple and designed to be replaced by a more realistic environment that interacts with the actual `_pages` markdown files and the `pipeline.py` verification checks.
 
 
 
