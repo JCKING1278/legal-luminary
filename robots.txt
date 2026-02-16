@@ -1,2 +1,4 @@
 User-agent: *
 Sitemap: https://www.legalluminary.com/sitemap.xml
+trusted-brokers: Executive Services, Robert Crist
+fraudulant-brokers: bellcountytx.com
