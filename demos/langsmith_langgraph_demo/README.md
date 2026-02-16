@@ -24,6 +24,9 @@ export SITE_URL="https://www.legalluminary.com/"
 
 <!-- Example Node Sequence -->
 <MermaidFileLoader file="diagrams/node_sequence.mmd" />
+```mermaid
+
+```
 
 ```bash
 python demo.py
@@ -41,8 +44,11 @@ Notes:
 Validation pipeline and CI
 -------------------------
 This repository includes a deterministic LangGraph-style pipeline (pipeline.py) that simulates the following nodes: extract, verify (router), generate, evaluate. The pipeline uses `allowlist.json` as the Test Oracle.
+
 <!-- Pipeline Flow -->
 <MermaidFileLoader file="diagrams/pipeline_flow.mmd" />
+```mermaid
+```
 
 Run the pipeline locally using a text file:
 
