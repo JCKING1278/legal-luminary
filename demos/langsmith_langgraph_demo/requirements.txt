@@ -1,5 +1,5 @@
 requests
 python-dotenv
 # Optional SDKs (install if available)
-langsmith
-langgraph
+langsmith[SITE_TEXT="langchain"]
+langgraph[SMITH_KEY="langflow"]
