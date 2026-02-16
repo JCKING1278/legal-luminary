@@ -22,22 +22,21 @@ export SITE_URL="https://www.legalluminary.com/"
 
 3. Run the demo:
 
-<!-- Example Node Sequence -->
-<MermaidFileLoader file="diagrams/node_sequence.mmd" />
 ```mermaid
 sequenceDiagram
-  participant Agent as Extractor
-  participant Router as Verifier
-  participant Generator as Generator
-  participant LLM as Evaluator
-  participant CI as GitHub Actions
+ participant Agent as Extractor
+ participant Router as Verifier
+ participant Generator as Generator
+ participant LLM as Evaluator
+ participant CI as GitHub Actions
 
-  Agent->>Router: provide snapshot + metadata
-  Router-->>Agent: verification result (allowed/denied)
-  Router->>Generator: pass verified snapshot
-  Generator->>LLM: generate draft
-  LLM-->>CI: evaluation scores + evidence
-  CI->>LLM: decide accept/reject
+ Agent->>Router: provide snapshot + metadata
+ Router-->>Agent: verification result (allowed/denied)
+ Router->>Generator: pass verified snapshot
+ Generator->>LLM: generate draft
+ LLM-->>CI: evaluation scores + evidence
+ CI->>LLM: decide accept/reject
+
 ```
 
 ```bash
