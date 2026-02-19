@@ -99,17 +99,15 @@ Our mission is to help residents of Killeen, Temple, Belton, Harker Heights, Cop
 <li><strong>Personal Injury Basics</strong> — Rights when individuals have been injured</li>
 </ul>
 
-## Recent Articles
+## Recent Article
 
 <div class="articles-list">
-{% for post in site.posts limit:6 %}
 <div class="article-item">
-<h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
-<p class="article-date">{{ post.date | date: "%B %d, %Y" }}</p>
-<p class="article-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-<a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
+<h4><a href="/2026/02/19/bell-county-legal-resource-center.html">Bell County Commissioners Approve New Legal Resource Center</a></h4>
+<p class="article-date">February 19, 2026</p>
+<p class="article-excerpt">The Bell County Commissioners Court met on February 11, 2026 to discuss emerging community legal services. The commissioners approved funding for a new centralized legal resource center to serve residents across Bell County.</p>
+<a href="/2026/02/19/bell-county-legal-resource-center.html" class="read-more">Read More →</a>
 </div>
-{% endfor %}
 </div>
 
 <div class="legal-notice">
