@@ -43,3 +43,4 @@ If Chrome extension is installed:
 - Open Chrome manually
 - Click OpenClaw extension to attach
 - Use: openclaw browser --browser-profile chrome open https://data.texas.gov
+ texas_data_crawler.js texas_data_pipeline.py pipeline.yml

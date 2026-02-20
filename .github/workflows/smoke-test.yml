@@ -25,72 +25,14 @@ jobs:
           node-version: '20'
           cache: 'npm'
       
-      - name: Install Playwright
-        run: npm init playwright@latest --yes -- --quiet --browser=chromium --no-examples
-      
       - name: Install dependencies
-        run: npm install
+        run: npm ci
       
       - name: Install Playwright browsers
         run: npx playwright install chromium
       
-      - name: Create test file
-        run: |
-          mkdir -p tests
-          cat > tests/smoke.spec.js << 'EOF'
-          const { test, expect } = require('@playwright/test');
-
-          test.describe('Legal Luminary Smoke Tests', () => {
-            test('front page loads successfully', async ({ page }) => {
-              await page.goto('https://sweeden-ttu.github.io/legal-luminary/');
-              
-              // Check page title
-              await expect(page).toHaveTitle(/Central Texas Legal/i);
-              
-              // Check hero section exists
-              const hero = page.locator('.hero_title, h1, [class*="hero"]').first();
-              await expect(hero).toBeVisible();
-            });
-
-            test('recent article section exists and contains content', async ({ page }) => {
-              await page.goto('https://sweeden-ttu.github.io/legal-luminary/');
-              
-              // Check for "Recent Article" heading
-              const recentHeading = page.getByRole('heading', { name: /Recent Article/i });
-              await expect(recentHeading).toBeVisible();
-              
-              // Check that article item exists
-              const articleItem = page.locator('.article-item').first();
-              await expect(articleItem).toBeVisible();
-              
-              // Check for article title
-              const articleTitle = articleItem.locator('h4 a, h4');
-              await expect(articleTitle).toBeVisible();
-              
-              // Check for article link
-              const articleLink = articleItem.locator('a').first();
-              const href = await articleLink.getAttribute('href');
-              expect(href).toContain('bell-county-legal-resource-center');
-            });
-
-            test('recent article link is valid', async ({ page }) => {
-              await page.goto('https://sweeden-ttu.github.io/legal-luminary/');
-              
-              // Get the article link
-              const articleLink = page.locator('.article-item a').first();
-              const href = await articleLink.getAttribute('href');
-              
-              // Navigate to the article
-              await page.goto(`https://sweeden-ttu.github.io/legal-luminary${href}`);
-              
-              // Verify article page loads
-              await expect(page).toHaveTitle(/Bell County/i);
-            });
-          });
-          EOF
-      
       - name: Run Playwright tests
-        run: npx playwright test tests/ --reporter=list
+        run: npx playwright test playwright-tests/ --reporter=list
       
       - name: Upload test results
         if: always()

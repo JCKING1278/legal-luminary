@@ -168,4 +168,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update Texas Open Data - Notaries and TDLR licenses"
-          file_pattern: "_data/central_texas_*.json"
+          file_pattern: "_data/central_texas_*.json _data/recent_articles.json _data/sitemap_navigation.json"
