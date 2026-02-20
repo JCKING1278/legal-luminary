@@ -103,10 +103,10 @@ Our mission is to help residents of Killeen, Temple, Belton, Harker Heights, Cop
 
 <div class="articles-list">
 <div class="article-item">
-<h4><a href="/2026/02/19/bell-county-legal-resource-center/">Bell County Commissioners Approve New Legal Resource Center</a></h4>
+<h4><a href="/news/2026/02/11/bell-county-legal-resource-center/">Bell County Commissioners Approve New Legal Resource Center</a></h4>
 <p class="article-date">February 11, 2026</p>
 <p class="article-excerpt">The Bell County Commissioners Court met on February 11, 2026 to discuss emerging community legal services. The commissioners approved funding for a new centralized legal resource center to serve residents across Bell County.</p>
-<a href="/2026/02/19/bell-county-legal-resource-center/" class="read-more">Read More →</a>
+<a href="/news/2026/02/11/bell-county-legal-resource-center/" class="read-more">Read More →</a>
 </div>
 </div>
 

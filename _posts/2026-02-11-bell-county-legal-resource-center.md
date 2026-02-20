@@ -1,6 +1,6 @@
 ---
 title: "Bell County Commissioners Approve New Legal Resource Center"
-date: 2026-02-19
+date: 2026-02-11
 layout: default
 source_url: "https://www.killeendailyherald.com/"
 source_name: "Killeen Daily Herald"
