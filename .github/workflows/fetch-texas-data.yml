@@ -1,0 +1,171 @@
+# Fetch Texas Open Data for Notaries and Licensed Professionals
+name: Fetch Texas Data
+
+on:
+  # Run weekly
+  schedule:
+    - cron: '0 0 * * 0'
+  
+  # Allows running manually
+  workflow_dispatch:
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests pandas json
+      
+      - name: Fetch Texas Notary Public Commissions
+        run: |
+          python3 << 'EOF'
+          import requests
+          import json
+          import os
+          from datetime import datetime
+
+          # Texas Notary Public Commissions dataset
+          NOTARY_API_URL = "https://data.texas.gov/resource/9grx-8s78.json"
+          
+          # Query for Bell County notaries
+          params = {
+              "$where": "county_name='BELL'",
+              "$limit": 100,
+              "$order": "commission_date DESC"
+          }
+          
+          try:
+              response = requests.get(NOTARY_API_URL, params=params, timeout=30)
+              response.raise_for_status()
+              notaries = response.json()
+              
+              # Process notary data
+              processed_notaries = []
+              for n in notaries:
+                  processed_notaries.append({
+                      "name": f"{n.get('first_name', '')} {n.get('last_name', '')}".strip(),
+                      "county": n.get('county_name', ''),
+                      "commission_date": n.get('commission_date', ''),
+                      "expiration_date": n.get('commission_expiration_date', ''),
+                      "status": n.get('appointment_status', ''),
+                  })
+              
+              # Save to JSON
+              output = {
+                  "notaries": processed_notaries,
+                  "fetched_at": datetime.now().isoformat(),
+                  "count": len(processed_notaries)
+              }
+              
+              with open('_data/central_texas_notaries.json', 'w') as f:
+                  json.dump(output, f, indent=2)
+              
+              print(f"Fetched {len(processed_notaries)} notaries from Bell County")
+              
+          except Exception as e:
+              print(f"Error fetching notaries: {e}")
+              # Create empty file with error
+              with open('_data/central_texas_notaries.json', 'w') as f:
+                  json.dump({"error": str(e), "notaries": []}, f)
+          EOF
+      
+      - name: Fetch TDLR Licensed Professionals
+        run: |
+          python3 << 'EOF'
+          import requests
+          import json
+          import os
+          from datetime import datetime
+
+          # TDLR All Licenses dataset (using generic search for Bell County)
+          TDLR_API_URL = "https://data.texas.gov/resource/7jvp-2uj8.json"
+          
+          # Query for Bell County professionals
+          params = {
+              "$where": "county='BELL'",
+              "$limit": 100,
+              "$order": "issue_date DESC"
+          }
+          
+          try:
+              response = requests.get(TDLR_API_URL, params=params, timeout=30)
+              response.raise_for_status()
+              licenses = response.json()
+              
+              # Process license data
+              processed_licenses = []
+              for lic in licenses:
+                  processed_licenses.append({
+                      "name": lic.get('licensee_name', ''),
+                      "license_type": lic.get('license_type_description', ''),
+                      "license_number": lic.get('license_number', ''),
+                      "county": lic.get('county', ''),
+                      "status": lic.get('license_status', ''),
+                  })
+              
+              # Save to JSON
+              output = {
+                  "tdlr_licensees": processed_licenses,
+                  "fetched_at": datetime.now().isoformat(),
+                  "count": len(processed_licenses)
+              }
+              
+              with open('_data/central_texas_tdlr.json', 'w') as f:
+                  json.dump(output, f, indent=2)
+              
+              print(f"Fetched {len(processed_licenses)} TDLR licenses from Bell County")
+              
+          except Exception as e:
+              print(f"Error fetching TDLR data: {e}")
+              # Create empty file with error
+              with open('_data/central_texas_tdlr.json', 'w') as f:
+                  json.dump({"error": str(e), "tdlr_licensees": []}, f)
+          EOF
+      
+      - name: Combine data files
+        run: |
+          python3 << 'EOF'
+          import json
+
+          # Load both files
+          try:
+              with open('_data/central_texas_notaries.json') as f:
+                  notaries_data = json.load(f)
+          except:
+              notaries_data = {"notaries": []}
+
+          try:
+              with open('_data/central_texas_tdlr.json') as f:
+                  tdlr_data = json.load(f)
+          except:
+              tdlr_data = {"tdlr_licensees": []}
+
+          # Combine into single file
+          combined = {
+              "notaries": notaries_data.get("notaries", []),
+              "tdlr_licensees": tdlr_data.get("tdlr_licensees", []),
+              "notaries_fetched_at": notaries_data.get("fetched_at", ""),
+              "tdlr_fetched_at": tdlr_data.get("fetched_at", "")
+          }
+
+          with open('_data/central_texas_professionals.json', 'w') as f:
+              json.dump(combined, f, indent=2)
+
+          print(f"Combined: {len(combined['notaries'])} notaries, {len(combined['tdlr_licensees'])} TDLR licenses")
+          EOF
+      
+      - name: Commit and push data files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Texas Open Data - Notaries and TDLR licenses"
+          file_pattern: "_data/central_texas_*.json"
