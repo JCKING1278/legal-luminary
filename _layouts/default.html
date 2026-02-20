@@ -210,10 +210,26 @@
   </header>
 
   {% if page.hero %}
-  <section class="hero" style="background-image: linear-gradient(rgba(15, 35, 60, 0.9), rgba(15, 35, 60, 0.85));">
+  <section class="hero {% if page.url == '/' %}hero-home{% endif %}" style="background-image: linear-gradient(rgba(15, 35, 60, 0.92), rgba(15, 35, 60, 0.88));">
     <div class="container">
       <h1>{{ page.hero_title | default: page.title }}</h1>
       <p class="hero-subtitle">{{ page.hero_subtitle }}</p>
+      {% if page.url == '/' %}
+      <div class="hero-actions">
+        <a href="/court-directory/" class="btn btn-primary">Court Directory</a>
+        <a href="/defense/" class="btn btn-secondary">Defense Attorneys</a>
+        <a href="/personal-injury/" class="btn btn-secondary">Personal Injury</a>
+      </div>
+      <div class="hero-service-bar">
+        <span>Serving:</span>
+        <span>Belton</span>
+        <span>Killeen</span>
+        <span>Temple</span>
+        <span>Fort Cavazos</span>
+        <span>Harker Heights</span>
+        <span>Copperas Cove</span>
+      </div>
+      {% endif %}
     </div>
   </section>
   {% endif %}
@@ -275,20 +291,16 @@
           {% endif %}
         </article>
         <aside class="sidebar" aria-label="Helpful resources">
-          {% include sidebar-feed.html %}
-          {% if page.sidebar_ads_content %}
-          <div class="ad-section" aria-label="Sponsored legal providers">
-            <span class="ad-label">ADVERTISEMENT</span>
-            {{ page.sidebar_ads_content }}
-          </div>
+          {% if page.url == '/' %}
+          {% include sidebar-important-articles.html %}
           {% else %}
-          {% assign ad_type = page.layout | default: 'general' %}
-          {% include sidebar-ads.html ad_type=ad_type %}
+          {% include sidebar-feed.html %}
+          {% include sidebar-professionals.html %}
           {% endif %}
           <div class="sidebar-info">
             <h3>Need Legal Help?</h3>
-            <p>The attorneys featured on this site are ready to assist individuals with their legal matters in Bell County and throughout Texas.</p>
-            <a href="{{ '/resources/' | relative_url }}" class="btn btn-secondary">View All Resources</a>
+            <p>Find court contacts, legal resources, and information for Bell County and Central Texas.</p>
+            <a href="{{ '/court-directory/' | relative_url }}" class="btn btn-secondary">Court Directory</a>
           </div>
         </aside>
       </div>

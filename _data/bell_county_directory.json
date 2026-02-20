@@ -1,0 +1,283 @@
+{
+  "last_updated": "2026-02-19",
+  "county": "Bell County",
+  "state": "Texas",
+  "courthouse": {
+    "name": "Bell County Justice Center",
+    "address": "1201 Huey Drive, Belton, TX 76513",
+    "phone": "(254) 933-5100",
+    "website": "https://www.bellcountytx.com"
+  },
+  "district_courts": [
+    {
+      "name": "27th District Court",
+      "judge": "Judge John Gauntt",
+      "phone": "(254) 933-5105",
+      "location": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "jurisdiction": "Felony criminal, civil cases over $200,000, family law, juvenile"
+    },
+    {
+      "name": "146th District Court",
+      "judge": "Judge Jack Jones",
+      "phone": "(254) 933-5273",
+      "location": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "jurisdiction": "Felony criminal, civil cases over $200,000, family law, juvenile"
+    },
+    {
+      "name": "169th District Court",
+      "judge": "Judge Gordon Adams",
+      "phone": "(254) 933-5274",
+      "location": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "jurisdiction": "Felony criminal, civil cases over $200,000, family law, juvenile"
+    },
+    {
+      "name": "264th District Court",
+      "judge": "Judge Paul LePak",
+      "phone": "(254) 933-5464",
+      "location": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "jurisdiction": "Felony criminal, civil cases over $200,000, family law, juvenile"
+    },
+    {
+      "name": "426th District Court",
+      "judge": "Judge Steven Duskie",
+      "phone": "(254) 933-5710",
+      "location": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "jurisdiction": "Felony criminal, civil cases over $200,000, family law, juvenile"
+    },
+    {
+      "name": "478th District Court",
+      "judge": "Judge Jared Robinson",
+      "phone": "(254) 933-5776",
+      "location": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "jurisdiction": "Felony criminal, civil cases over $200,000, family law, juvenile"
+    }
+  ],
+  "county_courts_at_law": [
+    {
+      "name": "County Court at Law No. 1",
+      "judge": "Judge Gonzalo Caraveo",
+      "phone": "(254) 933-5282",
+      "location": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "jurisdiction": "Class A and B misdemeanors, civil cases $500-$200,000, probate, appeals from JP courts"
+    },
+    {
+      "name": "County Court at Law No. 2",
+      "judge": "Judge John Mischtian",
+      "phone": "(254) 933-5283",
+      "location": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "jurisdiction": "Class A and B misdemeanors, civil cases $500-$200,000, probate, appeals from JP courts"
+    },
+    {
+      "name": "County Court at Law No. 3",
+      "judge": "Judge Rebecca DePew",
+      "phone": "(254) 933-5284",
+      "location": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "jurisdiction": "Class A and B misdemeanors, civil cases $500-$200,000, probate, appeals from JP courts"
+    }
+  ],
+  "justice_of_the_peace": [
+    {
+      "name": "Justice of the Peace, Precinct 1",
+      "judge": "Judge Theodore R. (Ted) Duffield",
+      "phone": "(254) 933-5183",
+      "email": "JP1@bellcounty.texas.gov",
+      "location": "Bell County Justice Center, 1201 Huey Road, Belton, TX 76513",
+      "jurisdiction": "Class C misdemeanors, small claims up to $20,000, evictions, truancy"
+    },
+    {
+      "name": "Justice of the Peace, Precinct 2",
+      "judge": "Judge Cliff Coleman",
+      "phone": "(254) 933-5398",
+      "email": "JP2@bellcounty.texas.gov",
+      "location": "Belton, TX",
+      "jurisdiction": "Class C misdemeanors, small claims up to $20,000, evictions, truancy"
+    },
+    {
+      "name": "Justice of the Peace, Precinct 3, Place 1",
+      "judge": "Judge Rosanne Fisher",
+      "phone": "(254) 770-6822",
+      "email": "JP3P1@bellcounty.texas.gov",
+      "location": "Temple, TX",
+      "jurisdiction": "Class C misdemeanors, small claims up to $20,000, evictions, truancy"
+    },
+    {
+      "name": "Justice of the Peace, Precinct 3, Place 2",
+      "judge": "Judge Larry Wilkey",
+      "phone": "(254) 770-6831",
+      "email": "JP3P2@bellcounty.texas.gov",
+      "location": "Temple, TX",
+      "jurisdiction": "Class C misdemeanors, small claims up to $20,000, evictions, truancy"
+    },
+    {
+      "name": "Justice of the Peace, Precinct 4, Place 1",
+      "judge": "Judge Gregory Johnson",
+      "phone": "(254) 634-5882",
+      "email": "JP4P1@bellcounty.texas.gov",
+      "location": "Killeen, TX",
+      "jurisdiction": "Class C misdemeanors, small claims up to $20,000, evictions, truancy"
+    },
+    {
+      "name": "Justice of the Peace, Precinct 4, Place 2",
+      "judge": "Judge Nicola J. James",
+      "phone": "(254) 634-7612",
+      "email": "JP4P2@bellcounty.texas.gov",
+      "location": "Killeen, TX",
+      "jurisdiction": "Class C misdemeanors, small claims up to $20,000, evictions, truancy"
+    }
+  ],
+  "municipal_courts": [
+    {
+      "name": "Killeen Municipal Court",
+      "phone": "(254) 501-7850",
+      "address": "714 N. 2nd Street, Killeen, TX 76541",
+      "website": "https://www.killeentexas.gov/172/Municipal-Court",
+      "jurisdiction": "City ordinance violations, Class C misdemeanors within city limits"
+    },
+    {
+      "name": "Temple Municipal Court",
+      "phone": "(254) 298-5690",
+      "address": "210 N. Main Street, Temple, TX 76501",
+      "website": "https://www.templetx.gov/",
+      "jurisdiction": "City ordinance violations, Class C misdemeanors within city limits"
+    },
+    {
+      "name": "Belton Municipal Court",
+      "phone": "(254) 933-5828",
+      "address": "520 E. Central Avenue, Belton, TX 76513",
+      "website": "https://www.beltontexas.gov/",
+      "jurisdiction": "City ordinance violations, Class C misdemeanors within city limits"
+    },
+    {
+      "name": "Harker Heights Municipal Court",
+      "phone": "(254) 953-5600",
+      "address": "305 Miller's Crossing, Harker Heights, TX 76548",
+      "website": "https://www.harkerheights.gov/",
+      "jurisdiction": "City ordinance violations, Class C misdemeanors within city limits"
+    },
+    {
+      "name": "Copperas Cove Municipal Court",
+      "phone": "(254) 547-4221",
+      "address": "914 S. Main Street, Copperas Cove, TX 76522",
+      "website": "https://www.copperascovetx.gov/",
+      "jurisdiction": "City ordinance violations, Class C misdemeanors within city limits"
+    }
+  ],
+  "county_officials": {
+    "district_attorney": {
+      "title": "District Attorney",
+      "name": "Stephanie Newell",
+      "phone": "(254) 933-5215",
+      "address": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "website": "https://www.bellcountytx.com/county_government/district_attorney/index.php",
+      "role": "Prosecutes felony cases in District Courts"
+    },
+    "county_attorney": {
+      "title": "County Attorney",
+      "name": "Jim Nichols",
+      "phone": "(254) 933-5161",
+      "address": "Bell County Courthouse Annex, 550 East 2nd Avenue, Belton, TX 76513",
+      "website": "https://www.bellcountytx.com/county_government/county_attorney/index.php",
+      "role": "Prosecutes Class A and B misdemeanors"
+    },
+    "district_clerk": {
+      "title": "District Clerk",
+      "name": "Office of the District Clerk",
+      "phone": "(254) 933-5197",
+      "address": "Bell County Justice Center, 1201 Huey Drive, Belton, TX 76513",
+      "website": "https://www.bellcountytx.com/district_clerk/index.php",
+      "role": "Handles felony criminal case filings, civil cases over $200,000"
+    },
+    "county_clerk": {
+      "title": "County Clerk",
+      "name": "Office of the County Clerk",
+      "phone": "(254) 933-5160",
+      "address": "Bell County Courthouse, 550 East 2nd Avenue, Belton, TX 76513",
+      "website": "https://www.bellcountytx.com/county_government/county_clerk/index.php",
+      "role": "Misdemeanor case filings, probate, marriage licenses, birth/death records, property records"
+    },
+    "sheriff": {
+      "title": "Sheriff",
+      "name": "Office of the Sheriff",
+      "phone": "(254) 933-5400",
+      "address": "111 W. Central Avenue, Belton, TX 76513",
+      "website": "https://www.bellcountytx.com/county_government/sheriff/index.php",
+      "role": "Warrant information, jail inquiries, civil process, inmate lookup"
+    },
+    "county_judge": {
+      "title": "County Judge",
+      "name": "David Blackburn",
+      "phone": "(254) 933-5105",
+      "address": "Bell County Courthouse, 550 East 2nd Avenue, Belton, TX 76513",
+      "website": "https://www.bellcountytx.com/county_government/county_judge/index.php",
+      "role": "Presides over Commissioners Court, chief administrative officer of the county"
+    }
+  },
+  "key_resources": {
+    "odyssey_portal": {
+      "name": "Bell County Odyssey Portal",
+      "url": "https://justice.bellcounty.texas.gov/PublicPortal/",
+      "description": "Search court hearings, case records, and dockets online"
+    },
+    "online_payments": {
+      "name": "Bell County Online Payments",
+      "url": "https://bell.go2gov.net",
+      "description": "Pay citations and court fines online"
+    },
+    "crime_victim_assistance": {
+      "name": "Bell County Crime Victim Assistance",
+      "phone": "(254) 933-5215",
+      "description": "Support services for crime victims in Bell County"
+    }
+  },
+  "service_areas": [
+    {
+      "name": "Belton",
+      "type": "County Seat",
+      "description": "County seat of Bell County. Home to the Bell County Justice Center and all District Courts, County Courts at Law, and county administrative offices.",
+      "population": "~25,000",
+      "key_facilities": ["Bell County Justice Center", "Bell County Courthouse Annex", "Belton Municipal Court"]
+    },
+    {
+      "name": "Killeen",
+      "type": "City",
+      "description": "Largest city in Bell County and home to Fort Cavazos (formerly Fort Hood). Killeen Municipal Court handles city ordinance violations and Class C misdemeanors.",
+      "population": "~160,000",
+      "key_facilities": ["Killeen Municipal Court", "Killeen Police Department"]
+    },
+    {
+      "name": "Temple",
+      "type": "City",
+      "description": "Second-largest city in Bell County. Major medical and economic hub with its own municipal court system.",
+      "population": "~82,000",
+      "key_facilities": ["Temple Municipal Court", "Temple Police Department"]
+    },
+    {
+      "name": "Fort Cavazos (Fort Hood)",
+      "type": "Military Installation",
+      "description": "One of the largest military installations in the world. Military personnel and their families in the surrounding area may face legal matters in Bell County courts. Civilian offenses off-post are handled by Bell County or municipal courts.",
+      "population": "~55,000 military personnel",
+      "key_facilities": ["Fort Cavazos Legal Assistance Office"]
+    },
+    {
+      "name": "Waco",
+      "type": "Nearby City (McLennan County)",
+      "description": "Located in neighboring McLennan County, approximately 45 minutes south of Belton. Some Central Texas legal matters may involve courts in both Bell and McLennan counties.",
+      "population": "~142,000",
+      "key_facilities": ["McLennan County Courthouse", "Waco Municipal Court"]
+    },
+    {
+      "name": "Harker Heights",
+      "type": "City",
+      "description": "Adjacent to Killeen, with its own municipal court handling city-level cases.",
+      "population": "~35,000",
+      "key_facilities": ["Harker Heights Municipal Court"]
+    },
+    {
+      "name": "Copperas Cove",
+      "type": "City",
+      "description": "Located in western Bell County near Fort Cavazos with its own municipal court.",
+      "population": "~35,000",
+      "key_facilities": ["Copperas Cove Municipal Court"]
+    }
+  ]
+}

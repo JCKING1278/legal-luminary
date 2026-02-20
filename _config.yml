@@ -58,6 +58,8 @@ navigation:
     url: /defense/
   - title: Personal Injury
     url: /personal-injury/
+  - title: Court Directory
+    url: /court-directory/
   - title: Resources
     url: /resources/
     children:
@@ -80,6 +82,8 @@ service_area:
     - Copperas Cove
     - Nolanville
     - Salado
+    - Fort Cavazos (Fort Hood)
+    - Waco
 
 # Featured Attorneys (for easy updating)
 attorneys:

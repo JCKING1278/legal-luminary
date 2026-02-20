@@ -1,0 +1,52 @@
+{%- comment -%}
+Sidebar Professionals
+Displays notaries and licensed professionals from central_texas_professionals.json
+{%- endcomment -%}
+
+{%- assign pros = site.data.central_texas_professionals -%}
+
+<section class="sidebar-feed" aria-labelledby="sidebar-pros-title">
+  <h3 id="sidebar-pros-title">Central Texas Professionals</h3>
+
+  {%- if pros.tdlr_licensees.size > 0 -%}
+  <div class="sidebar-pros-group">
+    <h4>Licensed Professionals</h4>
+    <ul class="sidebar-feed-list">
+      {%- for p in pros.tdlr_licensees -%}
+      <li class="sidebar-feed-item">
+        <span class="sidebar-feed-title">{{ p.name }}</span>
+        {%- if p.license_type %}
+        <div class="sidebar-feed-meta">{{ p.license_type }}{% if p.city %} — {{ p.city }}{% if p.county %}, {{ p.county }} County{% endif %}{% endif %}</div>
+        {%- endif %}
+        {%- if p.phone %}
+        <div class="sidebar-pros-phone"><a href="tel:{{ p.phone | replace: ' ', '' | replace: '(', '' | replace: ')', '' | replace: '-', '' | prepend: '+1' }}">{{ p.phone }}</a></div>
+        {%- endif %}
+      </li>
+      {%- endfor -%}
+    </ul>
+  </div>
+  {%- endif -%}
+
+  {%- if pros.notaries.size > 0 -%}
+  <div class="sidebar-pros-group">
+    <h4>Notary Public</h4>
+    <ul class="sidebar-feed-list">
+      {%- for n in pros.notaries limit: 5 -%}
+      <li class="sidebar-feed-item">
+        <span class="sidebar-feed-title">{{ n.name }}</span>
+        {%- if n.city %}
+        <div class="sidebar-feed-meta">{{ n.city }}</div>
+        {%- endif %}
+        {%- if n.phone and n.phone != "" %}
+        <div class="sidebar-pros-phone"><a href="tel:{{ n.phone | replace: ' ', '' | replace: '(', '' | replace: ')', '' | replace: '-', '' | prepend: '+1' }}">{{ n.phone }}</a></div>
+        {%- endif %}
+        {%- if n.expire_date and n.expire_date != "" %}
+        <div class="sidebar-feed-meta">Commission expires: {{ n.expire_date }}</div>
+        {%- endif %}
+      </li>
+      {%- endfor -%}
+    </ul>
+    <a class="sidebar-feed-more" href="https://data.texas.gov/dataset/Texas-Notary-Public-Commissions/gmd3-bnrd" target="_blank" rel="noopener noreferrer">Look up notaries on data.texas.gov</a>
+  </div>
+  {%- endif -%}
+</section>

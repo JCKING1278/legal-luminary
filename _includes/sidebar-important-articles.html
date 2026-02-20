@@ -1,0 +1,63 @@
+{%- comment -%}
+Sidebar Important Articles
+Displays top articles from important_articles.json ranked by relevance score
+{%- endcomment -%}
+
+{%- assign data = site.data.important_articles -%}
+
+<section class="sidebar-feed" aria-labelledby="sidebar-important-title">
+  <h3 id="sidebar-important-title">Important Articles</h3>
+
+  {%- if data.by_relevance.critical.size > 0 or data.by_relevance.high.size > 0 -%}
+  <ul class="sidebar-feed-list">
+    {%- for article in data.by_relevance.critical limit: 5 -%}
+    {%- assign filename_with_ext = article.path | split: '/' | last -%}
+    {%- assign filename = filename_with_ext | replace: '.md', '' -%}
+    {%- assign parts = filename | split: '-' -%}
+    {%- assign y = parts[0] -%}
+    {%- assign m = parts[1] -%}
+    {%- assign d = parts[2] -%}
+    {%- assign slug = '' -%}
+    {%- for part in parts offset:3 -%}
+      {%- if forloop.first -%}
+        {%- assign slug = part -%}
+      {%- else -%}
+        {%- assign slug = slug | append: '-' | append: part -%}
+      {%- endif -%}
+    {%- endfor -%}
+    <li class="sidebar-feed-item">
+      <a class="sidebar-feed-title" href="/news/{{ y }}/{{ m }}/{{ d }}/{{ slug }}/">{{ article.title }}</a>
+      <div class="sidebar-feed-meta">{{ article.date | date: "%b %-d, %Y" }} — {{ article.source }}</div>
+    </li>
+    {%- endfor -%}
+
+    {%- assign critical_count = data.by_relevance.critical.size -%}
+    {%- if critical_count < 5 and data.by_relevance.high.size > 0 -%}
+      {%- assign remaining = 5 | minus: critical_count -%}
+      {%- for article in data.by_relevance.high limit: remaining -%}
+      {%- assign filename_with_ext = article.path | split: '/' | last -%}
+      {%- assign filename = filename_with_ext | replace: '.md', '' -%}
+      {%- assign parts = filename | split: '-' -%}
+      {%- assign y = parts[0] -%}
+      {%- assign m = parts[1] -%}
+      {%- assign d = parts[2] -%}
+      {%- assign slug = '' -%}
+      {%- for part in parts offset:3 -%}
+        {%- if forloop.first -%}
+          {%- assign slug = part -%}
+        {%- else -%}
+          {%- assign slug = slug | append: '-' | append: part -%}
+        {%- endif -%}
+      {%- endfor -%}
+      <li class="sidebar-feed-item">
+        <a class="sidebar-feed-title" href="/news/{{ y }}/{{ m }}/{{ d }}/{{ slug }}/">{{ article.title }}</a>
+        <div class="sidebar-feed-meta">{{ article.date | date: "%b %-d, %Y" }} — {{ article.source }}</div>
+      </li>
+      {%- endfor -%}
+    {%- endif -%}
+  </ul>
+  <a class="sidebar-feed-more" href="{{ '/archive' | relative_url }}">View all articles</a>
+  {%- else -%}
+  <p class="sidebar-feed-empty">No articles available.</p>
+  {%- endif -%}
+</section>
