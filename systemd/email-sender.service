@@ -6,8 +6,8 @@ Wants=postfix.service
 
 [Service]
 Type=oneshot
-User=root
-Group=root
+User=sdw3098
+Group=staff
 
 # Environment variables
 Environment="CONFIG_FILE=/etc/email-sender/config.conf"
