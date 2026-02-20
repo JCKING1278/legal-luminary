@@ -1,78 +1,31 @@
 ---
-title: "News Headlines | kvue.com"
-date: 2026-02-19
-layout: default
-source_url: "https://www.kvue.com/news/#"
-source_name: "KVUE"
-verified_at: 2026-02-19
 category: news
+date: 2026-02-19
+excerpt: Eric Dane, the renowned actor celebrated for his performances in "Grey's
+  Anatomy" and "Euphoria," has died at the age of 53. His passing follows nearly a
+  year after he publicly revealed his diagnosis with amyotrophic lateral sclerosis
+  (ALS), a progressive neurodegenerative disease that affects nerve cells in the...
+layout: default
 news_excerpt: true
+source_name: KVUE
+source_url: https://www.kvue.com/news/#
+title: News Headlines | kvue.com
+verified_at: 2026-02-19
 ---
 
-Skip Navigation
-News
-Weather
-Sports
-RIGHT NOW
-Austin, TX »
-76°
-ADVERTISE WITH US
- 
-LOCAL
- 
-DEFENDERS
- 
-BOOMTOWN
- 
-SPORTS
- 
-HONOR FLIGHT
- 
-RADAR
- 
-FOREVER FAMILIES
- 
-ALLERGIES
- 
-TV LISTINGS
-News Headlines
-Forecast: Cooler weather begins Friday; chilly mornings by Sunday
+Eric Dane, the renowned actor celebrated for his performances in "Grey's Anatomy" and "Euphoria," has died at the age of 53. His passing follows nearly a year after he publicly revealed his diagnosis with amyotrophic lateral sclerosis (ALS), a progressive neurodegenerative disease that affects nerve cells in the brain and spinal cord. Dane's death marks a significant loss in the entertainment industry, where he was known for his impactful roles.
 
-Here are the latest updates from the KVUE Weather Impact Team.
+In addition to this somber news, KVUE reported on several local events and updates. The ongoing trial of Adrian Gonzales, related to the Uvalde school shooting, continues to receive extensive coverage on KVUE+. The station also announced the upcoming Honor Flight Austin, which honors veterans, and the return of Spurs Week in Austin, providing fans with essential information about the festivities.
 
-Featured
-Links mentioned on KVUE News
- 
-Officer on Trial: Uvalde School Shooting | How to watch gavel-to-gavel coverage of Adrian Gonzales' trial on KVUE+
- 
-Honor Flight Austin
- 
-Hearts & Heroes: Flooding in the Texas Hill Country | Streaming Friday at 6:30 p.m. on KVUE+
- 
-Spurs Week returns to Austin: What fans need to know
- 
-How to score free Girl Scout cookies by donating blood in February
- 
-Luke Bryan joins lineup for 2026 iHeartCountry Festival in Austin
- 
-Panic buying: What psychologists say about buying too much food when weather threatens
- 
-SXSW reveals opening TV premiere with Elle Fanning, starting film lineup
-Texas Democrat Taylor Rehmet sworn in as state senator
-UT System adopts new policy limiting discussion of controversial topics in the classroom
-TxDOT seeking community input on new project over 8-mile stretch of US 77 in Lee County
-Why did Alysa Liu retire from figure skating in 2022?
-Original 4 Yogurt Shop Murders suspects declared innocent in emotional exoneration hearing
-Six deaths in six weeks: What to know about ICE detentions in Texas
-Alysa Liu wins 1st Olympic women's figure skating gold medal for US in 24 years
-It’s the fir
+Other community initiatives highlighted include a program that allows individuals to earn free Girl Scout cookies by donating blood, and the announcement of country music star Luke Bryan joining the lineup for the 2026 iHeartCountry Festival in Austin. Furthermore, the Texas Department of Transportation (TxDOT) is seeking community input for a new project along an 8-mile stretch of US 77 in Lee County, underscoring the importance of public engagement in local infrastructure developments.
+
+As the Austin community processes the impact of Dane's passing alongside these ongoing events, the situation reflects both the challenges faced and the spirit of engagement within the area.
 
 ## Source Information
 
 - **Source**: KVUE
-- **Original URL**: [https://www.kvue.com/news/#](https://www.kvue.com/news/#)
+- **Original URL**: https://www.kvue.com/news/#
+- **Published**: 2026-02-19
 - **Verified**: 2026-02-19
 
 ---
-
-*All articles from approved news sources.*

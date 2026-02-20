@@ -1,64 +1,31 @@
 ---
-title: "KWTX Making the Grade"
-date: 2026-02-19
-layout: default
-source_url: "https://www.kwtx.com/news/making-the-grade"
-source_name: "KWTX"
-verified_at: 2026-02-19
 category: news
+date: 2026-02-19
+excerpt: The Texas Education Agency (TEA) has reported that 348 schools statewide
+  have failed to meet educational standards for two consecutive years, putting them
+  at risk of closure or state intervention. This announcement highlights the ongoing
+  challenges Texas schools face in maintaining quality education, as principals...
+layout: default
 news_excerpt: true
+source_name: KWTX
+source_url: https://www.kwtx.com/news/making-the-grade
+title: KWTX Making the Grade
+verified_at: 2026-02-19
 ---
 
-Skip to content
-71°
-Waco, TX
-News
-Weather
-Sports
-LIVE: KWTXtra
-Obituaries
-We the People
-Making The Grade
+The Texas Education Agency (TEA) has reported that 348 schools statewide have failed to meet educational standards for two consecutive years, putting them at risk of closure or state intervention. This announcement highlights the ongoing challenges Texas schools face in maintaining quality education, as principals and administrators strive to improve their ratings to avoid potential takeovers.
 
-MAKING THE GRADE
+In addition to the school performance issues, Texas is contending with a significant teacher shortage, having hired over 43,000 teachers in the last school year. However, this number reflects a 10% decrease from the previous year, indicating ongoing difficulties in attracting and retaining educators, a situation exacerbated by the COVID-19 pandemic. The state is currently exploring new funding and certification initiatives to address this pressing issue.
 
- Turnaround Countdown: Principals work to improve ratings as TEA announces conservator appointments
-Updated: Jan. 26, 2026 at 6:19 PM CST|
-By Clayton Anderson
-Three hundred forty-eight Texas schools have failed state standards two years in a row, putting them at risk of closure or state takeover.
-Super Survey
+Furthermore, Central Texas high school seniors have shared their perspectives on a recent cell phone ban, reporting improvements in classroom engagement and collaboration. One senior noted that the ban has fostered more meaningful conversations during class, suggesting a positive shift in the learning environment.
 
-MAKING THE GRADE
-
- Texas teacher shortage prompts new funding and certification efforts
-Updated: Jan. 13, 2026 at 11:32 AM CST|
-By Jessica Rajkumar
-Texas hired more than 43,000 teachers this past school year, but that is a 10% decrease from the year prior as the state continues to struggle with educator shortages since COVID-19.
-
-MAKING THE GRADE
-
- Central Texas high school seniors sound off on cell phone ban: ‘There’s a lot more conversation in class’
-Updated: Oct. 13, 2025 at 1:35 PM CDT|
-By Jessica Rajkumar
-A high school senior says it’s not just his concentration that’s improving, but also the collaboration between other students, too.  
-
-MAKING THE GRADE
-
- ‘Game plan for safety’: How Central Texas school districts are keeping stands safe on game day
-Updated: Sep. 30, 2025 at 5:01 AM CDT|
-By Clayton Anderson
-Schools in Texas are taking action to step up safety and security at on campus sporting events.
-
-MAKING THE GRADE
-
- Crisis in the Classroom: Educators examine intervention training processes after two Corsicana, Texas teachers injured by st
+As schools implement various strategies to enhance safety and security, particularly during sporting events, the emphasis remains on creating a safe atmosphere for students and staff. These developments in Texas education underscore the urgent need for effective interventions and support systems to ensure the success and safety of students across the state.
 
 ## Source Information
 
 - **Source**: KWTX
-- **Original URL**: [https://www.kwtx.com/news/making-the-grade](https://www.kwtx.com/news/making-the-grade)
+- **Original URL**: https://www.kwtx.com/news/making-the-grade
+- **Published**: 2026-02-19
 - **Verified**: 2026-02-19
 
 ---
-
-*All articles from approved news sources.*

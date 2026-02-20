@@ -1,66 +1,29 @@
 ---
-title: "Six deaths in six weeks: What to know about ICE detentions in Texas | kvue.com"
-date: 2026-02-19
-layout: default
-source_url: "https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41"
-source_name: "KVUE"
-verified_at: 2026-02-19
 category: news
+date: 2026-02-19
+excerpt: ', six individuals have died in ICE detention facilities across Texas, raising
+  significant concerns about the treatment and conditions within these centers. The
+  fatalities include a 55-year-old Cuban man, Geraldo Lunas Campos, who died under
+  controversial circumstances at the Fort Bliss Army tent facility, known as...'
+layout: default
 news_excerpt: true
+source_name: KVUE
+source_url: https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41
+title: 'Six deaths in six weeks: What to know about ICE detentions in Texas | kvue.com'
+verified_at: 2026-02-19
 ---
 
-Skip Navigation
-News
-Weather
-Sports
-RIGHT NOW
-Austin, TX »
-76°
-ADVERTISE WITH US
- 
-LOCAL
- 
-DEFENDERS
- 
-BOOMTOWN
- 
-SPORTS
- 
-HONOR FLIGHT
- 
-RADAR
- 
-FOREVER FAMILIES
- 
-ALLERGIES
- 
-TV LISTINGS
-TEXAS NEWS
-Six deaths in six weeks: What to know about ICE detentions in Texas
-Last year was the deadliest year in ICE detention in two decades. Nearly a quarter of those deaths occurred in Texas.
-More Videos
-Author: Lomi Kriel and Colleen DeGuzman (The Texas Tribune)
-Published: 11:14 AM CST February 19, 2026
-Updated: 4:59 PM CST February 19, 2026
+, six individuals have died in ICE detention facilities across Texas, raising significant concerns about the treatment and conditions within these centers. The fatalities include a 55-year-old Cuban man, Geraldo Lunas Campos, who died under controversial circumstances at the Fort Bliss Army tent facility, known as Camp East Montana. While ICE officials attributed his death to "medical distress," an autopsy later classified it as a homicide due to suffocation while he was being restrained by law enforcement.
 
-THE TEXAS TRIBUNE — The 911 call reported an apparent suicide. 
+This alarming trend comes on the heels of 2025, which was reported as the deadliest year for ICE detentions in two decades, with nearly 25% of those deaths occurring in Texas. The recent deaths have sparked renewed scrutiny of the conditions at the nearly two dozen ICE detention sites in the state, prompting calls for investigations and reforms. Advocates and legal experts are particularly concerned about the lack of accountability and transparency surrounding these incidents, as no criminal investigations or charges have been initiated following the deaths.
 
-A 55-year-old Cuban “tried to hang himself,” a federal contractor alerted emergency responders last month from a sprawling El Paso immigrant detention center. 
-
-By the next day, records show that Geraldo Lunas Campos had died at the facility, marking the second fatality in weeks at the hastily constructed Fort Bliss Army tent structure known as Camp East Montana. Immigration and Customs Enforcement officials attributed his death to “medical distress.” 
-
-But the medical examiner ruled his death a homicide — he was suffocated. The autopsy found that Lunas Campos became “unresponsive while being physically restrained by law enforcement.”
-
-His death, which has so far prompted no criminal investigation or charges, has renewed scrutiny not only on that camp, but on conditions at the nearly two dozen ICE detention sites in Texas. 
-
-In the span of just six weeks between December and January
+The situation highlights ongoing debates about immigration enforcement practices and the treatment of detainees in the U.S. As the scrutiny intensifies, it remains to be seen how ICE will respond to these incidents and whether any changes will be implemented to improve the safety and health conditions within its facilities.
 
 ## Source Information
 
 - **Source**: KVUE
-- **Original URL**: [https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41](https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41)
+- **Original URL**: https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41
+- **Published**: 2026-02-19
 - **Verified**: 2026-02-19
 
 ---
-
-*All articles from approved news sources.*

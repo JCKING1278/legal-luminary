@@ -1,64 +1,29 @@
 ---
-title: "TxDOT seeking community input on new project over 8-mile stretch of US 77 in Lee County | kvue.com"
-date: 2026-02-19
-layout: default
-source_url: "https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591"
-source_name: "KVUE"
-verified_at: 2026-02-19
 category: news
+date: 2026-02-19
+excerpt: expected to increase as the Giddings area continues to develop. The Texas
+  Department of Transportation (TxDOT) is actively seeking community input on a proposed
+  project aimed at improving this 8-mile segment of U.S.
+layout: default
 news_excerpt: true
+source_name: KVUE
+source_url: https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591
+title: TxDOT seeking community input on new project over 8-mile stretch of US 77 in
+  Lee County | kvue.com
+verified_at: 2026-02-19
 ---
 
-Skip Navigation
-News
-Weather
-Sports
-RIGHT NOW
-Austin, TX »
-83°
-ADVERTISE WITH US
- 
-LOCAL
- 
-DEFENDERS
- 
-BOOMTOWN
- 
-SPORTS
- 
-HONOR FLIGHT
- 
-RADAR
- 
-FOREVER FAMILIES
- 
-ALLERGIES
- 
-TV LISTINGS
-LOCAL NEWS
-TxDOT seeking community input on new project over 8-mile stretch of US 77 in Lee County
-The Texas Department of Transportation has been tracking significant growth in the Giddings area, and wants part of of U.S. 77 ready for more traffic to come.
-More Videos
-Author: Daniel Gomez
-Published: 5:01 PM CST February 19, 2026
-Updated: 5:32 PM CST February 19, 2026
+expected to increase as the Giddings area continues to develop. The Texas Department of Transportation (TxDOT) is actively seeking community input on a proposed project aimed at improving this 8-mile segment of U.S. 77, which has been identified as a critical area for traffic management due to rising congestion.
 
-GIDDINGS, Texas — It's a long road ahead for the future of an 8-mile stretch of U.S. 77 in Lee County.
+During an open meeting held on February 19, 2026, TxDOT officials discussed the need for enhancements to accommodate the growing number of vehicles, which averaged over 10,000 daily in 2024. Local residents expressed their concerns about the current traffic conditions, with one resident, Katelyn Kaltwasser, noting the chaos caused by increased travel between major cities like Austin and Houston. She emphasized the necessity for changes to U.S. 77 to alleviate congestion and improve safety.
 
-The Texas Department of Transportation (TxDOT) held an open meeting Thursday to discuss the details of an ambitious project with the communities in and around Giddings.
-
-"I take back roads to avoid 77 in all general areas," Katelyn Kaltwasser said, as she was pumping gas at a gas station along U.S. 290 in Giddings. Not far from U.S. 77, the highway she wants to see some change for. 
-
-"People are already traveling from Austin to Houston," Kaltwasser said. "And, there's already a lot of congestion. Now when you add 77 on to it, I just feel like it has gotten a lot more chaotic."
-
-Up the road, past FM 2440 and before State Highway 21, is an 8-mile stretch of road that TxDOT had been tracking significant growth on. According to the agency, there were 10,102 vehicles daily on the highway daily on average in 2024. That number is 
+The project is part of a broader initiative by TxDOT to address infrastructure needs in rapidly growing areas. Community feedback will play a crucial role in shaping the final plans for the highway improvements. As the agency moves forward, it aims to ensure that the upgrades meet the needs of both current and future traffic demands, ultimately enhancing the overall safety and efficiency of travel in the region.
 
 ## Source Information
 
 - **Source**: KVUE
-- **Original URL**: [https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591](https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591)
+- **Original URL**: https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591
+- **Published**: 2026-02-19
 - **Verified**: 2026-02-19
 
 ---
-
-*All articles from approved news sources.*

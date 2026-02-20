@@ -1,62 +1,30 @@
 ---
-title: "UT System adopts new policy limiting discussion of controversial topics in the classroom | kvue.com"
-date: 2026-02-19
-layout: default
-source_url: "https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391"
-source_name: "KVUE"
-verified_at: 2026-02-19
 category: news
+date: 2026-02-19
+excerpt: The University of Texas System Board of Regents has adopted a new policy
+  aimed at regulating the discussion of controversial topics in the classroom, as
+  announced on February 19, 2026. The policy mandates that faculty adhere strictly
+  to the subjects outlined in their course syllabi and emphasizes a "broad and...
+layout: default
 news_excerpt: true
+source_name: KVUE
+source_url: https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391
+title: UT System adopts new policy limiting discussion of controversial topics in
+  the classroom | kvue.com
+verified_at: 2026-02-19
 ---
 
-Skip Navigation
-News
-Weather
-Sports
-RIGHT NOW
-Austin, TX »
-82°
-ADVERTISE WITH US
- 
-LOCAL
- 
-DEFENDERS
- 
-BOOMTOWN
- 
-SPORTS
- 
-HONOR FLIGHT
- 
-RADAR
- 
-FOREVER FAMILIES
- 
-ALLERGIES
- 
-TV LISTINGS
-UNIVERSITY OF TEXAS
-UT System adopts new policy limiting discussion of controversial topics in the classroom
-The new guidelines instruct faculty to take a “broad and balanced approach” to the discussion and teaching of controversial issues.
-More Videos
-Author: Daniel Perreault
-Published: 5:59 PM CST February 19, 2026
-Updated: 5:59 PM CST February 19, 2026
+The University of Texas System Board of Regents has adopted a new policy aimed at regulating the discussion of controversial topics in the classroom, as announced on February 19, 2026. The policy mandates that faculty adhere strictly to the subjects outlined in their course syllabi and emphasizes a "broad and balanced approach" to teaching contentious issues.
 
-AUSTIN, Texas — The University of Texas Board of Regents voted Thursday morning to adopt a new policy that create guidelines for teaching “controversial and contested” subjects.
+Board Chair Kevin Eltife stated that the policy reflects the UT System's commitment to maintaining high standards of academic integrity and quality in education. He noted that while faculty members have the freedom to teach their subjects, this freedom comes with responsibilities to protect students' rights and comply with state and federal regulations. The new guidelines are intended to ensure that discussions remain focused and aligned with established course content.
 
-The new policy, headlined as new expectations for academic integrity and standards for teaching controversial topics, would require faculty to stick to the topics outlined in their course syllabi.
-
-“This item affirms UT System's commitment to demanding the highest level of integrity and quality from those faculty entrusted to teach and expand the learning experience of our students,” UT System Board of Regents Chair Kevin Eltife said. “Our Regents rules affirm the freedom of our faculty to teach his or her subject in the classroom. However, that freedom comes with many responsibilities that faculty must adhere to in order to preserve academic integrity, ensure our students' rights are protected, and comply with the state and federal directives.”
-
-The proposal for
+This policy is part of a broader trend in educational institutions to navigate the complexities of teaching sensitive subjects, and it raises questions about academic freedom and the role of educators in addressing controversial issues. The implications of this policy may affect how faculty approach their teaching and engage with students on critical societal topics moving forward.
 
 ## Source Information
 
 - **Source**: KVUE
-- **Original URL**: [https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391](https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391)
+- **Original URL**: https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391
+- **Published**: 2026-02-19
 - **Verified**: 2026-02-19
 
 ---
-
-*All articles from approved news sources.*

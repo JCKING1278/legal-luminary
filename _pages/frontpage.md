@@ -99,15 +99,32 @@ Our mission is to help residents of Killeen, Temple, Belton, Harker Heights, Cop
 <li><strong>Personal Injury Basics</strong> — Rights when individuals have been injured</li>
 </ul>
 
-## Recent Article
+## Highlighted News
 
 <div class="articles-list">
+{% assign important_articles = site.data.important_articles.articles %}
+{% for article in important_articles limit:12 %}
+{% assign filename_with_ext = article.path | split: '/' | last %}
+{% assign filename = filename_with_ext | replace: '.md', '' %}
+{% assign filename_parts = filename | split: '-' %}
+{% assign article_year = filename_parts[0] %}
+{% assign article_month = filename_parts[1] %}
+{% assign article_day = filename_parts[2] %}
+{% assign slug = '' %}
+{% for part in filename_parts offset:3 %}
+  {% if forloop.first %}
+    {% assign slug = part %}
+  {% else %}
+    {% assign slug = slug | append: '-' | append: part %}
+  {% endif %}
+{% endfor %}
 <div class="article-item">
-<h4><a href="/news/2026/02/11/bell-county-legal-resource-center/">Bell County Commissioners Approve New Legal Resource Center</a></h4>
-<p class="article-date">February 11, 2026</p>
-<p class="article-excerpt">The Bell County Commissioners Court met on February 11, 2026 to discuss emerging community legal services. The commissioners approved funding for a new centralized legal resource center to serve residents across Bell County.</p>
-<a href="/news/2026/02/11/bell-county-legal-resource-center/" class="read-more">Read More →</a>
+<h4><a href="/news/{{ article_year }}/{{ article_month }}/{{ article_day }}/{{ slug }}/">{{ article.title }}</a></h4>
+<p class="article-date">{{ article.date | date: "%B %d, %Y" }}</p>
+<p class="article-excerpt">Source: {{ article.source }} | Relevance Score: {{ article.score }}</p>
+<a href="/news/{{ article_year }}/{{ article_month }}/{{ article_day }}/{{ slug }}/" class="read-more">Read More →</a>
 </div>
+{% endfor %}
 </div>
 
 <div class="legal-notice">

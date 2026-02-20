@@ -1,67 +1,31 @@
 ---
-title: "From The Ground Up"
-date: 2026-02-19
-layout: default
-source_url: "https://www.kbtx.com/news/from-the-ground-up"
-source_name: "KBTX"
-verified_at: 2026-02-19
 category: news
+date: 2026-02-19
+excerpt: As spring approaches, farmers and home gardeners in Bryan, Texas, are actively
+  engaged in planting activities, reflecting a growing interest in local food production,
+  according to a recent update from KBTX. The "From the Ground Up" segment emphasizes
+  the importance of this seasonal shift and highlights the efforts...
+layout: default
 news_excerpt: true
+source_name: KBTX
+source_url: https://www.kbtx.com/news/from-the-ground-up
+title: From The Ground Up
+verified_at: 2026-02-19
 ---
 
-Skip to content
-70°
-Bryan, TX
-News
-Weather
-Sports
-The Three
-Watch Live
-Big 6 Project
-Advertise
-KBTX Marketplace
-From The Ground Up
+As spring approaches, farmers and home gardeners in Bryan, Texas, are actively engaged in planting activities, reflecting a growing interest in local food production, according to a recent update from KBTX. The "From the Ground Up" segment emphasizes the importance of this seasonal shift and highlights the efforts of agricultural researchers to enhance pork production efficiency through innovative methods that allow producers to increase output while minimizing resource usage.
 
-FROM THE GROUND UP
+The article notes that recent advancements in pork production are particularly significant given the fluctuating market conditions that have historically impacted profit margins in the industry. While beef prices have remained strong, the outlook for pork producers appears to be improving, suggesting a potential stabilization in profit margins that could benefit local farmers.
 
- From the Ground Up: Growing Your Own Garden Transplants
-Updated: 12 hours ago|
-By Jonathan Polasek
-It’s looking like spring has sprung, and that means that both farmers and home gardeners alike are busy planting.
+Additionally, the segment addresses the challenges posed by extreme weather conditions, such as freezing temperatures, which necessitate special precautions from ranchers to protect their livestock. This aspect of ranch management is vital for maintaining the health and productivity of cattle during harsh weather.
 
-FROM THE GROUND UP
-
- From the Ground Up: Technology Advances in Pork Production
-Updated: Feb. 12, 2026 at 7:26 AM CST|
-By Jonathan Polasek
-Agricultural researchers continue to look for ways for farmers and ranchers to produce more while using fewer resources, and in recent years, pork producers have done just that.
-
-FROM THE GROUND UP
-
- From the Ground Up: Pork Production
-Updated: Feb. 5, 2026 at 7:28 AM CST|
-By Jonathan Polasek
-While prices have been very good for beef producers for some time now, that hasn’t been true for the pork industry, but it now looks like profit margins are going to get better at least for the foreseeable future.
-
-FROM THE GROUND UP
-
- From the Ground Up: Taking Care of Cattle in Freezing Weather
-Updated: Jan. 29, 2026 at 7:40 AM CST|
-By Jonathan Polasek
-Freezing weather like we had last weekend had local meteorologists warning viewers to prepare by protecting pipes, plants, and pets. There’s a little more to it if you’re a rancher having to take care of cattle.
-
-FROM THE GROUND UP
-
- From the Ground Up: Accelerating Selective Breeding in Beef Cattle
-Updated: Jan. 22, 2026 at 7:40 AM CST|
-By 
+Overall, the updates reflect a broader trend in agriculture towards sustainability and efficiency, underscoring the ongoing efforts of local farmers and ranchers to adapt to changing environmental conditions and market demands. As these practices evolve, they are likely to have significant implications for the local economy and food supply in Bryan and surrounding areas.
 
 ## Source Information
 
 - **Source**: KBTX
-- **Original URL**: [https://www.kbtx.com/news/from-the-ground-up](https://www.kbtx.com/news/from-the-ground-up)
+- **Original URL**: https://www.kbtx.com/news/from-the-ground-up
+- **Published**: 2026-02-19
 - **Verified**: 2026-02-19
 
 ---
-
-*All articles from approved news sources.*

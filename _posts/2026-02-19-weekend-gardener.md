@@ -1,82 +1,29 @@
 ---
-title: "Weekend Gardener"
-date: 2026-02-19
-layout: default
-source_url: "https://www.kbtx.com/news/garden"
-source_name: "KBTX"
-verified_at: 2026-02-19
 category: news
+date: 2026-02-19
+excerpt: In a recent update from KBTX, gardening expert Karla Castillo advises residents
+  of the Brazos Valley to delay maintenance on any plants affected by the recent winter
+  freeze. The freeze has caused significant damage to various plants in the area,
+  and experts recommend waiting before taking any action to assess the...
+layout: default
 news_excerpt: true
+source_name: KBTX
+source_url: https://www.kbtx.com/news/garden
+title: Weekend Gardener
+verified_at: 2026-02-19
 ---
 
-Skip to content
-70°
-Bryan, TX
-News
-Weather
-Sports
-The Three
-Watch Live
-Big 6 Project
-Advertise
-KBTX Marketplace
-Weekend Gardener
+In a recent update from KBTX, gardening expert Karla Castillo advises residents of the Brazos Valley to delay maintenance on any plants affected by the recent winter freeze. The freeze has caused significant damage to various plants in the area, and experts recommend waiting before taking any action to assess the full extent of the damage.
 
-NEWS
+Previous segments of the "Weekend Gardener" series have covered a range of topics, including the importance of pruning roses, the upcoming registration deadline for Junior Master Gardener National Leader Training, and discussions on citrus varieties. Notably, Castillo highlighted the need to hold off on pruning trees until the weather stabilizes, emphasizing that premature maintenance could harm the plants.
 
- Weekend Gardener: Wait on maintenance on any freeze damaged plants
-Updated: Feb. 13, 2026 at 9:05 AM CST|
-By Karla Castillo
-The recent winter freeze has taken a toll on some plants across the Brazos Valley.
-
-NEWS
-
- Weekend Gardener: Pruning your roses
-Updated: Feb. 6, 2026 at 8:32 AM CST|
-By Karla Castillo
-This time of year is a great reminder of the importance of maintenance for your roses.
-
-NEWS
-
- Weekend Gardener: Registration deadline approaching for JMG National Leader Training
-Updated: Jan. 30, 2026 at 7:47 AM CST|
-By Karla Castillo
-The deadline to register is February 9.
-
-NEWS
-
- Weekend Gardener: Citrus varieties
-Updated: Jan. 16, 2026 at 8:44 AM CST|
-By Karla Castillo
-Tim Hartmann with Texas A&M AgriLife talks about some citrus varieties, including the kumquat.
-
-NEWS
-
- Weekend Gardener: Wait to prune your trees
-Updated: Jan. 9, 2026 at 7:46 AM CST|
-By Karla Castillo
-You may be getting the urge to prune some of the trees in your yard but experts say, hold off for a bit longer.
-
-NEWS
-
- Weekend Gardener: Tool maintenance
-Updated: Jan. 2, 2026 at 7:22 AM CST|
-By Karla Castillo
-“A clean tool, a sharp tool, is always your best friend in the garden,” said Stephen Brueggerhoff with Texas A&M AgriLife.
-
-NEWS
-
- Weekend Gardener: How to wrap shrubs, small trees to protect from frost
-Updated: Dec. 26, 2025 at 7:14 AM CST|
-By Karla Castillo
-You c
+The advice provided is crucial for local gardeners as they navigate the challenges posed by the winter weather. As the gardening season approaches, residents are encouraged to stay informed about best practices to ensure the health and longevity of their plants.
 
 ## Source Information
 
 - **Source**: KBTX
-- **Original URL**: [https://www.kbtx.com/news/garden](https://www.kbtx.com/news/garden)
+- **Original URL**: https://www.kbtx.com/news/garden
+- **Published**: 2026-02-19
 - **Verified**: 2026-02-19
 
 ---
-
-*All articles from approved news sources.*
