@@ -104,7 +104,7 @@ sass:
   sass_dir: _sass
 
 # Collections (if needed for future expansion)
-collections_dir: collections
+# collections_dir: collections
 
 # Build Output
 destination: _site
