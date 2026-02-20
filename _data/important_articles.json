@@ -1,5 +1,5 @@
 {
-  "validated_at": "2026-02-19T20:58:18.575038",
+  "validated_at": "2026-02-19T21:28:24.328133",
   "total_articles": 23,
   "by_relevance": {
     "critical": [
@@ -8,8 +8,8 @@
         "date": "2026-02-19",
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/politics/texas-legislature/democrat-taylor-rehmet-sworn-in-texas-state-senator/269-ff3f7e37-3a17-42ef-8c3c-6a087aa0dfe0",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-texas-democrat-taylor-rehmet-s.md",
-        "score": 1800,
+        "path": "_posts/2026-02-19-texas-democrat-taylor-rehmet-s.md",
+        "score": 1650,
         "relevance": "critical",
         "matched_keywords": [
           {
@@ -19,19 +19,13 @@
             "score": 500
           },
           {
-            "keyword": "senate",
-            "priority": "critical",
-            "count": 3,
-            "score": 300
-          },
-          {
             "keyword": "election",
             "priority": "critical",
-            "count": 3,
-            "score": 300
+            "count": 4,
+            "score": 400
           },
           {
-            "keyword": "legislature",
+            "keyword": "senate",
             "priority": "critical",
             "count": 2,
             "score": 200
@@ -39,30 +33,42 @@
           {
             "keyword": "republican",
             "priority": "high",
-            "count": 4,
-            "score": 200
+            "count": 3,
+            "score": 150
           },
           {
             "keyword": "democrat",
             "priority": "high",
-            "count": 4,
-            "score": 200
+            "count": 3,
+            "score": 150
           },
           {
-            "keyword": "state senate",
+            "keyword": "voter",
             "priority": "critical",
             "count": 1,
             "score": 100
+          },
+          {
+            "keyword": "legislature",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "candidate",
+            "priority": "high",
+            "count": 1,
+            "score": 50
           }
         ]
       },
       {
-        "title": "Husband of US Rep. Tony Gonzales' deceased staffer alleges they were having an affair, lawyer says | kvue.com",
+        "title": "Officer on Trial: Uvalde School Shooting | How to watch gavel-to-gavel coverage",
         "date": "2026-02-19",
         "source": "KVUE",
-        "url": "https://www.kvue.com/article/news/politics/tony-gonzales-affair-allegations-staffer-set-herself-on-fire-uvalde-texas/273-0b21fb3c-3a7b-4433-a1bb-72fbba3c2b8b",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-husband-of-us-rep-tony-gonzal.md",
-        "score": 950,
+        "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/how-to-watch-uvalde-school-officer-trial-stream-school-shooting-full-coverage-adrian-gonzales-robb-elementary/269-96f76586-f373-460a-9195-4429551aa5fe",
+        "path": "_posts/2026-02-19-officer-on-trial-uvalde-schoo.md",
+        "score": 550,
         "relevance": "critical",
         "matched_keywords": [
           {
@@ -72,22 +78,68 @@
             "score": 300
           },
           {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "investigat",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "investigation",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Bell County Commissioners Approve New Legal Resource Center",
+        "date": "2026-02-11",
+        "source": "Killeen Daily Herald",
+        "url": "https://www.killeendailyherald.com/",
+        "path": "_posts/2026-02-11-bell-county-legal-resource-center.md",
+        "score": 375,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 13,
+            "score": 325
+          },
+          {
+            "keyword": "court",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "attorney",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Husband of US Rep. Tony Gonzales' deceased staffer alleges they were having",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/politics/tony-gonzales-affair-allegations-staffer-set-herself-on-fire-uvalde-texas/273-0b21fb3c-3a7b-4433-a1bb-72fbba3c2b8b",
+        "path": "_posts/2026-02-19-husband-of-us-rep-tony-gonzal.md",
+        "score": 350,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
             "keyword": "congress",
             "priority": "critical",
-            "count": 2,
-            "score": 200
-          },
-          {
-            "keyword": "congressman",
-            "priority": "critical",
-            "count": 2,
-            "score": 200
-          },
-          {
-            "keyword": "lawyer",
-            "priority": "medium",
-            "count": 3,
-            "score": 75
+            "count": 1,
+            "score": 100
           },
           {
             "keyword": "investigat",
@@ -110,18 +162,94 @@
           {
             "keyword": "attorney",
             "priority": "medium",
+            "count": 2,
+            "score": 50
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Six deaths in six weeks: What to know about ICE detentions in Texas | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41",
+        "path": "_posts/2026-02-19-six-deaths-in-six-weeks-what.md",
+        "score": 325,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "law",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "investigat",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "investigation",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
             "count": 1,
             "score": 25
           }
         ]
       },
       {
-        "title": "Officer on Trial: Uvalde School Shooting | How to watch gavel-to-gavel coverage of Adrian Gonzales' trial on KVUE+ | kvue.com",
+        "title": "Original 4 Yogurt Shop Murders suspects declared innocent in emotional exoneration",
         "date": "2026-02-19",
         "source": "KVUE",
-        "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/how-to-watch-uvalde-school-officer-trial-stream-school-shooting-full-coverage-adrian-gonzales-robb-elementary/269-96f76586-f373-460a-9195-4429551aa5fe",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-officer-on-trial-uvalde-schoo.md",
-        "score": 425,
+        "url": "https://www.kvue.com/article/news/crime/yogurt-shop-murders-suspects-innocent-exoneration-hearing/269-8a1f4ceb-1dfb-4dd6-b7e2-197bc42776ff",
+        "path": "_posts/2026-02-19-original-4-yogurt-shop-murders.md",
+        "score": 225,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "ruling",
+            "priority": "medium",
+            "count": 3,
+            "score": 75
+          },
+          {
+            "keyword": "investigat",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "judge",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "How to score free Girl Scout cookies by donating blood in February | kvue.com",
+        "date": "2026-02-04",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196",
+        "path": "_posts/2026-02-04-how-to-score-free-girl-scout-c.md",
+        "score": 175,
         "relevance": "critical",
         "matched_keywords": [
           {
@@ -131,240 +259,13 @@
             "score": 100
           },
           {
-            "keyword": "law",
-            "priority": "critical",
-            "count": 1,
-            "score": 100
-          },
-          {
-            "keyword": "investigat",
-            "priority": "high",
-            "count": 2,
-            "score": 100
-          },
-          {
-            "keyword": "investigation",
+            "keyword": "campaign",
             "priority": "high",
             "count": 1,
-            "score": 50
-          },
-          {
-            "keyword": "court",
-            "priority": "medium",
-            "count": 2,
-            "score": 50
-          },
-          {
-            "keyword": "ruling",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          }
-        ]
-      },
-      {
-        "title": "Tell Me Something Good",
-        "date": "2026-02-19",
-        "source": "KWTX",
-        "url": "https://www.kwtx.com/news/tell-me-something-good",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-tell-me-something-good.md",
-        "score": 425,
-        "relevance": "critical",
-        "matched_keywords": [
-          {
-            "keyword": "bill",
-            "priority": "critical",
-            "count": 3,
-            "score": 300
-          },
-          {
-            "keyword": "court",
-            "priority": "medium",
-            "count": 3,
-            "score": 75
-          },
-          {
-            "keyword": "legal",
-            "priority": "medium",
-            "count": 2,
-            "score": 50
-          }
-        ]
-      },
-      {
-        "title": "Brazos Valley Groundwater Conservation",
-        "date": "2026-02-19",
-        "source": "KBTX",
-        "url": "https://www.kbtx.com/news/bv-groundwater",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-brazos-valley-groundwater-cons.md",
-        "score": 300,
-        "relevance": "critical",
-        "matched_keywords": [
-          {
-            "keyword": "law",
-            "priority": "critical",
-            "count": 3,
-            "score": 300
-          }
-        ]
-      },
-      {
-        "title": "News Headlines | kvue.com",
-        "date": "2026-02-19",
-        "source": "KVUE",
-        "url": "https://www.kvue.com/news/#",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-news-headlines-kvue-com.md",
-        "score": 275,
-        "relevance": "critical",
-        "matched_keywords": [
-          {
-            "keyword": "senator",
-            "priority": "critical",
-            "count": 1,
-            "score": 100
-          },
-          {
-            "keyword": "law",
-            "priority": "critical",
-            "count": 1,
-            "score": 100
-          },
-          {
-            "keyword": "democrat",
-            "priority": "high",
-            "count": 1,
-            "score": 50
-          },
-          {
-            "keyword": "lawyer",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          }
-        ]
-      },
-      {
-        "title": "Restaurant Report Card",
-        "date": "2026-02-19",
-        "source": "KWTX",
-        "url": "https://www.kwtx.com/news/restaurant-report-card",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-restaurant-report-card.md",
-        "score": 250,
-        "relevance": "critical",
-        "matched_keywords": [
-          {
-            "keyword": "bill",
-            "priority": "critical",
-            "count": 2,
-            "score": 200
-          },
-          {
-            "keyword": "legal",
-            "priority": "medium",
-            "count": 2,
-            "score": 50
-          }
-        ]
-      },
-      {
-        "title": "Original 4 Yogurt Shop Murders suspects declared innocent in emotional exoneration hearing | kvue.com",
-        "date": "2026-02-19",
-        "source": "KVUE",
-        "url": "https://www.kvue.com/article/news/crime/yogurt-shop-murders-suspects-innocent-exoneration-hearing/269-8a1f4ceb-1dfb-4dd6-b7e2-197bc42776ff",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-original-4-yogurt-shop-murders.md",
-        "score": 200,
-        "relevance": "critical",
-        "matched_keywords": [
-          {
-            "keyword": "law",
-            "priority": "critical",
-            "count": 1,
-            "score": 100
-          },
-          {
-            "keyword": "judge",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          },
-          {
-            "keyword": "court",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          },
-          {
-            "keyword": "ruling",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          },
-          {
-            "keyword": "legal",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          }
-        ]
-      },
-      {
-        "title": "Six deaths in six weeks: What to know about ICE detentions in Texas | kvue.com",
-        "date": "2026-02-19",
-        "source": "KVUE",
-        "url": "https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-six-deaths-in-six-weeks-what.md",
-        "score": 200,
-        "relevance": "critical",
-        "matched_keywords": [
-          {
-            "keyword": "law",
-            "priority": "critical",
-            "count": 1,
-            "score": 100
-          },
-          {
-            "keyword": "investigat",
-            "priority": "high",
-            "count": 1,
-            "score": 50
-          },
-          {
-            "keyword": "investigation",
-            "priority": "high",
-            "count": 1,
-            "score": 50
-          }
-        ]
-      },
-      {
-        "title": "Good News Friday",
-        "date": "2026-02-13",
-        "source": "KWTX",
-        "url": "https://www.kwtx.com/news/good-news-friday",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-13-good-news-friday.md",
-        "score": 125,
-        "relevance": "critical",
-        "matched_keywords": [
-          {
-            "keyword": "legal",
-            "priority": "medium",
-            "count": 2,
             "score": 50
           },
           {
             "keyword": "appoint",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          },
-          {
-            "keyword": "appointed",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          },
-          {
-            "keyword": "governor",
             "priority": "medium",
             "count": 1,
             "score": 25
@@ -376,7 +277,7 @@
         "date": "2026-02-19",
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/nation-world/eric-dane-dies-als/507-b1498807-1b28-4c0e-be79-3c025e1080c7",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-eric-dane-grey-s-anatomy-an.md",
+        "path": "_posts/2026-02-19-eric-dane-grey-s-anatomy-an.md",
         "score": 100,
         "relevance": "critical",
         "matched_keywords": [
@@ -389,77 +290,60 @@
         ]
       },
       {
-        "title": "Links mentioned on KVUE News | kvue.com",
+        "title": "Brazos Valley Groundwater Conservation",
         "date": "2026-02-19",
-        "source": "KVUE",
-        "url": "https://www.kvue.com/article/news/news-links-on-kvue/269-44048917",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-links-mentioned-on-kvue-news.md",
+        "source": "KBTX",
+        "url": "https://www.kbtx.com/news/bv-groundwater",
+        "path": "_posts/2026-02-19-brazos-valley-groundwater-cons.md",
         "score": 100,
         "relevance": "critical",
         "matched_keywords": [
           {
-            "keyword": "voter",
+            "keyword": "law",
             "priority": "critical",
             "count": 1,
             "score": 100
+          }
+        ]
+      },
+      {
+        "title": "Good News Friday",
+        "date": "2026-02-13",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/news/good-news-friday",
+        "path": "_posts/2026-02-13-good-news-friday.md",
+        "score": 100,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "appoint",
+            "priority": "medium",
+            "count": 3,
+            "score": 75
+          },
+          {
+            "keyword": "governor",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
           }
         ]
       }
     ],
     "high": [
       {
-        "title": "Bell County Commissioners Approve New Legal Resource Center",
-        "date": "2026-02-11",
-        "source": "Killeen Daily Herald",
-        "url": "https://www.killeendailyherald.com/",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-11-bell-county-legal-resource-center.md",
-        "score": 75,
-        "relevance": "high",
-        "matched_keywords": [
-          {
-            "keyword": "legal",
-            "priority": "medium",
-            "count": 2,
-            "score": 50
-          },
-          {
-            "keyword": "court",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          }
-        ]
-      },
-      {
         "title": "Xtra! Xtra! Interviews",
         "date": "2026-02-19",
         "source": "KWTX",
         "url": "https://www.kwtx.com/video-gallery/news/xtra/xtra-xtra",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-xtra-xtra-interviews.md",
+        "path": "_posts/2026-02-19-xtra-xtra-interviews.md",
         "score": 50,
         "relevance": "high",
         "matched_keywords": [
           {
-            "keyword": "legal",
-            "priority": "medium",
-            "count": 2,
-            "score": 50
-          }
-        ]
-      },
-      {
-        "title": "Hardwired",
-        "date": "2026-02-19",
-        "source": "KWTX",
-        "url": "https://www.kwtx.com/content/news/entertainment/Hardwired",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-hardwired.md",
-        "score": 50,
-        "relevance": "high",
-        "matched_keywords": [
-          {
-            "keyword": "legal",
-            "priority": "medium",
-            "count": 2,
+            "keyword": "campaign",
+            "priority": "high",
+            "count": 1,
             "score": 50
           }
         ]
@@ -467,33 +351,16 @@
     ],
     "medium": [
       {
-        "title": "How to score free Girl Scout cookies by donating blood in February | kvue.com",
-        "date": "2026-02-04",
-        "source": "KVUE",
-        "url": "https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-04-how-to-score-free-girl-scout-c.md",
-        "score": 25,
-        "relevance": "medium",
-        "matched_keywords": [
-          {
-            "keyword": "appoint",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          }
-        ]
-      },
-      {
-        "title": "KWTX Making the Grade",
+        "title": "Tell Me Something Good",
         "date": "2026-02-19",
         "source": "KWTX",
-        "url": "https://www.kwtx.com/news/making-the-grade",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-kwtx-making-the-grade.md",
+        "url": "https://www.kwtx.com/news/tell-me-something-good",
+        "path": "_posts/2026-02-19-tell-me-something-good.md",
         "score": 25,
         "relevance": "medium",
         "matched_keywords": [
           {
-            "keyword": "appoint",
+            "keyword": "court",
             "priority": "medium",
             "count": 1,
             "score": 25
@@ -503,11 +370,41 @@
     ],
     "low": [
       {
-        "title": "They once competed for viewers. Now 2 former Austin TV news anchors are working together | kvue.com",
+        "title": "Weekend Gardener",
+        "date": "2026-02-19",
+        "source": "KBTX",
+        "url": "https://www.kbtx.com/news/garden",
+        "path": "_posts/2026-02-19-weekend-gardener.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "UT System adopts new policy limiting discussion of controversial topics in",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391",
+        "path": "_posts/2026-02-19-ut-system-adopts-new-policy-li.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "TxDOT seeking community input on new project over 8-mile stretch of US 77 in",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591",
+        "path": "_posts/2026-02-19-txdot-seeking-community-input.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "They once competed for viewers. Now 2 former Austin TV news anchors are working",
         "date": "2026-02-19",
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/community/former-austin-tv-news-anchors-atx-good-news-positive-stories/269-59152c19-4e5a-43dd-844a-6d303d584d8a",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-they-once-competed-for-viewers.md",
+        "path": "_posts/2026-02-19-they-once-competed-for-viewers.md",
         "score": 0,
         "relevance": "low",
         "matched_keywords": []
@@ -517,27 +414,57 @@
         "date": "2026-02-19",
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/local/hearts-and-heroes-flooding-in-the-texas-hill-country-kvue-plus-premiere-how-to/269-c78d319d-a3d1-4aae-b87b-2c939c133629",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-stream-hearts-and-heroes-floo.md",
+        "path": "_posts/2026-02-19-stream-hearts-and-heroes-floo.md",
         "score": 0,
         "relevance": "low",
         "matched_keywords": []
       },
       {
-        "title": "UT System adopts new policy limiting discussion of controversial topics in the classroom | kvue.com",
+        "title": "Restaurant Report Card",
         "date": "2026-02-19",
-        "source": "KVUE",
-        "url": "https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-ut-system-adopts-new-policy-li.md",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/news/restaurant-report-card",
+        "path": "_posts/2026-02-19-restaurant-report-card.md",
         "score": 0,
         "relevance": "low",
         "matched_keywords": []
       },
       {
-        "title": "TxDOT seeking community input on new project over 8-mile stretch of US 77 in Lee County | kvue.com",
+        "title": "News Headlines | kvue.com",
         "date": "2026-02-19",
         "source": "KVUE",
-        "url": "https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-txdot-seeking-community-input.md",
+        "url": "https://www.kvue.com/news/#",
+        "path": "_posts/2026-02-19-news-headlines-kvue-com.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "Links mentioned on KVUE News | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/news-links-on-kvue/269-44048917",
+        "path": "_posts/2026-02-19-links-mentioned-on-kvue-news.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "KWTX Making the Grade",
+        "date": "2026-02-19",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/news/making-the-grade",
+        "path": "_posts/2026-02-19-kwtx-making-the-grade.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "Hardwired",
+        "date": "2026-02-19",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/content/news/entertainment/Hardwired",
+        "path": "_posts/2026-02-19-hardwired.md",
         "score": 0,
         "relevance": "low",
         "matched_keywords": []
@@ -547,17 +474,7 @@
         "date": "2026-02-19",
         "source": "KBTX",
         "url": "https://www.kbtx.com/news/from-the-ground-up",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-from-the-ground-up.md",
-        "score": 0,
-        "relevance": "low",
-        "matched_keywords": []
-      },
-      {
-        "title": "Weekend Gardener",
-        "date": "2026-02-19",
-        "source": "KBTX",
-        "url": "https://www.kbtx.com/news/garden",
-        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-weekend-gardener.md",
+        "path": "_posts/2026-02-19-from-the-ground-up.md",
         "score": 0,
         "relevance": "low",
         "matched_keywords": []
@@ -570,8 +487,8 @@
       "date": "2026-02-19",
       "source": "KVUE",
       "url": "https://www.kvue.com/article/news/politics/texas-legislature/democrat-taylor-rehmet-sworn-in-texas-state-senator/269-ff3f7e37-3a17-42ef-8c3c-6a087aa0dfe0",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-texas-democrat-taylor-rehmet-s.md",
-      "score": 1800,
+      "path": "_posts/2026-02-19-texas-democrat-taylor-rehmet-s.md",
+      "score": 1650,
       "relevance": "critical",
       "matched_keywords": [
         {
@@ -581,19 +498,13 @@
           "score": 500
         },
         {
-          "keyword": "senate",
-          "priority": "critical",
-          "count": 3,
-          "score": 300
-        },
-        {
           "keyword": "election",
           "priority": "critical",
-          "count": 3,
-          "score": 300
+          "count": 4,
+          "score": 400
         },
         {
-          "keyword": "legislature",
+          "keyword": "senate",
           "priority": "critical",
           "count": 2,
           "score": 200
@@ -601,30 +512,42 @@
         {
           "keyword": "republican",
           "priority": "high",
-          "count": 4,
-          "score": 200
+          "count": 3,
+          "score": 150
         },
         {
           "keyword": "democrat",
           "priority": "high",
-          "count": 4,
-          "score": 200
+          "count": 3,
+          "score": 150
         },
         {
-          "keyword": "state senate",
+          "keyword": "voter",
           "priority": "critical",
           "count": 1,
           "score": 100
+        },
+        {
+          "keyword": "legislature",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "candidate",
+          "priority": "high",
+          "count": 1,
+          "score": 50
         }
       ]
     },
     {
-      "title": "Husband of US Rep. Tony Gonzales' deceased staffer alleges they were having an affair, lawyer says | kvue.com",
+      "title": "Officer on Trial: Uvalde School Shooting | How to watch gavel-to-gavel coverage",
       "date": "2026-02-19",
       "source": "KVUE",
-      "url": "https://www.kvue.com/article/news/politics/tony-gonzales-affair-allegations-staffer-set-herself-on-fire-uvalde-texas/273-0b21fb3c-3a7b-4433-a1bb-72fbba3c2b8b",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-husband-of-us-rep-tony-gonzal.md",
-      "score": 950,
+      "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/how-to-watch-uvalde-school-officer-trial-stream-school-shooting-full-coverage-adrian-gonzales-robb-elementary/269-96f76586-f373-460a-9195-4429551aa5fe",
+      "path": "_posts/2026-02-19-officer-on-trial-uvalde-schoo.md",
+      "score": 550,
       "relevance": "critical",
       "matched_keywords": [
         {
@@ -634,22 +557,68 @@
           "score": 300
         },
         {
+          "keyword": "election",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "investigat",
+          "priority": "high",
+          "count": 2,
+          "score": 100
+        },
+        {
+          "keyword": "investigation",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Bell County Commissioners Approve New Legal Resource Center",
+      "date": "2026-02-11",
+      "source": "Killeen Daily Herald",
+      "url": "https://www.killeendailyherald.com/",
+      "path": "_posts/2026-02-11-bell-county-legal-resource-center.md",
+      "score": 375,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 13,
+          "score": 325
+        },
+        {
+          "keyword": "court",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        },
+        {
+          "keyword": "attorney",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "Husband of US Rep. Tony Gonzales' deceased staffer alleges they were having",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/politics/tony-gonzales-affair-allegations-staffer-set-herself-on-fire-uvalde-texas/273-0b21fb3c-3a7b-4433-a1bb-72fbba3c2b8b",
+      "path": "_posts/2026-02-19-husband-of-us-rep-tony-gonzal.md",
+      "score": 350,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
           "keyword": "congress",
           "priority": "critical",
-          "count": 2,
-          "score": 200
-        },
-        {
-          "keyword": "congressman",
-          "priority": "critical",
-          "count": 2,
-          "score": 200
-        },
-        {
-          "keyword": "lawyer",
-          "priority": "medium",
-          "count": 3,
-          "score": 75
+          "count": 1,
+          "score": 100
         },
         {
           "keyword": "investigat",
@@ -672,200 +641,14 @@
         {
           "keyword": "attorney",
           "priority": "medium",
-          "count": 1,
-          "score": 25
-        }
-      ]
-    },
-    {
-      "title": "Officer on Trial: Uvalde School Shooting | How to watch gavel-to-gavel coverage of Adrian Gonzales' trial on KVUE+ | kvue.com",
-      "date": "2026-02-19",
-      "source": "KVUE",
-      "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/how-to-watch-uvalde-school-officer-trial-stream-school-shooting-full-coverage-adrian-gonzales-robb-elementary/269-96f76586-f373-460a-9195-4429551aa5fe",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-officer-on-trial-uvalde-schoo.md",
-      "score": 425,
-      "relevance": "critical",
-      "matched_keywords": [
-        {
-          "keyword": "election",
-          "priority": "critical",
-          "count": 1,
-          "score": 100
-        },
-        {
-          "keyword": "law",
-          "priority": "critical",
-          "count": 1,
-          "score": 100
-        },
-        {
-          "keyword": "investigat",
-          "priority": "high",
-          "count": 2,
-          "score": 100
-        },
-        {
-          "keyword": "investigation",
-          "priority": "high",
-          "count": 1,
-          "score": 50
-        },
-        {
-          "keyword": "court",
-          "priority": "medium",
           "count": 2,
           "score": 50
-        },
-        {
-          "keyword": "ruling",
-          "priority": "medium",
-          "count": 1,
-          "score": 25
-        }
-      ]
-    },
-    {
-      "title": "Tell Me Something Good",
-      "date": "2026-02-19",
-      "source": "KWTX",
-      "url": "https://www.kwtx.com/news/tell-me-something-good",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-tell-me-something-good.md",
-      "score": 425,
-      "relevance": "critical",
-      "matched_keywords": [
-        {
-          "keyword": "bill",
-          "priority": "critical",
-          "count": 3,
-          "score": 300
-        },
-        {
-          "keyword": "court",
-          "priority": "medium",
-          "count": 3,
-          "score": 75
         },
         {
           "keyword": "legal",
           "priority": "medium",
           "count": 2,
           "score": 50
-        }
-      ]
-    },
-    {
-      "title": "Brazos Valley Groundwater Conservation",
-      "date": "2026-02-19",
-      "source": "KBTX",
-      "url": "https://www.kbtx.com/news/bv-groundwater",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-brazos-valley-groundwater-cons.md",
-      "score": 300,
-      "relevance": "critical",
-      "matched_keywords": [
-        {
-          "keyword": "law",
-          "priority": "critical",
-          "count": 3,
-          "score": 300
-        }
-      ]
-    },
-    {
-      "title": "News Headlines | kvue.com",
-      "date": "2026-02-19",
-      "source": "KVUE",
-      "url": "https://www.kvue.com/news/#",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-news-headlines-kvue-com.md",
-      "score": 275,
-      "relevance": "critical",
-      "matched_keywords": [
-        {
-          "keyword": "senator",
-          "priority": "critical",
-          "count": 1,
-          "score": 100
-        },
-        {
-          "keyword": "law",
-          "priority": "critical",
-          "count": 1,
-          "score": 100
-        },
-        {
-          "keyword": "democrat",
-          "priority": "high",
-          "count": 1,
-          "score": 50
-        },
-        {
-          "keyword": "lawyer",
-          "priority": "medium",
-          "count": 1,
-          "score": 25
-        }
-      ]
-    },
-    {
-      "title": "Restaurant Report Card",
-      "date": "2026-02-19",
-      "source": "KWTX",
-      "url": "https://www.kwtx.com/news/restaurant-report-card",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-restaurant-report-card.md",
-      "score": 250,
-      "relevance": "critical",
-      "matched_keywords": [
-        {
-          "keyword": "bill",
-          "priority": "critical",
-          "count": 2,
-          "score": 200
-        },
-        {
-          "keyword": "legal",
-          "priority": "medium",
-          "count": 2,
-          "score": 50
-        }
-      ]
-    },
-    {
-      "title": "Original 4 Yogurt Shop Murders suspects declared innocent in emotional exoneration hearing | kvue.com",
-      "date": "2026-02-19",
-      "source": "KVUE",
-      "url": "https://www.kvue.com/article/news/crime/yogurt-shop-murders-suspects-innocent-exoneration-hearing/269-8a1f4ceb-1dfb-4dd6-b7e2-197bc42776ff",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-original-4-yogurt-shop-murders.md",
-      "score": 200,
-      "relevance": "critical",
-      "matched_keywords": [
-        {
-          "keyword": "law",
-          "priority": "critical",
-          "count": 1,
-          "score": 100
-        },
-        {
-          "keyword": "judge",
-          "priority": "medium",
-          "count": 1,
-          "score": 25
-        },
-        {
-          "keyword": "court",
-          "priority": "medium",
-          "count": 1,
-          "score": 25
-        },
-        {
-          "keyword": "ruling",
-          "priority": "medium",
-          "count": 1,
-          "score": 25
-        },
-        {
-          "keyword": "legal",
-          "priority": "medium",
-          "count": 1,
-          "score": 25
         }
       ]
     },
@@ -874,8 +657,8 @@
       "date": "2026-02-19",
       "source": "KVUE",
       "url": "https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-six-deaths-in-six-weeks-what.md",
-      "score": 200,
+      "path": "_posts/2026-02-19-six-deaths-in-six-weeks-what.md",
+      "score": 325,
       "relevance": "critical",
       "matched_keywords": [
         {
@@ -887,135 +670,50 @@
         {
           "keyword": "investigat",
           "priority": "high",
-          "count": 1,
-          "score": 50
+          "count": 2,
+          "score": 100
         },
         {
           "keyword": "investigation",
           "priority": "high",
-          "count": 1,
-          "score": 50
-        }
-      ]
-    },
-    {
-      "title": "Good News Friday",
-      "date": "2026-02-13",
-      "source": "KWTX",
-      "url": "https://www.kwtx.com/news/good-news-friday",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-13-good-news-friday.md",
-      "score": 125,
-      "relevance": "critical",
-      "matched_keywords": [
+          "count": 2,
+          "score": 100
+        },
         {
           "keyword": "legal",
           "priority": "medium",
-          "count": 2,
-          "score": 50
-        },
-        {
-          "keyword": "appoint",
-          "priority": "medium",
-          "count": 1,
-          "score": 25
-        },
-        {
-          "keyword": "appointed",
-          "priority": "medium",
-          "count": 1,
-          "score": 25
-        },
-        {
-          "keyword": "governor",
-          "priority": "medium",
           "count": 1,
           "score": 25
         }
       ]
     },
     {
-      "title": "Eric Dane, 'Grey's Anatomy' and 'Euphoria' star, dies at 53 | kvue.com",
+      "title": "Original 4 Yogurt Shop Murders suspects declared innocent in emotional exoneration",
       "date": "2026-02-19",
       "source": "KVUE",
-      "url": "https://www.kvue.com/article/news/nation-world/eric-dane-dies-als/507-b1498807-1b28-4c0e-be79-3c025e1080c7",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-eric-dane-grey-s-anatomy-an.md",
-      "score": 100,
+      "url": "https://www.kvue.com/article/news/crime/yogurt-shop-murders-suspects-innocent-exoneration-hearing/269-8a1f4ceb-1dfb-4dd6-b7e2-197bc42776ff",
+      "path": "_posts/2026-02-19-original-4-yogurt-shop-murders.md",
+      "score": 225,
       "relevance": "critical",
       "matched_keywords": [
         {
-          "keyword": "bill",
-          "priority": "critical",
-          "count": 1,
-          "score": 100
-        }
-      ]
-    },
-    {
-      "title": "Links mentioned on KVUE News | kvue.com",
-      "date": "2026-02-19",
-      "source": "KVUE",
-      "url": "https://www.kvue.com/article/news/news-links-on-kvue/269-44048917",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-links-mentioned-on-kvue-news.md",
-      "score": 100,
-      "relevance": "critical",
-      "matched_keywords": [
+          "keyword": "ruling",
+          "priority": "medium",
+          "count": 3,
+          "score": 75
+        },
         {
-          "keyword": "voter",
-          "priority": "critical",
+          "keyword": "investigat",
+          "priority": "high",
           "count": 1,
-          "score": 100
-        }
-      ]
-    },
-    {
-      "title": "Bell County Commissioners Approve New Legal Resource Center",
-      "date": "2026-02-11",
-      "source": "Killeen Daily Herald",
-      "url": "https://www.killeendailyherald.com/",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-11-bell-county-legal-resource-center.md",
-      "score": 75,
-      "relevance": "high",
-      "matched_keywords": [
+          "score": 50
+        },
         {
-          "keyword": "legal",
+          "keyword": "judge",
           "priority": "medium",
           "count": 2,
           "score": 50
         },
-        {
-          "keyword": "court",
-          "priority": "medium",
-          "count": 1,
-          "score": 25
-        }
-      ]
-    },
-    {
-      "title": "Xtra! Xtra! Interviews",
-      "date": "2026-02-19",
-      "source": "KWTX",
-      "url": "https://www.kwtx.com/video-gallery/news/xtra/xtra-xtra",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-xtra-xtra-interviews.md",
-      "score": 50,
-      "relevance": "high",
-      "matched_keywords": [
-        {
-          "keyword": "legal",
-          "priority": "medium",
-          "count": 2,
-          "score": 50
-        }
-      ]
-    },
-    {
-      "title": "Hardwired",
-      "date": "2026-02-19",
-      "source": "KWTX",
-      "url": "https://www.kwtx.com/content/news/entertainment/Hardwired",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-hardwired.md",
-      "score": 50,
-      "relevance": "high",
-      "matched_keywords": [
         {
           "keyword": "legal",
           "priority": "medium",
@@ -1029,10 +727,22 @@
       "date": "2026-02-04",
       "source": "KVUE",
       "url": "https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-04-how-to-score-free-girl-scout-c.md",
-      "score": 25,
-      "relevance": "medium",
+      "path": "_posts/2026-02-04-how-to-score-free-girl-scout-c.md",
+      "score": 175,
+      "relevance": "critical",
       "matched_keywords": [
+        {
+          "keyword": "election",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "campaign",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        },
         {
           "keyword": "appoint",
           "priority": "medium",
@@ -1042,16 +752,90 @@
       ]
     },
     {
-      "title": "KWTX Making the Grade",
+      "title": "Eric Dane, 'Grey's Anatomy' and 'Euphoria' star, dies at 53 | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/nation-world/eric-dane-dies-als/507-b1498807-1b28-4c0e-be79-3c025e1080c7",
+      "path": "_posts/2026-02-19-eric-dane-grey-s-anatomy-an.md",
+      "score": 100,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "bill",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        }
+      ]
+    },
+    {
+      "title": "Brazos Valley Groundwater Conservation",
+      "date": "2026-02-19",
+      "source": "KBTX",
+      "url": "https://www.kbtx.com/news/bv-groundwater",
+      "path": "_posts/2026-02-19-brazos-valley-groundwater-cons.md",
+      "score": 100,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "law",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        }
+      ]
+    },
+    {
+      "title": "Good News Friday",
+      "date": "2026-02-13",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/news/good-news-friday",
+      "path": "_posts/2026-02-13-good-news-friday.md",
+      "score": 100,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "appoint",
+          "priority": "medium",
+          "count": 3,
+          "score": 75
+        },
+        {
+          "keyword": "governor",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "Xtra! Xtra! Interviews",
       "date": "2026-02-19",
       "source": "KWTX",
-      "url": "https://www.kwtx.com/news/making-the-grade",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-kwtx-making-the-grade.md",
+      "url": "https://www.kwtx.com/video-gallery/news/xtra/xtra-xtra",
+      "path": "_posts/2026-02-19-xtra-xtra-interviews.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "campaign",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Tell Me Something Good",
+      "date": "2026-02-19",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/news/tell-me-something-good",
+      "path": "_posts/2026-02-19-tell-me-something-good.md",
       "score": 25,
       "relevance": "medium",
       "matched_keywords": [
         {
-          "keyword": "appoint",
+          "keyword": "court",
           "priority": "medium",
           "count": 1,
           "score": 25
@@ -1059,11 +843,41 @@
       ]
     },
     {
-      "title": "They once competed for viewers. Now 2 former Austin TV news anchors are working together | kvue.com",
+      "title": "Weekend Gardener",
+      "date": "2026-02-19",
+      "source": "KBTX",
+      "url": "https://www.kbtx.com/news/garden",
+      "path": "_posts/2026-02-19-weekend-gardener.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "UT System adopts new policy limiting discussion of controversial topics in",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391",
+      "path": "_posts/2026-02-19-ut-system-adopts-new-policy-li.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "TxDOT seeking community input on new project over 8-mile stretch of US 77 in",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591",
+      "path": "_posts/2026-02-19-txdot-seeking-community-input.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "They once competed for viewers. Now 2 former Austin TV news anchors are working",
       "date": "2026-02-19",
       "source": "KVUE",
       "url": "https://www.kvue.com/article/news/community/former-austin-tv-news-anchors-atx-good-news-positive-stories/269-59152c19-4e5a-43dd-844a-6d303d584d8a",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-they-once-competed-for-viewers.md",
+      "path": "_posts/2026-02-19-they-once-competed-for-viewers.md",
       "score": 0,
       "relevance": "low",
       "matched_keywords": []
@@ -1073,27 +887,57 @@
       "date": "2026-02-19",
       "source": "KVUE",
       "url": "https://www.kvue.com/article/news/local/hearts-and-heroes-flooding-in-the-texas-hill-country-kvue-plus-premiere-how-to/269-c78d319d-a3d1-4aae-b87b-2c939c133629",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-stream-hearts-and-heroes-floo.md",
+      "path": "_posts/2026-02-19-stream-hearts-and-heroes-floo.md",
       "score": 0,
       "relevance": "low",
       "matched_keywords": []
     },
     {
-      "title": "UT System adopts new policy limiting discussion of controversial topics in the classroom | kvue.com",
+      "title": "Restaurant Report Card",
       "date": "2026-02-19",
-      "source": "KVUE",
-      "url": "https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-ut-system-adopts-new-policy-li.md",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/news/restaurant-report-card",
+      "path": "_posts/2026-02-19-restaurant-report-card.md",
       "score": 0,
       "relevance": "low",
       "matched_keywords": []
     },
     {
-      "title": "TxDOT seeking community input on new project over 8-mile stretch of US 77 in Lee County | kvue.com",
+      "title": "News Headlines | kvue.com",
       "date": "2026-02-19",
       "source": "KVUE",
-      "url": "https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-txdot-seeking-community-input.md",
+      "url": "https://www.kvue.com/news/#",
+      "path": "_posts/2026-02-19-news-headlines-kvue-com.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "Links mentioned on KVUE News | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/news-links-on-kvue/269-44048917",
+      "path": "_posts/2026-02-19-links-mentioned-on-kvue-news.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "KWTX Making the Grade",
+      "date": "2026-02-19",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/news/making-the-grade",
+      "path": "_posts/2026-02-19-kwtx-making-the-grade.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "Hardwired",
+      "date": "2026-02-19",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/content/news/entertainment/Hardwired",
+      "path": "_posts/2026-02-19-hardwired.md",
       "score": 0,
       "relevance": "low",
       "matched_keywords": []
@@ -1103,17 +947,7 @@
       "date": "2026-02-19",
       "source": "KBTX",
       "url": "https://www.kbtx.com/news/from-the-ground-up",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-from-the-ground-up.md",
-      "score": 0,
-      "relevance": "low",
-      "matched_keywords": []
-    },
-    {
-      "title": "Weekend Gardener",
-      "date": "2026-02-19",
-      "source": "KBTX",
-      "url": "https://www.kbtx.com/news/garden",
-      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-weekend-gardener.md",
+      "path": "_posts/2026-02-19-from-the-ground-up.md",
       "score": 0,
       "relevance": "low",
       "matched_keywords": []
