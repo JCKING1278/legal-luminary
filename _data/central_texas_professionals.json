@@ -1,6 +1,13 @@
 {
   "notaries": [
     {
+      "name": "E. A Heisey",
+      "city": "Bell County",
+      "phone": "(254) 238-7639",
+      "expire_date": "",
+      "notary_id": ""
+    },
+    {
       "name": "Kathy Lapham",
       "city": "The Woodlands",
       "phone": "",
@@ -13,13 +20,6 @@
       "phone": "",
       "expire_date": "07/12/2026",
       "notary_id": "133853828"
-    },
-    {
-      "name": "E. A Heisey",
-      "city": "Bell County",
-      "phone": "(254) 238-7639",
-      "expire_date": "",
-      "notary_id": ""
     }
   ],
   "tdlr_licensees": [
@@ -31,5 +31,6 @@
       "city": "Killeen",
       "county": "Bell"
     }
-  ]
+  ],
+  "generated_at": "2026-02-19T00:00:00Z"
 }

@@ -1,0 +1,64 @@
+{
+  "navigation": [
+    {
+      "title": "Home",
+      "url": "/",
+      "section": "main"
+    },
+    {
+      "title": "Criminal Defense",
+      "url": "/defense/",
+      "section": "services"
+    },
+    {
+      "title": "Personal Injury",
+      "url": "/personal-injury/",
+      "section": "services"
+    },
+    {
+      "title": "Bell County",
+      "url": "/bell-county/",
+      "section": "resources"
+    },
+    {
+      "title": "Texas Law",
+      "url": "/texas-law/",
+      "section": "resources"
+    },
+    {
+      "title": "Resources",
+      "url": "/resources/",
+      "section": "resources"
+    },
+    {
+      "title": "Legal News",
+      "url": "/legal-news/",
+      "section": "news"
+    },
+    {
+      "title": "News Feeds",
+      "url": "/news-feeds/",
+      "section": "news"
+    },
+    {
+      "title": "About",
+      "url": "/about/",
+      "section": "main"
+    }
+  ],
+  "footer_links": [
+    {
+      "title": "Privacy Policy",
+      "url": "/privacy/"
+    },
+    {
+      "title": "Terms of Service",
+      "url": "/terms/"
+    },
+    {
+      "title": "Contact",
+      "url": "/contact/"
+    }
+  ],
+  "generated_at": "2026-02-19T00:00:00Z"
+}
