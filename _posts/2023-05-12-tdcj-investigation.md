@@ -1,10 +1,10 @@
 ---
 title: "TDCJ Investigation"
-date: 2026-02-19
+date: 2023-05-12
 layout: default
 source_url: "https://www.kbtx.com/news/tdcj-investigation"
 source_name: "KBTX"
-verified_at: 2026-02-19
+verified_at: 2023-05-12
 category: news
 news_excerpt: true
 ---
@@ -61,9 +61,8 @@ More details emerge from TDCJ reports regarding escaped inmate Gonzalo Lop
 ## Source Information
 
 - **Source**: KBTX
-- **Original URL**: [https://www.kbtx.com/news/tdcj-investigation](https://www.kbtx.com/news/tdcj-investigation)
-- **Verified**: 2026-02-19
+- **Original URL**: https://www.kbtx.com/news/tdcj-investigation
+- **Published**: 2023-05-12
+- **Verified**: 2023-05-12
 
 ---
-
-*All articles from approved news sources.*

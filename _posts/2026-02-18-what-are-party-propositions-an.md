@@ -1,10 +1,10 @@
 ---
 title: "What are party propositions and do they actually do anything? | kvue.com"
-date: 2026-02-19
+date: 2026-02-18
 layout: default
 source_url: "https://www.kvue.com/article/news/politics/vote-texas/party-propositions-primary-election-ballots-texas/269-8111fb7d-2f67-4b8c-b283-466697793600"
 source_name: "KVUE"
-verified_at: 2026-02-19
+verified_at: 2026-02-18
 category: news
 news_excerpt: true
 ---

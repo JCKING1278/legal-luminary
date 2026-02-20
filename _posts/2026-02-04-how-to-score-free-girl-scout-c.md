@@ -1,10 +1,10 @@
 ---
 title: "How to score free Girl Scout cookies by donating blood in February | kvue.com"
-date: 2026-02-19
+date: 2026-02-04
 layout: default
 source_url: "https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196"
 source_name: "KVUE"
-verified_at: 2026-02-19
+verified_at: 2026-02-04
 category: news
 news_excerpt: true
 ---
@@ -55,9 +55,8 @@ Blood and platelet donors are welcome to schedule an appointment or stop by as w
 ## Source Information
 
 - **Source**: KVUE
-- **Original URL**: [https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196](https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196)
-- **Verified**: 2026-02-19
+- **Original URL**: https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196
+- **Published**: 2026-02-04
+- **Verified**: 2026-02-04
 
 ---
-
-*All articles from approved news sources.*

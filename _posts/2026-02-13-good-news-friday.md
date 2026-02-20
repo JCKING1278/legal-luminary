@@ -1,10 +1,10 @@
 ---
 title: "Good News Friday"
-date: 2026-02-19
+date: 2026-02-13
 layout: default
 source_url: "https://www.kwtx.com/news/good-news-friday"
 source_name: "KWTX"
-verified_at: 2026-02-19
+verified_at: 2026-02-13
 category: news
 news_excerpt: true
 ---
