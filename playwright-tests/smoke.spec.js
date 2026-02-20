@@ -15,8 +15,8 @@ test.describe('Legal Luminary Smoke Tests', () => {
   test('recent article section exists and contains content', async ({ page }) => {
     await page.goto('https://sweeden-ttu.github.io/legal-luminary/');
     
-    // Check for "Recent Article" heading
-    const recentHeading = page.getByRole('heading', { name: /Recent Article/i });
+            // Check for "Recent Article" heading (exact match to avoid matching "Recent Articles")
+            const recentHeading = page.getByRole('heading', { name: 'Recent Article', exact: true });
     await expect(recentHeading).toBeVisible();
     
     // Check that article item exists
