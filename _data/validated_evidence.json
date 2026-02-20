@@ -1,0 +1,1872 @@
+{
+  "validated_at": "2026-02-19T19:45:42.703371",
+  "total_articles": 42,
+  "by_relevance": {
+    "critical": [
+      {
+        "title": "What are party propositions and do they actually do anything? | kvue.com",
+        "date": "2026-02-18",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/politics/vote-texas/party-propositions-primary-election-ballots-texas/269-8111fb7d-2f67-4b8c-b283-466697793600",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-18-what-are-party-propositions-an.md",
+        "score": 2125,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "ballot",
+            "priority": "critical",
+            "count": 6,
+            "score": 600
+          },
+          {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 5,
+            "score": 500
+          },
+          {
+            "keyword": "voting",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "party",
+            "priority": "high",
+            "count": 5,
+            "score": 250
+          },
+          {
+            "keyword": "voter",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "democrat",
+            "priority": "high",
+            "count": 3,
+            "score": 150
+          },
+          {
+            "keyword": "republican",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Texas Democrat Taylor Rehmet sworn in as state senator | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/politics/texas-legislature/democrat-taylor-rehmet-sworn-in-texas-state-senator/269-ff3f7e37-3a17-42ef-8c3c-6a087aa0dfe0",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-texas-democrat-taylor-rehmet-s.md",
+        "score": 2050,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "senator",
+            "priority": "critical",
+            "count": 6,
+            "score": 600
+          },
+          {
+            "keyword": "senate",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "legislature",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "democrat",
+            "priority": "high",
+            "count": 5,
+            "score": 250
+          },
+          {
+            "keyword": "republican",
+            "priority": "high",
+            "count": 4,
+            "score": 200
+          },
+          {
+            "keyword": "state senate",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          }
+        ]
+      },
+      {
+        "title": "Republican Robert Brown seeks District 10 seat",
+        "date": "2026-02-19",
+        "source": "KBTX News",
+        "url": "https://www.kbtx.com/2026/02/19/republican-robert-brown-seeks-district-10-seat/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-republican-robert-brown-seeks-district-10-seat.md",
+        "score": 500,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "republican",
+            "priority": "high",
+            "count": 5,
+            "score": 250
+          },
+          {
+            "keyword": "congress",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Tell Me Something Good",
+        "date": "2026-02-19",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/news/tell-me-something-good",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-13-tell-me-something-good.md",
+        "score": 425,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "bill",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "court",
+            "priority": "medium",
+            "count": 3,
+            "score": 75
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Officer on Trial: Uvalde School Shooting | How to watch gavel-to-gavel coverage of Adrian Gonzales' trial on KVUE+ | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/how-to-watch-uvalde-school-officer-trial-stream-school-shooting-full-coverage-adrian-gonzales-robb-elementary/269-96f76586-f373-460a-9195-4429551aa5fe",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-officer-on-trial-uvalde-schoo.md",
+        "score": 425,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "law",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "investigat",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "investigation",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "court",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          },
+          {
+            "keyword": "ruling",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Brazos Valley Groundwater Conservation",
+        "date": "2026-02-19",
+        "source": "KBTX",
+        "url": "https://www.kbtx.com/news/bv-groundwater",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-brazos-valley-groundwater-cons.md",
+        "score": 300,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "law",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          }
+        ]
+      },
+      {
+        "title": "WATCH: Waco police release video of possible kidnapping; suspect sought",
+        "date": "2026-02-19",
+        "source": "KWTX News",
+        "url": "https://www.kwtx.com/2026/02/19/watch-waco-police-release-video-possible-kidnapping-suspect-sought/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-watch-waco-police-release-video-of-possible-kidnap.md",
+        "score": 300,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "investigat",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "investigation",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "party",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Holiday Reminder: Updating Your Will After Life Changes This Year",
+        "date": "2025-12-02",
+        "source": "",
+        "url": "https://statutes.capitol.texas.gov/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2025-12-02-holiday-reminder-updating-your-will.md",
+        "score": 300,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "law",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "attorney",
+            "priority": "medium",
+            "count": 3,
+            "score": 75
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Temple Police Department investigates a traffic accident, 1 deceased",
+        "date": "2026-02-12",
+        "source": "Temple Police Department",
+        "url": "https://city-of-temple.prowly.com/446336-temple-police-department-investigates-a-traffic-accident-1-deceased",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-temple-police-department-investigates-a-traffic-ac.md",
+        "score": 300,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "investigat",
+            "priority": "high",
+            "count": 5,
+            "score": 250
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Restaurant Report Card",
+        "date": "2026-02-19",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/news/restaurant-report-card",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-restaurant-report-card.md",
+        "score": 250,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "bill",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Killeen Police Investigating the Murder of a 22-Year-Old Male",
+        "date": "2026-02-12",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/02/10/killeen-police-investigating-the-murder-of-a-22-year-old-male/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-killeen-police-investigating-the-murder-of-a-22-ye.md",
+        "score": 250,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "investigat",
+            "priority": "high",
+            "count": 4,
+            "score": 200
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Killeen Police Investigating the Murder of a 35-Year-Old Male",
+        "date": "2026-02-12",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/02/01/killeen-police-investigating-the-murder-of-a-35-year-old-male/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-killeen-police-investigating-the-murder-of-a-35-ye.md",
+        "score": 250,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "investigat",
+            "priority": "high",
+            "count": 4,
+            "score": 200
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Original 4 Yogurt Shop Murders suspects declared innocent in emotional exoneration hearing | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/crime/yogurt-shop-murders-suspects-innocent-exoneration-hearing/269-8a1f4ceb-1dfb-4dd6-b7e2-197bc42776ff",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-original-4-yogurt-shop-murders.md",
+        "score": 200,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "law",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "judge",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "court",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "ruling",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Six deaths in six weeks: What to know about ICE detentions in Texas | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-six-deaths-in-six-weeks-what.md",
+        "score": 200,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "law",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "investigat",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "investigation",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "News Headlines | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/news/#",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-news-headlines-kvue-com.md",
+        "score": 150,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "senator",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "democrat",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Waco family escapes fire thanks to smoke detector",
+        "date": "2026-02-19",
+        "source": "KWTX News",
+        "url": "https://www.kwtx.com/2026/02/19/waco-firefighters-battle-house-fire-thursday-morning/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-waco-family-escapes-fire-thanks-to-smoke-detector.md",
+        "score": 150,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "investigat",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "investigation",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Teenager Grace Smith reported missing in Bell County, Texas",
+        "date": "2026-02-19",
+        "source": "KWTX News",
+        "url": "https://www.kwtx.com/2026/02/19/bell-county-sheriffs-office-searching-missing-endangered-juvenile/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-teenager-grace-smith-reported-missing-in-bell-coun.md",
+        "score": 150,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "law",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Good News Friday",
+        "date": "2026-02-13",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/news/good-news-friday",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-13-good-news-friday.md",
+        "score": 125,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          },
+          {
+            "keyword": "appoint",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "appointed",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "governor",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Links mentioned on KVUE News | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/news-links-on-kvue/269-44048917",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-links-mentioned-on-kvue-news.md",
+        "score": 100,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "voter",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          }
+        ]
+      }
+    ],
+    "high": [
+      {
+        "title": "Bell County Commissioners Approve New Legal Resource Center",
+        "date": "2026-02-11",
+        "source": "Killeen Daily Herald",
+        "url": "https://www.killeendailyherald.com/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-11-bell-county-legal-resource-center.md",
+        "score": 75,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          },
+          {
+            "keyword": "court",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Xtra! Xtra! Interviews",
+        "date": "2026-02-19",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/video-gallery/news/xtra/xtra-xtra",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-xtra-xtra-interviews.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Hardwired",
+        "date": "2026-02-19",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/content/news/entertainment/Hardwired",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-hardwired.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "City of Temple in talks of installing paid parking downtown",
+        "date": "2026-02-19",
+        "source": "KWTX News",
+        "url": "https://www.kwtx.com/2026/02/19/city-temple-talks-installing-paid-parking-downtown/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-city-of-temple-in-talks-of-installing-paid-parking.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Temple High School Prepares Students for Real-World Automotive Careers",
+        "date": "2026-02-19",
+        "source": "KWTX News",
+        "url": "https://www.kwtx.com/2026/02/19/temple-high-school-prepares-students-real-world-automotive-careers/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-temple-high-school-prepares-students-for-real-worl.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Navasota calls for volunteers for 24th annual community cleanup",
+        "date": "2026-02-19",
+        "source": "KBTX News",
+        "url": "https://www.kbtx.com/2026/02/19/navasota-calls-volunteers-24th-annual-community-cleanup/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-navasota-calls-for-volunteers-for-24th-annual-comm.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Twin City Mission offers resources for individuals experiencing dating violence",
+        "date": "2026-02-19",
+        "source": "KBTX News",
+        "url": "https://www.kbtx.com/2026/02/19/twin-city-mission-offers-resources-individuals-experiencing-dating-violence/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-twin-city-mission-offers-resources-for-individuals.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Seasonal February makes a brief return this weekend",
+        "date": "2026-02-19",
+        "source": "KBTX News",
+        "url": "https://www.kbtx.com/2026/02/19/seasonal-february-makes-brief-return-this-weekend/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-seasonal-february-makes-a-brief-return-this-weeken.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "College Station ISD extends application deadline for out-of-district transfer program",
+        "date": "2026-02-19",
+        "source": "KBTX News",
+        "url": "https://www.kbtx.com/2026/02/19/college-station-isd-extends-application-deadline-out-of-district-transfer-program/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-college-station-isd-extends-application-deadline-f.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "City of Temple to Host 5th Annual Black History Month Ceremony",
+        "date": "2026-02-12",
+        "source": "Temple Police Department",
+        "url": "https://city-of-temple.prowly.com/446284-city-of-temple-to-host-5th-annual-black-history-month-ceremony",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-city-of-temple-to-host-5th-annual-black-history-mo.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "\u200bCode Compliance",
+        "date": "2026-02-12",
+        "source": "Temple Police Department",
+        "url": "https://city-of-temple.prowly.com/446338-code-compliance",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-code-compliance.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Killeen Police Identify and Arrest Murder Suspect",
+        "date": "2026-02-12",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/02/11/killeen-police-identify-and-arrest-murder-suspect-3/",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-killeen-police-identify-and-arrest-murder-suspect.md",
+        "score": 50,
+        "relevance": "high",
+        "matched_keywords": [
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          }
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "title": "How to score free Girl Scout cookies by donating blood in February | kvue.com",
+        "date": "2026-02-04",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-04-how-to-score-free-girl-scout-c.md",
+        "score": 25,
+        "relevance": "medium",
+        "matched_keywords": [
+          {
+            "keyword": "appoint",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "KWTX Making the Grade",
+        "date": "2026-02-19",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/news/making-the-grade",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-kwtx-making-the-grade.md",
+        "score": 25,
+        "relevance": "medium",
+        "matched_keywords": [
+          {
+            "keyword": "appoint",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Statement released on behalf of Yogurt Shop Murders victim's family following exoneration of 4 original suspects | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/local/yogurt-shop-murders-exoneration-amy-ayers-family/269-eda6be96-6645-45f8-a894-a5f425a1fda2",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-statement-released-on-behalf-o.md",
+        "score": 25,
+        "relevance": "medium",
+        "matched_keywords": [
+          {
+            "keyword": "court",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      }
+    ],
+    "low": [
+      {
+        "title": "Feel Good Friday",
+        "date": "2026-02-19",
+        "source": "KBTX",
+        "url": "https://www.kbtx.com/news/feel-good-friday",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-13-feel-good-friday.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "From The Ground Up",
+        "date": "2026-02-19",
+        "source": "KBTX",
+        "url": "https://www.kbtx.com/news/from-the-ground-up",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-from-the-ground-up.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "Weekend Gardener",
+        "date": "2026-02-19",
+        "source": "KBTX",
+        "url": "https://www.kbtx.com/news/garden",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-weekend-gardener.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "TxDOT seeking community input on new project over 8-mile stretch of US 77 in Lee County | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-txdot-seeking-community-input.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "Texas Panhandle ranchers on edge as Lavender and 8 Ball fires burn 18,000+ acres | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/local/texas/texas-panhandle-ranchers-on-edge-lavender-8-ball-fires-burn-18000-acres/287-0c44d9f6-11b2-4bfc-94d5-5f3cebc69a0e",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-texas-panhandle-ranchers-on-ed.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "Stream Hearts and Heroes: Flooding in the Texas Hill Country on KVUE+ | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/local/hearts-and-heroes-flooding-in-the-texas-hill-country-kvue-plus-premiere-how-to/269-c78d319d-a3d1-4aae-b87b-2c939c133629",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-stream-hearts-and-heroes-floo.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "UT System adopts new policy limiting discussion of controversial topics in the classroom | kvue.com",
+        "date": "2026-02-19",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-ut-system-adopts-new-policy-li.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "Hello World",
+        "date": "",
+        "source": "",
+        "url": "",
+        "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-hello-world.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": []
+      }
+    ]
+  },
+  "all_articles": [
+    {
+      "title": "What are party propositions and do they actually do anything? | kvue.com",
+      "date": "2026-02-18",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/politics/vote-texas/party-propositions-primary-election-ballots-texas/269-8111fb7d-2f67-4b8c-b283-466697793600",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-18-what-are-party-propositions-an.md",
+      "score": 2125,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "ballot",
+          "priority": "critical",
+          "count": 6,
+          "score": 600
+        },
+        {
+          "keyword": "election",
+          "priority": "critical",
+          "count": 5,
+          "score": 500
+        },
+        {
+          "keyword": "voting",
+          "priority": "critical",
+          "count": 3,
+          "score": 300
+        },
+        {
+          "keyword": "party",
+          "priority": "high",
+          "count": 5,
+          "score": 250
+        },
+        {
+          "keyword": "voter",
+          "priority": "critical",
+          "count": 2,
+          "score": 200
+        },
+        {
+          "keyword": "democrat",
+          "priority": "high",
+          "count": 3,
+          "score": 150
+        },
+        {
+          "keyword": "republican",
+          "priority": "high",
+          "count": 2,
+          "score": 100
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "Texas Democrat Taylor Rehmet sworn in as state senator | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/politics/texas-legislature/democrat-taylor-rehmet-sworn-in-texas-state-senator/269-ff3f7e37-3a17-42ef-8c3c-6a087aa0dfe0",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-texas-democrat-taylor-rehmet-s.md",
+      "score": 2050,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "senator",
+          "priority": "critical",
+          "count": 6,
+          "score": 600
+        },
+        {
+          "keyword": "senate",
+          "priority": "critical",
+          "count": 3,
+          "score": 300
+        },
+        {
+          "keyword": "election",
+          "priority": "critical",
+          "count": 3,
+          "score": 300
+        },
+        {
+          "keyword": "legislature",
+          "priority": "critical",
+          "count": 3,
+          "score": 300
+        },
+        {
+          "keyword": "democrat",
+          "priority": "high",
+          "count": 5,
+          "score": 250
+        },
+        {
+          "keyword": "republican",
+          "priority": "high",
+          "count": 4,
+          "score": 200
+        },
+        {
+          "keyword": "state senate",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        }
+      ]
+    },
+    {
+      "title": "Republican Robert Brown seeks District 10 seat",
+      "date": "2026-02-19",
+      "source": "KBTX News",
+      "url": "https://www.kbtx.com/2026/02/19/republican-robert-brown-seeks-district-10-seat/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-republican-robert-brown-seeks-district-10-seat.md",
+      "score": 500,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "republican",
+          "priority": "high",
+          "count": 5,
+          "score": 250
+        },
+        {
+          "keyword": "congress",
+          "priority": "critical",
+          "count": 2,
+          "score": 200
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Tell Me Something Good",
+      "date": "2026-02-19",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/news/tell-me-something-good",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-13-tell-me-something-good.md",
+      "score": 425,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "bill",
+          "priority": "critical",
+          "count": 3,
+          "score": 300
+        },
+        {
+          "keyword": "court",
+          "priority": "medium",
+          "count": 3,
+          "score": 75
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Officer on Trial: Uvalde School Shooting | How to watch gavel-to-gavel coverage of Adrian Gonzales' trial on KVUE+ | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/how-to-watch-uvalde-school-officer-trial-stream-school-shooting-full-coverage-adrian-gonzales-robb-elementary/269-96f76586-f373-460a-9195-4429551aa5fe",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-officer-on-trial-uvalde-schoo.md",
+      "score": 425,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "election",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "law",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "investigat",
+          "priority": "high",
+          "count": 2,
+          "score": 100
+        },
+        {
+          "keyword": "investigation",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        },
+        {
+          "keyword": "court",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        },
+        {
+          "keyword": "ruling",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "Brazos Valley Groundwater Conservation",
+      "date": "2026-02-19",
+      "source": "KBTX",
+      "url": "https://www.kbtx.com/news/bv-groundwater",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-brazos-valley-groundwater-cons.md",
+      "score": 300,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "law",
+          "priority": "critical",
+          "count": 3,
+          "score": 300
+        }
+      ]
+    },
+    {
+      "title": "WATCH: Waco police release video of possible kidnapping; suspect sought",
+      "date": "2026-02-19",
+      "source": "KWTX News",
+      "url": "https://www.kwtx.com/2026/02/19/watch-waco-police-release-video-possible-kidnapping-suspect-sought/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-watch-waco-police-release-video-of-possible-kidnap.md",
+      "score": 300,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "investigat",
+          "priority": "high",
+          "count": 2,
+          "score": 100
+        },
+        {
+          "keyword": "investigation",
+          "priority": "high",
+          "count": 2,
+          "score": 100
+        },
+        {
+          "keyword": "party",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Holiday Reminder: Updating Your Will After Life Changes This Year",
+      "date": "2025-12-02",
+      "source": "",
+      "url": "https://statutes.capitol.texas.gov/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2025-12-02-holiday-reminder-updating-your-will.md",
+      "score": 300,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "law",
+          "priority": "critical",
+          "count": 2,
+          "score": 200
+        },
+        {
+          "keyword": "attorney",
+          "priority": "medium",
+          "count": 3,
+          "score": 75
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "Temple Police Department investigates a traffic accident, 1 deceased",
+      "date": "2026-02-12",
+      "source": "Temple Police Department",
+      "url": "https://city-of-temple.prowly.com/446336-temple-police-department-investigates-a-traffic-accident-1-deceased",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-temple-police-department-investigates-a-traffic-ac.md",
+      "score": 300,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "investigat",
+          "priority": "high",
+          "count": 5,
+          "score": 250
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Restaurant Report Card",
+      "date": "2026-02-19",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/news/restaurant-report-card",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-restaurant-report-card.md",
+      "score": 250,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "bill",
+          "priority": "critical",
+          "count": 2,
+          "score": 200
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Killeen Police Investigating the Murder of a 22-Year-Old Male",
+      "date": "2026-02-12",
+      "source": "Killeen Police Department",
+      "url": "https://killeenpdnews.com/2026/02/10/killeen-police-investigating-the-murder-of-a-22-year-old-male/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-killeen-police-investigating-the-murder-of-a-22-ye.md",
+      "score": 250,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "investigat",
+          "priority": "high",
+          "count": 4,
+          "score": 200
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Killeen Police Investigating the Murder of a 35-Year-Old Male",
+      "date": "2026-02-12",
+      "source": "Killeen Police Department",
+      "url": "https://killeenpdnews.com/2026/02/01/killeen-police-investigating-the-murder-of-a-35-year-old-male/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-killeen-police-investigating-the-murder-of-a-35-ye.md",
+      "score": 250,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "investigat",
+          "priority": "high",
+          "count": 4,
+          "score": 200
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Original 4 Yogurt Shop Murders suspects declared innocent in emotional exoneration hearing | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/crime/yogurt-shop-murders-suspects-innocent-exoneration-hearing/269-8a1f4ceb-1dfb-4dd6-b7e2-197bc42776ff",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-original-4-yogurt-shop-murders.md",
+      "score": 200,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "law",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "judge",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        },
+        {
+          "keyword": "court",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        },
+        {
+          "keyword": "ruling",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "Six deaths in six weeks: What to know about ICE detentions in Texas | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-six-deaths-in-six-weeks-what.md",
+      "score": 200,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "law",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "investigat",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        },
+        {
+          "keyword": "investigation",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "News Headlines | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/news/#",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-news-headlines-kvue-com.md",
+      "score": 150,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "senator",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "democrat",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Waco family escapes fire thanks to smoke detector",
+      "date": "2026-02-19",
+      "source": "KWTX News",
+      "url": "https://www.kwtx.com/2026/02/19/waco-firefighters-battle-house-fire-thursday-morning/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-waco-family-escapes-fire-thanks-to-smoke-detector.md",
+      "score": 150,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "investigat",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        },
+        {
+          "keyword": "investigation",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Teenager Grace Smith reported missing in Bell County, Texas",
+      "date": "2026-02-19",
+      "source": "KWTX News",
+      "url": "https://www.kwtx.com/2026/02/19/bell-county-sheriffs-office-searching-missing-endangered-juvenile/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-teenager-grace-smith-reported-missing-in-bell-coun.md",
+      "score": 150,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "law",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Good News Friday",
+      "date": "2026-02-13",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/news/good-news-friday",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-13-good-news-friday.md",
+      "score": 125,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        },
+        {
+          "keyword": "appoint",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        },
+        {
+          "keyword": "appointed",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        },
+        {
+          "keyword": "governor",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "Links mentioned on KVUE News | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/news-links-on-kvue/269-44048917",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-links-mentioned-on-kvue-news.md",
+      "score": 100,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "voter",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        }
+      ]
+    },
+    {
+      "title": "Bell County Commissioners Approve New Legal Resource Center",
+      "date": "2026-02-11",
+      "source": "Killeen Daily Herald",
+      "url": "https://www.killeendailyherald.com/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-11-bell-county-legal-resource-center.md",
+      "score": 75,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        },
+        {
+          "keyword": "court",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "Xtra! Xtra! Interviews",
+      "date": "2026-02-19",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/video-gallery/news/xtra/xtra-xtra",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-xtra-xtra-interviews.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Hardwired",
+      "date": "2026-02-19",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/content/news/entertainment/Hardwired",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-hardwired.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "City of Temple in talks of installing paid parking downtown",
+      "date": "2026-02-19",
+      "source": "KWTX News",
+      "url": "https://www.kwtx.com/2026/02/19/city-temple-talks-installing-paid-parking-downtown/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-city-of-temple-in-talks-of-installing-paid-parking.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Temple High School Prepares Students for Real-World Automotive Careers",
+      "date": "2026-02-19",
+      "source": "KWTX News",
+      "url": "https://www.kwtx.com/2026/02/19/temple-high-school-prepares-students-real-world-automotive-careers/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-temple-high-school-prepares-students-for-real-worl.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Navasota calls for volunteers for 24th annual community cleanup",
+      "date": "2026-02-19",
+      "source": "KBTX News",
+      "url": "https://www.kbtx.com/2026/02/19/navasota-calls-volunteers-24th-annual-community-cleanup/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-navasota-calls-for-volunteers-for-24th-annual-comm.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Twin City Mission offers resources for individuals experiencing dating violence",
+      "date": "2026-02-19",
+      "source": "KBTX News",
+      "url": "https://www.kbtx.com/2026/02/19/twin-city-mission-offers-resources-individuals-experiencing-dating-violence/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-twin-city-mission-offers-resources-for-individuals.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Seasonal February makes a brief return this weekend",
+      "date": "2026-02-19",
+      "source": "KBTX News",
+      "url": "https://www.kbtx.com/2026/02/19/seasonal-february-makes-brief-return-this-weekend/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-seasonal-february-makes-a-brief-return-this-weeken.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "College Station ISD extends application deadline for out-of-district transfer program",
+      "date": "2026-02-19",
+      "source": "KBTX News",
+      "url": "https://www.kbtx.com/2026/02/19/college-station-isd-extends-application-deadline-out-of-district-transfer-program/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-college-station-isd-extends-application-deadline-f.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "City of Temple to Host 5th Annual Black History Month Ceremony",
+      "date": "2026-02-12",
+      "source": "Temple Police Department",
+      "url": "https://city-of-temple.prowly.com/446284-city-of-temple-to-host-5th-annual-black-history-month-ceremony",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-city-of-temple-to-host-5th-annual-black-history-mo.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "\u200bCode Compliance",
+      "date": "2026-02-12",
+      "source": "Temple Police Department",
+      "url": "https://city-of-temple.prowly.com/446338-code-compliance",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-code-compliance.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "Killeen Police Identify and Arrest Murder Suspect",
+      "date": "2026-02-12",
+      "source": "Killeen Police Department",
+      "url": "https://killeenpdnews.com/2026/02/11/killeen-police-identify-and-arrest-murder-suspect-3/",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-killeen-police-identify-and-arrest-murder-suspect.md",
+      "score": 50,
+      "relevance": "high",
+      "matched_keywords": [
+        {
+          "keyword": "legal",
+          "priority": "medium",
+          "count": 2,
+          "score": 50
+        }
+      ]
+    },
+    {
+      "title": "How to score free Girl Scout cookies by donating blood in February | kvue.com",
+      "date": "2026-02-04",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-04-how-to-score-free-girl-scout-c.md",
+      "score": 25,
+      "relevance": "medium",
+      "matched_keywords": [
+        {
+          "keyword": "appoint",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "KWTX Making the Grade",
+      "date": "2026-02-19",
+      "source": "KWTX",
+      "url": "https://www.kwtx.com/news/making-the-grade",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-kwtx-making-the-grade.md",
+      "score": 25,
+      "relevance": "medium",
+      "matched_keywords": [
+        {
+          "keyword": "appoint",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "Statement released on behalf of Yogurt Shop Murders victim's family following exoneration of 4 original suspects | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/local/yogurt-shop-murders-exoneration-amy-ayers-family/269-eda6be96-6645-45f8-a894-a5f425a1fda2",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-statement-released-on-behalf-o.md",
+      "score": 25,
+      "relevance": "medium",
+      "matched_keywords": [
+        {
+          "keyword": "court",
+          "priority": "medium",
+          "count": 1,
+          "score": 25
+        }
+      ]
+    },
+    {
+      "title": "Feel Good Friday",
+      "date": "2026-02-19",
+      "source": "KBTX",
+      "url": "https://www.kbtx.com/news/feel-good-friday",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-13-feel-good-friday.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "From The Ground Up",
+      "date": "2026-02-19",
+      "source": "KBTX",
+      "url": "https://www.kbtx.com/news/from-the-ground-up",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-from-the-ground-up.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "Weekend Gardener",
+      "date": "2026-02-19",
+      "source": "KBTX",
+      "url": "https://www.kbtx.com/news/garden",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-weekend-gardener.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "TxDOT seeking community input on new project over 8-mile stretch of US 77 in Lee County | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-txdot-seeking-community-input.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "Texas Panhandle ranchers on edge as Lavender and 8 Ball fires burn 18,000+ acres | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/local/texas/texas-panhandle-ranchers-on-edge-lavender-8-ball-fires-burn-18000-acres/287-0c44d9f6-11b2-4bfc-94d5-5f3cebc69a0e",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-texas-panhandle-ranchers-on-ed.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "Stream Hearts and Heroes: Flooding in the Texas Hill Country on KVUE+ | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/local/hearts-and-heroes-flooding-in-the-texas-hill-country-kvue-plus-premiere-how-to/269-c78d319d-a3d1-4aae-b87b-2c939c133629",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-stream-hearts-and-heroes-floo.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "UT System adopts new policy limiting discussion of controversial topics in the classroom | kvue.com",
+      "date": "2026-02-19",
+      "source": "KVUE",
+      "url": "https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-19-ut-system-adopts-new-policy-li.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    },
+    {
+      "title": "Hello World",
+      "date": "",
+      "source": "",
+      "url": "",
+      "path": "/Volumes/RepoPart1/legal-luminary/_posts/2026-02-12-hello-world.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": []
+    }
+  ]
+}
