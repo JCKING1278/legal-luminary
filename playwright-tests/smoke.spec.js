@@ -23,8 +23,8 @@ test.describe('Legal Luminary Smoke Tests', () => {
     const articleItem = page.locator('.article-item').first();
     await expect(articleItem).toBeVisible();
     
-    // Check for article title
-    const articleTitle = articleItem.locator('h4 a, h4');
+            // Check for article title
+            const articleTitle = articleItem.locator('h4').first();
     await expect(articleTitle).toBeVisible();
     
     // Check for article link
