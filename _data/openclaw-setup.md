@@ -21,7 +21,7 @@ export OPENCLAW_GATEWAY_PASSWORD=Quantum7Bridge
 cat > ~/.openclaw/openclaw.json << 'EOF'
 {
   "browser": {
-    "executablePath": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    "executablePath": "/Applications/Chromium.app/Contents/MacOS/Chromium",
     "noSandbox": true
   },
   "gateway": {

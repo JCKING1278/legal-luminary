@@ -157,12 +157,12 @@ The Legal Luminary platform uses a six-stage validation pipeline to ensure conte
 
 **Key Features:**
 
-- **Multi-Provider Authentication** — Supports Google, Microsoft, and Apple login for enhanced security and accessibility
+- **Multi-Provider Authentication** — Supports Microsoft, Apple, and other providers for enhanced security and accessibility
 - **Role-Based Workflows** — Tailored interfaces for different legal professionals:
   - Attorneys: Deep case law discussion, strategic analysis, and advanced legal research
   - Paralegals: Rules, deadlines, drafting structure, and procedural guidance
   - Admin/Intake Staff: Plain language support, fact gathering, and client summaries
-- **Advanced AI Integration** — Powered by Google's Gemini models with specialized legal guardrails
+- **Advanced AI Integration** — Powered by leading language models with specialized legal guardrails
 - **Multimodal Capabilities** — Supports text, image, and audio processing for comprehensive case analysis
 - **Legal Practice Areas** — Covers commercial law, civil litigation, construction law, consumer law, personal injury, probate/wills, real estate, SSDI, and veterans benefits
 

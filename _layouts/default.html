@@ -130,28 +130,10 @@
   </script>
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/imgs/legal-luminary-research-tool.svg' | relative_url }}">
 
-  <!-- Google Tag Manager -->
-  {% if site.gtm_container_id and site.gtm_container_id != "GTM-XXXXXXX" %}
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','{{ site.gtm_container_id }}');</script>
-  <!-- End Google Tag Manager -->
-  {% endif %}
-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/fonts.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  {% if site.gtm_container_id and site.gtm_container_id != "GTM-XXXXXXX" %}
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.gtm_container_id }}"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-  {% endif %}
-
   <header class="site-header">
     <div class="header-top">
       <div class="container">

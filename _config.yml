@@ -13,10 +13,6 @@ author: "Central Texas Legal Resource"
 email: "notary@legalluminary.com"
 lang: en-US
 
-# Google Tag Manager
-# Replace GTM-XXXXXXX with your actual GTM container ID after setup
-gtm_container_id: "GTM-KBVFD8NL"
-
 # URL Configuration
 # For GitHub Pages project site (username.github.io/repo-name):
 #   baseurl: "/repo-name"

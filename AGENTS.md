@@ -450,8 +450,6 @@ This is required for compliance and to maintain professional distance.
 - **README.md**: General project overview and setup
 - **docs/ES6_MODULES_GUIDE.md**: JavaScript module structure
 - **docs/PLAYWRIGHT_CACHE_GUIDE.md**: Playwright caching strategies
-- **docs/GOOGLE_SETUP_GUIDE.md**: Google Tag Manager setup
-
 ## 🚀 Quick Reference
 
 ### Start Development Environment

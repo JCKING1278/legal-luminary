@@ -7,16 +7,7 @@
   <meta name="description" content="{{ page.description | default: 'Download M3U8 streaming videos with our browser extension. Fast, reliable, and easy to use.' }}">
   <meta name="robots" content="{{ page.robots | default: 'index,follow' }}">
   
-  <!-- Google Tag Manager - Different from main site -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-XXXXXXX');</script>
-  <!-- End Google Tag Manager -->
-  
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/fonts.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <style>
     .m3u8-page {
@@ -195,11 +186,6 @@
   </style>
 </head>
 <body class="m3u8-page">
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-  
   <header class="m3u8-header">
     <div class="container">
       <div class="m3u8-logo">M3U8 Downloader</div>
@@ -297,7 +283,6 @@
         <h3 style="font-size: 1rem; margin-bottom: 1rem; color: #333;">Browser support</h3>
         <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.875rem; color: #666;">
           <li>• Chromium 92+</li>
-          <li>• Google Chrome 92+</li>
           <li>• Microsoft Edge 92+</li>
         </ul>
       </div>

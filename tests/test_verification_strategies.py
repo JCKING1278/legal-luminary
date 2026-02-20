@@ -24,7 +24,7 @@ def test_valid_urls(url):
 @pytest.mark.parametrize("url", [
     "not a url",
     "http://thisisadomainthatdoesnotexist.com",
-    "https://www.google.com/thispagedoesnotexist",
+    "https://www.example.com/thispagedoesnotexist",
 ])
 def test_invalid_urls(url):
     """
