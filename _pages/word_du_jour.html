@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WORD DU' JOUR — Statement à le Mod'</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400;600;900&family=IM+Fell+English:ital@0;1&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a0f00;
+    --parchment: #f5ead8;
+    --aged: #e8d5b0;
+    --burnt: #8b4513;
+    --gold: #c9a84c;
+    --crimson: #8b0000;
+    --neon-latin: #00e5ff;
+    --neon-glow: #00bcd4;
+    --terminal-green: #39ff14;
+    --shadow: rgba(0,0,0,0.5);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #0a0500;
+    font-family: 'IM Fell English', serif;
+    color: var(--parchment);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Scanline overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0,0,0,0.08) 2px,
+      rgba(0,0,0,0.08) 4px
+    );
+    pointer-events: none;
+    z-index: 1000;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+  }
+
+  /* HEADER */
+  .masthead {
+    text-align: center;
+    border-bottom: 2px solid var(--gold);
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+    position: relative;
+  }
+  .masthead::before {
+    content: '⸻  EXPERIMENTUM VERBI  ⸻';
+    display: block;
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.4em;
+    color: var(--gold);
+    margin-bottom: 0.8rem;
+    opacity: 0.7;
+  }
+  h1 {
+    font-family: 'Cinzel Decorative', serif;
+    font-size: clamp(1.6rem, 4vw, 2.8rem);
+    color: var(--parchment);
+    text-shadow: 0 0 30px rgba(201,168,76,0.4), 0 2px 4px #000;
+    line-height: 1.1;
+    letter-spacing: 0.05em;
+  }
+  h1 span {
+    color: var(--neon-latin);
+    text-shadow: 0 0 20px var(--neon-glow), 0 0 40px rgba(0,229,255,0.3);
+  }
+  .subtitle {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.3em;
+    color: var(--gold);
+    margin-top: 0.6rem;
+    font-style: normal;
+  }
+
+  /* SCORE BAR */
+  .scorebar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(201,168,76,0.08);
+    border: 1px solid rgba(201,168,76,0.3);
+    border-radius: 3px;
+    padding: 0.7rem 1.2rem;
+    margin-bottom: 2rem;
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.8rem;
+    color: var(--gold);
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .score-item { display: flex; flex-direction: column; align-items: center; }
+  .score-val {
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--neon-latin);
+    text-shadow: 0 0 10px var(--neon-glow);
+  }
+  .score-lbl { font-size: 0.6rem; letter-spacing: 0.2em; opacity: 0.7; margin-top: 2px; }
+  .verdict {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    color: var(--terminal-green);
+    text-shadow: 0 0 8px rgba(57,255,20,0.5);
+    transition: all 0.5s;
+  }
+
+  /* SECTION HEADERS */
+  .section-title {
+    font-family: 'Cinzel', serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.4em;
+    color: var(--gold);
+    border-top: 1px solid rgba(201,168,76,0.3);
+    border-bottom: 1px solid rgba(201,168,76,0.3);
+    padding: 0.5rem 0;
+    margin: 2.5rem 0 1.2rem;
+    text-align: center;
+    opacity: 0.85;
+  }
+  .category-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.6rem;
+    letter-spacing: 0.3em;
+    color: var(--crimson);
+    margin-bottom: 0.3rem;
+    text-shadow: 0 0 8px rgba(139,0,0,0.5);
+  }
+
+  /* GAME CARDS */
+  .card {
+    background: linear-gradient(135deg, rgba(245,234,216,0.04) 0%, rgba(139,69,19,0.06) 100%);
+    border: 1px solid rgba(201,168,76,0.2);
+    border-left: 3px solid var(--gold);
+    border-radius: 2px 6px 6px 2px;
+    padding: 1.2rem 1.4rem;
+    margin-bottom: 1.2rem;
+    position: relative;
+    transition: border-color 0.3s, background 0.3s;
+  }
+  .card:hover { border-color: rgba(201,168,76,0.5); background: rgba(201,168,76,0.06); }
+  .card.revealed { border-left-color: var(--terminal-green); }
+  .card.correct-guess { border-left-color: var(--neon-latin); }
+
+  .card-num {
+    position: absolute;
+    top: 0.6rem; right: 0.8rem;
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.65rem;
+    color: rgba(201,168,76,0.4);
+    letter-spacing: 0.1em;
+  }
+
+  .source {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.62rem;
+    color: rgba(201,168,76,0.55);
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5rem;
+    font-style: italic;
+  }
+
+  .statement {
+    font-size: 0.98rem;
+    line-height: 1.7;
+    color: var(--parchment);
+    margin-bottom: 0.8rem;
+  }
+
+  .latin-blank {
+    display: inline-block;
+    background: rgba(0,229,255,0.1);
+    border: 1px solid rgba(0,229,255,0.4);
+    border-radius: 3px;
+    padding: 0 6px;
+    color: var(--neon-latin);
+    font-family: 'Cinzel', serif;
+    font-size: 0.8em;
+    letter-spacing: 0.05em;
+    text-shadow: 0 0 8px rgba(0,229,255,0.6);
+    white-space: nowrap;
+    cursor: default;
+  }
+
+  .your-guess {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 0.6rem;
+  }
+  .guess-input {
+    background: rgba(0,0,0,0.5);
+    border: 1px solid rgba(201,168,76,0.3);
+    border-radius: 3px;
+    color: var(--parchment);
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.8rem;
+    padding: 0.3rem 0.7rem;
+    width: 220px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .guess-input:focus { border-color: var(--gold); }
+  .guess-input::placeholder { color: rgba(245,234,216,0.25); font-style: italic; }
+
+  .btn {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    padding: 0.3rem 0.9rem;
+    border: 1px solid;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-transform: uppercase;
+  }
+  .btn-guess {
+    border-color: rgba(201,168,76,0.5);
+    background: rgba(201,168,76,0.1);
+    color: var(--gold);
+  }
+  .btn-guess:hover { background: rgba(201,168,76,0.25); }
+  .btn-reveal {
+    border-color: rgba(139,0,0,0.6);
+    background: rgba(139,0,0,0.1);
+    color: #ff6b6b;
+  }
+  .btn-reveal:hover { background: rgba(139,0,0,0.25); }
+
+  .reveal-panel {
+    display: none;
+    background: rgba(0,0,0,0.4);
+    border: 1px solid rgba(57,255,20,0.2);
+    border-radius: 3px;
+    padding: 0.7rem 1rem;
+    margin-top: 0.6rem;
+  }
+  .reveal-panel.show { display: block; animation: fadeReveal 0.4s ease; }
+  @keyframes fadeReveal {
+    from { opacity: 0; transform: translateY(-5px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .original-words {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.82rem;
+    color: var(--terminal-green);
+    text-shadow: 0 0 6px rgba(57,255,20,0.4);
+    margin-bottom: 0.4rem;
+  }
+  .full-original {
+    font-size: 0.85rem;
+    color: rgba(245,234,216,0.6);
+    font-style: italic;
+    border-top: 1px solid rgba(57,255,20,0.15);
+    padding-top: 0.4rem;
+    margin-top: 0.3rem;
+    line-height: 1.5;
+  }
+
+  /* PERSONA NON GRATA panel */
+  .png-panel {
+    background: rgba(139,0,0,0.06);
+    border: 1px solid rgba(139,0,0,0.3);
+    border-radius: 3px;
+    padding: 0.7rem 1rem;
+    margin-top: 0.6rem;
+    display: none;
+  }
+  .png-panel.show { display: block; animation: fadeReveal 0.4s ease; }
+  .png-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.55rem;
+    letter-spacing: 0.3em;
+    color: var(--crimson);
+    margin-bottom: 0.4rem;
+    text-shadow: 0 0 8px rgba(139,0,0,0.5);
+  }
+  .png-text {
+    font-size: 0.85rem;
+    color: rgba(245,234,216,0.5);
+    font-style: italic;
+    line-height: 1.6;
+  }
+
+  /* NURSERY RHYME */
+  .rhyme-box {
+    background: rgba(201,168,76,0.05);
+    border: 1px solid rgba(201,168,76,0.25);
+    border-radius: 4px;
+    padding: 1.4rem;
+    text-align: center;
+    margin-bottom: 1.2rem;
+  }
+  .rhyme-text {
+    font-size: 1rem;
+    line-height: 2;
+    color: var(--parchment);
+  }
+  .rhyme-text .blank {
+    display: inline-block;
+    min-width: 120px;
+    border-bottom: 1px solid var(--gold);
+    margin: 0 4px;
+    text-align: center;
+    color: var(--neon-latin);
+    font-family: 'Cinzel', serif;
+    font-size: 0.75em;
+  }
+
+  /* BAYESIAN METER */
+  .bayes-meter {
+    margin: 2.5rem 0 1rem;
+    padding: 1.2rem;
+    background: rgba(0,0,0,0.3);
+    border: 1px solid rgba(201,168,76,0.2);
+    border-radius: 4px;
+  }
+  .meter-title {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.3em;
+    color: var(--gold);
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  .meter-bar-wrapper {
+    position: relative;
+    height: 12px;
+    background: rgba(255,255,255,0.05);
+    border-radius: 6px;
+    overflow: hidden;
+    margin-bottom: 0.4rem;
+  }
+  .meter-bar {
+    height: 100%;
+    border-radius: 6px;
+    background: linear-gradient(90deg, var(--crimson), var(--gold), var(--terminal-green));
+    width: 0%;
+    transition: width 1s cubic-bezier(0.4,0,0.2,1);
+  }
+  .meter-labels {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.6rem;
+    color: rgba(201,168,76,0.5);
+  }
+
+  /* RULES FOOTER */
+  .rules {
+    margin-top: 2rem;
+    border-top: 1px solid rgba(201,168,76,0.2);
+    padding-top: 1.5rem;
+    font-size: 0.78rem;
+    color: rgba(245,234,216,0.45);
+    line-height: 1.8;
+  }
+  .rules strong { color: rgba(201,168,76,0.7); font-family: 'Cinzel', serif; font-size: 0.7rem; letter-spacing: 0.1em; }
+
+  /* Flickering title effect */
+  @keyframes flicker {
+    0%, 100% { opacity: 1; }
+    92% { opacity: 1; }
+    93% { opacity: 0.85; }
+    94% { opacity: 1; }
+    97% { opacity: 0.9; }
+    98% { opacity: 1; }
+  }
+  h1 { animation: flicker 8s infinite; }
+
+  .feedback-msg {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.75rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    display: none;
+  }
+  .feedback-msg.correct {
+    background: rgba(57,255,20,0.1);
+    color: var(--terminal-green);
+    border: 1px solid rgba(57,255,20,0.3);
+    display: inline-block;
+  }
+  .feedback-msg.nolo {
+    background: rgba(201,168,76,0.1);
+    color: var(--gold);
+    border: 1px solid rgba(201,168,76,0.3);
+    display: inline-block;
+  }
+  .feedback-msg.wrong {
+    background: rgba(139,0,0,0.1);
+    color: #ff6b6b;
+    border: 1px solid rgba(139,0,0,0.3);
+    display: inline-block;
+  }
+
+  /* Toggle PNG button */
+  .btn-png {
+    border-color: rgba(139,0,0,0.4);
+    background: rgba(139,0,0,0.07);
+    color: rgba(255,107,107,0.7);
+    font-size: 0.58rem;
+  }
+  .btn-png:hover { background: rgba(139,0,0,0.2); }
+
+  hr.ornament {
+    border: none;
+    border-top: 1px solid rgba(201,168,76,0.2);
+    margin: 0.5rem 0;
+  }
+
+  select.guess-input { width: auto; cursor: pointer; }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- MASTHEAD -->
+  <div class="masthead">
+    <h1>WORD DU' JOUR<br><span>Statement à le Mod'</span></h1>
+    <div class="subtitle">Experimental Evaluation · Probabilistic Non-Discrete Binary State Automata · Feb XXVIII, MMXXVI</div>
+  </div>
+
+  <!-- SCORE BAR -->
+  <div class="scorebar">
+    <div class="score-item">
+      <span class="score-val" id="score-total">0</span>
+      <span class="score-lbl">TOTAL PTS</span>
+    </div>
+    <div class="score-item">
+      <span class="score-val" id="score-magna">0</span>
+      <span class="score-lbl">MAGNA CUM LAUDE</span>
+    </div>
+    <div class="score-item">
+      <span class="score-val" id="score-nolo">0</span>
+      <span class="score-lbl">NOLO CONTENDERE</span>
+    </div>
+    <div class="score-item">
+      <span class="score-val" id="score-revealed">0</span>
+      <span class="score-lbl">REVEALED (0 pts)</span>
+    </div>
+    <div class="verdict" id="verdict-text">—  AWAITING INPUT  —</div>
+  </div>
+
+  <!-- ======================== -->
+  <!-- CATEGORY A -->
+  <!-- ======================== -->
+  <div class="section-title">⸻  PARS PRIMA : PERSONAE · LOCI · RES  ⸻<br><span style="font-size:0.55em;opacity:0.6">Five Unrelated Persons, Places, or Things — guess the three missing words</span></div>
+
+  <!-- CARD 1 -->
+  <div class="card" id="card-1">
+    <div class="card-num">#01</div>
+    <div class="category-label">PERSONA — NBC NEWS · FEB 28, 2026</div>
+    <div class="source">nbcnews.com · "Live updates: U.S. military begins major combat operations in Iran"</div>
+    <div class="statement">
+      "The United States has launched <span class="latin-blank">ALEA IACTA EST</span> in Iran, President Donald Trump announced in a video message today."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g1" onkeydown="if(event.key==='Enter')checkGuess(1)">
+      <button class="btn btn-guess" onclick="checkGuess(1)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(1)">REVEAL</button>
+      <button class="btn btn-png" onclick="togglePng(1)">PERSONA NON GRATA</button>
+    </div>
+    <span class="feedback-msg" id="fb1"></span>
+    <div class="reveal-panel" id="r1">
+      <div class="original-words">▸ Missing words: <strong>"major combat operations"</strong></div>
+      <div class="full-original">Full original: "The United States has launched <em>major combat operations</em> in Iran, President Donald Trump announced in a video message today."</div>
+    </div>
+    <div class="png-panel" id="png1">
+      <div class="png-label">— PERSONA NON GRATA VERSION —</div>
+      <div class="png-text">"The shareholders have launched <span style="color:var(--neon-latin)">alea iacta est</span> against the quarterly projections, the CFO announced in a spreadsheet message today." <em>[Makes sense only to those who understand: the die is cast on a Q4 earnings miss. The phrase is simultaneously financial doom-cry and Roman battle cry.] </em></div>
+    </div>
+  </div>
+
+  <!-- CARD 2 -->
+  <div class="card" id="card-2">
+    <div class="card-num">#02</div>
+    <div class="category-label">LOCUS — AL JAZEERA · FEB 27, 2026</div>
+    <div class="source">aljazeera.com · "Pakistan has bombed Afghanistan's capital Kabul…"</div>
+    <div class="statement">
+      "Our cup of patience has overflowed. Now it is <span class="latin-blank">BELLUM OMNIUM CONTRA OMNES</span> us and you."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g2" onkeydown="if(event.key==='Enter')checkGuess(2)">
+      <button class="btn btn-guess" onclick="checkGuess(2)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(2)">REVEAL</button>
+      <button class="btn btn-png" onclick="togglePng(2)">PERSONA NON GRATA</button>
+    </div>
+    <span class="feedback-msg" id="fb2"></span>
+    <div class="reveal-panel" id="r2">
+      <div class="original-words">▸ Missing words: <strong>"open war between"</strong></div>
+      <div class="full-original">Full original: "Our cup of patience has overflowed. Now it is <em>open war between</em> us and you." — Pakistan Defence Minister Khawaja Asif</div>
+    </div>
+    <div class="png-panel" id="png2">
+      <div class="png-label">— PERSONA NON GRATA VERSION —</div>
+      <div class="png-text">"The HOA's patience has overflowed. Now it is <span style="color:var(--neon-latin)">bellum omnium contra omnes</span> us and the neighbour with the unmowed lawn." <em>[Only the persona non grata — the one actually getting the HOA letter — understands the existential Hobbesian weight of this ordinance violation.]</em></div>
+    </div>
+  </div>
+
+  <!-- CARD 3 -->
+  <div class="card" id="card-3">
+    <div class="card-num">#03</div>
+    <div class="category-label">PERSONA — NPR · FEB 27, 2026</div>
+    <div class="source">npr.org · Bill Clinton / Epstein deposition coverage</div>
+    <div class="statement">
+      "Former President Bill Clinton told members of Congress on Friday that he '<span class="latin-blank">NOLO CONTENDERE</span>' in his relationship with Jeffrey Epstein."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g3" onkeydown="if(event.key==='Enter')checkGuess(3)">
+      <button class="btn btn-guess" onclick="checkGuess(3)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(3)">REVEAL</button>
+      <button class="btn btn-png" onclick="togglePng(3)">PERSONA NON GRATA</button>
+    </div>
+    <span class="feedback-msg" id="fb3"></span>
+    <div class="reveal-panel" id="r3">
+      <div class="original-words">▸ Missing words: <strong>"did nothing wrong"</strong></div>
+      <div class="full-original">Full original: "Former President Bill Clinton told members of Congress on Friday that he '<em>did nothing wrong</em>' in his relationship with Jeffrey Epstein." — NPR</div>
+    </div>
+    <div class="png-panel" id="png3">
+      <div class="png-label">— PERSONA NON GRATA VERSION —</div>
+      <div class="png-text">"My cat knocked the vase off the table and yet maintained, with supreme composure, that it enters <span style="color:var(--neon-latin)">nolo contendere</span> — which is, of course, exactly what <em>nolo contendere</em> means." <em>[The cat IS the persona non grata. It understands the legal distinction perfectly.]</em></div>
+    </div>
+  </div>
+
+  <!-- CARD 4 -->
+  <div class="card" id="card-4">
+    <div class="card-num">#04</div>
+    <div class="category-label">RES — AL JAZEERA / CNN · FEB 26, 2026</div>
+    <div class="source">aljazeera.com · Iran nuclear talks Geneva — Al Asadi reporting</div>
+    <div class="statement">
+      "It remains to be seen whether <span class="latin-blank">QUID PRO QUO</span> could pave the way for a final solution between Washington and Tehran."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g4" onkeydown="if(event.key==='Enter')checkGuess(4)">
+      <button class="btn btn-guess" onclick="checkGuess(4)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(4)">REVEAL</button>
+      <button class="btn btn-png" onclick="togglePng(4)">PERSONA NON GRATA</button>
+    </div>
+    <span class="feedback-msg" id="fb4"></span>
+    <div class="reveal-panel" id="r4">
+      <div class="original-words">▸ Missing words: <strong>"diplomatic engagement could"</strong></div>
+      <div class="full-original">Full original: "It remains to be seen whether <em>diplomatic engagement could</em> pave the way for a final solution between Washington and Tehran." — Al Jazeera's Tohid Asadi</div>
+    </div>
+    <div class="png-panel" id="png4">
+      <div class="png-label">— PERSONA NON GRATA VERSION —</div>
+      <div class="png-text">"The barista and I have reached <span style="color:var(--neon-latin)">quid pro quo</span>: I pretend I don't notice the extra shot, she pretends not to notice I have been here six hours." <em>[The true persona non grata is the one who pays $7 for coffee and calls it a diplomatic achievement.]</em></div>
+    </div>
+  </div>
+
+  <!-- CARD 5 -->
+  <div class="card" id="card-5">
+    <div class="card-num">#05</div>
+    <div class="category-label">LOCUS — CNN · FEB 26, 2026</div>
+    <div class="source">cnn.com/us/live-news/trump-administration-us-iran-talks-02-26-26</div>
+    <div class="statement">
+      "Life has all kinds of <span class="latin-blank">DULCIUS EX ASPERIS</span> turns," said Vance, defending Trump as an 'America-first' president.
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g5" onkeydown="if(event.key==='Enter')checkGuess(5)">
+      <button class="btn btn-guess" onclick="checkGuess(5)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(5)">REVEAL</button>
+      <button class="btn btn-png" onclick="togglePng(5)">PERSONA NON GRATA</button>
+    </div>
+    <span class="feedback-msg" id="fb5"></span>
+    <div class="reveal-panel" id="r5">
+      <div class="original-words">▸ Missing words: <strong>"crazy twists and"</strong></div>
+      <div class="full-original">Full original: "Life has all kinds of <em>crazy twists and</em> turns," said Vance. — CNN Interview</div>
+    </div>
+    <div class="png-panel" id="png5">
+      <div class="png-label">— PERSONA NON GRATA VERSION —</div>
+      <div class="png-text">"The sourdough starter, after two failed batches and one very sullen Tuesday, achieved <span style="color:var(--neon-latin)">dulcius ex asperis</span>: sweeter after difficulties. Only the baker knew. The bread said nothing." <em>[The loaf is the persona non grata. It has earned its crust.]</em></div>
+    </div>
+  </div>
+
+  <!-- ======================== -->
+  <!-- CATEGORY B -->
+  <!-- ======================== -->
+  <div class="section-title">⸻  PARS SECUNDA : ACTIONES ET LOCI  ⸻<br><span style="font-size:0.55em;opacity:0.6">Five Non-Descriptive Actions and Places Where Things Happen</span></div>
+
+  <!-- CARD 6 -->
+  <div class="card" id="card-6">
+    <div class="card-num">#06</div>
+    <div class="category-label">ACTIO — NBC NEWS · FEB 28, 2026</div>
+    <div class="source">nbcnews.com · Iran retaliation bulletin</div>
+    <div class="statement">
+      "Iran is retaliating against multiple <span class="latin-blank">TERRA FIRMA</span> in the Middle East, a U.S. official says."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g6" onkeydown="if(event.key==='Enter')checkGuess(6)">
+      <button class="btn btn-guess" onclick="checkGuess(6)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(6)">REVEAL</button>
+      <button class="btn btn-png" onclick="togglePng(6)">PERSONA NON GRATA</button>
+    </div>
+    <span class="feedback-msg" id="fb6"></span>
+    <div class="reveal-panel" id="r6">
+      <div class="original-words">▸ Missing words: <strong>"U.S. military facilities"</strong></div>
+      <div class="full-original">Full original: "Iran is retaliating against multiple <em>U.S. military facilities</em> in the Middle East, a U.S. official says." — NBC News live blog</div>
+    </div>
+    <div class="png-panel" id="png6">
+      <div class="png-label">— PERSONA NON GRATA VERSION —</div>
+      <div class="png-text">"The pigeon is retaliating against multiple <span style="color:var(--neon-latin)">terra firma</span> surfaces that once belonged to statues of generals. The generals are not available for comment." <em>[The pigeon is the only true persona non grata of geopolitics.]</em></div>
+    </div>
+  </div>
+
+  <!-- CARD 7 -->
+  <div class="card" id="card-7">
+    <div class="card-num">#07</div>
+    <div class="category-label">LOCUS — NPR · FEB 27, 2026</div>
+    <div class="source">npr.org · U.S. military laser shoots drone near El Paso</div>
+    <div class="statement">
+      "The U.S. military used a laser to <span class="latin-blank">ACTA NON VERBA</span> a Customs and Border Protection drone, members of Congress said Thursday."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g7" onkeydown="if(event.key==='Enter')checkGuess(7)">
+      <button class="btn btn-guess" onclick="checkGuess(7)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(7)">REVEAL</button>
+      <button class="btn btn-png" onclick="togglePng(7)">PERSONA NON GRATA</button>
+    </div>
+    <span class="feedback-msg" id="fb7"></span>
+    <div class="reveal-panel" id="r7">
+      <div class="original-words">▸ Missing words: <strong>"shoot down a"</strong></div>
+      <div class="full-original">Full original: "The U.S. military used a laser to <em>shoot down a</em> Customs and Border Protection drone, members of Congress said Thursday." — NPR</div>
+    </div>
+    <div class="png-panel" id="png7">
+      <div class="png-label">— PERSONA NON GRATA VERSION —</div>
+      <div class="png-text">"My uncle used a laser pointer to <span style="color:var(--neon-latin)">acta non verba</span> the conference room presentation, and thus, deeds — not words — were responsible for the projector bulb dying in Q3." <em>[The persona non grata is the facilities manager who filed the incident report.]</em></div>
+    </div>
+  </div>
+
+  <!-- CARD 8 -->
+  <div class="card" id="card-8">
+    <div class="card-num">#08</div>
+    <div class="category-label">ACTIO — AL JAZEERA · FEB 27, 2026</div>
+    <div class="source">aljazeera.com · World reacts to Pakistan-Afghanistan conflict</div>
+    <div class="statement">
+      "UN Secretary-General Antonio Guterres urged both nations to <span class="latin-blank">SICUT SEMPER</span> to their obligations under international law."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g8" onkeydown="if(event.key==='Enter')checkGuess(8)">
+      <button class="btn btn-guess" onclick="checkGuess(8)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(8)">REVEAL</button>
+      <button class="btn btn-png" onclick="togglePng(8)">PERSONA NON GRATA</button>
+    </div>
+    <span class="feedback-msg" id="fb8"></span>
+    <div class="reveal-panel" id="r8">
+      <div class="original-words">▸ Missing words: <strong>"adhere strictly to"</strong></div>
+      <div class="full-original">Full original: "Guterres urged both nations to <em>adhere strictly to</em> their obligations under international law." — Al Jazeera</div>
+    </div>
+    <div class="png-panel" id="png8">
+      <div class="png-label">— PERSONA NON GRATA VERSION —</div>
+      <div class="png-text">"The terms and conditions urged all users to <span style="color:var(--neon-latin)">adhere strictly to</span> — but since no one reads them, the obligations remain, <em>in situ</em>, observed only by the persona non grata who actually clicked 'Read More'." <em>[That person is always alone at parties.]</em></div>
+    </div>
+  </div>
+
+  <!-- CARD 9 -->
+  <div class="card" id="card-9">
+    <div class="card-num">#09</div>
+    <div class="category-label">LOCUS — NPR · FEB 27, 2026</div>
+    <div class="source">npr.org · NASA Artemis update</div>
+    <div class="statement">
+      "NASA teams detected <span class="latin-blank">IN VITRO</span> helium flow and removed the rocket from the launchpad."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g9" onkeydown="if(event.key==='Enter')checkGuess(9)">
+      <button class="btn btn-guess" onclick="checkGuess(9)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(9)">REVEAL</button>
+      <button class="btn btn-png" onclick="togglePng(9)">PERSONA NON GRATA</button>
+    </div>
+    <span class="feedback-msg" id="fb9"></span>
+    <div class="reveal-panel" id="r9">
+      <div class="original-words">▸ Missing words: <strong>"issues with the"</strong></div>
+      <div class="full-original">Full original: "NASA teams detected <em>issues with the</em> helium flow and removed the rocket from the launchpad." — NPR</div>
+    </div>
+    <div class="png-panel" id="png9">
+      <div class="png-label">— PERSONA NON GRATA VERSION —</div>
+      <div class="png-text">"The committee detected <span style="color:var(--neon-latin)">in vitro</span> enthusiasm — cultured entirely in the laboratory of the agenda document, never surviving contact with the actual meeting." <em>[The persona non grata brought handouts. They remain untouched.]</em></div>
+    </div>
+  </div>
+
+  <!-- CARD 10 -->
+  <div class="card" id="card-10">
+    <div class="card-num">#10</div>
+    <div class="category-label">ACTIO — CNN · FEB 26, 2026</div>
+    <div class="source">cnn.com · Iran nuclear talks breakdown</div>
+    <div class="statement">
+      "The United States <span class="latin-blank">IPSE DIXIT</span> on limiting Iran's uranium enrichment and maintaining long-term verification of its nuclear program."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g10" onkeydown="if(event.key==='Enter')checkGuess(10)">
+      <button class="btn btn-guess" onclick="checkGuess(10)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(10)">REVEAL</button>
+      <button class="btn btn-png" onclick="togglePng(10)">PERSONA NON GRATA</button>
+    </div>
+    <span class="feedback-msg" id="fb10"></span>
+    <div class="reveal-panel" id="r10">
+      <div class="original-words">▸ Missing words: <strong>"insisted insisted insisted"</strong></div>
+      <div class="full-original">Full original: "The US <em>insisted</em> on limiting Iran's uranium enrichment and maintaining long-term verification of its nuclear program." — CNN · <em>(Single word; Latin replaces the semantic weight of insistence.)</em></div>
+    </div>
+    <div class="png-panel" id="png10">
+      <div class="png-label">— PERSONA NON GRATA VERSION —</div>
+      <div class="png-text">"My editor <span style="color:var(--neon-latin)">ipse dixit</span> — he himself said it — that the draft needed one more pass. The manuscript is now on its forty-seventh." <em>[The persona non grata: the author. Post meridiem becomes ante meridiem becomes ad nauseam.]</em></div>
+    </div>
+  </div>
+
+  <!-- ======================== -->
+  <!-- CATEGORY C: AD NAUSEAM -->
+  <!-- ======================== -->
+  <div class="section-title">⸻  PARS TERTIA : AD NAUSEAM  ⸻<br><span style="font-size:0.55em;opacity:0.6">Five Contexts That Have Exceeded the Word Limit by Which Was Necessary</span></div>
+
+  <!-- CARDS 11-15 (condensed for space) -->
+  <div class="card" id="card-11">
+    <div class="card-num">#11</div>
+    <div class="category-label">AD NAUSEAM — AL JAZEERA · FEB 26, 2026</div>
+    <div class="source">aljazeera.com · Iran nuclear deal context</div>
+    <div class="statement">
+      "Before his departure, Araghchi said a '<span class="latin-blank">AUREA MEDIOCRITAS</span>' was within reach, while reiterating that Iran was not seeking an atomic weapon and was not ready to give up its 'right to peaceful use of nuclear technology' — and it is at precisely this juncture that the statement continues well beyond the point at which the point was already, in fact, sufficiently made, and yet continues onward still, past all reasonable expectation of cessation, into the territory beyond which further elaboration serves only to confirm what prolongation itself already demonstrates."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g11" onkeydown="if(event.key==='Enter')checkGuess(11)">
+      <button class="btn btn-guess" onclick="checkGuess(11)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(11)">REVEAL</button>
+    </div>
+    <span class="feedback-msg" id="fb11"></span>
+    <div class="reveal-panel" id="r11">
+      <div class="original-words">▸ Missing words: <strong>"fair, balanced and"</strong> [equitable deal]</div>
+      <div class="full-original">Full original: "…a '<em>fair, balanced and</em> equitable deal' was within reach…" — Foreign Minister Araghchi, via Al Jazeera</div>
+    </div>
+  </div>
+
+  <div class="card" id="card-12">
+    <div class="card-num">#12</div>
+    <div class="category-label">AD NAUSEAM — CNN · FEB 26, 2026</div>
+    <div class="source">cnn.com · Vance Iran interview</div>
+    <div class="statement">
+      "Vance said he didn't know how Trump would proceed, reiterating the administration's stance on preventing Iran from obtaining a nuclear weapon, which was a point that had been made, and then made again, and once more reiterated for clarity, and then — for the benefit of any who missed it the first three times — stated anew, which is to say: '<span class="latin-blank">NON PROGREDI EST REGREDI</span>,' except the speaker appeared unaware that the statement itself had, by this point, demonstrated the principle rather more vividly than intended, and continued."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g12" onkeydown="if(event.key==='Enter')checkGuess(12)">
+      <button class="btn btn-guess" onclick="checkGuess(12)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(12)">REVEAL</button>
+    </div>
+    <span class="feedback-msg" id="fb12"></span>
+    <div class="reveal-panel" id="r12">
+      <div class="original-words">▸ Missing words: <strong>"I also think"</strong></div>
+      <div class="full-original">Full original: "<em>I also think</em> that we have to avoid overlearning the lessons of the past." — Vance, CNN</div>
+    </div>
+  </div>
+
+  <div class="card" id="card-13">
+    <div class="card-num">#13</div>
+    <div class="category-label">AD NAUSEAM — AL JAZEERA · FEB 27, 2026</div>
+    <div class="source">aljazeera.com · Karzai statement on Pakistan</div>
+    <div class="statement">
+      "Pakistan cannot free itself from the <span class="latin-blank">CORRUPTISSIMA RE PUBLICA PLURIMAE LEGES</span> it has created itself, and must change — and this injunction to change, issued as it is by a former president whose own tenure was not without its complications, carries with it a recursive quality that the attentive reader will note has now caused this sentence to reference itself, which is perhaps the most concise illustration of the original problem that any sentence in this paragraph could have achieved, and yet."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g13" onkeydown="if(event.key==='Enter')checkGuess(13)">
+      <button class="btn btn-guess" onclick="checkGuess(13)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(13)">REVEAL</button>
+    </div>
+    <span class="feedback-msg" id="fb13"></span>
+    <div class="reveal-panel" id="r13">
+      <div class="original-words">▸ Missing words: <strong>"violence and bombings"</strong></div>
+      <div class="full-original">Full original: "Pakistan cannot free itself from the <em>violence and bombings</em> — those problems it has created itself…" — Karzai, Al Jazeera</div>
+    </div>
+  </div>
+
+  <div class="card" id="card-14">
+    <div class="card-num">#14</div>
+    <div class="category-label">AD NAUSEAM — NPR · FEB 26, 2026</div>
+    <div class="source">npr.org · DoD / Anthropic AI dispute</div>
+    <div class="statement">
+      "The Defense Department has been <span class="latin-blank">IN FLAGRANTE DELICTO</span> with Anthropic over military uses of its artificial intelligence tools — at stake are hundreds of millions of dollars in contracts and access to some of the most advanced AI on the planet — which is to say, the question of what machines may or may not be asked to do in service of what we have always, somewhat optimistically, referred to as 'defence,' a word which, if examined long enough, begins to look like another word entirely."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g14" onkeydown="if(event.key==='Enter')checkGuess(14)">
+      <button class="btn btn-guess" onclick="checkGuess(14)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(14)">REVEAL</button>
+    </div>
+    <span class="feedback-msg" id="fb14"></span>
+    <div class="reveal-panel" id="r14">
+      <div class="original-words">▸ Missing words: <strong>"feuding with Anthropic"</strong> <em>(2-word replacement with 4-word Latin phrase — ad hoc rule invoked)</em></div>
+      <div class="full-original">Full original: "The Defense Department has been <em>feuding with</em> Anthropic over military uses…" — NPR</div>
+    </div>
+  </div>
+
+  <div class="card" id="card-15">
+    <div class="card-num">#15</div>
+    <div class="category-label">AD NAUSEAM — NBC NEWS · FEB 28, 2026</div>
+    <div class="source">nbcnews.com · Trump video statement, Iran strikes</div>
+    <div class="statement">
+      "Our objective is to <span class="latin-blank">FABER EST SUAE QUISQUE FORTUNAE</span> by eliminating imminent threats from the Iranian regime — a phrase which, parsed carefully, implies that the American people are threatened, that the threats are imminent (not merely eventual or theoretical), that their elimination is an objective (not a consequence), and that the speaker is, per se, the author of the fortune of every citizen, which is either a stirring sentiment or a very old Latin proverb, depending on what one has been told to expect."
+    </div>
+    <div class="your-guess">
+      <input class="guess-input" type="text" placeholder="three missing words…" id="g15" onkeydown="if(event.key==='Enter')checkGuess(15)">
+      <button class="btn btn-guess" onclick="checkGuess(15)">SUBMIT</button>
+      <button class="btn btn-reveal" onclick="reveal(15)">REVEAL</button>
+    </div>
+    <span class="feedback-msg" id="fb15"></span>
+    <div class="reveal-panel" id="r15">
+      <div class="original-words">▸ Missing words: <strong>"defend the American"</strong></div>
+      <div class="full-original">Full original: "Our objective is to <em>defend the American</em> people by eliminating imminent threats from the Iranian regime." — Trump, NBC News</div>
+    </div>
+  </div>
+
+  <!-- ======================== -->
+  <!-- CATEGORY D: NURSERY RHYME -->
+  <!-- ======================== -->
+  <div class="section-title">⸻  PARS QUARTA : CANTILENA PUERILIS  ⸻<br><span style="font-size:0.55em;opacity:0.6">One Rule Which Makes Sense as a Childhood Nursery Rhyme</span></div>
+
+  <div class="rhyme-box">
+    <div class="rhyme-text">
+      <em style="color:var(--gold);font-family:'Cinzel',serif;font-size:0.7em;letter-spacing:0.2em;">THE BALLAD OF THE THREE MISSING WORDS</em><br><br>
+      <span class="blank">CARPE DIEM</span>, said the emperor,<br>
+      before his words were <span class="blank">TERRA INCOGNITA</span>,<br>
+      and where three words were once a war,<br>
+      now stand three phrases, <span class="blank">ET CETERA</span>.<br><br>
+      The first blank holds a person's name,<br>
+      the second holds a place,<br>
+      the third contains what no one claimed —<br>
+      <span class="blank">TEMPUS FUGIT</span>: the missing case.<br><br>
+      <em style="font-size:0.75em;color:rgba(245,234,216,0.4);">[ Fill in what the Latin phrases replaced — if you know, it is magna cum laude.<br>If your answer matches another player's, nolo contendere. If you reveal — vae victis. ]</em>
+    </div>
+  </div>
+
+  <!-- BAYESIAN SCORING METER -->
+  <div class="bayes-meter">
+    <div class="meter-title">⸻ BAYESIAN PROBABILITY METER ⸻</div>
+    <div style="display:flex;justify-content:space-between;font-family:'Courier Prime',monospace;font-size:0.62rem;color:rgba(201,168,76,0.5);margin-bottom:0.3rem;">
+      <span>VAE VICTIS (revealed)</span><span>NOLO CONTENDERE (shared)</span><span>MAGNA CUM LAUDE (unique correct)</span>
+    </div>
+    <div class="meter-bar-wrapper"><div class="meter-bar" id="bayes-bar"></div></div>
+    <div class="meter-labels">
+      <span>p = 0.0</span><span id="bayes-p">p = 0.0</span><span>p = 1.0</span>
+    </div>
+    <div style="text-align:center;font-family:'Cinzel',serif;font-size:0.65rem;letter-spacing:0.2em;color:var(--gold);margin-top:0.8rem;" id="bayes-verdict">
+      NOVUS ORDO SECLORUM awaits the worthy
+    </div>
+  </div>
+
+  <!-- RULES -->
+  <div class="rules">
+    <strong>REGULA LUDI — RULES OF THE GAME</strong><br><br>
+    Each card presents a real statement drawn verbatim from a real news article (Feb 26–28, 2026), with three consecutive words removed and replaced by a Latin phrase from the <em>Word Du' Jour</em> lexicon. Your task: identify the original three words. <br><br>
+    <strong>SCORING (Bayesian):</strong><br>
+    · Correct guess, unique to you → <em style="color:var(--terminal-green)">Magna Cum Laude</em> (+3 pts) · Correct guess, shared by multiple players → <em style="color:var(--gold)">Nolo Contendere</em> (+1 pt) · Pressing REVEAL without guessing → <em style="color:#ff6b6b">Vae Victis</em> (0 pts)<br><br>
+    <strong>PERSONA NON GRATA:</strong> Each card has a button revealing an alternate version of the statement that uses the same Latin phrase in a new context — one that would make sense <em>only</em> to an outsider. Read it. Consider it. Then decide if language is, <em>per se</em>, a <em>quid pro quo</em> between speaker and listener, or simply <em>terra incognita</em>.<br><br>
+    <strong>NOVUS ORDO SECLORUM</strong> is achieved at 30+ points, whereupon a new order of the ages is declared and the game begins again. <em>Alea iacta est.</em>
+  </div>
+
+</div>
+
+<script>
+  const answers = {
+    1: ["major combat operations", "major", "combat", "operations"],
+    2: ["open war between", "open", "war", "between"],
+    3: ["did nothing wrong", "did", "nothing", "wrong"],
+    4: ["diplomatic engagement could", "diplomatic", "engagement", "could"],
+    5: ["crazy twists and", "crazy", "twists", "and"],
+    6: ["u.s. military facilities", "military", "facilities", "u.s."],
+    7: ["shoot down a", "shoot", "down", "a"],
+    8: ["adhere strictly to", "adhere", "strictly", "to"],
+    9: ["issues with the", "issues", "with", "the"],
+    10: ["insisted", "insisted on", "insisted insisted"],
+    11: ["fair balanced and", "fair", "balanced", "equitable"],
+    12: ["i also think", "i", "also", "think"],
+    13: ["violence and bombings", "violence", "bombings", "and"],
+    14: ["feuding with", "feuding", "feuding with anthropic"],
+    15: ["defend the american", "defend", "the", "american"]
+  };
+
+  // Simulate "common" answers that other players would give (nolo contendere detection)
+  const commonAnswers = {
+    1: "major military operations",
+    2: "open conflict between",
+    3: "did no wrong",
+    5: "wild twists and",
+    7: "shoot down the"
+  };
+
+  let scores = { total: 0, magna: 0, nolo: 0, revealed: 0 };
+  let cardStates = {};
+
+  function normalize(s) {
+    return s.toLowerCase().trim().replace(/['".,!?;:]/g,'').replace(/\s+/g,' ');
+  }
+
+  function isCorrect(cardId, guess) {
+    const ans = answers[cardId];
+    const g = normalize(guess);
+    return ans.some(a => normalize(a) === g);
+  }
+
+  function isNolo(cardId, guess) {
+    const common = commonAnswers[cardId];
+    if (!common) return false;
+    return normalize(guess) === normalize(common);
+  }
+
+  function checkGuess(cardId) {
+    if (cardStates[cardId]) return;
+    const input = document.getElementById('g' + cardId);
+    const guess = input.value.trim();
+    if (!guess) return;
+
+    const fb = document.getElementById('fb' + cardId);
+    fb.className = 'feedback-msg';
+    fb.style.display = 'none';
+
+    if (isCorrect(cardId, guess)) {
+      if (isNolo(cardId, guess)) {
+        fb.textContent = 'NOLO CONTENDERE — correct, but not unique. +1 pt';
+        fb.className = 'feedback-msg nolo';
+        scores.nolo++;
+        scores.total++;
+      } else {
+        fb.textContent = 'MAGNA CUM LAUDE — correct & unique! +3 pts';
+        fb.className = 'feedback-msg correct';
+        scores.magna++;
+        scores.total += 3;
+      }
+      cardStates[cardId] = true;
+      document.getElementById('card-' + cardId).classList.add('correct-guess');
+    } else {
+      fb.textContent = 'Non sequitur — try again, or REVEAL to concede.';
+      fb.className = 'feedback-msg wrong';
+    }
+    fb.style.display = 'inline-block';
+    updateScore();
+  }
+
+  function reveal(cardId) {
+    if (!cardStates[cardId]) {
+      scores.revealed++;
+      cardStates[cardId] = true;
+      document.getElementById('card-' + cardId).classList.add('revealed');
+    }
+    const panel = document.getElementById('r' + cardId);
+    panel.classList.toggle('show');
+    updateScore();
+  }
+
+  function togglePng(cardId) {
+    const panel = document.getElementById('png' + cardId);
+    if (panel) panel.classList.toggle('show');
+  }
+
+  function updateScore() {
+    document.getElementById('score-total').textContent = scores.total;
+    document.getElementById('score-magna').textContent = scores.magna;
+    document.getElementById('score-nolo').textContent = scores.nolo;
+    document.getElementById('score-revealed').textContent = scores.revealed;
+
+    const pct = Math.min(100, (scores.total / 30) * 100);
+    document.getElementById('bayes-bar').style.width = pct + '%';
+    document.getElementById('bayes-p').textContent = 'p = ' + (pct/100).toFixed(2);
+
+    let verdict = '—  AWAITING INPUT  —';
+    let bayesVerdict = 'NOVUS ORDO SECLORUM awaits the worthy';
+
+    if (scores.total >= 30) {
+      verdict = '✦  NOVUS ORDO SECLORUM  ✦';
+      bayesVerdict = 'NOVUS ORDO SECLORUM — A new order of ages has arrived. MAGNA CUM LAUDE.';
+    } else if (scores.magna >= 3) {
+      verdict = 'MAGNA CUM LAUDE achieved';
+      bayesVerdict = 'You distinguish yourself from the common interpretive mass.';
+    } else if (scores.total > 0) {
+      verdict = 'IN PROGRESS — sic vita est';
+      bayesVerdict = 'Continue. The die is cast.';
+    }
+
+    document.getElementById('verdict-text').textContent = verdict;
+    document.getElementById('bayes-verdict').textContent = bayesVerdict;
+  }
+</script>
+</body>
+</html>
