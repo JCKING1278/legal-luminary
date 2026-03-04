@@ -50,6 +50,8 @@ navigation:
     url: /texas-law/
   - title: Bell County
     url: /bell-county/
+  - title: Candidates
+    url: /candidates/
   - title: Defense Attorneys
     url: /defense/
   - title: Personal Injury
@@ -103,8 +105,11 @@ sass:
   style: compressed
   sass_dir: _sass
 
-# Collections (if needed for future expansion)
-# collections_dir: collections
+# Collections: candidates (built and deployed with site)
+collections:
+  candidates:
+    output: true
+    permalink: /candidates/:path/
 
 # Build Output
 destination: _site
@@ -137,6 +142,7 @@ exclude:
 # Include files that should be processed
 include:
   - _pages
+  - _candidates
   - _includes
   - _layouts
   - _data

@@ -3,6 +3,9 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+# candidates_c compiled binary (rebuild with make in candidates_c/)
+candidates_c/candidates_gen
+
 # Ruby / Bundler
 .bundle/
 vendor/
