@@ -1,0 +1,99 @@
+# User Acceptance Testing for production https://www.legalluminary.com
+# - Verifies important_articles.json is published on the live site
+# - Checks for broken internal links; creates a GitHub project and one issue per broken link
+# Note: Creating a GitHub Project board may require a token with project scope; issues are
+# created in all cases and labeled "broken-link".
+name: UAT Production
+
+on:
+  schedule:
+    - cron: '0 12 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  uat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm ci
+      - name: Install Playwright browsers
+        run: npx playwright install chromium
+      - name: Initialize broken-links output
+        run: echo '[]' > broken-links.json
+      - name: Run UAT
+        run: npx playwright test test_cases/uat-production.spec.ts --reporter=list
+        env:
+          PLAYWRIGHT_BASE_URL: https://www.legalluminary.com
+        continue-on-error: true
+      - name: Upload UAT results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: uat-results
+          path: broken-links.json
+
+  create-issues:
+    needs: uat
+    if: always() && needs.uat.result != 'cancelled'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Download UAT results
+        uses: actions/download-artifact@v4
+        with:
+          name: uat-results
+      - name: Count broken links
+        id: parse
+        run: |
+          COUNT=$(jq 'length' broken-links.json)
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Broken links count: $COUNT"
+      - name: Create label and project and issues
+        if: steps.parse.outputs.count != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create "broken-link" --color "d73a4a" --description "UAT found broken link" 2>/dev/null || true
+          PROJECT_ID=""
+          if PROJECT_OUTPUT=$(gh project create --title "UAT Broken Links" --format json 2>/dev/null); then
+            PROJECT_ID=$(echo "$PROJECT_OUTPUT" | jq -r '.number // empty')
+          fi
+          if [ -z "$PROJECT_ID" ]; then
+            EXISTING=$(gh project list --limit 10 --format json 2>/dev/null | jq -r '.[] | select(.title=="UAT Broken Links") | .number' | head -1)
+            if [ -n "$EXISTING" ]; then
+              PROJECT_ID="$EXISTING"
+            fi
+          fi
+          for row in $(jq -c '.[]' broken-links.json); do
+            url=$(echo "$row" | jq -r '.url')
+            status=$(echo "$row" | jq -r '.status')
+            sources=$(echo "$row" | jq -r '.sourcePages | join(", ")')
+            title="Broken link: $(echo "$url" | head -c 80)"
+            {
+              echo "UAT found a broken link on production (https://www.legalluminary.com)."
+              echo ""
+              echo "**URL:** $url"
+              echo "**HTTP status:** $status"
+              echo "**Found on page(s):** $sources"
+              echo ""
+              echo "This issue was auto-created by the UAT workflow."
+            } > body.md
+            issue_url=$(gh issue create --title "$title" --body-file body.md --label "broken-link")
+            if [ -n "$PROJECT_ID" ]; then
+              gh project item-add "$PROJECT_ID" --url "$issue_url" 2>/dev/null || true
+            fi
+          done
+          echo "Created issues for $(jq 'length' broken-links.json) broken link(s)."
