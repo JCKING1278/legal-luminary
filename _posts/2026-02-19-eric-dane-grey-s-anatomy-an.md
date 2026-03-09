@@ -1,7 +1,6 @@
 ---
 category: news
 date: 2026-02-19
-
 excerpt: Eric Dane, the renowned actor known for his roles in "Grey's Anatomy" and
   "Euphoria," died at the age of 53 on February 19, 2026, due to complications from
   amyotrophic lateral sclerosis (ALS). His representatives confirmed that he had publicly

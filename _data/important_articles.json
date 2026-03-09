@@ -1,6 +1,6 @@
 {
-  "validated_at": "2026-02-19T21:28:24.328133",
-  "total_articles": 23,
+  "validated_at": "2026-03-08T21:52:00.620944",
+  "total_articles": 33,
   "by_relevance": {
     "critical": [
       {
@@ -60,7 +60,52 @@
             "count": 1,
             "score": 50
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.255
+      },
+      {
+        "title": "Talarico defeats Crockett in Texas Democratic Senate primary",
+        "date": "2026-03-03",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/03/texas-jasmine-crockett-james-talarico-us-senate-democratic-primary/",
+        "path": "_posts/2026-03-03-talarico-defeats-crockett-in-t.md",
+        "score": 750,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "senate",
+            "priority": "critical",
+            "count": 4,
+            "score": 400
+          },
+          {
+            "keyword": "democrat",
+            "priority": "high",
+            "count": 4,
+            "score": 200
+          },
+          {
+            "keyword": "party",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "candidate",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "electoral",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          }
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.857
       },
       {
         "title": "Officer on Trial: Uvalde School Shooting | How to watch gavel-to-gavel coverage",
@@ -95,7 +140,40 @@
             "count": 1,
             "score": 50
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.333
+      },
+      {
+        "title": "Cornyn, Paxton advance to GOP runoff for Senate",
+        "date": "2026-03-03",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/03/john-cornyn-ken-paxton-wesley-hunt-runoff-primary-texas-senate-republican/",
+        "path": "_posts/2026-03-03-cornyn-paxton-advance-to-gop.md",
+        "score": 500,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "senate",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "republican",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "gop",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          }
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.846
       },
       {
         "title": "Bell County Commissioners Approve New Legal Resource Center",
@@ -124,7 +202,9 @@
             "count": 1,
             "score": 25
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.104
       },
       {
         "title": "Husband of US Rep. Tony Gonzales' deceased staffer alleges they were having",
@@ -171,7 +251,9 @@
             "count": 2,
             "score": 50
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.288
       },
       {
         "title": "Six deaths in six weeks: What to know about ICE detentions in Texas | kvue.com",
@@ -206,7 +288,90 @@
             "count": 1,
             "score": 25
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.288
+      },
+      {
+        "title": "",
+        "date": "",
+        "source": "",
+        "url": "",
+        "path": "_posts/2026-03-06-why-jasmine-crockett-lost-the.md",
+        "score": 300,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "senate",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "democrat",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          }
+        ],
+        "url_reachable": null,
+        "content_match_ratio": null
+      },
+      {
+        "title": "",
+        "date": "",
+        "source": "",
+        "url": "",
+        "path": "_posts/2026-03-06-texas-county-gop-missed-deadli.md",
+        "score": 300,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "ballot",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "gop",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          }
+        ],
+        "url_reachable": null,
+        "content_match_ratio": null
+      },
+      {
+        "title": "Five takeaways from the March 2026 Texas primaries",
+        "date": "2026-03-04",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/04/texas-primaries-2026-takeaways-senate-trump-cornyn-paxton-talarico-congress/",
+        "path": "_posts/2026-03-04-five-takeaways-from-the-march.md",
+        "score": 300,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "senate",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "congress",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "ballot",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          }
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.862
       },
       {
         "title": "Original 4 Yogurt Shop Murders suspects declared innocent in emotional exoneration",
@@ -241,7 +406,40 @@
             "count": 2,
             "score": 50
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.262
+      },
+      {
+        "title": "Don Huffines trounces Abbott ally to win Texas comptroller primary",
+        "date": "2026-03-06",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/06/don-huffines-texas-comptroller-school-vouchers-abbott/",
+        "path": "_posts/2026-03-06-don-huffines-trounces-abbott-a.md",
+        "score": 200,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "senator",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "party",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "gop",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          }
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.9
       },
       {
         "title": "How to score free Girl Scout cookies by donating blood in February | kvue.com",
@@ -270,7 +468,53 @@
             "count": 1,
             "score": 25
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.333
+      },
+      {
+        "title": "Dan Crenshaw blames primary loss on clickbait misinformation",
+        "date": "2026-03-06",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/06/dan-crenshaw-primary-loss-steve-toth-texas-2nd-congressional-district/",
+        "path": "_posts/2026-03-06-dan-crenshaw-blames-primary-lo.md",
+        "score": 100,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "congress",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          }
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.893
+      },
+      {
+        "title": "Nate Sheets defeats Sid Miller in Texas ag commissioner race",
+        "date": "2026-03-04",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/04/sid-miller-nate-sheets-texas-agricultural-commissioner-republican-primary-2/",
+        "path": "_posts/2026-03-04-nate-sheets-defeats-sid-miller.md",
+        "score": 100,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "republican",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "gop",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          }
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.862
       },
       {
         "title": "Eric Dane, 'Grey's Anatomy' and 'Euphoria' star, dies at 53 | kvue.com",
@@ -287,7 +531,9 @@
             "count": 1,
             "score": 100
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.305
       },
       {
         "title": "Brazos Valley Groundwater Conservation",
@@ -304,7 +550,9 @@
             "count": 1,
             "score": 100
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.213
       },
       {
         "title": "Good News Friday",
@@ -327,7 +575,9 @@
             "count": 1,
             "score": 25
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.122
       }
     ],
     "high": [
@@ -346,7 +596,9 @@
             "count": 1,
             "score": 50
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.163
       }
     ],
     "medium": [
@@ -365,10 +617,36 @@
             "count": 1,
             "score": 25
           }
-        ]
+        ],
+        "url_reachable": true,
+        "content_match_ratio": 0.143
       }
     ],
     "low": [
+      {
+        "title": "Corpus Christi careens toward water catastrophe",
+        "date": "2026-03-08",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/08/texas-corpus-christi-water-crisis/",
+        "path": "_posts/2026-03-08-corpus-christi-careens-toward.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.895
+      },
+      {
+        "title": "Videos shows run-up to immigration officer\u2019s fatal shooting of Texas man",
+        "date": "2026-03-06",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/06/south-padre-immigration-officer-shooting/",
+        "path": "_posts/2026-03-06-videos-shows-run-up-to-immigra.md",
+        "score": 0,
+        "relevance": "low",
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.886
+      },
       {
         "title": "Weekend Gardener",
         "date": "2026-02-19",
@@ -377,7 +655,9 @@
         "path": "_posts/2026-02-19-weekend-gardener.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.135
       },
       {
         "title": "UT System adopts new policy limiting discussion of controversial topics in",
@@ -387,7 +667,9 @@
         "path": "_posts/2026-02-19-ut-system-adopts-new-policy-li.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.26
       },
       {
         "title": "TxDOT seeking community input on new project over 8-mile stretch of US 77 in",
@@ -397,7 +679,9 @@
         "path": "_posts/2026-02-19-txdot-seeking-community-input.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.264
       },
       {
         "title": "They once competed for viewers. Now 2 former Austin TV news anchors are working",
@@ -407,7 +691,9 @@
         "path": "_posts/2026-02-19-they-once-competed-for-viewers.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.3
       },
       {
         "title": "Stream Hearts and Heroes: Flooding in the Texas Hill Country on KVUE+ | kvue.com",
@@ -417,7 +703,9 @@
         "path": "_posts/2026-02-19-stream-hearts-and-heroes-floo.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.346
       },
       {
         "title": "Restaurant Report Card",
@@ -427,7 +715,9 @@
         "path": "_posts/2026-02-19-restaurant-report-card.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.229
       },
       {
         "title": "News Headlines | kvue.com",
@@ -437,7 +727,9 @@
         "path": "_posts/2026-02-19-news-headlines-kvue-com.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.207
       },
       {
         "title": "Links mentioned on KVUE News | kvue.com",
@@ -447,7 +739,9 @@
         "path": "_posts/2026-02-19-links-mentioned-on-kvue-news.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.232
       },
       {
         "title": "KWTX Making the Grade",
@@ -457,7 +751,9 @@
         "path": "_posts/2026-02-19-kwtx-making-the-grade.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.179
       },
       {
         "title": "Hardwired",
@@ -467,7 +763,9 @@
         "path": "_posts/2026-02-19-hardwired.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.122
       },
       {
         "title": "From The Ground Up",
@@ -477,7 +775,9 @@
         "path": "_posts/2026-02-19-from-the-ground-up.md",
         "score": 0,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [],
+        "url_reachable": true,
+        "content_match_ratio": 0.189
       }
     ]
   },
@@ -539,7 +839,52 @@
           "count": 1,
           "score": 50
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.255
+    },
+    {
+      "title": "Talarico defeats Crockett in Texas Democratic Senate primary",
+      "date": "2026-03-03",
+      "source": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/03/03/texas-jasmine-crockett-james-talarico-us-senate-democratic-primary/",
+      "path": "_posts/2026-03-03-talarico-defeats-crockett-in-t.md",
+      "score": 750,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "senate",
+          "priority": "critical",
+          "count": 4,
+          "score": 400
+        },
+        {
+          "keyword": "democrat",
+          "priority": "high",
+          "count": 4,
+          "score": 200
+        },
+        {
+          "keyword": "party",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        },
+        {
+          "keyword": "candidate",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        },
+        {
+          "keyword": "electoral",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        }
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.857
     },
     {
       "title": "Officer on Trial: Uvalde School Shooting | How to watch gavel-to-gavel coverage",
@@ -574,7 +919,40 @@
           "count": 1,
           "score": 50
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.333
+    },
+    {
+      "title": "Cornyn, Paxton advance to GOP runoff for Senate",
+      "date": "2026-03-03",
+      "source": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/03/03/john-cornyn-ken-paxton-wesley-hunt-runoff-primary-texas-senate-republican/",
+      "path": "_posts/2026-03-03-cornyn-paxton-advance-to-gop.md",
+      "score": 500,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "senate",
+          "priority": "critical",
+          "count": 3,
+          "score": 300
+        },
+        {
+          "keyword": "republican",
+          "priority": "high",
+          "count": 2,
+          "score": 100
+        },
+        {
+          "keyword": "gop",
+          "priority": "high",
+          "count": 2,
+          "score": 100
+        }
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.846
     },
     {
       "title": "Bell County Commissioners Approve New Legal Resource Center",
@@ -603,7 +981,9 @@
           "count": 1,
           "score": 25
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.104
     },
     {
       "title": "Husband of US Rep. Tony Gonzales' deceased staffer alleges they were having",
@@ -650,7 +1030,9 @@
           "count": 2,
           "score": 50
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.288
     },
     {
       "title": "Six deaths in six weeks: What to know about ICE detentions in Texas | kvue.com",
@@ -685,7 +1067,90 @@
           "count": 1,
           "score": 25
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.288
+    },
+    {
+      "title": "",
+      "date": "",
+      "source": "",
+      "url": "",
+      "path": "_posts/2026-03-06-why-jasmine-crockett-lost-the.md",
+      "score": 300,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "senate",
+          "priority": "critical",
+          "count": 2,
+          "score": 200
+        },
+        {
+          "keyword": "democrat",
+          "priority": "high",
+          "count": 2,
+          "score": 100
+        }
+      ],
+      "url_reachable": null,
+      "content_match_ratio": null
+    },
+    {
+      "title": "",
+      "date": "",
+      "source": "",
+      "url": "",
+      "path": "_posts/2026-03-06-texas-county-gop-missed-deadli.md",
+      "score": 300,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "ballot",
+          "priority": "critical",
+          "count": 2,
+          "score": 200
+        },
+        {
+          "keyword": "gop",
+          "priority": "high",
+          "count": 2,
+          "score": 100
+        }
+      ],
+      "url_reachable": null,
+      "content_match_ratio": null
+    },
+    {
+      "title": "Five takeaways from the March 2026 Texas primaries",
+      "date": "2026-03-04",
+      "source": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/03/04/texas-primaries-2026-takeaways-senate-trump-cornyn-paxton-talarico-congress/",
+      "path": "_posts/2026-03-04-five-takeaways-from-the-march.md",
+      "score": 300,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "senate",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "congress",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "ballot",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        }
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.862
     },
     {
       "title": "Original 4 Yogurt Shop Murders suspects declared innocent in emotional exoneration",
@@ -720,7 +1185,40 @@
           "count": 2,
           "score": 50
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.262
+    },
+    {
+      "title": "Don Huffines trounces Abbott ally to win Texas comptroller primary",
+      "date": "2026-03-06",
+      "source": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/03/06/don-huffines-texas-comptroller-school-vouchers-abbott/",
+      "path": "_posts/2026-03-06-don-huffines-trounces-abbott-a.md",
+      "score": 200,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "senator",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        },
+        {
+          "keyword": "party",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        },
+        {
+          "keyword": "gop",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        }
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.9
     },
     {
       "title": "How to score free Girl Scout cookies by donating blood in February | kvue.com",
@@ -749,7 +1247,53 @@
           "count": 1,
           "score": 25
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.333
+    },
+    {
+      "title": "Dan Crenshaw blames primary loss on clickbait misinformation",
+      "date": "2026-03-06",
+      "source": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/03/06/dan-crenshaw-primary-loss-steve-toth-texas-2nd-congressional-district/",
+      "path": "_posts/2026-03-06-dan-crenshaw-blames-primary-lo.md",
+      "score": 100,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "congress",
+          "priority": "critical",
+          "count": 1,
+          "score": 100
+        }
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.893
+    },
+    {
+      "title": "Nate Sheets defeats Sid Miller in Texas ag commissioner race",
+      "date": "2026-03-04",
+      "source": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/03/04/sid-miller-nate-sheets-texas-agricultural-commissioner-republican-primary-2/",
+      "path": "_posts/2026-03-04-nate-sheets-defeats-sid-miller.md",
+      "score": 100,
+      "relevance": "critical",
+      "matched_keywords": [
+        {
+          "keyword": "republican",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        },
+        {
+          "keyword": "gop",
+          "priority": "high",
+          "count": 1,
+          "score": 50
+        }
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.862
     },
     {
       "title": "Eric Dane, 'Grey's Anatomy' and 'Euphoria' star, dies at 53 | kvue.com",
@@ -766,7 +1310,9 @@
           "count": 1,
           "score": 100
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.305
     },
     {
       "title": "Brazos Valley Groundwater Conservation",
@@ -783,7 +1329,9 @@
           "count": 1,
           "score": 100
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.213
     },
     {
       "title": "Good News Friday",
@@ -806,7 +1354,9 @@
           "count": 1,
           "score": 25
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.122
     },
     {
       "title": "Xtra! Xtra! Interviews",
@@ -823,7 +1373,9 @@
           "count": 1,
           "score": 50
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.163
     },
     {
       "title": "Tell Me Something Good",
@@ -840,7 +1392,33 @@
           "count": 1,
           "score": 25
         }
-      ]
+      ],
+      "url_reachable": true,
+      "content_match_ratio": 0.143
+    },
+    {
+      "title": "Corpus Christi careens toward water catastrophe",
+      "date": "2026-03-08",
+      "source": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/03/08/texas-corpus-christi-water-crisis/",
+      "path": "_posts/2026-03-08-corpus-christi-careens-toward.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.895
+    },
+    {
+      "title": "Videos shows run-up to immigration officer\u2019s fatal shooting of Texas man",
+      "date": "2026-03-06",
+      "source": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/03/06/south-padre-immigration-officer-shooting/",
+      "path": "_posts/2026-03-06-videos-shows-run-up-to-immigra.md",
+      "score": 0,
+      "relevance": "low",
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.886
     },
     {
       "title": "Weekend Gardener",
@@ -850,7 +1428,9 @@
       "path": "_posts/2026-02-19-weekend-gardener.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.135
     },
     {
       "title": "UT System adopts new policy limiting discussion of controversial topics in",
@@ -860,7 +1440,9 @@
       "path": "_posts/2026-02-19-ut-system-adopts-new-policy-li.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.26
     },
     {
       "title": "TxDOT seeking community input on new project over 8-mile stretch of US 77 in",
@@ -870,7 +1452,9 @@
       "path": "_posts/2026-02-19-txdot-seeking-community-input.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.264
     },
     {
       "title": "They once competed for viewers. Now 2 former Austin TV news anchors are working",
@@ -880,7 +1464,9 @@
       "path": "_posts/2026-02-19-they-once-competed-for-viewers.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.3
     },
     {
       "title": "Stream Hearts and Heroes: Flooding in the Texas Hill Country on KVUE+ | kvue.com",
@@ -890,7 +1476,9 @@
       "path": "_posts/2026-02-19-stream-hearts-and-heroes-floo.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.346
     },
     {
       "title": "Restaurant Report Card",
@@ -900,7 +1488,9 @@
       "path": "_posts/2026-02-19-restaurant-report-card.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.229
     },
     {
       "title": "News Headlines | kvue.com",
@@ -910,7 +1500,9 @@
       "path": "_posts/2026-02-19-news-headlines-kvue-com.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.207
     },
     {
       "title": "Links mentioned on KVUE News | kvue.com",
@@ -920,7 +1512,9 @@
       "path": "_posts/2026-02-19-links-mentioned-on-kvue-news.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.232
     },
     {
       "title": "KWTX Making the Grade",
@@ -930,7 +1524,9 @@
       "path": "_posts/2026-02-19-kwtx-making-the-grade.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.179
     },
     {
       "title": "Hardwired",
@@ -940,7 +1536,9 @@
       "path": "_posts/2026-02-19-hardwired.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.122
     },
     {
       "title": "From The Ground Up",
@@ -950,7 +1548,9 @@
       "path": "_posts/2026-02-19-from-the-ground-up.md",
       "score": 0,
       "relevance": "low",
-      "matched_keywords": []
+      "matched_keywords": [],
+      "url_reachable": true,
+      "content_match_ratio": 0.189
     }
   ]
 }
