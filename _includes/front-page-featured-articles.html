@@ -4,9 +4,9 @@ Front-page featured section: most important articles from _data/important_articl
 {%- endcomment -%}
 {%- assign data = site.data.important_articles -%}
 {%- if data and data.by_relevance -%}
-{%- assign crit = data.by_relevance.critical | default: "" | split: "" -%}
-{%- assign high = data.by_relevance.high | default: "" | split: "" -%}
-{%- if crit.size > 0 or high.size > 0 -%}
+{%- assign crit = data.by_relevance.critical -%}
+{%- assign high = data.by_relevance.high -%}
+{%- if crit and crit.size > 0 or high and high.size > 0 -%}
 <section class="featured-articles-section" aria-labelledby="featured-articles-title">
   <h2 id="featured-articles-title">Featured Legal & Election News</h2>
   <p>Top stories from <code>_data/important_articles.json</code> (ranked by relevance).</p>
@@ -29,13 +29,15 @@ Front-page featured section: most important articles from _data/important_articl
       <a href="{{ '/news/' | append: y | append: '/' | append: m | append: '/' | append: d | append: '/' | append: slug | append: '/' | relative_url }}" class="read-more">Read More →</a>
     </div>
     {%- endfor -%}
-    {%- if crit.size >= 6 -%}
+    {%- if crit and crit.size >= 6 -%}
       {%- assign critical_shown = 6 -%}
-    {%- else -%}
+    {%- elsif crit -%}
       {%- assign critical_shown = crit.size -%}
+    {%- else -%}
+      {%- assign critical_shown = 0 -%}
     {%- endif -%}
     {%- assign remaining = 6 | minus: critical_shown -%}
-    {%- if remaining > 0 and data.by_relevance.high.size > 0 -%}
+    {%- if remaining > 0 and high and high.size > 0 -%}
       {%- for article in data.by_relevance.high limit: remaining -%}
         {%- assign filename_with_ext = article.path | split: '/' | last -%}
         {%- assign filename = filename_with_ext | replace: '.md', '' -%}

@@ -298,9 +298,13 @@
   {%- if ia and ia.by_relevance -%}
     {%- for a in ia.by_relevance.critical -%}
       {%- assign important_paths = important_paths | push: a.path -%}
+      {%- assign with_leading = "/" | append: a.path -%}
+      {%- assign important_paths = important_paths | push: with_leading -%}
     {%- endfor -%}
     {%- for a in ia.by_relevance.high -%}
       {%- assign important_paths = important_paths | push: a.path -%}
+      {%- assign with_leading = "/" | append: a.path -%}
+      {%- assign important_paths = important_paths | push: with_leading -%}
     {%- endfor -%}
   {%- endif -%}
   {%- assign other_posts = "" | split: "" -%}
