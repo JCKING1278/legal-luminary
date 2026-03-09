@@ -16,10 +16,6 @@ Cornyn, Paxton advance to GOP runoff for Senate
 
 ![](/assets/imgs/2026/03/03/Elections-2026.png)
 
-![](/assets/imgs/2026/03/03/Tribune-Logo-Color-Horizontal-1024x113.png)
-
-![](/assets/imgs/2026/03/03/TheBrief_PrimaryLogo.png)
-
 ## John Cornyn, Ken Paxton advance to runoff to be Republican nominee for U.S. Senate
 
 U.S. Rep. Wesley Hunt came in third, missing the runoff which is May 26.
@@ -138,10 +134,6 @@ More by Aidan Johnstone
 
 Alejandra Martinez is a Fort Worth-based environmental reporter. She’s covered the impacts of petrochemical facilities on Black and brown communities, including investigating a chemical fire at an industrial...
 More by Alejandra Martinez
-
-![](/assets/imgs/2026/03/03/Tribune-Events-Logo-WhiteYellow-Horizontal.png)
-
-![](https://i0.wp.com/assets/imgs/2026/03/03/01-21_DPRIT-Lead-Logo-v1-scaled.png?fit=1200%2C800&quality=80&ssl=1)
 
 ## Source Information
 

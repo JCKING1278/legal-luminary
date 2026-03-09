@@ -16,8 +16,6 @@ By [More by Alejandro Serrano](https://www.texastribune.org/author/alejandro-ser
 
 Don Huffines trounces Abbott ally to win Texas comptroller primary
 
-![](https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/09/TexasTribuneLogo_horizontal-color.png?fit=1362%2C153&quality=80&ssl=1)
-
 ## Meet Don Huffines, the self-funding tea party activist who won the GOP Texas comptroller primary
 
 The former state senator from Dallas challenged Gov. Greg Abbott from the right four years ago. He’s now in line to oversee the $1 billion voucher program championed by the governor.
@@ -81,8 +79,6 @@ After one term in the Senate, Huffines lost his reelection to Democrat Nathan Jo
 In 2021, Huffines launched a long-shot bid against Abbott, a frequent recipient of Huffines’ criticism. By then, Huffines had called the governor “an elitist know-it-all,” and he went on to knock the governor for being too weak on border security and too overbearing on big government, particularly over an early COVID-19 pandemic mask mandate.
 
 On the campaign trail, Huffines also cast doubt on his 2018 defeat, after President Donald Trump had popularized election denial. He said he would not rest until the state had no more abortions, and he welcomed the idea of ending property taxes at the cost of increasing consumption taxes.
-
-Read more at...
 
 ## Source Information
 

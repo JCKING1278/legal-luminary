@@ -13,10 +13,6 @@ author: by
 
 Corpus Christi careens toward water catastrophe
 
-![](/assets/imgs/2026/03/08/Tribune-Logo-Color-Horizontal-1024x113.png)
-
-![](/assets/imgs/2026/03/08/TheBrief_PrimaryLogo.png)
-
 ## After a decade of missteps, Corpus Christi careens toward water catastrophe
 
 City officials expect to reach a “water emergency” within months and run out of water next year. That would halt jet fuel deliveries to Texas airports, hike gas prices and trigger a local economic disaster without precedent, former officials say.
@@ -312,10 +308,6 @@ That year, 2023, was the hottest on record in Texas. Water levels in Corpus Chri
 Disclosure: Texas A&M University, the University of Houston and Valero have been financial supporters of The Texas Tribune, a nonprofit, nonpartisan news organization that is funded in part by donations from members, foundations and corporate sponsors. Financial supporters play no role in the Tribune’s journalism. Find a complete list of them here.
 
 ![](https://i0.wp.com/assets/imgs/2026/03/08/0906-Dan-Crenshaw-MC-12.jpg?fit=1200%2C800&quality=89&ssl=1)
-
-![](/assets/imgs/2026/03/08/Tribune-Events-Logo-WhiteYellow-Horizontal.png)
-
-![](https://i0.wp.com/assets/imgs/2026/03/08/01-21_DPRIT-Lead-Logo-v1-scaled.png?fit=1200%2C800&quality=80&ssl=1)
 
 ## Source Information
 
