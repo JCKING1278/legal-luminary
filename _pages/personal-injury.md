@@ -84,8 +84,8 @@ Most personal injury attorneys offer free consultations and work on contingency 
 
 Stay informed about personal injury, disability claims, and estate planning topics relevant to Texas residents:
 
-- [Holiday Reminder: Updating Your Will After Life Changes This Year]({{ '/2025/12/02/holiday-reminder-updating-your-will/' | relative_url }})
-- [Top Social Security Disability Myths Debunked]({{ '/2025/11/02/top-social-security-disability-myths-debunked/' | relative_url }})
-- [What Happens If You're Hurt in a Store While Holiday Shopping in Texas?]({{ '/2025/10/01/what-happens-if-hurt-in-store-holiday-shopping/' | relative_url }})
-- [How Long Does the Probate Process Take in Texas?]({{ '/2025/09/03/how-long-does-probate-take-in-texas/' | relative_url }})
-- [Common Mistakes to Avoid When Filing for Social Security Disability Benefits]({{ '/2025/08/03/common-mistakes-filing-social-security-disability/' | relative_url }})
+- [Holiday Reminder: Updating Your Will After Life Changes This Year](https://www.mbaattorneys.com/blog/2024/september/does-everyone-need-a-will-/)
+- [Top Social Security Disability Myths Debunked](https://www.mbaattorneys.com/social-security-disability/tips-to-help-you-win-your-ssd-claim/)
+- [What Happens If You're Hurt in a Store While Holiday Shopping in Texas?](https://www.mbaattorneys.com/blog/2017/november/thanksgiving-grocery-shopping-injuries/)
+- [How Long Does the Probate Process Take in Texas?](https://www.mbaattorneys.com/blog/2025/september/how-long-does-the-probate-process-take-in-texas-/)
+- [Common Mistakes to Avoid When Filing for Social Security Disability Benefits](https://www.mbaattorneys.com/blog/2025/august/common-mistakes-to-avoid-when-filing-for-social-/)
