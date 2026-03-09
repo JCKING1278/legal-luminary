@@ -234,6 +234,9 @@
       <div class="content-wrapper">
         <article class="main-content">
           {{ content }}
+          {% if page.url == '/' %}
+          {% include front-page-featured-articles.html %}
+          {% endif %}
           {% if page.source_url or page.sources or page.verified_at %}
           <section class="content-traceability" aria-label="Content sources and verification">
             <hr>
@@ -290,11 +293,32 @@
   </main>
 
   {% unless page.url == '/' %}
+  {%- assign ia = site.data.important_articles -%}
+  {%- assign important_paths = "" | split: "" -%}
+  {%- if ia and ia.by_relevance -%}
+    {%- for a in ia.by_relevance.critical -%}
+      {%- assign important_paths = important_paths | push: a.path -%}
+      {%- assign with_leading = "/" | append: a.path -%}
+      {%- assign important_paths = important_paths | push: with_leading -%}
+    {%- endfor -%}
+    {%- for a in ia.by_relevance.high -%}
+      {%- assign important_paths = important_paths | push: a.path -%}
+      {%- assign with_leading = "/" | append: a.path -%}
+      {%- assign important_paths = important_paths | push: with_leading -%}
+    {%- endfor -%}
+  {%- endif -%}
+  {%- assign other_posts = "" | split: "" -%}
+  {%- for post in site.posts -%}
+    {%- unless important_paths contains post.path -%}
+      {%- assign other_posts = other_posts | push: post -%}
+    {%- endunless -%}
+  {%- endfor -%}
   <section class="recent-articles-section">
     <div class="container">
       <h2>Recent Articles</h2>
+      <p>Additional articles (excluding top stories shown on the home page).</p>
       <div class="articles-list">
-        {% for post in site.posts limit:6 %}
+        {% for post in other_posts limit:6 %}
         <div class="article-item">
           <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
           <p class="article-date">{{ post.date | date: "%B %d, %Y" }}</p>

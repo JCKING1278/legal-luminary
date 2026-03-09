@@ -1,0 +1,6 @@
+{
+  "name": "ll-local",
+  "version": "0.1.0",
+  "description": "Local Claude plugin scaffold for ll.",
+  "license": "Apache-2.0"
+}

@@ -37,6 +37,7 @@ AGENTS.md
 
 # Node (if using any build tools)
 node_modules/
+test-results/
 
 # Python (uv venv + verifier outputs)
 .venv/

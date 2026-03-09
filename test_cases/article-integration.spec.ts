@@ -1,4 +1,6 @@
 import { test, expect } from '@playwright/test';
+import * as fs from 'fs';
+import * as path from 'path';
 
 /**
  * Article Integration Verification Tests
@@ -24,8 +26,8 @@ test.describe('Article Integration from Verified FCC Sources', () => {
   test('should display blog posts from approved news sources', async ({ page }) => {
     await page.goto('/');
     
-    // Look for blog post section
-    const blogSection = page.locator('main, .blog, .posts, article');
+    // Look for blog post section (use first match to avoid strict mode when both main and article exist)
+    const blogSection = page.locator('main, .blog, .posts, article').first();
     await expect(blogSection).toBeVisible();
     
     // Check for at least one article
@@ -250,12 +252,14 @@ test.describe('Article Integration from Verified FCC Sources', () => {
   test('should verify articles are tagged with news category', async ({ page }) => {
     await page.goto('/');
 
-    // Look for "news" category tags
-    const newsTag = page.locator('text=/category.*news/i, text=/tagged.*news/i, .category, .tag');
-    const newsCount = await newsTag.count();
+    // Look for "news" category tags (text or class)
+    const newsTagText = page.locator('text=/category.*news/i, text=/tagged.*news/i');
+    const newsTagClass = page.locator('.category, .tag');
+    const textCount = await newsTagText.count();
+    const classCount = await newsTagClass.count();
 
-    if (newsCount > 0) {
-      console.log(`✓ Found ${newsCount} news category references`);
+    if (textCount > 0 || classCount > 0) {
+      console.log(`✓ Found ${textCount + classCount} news category references`);
     }
   });
 
@@ -557,5 +561,65 @@ test.describe('Article Integration - Allowlist Compliance', () => {
         }
       }
     }
+  });
+});
+
+/**
+ * Front page featured articles from _data/important_articles.json
+ * Verifies the "Featured Legal & Election News" section shows expected critical/high articles.
+ */
+test.describe('Front page featured articles (important_articles.json)', () => {
+  function getExpectedFeaturedTitles(): string[] {
+    const dataPath = path.join(process.cwd(), '_data', 'important_articles.json');
+    if (!fs.existsSync(dataPath)) return [];
+    const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+    const byRel = data?.by_relevance;
+    if (!byRel) return [];
+    const critical = byRel.critical || [];
+    const high = byRel.high || [];
+    const featured: string[] = [];
+    for (let i = 0; i < 6 && i < critical.length; i++) featured.push(critical[i].title);
+    for (let i = featured.length; i < 6 && i - featured.length < high.length; i++) {
+      featured.push(high[i - featured.length].title);
+    }
+    return featured;
+  }
+
+  test('front page has Featured Legal & Election News section', async ({ page }) => {
+    await page.goto('/');
+    const section = page.locator('.featured-articles-section');
+    const heading = page.locator('#featured-articles-title, .featured-articles-section h2');
+    await expect(section).toBeVisible();
+    await expect(heading).toContainText(/Featured Legal & Election News/i);
+  });
+
+  test('expected articles from important_articles.json display on front page', async ({ page }) => {
+    const expectedTitles = getExpectedFeaturedTitles();
+    if (expectedTitles.length === 0) {
+      test.skip(true, 'No important_articles.json or by_relevance data');
+      return;
+    }
+    await page.goto('/');
+    const section = page.locator('.featured-articles-section');
+    await expect(section).toBeVisible();
+    const articlesList = section.locator('.articles-list');
+    await expect(articlesList).toBeVisible();
+    for (const title of expectedTitles) {
+      await expect(page.locator('.article-item').filter({ hasText: title })).toBeVisible();
+    }
+  });
+
+  test('featured section has article items with links and Read More', async ({ page }) => {
+    await page.goto('/');
+    const section = page.locator('.featured-articles-section');
+    const items = section.locator('.article-item');
+    const count = await items.count();
+    if (count === 0) {
+      test.skip(true, 'No featured articles in important_articles.json');
+      return;
+    }
+    await expect(items.first().locator('h4 a[href*="/news/"]')).toBeVisible();
+    await expect(items.first().locator('a.read-more')).toBeVisible();
+    await expect(items.first().locator('.article-date')).toBeVisible();
   });
 });
