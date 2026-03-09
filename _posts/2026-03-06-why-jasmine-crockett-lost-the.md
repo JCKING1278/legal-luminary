@@ -14,7 +14,7 @@ author_url: https://www.texastribune.org/author/kayla-guo/
 
 Why Jasmine Crockett lost the Dem primary to James Talarico
 
-# How Jasmine Crockett slipped from Democratic frontrunner to decisive defeat in the Senate primary
+## How Jasmine Crockett slipped from Democratic frontrunner to decisive defeat in the Senate primary
 
 Crockett embarked on her primary bid with a makeshift operation that lacked a campaign manager, a developed fundraising strategy and comprehensive infrastructure for a ground game.
 

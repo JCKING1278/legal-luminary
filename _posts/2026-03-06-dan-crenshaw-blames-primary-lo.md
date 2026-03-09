@@ -12,7 +12,7 @@ author: More by Gabby Birenbaum
 author_url: https://www.texastribune.org/author/gabby-birenbaum/
 ---
 
-# Rep. Dan Crenshaw says culture of misinformation fueled his primary loss: “The truth didn’t matter”
+## Rep. Dan Crenshaw says culture of misinformation fueled his primary loss: “The truth didn’t matter”
 
 The fourth-term congressman, who lost decisively to state Rep. Steve Toth, said baseless attacks about his alleged insider trading and gun stances fueled the upset.
 

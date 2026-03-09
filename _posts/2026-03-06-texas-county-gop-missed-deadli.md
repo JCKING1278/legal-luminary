@@ -16,7 +16,7 @@ By [More by Natalia Contreras](https://www.texastribune.org/author/natalia-contr
 
 Texas county GOP missed deadline to report primary results
 
-# Calhoun County GOP missed deadline to report primary election results after choosing to hand-count ballots
+## Calhoun County GOP missed deadline to report primary election results after choosing to hand-count ballots
 
 It’s not clear how — or if — a state law about reporting requirements will be enforced. Republicans hand-counting in two other counties did not miss the deadline.
 

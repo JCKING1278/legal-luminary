@@ -16,7 +16,7 @@ By [More by Lomi Kriel](https://www.texastribune.org/author/lomi-kriel/)
 
 Videos shows run-up to immigration officer’s fatal shooting of Texas man
 
-# Footage shows the run-up to immigration officer’s fatal shooting of Texas man
+## Footage shows the run-up to immigration officer’s fatal shooting of Texas man
 
 The clips, from multiple angles, don’t include everything, including key audio. But lawyers for the man’s family argue they refute the Trump administration's explanation that his killing was self-defense
 

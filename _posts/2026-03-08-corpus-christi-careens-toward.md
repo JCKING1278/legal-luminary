@@ -17,7 +17,7 @@ Corpus Christi careens toward water catastrophe
 
 ![](/assets/imgs/2026/03/08/TheBrief_PrimaryLogo.png)
 
-# After a decade of missteps, Corpus Christi careens toward water catastrophe
+## After a decade of missteps, Corpus Christi careens toward water catastrophe
 
 City officials expect to reach a “water emergency” within months and run out of water next year. That would halt jet fuel deliveries to Texas airports, hike gas prices and trigger a local economic disaster without precedent, former officials say.
 

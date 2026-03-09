@@ -18,7 +18,7 @@ Don Huffines trounces Abbott ally to win Texas comptroller primary
 
 ![](https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/09/TexasTribuneLogo_horizontal-color.png?fit=1362%2C153&quality=80&ssl=1)
 
-# Meet Don Huffines, the self-funding tea party activist who won the GOP Texas comptroller primary
+## Meet Don Huffines, the self-funding tea party activist who won the GOP Texas comptroller primary
 
 The former state senator from Dallas challenged Gov. Greg Abbott from the right four years ago. He’s now in line to oversee the $1 billion voucher program championed by the governor.
 
@@ -82,36 +82,7 @@ In 2021, Huffines launched a long-shot bid against Abbott, a frequent recipient 
 
 On the campaign trail, Huffines also cast doubt on his 2018 defeat, after President Donald Trump had popularized election denial. He said he would not rest until the state had no more abortions, and he welcomed the idea of ending property taxes at the cost of increasing consumption taxes.
 
-But Abbott easily defeated him.
-
-Once reelected, Abbott grabbed the reins of the school voucher movement and claimed victory last year after he got a package through the Legislature by helping oust opponents in their legislative primaries. Now Huffines, his onetime foe, could be in charge of the program.
-
-Huffines will face state Sen. Sarah Eckhardt, who won the Democratic nomination Tuesday. The state last had a Democratic comptroller in 1999.
-
-Meet Don Huffines, the self-funding tea party activist who won the GOP Texas comptroller primary
-
-### Share this:
-
-![](https://i0.wp.com/assets/imgs/2026/03/06/Republican-Gov-Candidates-MF-21.jpg?fit=1200%2C800&quality=89&ssl=1)
-
-Don Huffines listens to a question during a Republican gubernatorial candidate forum in College Station on Jan. 19, 2022. Mark Felix for The Texas Tribune
-
-“Do you want me to give them $15,000? Is that what you want?” Huffines asked the kid. “You want to give them a full tuition? That is the most selfish thing I’ve ever heard.”
-
-“I’ve apologized to everyone for my bad behavior, for my tone, my demeanor,” he told Dallas journalists, though he stood behind the substance of his point.
-
-Huffines said that he and Abbott had a “very nice conversation” this week after the dust settled on the election.
-
-“He wanted to reiterate that we’re gonna work together to defeat the Democrats in the fall, and work together on the problems that affect Texas,” Huffines told The Texas Tribune. The governor’s campaign confirmed the call and added that the two talked about their shared commitment to cut property taxes in the state and winning in November, when Abbott will be up for a fourth term as governor.
-
-“I’m gonna do an accounting of that, making sure that we know what that number is, particularly in our school systems, health and services system, incarceration, border security,” Huffines said in an interview.”It’s really not an equitable situation that Texas has been in for decades.”
-
-“That’s exciting for me,” Huffines said of overseeing the voucher program. “I look at it simply from a free market perspective. And what is the best solution to make our government schools the best they can possibly be? It’s competition, of course.”
-
-Alejandro Serrano writes about Texas politics and government, with a focus on immigration and education issues. Since joining the Tribune, he has helped investigate the 2022 Uvalde school shooting, lived...
-More by Alejandro Serrano
-
-## Topics
+Read more at...
 
 ## Source Information
 

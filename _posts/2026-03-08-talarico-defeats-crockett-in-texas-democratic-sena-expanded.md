@@ -9,7 +9,7 @@ author: Kayla Guo
 author_url: https://www.texastribune.org/author/kayla-guo/
 ---
 
-# James Talarico defeats Jasmine Crockett in blockbuster Democratic primary for U.S. Senate
+## James Talarico defeats Jasmine Crockett in blockbuster Democratic primary for U.S. Senate
 
 by Kayla Guo and Joshua Fechter, The Texas Tribune March 3, 2026
 

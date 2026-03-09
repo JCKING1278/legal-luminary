@@ -24,7 +24,7 @@ Five takeaways from the March 2026 Texas primaries
 
 ![](https://i0.wp.com/assets/imgs/2026/03/04/TexasTribuneLogo_horizontal-color.png?fit=1362%2C153&quality=80&ssl=1)
 
-# Big money moved the needle and down-ballot chaos reigned in Texas’ action-packed primaries
+## Big money moved the needle and down-ballot chaos reigned in Texas’ action-packed primaries
 
 Two blockbuster Senate primaries dominated attention, chaos reigned in down-ballot races and an intense runoff season looms.
 

@@ -12,7 +12,7 @@ author: More by Kate McGee
 author_url: https://www.texastribune.org/author/kate-mcgee/
 ---
 
-# Nate Sheets defeats three-term incumbent Sid Miller in GOP primary for Texas agriculture commissioner
+## Nate Sheets defeats three-term incumbent Sid Miller in GOP primary for Texas agriculture commissioner
 
 by Kate McGee and Jess Huff, The Texas Tribune March 4, 2026
 
