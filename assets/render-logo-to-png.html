@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Export logo to PNG</title>
+  <style>
+    body { font-family: system-ui, sans-serif; padding: 1.5rem; }
+    .preview { margin: 1rem 0; }
+    img, canvas { display: block; border: 1px solid #ccc; }
+    button { margin-top: 0.5rem; padding: 0.5rem 1rem; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h1>Texas flag LL logo</h1>
+  <p>SVG logo renders to PNG below. Use "Download PNG" for a 400×400 PNG.</p>
+  <div class="preview">
+    <img id="preview" src="texas-flag-ll-logo.svg" alt="Logo" width="400" height="400" crossorigin="anonymous">
+  </div>
+  <button id="export">Download PNG</button>
+
+  <script>
+    const img = document.getElementById('preview');
+    const exportBtn = document.getElementById('export');
+    const size = 400;
+
+    img.onload = () => {
+      const canvas = document.createElement('canvas');
+      canvas.width = size;
+      canvas.height = size;
+      const ctx = canvas.getContext('2d');
+      ctx.drawImage(img, 0, 0, size, size);
+      exportBtn.onclick = () => {
+        const a = document.createElement('a');
+        a.download = 'texas-flag-ll-logo.png';
+        a.href = canvas.toDataURL('image/png');
+        a.click();
+      };
+    };
+  </script>
+</body>
+</html>
