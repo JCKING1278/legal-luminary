@@ -66,6 +66,21 @@ validation_thresholds:
   readiness_publish: 0.95
   max_retries: 3
 
+# G15: Layered defense (Ch18). Two independent checks before publish:
+# Layer 1 (input): document-doctor / evidence_verify - allowlist and domain check.
+# Layer 2 (output): integrator / evaluator - critic and toxicity/schema check.
+# See agent/langsmith_demo (merge_verification -> content_generation -> critic -> evaluator)
+# and agent/article_discovery (verify_domain, validate_content -> rank_importance -> save_article).
+guardrails:
+  - stage: document-doctor
+    checks: [ "input_allowlist", "domain_verification" ]
+    reference: validation_thresholds
+  - stage: validator
+    checks: [ "schema_validation", "policy_evaluation" ]
+  - stage: integrator
+    checks: [ "output_evaluator", "toxicity", "schema_adherent" ]
+    reference: validation_thresholds.readiness_publish
+
 content_types:
   - news
   - judge
