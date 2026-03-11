@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Legal Luminary of Central Texas - News, Courts, Politics, and more
 permalink: /
 hero: true
 hero_title: "Central Texas Legal Resource"
