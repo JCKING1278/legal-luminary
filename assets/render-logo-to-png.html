@@ -1,41 +1,229 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Export logo to PNG</title>
-  <style>
-    body { font-family: system-ui, sans-serif; padding: 1.5rem; }
-    .preview { margin: 1rem 0; }
-    img, canvas { display: block; border: 1px solid #ccc; }
-    button { margin-top: 0.5rem; padding: 0.5rem 1rem; cursor: pointer; }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scales of Justice</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    min-height: 100vh;
+    background: radial-gradient(ellipse at 50% 30%, #1a1200 0%, #0a0800 60%, #000 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+    opacity: 0.35;
+    pointer-events: none;
+    z-index: 10;
+  }
+
+  h1 {
+    color: rgba(210,175,60,0.85);
+    font-size: clamp(1rem, 2.5vw, 1.6rem);
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    text-shadow: 0 0 40px rgba(210,175,60,0.4);
+    opacity: 0;
+    animation: fadeIn 1.4s 0.5s ease forwards;
+    font-family: Georgia, serif;
+  }
+
+  .scene {
+    width: min(68vw, 68vh);
+    height: min(68vw, 68vh);
+    filter: drop-shadow(0 16px 50px rgba(180,140,30,0.3))
+            drop-shadow(0 0 100px rgba(180,140,30,0.08));
+  }
+
+  /*
+   * BEAM GROUP rotates around the fulcrum at SVG coords (1491.72, 483.78).
+   * px units anchor the origin into the SVG coordinate system directly.
+   *
+   * Physics:
+   *  0% / 100% — slow at extremes (gravity opposing motion)
+   *  8% / 92%  — tiny overshoot + micro-settle (chain/weight inertia)
+   *  50%       — fastest through center (gravity + momentum aligned)
+   *
+   * animation-direction: alternate means each half-swing gets its
+   * own ease, so the deceleration into each extreme feels natural.
+   */
+  #beam {
+    transform-origin: 1491.72px 483.78px;
+    animation: balance 1.5s ease-in-out infinite alternate;
+  }
+
+  @keyframes balance {
+    0% {
+      transform: rotate(-9deg);
+      animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+    }
+    8% {
+      transform: rotate(-9.5deg);
+      animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    }
+    50% {
+      transform: rotate(0deg);
+      animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+    }
+    92% {
+      transform: rotate(9.5deg);
+      animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    }
+    100% {
+      transform: rotate(9deg);
+    }
+  }
+
+  .tagline {
+    margin-top: 2rem;
+    color: rgba(180,140,30,0.45);
+    font-size: clamp(0.6rem, 1.4vw, 0.85rem);
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    opacity: 0;
+    animation: fadeIn 1.4s 1.2s ease forwards;
+    font-family: Georgia, serif;
+  }
+
+  @keyframes fadeIn { to { opacity: 1; } }
+</style>
 </head>
 <body>
-  <h1>Texas flag LL logo</h1>
-  <p>SVG logo renders to PNG below. Use "Download PNG" for a 400×400 PNG.</p>
-  <div class="preview">
-    <img id="preview" src="texas-flag-ll-logo.svg" alt="Logo" width="400" height="400" crossorigin="anonymous">
-  </div>
-  <button id="export">Download PNG</button>
 
-  <script>
-    const img = document.getElementById('preview');
-    const exportBtn = document.getElementById('export');
-    const size = 400;
+<h1>Scales of Justice</h1>
 
-    img.onload = () => {
-      const canvas = document.createElement('canvas');
-      canvas.width = size;
-      canvas.height = size;
-      const ctx = canvas.getContext('2d');
-      ctx.drawImage(img, 0, 0, size, size);
-      exportBtn.onclick = () => {
-        const a = document.createElement('a');
-        a.download = 'texas-flag-ll-logo.png';
-        a.href = canvas.toDataURL('image/png');
-        a.click();
-      };
-    };
-  </script>
+<svg class="scene" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3003 3003">
+
+  <!-- ═══════════════════════════════════════════════════════
+       BEAM GROUP  — rotates around fulcrum (1491.72, 483.78)
+       6 subpaths: left arm+pan+triangle  +  right arm+pan+triangle
+       ═══════════════════════════════════════════════════════ -->
+  <g id="beam" fill="rgb(210,175,55)">
+
+    <!-- RIGHT: chain A-frame triangle -->
+    <path d="M 2342 696.160156 L 2041.71875 1460.960938 L 2642.308594 1460.96875 Z"/>
+
+    <!-- RIGHT: arm strut + hanging pan box -->
+    <path d="
+      M 2719.929688 1492.609375 L 2719.929688 1524.039062
+      C 2719.929688 1541.511719 2705.75 1555.46875 2688.308594 1555.46875
+      L 1995.699219 1555.480469
+      C 1978.25 1555.46875 1964.089844 1541.511719 1964.089844 1524.039062
+      L 1964.089844 1492.609375
+      C 1964.089844 1488.449219 1964.949219 1484.539062 1966.46875 1481.039062
+      L 1966.261719 1481.039062 L 1966.699219 1480.171875
+      L 2308.199219 609.949219 L 1632.390625 609.949219
+      C 1662.269531 576.550781 1680.808594 532.460938 1680.808594 483.78125
+      C 1680.808594 465.019531 1677.96875 446.679688 1672.511719 429.441406
+      L 2502.519531 512.601562
+      C 2518.871094 514.121094 2530.859375 527.660156 2530.859375 544.03125
+      L 2530.859375 578.519531
+      C 2530.859375 595.75 2516.910156 609.949219 2499.460938 609.949219
+      L 2375.800781 609.949219 L 2717.53125 1480.171875 L 2717.761719 1481.039062
+      L 2717.53125 1481.039062
+      C 2719.070312 1484.539062 2719.929688 1488.449219 2719.929688 1492.609375 Z"/>
+
+    <!-- RIGHT: pan curved rim -->
+    <path d="
+      M 2103.21875 1694.71875
+      C 2114.980469 1706.511719 2130.910156 1713.058594 2147.699219 1713.058594
+      L 2536.320312 1713.058594
+      C 2553.109375 1713.058594 2569.019531 1706.511719 2581.011719 1694.71875
+      L 2688.308594 1587.109375 L 1995.699219 1587.121094 Z"/>
+
+    <!-- LEFT: chain A-frame triangle -->
+    <path d="M 641.453125 696.160156 L 341.152344 1460.960938 L 941.738281 1460.96875 Z"/>
+
+    <!-- LEFT: arm strut + hanging pan box -->
+    <path d="
+      M 1016.980469 1481.039062
+      C 1018.5 1484.539062 1019.371094 1488.449219 1019.371094 1492.609375
+      L 1019.371094 1524.039062
+      C 1019.371094 1541.511719 1005.199219 1555.46875 987.757812 1555.46875
+      L 294.921875 1555.480469
+      C 277.703125 1555.46875 263.523438 1541.511719 263.523438 1524.039062
+      L 263.523438 1492.609375
+      C 263.523438 1488.449219 264.390625 1484.539062 265.695312 1481.039062
+      L 265.925781 1480.171875 L 607.652344 609.949219 L 483.992188 609.949219
+      C 466.546875 609.949219 452.59375 595.75 452.59375 578.519531
+      L 452.59375 544.03125
+      C 452.59375 527.660156 464.8125 514.121094 480.9375 512.601562
+      L 1310.71875 429.441406
+      C 1305.699219 446.679688 1302.648438 465.019531 1302.648438 483.78125
+      C 1302.648438 532.460938 1321.191406 576.550781 1351.070312 609.949219
+      L 675.253906 609.949219 L 1016.75 1480.171875 L 1017.191406 1481.039062 Z"/>
+
+    <!-- LEFT: pan curved rim -->
+    <path d="
+      M 402.441406 1694.71875
+      C 414.433594 1706.511719 430.347656 1713.058594 447.140625 1713.058594
+      L 835.753906 1713.058594
+      C 852.546875 1713.058594 868.472656 1706.511719 880.234375 1694.71875
+      L 987.757812 1587.109375 L 294.921875 1587.121094 Z"/>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════════════
+       CENTER GROUP  — never moves
+       Fulcrum circle  ·  vertical column  ·  base bars
+       ═══════════════════════════════════════════════════════ -->
+  <g id="center" fill="rgb(210,175,55)">
+
+    <!-- Fulcrum pivot circle -->
+    <path d="
+      M 1491.71875 609.949219
+      C 1561.289062 609.949219 1617.78125 553.421875 1617.78125 483.78125
+      C 1617.78125 414.160156 1561.289062 357.859375 1491.71875 357.859375
+      C 1422.160156 357.859375 1365.671875 414.160156 1365.671875 483.78125
+      C 1365.671875 553.421875 1422.160156 609.949219 1491.71875 609.949219 Z"/>
+
+    <!-- Vertical column + splayed foot -->
+    <path d="
+      M 1334.269531 2091.3125 L 1334.269531 2186.03125 L 1208.230469 2311.980469
+      L 1775.230469 2311.984375 L 1649.179688 2186.03125 L 1649.179688 2091.3125
+      C 1649.179688 2074.066406 1635.210938 2059.886719 1617.78125 2059.886719
+      L 1554.761719 2059.890625 L 1554.761719 661.890625
+      C 1535.128906 669.089844 1513.75 673.03125 1491.71875 673.03125
+      C 1469.699219 673.03125 1448.539062 669.089844 1428.699219 661.890625
+      L 1428.691406 2059.886719 L 1365.671875 2059.890625
+      C 1348.449219 2059.886719 1334.269531 2074.066406 1334.269531 2091.3125 Z"/>
+
+    <!-- Narrow base crossbar -->
+    <path d="
+      M 1901.28125 2375.058594 L 1901.28125 2406.488281
+      C 1901.28125 2423.949219 1887.101562 2438.128906 1869.648438 2438.128906
+      L 1113.808594 2438.132812
+      C 1096.359375 2438.128906 1082.390625 2423.949219 1082.390625 2406.488281
+      L 1082.390625 2375.058594
+      C 1082.390625 2357.601562 1096.359375 2343.621094 1113.808594 2343.621094
+      L 1869.648438 2343.625
+      C 1887.101562 2343.621094 1901.28125 2357.601562 1901.28125 2375.058594 Z"/>
+
+    <!-- Wide plinth base -->
+    <path d="
+      M 2088.988281 2524.511719 L 2088.988281 2570.289062
+      C 2088.988281 2595.71875 2068.339844 2616.371094 2042.929688 2616.371094
+      L 942.054688 2616.378906
+      C 916.644531 2616.371094 896.304688 2595.71875 896.304688 2570.289062
+      L 896.304688 2524.511719
+      C 896.304688 2499.082031 916.644531 2478.722656 942.054688 2478.722656
+      L 2042.929688 2478.726562
+      C 2068.339844 2478.722656 2088.988281 2499.082031 2088.988281 2524.511719 Z"/>
+  </g>
+
+</svg>
+
+<p class="tagline">Fiat Justitia &nbsp;·&nbsp; Let Justice Be Done</p>
+
 </body>
 </html>

@@ -83,6 +83,13 @@ service_area:
     - Fort Cavazos (Fort Hood)
     - Waco
 
+# Social media (optional; omit or leave blank to hide)
+social_media:
+  facebook: "https://tinyurl.com/facebook-cloudfronts"
+  # twitter: ""
+  # instagram: ""
+  # linkedin: ""
+
 # Featured Attorneys (for easy updating)
 attorneys:
   defense:
