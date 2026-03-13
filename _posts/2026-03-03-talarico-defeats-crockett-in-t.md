@@ -72,6 +72,8 @@ The competition tested Democrats’ appetite for identity politics, with questio
 
 Crockett cast concerns about her electability in a red state as racist dog whistles, and she called a pro-Talarico super PAC’s ad citing the apparent GOP preference for her nomination “straight up racist” and accused the ad of darkening her skin. The ad applied a dark filter throughout, including over other people pictured. Campaigns cannot legally coordinate with super PACs, and Talarico has repeatedly emphasized his respect for Crockett.
 
+{% include primary-day.html %}
+
 The racial tensions tearing the primary apart were amplified by political content creators from around the country, who waged a vicious online proxy war on behalf of their preferred candidates.
 
 Crockett’s supporters online depicted Talarico as anti-Black, pointing to an accusation made by a TikTok creator that he referred to former congressman and 2024 Democratic Senate nominee Colin Allred as a “mediocre Black man.” Talarico disputed the allegation, saying he criticized Allred’s campaigning but would “never attack him on the basis of race.”
