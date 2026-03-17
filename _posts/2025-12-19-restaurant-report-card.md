@@ -1,16 +1,13 @@
 ---
 category: news
-date: 2026-02-19
+date: 2025-12-19
 excerpt: McDonald’s has recently opened two new locations in Central Texas, marking
-  a significant expansion in the region's restaurant landscape, as reported on December
-  19, 2025. This development is part of a broader trend of growth in dining options
-  within the area, which has been highlighted in the latest Restaurant...
 layout: default
 news_excerpt: true
 source_name: KWTX
 source_url: https://www.kwtx.com/news/restaurant-report-card
 title: Restaurant Report Card
-verified_at: 2026-02-19
+verified_at: 2025-12-19
 ---
 
 McDonald’s has recently opened two new locations in Central Texas, marking a significant expansion in the region's restaurant landscape, as reported on December 19, 2025. This development is part of a broader trend of growth in dining options within the area, which has been highlighted in the latest Restaurant Report Card for Waco and Central Texas, published on December 5, 2025.
@@ -23,7 +20,7 @@ These developments are significant for the local economy, as they not only enhan
 
 - **Source**: KWTX
 - **Original URL**: https://www.kwtx.com/news/restaurant-report-card
-- **Published**: 2026-02-19
-- **Verified**: 2026-02-19
+- **Published**: 2025-12-19
+- **Verified**: 2025-12-19
 
 ---

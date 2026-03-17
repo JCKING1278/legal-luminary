@@ -42,29 +42,30 @@ feeds:
     note: "RSS feed not available; may need alternative source"
     
   # Texas State Government Sources
+  # Texas Legislature RSS (use RSS.aspx?Type=... for XML; RSSFeeds.aspx returns HTML)
   - name: "Texas Legislature - Today's Bills Filed"
-    url: "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx?FeedType=TodayBillsFiledHouse"
+    url: "https://capitol.texas.gov/MyTLO/RSS/RSS.aspx?Type=todaysfiledhouse"
     category: "state"
     type: "legislature"
     max_items: 10
     enabled: true
     
   - name: "Texas Legislature - Today's Passed Bills"
-    url: "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx?FeedType=TodayPassedBills"
+    url: "https://capitol.texas.gov/MyTLO/RSS/RSS.aspx?Type=todaysbillspassed"
     category: "state"
     type: "legislature"
     max_items: 10
     enabled: true
     
   - name: "Texas Legislature - Upcoming House Committee Meetings"
-    url: "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx?FeedType=UpcomingHouseCommitteeMeetings"
+    url: "https://capitol.texas.gov/MyTLO/RSS/RSS.aspx?Type=upcomingmeetingshouse"
     category: "state"
     type: "legislature"
     max_items: 10
     enabled: true
     
   - name: "Texas Legislature - Upcoming Senate Committee Meetings"
-    url: "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx?FeedType=UpcomingSenateCommitteeMeetings"
+    url: "https://capitol.texas.gov/MyTLO/RSS/RSS.aspx?Type=upcomingmeetingssenate"
     category: "state"
     type: "legislature"
     max_items: 10

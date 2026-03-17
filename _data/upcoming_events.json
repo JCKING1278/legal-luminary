@@ -1,7 +1,21 @@
 {
-  "generated_utc": "",
+  "generated_utc": "2026-03-15T20:30:21Z",
   "week_start": "",
   "week_end": "",
   "source_index_url": "https://www.bellcountytx.com/about_us/school_districts/index.php",
-  "districts": []
+  "districts": [],
+  "legislature_upcoming": [
+    {
+      "title": "No committee meetings scheduled.",
+      "url": "https://capitol.texas.gov/Committees/MeetingsUpcoming.aspx?Chamber=H",
+      "date": "2026-03-15",
+      "source": "Texas Legislature - Upcoming House Committee Meetings"
+    },
+    {
+      "title": "No committee meetings scheduled.",
+      "url": "https://capitol.texas.gov/Committees/MeetingsUpcoming.aspx?Chamber=S",
+      "date": "2026-03-15",
+      "source": "Texas Legislature - Upcoming Senate Committee Meetings"
+    }
+  ]
 }

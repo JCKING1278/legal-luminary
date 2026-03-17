@@ -1,16 +1,13 @@
 ---
 category: news
-date: 2026-02-19
+date: 2025-12-11
 excerpt: At The Game Awards on December 11, 2025, independent studio Sand Fall Interactive
-  garnered significant recognition by winning nine awards, including the coveted Game
-  of the Year for their title "Clair Obscur Expedition 33." This achievement underscores
-  the studio's substantial impact on the gaming industry during a...
 layout: default
 news_excerpt: true
 source_name: KWTX
 source_url: https://www.kwtx.com/content/news/entertainment/Hardwired
 title: Hardwired
-verified_at: 2026-02-19
+verified_at: 2025-12-11
 ---
 
 At The Game Awards on December 11, 2025, independent studio Sand Fall Interactive garnered significant recognition by winning nine awards, including the coveted Game of the Year for their title "Clair Obscur Expedition 33." This achievement underscores the studio's substantial impact on the gaming industry during a year marked by fierce competition among various game releases.
@@ -23,7 +20,7 @@ The awards ceremony also celebrated other notable winners and showcased upcoming
 
 - **Source**: KWTX
 - **Original URL**: https://www.kwtx.com/content/news/entertainment/Hardwired
-- **Published**: 2026-02-19
-- **Verified**: 2026-02-19
+- **Published**: 2025-12-11
+- **Verified**: 2025-12-11
 
 ---

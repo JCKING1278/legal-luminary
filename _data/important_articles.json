@@ -1,6 +1,6 @@
 {
-  "validated_at": "2026-03-08T22:36:27.648327",
-  "total_articles": 35,
+  "validated_at": "2026-03-15T15:24:41.863784",
+  "total_articles": 37,
   "by_relevance": {
     "critical": [
       {
@@ -9,44 +9,50 @@
         "source": "Texas Tribune",
         "url": "https://www.texastribune.org/2026/03/03/john-cornyn-ken-paxton-wesley-hunt-runoff-primary-texas-senate-republican/",
         "path": "_posts/2026-03-03-cornyn-paxton-advance-to-gop.md",
-        "score": 1726,
+        "score": 1891,
         "relevance": "critical",
         "matched_keywords": [
           {
-            "keyword": "texas",
-            "priority": "critical",
-            "count": 31,
-            "score": 3100
-          },
-          {
             "keyword": "runoff",
             "priority": "critical",
-            "count": 28,
-            "score": 2800
+            "count": 26,
+            "score": 2600
           },
           {
-            "keyword": "senate",
+            "keyword": "texas",
             "priority": "critical",
-            "count": 20,
-            "score": 2000
+            "count": 19,
+            "score": 1900
           },
           {
-            "keyword": "republican",
+            "keyword": "election",
             "priority": "critical",
             "count": 18,
             "score": 1800
           },
           {
-            "keyword": "primary",
+            "keyword": "senate",
             "priority": "critical",
-            "count": 13,
-            "score": 1300
+            "count": 15,
+            "score": 1500
           },
           {
-            "keyword": "election",
+            "keyword": "republican",
             "priority": "critical",
-            "count": 13,
-            "score": 1300
+            "count": 14,
+            "score": 1400
+          },
+          {
+            "keyword": "primary",
+            "priority": "critical",
+            "count": 11,
+            "score": 1100
+          },
+          {
+            "keyword": "democrat",
+            "priority": "critical",
+            "count": 9,
+            "score": 900
           },
           {
             "keyword": "gop",
@@ -55,13 +61,19 @@
             "score": 700
           },
           {
-            "keyword": "voter",
+            "keyword": "attorney general",
+            "priority": "high",
+            "count": 13,
+            "score": 650
+          },
+          {
+            "keyword": "candidate",
             "priority": "critical",
             "count": 6,
             "score": 600
           },
           {
-            "keyword": "democrat",
+            "keyword": "voter",
             "priority": "critical",
             "count": 6,
             "score": 600
@@ -73,18 +85,6 @@
             "score": 500
           },
           {
-            "keyword": "candidate",
-            "priority": "critical",
-            "count": 5,
-            "score": 500
-          },
-          {
-            "keyword": "attorney general",
-            "priority": "high",
-            "count": 8,
-            "score": 400
-          },
-          {
             "keyword": "campaign",
             "priority": "high",
             "count": 8,
@@ -93,8 +93,8 @@
           {
             "keyword": "trump",
             "priority": "high",
-            "count": 7,
-            "score": 350
+            "count": 5,
+            "score": 250
           },
           {
             "keyword": "congress",
@@ -121,10 +121,10 @@
             "score": 200
           },
           {
-            "keyword": "endorsement",
-            "priority": "high",
-            "count": 2,
-            "score": 100
+            "keyword": "attorney",
+            "priority": "low",
+            "count": 13,
+            "score": 130
           },
           {
             "keyword": "voting",
@@ -133,16 +133,16 @@
             "score": 100
           },
           {
-            "keyword": "attorney",
-            "priority": "low",
-            "count": 8,
-            "score": 80
+            "keyword": "endorsement",
+            "priority": "high",
+            "count": 1,
+            "score": 50
           },
           {
             "keyword": "law",
             "priority": "medium",
-            "count": 1,
-            "score": 25
+            "count": 2,
+            "score": 50
           },
           {
             "keyword": "appoint",
@@ -158,38 +158,50 @@
         "source": "Texas Tribune",
         "url": "https://www.texastribune.org/2026/03/03/texas-jasmine-crockett-james-talarico-us-senate-democratic-primary/",
         "path": "_posts/2026-03-03-talarico-defeats-crockett-in-t.md",
-        "score": 2000,
+        "score": 1917,
         "relevance": "critical",
         "matched_keywords": [
           {
-            "keyword": "texas",
-            "priority": "critical",
-            "count": 42,
-            "score": 4200
-          },
-          {
             "keyword": "democrat",
             "priority": "critical",
-            "count": 33,
-            "score": 3300
-          },
-          {
-            "keyword": "senate",
-            "priority": "critical",
-            "count": 28,
-            "score": 2800
+            "count": 24,
+            "score": 2400
           },
           {
             "keyword": "primary",
             "priority": "critical",
-            "count": 27,
-            "score": 2700
+            "count": 21,
+            "score": 2100
+          },
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 16,
+            "score": 1600
           },
           {
             "keyword": "democratic",
             "priority": "critical",
-            "count": 20,
-            "score": 2000
+            "count": 13,
+            "score": 1300
+          },
+          {
+            "keyword": "senate",
+            "priority": "critical",
+            "count": 12,
+            "score": 1200
+          },
+          {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 12,
+            "score": 1200
+          },
+          {
+            "keyword": "voter",
+            "priority": "critical",
+            "count": 11,
+            "score": 1100
           },
           {
             "keyword": "republican",
@@ -198,46 +210,34 @@
             "score": 900
           },
           {
-            "keyword": "election",
-            "priority": "critical",
-            "count": 9,
-            "score": 900
-          },
-          {
-            "keyword": "voter",
-            "priority": "critical",
-            "count": 8,
-            "score": 800
-          },
-          {
             "keyword": "gop",
             "priority": "critical",
             "count": 7,
             "score": 700
           },
           {
-            "keyword": "voting",
-            "priority": "critical",
-            "count": 5,
-            "score": 500
-          },
-          {
             "keyword": "campaign",
             "priority": "high",
-            "count": 9,
-            "score": 450
-          },
-          {
-            "keyword": "candidate",
-            "priority": "critical",
-            "count": 4,
-            "score": 400
+            "count": 13,
+            "score": 650
           },
           {
             "keyword": "congress",
             "priority": "critical",
-            "count": 4,
-            "score": 400
+            "count": 6,
+            "score": 600
+          },
+          {
+            "keyword": "candidate",
+            "priority": "critical",
+            "count": 6,
+            "score": 600
+          },
+          {
+            "keyword": "voting",
+            "priority": "critical",
+            "count": 5,
+            "score": 500
           },
           {
             "keyword": "congresswoman",
@@ -252,6 +252,12 @@
             "score": 300
           },
           {
+            "keyword": "trump",
+            "priority": "high",
+            "count": 5,
+            "score": 250
+          },
+          {
             "keyword": "runoff",
             "priority": "critical",
             "count": 2,
@@ -264,16 +270,10 @@
             "score": 100
           },
           {
-            "keyword": "legislature",
-            "priority": "critical",
-            "count": 1,
-            "score": 100
-          },
-          {
-            "keyword": "trump",
+            "keyword": "abbott",
             "priority": "high",
-            "count": 1,
-            "score": 50
+            "count": 2,
+            "score": 100
           },
           {
             "keyword": "attorney general",
@@ -288,9 +288,9 @@
             "score": 50
           },
           {
-            "keyword": "abbott",
-            "priority": "high",
-            "count": 1,
+            "keyword": "court",
+            "priority": "medium",
+            "count": 2,
             "score": 50
           },
           {
@@ -301,12 +301,6 @@
           },
           {
             "keyword": "judge",
-            "priority": "medium",
-            "count": 1,
-            "score": 25
-          },
-          {
-            "keyword": "court",
             "priority": "medium",
             "count": 1,
             "score": 25
@@ -331,20 +325,20 @@
         "source": "Texas Tribune",
         "url": "https://www.texastribune.org/2026/03/04/texas-primaries-2026-takeaways-senate-trump-cornyn-paxton-talarico-congress/",
         "path": "_posts/2026-03-04-five-takeaways-from-the-march.md",
-        "score": 1615,
+        "score": 2000,
         "relevance": "critical",
         "matched_keywords": [
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 23,
+            "score": 2300
+          },
           {
             "keyword": "runoff",
             "priority": "critical",
             "count": 20,
             "score": 2000
-          },
-          {
-            "keyword": "texas",
-            "priority": "critical",
-            "count": 19,
-            "score": 1900
           },
           {
             "keyword": "primary",
@@ -353,7 +347,13 @@
             "score": 1500
           },
           {
-            "keyword": "senate",
+            "keyword": "election",
+            "priority": "critical",
+            "count": 11,
+            "score": 1100
+          },
+          {
+            "keyword": "candidate",
             "priority": "critical",
             "count": 11,
             "score": 1100
@@ -365,28 +365,34 @@
             "score": 1000
           },
           {
-            "keyword": "election",
+            "keyword": "trump",
+            "priority": "high",
+            "count": 19,
+            "score": 950
+          },
+          {
+            "keyword": "senate",
             "priority": "critical",
             "count": 9,
             "score": 900
           },
           {
-            "keyword": "trump",
+            "keyword": "incumbent",
             "priority": "high",
-            "count": 16,
-            "score": 800
+            "count": 12,
+            "score": 600
           },
           {
-            "keyword": "candidate",
+            "keyword": "republican",
             "priority": "critical",
-            "count": 8,
-            "score": 800
+            "count": 6,
+            "score": 600
           },
           {
             "keyword": "ballot",
             "priority": "critical",
-            "count": 6,
-            "score": 600
+            "count": 5,
+            "score": 500
           },
           {
             "keyword": "gop",
@@ -395,10 +401,16 @@
             "score": 500
           },
           {
-            "keyword": "incumbent",
+            "keyword": "abbott",
             "priority": "high",
-            "count": 10,
-            "score": 500
+            "count": 9,
+            "score": 450
+          },
+          {
+            "keyword": "endorsement",
+            "priority": "high",
+            "count": 9,
+            "score": 450
           },
           {
             "keyword": "democrat",
@@ -419,15 +431,9 @@
             "score": 400
           },
           {
-            "keyword": "republican",
+            "keyword": "voting",
             "priority": "critical",
             "count": 4,
-            "score": 400
-          },
-          {
-            "keyword": "endorsement",
-            "priority": "high",
-            "count": 8,
             "score": 400
           },
           {
@@ -443,19 +449,7 @@
             "score": 300
           },
           {
-            "keyword": "voting",
-            "priority": "critical",
-            "count": 3,
-            "score": 300
-          },
-          {
             "keyword": "attorney general",
-            "priority": "high",
-            "count": 5,
-            "score": 250
-          },
-          {
-            "keyword": "abbott",
             "priority": "high",
             "count": 5,
             "score": 250
@@ -517,156 +511,61 @@
         ]
       },
       {
-        "title": "Nate Sheets defeats Sid Miller in Texas ag commissioner race",
-        "date": "2026-03-04",
-        "source": "Texas Tribune",
-        "url": "https://www.texastribune.org/2026/03/04/sid-miller-nate-sheets-texas-agricultural-commissioner-republican-primary-2/",
-        "path": "_posts/2026-03-04-nate-sheets-defeats-sid-miller.md",
-        "score": 1527,
-        "relevance": "critical",
-        "matched_keywords": [
-          {
-            "keyword": "texas",
-            "priority": "critical",
-            "count": 63,
-            "score": 6300
-          },
-          {
-            "keyword": "commissioner",
-            "priority": "high",
-            "count": 27,
-            "score": 1350
-          },
-          {
-            "keyword": "primary",
-            "priority": "critical",
-            "count": 11,
-            "score": 1100
-          },
-          {
-            "keyword": "republican",
-            "priority": "critical",
-            "count": 11,
-            "score": 1100
-          },
-          {
-            "keyword": "election",
-            "priority": "critical",
-            "count": 9,
-            "score": 900
-          },
-          {
-            "keyword": "candidate",
-            "priority": "critical",
-            "count": 8,
-            "score": 800
-          },
-          {
-            "keyword": "abbott",
-            "priority": "high",
-            "count": 14,
-            "score": 700
-          },
-          {
-            "keyword": "democrat",
-            "priority": "critical",
-            "count": 6,
-            "score": 600
-          },
-          {
-            "keyword": "incumbent",
-            "priority": "high",
-            "count": 8,
-            "score": 400
-          },
-          {
-            "keyword": "gop",
-            "priority": "critical",
-            "count": 4,
-            "score": 400
-          },
-          {
-            "keyword": "trump",
-            "priority": "high",
-            "count": 6,
-            "score": 300
-          },
-          {
-            "keyword": "campaign",
-            "priority": "high",
-            "count": 4,
-            "score": 200
-          },
-          {
-            "keyword": "endorsement",
-            "priority": "high",
-            "count": 4,
-            "score": 200
-          },
-          {
-            "keyword": "scandal",
-            "priority": "medium",
-            "count": 6,
-            "score": 150
-          },
-          {
-            "keyword": "law",
-            "priority": "medium",
-            "count": 5,
-            "score": 125
-          }
-        ]
-      },
-      {
         "title": "Why Jasmine Crockett lost the Dem primary to James Talarico",
         "date": "2026-03-06",
         "source": "Texas Tribune",
         "url": "https://www.texastribune.org/2026/03/06/jasmine-crockett-texas-james-talarico-democrat-us-senate-primary/",
         "path": "_posts/2026-03-06-why-jasmine-crockett-lost-the.md",
-        "score": 1504,
+        "score": 1954,
         "relevance": "critical",
         "matched_keywords": [
           {
             "keyword": "campaign",
             "priority": "high",
-            "count": 46,
-            "score": 2300
+            "count": 49,
+            "score": 2450
           },
           {
             "keyword": "democrat",
             "priority": "critical",
-            "count": 20,
-            "score": 2000
-          },
-          {
-            "keyword": "democratic",
-            "priority": "critical",
-            "count": 17,
-            "score": 1700
+            "count": 23,
+            "score": 2300
           },
           {
             "keyword": "texas",
             "priority": "critical",
-            "count": 17,
-            "score": 1700
+            "count": 19,
+            "score": 1900
+          },
+          {
+            "keyword": "democratic",
+            "priority": "critical",
+            "count": 18,
+            "score": 1800
           },
           {
             "keyword": "primary",
             "priority": "critical",
-            "count": 14,
-            "score": 1400
+            "count": 17,
+            "score": 1700
           },
           {
             "keyword": "voter",
             "priority": "critical",
-            "count": 11,
-            "score": 1100
+            "count": 12,
+            "score": 1200
           },
           {
             "keyword": "election",
             "priority": "critical",
-            "count": 9,
-            "score": 900
+            "count": 12,
+            "score": 1200
+          },
+          {
+            "keyword": "senate",
+            "priority": "critical",
+            "count": 6,
+            "score": 600
           },
           {
             "keyword": "congress",
@@ -675,22 +574,171 @@
             "score": 600
           },
           {
-            "keyword": "senate",
+            "keyword": "candidate",
+            "priority": "critical",
+            "count": 6,
+            "score": 600
+          },
+          {
+            "keyword": "voting",
             "priority": "critical",
             "count": 5,
             "score": 500
           },
           {
-            "keyword": "voting",
+            "keyword": "republican",
             "priority": "critical",
             "count": 4,
             "score": 400
           },
           {
-            "keyword": "candidate",
+            "keyword": "ballot",
             "priority": "critical",
             "count": 4,
             "score": 400
+          },
+          {
+            "keyword": "congresswoman",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "congressman",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "runoff",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "trump",
+            "priority": "high",
+            "count": 3,
+            "score": 150
+          },
+          {
+            "keyword": "central texas",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "incumbent",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "attorney general",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "endorsement",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "attorney",
+            "priority": "low",
+            "count": 1,
+            "score": 10
+          }
+        ]
+      },
+      {
+        "title": "Talarico defeats Crockett in Texas Democratic Senate primary",
+        "date": "2026-03-08",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/03/texas-jasmine-crockett-james-talarico-us-senate-democratic-primary/",
+        "path": "_posts/2026-03-08-talarico-defeats-crockett-in-texas-democratic-sena-expanded.md",
+        "score": 1908,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "democrat",
+            "priority": "critical",
+            "count": 24,
+            "score": 2400
+          },
+          {
+            "keyword": "primary",
+            "priority": "critical",
+            "count": 20,
+            "score": 2000
+          },
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 16,
+            "score": 1600
+          },
+          {
+            "keyword": "democratic",
+            "priority": "critical",
+            "count": 13,
+            "score": 1300
+          },
+          {
+            "keyword": "senate",
+            "priority": "critical",
+            "count": 12,
+            "score": 1200
+          },
+          {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 12,
+            "score": 1200
+          },
+          {
+            "keyword": "voter",
+            "priority": "critical",
+            "count": 11,
+            "score": 1100
+          },
+          {
+            "keyword": "republican",
+            "priority": "critical",
+            "count": 9,
+            "score": 900
+          },
+          {
+            "keyword": "gop",
+            "priority": "critical",
+            "count": 7,
+            "score": 700
+          },
+          {
+            "keyword": "campaign",
+            "priority": "high",
+            "count": 13,
+            "score": 650
+          },
+          {
+            "keyword": "congress",
+            "priority": "critical",
+            "count": 6,
+            "score": 600
+          },
+          {
+            "keyword": "candidate",
+            "priority": "critical",
+            "count": 6,
+            "score": 600
+          },
+          {
+            "keyword": "voting",
+            "priority": "critical",
+            "count": 5,
+            "score": 500
           },
           {
             "keyword": "congresswoman",
@@ -705,7 +753,13 @@
             "score": 300
           },
           {
-            "keyword": "republican",
+            "keyword": "trump",
+            "priority": "high",
+            "count": 5,
+            "score": 250
+          },
+          {
+            "keyword": "runoff",
             "priority": "critical",
             "count": 2,
             "score": 200
@@ -713,17 +767,127 @@
           {
             "keyword": "congressman",
             "priority": "critical",
-            "count": 2,
-            "score": 200
+            "count": 1,
+            "score": 100
           },
           {
-            "keyword": "central texas",
+            "keyword": "abbott",
             "priority": "high",
             "count": 2,
             "score": 100
           },
           {
-            "keyword": "runoff",
+            "keyword": "attorney general",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "incumbent",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "court",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          },
+          {
+            "keyword": "scandal",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "judge",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "attorney",
+            "priority": "low",
+            "count": 1,
+            "score": 10
+          }
+        ]
+      }
+    ],
+    "high": [],
+    "medium": [
+      {
+        "title": "Nate Sheets defeats Sid Miller in Texas ag commissioner race",
+        "date": "2026-03-04",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/04/sid-miller-nate-sheets-texas-agricultural-commissioner-republican-primary-2/",
+        "path": "_posts/2026-03-04-nate-sheets-defeats-sid-miller.md",
+        "score": 829,
+        "relevance": "medium",
+        "matched_keywords": [
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 14,
+            "score": 1400
+          },
+          {
+            "keyword": "commissioner",
+            "priority": "high",
+            "count": 8,
+            "score": 400
+          },
+          {
+            "keyword": "primary",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "republican",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "abbott",
+            "priority": "high",
+            "count": 4,
+            "score": 200
+          },
+          {
+            "keyword": "candidate",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "democrat",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "incumbent",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "gop",
             "priority": "critical",
             "count": 1,
             "score": 100
@@ -733,73 +897,202 @@
             "priority": "high",
             "count": 2,
             "score": 100
+          },
+          {
+            "keyword": "campaign",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "law",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          },
+          {
+            "keyword": "scandal",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          },
+          {
+            "keyword": "endorsement",
+            "priority": "high",
+            "count": 1,
+            "score": 50
           }
         ]
-      }
-    ],
-    "high": [
+      },
+      {
+        "title": "Dan Crenshaw blames primary loss on clickbait misinformation",
+        "date": "2026-03-06",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/06/dan-crenshaw-primary-loss-steve-toth-texas-2nd-congressional-district/",
+        "path": "_posts/2026-03-06-dan-crenshaw-blames-primary-lo.md",
+        "score": 856,
+        "relevance": "medium",
+        "matched_keywords": [
+          {
+            "keyword": "congress",
+            "priority": "critical",
+            "count": 8,
+            "score": 800
+          },
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 8,
+            "score": 800
+          },
+          {
+            "keyword": "primary",
+            "priority": "critical",
+            "count": 5,
+            "score": 500
+          },
+          {
+            "keyword": "voter",
+            "priority": "critical",
+            "count": 4,
+            "score": 400
+          },
+          {
+            "keyword": "republican",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "congressman",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "voting",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "legislature",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "senate",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "campaign",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "gop",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "law",
+            "priority": "medium",
+            "count": 3,
+            "score": 75
+          },
+          {
+            "keyword": "attorney general",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "incumbent",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "trump",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "endorsement",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "scandal",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "attorney",
+            "priority": "low",
+            "count": 1,
+            "score": 10
+          }
+        ]
+      },
       {
         "title": "Don Huffines trounces Abbott ally to win Texas comptroller primary",
         "date": "2026-03-06",
         "source": "Texas Tribune",
         "url": "https://www.texastribune.org/2026/03/06/don-huffines-texas-comptroller-school-vouchers-abbott/",
         "path": "_posts/2026-03-06-don-huffines-trounces-abbott-a.md",
-        "score": 1396,
-        "relevance": "high",
+        "score": 1054,
+        "relevance": "medium",
         "matched_keywords": [
           {
             "keyword": "texas",
             "priority": "critical",
-            "count": 54,
-            "score": 5400
-          },
-          {
-            "keyword": "primary",
-            "priority": "critical",
-            "count": 11,
-            "score": 1100
-          },
-          {
-            "keyword": "abbott",
-            "priority": "high",
-            "count": 18,
-            "score": 900
+            "count": 17,
+            "score": 1700
           },
           {
             "keyword": "comptroller",
             "priority": "high",
-            "count": 18,
-            "score": 900
+            "count": 12,
+            "score": 600
           },
           {
-            "keyword": "senate",
-            "priority": "critical",
-            "count": 7,
-            "score": 700
-          },
-          {
-            "keyword": "election",
+            "keyword": "primary",
             "priority": "critical",
             "count": 6,
             "score": 600
           },
           {
-            "keyword": "gop",
+            "keyword": "abbott",
+            "priority": "high",
+            "count": 11,
+            "score": 550
+          },
+          {
+            "keyword": "senate",
             "priority": "critical",
-            "count": 5,
-            "score": 500
+            "count": 4,
+            "score": 400
           },
           {
             "keyword": "republican",
             "priority": "critical",
-            "count": 5,
-            "score": 500
-          },
-          {
-            "keyword": "democrat",
-            "priority": "critical",
-            "count": 5,
-            "score": 500
+            "count": 4,
+            "score": 400
           },
           {
             "keyword": "governor",
@@ -808,10 +1101,28 @@
             "score": 350
           },
           {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "democrat",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
             "keyword": "campaign",
             "priority": "high",
             "count": 5,
             "score": 250
+          },
+          {
+            "keyword": "gop",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
           },
           {
             "keyword": "candidate",
@@ -820,25 +1131,19 @@
             "score": 200
           },
           {
-            "keyword": "legislature",
-            "priority": "critical",
-            "count": 2,
-            "score": 200
-          },
-          {
-            "keyword": "democratic",
-            "priority": "critical",
-            "count": 2,
-            "score": 200
-          },
-          {
             "keyword": "law",
             "priority": "medium",
-            "count": 6,
-            "score": 150
+            "count": 5,
+            "score": 125
           },
           {
             "keyword": "senator",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "legislature",
             "priority": "critical",
             "count": 1,
             "score": 100
@@ -874,38 +1179,42 @@
             "score": 10
           }
         ]
-      }
-    ],
-    "medium": [
+      },
       {
-        "title": "Dan Crenshaw blames primary loss on clickbait misinformation",
+        "title": "Texas county GOP missed deadline to report primary results",
         "date": "2026-03-06",
         "source": "Texas Tribune",
-        "url": "https://www.texastribune.org/2026/03/06/dan-crenshaw-primary-loss-steve-toth-texas-2nd-congressional-district/",
-        "path": "_posts/2026-03-06-dan-crenshaw-blames-primary-lo.md",
-        "score": 1170,
+        "url": "https://www.texastribune.org/2026/03/06/texas-counties-hand-count-ballots-deadline/",
+        "path": "_posts/2026-03-06-texas-county-gop-missed-deadli.md",
+        "score": 1165,
         "relevance": "medium",
         "matched_keywords": [
           {
             "keyword": "texas",
             "priority": "critical",
-            "count": 25,
-            "score": 2500
+            "count": 22,
+            "score": 2200
           },
           {
-            "keyword": "congress",
-            "priority": "critical",
-            "count": 20,
-            "score": 2000
-          },
-          {
-            "keyword": "primary",
+            "keyword": "election",
             "priority": "critical",
             "count": 15,
             "score": 1500
           },
           {
-            "keyword": "voter",
+            "keyword": "ballot",
+            "priority": "critical",
+            "count": 10,
+            "score": 1000
+          },
+          {
+            "keyword": "primary",
+            "priority": "critical",
+            "count": 8,
+            "score": 800
+          },
+          {
+            "keyword": "gop",
             "priority": "critical",
             "count": 7,
             "score": 700
@@ -917,73 +1226,72 @@
             "score": 600
           },
           {
-            "keyword": "election",
-            "priority": "critical",
-            "count": 4,
-            "score": 400
-          },
-          {
-            "keyword": "congressman",
-            "priority": "critical",
-            "count": 3,
-            "score": 300
-          },
-          {
-            "keyword": "law",
-            "priority": "medium",
-            "count": 10,
-            "score": 250
-          },
-          {
-            "keyword": "legislature",
-            "priority": "critical",
-            "count": 2,
-            "score": 200
-          },
-          {
-            "keyword": "senate",
-            "priority": "critical",
-            "count": 2,
-            "score": 200
-          },
-          {
-            "keyword": "campaign",
-            "priority": "high",
-            "count": 4,
-            "score": 200
-          },
-          {
             "keyword": "voting",
             "priority": "critical",
-            "count": 2,
-            "score": 200
+            "count": 6,
+            "score": 600
           },
           {
-            "keyword": "attorney general",
-            "priority": "high",
-            "count": 2,
-            "score": 100
-          },
-          {
-            "keyword": "incumbent",
-            "priority": "high",
-            "count": 2,
-            "score": 100
-          },
-          {
-            "keyword": "trump",
-            "priority": "high",
-            "count": 2,
-            "score": 100
-          },
-          {
-            "keyword": "gop",
+            "keyword": "democrat",
             "priority": "critical",
             "count": 1,
             "score": 100
           },
           {
-            "keyword": "endorsement",
+            "keyword": "law",
+            "priority": "medium",
+            "count": 3,
+            "score": 75
+          },
+          {
+            "keyword": "court",
+            "priority": "medium",
+            "count": 3,
+            "score": 75
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Corpus Christi careens toward water catastrophe",
+        "date": "2026-03-08",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/08/texas-corpus-christi-water-crisis/",
+        "path": "_posts/2026-03-08-corpus-christi-careens-toward.md",
+        "score": 868,
+        "relevance": "medium",
+        "matched_keywords": [
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 38,
+            "score": 3800
+          },
+          {
+            "keyword": "abbott",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "legislature",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "law",
+            "priority": "medium",
+            "count": 4,
+            "score": 100
+          },
+          {
+            "keyword": "governor",
             "priority": "high",
             "count": 1,
             "score": 50
@@ -991,14 +1299,20 @@
           {
             "keyword": "scandal",
             "priority": "medium",
+            "count": 2,
+            "score": 50
+          },
+          {
+            "keyword": "investigation",
+            "priority": "medium",
             "count": 1,
             "score": 25
           },
           {
-            "keyword": "attorney",
-            "priority": "low",
-            "count": 2,
-            "score": 20
+            "keyword": "judge",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
           }
         ]
       }
@@ -1010,7 +1324,7 @@
         "source": "KBTX",
         "url": "https://www.kbtx.com/news/tdcj-investigation",
         "path": "_posts/2023-05-12-tdcj-investigation.md",
-        "score": 521,
+        "score": 526,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1033,7 +1347,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196",
         "path": "_posts/2026-02-04-how-to-score-free-girl-scout-c.md",
-        "score": 539,
+        "score": 548,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1074,7 +1388,7 @@
         "source": "Killeen Daily Herald",
         "url": "https://www.killeendailyherald.com/",
         "path": "_posts/2026-02-11-bell-county-legal-resource-center.md",
-        "score": 542,
+        "score": 552,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1115,7 +1429,7 @@
         "source": "KWTX",
         "url": "https://www.kwtx.com/news/good-news-friday",
         "path": "_posts/2026-02-13-good-news-friday.md",
-        "score": 544,
+        "score": 554,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1162,7 +1476,7 @@
         "source": "KBTX",
         "url": "https://www.kbtx.com/news/bv-groundwater",
         "path": "_posts/2026-02-19-brazos-valley-groundwater-cons.md",
-        "score": 515,
+        "score": 519,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1195,7 +1509,7 @@
         "source": "KBTX",
         "url": "https://www.kbtx.com/news/from-the-ground-up",
         "path": "_posts/2026-02-19-from-the-ground-up.md",
-        "score": 507,
+        "score": 508,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1222,7 +1536,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/politics/tony-gonzales-affair-allegations-staffer-set-herself-on-fire-uvalde-texas/273-0b21fb3c-3a7b-4433-a1bb-72fbba3c2b8b",
         "path": "_posts/2026-02-19-husband-of-us-rep-tony-gonzal.md",
-        "score": 534,
+        "score": 542,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1275,7 +1589,7 @@
         "source": "KWTX",
         "url": "https://www.kwtx.com/news/making-the-grade",
         "path": "_posts/2026-02-19-kwtx-making-the-grade.md",
-        "score": 538,
+        "score": 547,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1298,7 +1612,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/news-links-on-kvue/269-44048917",
         "path": "_posts/2026-02-19-links-mentioned-on-kvue-news.md",
-        "score": 510,
+        "score": 513,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1321,7 +1635,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/news/#",
         "path": "_posts/2026-02-19-news-headlines-kvue-com.md",
-        "score": 507,
+        "score": 508,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1338,7 +1652,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/how-to-watch-uvalde-school-officer-trial-stream-school-shooting-full-coverage-adrian-gonzales-robb-elementary/269-96f76586-f373-460a-9195-4429551aa5fe",
         "path": "_posts/2026-02-19-officer-on-trial-uvalde-schoo.md",
-        "score": 521,
+        "score": 526,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1373,7 +1687,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/crime/yogurt-shop-murders-suspects-innocent-exoneration-hearing/269-8a1f4ceb-1dfb-4dd6-b7e2-197bc42776ff",
         "path": "_posts/2026-02-19-original-4-yogurt-shop-murders.md",
-        "score": 519,
+        "score": 523,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1408,7 +1722,7 @@
         "source": "KWTX",
         "url": "https://www.kwtx.com/news/restaurant-report-card",
         "path": "_posts/2026-02-19-restaurant-report-card.md",
-        "score": 535,
+        "score": 543,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1437,7 +1751,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/local/texas/texas-ice-detentions-six-deaths-six-weeks/269-c0a4664b-dbcb-45c3-99f5-ed51489e7f41",
         "path": "_posts/2026-02-19-six-deaths-in-six-weeks-what.md",
-        "score": 542,
+        "score": 552,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1472,7 +1786,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/local/hearts-and-heroes-flooding-in-the-texas-hill-country-kvue-plus-premiere-how-to/269-c78d319d-a3d1-4aae-b87b-2c939c133629",
         "path": "_posts/2026-02-19-stream-hearts-and-heroes-floo.md",
-        "score": 531,
+        "score": 539,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1495,7 +1809,7 @@
         "source": "KWTX",
         "url": "https://www.kwtx.com/news/tell-me-something-good",
         "path": "_posts/2026-02-19-tell-me-something-good.md",
-        "score": 501,
+        "score": 502,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1512,7 +1826,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/politics/texas-legislature/democrat-taylor-rehmet-sworn-in-texas-state-senator/269-ff3f7e37-3a17-42ef-8c3c-6a087aa0dfe0",
         "path": "_posts/2026-02-19-texas-democrat-taylor-rehmet-s.md",
-        "score": 710,
+        "score": 760,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1595,7 +1909,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/community/former-austin-tv-news-anchors-atx-good-news-positive-stories/269-59152c19-4e5a-43dd-844a-6d303d584d8a",
         "path": "_posts/2026-02-19-they-once-competed-for-viewers.md",
-        "score": 521,
+        "score": 526,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1618,7 +1932,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/local/txdot-seeking-community-input-new-project-8-mile-stretch-highway-77-lee-county-texas/269-ca117308-80a5-4bd0-9f98-50f5455cc591",
         "path": "_posts/2026-02-19-txdot-seeking-community-input.md",
-        "score": 514,
+        "score": 517,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1635,7 +1949,7 @@
         "source": "KVUE",
         "url": "https://www.kvue.com/article/news/education/university-of-texas/ut-system-policy-guidelines-limiting-controversial-topics/269-1d4112ae-978f-49e8-a88e-021c7f403391",
         "path": "_posts/2026-02-19-ut-system-adopts-new-policy-li.md",
-        "score": 514,
+        "score": 517,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1662,7 +1976,7 @@
         "source": "KWTX",
         "url": "https://www.kwtx.com/video-gallery/news/xtra/xtra-xtra",
         "path": "_posts/2026-02-19-xtra-xtra-interviews.md",
-        "score": 542,
+        "score": 552,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1692,78 +2006,43 @@
         ]
       },
       {
-        "title": "Texas county GOP missed deadline to report primary results",
-        "date": "2026-03-06",
-        "source": "Texas Tribune",
-        "url": "https://www.texastribune.org/2026/03/06/texas-counties-hand-count-ballots-deadline/",
-        "path": "_posts/2026-03-06-texas-county-gop-missed-deadli.md",
-        "score": 570,
-        "relevance": "low",
-        "matched_keywords": [
-          {
-            "keyword": "texas",
-            "priority": "critical",
-            "count": 5,
-            "score": 500
-          },
-          {
-            "keyword": "gop",
-            "priority": "critical",
-            "count": 2,
-            "score": 200
-          },
-          {
-            "keyword": "primary",
-            "priority": "critical",
-            "count": 2,
-            "score": 200
-          },
-          {
-            "keyword": "ballot",
-            "priority": "critical",
-            "count": 1,
-            "score": 100
-          }
-        ]
-      },
-      {
         "title": "Videos shows run-up to immigration officer\u2019s fatal shooting of Texas man",
         "date": "2026-03-06",
         "source": "Texas Tribune",
         "url": "https://www.texastribune.org/2026/03/06/south-padre-immigration-officer-shooting/",
         "path": "_posts/2026-03-06-videos-shows-run-up-to-immigra.md",
-        "score": 699,
+        "score": 768,
         "relevance": "low",
         "matched_keywords": [
           {
             "keyword": "texas",
             "priority": "critical",
-            "count": 20,
-            "score": 2000
+            "count": 19,
+            "score": 1900
           },
           {
             "keyword": "law",
             "priority": "medium",
-            "count": 11,
-            "score": 275
+            "count": 14,
+            "score": 350
           },
           {
             "keyword": "trump",
             "priority": "high",
-            "count": 3,
-            "score": 150
+            "count": 4,
+            "score": 200
           },
           {
             "keyword": "democrat",
             "priority": "critical",
-            "count": 1,
-            "score": 100
+            "count": 2,
+            "score": 200
           },
           {
             "keyword": "democratic",
             "priority": "critical",
-            "count": 1,
-            "score": 100
+            "count": 2,
+            "score": 200
           },
           {
             "keyword": "primary",
@@ -1774,14 +2053,14 @@
           {
             "keyword": "lawyer",
             "priority": "low",
-            "count": 7,
-            "score": 70
+            "count": 8,
+            "score": 80
           },
           {
             "keyword": "investigation",
             "priority": "medium",
-            "count": 1,
-            "score": 25
+            "count": 2,
+            "score": 50
           },
           {
             "keyword": "attorney",
@@ -1792,93 +2071,63 @@
         ]
       },
       {
-        "title": "Corpus Christi careens toward water catastrophe",
-        "date": "2026-03-08",
+        "title": "Texas hemp businesses fear an uptick in police raids",
+        "date": "2026-03-09",
         "source": "Texas Tribune",
-        "url": "https://www.texastribune.org/2026/03/08/texas-corpus-christi-water-crisis/",
-        "path": "_posts/2026-03-08-corpus-christi-careens-toward.md",
-        "score": 661,
+        "url": "https://www.texastribune.org/2026/03/09/texas-cannabis-hemp-thc-police-raids/",
+        "path": "_posts/2026-03-09-texas-hemp-businesses-fear-an.md",
+        "score": 560,
         "relevance": "low",
         "matched_keywords": [
           {
             "keyword": "texas",
-            "priority": "critical",
-            "count": 20,
-            "score": 2000
-          },
-          {
-            "keyword": "abbott",
-            "priority": "high",
-            "count": 3,
-            "score": 150
-          },
-          {
-            "keyword": "legislature",
-            "priority": "critical",
-            "count": 1,
-            "score": 100
-          },
-          {
-            "keyword": "governor",
-            "priority": "high",
-            "count": 1,
-            "score": 50
-          }
-        ]
-      },
-      {
-        "title": "Talarico defeats Crockett in Texas Democratic Senate primary",
-        "date": "2026-03-08",
-        "source": "Texas Tribune",
-        "url": "https://www.texastribune.org/2026/03/03/texas-jasmine-crockett-james-talarico-us-senate-democratic-primary/",
-        "path": "_posts/2026-03-08-talarico-defeats-crockett-in-texas-democratic-sena-expanded.md",
-        "score": 717,
-        "relevance": "low",
-        "matched_keywords": [
-          {
-            "keyword": "texas",
-            "priority": "critical",
-            "count": 10,
-            "score": 1000
-          },
-          {
-            "keyword": "primary",
             "priority": "critical",
             "count": 5,
             "score": 500
           },
           {
-            "keyword": "democrat",
+            "keyword": "primary",
             "priority": "critical",
-            "count": 4,
-            "score": 400
+            "count": 1,
+            "score": 100
           },
           {
-            "keyword": "senate",
+            "keyword": "election",
             "priority": "critical",
-            "count": 4,
-            "score": 400
-          },
+            "count": 1,
+            "score": 100
+          }
+        ]
+      },
+      {
+        "title": "With no ties to Congress, Texan wonders who will help fianc\u00e9e in ICE custody",
+        "date": "2026-03-14",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/14/monica-de-la-cruz-gamez-culler-immigration-solutions/",
+        "path": "_posts/2026-03-14-with-no-ties-to-congress-texa.md",
+        "score": 560,
+        "relevance": "low",
+        "matched_keywords": [
           {
-            "keyword": "democratic",
+            "keyword": "texas",
             "priority": "critical",
             "count": 3,
             "score": 300
           },
           {
-            "keyword": "ballot",
+            "keyword": "congress",
             "priority": "critical",
             "count": 2,
             "score": 200
+          },
+          {
+            "keyword": "primary",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
           },
           {
             "keyword": "election",
-            "priority": "critical",
-            "count": 2,
-            "score": 200
-          },
-          {
-            "keyword": "candidate",
             "priority": "critical",
             "count": 1,
             "score": 100

@@ -1,16 +1,13 @@
 ---
 category: news
-date: 2026-02-19
+date: 2026-02-18
 excerpt: KVUE News has released a compilation of links from its recent newscast, providing
-  essential resources and information for the Austin community as of February 18,
-  2026. The updates cover a range of topics, including local events, public services,
-  and community engagement opportunities.
 layout: default
 news_excerpt: true
 source_name: KVUE
 source_url: https://www.kvue.com/article/news/news-links-on-kvue/269-44048917
 title: Links mentioned on KVUE News | kvue.com
-verified_at: 2026-02-19
+verified_at: 2026-02-18
 ---
 
 KVUE News has released a compilation of links from its recent newscast, providing essential resources and information for the Austin community as of February 18, 2026. The updates cover a range of topics, including local events, public services, and community engagement opportunities.
@@ -23,7 +20,7 @@ Other significant mentions include the deadline for submitting claim forms relat
 
 - **Source**: KVUE
 - **Original URL**: https://www.kvue.com/article/news/news-links-on-kvue/269-44048917
-- **Published**: 2026-02-19
-- **Verified**: 2026-02-19
+- **Published**: 2026-02-18
+- **Verified**: 2026-02-18
 
 ---

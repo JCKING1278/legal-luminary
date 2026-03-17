@@ -1,16 +1,13 @@
 ---
 category: news
-date: 2026-02-04
+date: 2026-02-19
 excerpt: Throughout February 2026, We Are Blood, a nonprofit organization in Central
-  Texas, is incentivizing blood donations by offering a free box of Girl Scout cookies
-  to each donor, while supplies last. This initiative aims to address a critical shortage
-  of blood donations that has arisen following a significant decline...
 layout: default
 news_excerpt: true
 source_name: KVUE
 source_url: https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196
 title: How to score free Girl Scout cookies by donating blood in February | kvue.com
-verified_at: 2026-02-04
+verified_at: 2026-02-19
 ---
 
 Throughout February 2026, We Are Blood, a nonprofit organization in Central Texas, is incentivizing blood donations by offering a free box of Girl Scout cookies to each donor, while supplies last. This initiative aims to address a critical shortage of blood donations that has arisen following a significant decline in contributions due to a winter storm in January, which has left the local blood bank in urgent need of support.
@@ -23,7 +20,7 @@ We Are Blood has emphasized the heightened need for O blood type, which is unive
 
 - **Source**: KVUE
 - **Original URL**: https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196
-- **Published**: 2026-02-04
-- **Verified**: 2026-02-04
+- **Published**: 2026-02-19
+- **Verified**: 2026-02-19
 
 ---
