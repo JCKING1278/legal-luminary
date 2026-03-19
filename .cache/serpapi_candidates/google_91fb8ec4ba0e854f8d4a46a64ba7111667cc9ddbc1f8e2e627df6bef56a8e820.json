@@ -1,0 +1,377 @@
+{
+  "search_metadata": {
+    "id": "69bb5ceb1290d993a109184d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/P2ocDCaoo1aGaCtkg3j2Aw/69bb5ceb1290d993a109184d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/P2ocDCaoo1aGaCtkg3j2Aw/69bb5ceb1290d993a109184d.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:19 UTC",
+    "processed_at": "2026-03-19 02:18:19 UTC",
+    "google_url": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/P2ocDCaoo1aGaCtkg3j2Aw/69bb5ceb1290d993a109184d.html",
+    "total_time_taken": 1.76
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Killeen Council D2 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Killeen Council D2 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 1580,
+    "time_taken_displayed": 0.51,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Lawsuit filed against former candidate for defamation and ...",
+      "link": "https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQFnoECCQQAQ",
+      "displayed_link": "80+ comments · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KA4Dlz2h9M0ic-LnE60JOvE.png",
+      "snippet": "Deb For Long Beach I want to publicly thank you for taking the time to chat with me in person about the law suit. The FPPC process is in ...",
+      "about_this_result": {
+        "source": {
+          "description": "Deb For Long Beach I want to publicly thank you for taking the time to chat with me in person about the law suit. The FPPC process is in ...",
+          "source_info_link": "https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/",
+          "icon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KBLA8-doHiYoU9IYnrW0uLuzPTi2WjGj3ncZ1rEkbq96.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2FLBpolitics%2Fposts%2F26068769562761880%2F",
+      "source": "Facebook · Long Beach Politics"
+    },
+    {
+      "position": 2,
+      "title": "Ballotpedia's Candidate Connection",
+      "link": "https://ballotpedia.org/Candidates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Candidates&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQFnoECBwQAQ",
+      "displayed_link": "https://ballotpedia.org › Candidates",
+      "favicon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KDiYRPMYc7GzA0MzUHQq4fc.png",
+      "snippet": "We ask all federal, state, and local candidates to complete the Candidate Connection questionnaire and share what motivates them on political and personal ...",
+      "snippet_highlighted_words": [
+        "candidates",
+        "Candidate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We ask all federal, state, and local candidates to complete the Candidate Connection questionnaire and share what motivates them on political and personal ...",
+          "source_info_link": "https://ballotpedia.org/Candidates",
+          "icon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KBOxGV-ZTGxFoFqoZLxfPxjgkGKSd_QpwXWFEGNF_kdb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Candidates&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FCandidates",
+      "missing": [
+        "summary."
+      ],
+      "must_include": {
+        "word": "summary.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+%22summary.%22&sa=X&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ5t4CegQIHhAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 3,
+      "title": "A lawsuit against District 2 Councilwoman Samantha ...",
+      "link": "https://www.facebook.com/WKRG.News.5/posts/a-lawsuit-against-district-2-councilwoman-samantha-ingram-has-been-dismissed-htt/1292339336266157/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/WKRG.News.5/posts/a-lawsuit-against-district-2-councilwoman-samantha-ingram-has-been-dismissed-htt/1292339336266157/&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQFnoECB8QAQ",
+      "displayed_link": "200+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KB_9Q6mFJDuG2QQ-qg29JKQ.png",
+      "snippet": "The Legislature acknowledges that certain municipalities may have additional qualifications for candidates. The Circuit Court judge failed to ...",
+      "snippet_highlighted_words": [
+        "candidates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Legislature acknowledges that certain municipalities may have additional qualifications for candidates. The Circuit Court judge failed to ...",
+          "source_info_link": "https://www.facebook.com/WKRG.News.5/posts/a-lawsuit-against-district-2-councilwoman-samantha-ingram-has-been-dismissed-htt/1292339336266157/",
+          "icon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KKCkSCVtbTO_e68kDB79j_n8UK6cboOkq5eLPpa5iVoN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/WKRG.News.5/posts/a-lawsuit-against-district-2-councilwoman-samantha-ingram-has-been-dismissed-htt/1292339336266157/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FWKRG.News.5%2Fposts%2Fa-lawsuit-against-district-2-councilwoman-samantha-ingram-has-been-dismissed-htt%2F1292339336266157%2F",
+      "source": "Facebook · WKRG"
+    },
+    {
+      "position": 4,
+      "title": "Towards-European-standards-for-monitoring-and- ...",
+      "link": "https://cica.org.au/wp-content/uploads/Towards-European-standards-for-monitoring-and-evaluation-of-lifelong-guidance-systems-and-services-Vol.-I.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cica.org.au/wp-content/uploads/Towards-European-standards-for-monitoring-and-evaluation-of-lifelong-guidance-systems-and-services-Vol.-I.pdf&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQFnoECC8QAQ",
+      "displayed_link": "https://cica.org.au › wp-content › uploads › Tow...",
+      "favicon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KJ2Qp4-D4rPBx6F3X9iL1A8.png",
+      "snippet": "We provide information, research, analyses and evidence on vocational education and training, skills and qualifications for policy- making in the EU Member ...",
+      "snippet_highlighted_words": [
+        "provide"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We provide information, research, analyses and evidence on vocational education and training, skills and qualifications for policy- making in the EU Member ...",
+          "source_info_link": "https://cica.org.au/wp-content/uploads/Towards-European-standards-for-monitoring-and-evaluation-of-lifelong-guidance-systems-and-services-Vol.-I.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KMR6ZAcOZuPGruSeNdNhFkmy3ar1s_JfS2Vdnb8tUa2F.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cica.org.au/wp-content/uploads/Towards-European-standards-for-monitoring-and-evaluation-of-lifelong-guidance-systems-and-services-Vol.-I.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcica.org.au%2Fwp-content%2Fuploads%2FTowards-European-standards-for-monitoring-and-evaluation-of-lifelong-guidance-systems-and-services-Vol.-I.pdf",
+      "source": "Career Industry Council of Australia (CICA)"
+    },
+    {
+      "position": 5,
+      "title": "FR-1975-07-15.pdf",
+      "link": "https://www.govinfo.gov/content/pkg/FR-1975-07-15/pdf/FR-1975-07-15.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/FR-1975-07-15/pdf/FR-1975-07-15.pdf&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQFnoECDYQAQ",
+      "displayed_link": "https://www.govinfo.gov › content › pkg › pdf",
+      "favicon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KIBZsecrhSL_YCaqF5aQT54.png",
+      "date": "Jul 15, 1975",
+      "snippet": "This listing does not affect the legal status of any document published in this issue. Detailed table of contents appears inside. FOOD STAMPS— ...",
+      "snippet_highlighted_words": [
+        "issue"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 104
+          },
+          "extensions": [
+            "104 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This listing does not affect the legal status of any document published in this issue. Detailed table of contents appears inside. FOOD STAMPS— ...",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/FR-1975-07-15/pdf/FR-1975-07-15.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KCXQoZ8earqNUL_CHJn4g7KzKO9_02XPKCSRFT_sGkQU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/FR-1975-07-15/pdf/FR-1975-07-15.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FFR-1975-07-15%2Fpdf%2FFR-1975-07-15.pdf",
+      "source": "GovInfo (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Drought risk management: a strategic approach",
+      "link": "https://unesdoc.unesco.org/ark:/48223/pf0000245633",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://unesdoc.unesco.org/ark:/48223/pf0000245633&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQFnoECDIQAQ",
+      "displayed_link": "https://unesdoc.unesco.org › ark:",
+      "snippet": "Drought risk management Drought risk m anagem ent A strategic approach 9 789231 000942 Printed on recycled paper GIWP (General Institute of Water Resources ...",
+      "about_this_result": {
+        "source": {
+          "description": "Drought risk management Drought risk m anagem ent A strategic approach 9 789231 000942 Printed on recycled paper GIWP (General Institute of Water Resources ...",
+          "source_info_link": "https://unesdoc.unesco.org/ark:/48223/pf0000245633"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://unesdoc.unesco.org/ark:/48223/pf0000245633&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Funesdoc.unesco.org%2Fark%3A%2F48223%2Fpf0000245633",
+      "source": "UNESCO"
+    },
+    {
+      "position": 7,
+      "title": "Congressional Record",
+      "link": "https://www.congress.gov/113/crec/2014/04/08/CREC-2014-04-08.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/113/crec/2014/04/08/CREC-2014-04-08.pdf&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQFnoECC4QAQ",
+      "displayed_link": "https://www.congress.gov › CREC-2014-04-08",
+      "favicon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KF-_kuOf7lvVOq4F_I2jO7Y.png",
+      "date": "Apr 8, 2014",
+      "snippet": "... ALLOW A VOTE ON IMMIGRATION. REFORM. The SPEAKER pro tempore. The ... It may not be all the time, but over the last year we have been able to make ...",
+      "snippet_highlighted_words": [
+        "ALLOW",
+        "VOTE"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 177
+          },
+          "extensions": [
+            "177 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... ALLOW A VOTE ON IMMIGRATION. REFORM. The SPEAKER pro tempore. The ... It may not be all the time, but over the last year we have been able to make ...",
+          "source_info_link": "https://www.congress.gov/113/crec/2014/04/08/CREC-2014-04-08.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KO0AEYPzfqBHslgp0cmVaBjVtEC4oB6rahudIgZPHQHV.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/113/crec/2014/04/08/CREC-2014-04-08.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2F113%2Fcrec%2F2014%2F04%2F08%2FCREC-2014-04-08.pdf",
+      "source": "Congress.gov"
+    },
+    {
+      "position": 8,
+      "title": "THE ECONOMICS OF ECOSYSTEMS AND BIODIVERSITY",
+      "link": "https://www.vliz.be/imisdocs/publications/396127.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vliz.be/imisdocs/publications/396127.pdf&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQFnoECDMQAQ",
+      "displayed_link": "https://www.vliz.be › imisdocs › publications",
+      "favicon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KGjSo6OQO9cgo3i5eEN7uBk.png",
+      "author": "by M Kettunen",
+      "snippet": "Chapter 1 provides an overview of key issues and priorities related to the global biodiversity crisis. 1.1 in- troduces policy-makers to basic terms ...",
+      "snippet_highlighted_words": [
+        "provides",
+        "overview",
+        "key issues"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 429
+          },
+          "extensions": [
+            "429 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Chapter 1 provides an overview of key issues and priorities related to the global biodiversity crisis. 1.1 in- troduces policy-makers to basic terms ...",
+          "source_info_link": "https://www.vliz.be/imisdocs/publications/396127.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KJFGEJoUpLVkHFfjUCNwOJiyB_chMeCK3_EC7bAXu91z.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.vliz.be/imisdocs/publications/396127.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.vliz.be%2Fimisdocs%2Fpublications%2F396127.pdf",
+      "source": "Vlaams Instituut voor de Zee"
+    },
+    {
+      "position": 9,
+      "title": "Stanford Football",
+      "link": "https://stanford_ftp.sidearmsports.com/old_site/pdf/m-footbl/2005_Football_Media_Guide.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stanford_ftp.sidearmsports.com/old_site/pdf/m-footbl/2005_Football_Media_Guide.pdf&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQFnoECDAQAQ",
+      "displayed_link": "https://stanford_ftp.sidearmsports.com › m-footbl",
+      "snippet": "In the AARC, finding the bal- ance between academics and athletics is key. Counselors and tutors work with student-athletes to make their academic lives as ...",
+      "snippet_highlighted_words": [
+        "key"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In the AARC, finding the bal- ance between academics and athletics is key. Counselors and tutors work with student-athletes to make their academic lives as ...",
+          "source_info_link": "https://stanford_ftp.sidearmsports.com/old_site/pdf/m-footbl/2005_Football_Media_Guide.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://stanford_ftp.sidearmsports.com/old_site/pdf/m-footbl/2005_Football_Media_Guide.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fstanford_ftp.sidearmsports.com%2Fold_site%2Fpdf%2Fm-footbl%2F2005_Football_Media_Guide.pdf",
+      "source": "SIDEARM Sports"
+    },
+    {
+      "position": 10,
+      "title": "Federal Register / Vol. 50, No. 207 /, Friday, October 25, ...",
+      "link": "https://www.fws.gov/sites/default/files/federal_register_document/FR-1985-10-25.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fws.gov/sites/default/files/federal_register_document/FR-1985-10-25.pdf&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQFnoECDQQAQ",
+      "displayed_link": "https://www.fws.gov › federal_register_document",
+      "favicon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KBvamz7gCGUaf-S06MUhYO0.jpeg",
+      "date": "Oct 25, 1985",
+      "snippet": "For information on briefings in Atlanta, GA, see announcement on the inside cover of this issue. Selected Subjects. Acreage Allotments.",
+      "snippet_highlighted_words": [
+        "issue"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For information on briefings in Atlanta, GA, see announcement on the inside cover of this issue. Selected Subjects. Acreage Allotments.",
+          "source_info_link": "https://www.fws.gov/sites/default/files/federal_register_document/FR-1985-10-25.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ceb1290d993a109184d/images/_56WSw5cnPajqKv4ETA7KBN_8GB8hfWqVBt_DFGs_mlCoMxQEm22CT3oCWKZlqmB.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fws.gov/sites/default/files/federal_register_document/FR-1985-10-25.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fws.gov%2Fsites%2Fdefault%2Ffiles%2Ffederal_register_document%2FFR-1985-10-25.pdf",
+      "source": "U.S. Fish and Wildlife Service (.gov)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=7Fy7abO_K7T_ptQPkbai2A4&start=10&sa=N&sstk=Af77f_d-rIcQvU-ReOsa9v53vXqyCgG3j9GC3coxI2AzsbZ1yHrPNxTNdSuPuUmkMhfFyn9JpRnsAwheqYsLEsM74dGCM6O6DV39pw&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ8NMDegQIEhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=7Fy7abO_K7T_ptQPkbai2A4&start=10&sa=N&sstk=Af77f_d-rIcQvU-ReOsa9v53vXqyCgG3j9GC3coxI2AzsbZ1yHrPNxTNdSuPuUmkMhfFyn9JpRnsAwheqYsLEsM74dGCM6O6DV39pw&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ8tMDegQIEhAE",
+      "3": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=7Fy7abO_K7T_ptQPkbai2A4&start=20&sa=N&sstk=Af77f_d-rIcQvU-ReOsa9v53vXqyCgG3j9GC3coxI2AzsbZ1yHrPNxTNdSuPuUmkMhfFyn9JpRnsAwheqYsLEsM74dGCM6O6DV39pw&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ8tMDegQIEhAG",
+      "4": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=7Fy7abO_K7T_ptQPkbai2A4&start=30&sa=N&sstk=Af77f_d-rIcQvU-ReOsa9v53vXqyCgG3j9GC3coxI2AzsbZ1yHrPNxTNdSuPuUmkMhfFyn9JpRnsAwheqYsLEsM74dGCM6O6DV39pw&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ8tMDegQIEhAI",
+      "5": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=7Fy7abO_K7T_ptQPkbai2A4&start=40&sa=N&sstk=Af77f_d-rIcQvU-ReOsa9v53vXqyCgG3j9GC3coxI2AzsbZ1yHrPNxTNdSuPuUmkMhfFyn9JpRnsAwheqYsLEsM74dGCM6O6DV39pw&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ8tMDegQIEhAK",
+      "6": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=7Fy7abO_K7T_ptQPkbai2A4&start=50&sa=N&sstk=Af77f_d-rIcQvU-ReOsa9v53vXqyCgG3j9GC3coxI2AzsbZ1yHrPNxTNdSuPuUmkMhfFyn9JpRnsAwheqYsLEsM74dGCM6O6DV39pw&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ8tMDegQIEhAM",
+      "7": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=7Fy7abO_K7T_ptQPkbai2A4&start=60&sa=N&sstk=Af77f_d-rIcQvU-ReOsa9v53vXqyCgG3j9GC3coxI2AzsbZ1yHrPNxTNdSuPuUmkMhfFyn9JpRnsAwheqYsLEsM74dGCM6O6DV39pw&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ8tMDegQIEhAO",
+      "8": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=7Fy7abO_K7T_ptQPkbai2A4&start=70&sa=N&sstk=Af77f_d-rIcQvU-ReOsa9v53vXqyCgG3j9GC3coxI2AzsbZ1yHrPNxTNdSuPuUmkMhfFyn9JpRnsAwheqYsLEsM74dGCM6O6DV39pw&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ8tMDegQIEhAQ",
+      "9": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=7Fy7abO_K7T_ptQPkbai2A4&start=80&sa=N&sstk=Af77f_d-rIcQvU-ReOsa9v53vXqyCgG3j9GC3coxI2AzsbZ1yHrPNxTNdSuPuUmkMhfFyn9JpRnsAwheqYsLEsM74dGCM6O6DV39pw&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ8tMDegQIEhAS",
+      "10": "https://www.google.com/search?q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=7Fy7abO_K7T_ptQPkbai2A4&start=90&sa=N&sstk=Af77f_d-rIcQvU-ReOsa9v53vXqyCgG3j9GC3coxI2AzsbZ1yHrPNxTNdSuPuUmkMhfFyn9JpRnsAwheqYsLEsM74dGCM6O6DV39pw&ved=2ahUKEwiz5av18qqTAxW0v4kEHRGbCOsQ8tMDegQIEhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

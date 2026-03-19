@@ -1,0 +1,402 @@
+{
+  "search_metadata": {
+    "id": "69bb5e20d1a72bec4dff7e88",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ZovS1YF1Ax81DjfiQZZFeg/69bb5e20d1a72bec4dff7e88.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ZovS1YF1Ax81DjfiQZZFeg/69bb5e20d1a72bec4dff7e88.json_with_pixel_position",
+    "created_at": "2026-03-19 02:23:28 UTC",
+    "processed_at": "2026-03-19 02:23:28 UTC",
+    "google_url": "https://www.google.com/search?q=Elvis+Arturo+Lossa+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Elvis+Arturo+Lossa+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ZovS1YF1Ax81DjfiQZZFeg/69bb5e20d1a72bec4dff7e88.html",
+    "total_time_taken": 1.22
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Elvis Arturo Lossa \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Elvis Arturo Lossa \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 373,
+    "time_taken_displayed": 0.49,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Elvis Arturo Lossa US House TX-31 Central Texas Facebook",
+    "spelling_fix": "Elvis Arturo Lossa US House TX-31 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Elvis Lossa for Congress - TX-31",
+      "link": "https://www.facebook.com/people/Elvis-Lossa-for-Congress-TX-31/61584903837276/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/people/Elvis-Lossa-for-Congress-TX-31/61584903837276/&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQFnoECB8QAQ",
+      "displayed_link": "340+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu8-W4apS64KQM8izdF7nxuDs.png",
+      "snippet": "Elvis Lossa for Congress - TX-31, Cedar Park. 343 likes · 125 talking about this. Combat Veteran | Dad | Christian | Policy Coordinator, Texas House |...",
+      "snippet_highlighted_words": [
+        "Elvis Lossa",
+        "TX",
+        "31",
+        "Texas House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Elvis Lossa for Congress - TX-31, Cedar Park. 343 likes · 125 talking about this. Combat Veteran | Dad | Christian | Policy Coordinator, Texas House |...",
+          "source_info_link": "https://www.facebook.com/people/Elvis-Lossa-for-Congress-TX-31/61584903837276/",
+          "icon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu86DTZeAFp35AL5xfaoPMi49fDL0CCdfUArxbX2X-lfwd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/people/Elvis-Lossa-for-Congress-TX-31/61584903837276/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fpeople%2FElvis-Lossa-for-Congress-TX-31%2F61584903837276%2F",
+      "missing": [
+        "Arturo"
+      ],
+      "must_include": {
+        "word": "Arturo",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Elvis+%22Arturo%22+Lossa+US+House+TX-31+Central+Texas+Facebook&sa=X&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ5t4CegQINRAB"
+      },
+      "source": "Facebook · Elvis Lossa for Congress - TX-31"
+    },
+    {
+      "position": 2,
+      "title": "District 31 deserves present leadership. | Elvis Lossa for ...",
+      "link": "https://www.facebook.com/61584903837276/videos/district-31-deserves-present-leadership/3770732519897523/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/61584903837276/videos/district-31-deserves-present-leadership/3770732519897523/&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQFnoECBwQAQ",
+      "displayed_link": "https://www.facebook.com › ... › Videos",
+      "favicon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu88Xsd4PfLi8HY-A_dq-ZBCM.png",
+      "date": "Dec 23, 2025",
+      "snippet": "Walter Z Cancino and 34 others · 󰍸. 35 · 󰤦 14. Last viewed on: Jan 13, 2026. More videos you may like. 00:54. If veterans don't show up, ...",
+      "about_this_result": {
+        "source": {
+          "description": "Walter Z Cancino and 34 others · 󰍸. 35 · 󰤦 14. Last viewed on: Jan 13, 2026. More videos you may like. 00:54. If veterans don't show up, ...",
+          "source_info_link": "https://www.facebook.com/61584903837276/videos/district-31-deserves-present-leadership/3770732519897523/",
+          "icon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu87m_ywwKxVyNDSuaxxnf0e3zKX3sGn7pd98L1RtxCjJX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/61584903837276/videos/district-31-deserves-present-leadership/3770732519897523/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F61584903837276%2Fvideos%2Fdistrict-31-deserves-present-leadership%2F3770732519897523%2F",
+      "missing": [
+        "Arturo"
+      ],
+      "must_include": {
+        "word": "Arturo",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Elvis+%22Arturo%22+Lossa+US+House+TX-31+Central+Texas+Facebook&sa=X&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ5t4CegQINhAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 3,
+      "title": "District 31 candidates meeting in Lampasas",
+      "link": "https://www.facebook.com/groups/789684179587204/posts/1309381367617480/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/789684179587204/posts/1309381367617480/&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQFnoECB4QAQ",
+      "displayed_link": "10+ comments · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu89lDVzzKzQazcDERaMKyCXg.png",
+      "snippet": "TFCA will be hosting District 31 candidates at our Jan. 13th meeting at 5:30 pm. Confirmed District 31 Candidates are: - Raymond Hamden ...",
+      "snippet_highlighted_words": [
+        "31",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "TFCA will be hosting District 31 candidates at our Jan. 13th meeting at 5:30 pm. Confirmed District 31 Candidates are: - Raymond Hamden ...",
+          "source_info_link": "https://www.facebook.com/groups/789684179587204/posts/1309381367617480/",
+          "icon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu8570811xF0V7cjtli34ZwB2eZnFEk0KnBykEFpGvNovv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/789684179587204/posts/1309381367617480/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F789684179587204%2Fposts%2F1309381367617480%2F",
+      "missing": [
+        "Arturo"
+      ],
+      "must_include": {
+        "word": "Arturo",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Elvis+%22Arturo%22+Lossa+US+House+TX-31+Central+Texas+Facebook&sa=X&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ5t4CegQIMBAB"
+      },
+      "source": "Facebook · Lampasas RubberNeckin News"
+    },
+    {
+      "position": 4,
+      "title": "Support for Harker Heights, TX house seat candidate",
+      "link": "https://www.facebook.com/groups/1722046241675118/posts/2007732569773149/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1722046241675118/posts/2007732569773149/&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQFnoECCEQAQ",
+      "displayed_link": "3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu858oaEcxjwQaJg-g51WWHUA.png",
+      "snippet": "Army Veteran and Texas native Elvis Lossa for Congress - TX-31 is who our community needs for the TX-31 House seat. Remember to VOTE!!",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Elvis Lossa",
+        "TX",
+        "31",
+        "TX",
+        "31 House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Army Veteran and Texas native Elvis Lossa for Congress - TX-31 is who our community needs for the TX-31 House seat. Remember to VOTE!!",
+          "source_info_link": "https://www.facebook.com/groups/1722046241675118/posts/2007732569773149/",
+          "icon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu87bVn-KjR7f1D8aCA6x4whtkxaOO5Ld2cjRVYmECG6W6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1722046241675118/posts/2007732569773149/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1722046241675118%2Fposts%2F2007732569773149%2F",
+      "missing": [
+        "Arturo"
+      ],
+      "must_include": {
+        "word": "Arturo",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Elvis+%22Arturo%22+Lossa+US+House+TX-31+Central+Texas+Facebook&sa=X&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ5t4CegQIOBAB"
+      },
+      "source": "Facebook · Harker Heights, TX - Community Watch"
+    },
+    {
+      "position": 5,
+      "title": "@everyone",
+      "link": "https://www.facebook.com/groups/767437136786204/posts/2537580463105187/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/767437136786204/posts/2537580463105187/&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQFnoECB0QAQ",
+      "displayed_link": "1 comment · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu8_sM88vDoqmPwwoxXzeCQCE.png",
+      "snippet": "Texas' primary elections are March.3rd, with pre-voting starting Feb.17th. My good friend and mentor Elvis Lossa is running for the TX-31 ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Elvis Lossa",
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Texas' primary elections are March.3rd, with pre-voting starting Feb.17th. My good friend and mentor Elvis Lossa is running for the TX-31 ...",
+          "source_info_link": "https://www.facebook.com/groups/767437136786204/posts/2537580463105187/",
+          "icon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu83peQKHb2OyAdXeQKeNyspRunPD9FhQ87QO-17Rr97gv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/767437136786204/posts/2537580463105187/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F767437136786204%2Fposts%2F2537580463105187%2F",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "Facebook · People of Hutto"
+    },
+    {
+      "position": 6,
+      "title": "Hi everyone! My name is Jessie, I ...",
+      "link": "https://www.facebook.com/groups/767437136786204/posts/2911779549018608/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/767437136786204/posts/2911779549018608/&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQFnoECCMQAQ",
+      "displayed_link": "10+ comments · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu8-uO0FpPVnTqNRkvO6lJ9rc.png",
+      "snippet": "Texas' primary elections are March.3rd, with pre-voting starting Feb.17th. My good friend and mentor Elvis Lossa is running for the TX-31 ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Elvis Lossa",
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Texas' primary elections are March.3rd, with pre-voting starting Feb.17th. My good friend and mentor Elvis Lossa is running for the TX-31 ...",
+          "source_info_link": "https://www.facebook.com/groups/767437136786204/posts/2911779549018608/",
+          "icon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu81xE5JnawLFRKQjvLQgzr30O3Qkhr_l8g8-rodY42zvs.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/767437136786204/posts/2911779549018608/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F767437136786204%2Fposts%2F2911779549018608%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Elvis+Arturo+Lossa+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ5t4CegQIMxAB"
+      },
+      "source": "Facebook · People of Hutto"
+    },
+    {
+      "position": 7,
+      "title": "TFCA will be hosting District 31 candidates at our Jan. 13th ...",
+      "link": "https://www.facebook.com/groups/409270662609645/posts/2850295691840451/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/409270662609645/posts/2850295691840451/&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQFnoECCQQAQ",
+      "displayed_link": "2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu86mBw5DUuPG7qz-fGgZQspw.png",
+      "snippet": "TFCA will be hosting District 31 candidates at our Jan. 13th meeting at 5:30. Confirmed District 31 Candidates are: Raymond Hamden Abhiram ...",
+      "snippet_highlighted_words": [
+        "31",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "TFCA will be hosting District 31 candidates at our Jan. 13th meeting at 5:30. Confirmed District 31 Candidates are: Raymond Hamden Abhiram ...",
+          "source_info_link": "https://www.facebook.com/groups/409270662609645/posts/2850295691840451/",
+          "icon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu868rogqfPbjOOGhiIeVDzakruKg-MhFs5rLk17lkurNk.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/409270662609645/posts/2850295691840451/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F409270662609645%2Fposts%2F2850295691840451%2F",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "Facebook · Lampasas County Breaking News and Information"
+    },
+    {
+      "position": 8,
+      "title": "RESULTS | 2026 Texas Primaries: GOP races for AG ...",
+      "link": "https://www.fox7austin.com/election/live-results-texas-primaries",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fox7austin.com/election/live-results-texas-primaries&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQFnoECEYQAQ",
+      "displayed_link": "https://www.fox7austin.com › election › live-results-tex...",
+      "favicon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu82C5DPPt2-fiClZ57Es1Cj4.jpeg",
+      "date": "Mar 4, 2026",
+      "snippet": "Voters have also set the race for Texas governor for the fall, picking Austin Democrat Gina Hinojosa to face off against incumbent Republican ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Voters have also set the race for Texas governor for the fall, picking Austin Democrat Gina Hinojosa to face off against incumbent Republican ...",
+          "source_info_link": "https://www.fox7austin.com/election/live-results-texas-primaries",
+          "icon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu83349Gzk8bcyqoUl6MywsCoPcRAIuBtGNy8FPkiOsRop.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fox7austin.com/election/live-results-texas-primaries&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fox7austin.com%2Felection%2Flive-results-texas-primaries",
+      "source": "FOX 7 Austin"
+    },
+    {
+      "position": 9,
+      "title": "2026 War Room - The Texan",
+      "link": "https://thetexan.news/election-war-room/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thetexan.news/election-war-room/&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQFnoECD0QAQ",
+      "displayed_link": "https://thetexan.news › election-war-room",
+      "favicon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu8-FxYwgtDgUBd3udBvC9E1g.png",
+      "snippet": "While his last re-election campaign in 2020 was smooth sailing, this year he has two high-profile Republican primary challengers in Texas Attorney General Ken ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "While his last re-election campaign in 2020 was smooth sailing, this year he has two high-profile Republican primary challengers in Texas Attorney General Ken ...",
+          "source_info_link": "https://thetexan.news/election-war-room/",
+          "icon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu801GHf6FaFZKu1WVgiueYie687acKMC1qGRKisWlya62.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thetexan.news/election-war-room/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthetexan.news%2Felection-war-room%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Elvis+Arturo+Lossa+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ5t4CegQIPxAB"
+      },
+      "source": "thetexan.news"
+    },
+    {
+      "position": 10,
+      "title": "We are open 🙂",
+      "link": "https://www.facebook.com/groups/767437136786204/posts/2548052632057970/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/767437136786204/posts/2548052632057970/&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQFnoECEEQAQ",
+      "displayed_link": "1 comment · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu8woE7qfSmETLi3w55Yo51xg.png",
+      "snippet": "Texas' primary elections are March.3rd, with pre-voting starting Feb.17th. My good friend and mentor Elvis Lossa is running for the TX-31 ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Elvis Lossa",
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Texas' primary elections are March.3rd, with pre-voting starting Feb.17th. My good friend and mentor Elvis Lossa is running for the TX-31 ...",
+          "source_info_link": "https://www.facebook.com/groups/767437136786204/posts/2548052632057970/",
+          "icon": "https://serpapi.com/searches/69bb5e20d1a72bec4dff7e88/images/3qSiMwRmPT1MqH9Kr9Mu85C74ZxM2vC-gn08Fsq25r6Lm_kvLkOPRfoox7qkptwn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/767437136786204/posts/2548052632057970/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F767437136786204%2Fposts%2F2548052632057970%2F",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "Facebook · People of Hutto"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=IF67ae7-Hoz9ptQPn46SwAE&start=10&sa=N&sstk=Af77f_fqF2da2Jk2giv8lzZhOLqy-OosI7x-KCNo100oBw8w-ZqU0NdYnQxJkTX4QkYJoj4m5_DZ7lx8Kps6yfsAaAs6LEwq8iRFiQ&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ8NMDegQIDxAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=IF67ae7-Hoz9ptQPn46SwAE&start=10&sa=N&sstk=Af77f_fqF2da2Jk2giv8lzZhOLqy-OosI7x-KCNo100oBw8w-ZqU0NdYnQxJkTX4QkYJoj4m5_DZ7lx8Kps6yfsAaAs6LEwq8iRFiQ&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=IF67ae7-Hoz9ptQPn46SwAE&start=20&sa=N&sstk=Af77f_fqF2da2Jk2giv8lzZhOLqy-OosI7x-KCNo100oBw8w-ZqU0NdYnQxJkTX4QkYJoj4m5_DZ7lx8Kps6yfsAaAs6LEwq8iRFiQ&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=IF67ae7-Hoz9ptQPn46SwAE&start=30&sa=N&sstk=Af77f_fqF2da2Jk2giv8lzZhOLqy-OosI7x-KCNo100oBw8w-ZqU0NdYnQxJkTX4QkYJoj4m5_DZ7lx8Kps6yfsAaAs6LEwq8iRFiQ&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=IF67ae7-Hoz9ptQPn46SwAE&start=40&sa=N&sstk=Af77f_fqF2da2Jk2giv8lzZhOLqy-OosI7x-KCNo100oBw8w-ZqU0NdYnQxJkTX4QkYJoj4m5_DZ7lx8Kps6yfsAaAs6LEwq8iRFiQ&ved=2ahUKEwjujo6I9KqTAxWMvokEHR-HBBgQ8tMDegQIDxAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Facebook&start=40"
+    }
+  }
+}

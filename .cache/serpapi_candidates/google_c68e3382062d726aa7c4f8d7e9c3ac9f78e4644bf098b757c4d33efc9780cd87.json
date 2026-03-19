@@ -1,0 +1,447 @@
+{
+  "search_metadata": {
+    "id": "69bb5d0af2593adc74630dcb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0Gx3CUVV62X7hT8IRFCqaw/69bb5d0af2593adc74630dcb.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0Gx3CUVV62X7hT8IRFCqaw/69bb5d0af2593adc74630dcb.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:50 UTC",
+    "processed_at": "2026-03-19 02:18:50 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0Gx3CUVV62X7hT8IRFCqaw/69bb5d0af2593adc74630dcb.html",
+    "total_time_taken": 0.86
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Elvis Arturo Lossa for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Elvis Arturo Lossa for US House TX-31? Include who that supporter works for.",
+    "total_results": 486,
+    "time_taken_displayed": 0.48,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "3kQN3HicxZTbkqI4GIDv9z3WG0ZBcUbtKmoqidimPdIHW-eGQg5BQWITEOm7eZd9qn2aDXii7aZ3Z6u29i8Kkvyn8OfL__MPfxV4f_62cKNoy25EMUmSGqGU-HbNpBvRYGlgig71WWi639OdIldMpkgVe6Ugv9EyFo14MLl9SdrmNAhfYQq8Su6i6EuD2Wsecb9moi7yl_e73OWTGqvZQc3rtCDWN-OHdFRrSPVObSIaG24A_iNRwT1_Q8wHXMhbJcqX1HJvTc21d4WlQwhYWFkcFglRgZbNex9vRM09HxD3ncJdNRkZpVkBLszgIk_by_IARGBucC343cpli4Nj0JJc7wMdPLuXYkFQKhiftFADCIF-gi7KYwhyTNIEQ4TO4SBXoymUEabl4bnnjPRVt6qBz86JW-H7cWIt-EmIFuE8SeIy5J-6uDJdMx-ELMMMPXYk2mtPX2cTbQm--R1vltbHT8BcaF4DTBMgmktu51PDsi3d1aUvOdAmOxPNikTHawysPUynY7M2rMF6AeeskgS92WR2sCXn8IGgctXhSClQM7jPVE-zAXw6GbUBJACpl8NTjzHf45wLfrNIyEGHsim5Ms1iecfRKb5ZVMPzH_A98JO-5EiKZqiIFsZYzbItDhFI0YzPIb9C2WiQX7N-MQzAhVrB7NryOmuXf8re3dN-szJkwVVAujYaZWaIVwRlRtkEoryoUFOvwYfkMh8B1EQHnH9dYOl1PIkGTvxe4VjE-LZb1-stab1_dLCxidv74avmDF7Xu16PHLGlm-UvdGLz_wP72KcH-S2n5D3Y5DOwNRV90qePYF_6dN6QUO9jsNUclEKftovqItgaxAWw96V9ugA2_luw52_KcgZb-wBseA02LAc769NnsBGCV306_628LAWw_1Wf1v55n875tg-ft007XpPy5q01aceJk_r85Xn3khpy-PywhmQ2H060983b2UQ3huV_0VfWDWzcRalVeVGeXSqsmBC5tuAbIbFZJFg0oKHAH2cVGIG5MnyBxdstDSObLzuC6u-4BwijOKTCkDJmCA63fnoQ-jRmtvA4r8r17wIOTD-2bCHhGSLXiApBEhp6LHOqVTZ-SBXJ-OaDdbSU-_d6ABdkgRzD7ae7NaNg0H2kT5Bhx41fU30ydo3pD7q865PZtrWXLa0_m2MnGg2CH7iKbseRR7q6-XU49KKtGccPzdtAbVZll8xGLVear--CbnUyhIv-YEWoZ7naSmNsb8gITPyvty15TlkaNUi-L6aE-KkL4001eZYqm9BUOApNAsYaeCaQN_kKMw3dZjvFbJhGx27VO21J7tiOXNmQKN0qHanCglCp_wXedP3T",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3kQN3HicxZTbkqI4GIDv9z3WG0ZBcUbtKmoqidimPdIHW-eGQg5BQWITEOm7eZd9qn2aDXii7aZ3Z6u29i8Kkvyn8OfL__MPfxV4f_62cKNoy25EMUmSGqGU-HbNpBvRYGlgig71WWi639OdIldMpkgVe6Ugv9EyFo14MLl9SdrmNAhfYQq8Su6i6EuD2Wsecb9moi7yl_e73OWTGqvZQc3rtCDWN-OHdFRrSPVObSIaG24A_iNRwT1_Q8wHXMhbJcqX1HJvTc21d4WlQwhYWFkcFglRgZbNex9vRM09HxD3ncJdNRkZpVkBLszgIk_by_IARGBucC343cpli4Nj0JJc7wMdPLuXYkFQKhiftFADCIF-gi7KYwhyTNIEQ4TO4SBXoymUEabl4bnnjPRVt6qBz86JW-H7cWIt-EmIFuE8SeIy5J-6uDJdMx-ELMMMPXYk2mtPX2cTbQm--R1vltbHT8BcaF4DTBMgmktu51PDsi3d1aUvOdAmOxPNikTHawysPUynY7M2rMF6AeeskgS92WR2sCXn8IGgctXhSClQM7jPVE-zAXw6GbUBJACpl8NTjzHf45wLfrNIyEGHsim5Ms1iecfRKb5ZVMPzH_A98JO-5EiKZqiIFsZYzbItDhFI0YzPIb9C2WiQX7N-MQzAhVrB7NryOmuXf8re3dN-szJkwVVAujYaZWaIVwRlRtkEoryoUFOvwYfkMh8B1EQHnH9dYOl1PIkGTvxe4VjE-LZb1-stab1_dLCxidv74avmDF7Xu16PHLGlm-UvdGLz_wP72KcH-S2n5D3Y5DOwNRV90qePYF_6dN6QUO9jsNUclEKftovqItgaxAWw96V9ugA2_luw52_KcgZb-wBseA02LAc769NnsBGCV306_628LAWw_1Wf1v55n875tg-ft007XpPy5q01aceJk_r85Xn3khpy-PywhmQ2H060983b2UQ3huV_0VfWDWzcRalVeVGeXSqsmBC5tuAbIbFZJFg0oKHAH2cVGIG5MnyBxdstDSObLzuC6u-4BwijOKTCkDJmCA63fnoQ-jRmtvA4r8r17wIOTD-2bCHhGSLXiApBEhp6LHOqVTZ-SBXJ-OaDdbSU-_d6ABdkgRzD7ae7NaNg0H2kT5Bhx41fU30ydo3pD7q865PZtrWXLa0_m2MnGg2CH7iKbseRR7q6-XU49KKtGccPzdtAbVZll8xGLVear--CbnUyhIv-YEWoZ7naSmNsb8gITPyvty15TlkaNUi-L6aE-KkL4001eZYqm9BUOApNAsYaeCaQN_kKMw3dZjvFbJhGx27VO21J7tiOXNmQKN0qHanCglCp_wXedP3T"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "LOSSA, ELVIS ARTURO - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H6TX31177/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H6TX31177/&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQFnoECA0QAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H6TX31177",
+      "favicon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm3TzBLJ2A2GB_FdywddIsho.png",
+      "snippet": "Candidate for House Texas - 31 ID: H6TX31177 REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary. About this candidate.",
+      "snippet_highlighted_words": [
+        "House Texas",
+        "31",
+        "Financial"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Candidate for House Texas - 31 ID: H6TX31177 REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary. About this candidate.",
+          "source_info_link": "https://www.fec.gov/data/candidate/H6TX31177/",
+          "icon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm_fcbUAyDEzxVFw8Vbt1nzN9ROc-imNFgo-0_XtGP-yd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H6TX31177/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH6TX31177%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ5t4CegQIGhAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 2,
+      "title": "Hi everyone! My name is Jessie, I ...",
+      "link": "https://www.facebook.com/groups/767437136786204/posts/2911779549018608/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/767437136786204/posts/2911779549018608/&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQFnoECBMQAQ",
+      "displayed_link": "10+ comments · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm60smVgbFeFhnQvMh3Ql_Mw.png",
+      "snippet": "Texas' primary elections are March.3rd, with pre-voting starting Feb.17th. My good friend and mentor Elvis Lossa is running for the TX-31 House ...",
+      "snippet_highlighted_words": [
+        "Elvis Lossa",
+        "TX",
+        "31 House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Texas' primary elections are March.3rd, with pre-voting starting Feb.17th. My good friend and mentor Elvis Lossa is running for the TX-31 House ...",
+          "source_info_link": "https://www.facebook.com/groups/767437136786204/posts/2911779549018608/",
+          "icon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm1ybrWw87avzCpVNGUVKxMq4Hu2M1xOjhkIx9J-OChrY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/767437136786204/posts/2911779549018608/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F767437136786204%2Fposts%2F2911779549018608%2F",
+      "missing": [
+        "largest",
+        "financial",
+        "Arturo"
+      ],
+      "source": "Facebook · People of Hutto"
+    },
+    {
+      "position": 3,
+      "title": "Election results: Texans are voting in the 2026 primary",
+      "link": "https://apps.texastribune.org/features/2026/primary-election-results-2026/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.texastribune.org/features/2026/primary-election-results-2026/&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQFnoECAwQAQ",
+      "displayed_link": "https://apps.texastribune.org › features › primary-electio...",
+      "favicon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhmxqDv2RhmGZx_cIQbae8qEc.png",
+      "date": "Mar 2, 2026",
+      "snippet": "Follow The Texas Tribune's coverage of election results for the 2026 primaries for U.S. Senate, U.S. House, the Texas Legislature and more.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "U.S.",
+        "U.S. House",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Follow The Texas Tribune's coverage of election results for the 2026 primaries for U.S. Senate, U.S. House, the Texas Legislature and more.",
+          "source_info_link": "https://apps.texastribune.org/features/2026/primary-election-results-2026/",
+          "icon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm0jbdkLM4G-5qpUpK_KG2mo1mcY9MsyZO3Vy_9FrMgFS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://apps.texastribune.org/features/2026/primary-election-results-2026/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fapps.texastribune.org%2Ffeatures%2F2026%2Fprimary-election-results-2026%2F",
+      "missing": [
+        "donor"
+      ],
+      "must_include": {
+        "word": "donor",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+%22donor%22+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ5t4CegQIERAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 4,
+      "title": "WinRed: Directory",
+      "link": "https://winred.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://winred.com/&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQFnoECBwQAQ",
+      "displayed_link": "https://winred.com",
+      "favicon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhmxDSTZ4K9Wjd-E6T6G47DG4.png",
+      "snippet": "Find candidates and committees on WinRed Office. All President National Committees State Party US Senate US House Governor State Executive State Senator State ...",
+      "about_this_result": {
+        "source": {
+          "description": "Find candidates and committees on WinRed Office. All President National Committees State Party US Senate US House Governor State Executive State Senator State ...",
+          "source_info_link": "https://winred.com/",
+          "icon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm1pfRNycQJ-wUjUh1rgzBbCf80talkR8baQVKzl1U9It.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://winred.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwinred.com%2F",
+      "missing": [
+        "Include"
+      ],
+      "must_include": {
+        "word": "Include",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+%22Include%22+who+that+supporter+works+for.&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ5t4CegQIHRAB"
+      },
+      "source": "WinRed"
+    },
+    {
+      "position": 5,
+      "title": "Elvis Lossa - Texas Payee",
+      "link": "https://www.transparencyusa.org/tx/payee/elvis-lossa?cycle=2024-election-cycle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.transparencyusa.org/tx/payee/elvis-lossa%3Fcycle%3D2024-election-cycle&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQFnoECA4QAQ",
+      "displayed_link": "https://www.transparencyusa.org › payee › elvis-lossa",
+      "favicon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm8n39QB7pjozuKrkvyweLI8.png",
+      "snippet": "Overview. This organization has been paid by the candidates and committees listed below. Total Payments. (Click to sort ascending). Candidate.",
+      "about_this_result": {
+        "source": {
+          "description": "Overview. This organization has been paid by the candidates and committees listed below. Total Payments. (Click to sort ascending). Candidate.",
+          "source_info_link": "https://www.transparencyusa.org/tx/payee/elvis-lossa?cycle=2024-election-cycle",
+          "icon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhmxFvSjQ2NuAbxNqFwBpViiJcplx99gojQhD7F9KoZ8Vm.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.transparencyusa.org/tx/payee/elvis-lossa?cycle=2024-election-cycle&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.transparencyusa.org%2Ftx%2Fpayee%2Felvis-lossa%3Fcycle%3D2024-election-cycle",
+      "missing": [
+        "Arturo",
+        "House"
+      ],
+      "source": "Transparency USA"
+    },
+    {
+      "position": 6,
+      "title": "Austin voter guide 2026: What's on the ballot on March 3?",
+      "link": "https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQFnoECDUQAQ",
+      "displayed_link": "https://www.statesman.com › projects › texas-election-a...",
+      "favicon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm1r07iclNhHbL4orFXgZkI0.png",
+      "date": "Mar 3, 2026",
+      "snippet": "Austin-area voters will head to the polls on March 3 to decide key Texas primary races, including U.S. Senate, governor, and state offices.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "including U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Austin-area voters will head to the polls on March 3 to decide key Texas primary races, including U.S. Senate, governor, and state offices.",
+          "source_info_link": "https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/",
+          "icon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm6X06zTfYoErchCUIPABOlHAwZVLxylUuG3z0BtlJGTK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.statesman.com%2Fprojects%2F2026%2Ftexas-election-austin-primary-voting-guide%2F",
+      "source": "Austin American-Statesman"
+    },
+    {
+      "position": 7,
+      "title": "(Studies in The Early Middle Ages, 43) Niamh Wycherley",
+      "link": "https://www.scribd.com/document/584941808/Studies-in-the-Early-Middle-Ages-43-Niamh-Wycherley-The-Cult-of-Relics-in-Early-Medieval-Ireland-Brepols-2015",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/584941808/Studies-in-the-Early-Middle-Ages-43-Niamh-Wycherley-The-Cult-of-Relics-in-Early-Medieval-Ireland-Brepols-2015&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQFnoECEIQAQ",
+      "displayed_link": "https://www.scribd.com › document › Studies-in-the-Ea...",
+      "favicon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm0nEGJbMg4wRyDr_O1kUWDo.png",
+      "snippet": "(Studies in the Early Middle Ages, 43) Niamh Wycherley - The Cult of Relics in Early Medieval Ireland-Brepols (2015) - Free download as PDF File (.pdf), ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 1
+          },
+          "extensions": [
+            "5.0(1)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "(Studies in the Early Middle Ages, 43) Niamh Wycherley - The Cult of Relics in Early Medieval Ireland-Brepols (2015) - Free download as PDF File (.pdf), ...",
+          "source_info_link": "https://www.scribd.com/document/584941808/Studies-in-the-Early-Middle-Ages-43-Niamh-Wycherley-The-Cult-of-Relics-in-Early-Medieval-Ireland-Brepols-2015",
+          "icon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm8FmTwZp-saSa_Mi0eRtQeFOVgbj98nMRWoo4oaAV2Xh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.scribd.com/document/584941808/Studies-in-the-Early-Middle-Ages-43-Niamh-Wycherley-The-Cult-of-Relics-in-Early-Medieval-Ireland-Brepols-2015&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.scribd.com%2Fdocument%2F584941808%2FStudies-in-the-Early-Middle-Ages-43-Niamh-Wycherley-The-Cult-of-Relics-in-Early-Medieval-Ireland-Brepols-2015",
+      "source": "Scribd"
+    },
+    {
+      "position": 8,
+      "title": "Billboard 1955-06-11.pdf",
+      "link": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/50s/1955/Billboard%201955-06-11.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.worldradiohistory.com/Archive-All-Music/Billboard/50s/1955/Billboard%25201955-06-11.pdf&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQFnoECDkQAQ",
+      "displayed_link": "https://www.worldradiohistory.com › Billboard",
+      "favicon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm_pXTdN9UHm5AgMgfVkVAdk.jpeg",
+      "snippet": "Is Dead at 49. NEW YORK. June 4.-George. Heller, a major figure in entertain - ment labor riclex. died here this week at the age of 49. As execu-.",
+      "snippet_highlighted_words": [
+        "major"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 94
+          },
+          "extensions": [
+            "94 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Is Dead at 49. NEW YORK. June 4.-George. Heller, a major figure in entertain - ment labor riclex. died here this week at the age of 49. As execu-.",
+          "source_info_link": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/50s/1955/Billboard%201955-06-11.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm7tnfdj__s9ll3pHc8mN-jrIU9WjW1LXk2VQvtMvLvWC.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.worldradiohistory.com/Archive-All-Music/Billboard/50s/1955/Billboard%201955-06-11.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.worldradiohistory.com%2FArchive-All-Music%2FBillboard%2F50s%2F1955%2FBillboard%25201955-06-11.pdf",
+      "source": "World Radio History"
+    },
+    {
+      "position": 9,
+      "title": "★ ★ ★ TAG SALE!!r ★ 3 9 7",
+      "link": "https://cdn.manchesterhistory.org/News/Manchester%20Evening%20Hearld_1987-06-04.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cdn.manchesterhistory.org/News/Manchester%2520Evening%2520Hearld_1987-06-04.pdf&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQFnoECDgQAQ",
+      "displayed_link": "https://cdn.manchesterhistory.org › News",
+      "favicon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm8to7n7ol7DCxafZ-x55FSY.png",
+      "date": "Jun 4, 1987",
+      "snippet": "go-along-get-along system may actually have a case, the Senate and House leadership have trotted ; out their official attorneys to oppose ...",
+      "snippet_highlighted_words": [
+        "have",
+        "House",
+        "have"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "go-along-get-along system may actually have a case, the Senate and House leadership have trotted ; out their official attorneys to oppose ...",
+          "source_info_link": "https://cdn.manchesterhistory.org/News/Manchester%20Evening%20Hearld_1987-06-04.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm-8Ptt8BebqO5_MhqXJhQPSIpo5rabUxPRD5GrwyAKeB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cdn.manchesterhistory.org/News/Manchester%20Evening%20Hearld_1987-06-04.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcdn.manchesterhistory.org%2FNews%2FManchester%2520Evening%2520Hearld_1987-06-04.pdf",
+      "source": "Manchester Historical Society"
+    },
+    {
+      "position": 10,
+      "title": "sv/sv_50k.txt",
+      "link": "https://huggingface.co/api/resolve-cache/datasets/StephanAkkerman/frequency-words-2016/0f04b259b90acd1364d2d3cb6a41a03a0ece08b9/sv%2Fsv_50k.txt?download=true&etag=%220a0585471bbc932250f276617c00313c644f6d9a%22",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://huggingface.co/api/resolve-cache/datasets/StephanAkkerman/frequency-words-2016/0f04b259b90acd1364d2d3cb6a41a03a0ece08b9/sv%252Fsv_50k.txt%3Fdownload%3Dtrue%26etag%3D%25220a0585471bbc932250f276617c00313c644f6d9a%2522&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQFnoECDMQAQ",
+      "displayed_link": "https://huggingface.co › datasets › frequency-words-2016",
+      "favicon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm17-r6wu7EPa6JSKuyZHRO0.png",
+      "snippet": "... house 1831 parken 1831 kommendör 1831 hittills 1827 mötte 1826 derek 1822 väcka 1822 förklaring 1822 misslyckas 1822 kontrollen 1822 fullständigt 1822 sann ...",
+      "snippet_highlighted_words": [
+        "house"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... house 1831 parken 1831 kommendör 1831 hittills 1827 mötte 1826 derek 1822 väcka 1822 förklaring 1822 misslyckas 1822 kontrollen 1822 fullständigt 1822 sann ...",
+          "source_info_link": "https://huggingface.co/api/resolve-cache/datasets/StephanAkkerman/frequency-words-2016/0f04b259b90acd1364d2d3cb6a41a03a0ece08b9/sv%2Fsv_50k.txt?download=true&etag=%220a0585471bbc932250f276617c00313c644f6d9a%22",
+          "icon": "https://serpapi.com/searches/69bb5d0af2593adc74630dcb/images/5k92ltOrLYE8c2IO4KIhm5qaftirAjc9LSNh2jlaGOAMNJV4dOlgYAMK2-Rh8dYc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://huggingface.co/api/resolve-cache/datasets/StephanAkkerman/frequency-words-2016/0f04b259b90acd1364d2d3cb6a41a03a0ece08b9/sv%2Fsv_50k.txt?download=true&etag=%220a0585471bbc932250f276617c00313c644f6d9a%22&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhuggingface.co%2Fapi%2Fresolve-cache%2Fdatasets%2FStephanAkkerman%2Ffrequency-words-2016%2F0f04b259b90acd1364d2d3cb6a41a03a0ece08b9%2Fsv%252Fsv_50k.txt%3Fdownload%3Dtrue%26etag%3D%25220a0585471bbc932250f276617c00313c644f6d9a%2522",
+      "source": "Hugging Face"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "WinRed unauthorized charges",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=WinRed+unauthorized+charges&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=WinRed+unauthorized+charges"
+    },
+    {
+      "block_position": 1,
+      "query": "WinRed login app",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=WinRed+login+app&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=WinRed+login+app"
+    },
+    {
+      "block_position": 1,
+      "query": "WinRed login with email",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=WinRed+login+with+email&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=WinRed+login+with+email"
+    },
+    {
+      "block_position": 1,
+      "query": "March 3 2026 primary election candidates",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=March+3+2026+primary+election+candidates&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=March+3+2026+primary+election+candidates"
+    },
+    {
+      "block_position": 1,
+      "query": "Sample ballot jim wells county 2026 sample ballot",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Sample+ballot+jim+wells+county+2026+sample+ballot&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sample+ballot+jim+wells+county+2026+sample+ballot"
+    },
+    {
+      "block_position": 1,
+      "query": "Johnson county sample ballot 2026",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Johnson+county+sample+ballot+2026&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Johnson+county+sample+ballot+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "WinRed phone number",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=WinRed+phone+number&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=WinRed+phone+number"
+    },
+    {
+      "block_position": 1,
+      "query": "Bell County sample Ballot 2026",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bell+County+sample+Ballot+2026&sa=X&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+sample+Ballot+2026"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Cl27aY2uKOGqw8cPnrzByAk&start=10&sa=N&sstk=Af77f_e7XEkMOmp2P12zTu9yIA7fYbwk-hbvE8xpn6nvnwLGQ5kkl3MIDLHPvAofEdPCKAHXUvCa15gcjymu0M57Eh8IVm3eI-0Z6w&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ8NMDegQIKBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Cl27aY2uKOGqw8cPnrzByAk&start=10&sa=N&sstk=Af77f_e7XEkMOmp2P12zTu9yIA7fYbwk-hbvE8xpn6nvnwLGQ5kkl3MIDLHPvAofEdPCKAHXUvCa15gcjymu0M57Eh8IVm3eI-0Z6w&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ8tMDegQIKBAE",
+      "3": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Cl27aY2uKOGqw8cPnrzByAk&start=20&sa=N&sstk=Af77f_e7XEkMOmp2P12zTu9yIA7fYbwk-hbvE8xpn6nvnwLGQ5kkl3MIDLHPvAofEdPCKAHXUvCa15gcjymu0M57Eh8IVm3eI-0Z6w&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ8tMDegQIKBAG",
+      "4": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Cl27aY2uKOGqw8cPnrzByAk&start=30&sa=N&sstk=Af77f_e7XEkMOmp2P12zTu9yIA7fYbwk-hbvE8xpn6nvnwLGQ5kkl3MIDLHPvAofEdPCKAHXUvCa15gcjymu0M57Eh8IVm3eI-0Z6w&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ8tMDegQIKBAI",
+      "5": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Cl27aY2uKOGqw8cPnrzByAk&start=40&sa=N&sstk=Af77f_e7XEkMOmp2P12zTu9yIA7fYbwk-hbvE8xpn6nvnwLGQ5kkl3MIDLHPvAofEdPCKAHXUvCa15gcjymu0M57Eh8IVm3eI-0Z6w&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ8tMDegQIKBAK",
+      "6": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Cl27aY2uKOGqw8cPnrzByAk&start=50&sa=N&sstk=Af77f_e7XEkMOmp2P12zTu9yIA7fYbwk-hbvE8xpn6nvnwLGQ5kkl3MIDLHPvAofEdPCKAHXUvCa15gcjymu0M57Eh8IVm3eI-0Z6w&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ8tMDegQIKBAM",
+      "7": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Cl27aY2uKOGqw8cPnrzByAk&start=60&sa=N&sstk=Af77f_e7XEkMOmp2P12zTu9yIA7fYbwk-hbvE8xpn6nvnwLGQ5kkl3MIDLHPvAofEdPCKAHXUvCa15gcjymu0M57Eh8IVm3eI-0Z6w&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ8tMDegQIKBAO",
+      "8": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Cl27aY2uKOGqw8cPnrzByAk&start=70&sa=N&sstk=Af77f_e7XEkMOmp2P12zTu9yIA7fYbwk-hbvE8xpn6nvnwLGQ5kkl3MIDLHPvAofEdPCKAHXUvCa15gcjymu0M57Eh8IVm3eI-0Z6w&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ8tMDegQIKBAQ",
+      "9": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Cl27aY2uKOGqw8cPnrzByAk&start=80&sa=N&sstk=Af77f_e7XEkMOmp2P12zTu9yIA7fYbwk-hbvE8xpn6nvnwLGQ5kkl3MIDLHPvAofEdPCKAHXUvCa15gcjymu0M57Eh8IVm3eI-0Z6w&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ8tMDegQIKBAS",
+      "10": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Cl27aY2uKOGqw8cPnrzByAk&start=90&sa=N&sstk=Af77f_e7XEkMOmp2P12zTu9yIA7fYbwk-hbvE8xpn6nvnwLGQ5kkl3MIDLHPvAofEdPCKAHXUvCa15gcjymu0M57Eh8IVm3eI-0Z6w&ved=2ahUKEwiN28-D86qTAxVh1fACHR5eEJkQ8tMDegQIKBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Elvis+Arturo+Lossa+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=90"
+    }
+  }
+}

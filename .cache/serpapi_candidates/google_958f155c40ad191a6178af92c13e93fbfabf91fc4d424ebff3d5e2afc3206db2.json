@@ -1,0 +1,353 @@
+{
+  "search_metadata": {
+    "id": "69bb5d94cf8870767bed495b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tOg_pW58mIzjqpSxPn_oHw/69bb5d94cf8870767bed495b.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/tOg_pW58mIzjqpSxPn_oHw/69bb5d94cf8870767bed495b.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:08 UTC",
+    "processed_at": "2026-03-19 02:21:08 UTC",
+    "google_url": "https://www.google.com/search?q=Beatrice+Cox+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Instagram&oq=Beatrice+Cox+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/tOg_pW58mIzjqpSxPn_oHw/69bb5d94cf8870767bed495b.html",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Beatrice Cox \"Bell JP P4 Place 2\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Beatrice Cox \"Bell JP P4 Place 2\" \"Central Texas\" Instagram",
+    "total_results": 31400,
+    "time_taken_displayed": 0.66,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    },
+    "showing_results_for": "Beatrice Cox Bell JP P4 Place 2 Central Texas Instagram",
+    "spelling_fix": "Beatrice Cox Bell JP P4 Place 2 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Yale Law School 2025–2026",
+      "link": "https://bulletin.yale.edu/sites/default/files/yale-law-school-2025-2026.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bulletin.yale.edu/sites/default/files/yale-law-school-2025-2026.pdf&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4QFnoECB8QAQ",
+      "displayed_link": "https://bulletin.yale.edu › sites › default › files",
+      "favicon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3OO4V7k_grQ1bDTxX2ZVY-4.png",
+      "date": "Aug 10, 2025",
+      "snippet": "The Yale Law School Bulletin is primarily a digital publication, available in HTML and pdf at https://bulletin.yale.edu. A limited number of ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 176
+          },
+          "extensions": [
+            "176 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Yale Law School Bulletin is primarily a digital publication, available in HTML and pdf at https://bulletin.yale.edu. A limited number of ...",
+          "source_info_link": "https://bulletin.yale.edu/sites/default/files/yale-law-school-2025-2026.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3LOwdbwc3_0cJEM4Q5QvvYFipghiqGWdJVftA9V4Mzw2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bulletin.yale.edu/sites/default/files/yale-law-school-2025-2026.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbulletin.yale.edu%2Fsites%2Fdefault%2Ffiles%2Fyale-law-school-2025-2026.pdf",
+      "source": "Bulletin of Yale University"
+    },
+    {
+      "position": 2,
+      "title": "Talk Archives - Calendar - AIA New York | Center for Architecture",
+      "link": "https://calendar.aiany.org/category/talk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://calendar.aiany.org/category/talk/&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4QFnoECBoQAQ",
+      "displayed_link": "https://calendar.aiany.org › category › talk",
+      "favicon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3F0n6TCFH6s2F4uevNR7jZE.png",
+      "snippet": "Mark your calendars for 2026 Arthur King Satz Lecture featuring acclaimed interior designer Michael Simon on Wednesday, February 4! Simon is the founder of ...",
+      "snippet_highlighted_words": [
+        "4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mark your calendars for 2026 Arthur King Satz Lecture featuring acclaimed interior designer Michael Simon on Wednesday, February 4! Simon is the founder of ...",
+          "source_info_link": "https://calendar.aiany.org/category/talk/",
+          "icon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3IuVpkuS8FEoM3DFmNb-r4jk4gPFkZ-2c2Aa0NcZxZTU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://calendar.aiany.org/category/talk/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcalendar.aiany.org%2Fcategory%2Ftalk%2F",
+      "source": "AIA New York"
+    },
+    {
+      "position": 3,
+      "title": "RJM Purple Logo (2) -",
+      "link": "https://theatrearlington.org/support/renovation-project/building-update/rjm-purple-logo-2/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theatrearlington.org/support/renovation-project/building-update/rjm-purple-logo-2/&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4QFnoECBsQAQ",
+      "displayed_link": "https://theatrearlington.org › ... › Building Update",
+      "favicon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3Analo760f6GTp6Z3lMlKGg.png",
+      "snippet": "HANNAH BELL (Jeannie) is a Texas native returning to the home stages after the opportunity to direct, perform and build educational theater programming for ...",
+      "snippet_highlighted_words": [
+        "BELL",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "HANNAH BELL (Jeannie) is a Texas native returning to the home stages after the opportunity to direct, perform and build educational theater programming for ...",
+          "source_info_link": "https://theatrearlington.org/support/renovation-project/building-update/rjm-purple-logo-2/",
+          "icon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3FGn27sFXKFt2i1acg3M8i-21eTqMFNEDRK6KyQA8K8I.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://theatrearlington.org/support/renovation-project/building-update/rjm-purple-logo-2/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftheatrearlington.org%2Fsupport%2Frenovation-project%2Fbuilding-update%2Frjm-purple-logo-2%2F",
+      "source": "Theatre Arlington"
+    },
+    {
+      "position": 4,
+      "title": "ELECTRONIC CIGARETTES: BIBLIOGRAPHY",
+      "link": "https://no-smoke.org/wp-content/uploads/pdf/Electronic-Cigarettes-Bibliography.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://no-smoke.org/wp-content/uploads/pdf/Electronic-Cigarettes-Bibliography.pdf&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4QFnoECCwQAQ",
+      "displayed_link": "https://no-smoke.org › wp-content › uploads › pdf",
+      "favicon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3NMCyWSqRp6N8JF2Oj2jwlA.png",
+      "snippet": "This partial bibliography of studies is provided for informational purposes only. It should not be considered to replace medical advice from your physician, ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 421
+          },
+          "extensions": [
+            "421 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This partial bibliography of studies is provided for informational purposes only. It should not be considered to replace medical advice from your physician, ...",
+          "source_info_link": "https://no-smoke.org/wp-content/uploads/pdf/Electronic-Cigarettes-Bibliography.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3CJlJtnTEv98VdphqHTqRu3pGtxOpg-ZbUXA9BJa9dR_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://no-smoke.org/wp-content/uploads/pdf/Electronic-Cigarettes-Bibliography.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fno-smoke.org%2Fwp-content%2Fuploads%2Fpdf%2FElectronic-Cigarettes-Bibliography.pdf",
+      "source": "American Nonsmokers' Rights Foundation"
+    },
+    {
+      "position": 5,
+      "title": "College Discounts | Partnership Program",
+      "link": "https://www.excelsior.edu/partners/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.excelsior.edu/partners/&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4QFnoECCsQAQ",
+      "displayed_link": "https://www.excelsior.edu › partners",
+      "favicon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3LWlHH4K8Wfoc9fAltEcb68.png",
+      "snippet": "Did you know that you could receive a discount on your tuition if you are associated with one of Excelsior's many partners? Learn more today!",
+      "about_this_result": {
+        "source": {
+          "description": "Did you know that you could receive a discount on your tuition if you are associated with one of Excelsior's many partners? Learn more today!",
+          "source_info_link": "https://www.excelsior.edu/partners/",
+          "icon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3IpITWOK-c93eeCQloIuHEEn3gXxKQnod6OlrMQ33OvS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.excelsior.edu/partners/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.excelsior.edu%2Fpartners%2F",
+      "source": "Excelsior University"
+    },
+    {
+      "position": 6,
+      "title": "PROGRAM OF THE 80TH ANNUAL MEETING",
+      "link": "https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/final_2015-program.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.saa.org/common/Uploaded%2520files/saadocs/AnnualMeeting/Final%2520Program/final_2015-program.pdf&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4QFnoECDEQAQ",
+      "displayed_link": "https://www.saa.org › final_2015-program",
+      "favicon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3ORk8piIPgaw9ihKpqJF2GY.jpeg",
+      "snippet": "Remarks. President Jeffrey H. Altschul. Reports. Treasurer Jim Bruseth. Secretary Christina B. Rieth. Executive Director Tobi A. Brimsek.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 443
+          },
+          "extensions": [
+            "443 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Remarks. President Jeffrey H. Altschul. Reports. Treasurer Jim Bruseth. Secretary Christina B. Rieth. Executive Director Tobi A. Brimsek.",
+          "source_info_link": "https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/final_2015-program.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3D4jBeURkf5brPfT98py5hcHp-pGy8H2f_-Pu7QDg1Mr.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/final_2015-program.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.saa.org%2Fcommon%2FUploaded%2520files%2Fsaadocs%2FAnnualMeeting%2FFinal%2520Program%2Ffinal_2015-program.pdf",
+      "source": "SAA.org"
+    },
+    {
+      "position": 7,
+      "title": "Our People",
+      "link": "https://www.blackstone.com/the-firm/our-people/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blackstone.com/the-firm/our-people/&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4QFnoECDAQAQ",
+      "displayed_link": "https://www.blackstone.com › the-firm › our-people",
+      "favicon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3OWs160QAo0r7R1rJTDhpEc.png",
+      "snippet": "2026 Investment Perspectives. Market Perspectives & Insights from Blackstone's Global Portfolio. Learn More. Financial Advisors.",
+      "about_this_result": {
+        "source": {
+          "description": "2026 Investment Perspectives. Market Perspectives & Insights from Blackstone's Global Portfolio. Learn More. Financial Advisors.",
+          "source_info_link": "https://www.blackstone.com/the-firm/our-people/",
+          "icon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3AOGnQqu6W3NOP6Tm3PAo6t6INLgcfHEy7Nkxqe8a9SD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.blackstone.com/the-firm/our-people/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.blackstone.com%2Fthe-firm%2Four-people%2F",
+      "source": "Blackstone"
+    },
+    {
+      "position": 8,
+      "title": "Mediators and Adverse Effects of Child Poverty in the United ...",
+      "link": "https://publications.aap.org/pediatrics/article/137/4/e20160340/81481/Mediators-and-Adverse-Effects-of-Child-Poverty-in",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://publications.aap.org/pediatrics/article/137/4/e20160340/81481/Mediators-and-Adverse-Effects-of-Child-Poverty-in&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4QFnoECDMQAQ",
+      "displayed_link": "https://publications.aap.org › pediatrics › article › Medi...",
+      "favicon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3CVhOVsDDN3ggWYSc--BdqU.png",
+      "date": "Apr 1, 2016",
+      "snippet": "The link between poverty and children's health is well recognized. Even temporary poverty may have an adverse effect on children's health, ...",
+      "about_this_result": {
+        "source": {
+          "description": "The link between poverty and children's health is well recognized. Even temporary poverty may have an adverse effect on children's health, ...",
+          "source_info_link": "https://publications.aap.org/pediatrics/article/137/4/e20160340/81481/Mediators-and-Adverse-Effects-of-Child-Poverty-in",
+          "icon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3Da518Ban9aPpmMEYDbW4jxd5xa8BSCCnb4duJSD_n5C.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://publications.aap.org/pediatrics/article/137/4/e20160340/81481/Mediators-and-Adverse-Effects-of-Child-Poverty-in&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpublications.aap.org%2Fpediatrics%2Farticle%2F137%2F4%2Fe20160340%2F81481%2FMediators-and-Adverse-Effects-of-Child-Poverty-in",
+      "source": "AAP"
+    },
+    {
+      "position": 9,
+      "title": "Birth Justice",
+      "link": "https://www.jstor.org/content/oa_chapter_monograph/jj.22212199.23",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jstor.org/content/oa_chapter_monograph/jj.22212199.23&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4QFnoECC8QAQ",
+      "displayed_link": "https://www.jstor.org › content › oa_chapter_monograph",
+      "favicon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3AeZK048CHl76gA6kVcwyyQ.png",
+      "snippet": "“'At Least your. Baby is Healthy' Obstetric Violence or Disrespect and Abuse in Childbirth. Page 27. BiBliogrAphy. 473. Occurrence Worldwide: A Literature ...",
+      "about_this_result": {
+        "source": {
+          "description": "“'At Least your. Baby is Healthy' Obstetric Violence or Disrespect and Abuse in Childbirth. Page 27. BiBliogrAphy. 473. Occurrence Worldwide: A Literature ...",
+          "source_info_link": "https://www.jstor.org/content/oa_chapter_monograph/jj.22212199.23",
+          "icon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3NQlVe51l3qbhbQMUY7z8goE8tYVU7HyB41MumV-qDpm.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.jstor.org/content/oa_chapter_monograph/jj.22212199.23&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.jstor.org%2Fcontent%2Foa_chapter_monograph%2Fjj.22212199.23",
+      "source": "JSTOR"
+    },
+    {
+      "position": 10,
+      "title": "Titles owned by Missaukee District Library - Biblionix",
+      "link": "https://missaukeelibrary.biblionix.com/catalog/titles/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://missaukeelibrary.biblionix.com/catalog/titles/&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4QFnoECC4QAQ",
+      "displayed_link": "https://missaukeelibrary.biblionix.com › catalog › titles",
+      "favicon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3KkalOpPiV5fJyoSYpP9atw.png",
+      "snippet": "Titles owned by Missaukee District Library. This document is primarily intended for consumption by computers. The catalog interface designed for people can ...",
+      "about_this_result": {
+        "source": {
+          "description": "Titles owned by Missaukee District Library. This document is primarily intended for consumption by computers. The catalog interface designed for people can ...",
+          "source_info_link": "https://missaukeelibrary.biblionix.com/catalog/titles/",
+          "icon": "https://serpapi.com/searches/69bb5d94cf8870767bed495b/images/01LeGZZVC2wHa5PrhAYf3GSYd7ay9n-ua-ZRWqXa22C7EYJMSYbzlLwEJDUUfpWF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://missaukeelibrary.biblionix.com/catalog/titles/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmissaukeelibrary.biblionix.com%2Fcatalog%2Ftitles%2F",
+      "source": "Biblionix"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=lF27adSIKd-j5NoP0J7L8Q0&start=10&sa=N&sstk=Af77f_ej1D2JKXy6QyuxbzG6pmowXup3SU--SVRhjdyFzrfZu4gNGS3lr0lqJgtL_hHPKCcQIcRMU6KMdn3lYyOA9I02hjdoHkKEaQ&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4Q8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=lF27adSIKd-j5NoP0J7L8Q0&start=10&sa=N&sstk=Af77f_ej1D2JKXy6QyuxbzG6pmowXup3SU--SVRhjdyFzrfZu4gNGS3lr0lqJgtL_hHPKCcQIcRMU6KMdn3lYyOA9I02hjdoHkKEaQ&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4Q8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=lF27adSIKd-j5NoP0J7L8Q0&start=20&sa=N&sstk=Af77f_ej1D2JKXy6QyuxbzG6pmowXup3SU--SVRhjdyFzrfZu4gNGS3lr0lqJgtL_hHPKCcQIcRMU6KMdn3lYyOA9I02hjdoHkKEaQ&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4Q8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=lF27adSIKd-j5NoP0J7L8Q0&start=30&sa=N&sstk=Af77f_ej1D2JKXy6QyuxbzG6pmowXup3SU--SVRhjdyFzrfZu4gNGS3lr0lqJgtL_hHPKCcQIcRMU6KMdn3lYyOA9I02hjdoHkKEaQ&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4Q8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=lF27adSIKd-j5NoP0J7L8Q0&start=40&sa=N&sstk=Af77f_ej1D2JKXy6QyuxbzG6pmowXup3SU--SVRhjdyFzrfZu4gNGS3lr0lqJgtL_hHPKCcQIcRMU6KMdn3lYyOA9I02hjdoHkKEaQ&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4Q8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=lF27adSIKd-j5NoP0J7L8Q0&start=50&sa=N&sstk=Af77f_ej1D2JKXy6QyuxbzG6pmowXup3SU--SVRhjdyFzrfZu4gNGS3lr0lqJgtL_hHPKCcQIcRMU6KMdn3lYyOA9I02hjdoHkKEaQ&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4Q8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=lF27adSIKd-j5NoP0J7L8Q0&start=60&sa=N&sstk=Af77f_ej1D2JKXy6QyuxbzG6pmowXup3SU--SVRhjdyFzrfZu4gNGS3lr0lqJgtL_hHPKCcQIcRMU6KMdn3lYyOA9I02hjdoHkKEaQ&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4Q8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=lF27adSIKd-j5NoP0J7L8Q0&start=70&sa=N&sstk=Af77f_ej1D2JKXy6QyuxbzG6pmowXup3SU--SVRhjdyFzrfZu4gNGS3lr0lqJgtL_hHPKCcQIcRMU6KMdn3lYyOA9I02hjdoHkKEaQ&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4Q8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=lF27adSIKd-j5NoP0J7L8Q0&start=80&sa=N&sstk=Af77f_ej1D2JKXy6QyuxbzG6pmowXup3SU--SVRhjdyFzrfZu4gNGS3lr0lqJgtL_hHPKCcQIcRMU6KMdn3lYyOA9I02hjdoHkKEaQ&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4Q8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=lF27adSIKd-j5NoP0J7L8Q0&start=90&sa=N&sstk=Af77f_ej1D2JKXy6QyuxbzG6pmowXup3SU--SVRhjdyFzrfZu4gNGS3lr0lqJgtL_hHPKCcQIcRMU6KMdn3lYyOA9I02hjdoHkKEaQ&ved=2ahUKEwjUorfF86qTAxXfEVkFHVDPMt4Q8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=90"
+    }
+  }
+}

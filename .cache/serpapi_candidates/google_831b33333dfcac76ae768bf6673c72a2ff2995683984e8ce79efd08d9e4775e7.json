@@ -1,0 +1,354 @@
+{
+  "search_metadata": {
+    "id": "69bb5e2597f1cc6ec23beecb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BlMz9WkjcDNR_ian9fPWlQ/69bb5e2597f1cc6ec23beecb.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/BlMz9WkjcDNR_ian9fPWlQ/69bb5e2597f1cc6ec23beecb.json_with_pixel_position",
+    "created_at": "2026-03-19 02:23:33 UTC",
+    "processed_at": "2026-03-19 02:23:33 UTC",
+    "google_url": "https://www.google.com/search?q=Elvis+Arturo+Lossa+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&oq=Elvis+Arturo+Lossa+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/BlMz9WkjcDNR_ian9fPWlQ/69bb5e2597f1cc6ec23beecb.html",
+    "total_time_taken": 10.25
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Elvis Arturo Lossa \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Elvis Arturo Lossa \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "total_results": 198,
+    "time_taken_displayed": 0.71,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Elvis Arturo Lossa US House TX-31 Central Texas LinkedIn",
+    "spelling_fix": "Elvis Arturo Lossa US House TX-31 Central Texas LinkedIn"
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Elvis A. Lossa - U.S. House of Representatives",
+      "link": "https://www.linkedin.com/in/elvis-a-lossa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/elvis-a-lossa&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQFnoECBsQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs0kDAHZP-1Cn5eAjTsR8ROE.png",
+      "snippet": "Public policy and government affairs professional with experience working in the Texas… · Experience: U.S. House of Representatives · Education: The Johns ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "U.S. House"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas Metropolitan Area",
+            "U.S. House of Representatives"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Public policy and government affairs professional with experience working in the Texas… · Experience: U.S. House of Representatives · Education: The Johns ...",
+          "source_info_link": "https://www.linkedin.com/in/elvis-a-lossa",
+          "icon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs4Yk5q-ezgVcyEoQkGI7xwaK9LKRNceuf1fqhA92ElqC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/elvis-a-lossa&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Felvis-a-lossa",
+      "missing": [
+        "Arturo",
+        "31"
+      ],
+      "source": "LinkedIn · Elvis A. Lossa"
+    },
+    {
+      "position": 2,
+      "title": "#tx31 #elvisforcongress #service #voteforelvis | Elvis A. ...",
+      "link": "https://www.linkedin.com/posts/elvis-a-lossa_tx31-elvisforcongress-service-activity-7422639453430595584-ulTQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/elvis-a-lossa_tx31-elvisforcongress-service-activity-7422639453430595584-ulTQ&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQFnoECB0QAQ",
+      "displayed_link": "10+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbszuY0iujU7mSc5MJ0quwf90.png",
+      "snippet": "I'm proud of the work I've been part of over the years and the responsibility that came with it. Congress is not a place to learn what ...",
+      "about_this_result": {
+        "source": {
+          "description": "I'm proud of the work I've been part of over the years and the responsibility that came with it. Congress is not a place to learn what ...",
+          "source_info_link": "https://www.linkedin.com/posts/elvis-a-lossa_tx31-elvisforcongress-service-activity-7422639453430595584-ulTQ",
+          "icon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs5Cvtfp9GGu-dG8-8EczZXYOkNnMyditaco8nSaokExH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/elvis-a-lossa_tx31-elvisforcongress-service-activity-7422639453430595584-ulTQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Felvis-a-lossa_tx31-elvisforcongress-service-activity-7422639453430595584-ulTQ",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "LinkedIn · Elvis A. Lossa"
+    },
+    {
+      "position": 3,
+      "title": "Elvis A. Lossa's Post",
+      "link": "https://www.linkedin.com/posts/elvis-a-lossa_tx31-elvislossa-faithandservicetour-activity-7417588428256567296-N6gh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/elvis-a-lossa_tx31-elvislossa-faithandservicetour-activity-7417588428256567296-N6gh&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQFnoECB4QAQ",
+      "displayed_link": "20+ reactions · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs129r1k3-OD2_v2MlURD47M.png",
+      "snippet": "Lossa. Elvis A. Lossa. Congressional Candidate, TX-31 | US Army Veteran | Former Policy Coordinator for the Texas Speaker of the House. 1mo.",
+      "snippet_highlighted_words": [
+        "Lossa",
+        "Elvis",
+        "Lossa",
+        "Congressional",
+        "TX",
+        "31",
+        "US",
+        "Texas",
+        "House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Lossa. Elvis A. Lossa. Congressional Candidate, TX-31 | US Army Veteran | Former Policy Coordinator for the Texas Speaker of the House. 1mo.",
+          "source_info_link": "https://www.linkedin.com/posts/elvis-a-lossa_tx31-elvislossa-faithandservicetour-activity-7417588428256567296-N6gh",
+          "icon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbsxHFi-DHZd773zRdtghmcxMlkReF4hbN4WHsrg-tibu-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/elvis-a-lossa_tx31-elvislossa-faithandservicetour-activity-7417588428256567296-N6gh&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Felvis-a-lossa_tx31-elvislossa-faithandservicetour-activity-7417588428256567296-N6gh",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "LinkedIn · Elvis A. Lossa"
+    },
+    {
+      "position": 4,
+      "title": "Elvis A. Lossa's Post",
+      "link": "https://www.linkedin.com/posts/elvis-a-lossa_through-every-chapter-every-season-every-activity-7428498079839932416-VC_t",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/elvis-a-lossa_through-every-chapter-every-season-every-activity-7428498079839932416-VC_t&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQFnoECCgQAQ",
+      "displayed_link": "5 reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbsxTXD37GotekCm40XljBOmk.png",
+      "snippet": "Congressional Candidate, TX-31 | US Army Veteran | Former Policy Coordinator for the Texas Speaker of the House.",
+      "snippet_highlighted_words": [
+        "Congressional",
+        "TX",
+        "31",
+        "US",
+        "Texas",
+        "House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Congressional Candidate, TX-31 | US Army Veteran | Former Policy Coordinator for the Texas Speaker of the House.",
+          "source_info_link": "https://www.linkedin.com/posts/elvis-a-lossa_through-every-chapter-every-season-every-activity-7428498079839932416-VC_t",
+          "icon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbsyiXW_lKsU6kAOJBbFMEYfDCYf9VwSC23HK5aV05rNuB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/elvis-a-lossa_through-every-chapter-every-season-every-activity-7428498079839932416-VC_t&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Felvis-a-lossa_through-every-chapter-every-season-every-activity-7428498079839932416-VC_t",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "LinkedIn · Elvis A. Lossa"
+    },
+    {
+      "position": 5,
+      "title": "#actaccordingly #texasleadership #lonestarstate | Elvis A. ...",
+      "link": "https://www.linkedin.com/posts/elvis-a-lossa_actaccordingly-texasleadership-lonestarstate-activity-7156079864427515904-75rS",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/elvis-a-lossa_actaccordingly-texasleadership-lonestarstate-activity-7156079864427515904-75rS&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQFnoECDIQAQ",
+      "displayed_link": "20+ reactions · 2 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs3fO_SZutvHms5tlsQ_3ew0.png",
+      "snippet": "Grateful for the chance to stop by Rep. Mano DeAyala's campaign event. Mano, your guidance during my time at the Texas House of ...",
+      "snippet_highlighted_words": [
+        "Texas House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Grateful for the chance to stop by Rep. Mano DeAyala's campaign event. Mano, your guidance during my time at the Texas House of ...",
+          "source_info_link": "https://www.linkedin.com/posts/elvis-a-lossa_actaccordingly-texasleadership-lonestarstate-activity-7156079864427515904-75rS",
+          "icon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbsx4PwSGWEVUHQWTVbxSnjS5RhVVCRpLHoAp7er9dWj7r.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/elvis-a-lossa_actaccordingly-texasleadership-lonestarstate-activity-7156079864427515904-75rS&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Felvis-a-lossa_actaccordingly-texasleadership-lonestarstate-activity-7156079864427515904-75rS",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "LinkedIn · Elvis A. Lossa"
+    },
+    {
+      "position": 6,
+      "title": "Elvis A. Lossa's Post",
+      "link": "https://www.linkedin.com/posts/elvis-a-lossa_leadership-growth-education-activity-7069823281020735488-nVQO",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/elvis-a-lossa_leadership-growth-education-activity-7069823281020735488-nVQO&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQFnoECDUQAQ",
+      "displayed_link": "40+ reactions · 2 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs9rI48mqbqp-Dy8CAnyx8Fs.png",
+      "snippet": "After reflecting on Memorial Day, I am still in thought of my journey so far… As the son of immigrants from the melting pot of NYC, ...",
+      "about_this_result": {
+        "source": {
+          "description": "After reflecting on Memorial Day, I am still in thought of my journey so far… As the son of immigrants from the melting pot of NYC, ...",
+          "source_info_link": "https://www.linkedin.com/posts/elvis-a-lossa_leadership-growth-education-activity-7069823281020735488-nVQO",
+          "icon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs-OU4-mkzmHV6Ho8L7QEMrtU8lQXt8PW0KDVstJ4Xjf-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/elvis-a-lossa_leadership-growth-education-activity-7069823281020735488-nVQO&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Felvis-a-lossa_leadership-growth-education-activity-7069823281020735488-nVQO",
+      "missing": [
+        "Arturo",
+        "TX-",
+        "31",
+        "Central"
+      ],
+      "source": "LinkedIn · Elvis A. Lossa"
+    },
+    {
+      "position": 7,
+      "title": "3 \"Elvis Lossa\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Elvis/Lossa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Elvis/Lossa&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQFnoECDQQAQ",
+      "displayed_link": "https://www.linkedin.com › pub › dir › Elvis › Lossa",
+      "favicon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs1h-dPuFzfcJ6NmkI1K8O-k.png",
+      "snippet": "View the profiles of professionals named \"Elvis Lossa\" on LinkedIn. There are 3 professionals named \"Elvis Lossa\", who use LinkedIn to exchange information, ...",
+      "snippet_highlighted_words": [
+        "Elvis Lossa",
+        "LinkedIn",
+        "Elvis Lossa",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Elvis Lossa\" on LinkedIn. There are 3 professionals named \"Elvis Lossa\", who use LinkedIn to exchange information, ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Elvis/Lossa",
+          "icon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs7X2a8hKpGL0hGiMDRsPjJMk0r6E9l5rq11SrmJN1Ynt.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Elvis/Lossa&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FElvis%2FLossa",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 8,
+      "title": "2026 War Room - The Texan",
+      "link": "https://thetexan.news/election-war-room/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thetexan.news/election-war-room/&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQFnoECDMQAQ",
+      "displayed_link": "https://thetexan.news › election-war-room",
+      "favicon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs1QeeUVb9AyS85myRx8A1VQ.png",
+      "snippet": "While his last re-election campaign in 2020 was smooth sailing, this year he has two high-profile Republican primary challengers in Texas Attorney General Ken ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "While his last re-election campaign in 2020 was smooth sailing, this year he has two high-profile Republican primary challengers in Texas Attorney General Ken ...",
+          "source_info_link": "https://thetexan.news/election-war-room/",
+          "icon": "https://serpapi.com/searches/69bb5e2597f1cc6ec23beecb/images/CfxkZAKkxz9QUmkQdWzbs_DYTAEbgwP0RoAkupVbQjxg_s7hA-hd9oW5AMP9oY7D.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thetexan.news/election-war-room/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthetexan.news%2Felection-war-room%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Elvis+Arturo+Lossa+US+House+TX-31+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQ5t4CegQIQRAB"
+      },
+      "source": "thetexan.news"
+    },
+    {
+      "position": 9,
+      "title": "https://cg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3...",
+      "link": "https://cg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3-us-gov-west-1.amazonaws.com/bulk-downloads/2026/Form1Filer_2026.csv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3-us-gov-west-1.amazonaws.com/bulk-downloads/2026/Form1Filer_2026.csv&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQFnoECDEQAQ",
+      "displayed_link": "https://cg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3-us-gov-west-1.amazonaws.com › ...",
+      "snippet": "... US SENATE 2026\",\"3400 VIRGINIA ST.\",\"PO 57009\",\"NORTH POLE\",\"AK\",\"99705 ... TX\",\"79843\",\"NONE\",\"O\",\"U\",\"Q\",\"\",\"BENSEN, CLARA\",\"12-MAR-26\",\"INFO ...",
+      "snippet_highlighted_words": [
+        "US",
+        "TX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... US SENATE 2026\",\"3400 VIRGINIA ST.\",\"PO 57009\",\"NORTH POLE\",\"AK\",\"99705 ... TX\",\"79843\",\"NONE\",\"O\",\"U\",\"Q\",\"\",\"BENSEN, CLARA\",\"12-MAR-26\",\"INFO ...",
+          "source_info_link": "https://cg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3-us-gov-west-1.amazonaws.com/bulk-downloads/2026/Form1Filer_2026.csv"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3-us-gov-west-1.amazonaws.com/bulk-downloads/2026/Form1Filer_2026.csv&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3-us-gov-west-1.amazonaws.com%2Fbulk-downloads%2F2026%2FForm1Filer_2026.csv",
+      "source": "Amazon Web Services"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=Ll67aY3JEI6e5NoPvNWsiAE&start=10&sa=N&sstk=Af77f_cRovcAJZAgVM_gb6m3H2JBQwBb6dG2Dx58llTuuXrejYjMjUG8Qrhcja-WzFGTNQF-bQzSDepStFN-95xf4c_0rFV7iCAEuw&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQ8NMDegQICRAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=Ll67aY3JEI6e5NoPvNWsiAE&start=10&sa=N&sstk=Af77f_cRovcAJZAgVM_gb6m3H2JBQwBb6dG2Dx58llTuuXrejYjMjUG8Qrhcja-WzFGTNQF-bQzSDepStFN-95xf4c_0rFV7iCAEuw&ved=2ahUKEwiNmNaO9KqTAxUOD1kFHbwqCxEQ8tMDegQICRAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+LinkedIn&start=10"
+    }
+  }
+}

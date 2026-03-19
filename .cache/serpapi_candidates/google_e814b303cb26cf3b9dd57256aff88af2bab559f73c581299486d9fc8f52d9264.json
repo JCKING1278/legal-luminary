@@ -1,0 +1,345 @@
+{
+  "search_metadata": {
+    "id": "69bb5e5d80f30eaf3ce7ec92",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/i8Oegz36FSXmIo_k8sOpYQ/69bb5e5d80f30eaf3ce7ec92.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/i8Oegz36FSXmIo_k8sOpYQ/69bb5e5d80f30eaf3ce7ec92.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:29 UTC",
+    "processed_at": "2026-03-19 02:24:29 UTC",
+    "google_url": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&oq=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/i8Oegz36FSXmIo_k8sOpYQ/69bb5e5d80f30eaf3ce7ec92.html",
+    "total_time_taken": 5.46
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Debbie Nash-King \"Killeen Mayor\" \"Killeen\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Debbie Nash-King \"Killeen Mayor\" \"Killeen\" Instagram",
+    "total_results": 150,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Killeen Mayor Debbie Nash-King was recently appointed ...",
+      "link": "https://www.instagram.com/p/CjYNxkjMv3e/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/CjYNxkjMv3e/&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQFnoECB4QAQ",
+      "displayed_link": "8 likes · 3 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlS6KuLP8v_55h3dr92Rl4NI.png",
+      "snippet": "Killeen Mayor Debbie Nash-King was recently appointed as the Vice Chair of the Veterans Affairs Task Force for the United States Conference of Mayors.",
+      "snippet_highlighted_words": [
+        "Killeen Mayor Debbie Nash",
+        "King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Mayor Debbie Nash-King was recently appointed as the Vice Chair of the Veterans Affairs Task Force for the United States Conference of Mayors.",
+          "source_info_link": "https://www.instagram.com/p/CjYNxkjMv3e/",
+          "icon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlQWdGAVlFmG2JbfL87j_NxtPxTYDt1mWuVsEBFag3yEL.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/CjYNxkjMv3e/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FCjYNxkjMv3e%2F",
+      "source": "Instagram · cityofkilleen"
+    },
+    {
+      "position": 2,
+      "title": "#CommunityMatters: Killeen Mayor Debbie Nash-King visited ...",
+      "link": "https://www.instagram.com/p/DGTPc5FOF3D/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DGTPc5FOF3D/&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQFnoECCMQAQ",
+      "displayed_link": "https://www.instagram.com › ...",
+      "favicon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlQdv-NBhxd69Q8tAByTOb0U.png",
+      "snippet": "#CommunityMatters: Killeen Mayor Debbie Nash-King visited some of her youngest constituents Wednesday, urging students at Trimmier Elementary School to work ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor Debbie Nash",
+        "King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "#CommunityMatters: Killeen Mayor Debbie Nash-King visited some of her youngest constituents Wednesday, urging students at Trimmier Elementary School to work ...",
+          "source_info_link": "https://www.instagram.com/p/DGTPc5FOF3D/",
+          "icon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlSAcDHxyIDbUiHOGE0r3AsvZB7zcjmYUUWIrF5HFTetx.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DGTPc5FOF3D/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDGTPc5FOF3D%2F",
+      "source": "Instagram"
+    },
+    {
+      "position": 3,
+      "title": "Mayor Debbie Nash-King City of Killeen, Texas - Government",
+      "link": "https://www.instagram.com/p/CzAOGJBs6da/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/CzAOGJBs6da/&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQFnoECB8QAQ",
+      "displayed_link": "https://www.instagram.com › ...",
+      "favicon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlVkm73iNLetb3yCJ5JNbar8.png",
+      "snippet": "Killeen Mayor refused to listen to citizens who arrived after 1 pm but before citizens comments were over. She really doesn't want to hear from anyone who ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Mayor refused to listen to citizens who arrived after 1 pm but before citizens comments were over. She really doesn't want to hear from anyone who ...",
+          "source_info_link": "https://www.instagram.com/p/CzAOGJBs6da/",
+          "icon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlamw_g0WB-6CxpVx0dvStGC_6jgWoniwJpYu8GrqQ0qh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/CzAOGJBs6da/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FCzAOGJBs6da%2F",
+      "source": "Instagram"
+    },
+    {
+      "position": 4,
+      "title": "Killeen Mayor Debbie Nash-King reads a certificate ...",
+      "link": "https://www.instagram.com/p/C6ZRI3xrVvB/?hl=es",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/C6ZRI3xrVvB/%3Fhl%3Des&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQFnoECB0QAQ",
+      "displayed_link": "2 likes · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDldc28zn5wVsykly2wfc9mPA.png",
+      "snippet": "Killeen Mayor Debbie Nash-King reads a certificate honoring Robert Gray to his extended family at the Bob Gray Day. Read more about the event in ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor Debbie Nash",
+        "King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Mayor Debbie Nash-King reads a certificate honoring Robert Gray to his extended family at the Bob Gray Day. Read more about the event in ...",
+          "source_info_link": "https://www.instagram.com/p/C6ZRI3xrVvB/?hl=es",
+          "icon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlXLbN9tLKtMS-5CbSxcCHdCXl6bfcw54ru_7akT2AMKB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/C6ZRI3xrVvB/?hl=es&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FC6ZRI3xrVvB%2F%3Fhl%3Des",
+      "source": "Instagram · cavazossentinel"
+    },
+    {
+      "position": 5,
+      "title": "Riakos Adams is Killeen's new mayor following Debbie Nash ...",
+      "link": "https://www.instagram.com/reel/DVIVxVDFatr/?hl=en",
+      "displayed_link": "20+ likes · 3 weeks ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlYb5EXkF3qwFqPI1BoPLKHE.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlcDcVEoocAWvqyVEkR19hgk.png",
+      "snippet": "Adams was previously the mayor pro ten. He will serve as mayor until May's local election when he will run against former Killeen mayor Jose ...",
+      "duration": "0:22",
+      "about_this_result": {
+        "source": {
+          "description": "Adams was previously the mayor pro ten. He will serve as mayor until May's local election when he will run against former Killeen mayor Jose ...",
+          "source_info_link": "https://www.instagram.com/reel/DVIVxVDFatr/?hl=en",
+          "icon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlYLEtrMFEalPXSqcb2OcnLh1EuNpXkEC_XJ1xiFg-VX2.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DVIVxVDFatr/?hl=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDVIVxVDFatr%2F%3Fhl%3Den",
+      "source": "Instagram · kcennews"
+    },
+    {
+      "position": 6,
+      "title": "3:00 PM 📍 WorkForce Central Texas – Temple ...",
+      "link": "https://www.instagram.com/p/DAEkqLwyX2-/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DAEkqLwyX2-/&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQFnoECCEQAQ",
+      "displayed_link": "6 likes · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDle7sBR_wZ_BDzE6j6LwkZ7Q.png",
+      "snippet": "6 likes, 0 comments - workforcectx on September 18, 2024: \" Proud moment for students in Killeen! Mayor Debbie Nash King and the City Council",
+      "snippet_highlighted_words": [
+        "Killeen! Mayor Debbie Nash King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "6 likes, 0 comments - workforcectx on September 18, 2024: \" Proud moment for students in Killeen! Mayor Debbie Nash King and the City Council",
+          "source_info_link": "https://www.instagram.com/p/DAEkqLwyX2-/",
+          "icon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlZ6SHZ_cPjrW2BswYvtD6dCPD3FJHmRtR77Xh_OJZTtv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DAEkqLwyX2-/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDAEkqLwyX2-%2F",
+      "source": "Instagram · workforcectx"
+    },
+    {
+      "position": 7,
+      "title": "Mayor Debbie Nash-King shares a special Black History ...",
+      "link": "https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi/1333794652117779/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi/1333794652117779/&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQFnoECCQQAQ",
+      "displayed_link": "120+ reactions · 4 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlVZ_hC0kMkJVXOnKekCm5C0.png",
+      "snippet": "Killeen Mayor's Involvement in Embezzlement Scandal. Profile photo of Killeen. Killeen Resident ▻ Killeen TX Citizen Expressions. 1y · Public ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor's",
+        "Killeen",
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Mayor's Involvement in Embezzlement Scandal. Profile photo of Killeen. Killeen Resident ▻ Killeen TX Citizen Expressions. 1y · Public ...",
+          "source_info_link": "https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi/1333794652117779/",
+          "icon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlRPjQb-Wx3mzY8ql_7Rg6sAasW8dDIyFD26EJkEJQ673.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi/1333794652117779/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKilleenTexas%2Fposts%2Fmayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi%2F1333794652117779%2F",
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 8,
+      "title": "Riakos Adams was sworn in during a 9 a.m. ceremony at ...",
+      "link": "https://www.instagram.com/reel/DVBzYV_jhTz/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DVBzYV_jhTz/%3Fhl%3Den&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQFnoECDkQAQ",
+      "displayed_link": "4 likes · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlalxMeDKyn7Dy08tFxgqFjg.png",
+      "snippet": "... Killeen, Mayor Riakos Adams. We also have our judge, our ... Riakos Adams is Killeen's new mayor following Debbie Nash-King's resignation.",
+      "snippet_highlighted_words": [
+        "Killeen, Mayor",
+        "Killeen's",
+        "Debbie Nash",
+        "King's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Killeen, Mayor Riakos Adams. We also have our judge, our ... Riakos Adams is Killeen's new mayor following Debbie Nash-King's resignation.",
+          "source_info_link": "https://www.instagram.com/reel/DVBzYV_jhTz/?hl=en",
+          "icon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlZHAjjjbK6b5j6Uv6BI-7RTHZksQsAiftpCY-0j1NyVA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DVBzYV_jhTz/?hl=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDVBzYV_jhTz%2F%3Fhl%3Den",
+      "source": "Instagram · kdhnews"
+    },
+    {
+      "position": 9,
+      "title": "Killeen mayor issues statement regarding 'decorum' at ...",
+      "link": "https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/killeen/killeen-mayor-issues-statement-regarding-decorum-at-recent-meeting",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/killeen/killeen-mayor-issues-statement-regarding-decorum-at-recent-meeting&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQFnoECDMQAQ",
+      "displayed_link": "https://www.kxxv.com › news › local-news › bell-county",
+      "favicon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlR70C2UDX8pAWHcvjjCO0Gg.png",
+      "snippet": "... Debbie Nash-King issues statement ... Killeen mayor issues statement regarding 'decorum' at recent meeting.",
+      "snippet_highlighted_words": [
+        "Debbie Nash",
+        "King",
+        "Killeen mayor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Debbie Nash-King issues statement ... Killeen mayor issues statement regarding 'decorum' at recent meeting.",
+          "source_info_link": "https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/killeen/killeen-mayor-issues-statement-regarding-decorum-at-recent-meeting",
+          "icon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlbrq5Pb_FRauU7g9zs6jWI_TFQ6Z99AYZL2FnMCu1R_V.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/killeen/killeen-mayor-issues-statement-regarding-decorum-at-recent-meeting&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.kxxv.com%2Fnews%2Flocal-news%2Fin-your-neighborhood%2Fbell-county%2Fkilleen%2Fkilleen-mayor-issues-statement-regarding-decorum-at-recent-meeting",
+      "source": "KXXV"
+    },
+    {
+      "position": 10,
+      "title": "Killeen Mayor to discuss successes and opportunities in ...",
+      "link": "https://www.killeentexas.gov/CivicAlerts.aspx?AID=2446",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.killeentexas.gov/CivicAlerts.aspx%3FAID%3D2446&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQFnoECDYQAQ",
+      "displayed_link": "https://www.killeentexas.gov › CivicAlerts",
+      "favicon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlXn3PmyVy5Dw82NOTO6lxVc.png",
+      "date": "Jan 3, 2025",
+      "snippet": "Killeen Mayor to discuss successes and opportunities in State of the City address ... KILLEEN, Texas (Jan. 3, 2025) – Mayor Debbie Nash-King will ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor",
+        "KILLEEN",
+        "Debbie Nash",
+        "King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Mayor to discuss successes and opportunities in State of the City address ... KILLEEN, Texas (Jan. 3, 2025) – Mayor Debbie Nash-King will ...",
+          "source_info_link": "https://www.killeentexas.gov/CivicAlerts.aspx?AID=2446",
+          "icon": "https://serpapi.com/searches/69bb5e5d80f30eaf3ce7ec92/images/GiRhbDhUqHIB_No8TvQDlXPI86lLqE6c9vx8mmcr7bXKd0-CaoRim0paikDTYq3X.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.killeentexas.gov/CivicAlerts.aspx?AID=2446&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.killeentexas.gov%2FCivicAlerts.aspx%3FAID%3D2446",
+      "source": "City of Killeen, TX (.gov)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=Yl67aZbTK7fLi-gPrabhwAU&start=10&sa=N&sstk=Af77f_fYIVHg_lbtlVSzTcnW48VRq-glz64wbZ1bsf2BhLfsc2j8xbCFj9yGpcJSBr_WSoXO-XQNUTBH8QS1Eh4D76tNddO6rU6-FQ&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQ8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=Yl67aZbTK7fLi-gPrabhwAU&start=10&sa=N&sstk=Af77f_fYIVHg_lbtlVSzTcnW48VRq-glz64wbZ1bsf2BhLfsc2j8xbCFj9yGpcJSBr_WSoXO-XQNUTBH8QS1Eh4D76tNddO6rU6-FQ&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=Yl67aZbTK7fLi-gPrabhwAU&start=20&sa=N&sstk=Af77f_fYIVHg_lbtlVSzTcnW48VRq-glz64wbZ1bsf2BhLfsc2j8xbCFj9yGpcJSBr_WSoXO-XQNUTBH8QS1Eh4D76tNddO6rU6-FQ&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=Yl67aZbTK7fLi-gPrabhwAU&start=30&sa=N&sstk=Af77f_fYIVHg_lbtlVSzTcnW48VRq-glz64wbZ1bsf2BhLfsc2j8xbCFj9yGpcJSBr_WSoXO-XQNUTBH8QS1Eh4D76tNddO6rU6-FQ&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=Yl67aZbTK7fLi-gPrabhwAU&start=40&sa=N&sstk=Af77f_fYIVHg_lbtlVSzTcnW48VRq-glz64wbZ1bsf2BhLfsc2j8xbCFj9yGpcJSBr_WSoXO-XQNUTBH8QS1Eh4D76tNddO6rU6-FQ&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQ8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=Yl67aZbTK7fLi-gPrabhwAU&start=50&sa=N&sstk=Af77f_fYIVHg_lbtlVSzTcnW48VRq-glz64wbZ1bsf2BhLfsc2j8xbCFj9yGpcJSBr_WSoXO-XQNUTBH8QS1Eh4D76tNddO6rU6-FQ&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQ8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=Yl67aZbTK7fLi-gPrabhwAU&start=60&sa=N&sstk=Af77f_fYIVHg_lbtlVSzTcnW48VRq-glz64wbZ1bsf2BhLfsc2j8xbCFj9yGpcJSBr_WSoXO-XQNUTBH8QS1Eh4D76tNddO6rU6-FQ&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQ8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=Yl67aZbTK7fLi-gPrabhwAU&start=70&sa=N&sstk=Af77f_fYIVHg_lbtlVSzTcnW48VRq-glz64wbZ1bsf2BhLfsc2j8xbCFj9yGpcJSBr_WSoXO-XQNUTBH8QS1Eh4D76tNddO6rU6-FQ&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQ8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=Yl67aZbTK7fLi-gPrabhwAU&start=80&sa=N&sstk=Af77f_fYIVHg_lbtlVSzTcnW48VRq-glz64wbZ1bsf2BhLfsc2j8xbCFj9yGpcJSBr_WSoXO-XQNUTBH8QS1Eh4D76tNddO6rU6-FQ&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQ8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=Yl67aZbTK7fLi-gPrabhwAU&start=90&sa=N&sstk=Af77f_fYIVHg_lbtlVSzTcnW48VRq-glz64wbZ1bsf2BhLfsc2j8xbCFj9yGpcJSBr_WSoXO-XQNUTBH8QS1Eh4D76tNddO6rU6-FQ&ved=2ahUKEwiWjNen9KqTAxW35QIHHS1TGFgQ8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Instagram&start=90"
+    }
+  }
+}

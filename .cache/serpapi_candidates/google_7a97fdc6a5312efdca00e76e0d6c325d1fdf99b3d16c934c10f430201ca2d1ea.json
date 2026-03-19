@@ -1,0 +1,377 @@
+{
+  "search_metadata": {
+    "id": "69bb5d1512481541d4b855c7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/L9k15wfkDn-irXd_efMV0w/69bb5d1512481541d4b855c7.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/L9k15wfkDn-irXd_efMV0w/69bb5d1512481541d4b855c7.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:01 UTC",
+    "processed_at": "2026-03-19 02:19:01 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/L9k15wfkDn-irXd_efMV0w/69bb5d1512481541d4b855c7.html",
+    "total_time_taken": 3.51
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Brian Trautner for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Brian Trautner for US House TX-31? Include who that supporter works for.",
+    "total_results": 42200,
+    "time_taken_displayed": 0.77,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "K6_As3icxZTdkqo4EIDv9z3WG84IqDPIVFGnkoBHRnFk1FHnxkJ-gqhECYp6d95ln2qfZgP-oY6ze7Zqa7soSLo7ndD9pX_-MZuE0z9_a_hxvKDPPJ8kSRETgmdu0SZz3qLb0OY9MqOR7X_frpVywaaKUHAnSk0sSZY9nhu6tH5skTYZl9AECIVsiTIaW9QNWMRNQPkRz17T38sqmxRp0Q2LU1mC-mje6myNYkkQ5eIrb82ZA_iPRANv7A11NmCCL40oU2n3V5taZn3JqfYhYE4z3Csx1oCZzmufH0TLVnYQW9uG64fEsPYG_XbXCx0cZtvW0n0AwjBzuJbbIOcjNg5BP5VrtX5aqZ6TBcFd0fWjFZoAIVBP0Nl4CIEPm1RAE6FTOMjMqA3LSCf3w7OV77iu-Q8m-KpOzEt_ayXOkFWCdzDjSeDHEfuI_MT27WwQ0RQz1JUFUre8jhwF8mg3lCrV1-b4LZG37g-irQPA22PmNyOW4zojfyR8y4C26Ylomid6FejA2cBtu2UXm0Uo5nBOM4nRxSHTwt6pwyeC7pv2JSVAS-E-Ud1OB7B3dKoCiAHSzsXTDjFvcc5Ev1BivLehdIqvXNNY08PoGN_Om-HpD9gZWKXPeyR5N5RHS9d1Ld1tuI-A825sDtkVSkeN7JrV82GAnssVTK8ty7N5_qf0rR7Pm6YhDa4BrLrISN0QywhKndIJRFlSoaldgw_xeW4AVEF7nH9d4N3reBQTHPm9wjGP8Q9VHImSEGy6nm7NV9VNc2d6jV2wrtXwAVsyH_9CJ7b_P7APfbqR3XKCb8HGX4FtauiLPn0A-9yns4aEap-DrWWg5Pq0uzfo54AHsE2o58De3O3TObD1vwV7cJGWE9jmJ2DDa7DhfbDTPn0CGyF41aez38rSkgP7X_Vp85_36Yxvd_-5bNqrAN9t3trGR1JdrpD6o-EMqiChg3Zt90oW0QDfNm9vHj9bzuzbaOI8w9JLvHUKS6XvE25Cudh3uZkVYZfGnENCEnHs8SahFdoTa8bR1WJBothlao-D0cQKuW5kreKQaTzm2etwdbKiLtcdPJTF75we2rOV43IJix77VpwLkJBoStNFxcJ8FhFFsJ5MYZkY6rq_6C6WciWU3mto8V5rSovuUtrpyVKAoBn7dPTR7TxqTuiry8AYv3Sf0M7tL3t9r26WpL4m914JfmqU7UG_q0VvnkV7736bvLZgCIKgAY2Gq3YbouFUpt7Hk2HTOlEblAgfatCsRW_ZaaiydKbq0It7Q3VamEe2wopfwaBlgj5O23qB2tbIpWvFLtmW7EqiXBXKsuuVC3McbxdKRSzQMFLEvwCeLvda",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=K6_As3icxZTdkqo4EIDv9z3WG84IqDPIVFGnkoBHRnFk1FHnxkJ-gqhECYp6d95ln2qfZgP-oY6ze7Zqa7soSLo7ndD9pX_-MZuE0z9_a_hxvKDPPJ8kSRETgmdu0SZz3qLb0OY9MqOR7X_frpVywaaKUHAnSk0sSZY9nhu6tH5skTYZl9AECIVsiTIaW9QNWMRNQPkRz17T38sqmxRp0Q2LU1mC-mje6myNYkkQ5eIrb82ZA_iPRANv7A11NmCCL40oU2n3V5taZn3JqfYhYE4z3Csx1oCZzmufH0TLVnYQW9uG64fEsPYG_XbXCx0cZtvW0n0AwjBzuJbbIOcjNg5BP5VrtX5aqZ6TBcFd0fWjFZoAIVBP0Nl4CIEPm1RAE6FTOMjMqA3LSCf3w7OV77iu-Q8m-KpOzEt_ayXOkFWCdzDjSeDHEfuI_MT27WwQ0RQz1JUFUre8jhwF8mg3lCrV1-b4LZG37g-irQPA22PmNyOW4zojfyR8y4C26Ylomid6FejA2cBtu2UXm0Uo5nBOM4nRxSHTwt6pwyeC7pv2JSVAS-E-Ud1OB7B3dKoCiAHSzsXTDjFvcc5Ev1BivLehdIqvXNNY08PoGN_Om-HpD9gZWKXPeyR5N5RHS9d1Ld1tuI-A825sDtkVSkeN7JrV82GAnssVTK8ty7N5_qf0rR7Pm6YhDa4BrLrISN0QywhKndIJRFlSoaldgw_xeW4AVEF7nH9d4N3reBQTHPm9wjGP8Q9VHImSEGy6nm7NV9VNc2d6jV2wrtXwAVsyH_9CJ7b_P7APfbqR3XKCb8HGX4FtauiLPn0A-9yns4aEap-DrWWg5Pq0uzfo54AHsE2o58De3O3TObD1vwV7cJGWE9jmJ2DDa7DhfbDTPn0CGyF41aez38rSkgP7X_Vp85_36Yxvd_-5bNqrAN9t3trGR1JdrpD6o-EMqiChg3Zt90oW0QDfNm9vHj9bzuzbaOI8w9JLvHUKS6XvE25Cudh3uZkVYZfGnENCEnHs8SahFdoTa8bR1WJBothlao-D0cQKuW5kreKQaTzm2etwdbKiLtcdPJTF75we2rOV43IJix77VpwLkJBoStNFxcJ8FhFFsJ5MYZkY6rq_6C6WciWU3mto8V5rSovuUtrpyVKAoBn7dPTR7TxqTuiry8AYv3Sf0M7tL3t9r26WpL4m914JfmqU7UG_q0VvnkV7736bvLZgCIKgAY2Gq3YbouFUpt7Hk2HTOlEblAgfatCsRW_ZaaiydKbq0It7Q3VamEe2wopfwaBlgj5O23qB2tbIpWvFLtmW7EqiXBXKsuuVC3McbxdKRSzQMFLEvwCeLvda"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Organizations Disclosing Donations to Red Senate PAC ...",
+      "link": "https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00747121&tab=donors_all",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/outside-spending/detail/2024%3Fcmte%3DC00747121%26tab%3Ddonors_all&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQFnoECB0QAQ",
+      "displayed_link": "https://www.opensecrets.org › outside-spending › detail",
+      "favicon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TFytsa3T0uRs9EpKH_kWTBX8.png",
+      "snippet": "Contributor, Occupation, Date, Amount, Recipient. BIANCONI, DAVID WESTERVILLE, OH, Retired, 10/18/24, $25,000, Red Senate PAC. COX, BOBBY",
+      "snippet_highlighted_words": [
+        "Contributor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Contributor, Occupation, Date, Amount, Recipient. BIANCONI, DAVID WESTERVILLE, OH, Retired, 10/18/24, $25,000, Red Senate PAC. COX, BOBBY",
+          "source_info_link": "https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00747121&tab=donors_all",
+          "icon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF0zVUFadrwdXxnQovLWXgMWe6RPk6qDju1snnwrd2KWC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00747121&tab=donors_all&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Foutside-spending%2Fdetail%2F2024%3Fcmte%3DC00747121%26tab%3Ddonors_all",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ5t4CegQIIBAB"
+      },
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 2,
+      "title": "Billionaire Tom Steyer is now the biggest donor supporting ...",
+      "link": "https://www.facebook.com/latimes/posts/billionaire-tom-steyer-is-now-the-biggest-donor-supporting-proposition-50-the-no/1341543188012550/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/latimes/posts/billionaire-tom-steyer-is-now-the-biggest-donor-supporting-proposition-50-the-no/1341543188012550/&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQFnoECCMQAQ",
+      "displayed_link": "7.5K+ reactions · 5 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TFwAe5DsLKD9v85XNHxrK5F0.png",
+      "snippet": "Billionaire Tom Steyer is now the biggest donor supporting Proposition 50, the November ballot measure that would redraw California's ...",
+      "snippet_highlighted_words": [
+        "biggest donor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Billionaire Tom Steyer is now the biggest donor supporting Proposition 50, the November ballot measure that would redraw California's ...",
+          "source_info_link": "https://www.facebook.com/latimes/posts/billionaire-tom-steyer-is-now-the-biggest-donor-supporting-proposition-50-the-no/1341543188012550/",
+          "icon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF-laUUHoGGKy4CGU41HBeFdNWRJKGrW6sdRiOxax8EQ2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/latimes/posts/billionaire-tom-steyer-is-now-the-biggest-donor-supporting-proposition-50-the-no/1341543188012550/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Flatimes%2Fposts%2Fbillionaire-tom-steyer-is-now-the-biggest-donor-supporting-proposition-50-the-no%2F1341543188012550%2F",
+      "source": "Facebook · Los Angeles Times"
+    },
+    {
+      "position": 3,
+      "title": "Diminished single-stimulus response in vmPFC to favorite ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0301051118307245",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S0301051118307245&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQFnoECCoQAQ",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF-2HGtMgPFNwaJ0yXdnZaf4.png",
+      "author": "by KT Kishida",
+      "snippet": "From an early age, individuals with autism spectrum disorder (ASD) spend less time engaged in social interaction compared to typically developing peers (TD) ...",
+      "about_this_result": {
+        "source": {
+          "description": "From an early age, individuals with autism spectrum disorder (ASD) spend less time engaged in social interaction compared to typically developing peers (TD) ...",
+          "source_info_link": "https://www.sciencedirect.com/science/article/pii/S0301051118307245",
+          "icon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF-CK_MXnm0P2KBA54DtZB9npP1lx2qVnukWyOEvqrywX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sciencedirect.com/science/article/pii/S0301051118307245&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0301051118307245",
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 4,
+      "title": "National Urogynecology Research Agenda 2023",
+      "link": "https://www.augs.org/wp-content/uploads/2025/04/AUGS_Research_Agenda.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.augs.org/wp-content/uploads/2025/04/AUGS_Research_Agenda.pdf&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQFnoECBwQAQ",
+      "displayed_link": "https://www.augs.org › uploads › 2025/04 › AU...",
+      "favicon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF3c7r2iphok__V4nNiRF2B8.png",
+      "snippet": "pelvic floor disorders, including such conditions as urinary incontinence, accidental bowel leakage, and pelvic organ prolapse, have a large financial impact on.",
+      "snippet_highlighted_words": [
+        "including",
+        "have",
+        "large financial"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 43
+          },
+          "extensions": [
+            "43 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "pelvic floor disorders, including such conditions as urinary incontinence, accidental bowel leakage, and pelvic organ prolapse, have a large financial impact on.",
+          "source_info_link": "https://www.augs.org/wp-content/uploads/2025/04/AUGS_Research_Agenda.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF8CosPIQbJ57Py7RCIipPzvTx9JfxqVVmJ4FeNpU1u0Y.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.augs.org/wp-content/uploads/2025/04/AUGS_Research_Agenda.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.augs.org%2Fwp-content%2Fuploads%2F2025%2F04%2FAUGS_Research_Agenda.pdf",
+      "source": "AUGS"
+    },
+    {
+      "position": 5,
+      "title": "Evaluation of the Feasibility and Efficacy of Point-of-Care ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11911911/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC11911911/&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQFnoECCUQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC11911911",
+      "favicon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF1qaH3C8SFIyeibgEk40P60.png",
+      "author": "by C Reilly",
+      "snippet": "Biomarker-guided therapy could improve management of inpatients with coronavirus disease 2019 (COVID-19). Although some results indicate ...",
+      "about_this_result": {
+        "source": {
+          "description": "Biomarker-guided therapy could improve management of inpatients with coronavirus disease 2019 (COVID-19). Although some results indicate ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11911911/",
+          "icon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF-4egCTpApqvB0cR-ir5cJXXgSGBVlsPF4HbFTec1P1P.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pmc.ncbi.nlm.nih.gov/articles/PMC11911911/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC11911911%2F",
+      "source": "National Institutes of Health (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Texas' 31st Congressional District election, 2026",
+      "link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Texas%2527_31st_Congressional_District_election,_2026&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQFnoECDMQAQ",
+      "displayed_link": "https://ballotpedia.org › ...",
+      "favicon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF6FZgyL4Abi9LKublzKMsgg.png",
+      "snippet": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+      "snippet_highlighted_words": [
+        "U.S. House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+          "source_info_link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026",
+          "icon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF48tAph0eWElXnV83mVB-xbY1Wx7bs38uGXuPTxdzldN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FTexas%2527_31st_Congressional_District_election%2C_2026",
+      "missing": [
+        "largest",
+        "donor"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 7,
+      "title": "Subnational Environmental Policy: Trends and Issues",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-091523-030314?TRACK=RSS",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.annualreviews.org/content/journals/10.1146/annurev-soc-091523-030314%3FTRACK%3DRSS&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQFnoECD8QAQ",
+      "displayed_link": "https://www.annualreviews.org › content › journals › an...",
+      "favicon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF8z-YIX7JnX77khXRLGgLB8.png",
+      "author": "by IB Vasi",
+      "snippet": "Policies relevant to many key sociological processes are often subnational, enacted at the regional, state/provincial, and/or local levels.",
+      "about_this_result": {
+        "source": {
+          "description": "Policies relevant to many key sociological processes are often subnational, enacted at the regional, state/provincial, and/or local levels.",
+          "source_info_link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-091523-030314?TRACK=RSS",
+          "icon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF-4-FTZbRIh1KoFhYEmLr5ZMeGuK7znGk7_VIxy20qLe.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.annualreviews.org/content/journals/10.1146/annurev-soc-091523-030314?TRACK=RSS&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.annualreviews.org%2Fcontent%2Fjournals%2F10.1146%2Fannurev-soc-091523-030314%3FTRACK%3DRSS",
+      "source": "Annual Reviews"
+    },
+    {
+      "position": 8,
+      "title": "Diabetes Atlas",
+      "link": "https://diabetesatlas.org/media/uploads/sites/3/2025/02/IDF-Atlas-2nd-Edition.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://diabetesatlas.org/media/uploads/sites/3/2025/02/IDF-Atlas-2nd-Edition.pdf&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQFnoECDoQAQ",
+      "displayed_link": "https://diabetesatlas.org › uploads › sites › 2025/02",
+      "favicon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF7Qgt6QUV7-wABCUoMWkETM.png",
+      "author": "by D Atlas",
+      "snippet": "IDF would like to thank Novartis Pharma AG for its generous support in making possible the report on impaired glucose tolerance in. Chapter 1. IDF would also ...",
+      "snippet_highlighted_words": [
+        "support"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 297
+          },
+          "extensions": [
+            "297 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "IDF would like to thank Novartis Pharma AG for its generous support in making possible the report on impaired glucose tolerance in. Chapter 1. IDF would also ...",
+          "source_info_link": "https://diabetesatlas.org/media/uploads/sites/3/2025/02/IDF-Atlas-2nd-Edition.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF3moHu6liThQXf5b2XUwiFDPsUp-jGGCoyt3wgI0yDJJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://diabetesatlas.org/media/uploads/sites/3/2025/02/IDF-Atlas-2nd-Edition.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdiabetesatlas.org%2Fmedia%2Fuploads%2Fsites%2F3%2F2025%2F02%2FIDF-Atlas-2nd-Edition.pdf",
+      "source": "Diabetes Atlas"
+    },
+    {
+      "position": 9,
+      "title": "Abstract - Journal of Hospital Medicine - Wiley Online Library",
+      "link": "https://shmpublications.onlinelibrary.wiley.com/doi/10.1002/jhm.13090",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shmpublications.onlinelibrary.wiley.com/doi/10.1002/jhm.13090&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQFnoECDIQAQ",
+      "displayed_link": "https://shmpublications.onlinelibrary.wiley.com › jhm",
+      "favicon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TF8fsO0NMX6F7V_9YisNvNhg.png",
+      "date": "Apr 7, 2023",
+      "snippet": "We aim to develop an evidence-based approach to building hospitalist staffing models that incorporates clinician data (objective and subjective ...",
+      "about_this_result": {
+        "source": {
+          "description": "We aim to develop an evidence-based approach to building hospitalist staffing models that incorporates clinician data (objective and subjective ...",
+          "source_info_link": "https://shmpublications.onlinelibrary.wiley.com/doi/10.1002/jhm.13090",
+          "icon": "https://serpapi.com/searches/69bb5d1512481541d4b855c7/images/iaB1LbYRZwlsyeqSnl-TFyUkbvIxCzUmfU1hBLUex3OYVSB0LgNDboHpNaL88wOB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://shmpublications.onlinelibrary.wiley.com/doi/10.1002/jhm.13090&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fshmpublications.onlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fjhm.13090",
+      "source": "Wiley"
+    },
+    {
+      "position": 10,
+      "title": "an oral history of neuropsychopharmacology - the first fifty years",
+      "link": "https://acnp.org/wp-content/uploads/2017/10/Volume10.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://acnp.org/wp-content/uploads/2017/10/Volume10.pdf&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQFnoECD0QAQ",
+      "displayed_link": "https://acnp.org › uploads › 2017/10 › Volume10",
+      "snippet": "Brodie, Chief, Chemical Pharmacology Laboratory, US National. Institutes of Health; Herman C. B. Denber, Director of Psychiatric Research,. Manhattan State ...",
+      "snippet_highlighted_words": [
+        "US"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 432
+          },
+          "extensions": [
+            "432 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Brodie, Chief, Chemical Pharmacology Laboratory, US National. Institutes of Health; Herman C. B. Denber, Director of Psychiatric Research,. Manhattan State ...",
+          "source_info_link": "https://acnp.org/wp-content/uploads/2017/10/Volume10.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://acnp.org/wp-content/uploads/2017/10/Volume10.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Facnp.org%2Fwp-content%2Fuploads%2F2017%2F10%2FVolume10.pdf",
+      "source": "acnp.org"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=F127acbmMI7v5NoPob2CiA0&start=10&sa=N&sstk=Af77f_d9tcDc55t3LHLzMn69jhmxAY4F_YQatwDlrJh954cy9u2F1inuYtvQQKCMl3zup8KE8nhJpW8Xer2KPBfptREk_VbCXWDzzg&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ8NMDegQIDRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=F127acbmMI7v5NoPob2CiA0&start=10&sa=N&sstk=Af77f_d9tcDc55t3LHLzMn69jhmxAY4F_YQatwDlrJh954cy9u2F1inuYtvQQKCMl3zup8KE8nhJpW8Xer2KPBfptREk_VbCXWDzzg&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=F127acbmMI7v5NoPob2CiA0&start=20&sa=N&sstk=Af77f_d9tcDc55t3LHLzMn69jhmxAY4F_YQatwDlrJh954cy9u2F1inuYtvQQKCMl3zup8KE8nhJpW8Xer2KPBfptREk_VbCXWDzzg&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=F127acbmMI7v5NoPob2CiA0&start=30&sa=N&sstk=Af77f_d9tcDc55t3LHLzMn69jhmxAY4F_YQatwDlrJh954cy9u2F1inuYtvQQKCMl3zup8KE8nhJpW8Xer2KPBfptREk_VbCXWDzzg&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=F127acbmMI7v5NoPob2CiA0&start=40&sa=N&sstk=Af77f_d9tcDc55t3LHLzMn69jhmxAY4F_YQatwDlrJh954cy9u2F1inuYtvQQKCMl3zup8KE8nhJpW8Xer2KPBfptREk_VbCXWDzzg&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=F127acbmMI7v5NoPob2CiA0&start=50&sa=N&sstk=Af77f_d9tcDc55t3LHLzMn69jhmxAY4F_YQatwDlrJh954cy9u2F1inuYtvQQKCMl3zup8KE8nhJpW8Xer2KPBfptREk_VbCXWDzzg&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=F127acbmMI7v5NoPob2CiA0&start=60&sa=N&sstk=Af77f_d9tcDc55t3LHLzMn69jhmxAY4F_YQatwDlrJh954cy9u2F1inuYtvQQKCMl3zup8KE8nhJpW8Xer2KPBfptREk_VbCXWDzzg&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=F127acbmMI7v5NoPob2CiA0&start=70&sa=N&sstk=Af77f_d9tcDc55t3LHLzMn69jhmxAY4F_YQatwDlrJh954cy9u2F1inuYtvQQKCMl3zup8KE8nhJpW8Xer2KPBfptREk_VbCXWDzzg&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=F127acbmMI7v5NoPob2CiA0&start=80&sa=N&sstk=Af77f_d9tcDc55t3LHLzMn69jhmxAY4F_YQatwDlrJh954cy9u2F1inuYtvQQKCMl3zup8KE8nhJpW8Xer2KPBfptREk_VbCXWDzzg&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ8tMDegQIDRAS",
+      "10": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=F127acbmMI7v5NoPob2CiA0&start=90&sa=N&sstk=Af77f_d9tcDc55t3LHLzMn69jhmxAY4F_YQatwDlrJh954cy9u2F1inuYtvQQKCMl3zup8KE8nhJpW8Xer2KPBfptREk_VbCXWDzzg&ved=2ahUKEwiGzvGJ86qTAxWON1kFHaGeANEQ8tMDegQIDRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Brian+Trautner+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=90"
+    }
+  }
+}

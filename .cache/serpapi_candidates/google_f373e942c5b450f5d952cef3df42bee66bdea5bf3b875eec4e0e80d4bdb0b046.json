@@ -1,0 +1,89 @@
+{
+  "search_metadata": {
+    "id": "69bb5e492328e1473452c541",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/WuLPAUB3nQeQcAebczI9Xw/69bb5e492328e1473452c541.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/WuLPAUB3nQeQcAebczI9Xw/69bb5e492328e1473452c541.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:09 UTC",
+    "processed_at": "2026-03-19 02:24:09 UTC",
+    "google_url": "https://www.google.com/search?q=Stuart+Norman+Whitlow+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Stuart+Norman+Whitlow+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/WuLPAUB3nQeQcAebczI9Xw/69bb5e492328e1473452c541.html",
+    "total_time_taken": 3.75
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Stuart Norman Whitlow \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Stuart Norman Whitlow \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 1,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Panama City Bar&Grill drink specials happening NOW!! Food ...",
+      "link": "https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/&ved=2ahUKEwiD06id9KqTAxXYl-4BHX2vCWEQFnoECBgQAQ",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/searches/69bb5e492328e1473452c541/images/diFWx1y4toAO4qI9sKxVL6V01CTj5tDiGOWNlK2qVuk.png",
+      "snippet": "... U.S. House (TX-31) https://www.votejustinearly.com/ • Stuart Whitlow ... facebook ... Merle Norman Cosmetics, Waco ▻ Central Texas Events and Happenings. 1d · ...",
+      "snippet_highlighted_words": [
+        "U.S. House (TX-31",
+        "Stuart Whitlow",
+        "facebook",
+        "Norman",
+        "Central Texas"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "The Temple Gun Show Is...",
+            "link": "https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/#:~:text=The%20Temple%20Gun%20Show%20is%20taking%20place%20today%20and%20tomorrow%20at%20the%20Frank%20W.%20Mayborn%20Civic%20%26%20Convention%20Center%2C%20featuring%20multiple%20local%20vendors."
+          },
+          {
+            "title": "Tonight!! Ticket Link: Https...",
+            "link": "https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/#:~:text=Tonight%21%21%20Ticket%20link%3A%20https%3A%2F%2Fgeoji.com%2Fg%2FStand%2DUp%2Dat%20%2DHanovers%2D10194"
+          },
+          {
+            "title": "8810 Woodway Dr, Ste 302...",
+            "link": "https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/#:~:text=8810%20Woodway%20Dr%2C%20Ste%20302%20Crossroads%20West%20Shopping%20Center%20Waco%2C%20Tx%2076712%20254%2D772%2D5364%20Hours%3A%20Mon%2DFri%2010%2D5%20Sat%2010%2D4%20Sun%20%2D%20closed"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... U.S. House (TX-31) https://www.votejustinearly.com/ • Stuart Whitlow ... facebook ... Merle Norman Cosmetics, Waco ▻ Central Texas Events and Happenings. 1d · ...",
+          "source_info_link": "https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/",
+          "icon": "https://serpapi.com/searches/69bb5e492328e1473452c541/images/diFWx1y4toAO4qI9sKxVL-8PTuPTWxRlIl2QLnw6yoWfgAU-rK4-acYCxy79x6VP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1627499834129884%2Fposts%2F4350125031867337%2F",
+      "source": "Facebook"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 1 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Stuart+Norman+Whitlow+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

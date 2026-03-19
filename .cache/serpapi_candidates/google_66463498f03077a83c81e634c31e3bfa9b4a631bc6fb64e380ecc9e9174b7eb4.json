@@ -1,0 +1,369 @@
+{
+  "search_metadata": {
+    "id": "69bb5d0b2efef8fa58703795",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/g3C8_puX73LuYE0xTom9Pg/69bb5d0b2efef8fa58703795.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/g3C8_puX73LuYE0xTom9Pg/69bb5d0b2efef8fa58703795.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:51 UTC",
+    "processed_at": "2026-03-19 02:18:51 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/g3C8_puX73LuYE0xTom9Pg/69bb5d0b2efef8fa58703795.html",
+    "total_time_taken": 5.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Jack McConnell for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Jack McConnell for US House TX-31? Include who that supporter works for.",
+    "total_results": 242000,
+    "time_taken_displayed": 0.8,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "ozRBx3icxZTdkqI4FMfv9z3GG0YBtVvtKmoqCdjStih-9DTeWIghoHwoQdG-23fZp9qn2YBfaGvXzFZt7SkLkpOTk5PDz_-ff3lusPj7j7YTx0v6xPNJkpRIGBIPl6zQ5026CyzeDj0aWc6P3UaqFCwqCQXsSkgs18xp7efLcrcUekpvZ2_mRV0vZFukydSkeM4ybueUn_DssfhWkdmkREs4KHV3djWsGPOGAkplQWyUurzpswDwH5kC-uwJVTZgRi4XUeZS7u_WlWz1Jefap4A5j7F3EqIAPZ03bxeiZDsHiO3twU0x6Zj3TlUvS6JZJYh00nN14N7MfsN3vGxzf9Hbpn86-3g5-dwsCO6aqh5XWWkIgVaSO-uQghwOqYJXhE7pIFtGPVhBang_Pdv5RlqKU9Rv3_Fkb2pfS2YGuzQ_I4wngZ9G7CXyruVY2SCiKWZo2BDClmYG5kMkL42k1q4ZTXU0DLp4MrTiEeGtKYvzQnOGZxNnInzPgLboiWiaJ7pOmsNWqOzwjpReS1DM4Zx2klw2XmfO64bft_sfDbSzZwiUFO7Th-6lAzg6BtUBJAAp54-nHHJ-xjkz9cJJyH4NpVNyFZrmWhxGx_zWRYXktJQAlcDzNiMfBfNZFUVBzKF39tPkIkxlBaFs1ERppfJlNfAiWFdYn_XzndKnvDgFg7Qx7EVkjDppGGIdQWlQOoEoayrUlWvw4fkeoANQFe1x_n2Dn_93V6aDI79XOOYxVrRV3fYqQX9cK4rGuFiUH5EdO9ogXoEDtqE__Q0ltv4_sA863c7-5SH5DDb5CmxdQV_o9AHss05ngoSat8FWMlByOo0vCs2BraqLPNh3dToHdlrlF2C374Kt3wAbXoMN74Od6vQJbITglU5nx2RtyYH9r3Ra_3WdzvjG-9elaK_n5K54PxsBwYZdXdjPfUjHw97r4LXsaL73Ht8Qb9uPn8yZ933izp5g-SXezQor6acTci7lYgdznhkRTGNuFgZhxLGf7QZmYLmmx9H1chlGMWZum3sxrQXXsVAYBNjzOJtFjgZcK1xTzA3fixXxB6cGlreeYS5h2WPHjHMJkjBa0HRTqeB7USgJ5qPbFh7VESmu4Hxb68qg0rU0L8auMdgK448V0oaa-6bRUPYbbVuPxd7LcDSWt2W5SYx-35-uQGe5fXxwpkKw9ZTVR8deTaZRF643zedmpeqPLZvUPyDW33u4FdcetQlSuy0x2MT9h3V_va4N2pGeVUOl905nt6h5z32bFPzIkpjCVhdA08EzSWW9QC1zgulGssqW2cA1sVEXKg1sVwo-iXdLqSoWaBBJ4j9Igfg2",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ozRBx3icxZTdkqI4FMfv9z3GG0YBtVvtKmoqCdjStih-9DTeWIghoHwoQdG-23fZp9qn2YBfaGvXzFZt7SkLkpOTk5PDz_-ff3lusPj7j7YTx0v6xPNJkpRIGBIPl6zQ5026CyzeDj0aWc6P3UaqFCwqCQXsSkgs18xp7efLcrcUekpvZ2_mRV0vZFukydSkeM4ybueUn_DssfhWkdmkREs4KHV3djWsGPOGAkplQWyUurzpswDwH5kC-uwJVTZgRi4XUeZS7u_WlWz1Jefap4A5j7F3EqIAPZ03bxeiZDsHiO3twU0x6Zj3TlUvS6JZJYh00nN14N7MfsN3vGxzf9Hbpn86-3g5-dwsCO6aqh5XWWkIgVaSO-uQghwOqYJXhE7pIFtGPVhBang_Pdv5RlqKU9Rv3_Fkb2pfS2YGuzQ_I4wngZ9G7CXyruVY2SCiKWZo2BDClmYG5kMkL42k1q4ZTXU0DLp4MrTiEeGtKYvzQnOGZxNnInzPgLboiWiaJ7pOmsNWqOzwjpReS1DM4Zx2klw2XmfO64bft_sfDbSzZwiUFO7Th-6lAzg6BtUBJAAp54-nHHJ-xjkz9cJJyH4NpVNyFZrmWhxGx_zWRYXktJQAlcDzNiMfBfNZFUVBzKF39tPkIkxlBaFs1ERppfJlNfAiWFdYn_XzndKnvDgFg7Qx7EVkjDppGGIdQWlQOoEoayrUlWvw4fkeoANQFe1x_n2Dn_93V6aDI79XOOYxVrRV3fYqQX9cK4rGuFiUH5EdO9ogXoEDtqE__Q0ltv4_sA863c7-5SH5DDb5CmxdQV_o9AHss05ngoSat8FWMlByOo0vCs2BraqLPNh3dToHdlrlF2C374Kt3wAbXoMN74Od6vQJbITglU5nx2RtyYH9r3Ra_3WdzvjG-9elaK_n5K54PxsBwYZdXdjPfUjHw97r4LXsaL73Ht8Qb9uPn8yZ933izp5g-SXezQor6acTci7lYgdznhkRTGNuFgZhxLGf7QZmYLmmx9H1chlGMWZum3sxrQXXsVAYBNjzOJtFjgZcK1xTzA3fixXxB6cGlreeYS5h2WPHjHMJkjBa0HRTqeB7USgJ5qPbFh7VESmu4Hxb68qg0rU0L8auMdgK448V0oaa-6bRUPYbbVuPxd7LcDSWt2W5SYx-35-uQGe5fXxwpkKw9ZTVR8deTaZRF643zedmpeqPLZvUPyDW33u4FdcetQlSuy0x2MT9h3V_va4N2pGeVUOl905nt6h5z32bFPzIkpjCVhdA08EzSWW9QC1zgulGssqW2cA1sVEXKg1sVwo-iXdLqSoWaBBJ4j9Igfg2"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Sen. Mitch McConnell - Campaign Finance Summary",
+      "link": "https://www.opensecrets.org/members-of-congress/mitch-mcconnell/summary?cid=N00003389",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/members-of-congress/mitch-mcconnell/summary%3Fcid%3DN00003389&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8QFnoECB0QAQ",
+      "displayed_link": "https://www.opensecrets.org › members-of-congress › s...",
+      "favicon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ57tfJbV6ydrfsKv6DNfCQw.png",
+      "snippet": "NOTE: All the numbers on this page are for the 2019 - 2024 election cycle and based on Federal Election Commission data released electronically on 09/16/25 for ...",
+      "snippet_highlighted_words": [
+        "Federal"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NOTE: All the numbers on this page are for the 2019 - 2024 election cycle and based on Federal Election Commission data released electronically on 09/16/25 for ...",
+          "source_info_link": "https://www.opensecrets.org/members-of-congress/mitch-mcconnell/summary?cid=N00003389",
+          "icon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ0KhJYHjXnDtbVIAwBesJmclNdy8nekB0Sbx9OqSjz6Z.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/members-of-congress/mitch-mcconnell/summary?cid=N00003389&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fmembers-of-congress%2Fmitch-mcconnell%2Fsummary%3Fcid%3DN00003389",
+      "missing": [
+        "Jack",
+        "TX-"
+      ],
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 2,
+      "title": "Updated list of McConnell's biggest donors",
+      "link": "https://www.courier-journal.com/story/news/politics/mitch-mcconnell/2016/10/24/updated-list-mcconnells-biggest-donors/92667300/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.courier-journal.com/story/news/politics/mitch-mcconnell/2016/10/24/updated-list-mcconnells-biggest-donors/92667300/&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8QFnoECB4QAQ",
+      "displayed_link": "https://www.courier-journal.com › politics › 2016/10/24",
+      "favicon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ7l2orx7yCWD0ujU2V6h3iM.png",
+      "date": "Oct 24, 2016",
+      "snippet": "1, 2009, to four McConnell committees: McConnell's own Senate campaign committee, his own PAC called Bluegrass Committee, a super PAC for his ...",
+      "snippet_highlighted_words": [
+        "McConnell",
+        "McConnell's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1, 2009, to four McConnell committees: McConnell's own Senate campaign committee, his own PAC called Bluegrass Committee, a super PAC for his ...",
+          "source_info_link": "https://www.courier-journal.com/story/news/politics/mitch-mcconnell/2016/10/24/updated-list-mcconnells-biggest-donors/92667300/",
+          "icon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZwQn6eQc61MEfjSelcG1FcVAlQO-KrM6txxctQqIgTEh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.courier-journal.com/story/news/politics/mitch-mcconnell/2016/10/24/updated-list-mcconnells-biggest-donors/92667300/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.courier-journal.com%2Fstory%2Fnews%2Fpolitics%2Fmitch-mcconnell%2F2016%2F10%2F24%2Fupdated-list-mcconnells-biggest-donors%2F92667300%2F",
+      "source": "The Courier-Journal"
+    },
+    {
+      "position": 3,
+      "title": "Mitch McConnell Corporate Donors",
+      "link": "https://www.quiverquant.com/congresstrading/politician/Mitch%20McConnell-M000355/donors",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quiverquant.com/congresstrading/politician/Mitch%2520McConnell-M000355/donors&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8QFnoECBwQAQ",
+      "displayed_link": "https://www.quiverquant.com › politician › donors",
+      "favicon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ1J1aHQYFUEVtGXFndiytoA.png",
+      "snippet": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC), MCCONNELL SENATE COMMITTEE, $-5,000, May 16, 2025, REP, 2026. DTE logo.",
+      "snippet_highlighted_words": [
+        "MCCONNELL"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC), MCCONNELL SENATE COMMITTEE, $-5,000, May 16, 2025, REP, 2026. DTE logo.",
+          "source_info_link": "https://www.quiverquant.com/congresstrading/politician/Mitch%20McConnell-M000355/donors",
+          "icon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ0YfHC-SU26FEKwBB1zDqPMdk85oSLRqF2reCHJwxWlD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quiverquant.com/congresstrading/politician/Mitch%20McConnell-M000355/donors&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quiverquant.com%2Fcongresstrading%2Fpolitician%2FMitch%2520McConnell-M000355%2Fdonors",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "position": 4,
+      "title": "Here are the 10 biggest donors in the midterm elections",
+      "link": "https://thehill.com/lobbying/3720141-here-are-the-biggest-donors-in-the-midterm-elections/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thehill.com/lobbying/3720141-here-are-the-biggest-donors-in-the-midterm-elections/&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8QFnoECB8QAQ",
+      "displayed_link": "https://thehill.com › lobbying › 3720141-here-are-the-...",
+      "favicon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ_vqm9CEf64wKC5iEtAsiAk.png",
+      "date": "Nov 5, 2022",
+      "snippet": "Rich Americans spent big this midterm season to impact down-ballot races for their candidates of choice. The 2022 midterm election cycle has ...",
+      "about_this_result": {
+        "source": {
+          "description": "Rich Americans spent big this midterm season to impact down-ballot races for their candidates of choice. The 2022 midterm election cycle has ...",
+          "source_info_link": "https://thehill.com/lobbying/3720141-here-are-the-biggest-donors-in-the-midterm-elections/",
+          "icon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ3O3978x8yhcuq7pDJPsXcT4QkWCRyi-RGC3mGoDPj5z.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thehill.com/lobbying/3720141-here-are-the-biggest-donors-in-the-midterm-elections/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthehill.com%2Flobbying%2F3720141-here-are-the-biggest-donors-in-the-midterm-elections%2F",
+      "missing": [
+        "Jack"
+      ],
+      "must_include": {
+        "word": "Jack",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+%22Jack%22+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q5t4CegQIIRAB"
+      },
+      "source": "The Hill"
+    },
+    {
+      "position": 5,
+      "title": "Who Owns Congress? A Campaign Cash Seating Chart",
+      "link": "https://www.motherjones.com/politics/2010/10/congress-corporate-sponsors/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.motherjones.com/politics/2010/10/congress-corporate-sponsors/&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8QFnoECBsQAQ",
+      "displayed_link": "https://www.motherjones.com › politics › 2010/10 › co...",
+      "favicon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ2XcnNKTz1ixQlCiAXjY5Ng.png",
+      "snippet": "The Senate: Lawyers, Drugs, and Money. SECTOR | # OF MEMBERS. Finance, insurance, and real estate 57. Lawyers and lobbyists 25.",
+      "snippet_highlighted_words": [
+        "Finance"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Senate: Lawyers, Drugs, and Money. SECTOR | # OF MEMBERS. Finance, insurance, and real estate 57. Lawyers and lobbyists 25.",
+          "source_info_link": "https://www.motherjones.com/politics/2010/10/congress-corporate-sponsors/",
+          "icon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ_BCRsMW9XhkFw3R-JZ7Q0SgU5rBdxvJNPZI6Nipaqsa.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.motherjones.com/politics/2010/10/congress-corporate-sponsors/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.motherjones.com%2Fpolitics%2F2010%2F10%2Fcongress-corporate-sponsors%2F",
+      "source": "Mother Jones"
+    },
+    {
+      "position": 6,
+      "title": "Donor Lookup • OpenSecrets",
+      "link": "https://www.opensecrets.org/donor-lookup/results?cand=mcconnell&order=asc&page=2&sort=A",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/donor-lookup/results%3Fcand%3Dmcconnell%26order%3Dasc%26page%3D2%26sort%3DA&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8QFnoECDoQAQ",
+      "displayed_link": "https://www.opensecrets.org › donor-lookup › results",
+      "favicon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZxND1T2ZFa4SC7kybnVNQXM.png",
+      "snippet": "Mitch McConnell (R), Federal. Money to Candidates, LEACH, AMY MIDLAND, TX 79705, HOMEMAKER, HOMEMAKER, 03-31-2011, -$5,000, Mitch McConnell (R) ...",
+      "snippet_highlighted_words": [
+        "McConnell",
+        "Federal",
+        "TX",
+        "31",
+        "McConnell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mitch McConnell (R), Federal. Money to Candidates, LEACH, AMY MIDLAND, TX 79705, HOMEMAKER, HOMEMAKER, 03-31-2011, -$5,000, Mitch McConnell (R) ...",
+          "source_info_link": "https://www.opensecrets.org/donor-lookup/results?cand=mcconnell&order=asc&page=2&sort=A",
+          "icon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ41vf810mEpMPkCKytVcrwgYGfW2zhMFwZSfFgJFgXGc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/donor-lookup/results?cand=mcconnell&order=asc&page=2&sort=A&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fdonor-lookup%2Fresults%3Fcand%3Dmcconnell%26order%3Dasc%26page%3D2%26sort%3DA",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 7,
+      "title": "Judge McConnell donated $700K to Democrats. He served ...",
+      "link": "https://www.facebook.com/thehodgetwins/posts/judge-mcconnell-donated-700k-to-democrats-he-served-on-board-of-nonprofit-crossr/1413064943509422/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/thehodgetwins/posts/judge-mcconnell-donated-700k-to-democrats-he-served-on-board-of-nonprofit-crossr/1413064943509422/&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8QFnoECD8QAQ",
+      "displayed_link": "5.8K+ reactions · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZw4KcyYNaPz9YrXh3NizB58.png",
+      "snippet": "Tamara Lynne Only if you also believe all the conservative judges that also made political donations before becoming judges also bought their ...",
+      "snippet_highlighted_words": [
+        "donations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tamara Lynne Only if you also believe all the conservative judges that also made political donations before becoming judges also bought their ...",
+          "source_info_link": "https://www.facebook.com/thehodgetwins/posts/judge-mcconnell-donated-700k-to-democrats-he-served-on-board-of-nonprofit-crossr/1413064943509422/",
+          "icon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ34dHdNtIV0lMsT06F2--jU4CL7ZLTWATbPjhXrHD-A8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/thehodgetwins/posts/judge-mcconnell-donated-700k-to-democrats-he-served-on-board-of-nonprofit-crossr/1413064943509422/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fthehodgetwins%2Fposts%2Fjudge-mcconnell-donated-700k-to-democrats-he-served-on-board-of-nonprofit-crossr%2F1413064943509422%2F",
+      "source": "Facebook · The Hodgetwins"
+    },
+    {
+      "position": 8,
+      "title": "Donor Lookup • OpenSecrets",
+      "link": "https://www.opensecrets.org/donor-lookup/results?cand=mcconnell&page=4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/donor-lookup/results%3Fcand%3Dmcconnell%26page%3D4&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8QFnoECDgQAQ",
+      "displayed_link": "https://www.opensecrets.org › donor-lookup › results",
+      "favicon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ5_pic7saSEYVrf4fb22D00.png",
+      "snippet": "OpenSecrets is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy. We provide ...",
+      "snippet_highlighted_words": [
+        "U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "OpenSecrets is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy. We provide ...",
+          "source_info_link": "https://www.opensecrets.org/donor-lookup/results?cand=mcconnell&page=4",
+          "icon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZz8ZlaoYkqE00kdatu80mva5xeoUce2eDpsiJdA2kIj5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/donor-lookup/results?cand=mcconnell&page=4&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fdonor-lookup%2Fresults%3Fcand%3Dmcconnell%26page%3D4",
+      "missing": [
+        "largest",
+        "Include"
+      ],
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 9,
+      "title": "Abraham Accords Promote Peace and Growth in the ...",
+      "link": "https://www.uae-embassy.org/foreign-policy/abraham-accords-sustainable-inclusive-growth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uae-embassy.org/foreign-policy/abraham-accords-sustainable-inclusive-growth&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8QFnoECDUQAQ",
+      "displayed_link": "https://www.uae-embassy.org › Foreign Policy",
+      "favicon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ9Ik8XwqR3XNFMrLy4kVdak.png",
+      "snippet": "In September 2020, the United Arab Emirates and Israel announced the Abraham Accords, a historic normalization agreement that is transforming the Middle ...",
+      "about_this_result": {
+        "source": {
+          "description": "In September 2020, the United Arab Emirates and Israel announced the Abraham Accords, a historic normalization agreement that is transforming the Middle ...",
+          "source_info_link": "https://www.uae-embassy.org/foreign-policy/abraham-accords-sustainable-inclusive-growth",
+          "icon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ7uw2Xm6ljYSGvwEp4yG_lxChQP1jbvXyADS9DKkcwUi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.uae-embassy.org/foreign-policy/abraham-accords-sustainable-inclusive-growth&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.uae-embassy.org%2Fforeign-policy%2Fabraham-accords-sustainable-inclusive-growth",
+      "source": "UAE Embassy in Washington, DC"
+    },
+    {
+      "position": 10,
+      "title": "H.R.748 - 116th Congress (2019-2020): CARES Act",
+      "link": "https://www.congress.gov/bill/116th-congress/house-bill/748",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/bill/116th-congress/house-bill/748&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8QFnoECDkQAQ",
+      "displayed_link": "https://www.congress.gov › bill › house-bill",
+      "favicon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ2zOU0oLEXvpXbx86WLB9gk.png",
+      "snippet": "Shown Here: Public Law No: 116-136 (03/27/2020). Coronavirus Aid, Relief, and Economic Security Act or the CARES Act. This bill responds to the COVID-19 ...",
+      "about_this_result": {
+        "source": {
+          "description": "Shown Here: Public Law No: 116-136 (03/27/2020). Coronavirus Aid, Relief, and Economic Security Act or the CARES Act. This bill responds to the COVID-19 ...",
+          "source_info_link": "https://www.congress.gov/bill/116th-congress/house-bill/748",
+          "icon": "https://serpapi.com/searches/69bb5d0b2efef8fa58703795/images/EXCDGhzNB4vEcg7FlXigZ8q6ro-UyUC7xoGshDdbtZwbEsjRdnq9yl7w0aPs1xNW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/bill/116th-congress/house-bill/748&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2Fbill%2F116th-congress%2Fhouse-bill%2F748",
+      "source": "Congress.gov"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Bernie Sanders",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bernie+Sanders&sa=X&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bernie+Sanders"
+    },
+    {
+      "block_position": 1,
+      "query": "Mitch McConnell young",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Mitch+McConnell+young&sa=X&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mitch+McConnell+young"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=C127ab7WJpyp0PEPyfvj-QQ&start=10&sa=N&sstk=Af77f_e8wjMUhxPMT3RdYCVGlYwBnFx_rREhtg_0zSoJAvlMpV3ZXvgpvAD8-Oku2FxkD0L1sZOjbEfN9PrKGQEsXJvN5kVJT_kdWg&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q8NMDegQIEBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=C127ab7WJpyp0PEPyfvj-QQ&start=10&sa=N&sstk=Af77f_e8wjMUhxPMT3RdYCVGlYwBnFx_rREhtg_0zSoJAvlMpV3ZXvgpvAD8-Oku2FxkD0L1sZOjbEfN9PrKGQEsXJvN5kVJT_kdWg&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q8tMDegQIEBAE",
+      "3": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=C127ab7WJpyp0PEPyfvj-QQ&start=20&sa=N&sstk=Af77f_e8wjMUhxPMT3RdYCVGlYwBnFx_rREhtg_0zSoJAvlMpV3ZXvgpvAD8-Oku2FxkD0L1sZOjbEfN9PrKGQEsXJvN5kVJT_kdWg&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q8tMDegQIEBAG",
+      "4": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=C127ab7WJpyp0PEPyfvj-QQ&start=30&sa=N&sstk=Af77f_e8wjMUhxPMT3RdYCVGlYwBnFx_rREhtg_0zSoJAvlMpV3ZXvgpvAD8-Oku2FxkD0L1sZOjbEfN9PrKGQEsXJvN5kVJT_kdWg&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q8tMDegQIEBAI",
+      "5": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=C127ab7WJpyp0PEPyfvj-QQ&start=40&sa=N&sstk=Af77f_e8wjMUhxPMT3RdYCVGlYwBnFx_rREhtg_0zSoJAvlMpV3ZXvgpvAD8-Oku2FxkD0L1sZOjbEfN9PrKGQEsXJvN5kVJT_kdWg&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q8tMDegQIEBAK",
+      "6": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=C127ab7WJpyp0PEPyfvj-QQ&start=50&sa=N&sstk=Af77f_e8wjMUhxPMT3RdYCVGlYwBnFx_rREhtg_0zSoJAvlMpV3ZXvgpvAD8-Oku2FxkD0L1sZOjbEfN9PrKGQEsXJvN5kVJT_kdWg&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q8tMDegQIEBAM",
+      "7": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=C127ab7WJpyp0PEPyfvj-QQ&start=60&sa=N&sstk=Af77f_e8wjMUhxPMT3RdYCVGlYwBnFx_rREhtg_0zSoJAvlMpV3ZXvgpvAD8-Oku2FxkD0L1sZOjbEfN9PrKGQEsXJvN5kVJT_kdWg&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q8tMDegQIEBAO",
+      "8": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=C127ab7WJpyp0PEPyfvj-QQ&start=70&sa=N&sstk=Af77f_e8wjMUhxPMT3RdYCVGlYwBnFx_rREhtg_0zSoJAvlMpV3ZXvgpvAD8-Oku2FxkD0L1sZOjbEfN9PrKGQEsXJvN5kVJT_kdWg&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q8tMDegQIEBAQ",
+      "9": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=C127ab7WJpyp0PEPyfvj-QQ&start=80&sa=N&sstk=Af77f_e8wjMUhxPMT3RdYCVGlYwBnFx_rREhtg_0zSoJAvlMpV3ZXvgpvAD8-Oku2FxkD0L1sZOjbEfN9PrKGQEsXJvN5kVJT_kdWg&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q8tMDegQIEBAS",
+      "10": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=C127ab7WJpyp0PEPyfvj-QQ&start=90&sa=N&sstk=Af77f_e8wjMUhxPMT3RdYCVGlYwBnFx_rREhtg_0zSoJAvlMpV3ZXvgpvAD8-Oku2FxkD0L1sZOjbEfN9PrKGQEsXJvN5kVJT_kdWg&ved=2ahUKEwj-h4uE86qTAxWcFDQIHcn9OE8Q8tMDegQIEBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Jack+McConnell+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=90"
+    }
+  }
+}

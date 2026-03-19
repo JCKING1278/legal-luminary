@@ -1,0 +1,412 @@
+{
+  "search_metadata": {
+    "id": "69bb5d9f974bbb66c3b6a33f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7z-0cfVgFOo8NRVbyupUFg/69bb5d9f974bbb66c3b6a33f.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/7z-0cfVgFOo8NRVbyupUFg/69bb5d9f974bbb66c3b6a33f.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:19 UTC",
+    "processed_at": "2026-03-19 02:21:19 UTC",
+    "google_url": "https://www.google.com/search?q=Latasha+Carroway+Quarles+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+LinkedIn&oq=Latasha+Carroway+Quarles+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7z-0cfVgFOo8NRVbyupUFg/69bb5d9f974bbb66c3b6a33f.html",
+    "total_time_taken": 8.46
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Latasha Carroway Quarles \"Bell JP P4 Place 2\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Latasha Carroway Quarles \"Bell JP P4 Place 2\" \"Central Texas\" LinkedIn",
+    "total_results": 474,
+    "time_taken_displayed": 0.88,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Latasha Carroway Quarles Bell JP P4 Place 2 Central Texas LinkedIn",
+    "spelling_fix": "Latasha Carroway Quarles Bell JP P4 Place 2 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Latasha Quarles - Director North American Payroll",
+      "link": "https://www.linkedin.com/in/latashaquarles",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/latashaquarles&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQFnoECCAQAQ",
+      "displayed_link": "410+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76rFRQMY27RpOJ8c0m5plmmM.png",
+      "snippet": "Experienced in finance and accounting, finance operations, customer service, payroll, payroll tax, union , and business environments.",
+      "about_this_result": {
+        "source": {
+          "description": "Experienced in finance and accounting, finance operations, customer service, payroll, payroll tax, union , and business environments.",
+          "source_info_link": "https://www.linkedin.com/in/latashaquarles",
+          "icon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76kggVL9vU3m9wYq-yDdHtLccqpYzvcogkxP5BiOGrf20.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/latashaquarles&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Flatashaquarles",
+      "missing": [
+        "Carroway",
+        "Bell",
+        "JP"
+      ],
+      "source": "LinkedIn · Latasha Quarles"
+    },
+    {
+      "position": 2,
+      "title": "DrTasha Carroway Quarles (@latasha.carrowayquarles)",
+      "link": "https://www.facebook.com/latasha.carrowayquarles/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/latasha.carrowayquarles/&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQFnoECB4QAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76ovCX9qqh35jhVb8MPz--BQ.png",
+      "snippet": "Quarles candidate for Justice of the Peace Precinct 4 Place 2 · May be an image of text that says 'MEET & GREET YOUR CANDIDATE Dr.",
+      "snippet_highlighted_words": [
+        "Quarles candidate for Justice of the Peace Precinct 4 Place 2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Quarles candidate for Justice of the Peace Precinct 4 Place 2 · May be an image of text that says 'MEET & GREET YOUR CANDIDATE Dr.",
+          "source_info_link": "https://www.facebook.com/latasha.carrowayquarles/",
+          "icon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76nfMXu6qsvpwAfuB6mWZhVuhGwa5hmBC7VWVgPjni4_e.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/latasha.carrowayquarles/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Flatasha.carrowayquarles%2F",
+      "missing": [
+        "Bell",
+        "LinkedIn"
+      ],
+      "source": "Facebook · DrTasha Carroway Quarles"
+    },
+    {
+      "position": 3,
+      "title": "DrLatasha Quarles",
+      "link": "https://www.facebook.com/DrQuarlesforJP4/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/DrQuarlesforJP4/&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQFnoECCIQAQ",
+      "displayed_link": "260+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76rkJi0LEYVI1udHvIsAp2R0.png",
+      "snippet": "LaTasha Carroway Quarles Justice of the Peace Precinct 4 Place 2 Let's move forward together! ... DrLatasha Quarles is in Bell County, Texas. Dec 3, 2025 ...",
+      "snippet_highlighted_words": [
+        "LaTasha Carroway Quarles Justice of the Peace Precinct 4 Place 2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "LaTasha Carroway Quarles Justice of the Peace Precinct 4 Place 2 Let's move forward together! ... DrLatasha Quarles is in Bell County, Texas. Dec 3, 2025 ...",
+          "source_info_link": "https://www.facebook.com/DrQuarlesforJP4/",
+          "icon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76kOQ8GPV6GHw5HQwbuu20WQjTop91GR9EUnORRmBCp_3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/DrQuarlesforJP4/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FDrQuarlesforJP4%2F",
+      "missing": [
+        "LinkedIn"
+      ],
+      "must_include": {
+        "word": "LinkedIn",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+%22LinkedIn%22&sa=X&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQ5t4CegQIMRAB"
+      },
+      "source": "Facebook · DrLatasha Quarles"
+    },
+    {
+      "position": 4,
+      "title": "State Government Credit Card Usage Report - South Carolina",
+      "link": "https://cg.sc.gov/sites/cg/files/Documents/Fiscal%20Transparency/Monthly%20Charge%20Card%20Usage/2025/CCU-December2025.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cg.sc.gov/sites/cg/files/Documents/Fiscal%2520Transparency/Monthly%2520Charge%2520Card%2520Usage/2025/CCU-December2025.pdf&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQFnoECB8QAQ",
+      "displayed_link": "https://cg.sc.gov › files › CCU-December2025",
+      "favicon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76jAuX6-Zwp6ItgW6UcvP2NM.png",
+      "date": "Dec 31, 2025",
+      "snippet": "... 2. State Government Credit Card Usage Report. AIKEN TECHNICAL COLLEGE. Card Holder. Vendor Name. Purchase Date. Amount. ERICA LEACH. INFOMART, ...",
+      "snippet_highlighted_words": [
+        "2"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 1206
+          },
+          "extensions": [
+            "1,206 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... 2. State Government Credit Card Usage Report. AIKEN TECHNICAL COLLEGE. Card Holder. Vendor Name. Purchase Date. Amount. ERICA LEACH. INFOMART, ...",
+          "source_info_link": "https://cg.sc.gov/sites/cg/files/Documents/Fiscal%20Transparency/Monthly%20Charge%20Card%20Usage/2025/CCU-December2025.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76oAf4j0qKn2ZLwRe9MQI6eNCGr8-3qEm9THQg60FBwpn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cg.sc.gov/sites/cg/files/Documents/Fiscal%20Transparency/Monthly%20Charge%20Card%20Usage/2025/CCU-December2025.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcg.sc.gov%2Fsites%2Fcg%2Ffiles%2FDocuments%2FFiscal%2520Transparency%2FMonthly%2520Charge%2520Card%2520Usage%2F2025%2FCCU-December2025.pdf",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "SC Comptroller General (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "Spelman Messenger Spring/Summer 2024 Edition",
+      "link": "https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/messenger-spr2024.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/messenger-spr2024.pdf&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQFnoECB0QAQ",
+      "displayed_link": "https://www.spelman.edu › _1_Docs-and-Files",
+      "favicon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76qgnZN4eSg9Vd5NmgdOWEJI.png",
+      "snippet": "The Spelman Messenger is published twice a year by. Spelman College, 350 Spelman Lane, S.W., Atlanta,. Georgia 30314-4399, free of charge for alumnae,.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 60
+          },
+          "extensions": [
+            "60 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Spelman Messenger is published twice a year by. Spelman College, 350 Spelman Lane, S.W., Atlanta,. Georgia 30314-4399, free of charge for alumnae,.",
+          "source_info_link": "https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/messenger-spr2024.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76gjkuuH9uvaP2n1DipgmzD1a2otzIn8AwvwORVsetV0Z.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/messenger-spr2024.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.spelman.edu%2F_1_Docs-and-Files%2Fspelman-messenger%2Fmessenger-spr2024.pdf",
+      "missing": [
+        "Carroway",
+        "P4",
+        "Central"
+      ],
+      "source": "Spelman College"
+    },
+    {
+      "position": 6,
+      "title": "Email address ana.tabuena-ruddy@lacity.org carlos.ro.rod ...",
+      "link": "https://cityclerk.lacity.org/onlinedocs/2022/22-0268_misc_4_05-17-23.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cityclerk.lacity.org/onlinedocs/2022/22-0268_misc_4_05-17-23.pdf&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQFnoECBwQAQ",
+      "displayed_link": "https://cityclerk.lacity.org › onlinedocs › 22-026...",
+      "favicon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76m_VsAHlseNlo2aeKCa7A_s.png",
+      "snippet": "Zeytounian. D'Antonio. Dalgic. Chew it it j g. Kimbelry. Filip. Emily. Dorene. Nancy. Howard. Tammy. Houtan. Gregory. Pamela. Annette. Margie. Angelica.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 369
+          },
+          "extensions": [
+            "369 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Zeytounian. D'Antonio. Dalgic. Chew it it j g. Kimbelry. Filip. Emily. Dorene. Nancy. Howard. Tammy. Houtan. Gregory. Pamela. Annette. Margie. Angelica.",
+          "source_info_link": "https://cityclerk.lacity.org/onlinedocs/2022/22-0268_misc_4_05-17-23.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76jo9NqZ6e_mMVp2U3xDO2SQLXY_7mkJkkQhIKOJNr2LZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cityclerk.lacity.org/onlinedocs/2022/22-0268_misc_4_05-17-23.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcityclerk.lacity.org%2Fonlinedocs%2F2022%2F22-0268_misc_4_05-17-23.pdf",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "LA City Clerk (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Chapter 11 Senior Care Centers",
+      "link": "https://casedocs.omniagentsolutions.com/cmsvol2/pub_47277/728826_942.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://casedocs.omniagentsolutions.com/cmsvol2/pub_47277/728826_942.pdf&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQFnoECCEQAQ",
+      "displayed_link": "https://casedocs.omniagentsolutions.com › cmsvol2",
+      "date": "Apr 2, 2019",
+      "snippet": "I am employed by Omni Management Group located at 5955 DeSoto Avenue, Suite 100, Woodland. Hills, CA 91367. I am over the age of eighteen ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 616
+          },
+          "extensions": [
+            "616 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "I am employed by Omni Management Group located at 5955 DeSoto Avenue, Suite 100, Woodland. Hills, CA 91367. I am over the age of eighteen ...",
+          "source_info_link": "https://casedocs.omniagentsolutions.com/cmsvol2/pub_47277/728826_942.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://casedocs.omniagentsolutions.com/cmsvol2/pub_47277/728826_942.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcasedocs.omniagentsolutions.com%2Fcmsvol2%2Fpub_47277%2F728826_942.pdf",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "Omni Agent Solutions"
+    },
+    {
+      "position": 8,
+      "title": "NY Top Court Set to Weigh In on 'Extraordinary ...",
+      "link": "https://assets.alm.com/23/cf/5379057f4be8857aa6b076b286af/nylj20260108a.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://assets.alm.com/23/cf/5379057f4be8857aa6b076b286af/nylj20260108a.pdf&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQFnoECD4QAQ",
+      "displayed_link": "https://assets.alm.com › ...",
+      "date": "Jan 8, 2026",
+      "snippet": "Private equity, hybrids, fam- ily office, this isn't just sexy to invest in, but an incredible area to invest in.” Jaffe said that while, tradi-.",
+      "snippet_highlighted_words": [
+        "area"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 16
+          },
+          "extensions": [
+            "16 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Private equity, hybrids, fam- ily office, this isn't just sexy to invest in, but an incredible area to invest in.” Jaffe said that while, tradi-.",
+          "source_info_link": "https://assets.alm.com/23/cf/5379057f4be8857aa6b076b286af/nylj20260108a.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://assets.alm.com/23/cf/5379057f4be8857aa6b076b286af/nylj20260108a.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fassets.alm.com%2F23%2Fcf%2F5379057f4be8857aa6b076b286af%2Fnylj20260108a.pdf",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "ALM Media"
+    },
+    {
+      "position": 9,
+      "title": "Mag pages",
+      "link": "https://www.iaff.org/wp-content/uploads/Fire_Fighter_Quarterly/2010-Mar-Apr.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iaff.org/wp-content/uploads/Fire_Fighter_Quarterly/2010-Mar-Apr.pdf&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQFnoECD0QAQ",
+      "displayed_link": "https://www.iaff.org › uploads › 2010-Mar-Apr",
+      "favicon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76q1ulGBPYNopbpHCdNraye8.png",
+      "date": "Mar 16, 2010",
+      "snippet": "My initial reaction when I heard that the U.S.. Department of Homeland Security (DHS) released the first round of Fiscal Year 2009.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 64
+          },
+          "extensions": [
+            "64 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "My initial reaction when I heard that the U.S.. Department of Homeland Security (DHS) released the first round of Fiscal Year 2009.",
+          "source_info_link": "https://www.iaff.org/wp-content/uploads/Fire_Fighter_Quarterly/2010-Mar-Apr.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d9f974bbb66c3b6a33f/images/6DgG6FiH8ZHECyX5m1k76npz9wzCsitW_IFr9rs8bEI5Zr2QBveFiRCzw_KnQ9Ev.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.iaff.org/wp-content/uploads/Fire_Fighter_Quarterly/2010-Mar-Apr.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.iaff.org%2Fwp-content%2Fuploads%2FFire_Fighter_Quarterly%2F2010-Mar-Apr.pdf",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "IAFF"
+    },
+    {
+      "position": 10,
+      "title": "Voluntary Petition for Non-Individuals Filing for Bankruptcy",
+      "link": "https://document.epiq11.com/document/getdocumentbycode?docId=4272697&projectCode=BIB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://document.epiq11.com/document/getdocumentbycode%3FdocId%3D4272697%26projectCode%3DBIB&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQFnoECDwQAQ",
+      "displayed_link": "https://document.epiq11.com › getdocumentbycode",
+      "date": "Dec 19, 2023",
+      "snippet": "For more information, a separate document, Instructions for Bankruptcy Forms for Non-Individuals, is available. 1. Debtor's name. Bird Global, ...",
+      "about_this_result": {
+        "source": {
+          "description": "For more information, a separate document, Instructions for Bankruptcy Forms for Non-Individuals, is available. 1. Debtor's name. Bird Global, ...",
+          "source_info_link": "https://document.epiq11.com/document/getdocumentbycode?docId=4272697&projectCode=BIB"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://document.epiq11.com/document/getdocumentbycode?docId=4272697&projectCode=BIB&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdocument.epiq11.com%2Fdocument%2Fgetdocumentbycode%3FdocId%3D4272697%26projectCode%3DBIB",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "epiq11.com"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=pl27abPwLMbW5OUP35vrgQI&start=10&sa=N&sstk=Af77f_fzIbGU3gtphqar5q-xv0M5Vg0eMEI0zQOubpMj5c5jov60Zi1BHY4AvCgqJ5l6bUxaxbIhRlkeDUsI0fAuTOBHtxRY8DTm0w&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQ8NMDegQICRAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=pl27abPwLMbW5OUP35vrgQI&start=10&sa=N&sstk=Af77f_fzIbGU3gtphqar5q-xv0M5Vg0eMEI0zQOubpMj5c5jov60Zi1BHY4AvCgqJ5l6bUxaxbIhRlkeDUsI0fAuTOBHtxRY8DTm0w&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=pl27abPwLMbW5OUP35vrgQI&start=20&sa=N&sstk=Af77f_fzIbGU3gtphqar5q-xv0M5Vg0eMEI0zQOubpMj5c5jov60Zi1BHY4AvCgqJ5l6bUxaxbIhRlkeDUsI0fAuTOBHtxRY8DTm0w&ved=2ahUKEwiz24XO86qTAxVGK7kGHd_NOiAQ8tMDegQICRAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=20"
+    }
+  }
+}

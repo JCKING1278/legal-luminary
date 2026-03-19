@@ -1,0 +1,388 @@
+{
+  "search_metadata": {
+    "id": "69bb5ccfbe918a295919fa5e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Des6af4JPssPCnWizYJr3A/69bb5ccfbe918a295919fa5e.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Des6af4JPssPCnWizYJr3A/69bb5ccfbe918a295919fa5e.json_with_pixel_position",
+    "created_at": "2026-03-19 02:17:51 UTC",
+    "processed_at": "2026-03-19 02:17:51 UTC",
+    "google_url": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&oq=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Des6af4JPssPCnWizYJr3A/69bb5ccfbe918a295919fa5e.html",
+    "total_time_taken": 2.59
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "US House TX-31 election. Key platform issues for candidates: William P. Abel, David Lee Berry, John R. Carter, Steven Clay Dowell Jr., Justin Early. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "US House TX-31 election. Key platform issues for candidates: William P. Abel, David Lee Berry, John R. Carter, Steven Clay Dowell Jr., Justin Early. Provide a short factual summary.",
+    "total_results": 1940,
+    "time_taken_displayed": 0.55,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "WBqcj3icxZXdcuo2EIDv-x7lRsH8JsSZYTqScIL5Cw4JgXPDCFkIg2xzLINx7s5F36RP1aepbP4cEtKeznS6F7ZWu9qVV5_WP_4Qjrf885ff52G4kneFQhRFGvd9LphGfbdAZOzRwswXMqDz3-JNvZKjsl7MMadeHMY1Mlv7D7WHziq0-mF1ZLqQ5tIl9cmUSLZQEbcLWZgU1GP5a6WhFE1qzNOWeg2ZE7c3iLtauVjStccCcZUD_I_EgE_qiUw1UMLfG3E6ZVxebRmptZWZ2oVAmZnxbpJzA1qJfv_5Rox05QCrtX20yUddcjErNDMaGqdp75M8EHOUOpyL-WHmtMX2PuiFXB8D7VY2TsVC8KKY5sGKLIgxbEb4ZNyH4PskVdjB-BgOKTPuowo2_cvh1cohbxrzvAW_OiflZT71InusTqJgc8VTsTAN1KtUcOicpoNAJpjhZ73o39_234aP1hTeCH05jEu9F0jH1rIM-xEs0KnyEz6xmT2ZT4pXKdBUHomWWaLXCxPaWxT3e1TraKiUwTmpJMfvNpkc7IVz-ETwZdPuSH34kMB9pLqfDNDLwekWIg6xcTo8Yx_zI86pmO8mOd_ZcKLyM9ck1nI_OsSnWTM6foHagzrpU44o64azaJmmaSTZxrsIPOumdKSuUDJqp9esmQ0DzUytUHJtVZ2t0zclz8Zhv0kZkuAG5A2Gu4kbVhXBiVOiIJwWFVnGOfiIn_QuxFW8w_nnBV28jgex4IHfMxyzGBs1WxrlXmk0rW17eR502uFr_Dp09FYj2mPru9Of6MT0_wN736fb6S33-Uew-VdgWwb-ok_vwT716bQh4fvPwTZSUDJ9mmXNWbAtZGbA3l7s0xmwzb8Fe_SuLEewrU_ARudgo8tgJ336CDbG6KxPp5-VliUD9r_q09Y_79Mp32z3et-01wt-sXkbzWbTreCmrVeHi9b4uxCBorhW1k2Df2zeMze8I7a4mjj2HSq3wtjOfa-_DEDTX0sGnkf5SgkwwWjo-J4G2iwGK0HCmR-4wJFyzSRQY0CJZzs2CZm8A6-OEA5xQV8DcMrEFWiQjWODDmMAsSCIr0DLn3vgSQOYBCELrsAgZBvmASxIDBp-xIQArUBTfmsZOh4wSCBiDfQDX8VhgAA594MQzAgN10QAuXZdEsRazhWBXy-Sa3ozoNeTlbGauw_RG397dGe6oN5M4HmlPZlhdNMdbYffblYbPxpXu_jhZern899mZougmnfb6ZRqy2orH0Xt-TqYrIJeVLtu3tDJi7iWj7oTVqxVb-EI83W0DVaj1dut_bYYN_xhN3CG-SfsVZ7Lw166G1kvm-2yzPcGldI45wa0rrCpctiz4CtPfgg5ScmEyU2dlinRWa2k3xYrOptVci4P41X95jonvaBe-gvwigjr",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WBqcj3icxZXdcuo2EIDv-x7lRsH8JsSZYTqScIL5Cw4JgXPDCFkIg2xzLINx7s5F36RP1aepbP4cEtKeznS6F7ZWu9qVV5_WP_4Qjrf885ff52G4kneFQhRFGvd9LphGfbdAZOzRwswXMqDz3-JNvZKjsl7MMadeHMY1Mlv7D7WHziq0-mF1ZLqQ5tIl9cmUSLZQEbcLWZgU1GP5a6WhFE1qzNOWeg2ZE7c3iLtauVjStccCcZUD_I_EgE_qiUw1UMLfG3E6ZVxebRmptZWZ2oVAmZnxbpJzA1qJfv_5Rox05QCrtX20yUddcjErNDMaGqdp75M8EHOUOpyL-WHmtMX2PuiFXB8D7VY2TsVC8KKY5sGKLIgxbEb4ZNyH4PskVdjB-BgOKTPuowo2_cvh1cohbxrzvAW_OiflZT71InusTqJgc8VTsTAN1KtUcOicpoNAJpjhZ73o39_234aP1hTeCH05jEu9F0jH1rIM-xEs0KnyEz6xmT2ZT4pXKdBUHomWWaLXCxPaWxT3e1TraKiUwTmpJMfvNpkc7IVz-ETwZdPuSH34kMB9pLqfDNDLwekWIg6xcTo8Yx_zI86pmO8mOd_ZcKLyM9ck1nI_OsSnWTM6foHagzrpU44o64azaJmmaSTZxrsIPOumdKSuUDJqp9esmQ0DzUytUHJtVZ2t0zclz8Zhv0kZkuAG5A2Gu4kbVhXBiVOiIJwWFVnGOfiIn_QuxFW8w_nnBV28jgex4IHfMxyzGBs1WxrlXmk0rW17eR502uFr_Dp09FYj2mPru9Of6MT0_wN736fb6S33-Uew-VdgWwb-ok_vwT716bQh4fvPwTZSUDJ9mmXNWbAtZGbA3l7s0xmwzb8Fe_SuLEewrU_ARudgo8tgJ336CDbG6KxPp5-VliUD9r_q09Y_79Mp32z3et-01wt-sXkbzWbTreCmrVeHi9b4uxCBorhW1k2Df2zeMze8I7a4mjj2HSq3wtjOfa-_DEDTX0sGnkf5SgkwwWjo-J4G2iwGK0HCmR-4wJFyzSRQY0CJZzs2CZm8A6-OEA5xQV8DcMrEFWiQjWODDmMAsSCIr0DLn3vgSQOYBCELrsAgZBvmASxIDBp-xIQArUBTfmsZOh4wSCBiDfQDX8VhgAA594MQzAgN10QAuXZdEsRazhWBXy-Sa3ozoNeTlbGauw_RG397dGe6oN5M4HmlPZlhdNMdbYffblYbPxpXu_jhZern899mZougmnfb6ZRqy2orH0Xt-TqYrIJeVLtu3tDJi7iWj7oTVqxVb-EI83W0DVaj1dut_bYYN_xhN3CG-SfsVZ7Lw166G1kvm-2yzPcGldI45wa0rrCpctiz4CtPfgg5ScmEyU2dlinRWa2k3xYrOptVci4P41X95jonvaBe-gvwigjr"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "1895. CONGRESSIONAL RECORD-SENATE.",
+      "link": "https://www.congress.gov/53/crecb/1895/03/01/GPO-CRECB-1895-pt4-v27-4-1.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/53/crecb/1895/03/01/GPO-CRECB-1895-pt4-v27-4-1.pdf&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQFnoECBkQAQ",
+      "displayed_link": "https://www.congress.gov › crecb › GPO-CRECB-...",
+      "favicon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCnHgTOhYReL6t9TMFFOiD8Y.png",
+      "snippet": "BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...",
+      "snippet_highlighted_words": [
+        "bill"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 44
+          },
+          "extensions": [
+            "44 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...",
+          "source_info_link": "https://www.congress.gov/53/crecb/1895/03/01/GPO-CRECB-1895-pt4-v27-4-1.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCjpQroOrW29X38NVL8wiBVAnWzyJYY46OP0GCCaqi0Jt.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/53/crecb/1895/03/01/GPO-CRECB-1895-pt4-v27-4-1.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2F53%2Fcrecb%2F1895%2F03%2F01%2FGPO-CRECB-1895-pt4-v27-4-1.pdf",
+      "missing": [
+        "Key",
+        "summary."
+      ],
+      "source": "Congress.gov"
+    },
+    {
+      "position": 2,
+      "title": "Civil War Newspapers Kings County, New York",
+      "link": "https://museum.dmna.ny.gov/unit-history/conflict/us-civil-war-1861-1865/counties-state-new-york-during-war-rebellion/kings-county-new-york-civil-war/civil-war-newspapers-kings-county-new-york",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://museum.dmna.ny.gov/unit-history/conflict/us-civil-war-1861-1865/counties-state-new-york-during-war-rebellion/kings-county-new-york-civil-war/civil-war-newspapers-kings-county-new-york&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQFnoECA4QAQ",
+      "displayed_link": "https://museum.dmna.ny.gov › us-civil-war-1861-1865",
+      "favicon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bChwiq_IbfTOgff1uiMZBVfg.png",
+      "snippet": "Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron, H Jr 22 Clinton. Williams, J H 89 Atlantic.",
+      "snippet_highlighted_words": [
+        "Jr"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron, H Jr 22 Clinton. Williams, J H 89 Atlantic.",
+          "source_info_link": "https://museum.dmna.ny.gov/unit-history/conflict/us-civil-war-1861-1865/counties-state-new-york-during-war-rebellion/kings-county-new-york-civil-war/civil-war-newspapers-kings-county-new-york",
+          "icon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCnQXa1ifiU7LGSr-hHv-L7FZJw-ITmykAiK-IZnOoMu7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://museum.dmna.ny.gov/unit-history/conflict/us-civil-war-1861-1865/counties-state-new-york-during-war-rebellion/kings-county-new-york-civil-war/civil-war-newspapers-kings-county-new-york&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmuseum.dmna.ny.gov%2Funit-history%2Fconflict%2Fus-civil-war-1861-1865%2Fcounties-state-new-york-during-war-rebellion%2Fkings-county-new-york-civil-war%2Fcivil-war-newspapers-kings-county-new-york",
+      "source": "ny.gov"
+    },
+    {
+      "position": 3,
+      "title": "Iowa Official Register 1925-26",
+      "link": "https://www.legis.iowa.gov/docs/publications/REDBK/860889.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.legis.iowa.gov/docs/publications/REDBK/860889.pdf&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQFnoECBUQAQ",
+      "displayed_link": "https://www.legis.iowa.gov › publications › REDBK",
+      "favicon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCoeTj_QN10jMPEXS2G471bA.jpeg",
+      "snippet": "Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department. 137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 753
+          },
+          "extensions": [
+            "753 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department. 137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.",
+          "source_info_link": "https://www.legis.iowa.gov/docs/publications/REDBK/860889.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCkweTX3KBb14FbqPYxwLxyHy4DRnaEBUyZid9G00Qrqn.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.legis.iowa.gov/docs/publications/REDBK/860889.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.legis.iowa.gov%2Fdocs%2Fpublications%2FREDBK%2F860889.pdf",
+      "missing": [
+        "Key"
+      ],
+      "must_include": {
+        "word": "Key",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=US+House+TX-31+election.+%22Key%22+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sa=X&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ5t4CegQIFxAB"
+      },
+      "source": "Iowa Legislature (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Download a list of all sessions - Engineering Education",
+      "link": "https://nemo.asee.org/public/conferences/365/registration/all_sessions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nemo.asee.org/public/conferences/365/registration/all_sessions&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQFnoECA0QAQ",
+      "displayed_link": "https://nemo.asee.org › public › conferences › registration",
+      "favicon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCrOgwi6rLzs25uU0tg8MPos.png",
+      "snippet": "... key role in establishing us as a premier provider of children's program ... platform for students and professionals to meet employers from academia ...",
+      "snippet_highlighted_words": [
+        "key",
+        "us",
+        "platform"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... key role in establishing us as a premier provider of children's program ... platform for students and professionals to meet employers from academia ...",
+          "source_info_link": "https://nemo.asee.org/public/conferences/365/registration/all_sessions",
+          "icon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCgJ3JvAEh3eAPj1e9dyqdlvQYEmPRfoPpMe9hmcXFGTc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://nemo.asee.org/public/conferences/365/registration/all_sessions&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnemo.asee.org%2Fpublic%2Fconferences%2F365%2Fregistration%2Fall_sessions",
+      "source": "ASEE"
+    },
+    {
+      "position": 5,
+      "title": "Accelerated Reader Quiz List - Reading Practice",
+      "link": "https://www.mylakelibrary.org/virtual_library/arlistdocs/4_bytitle.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mylakelibrary.org/virtual_library/arlistdocs/4_bytitle.pdf&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQFnoECAwQAQ",
+      "displayed_link": "https://www.mylakelibrary.org › 4_bytitle",
+      "favicon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bClXbFqAr6ps0z-o615l5CvE.png",
+      "snippet": "Pts. 17352 EN 100 Unforgettable Moments in Pro Basketball. Italia, Bob. 6.5. 1. 17354 EN 100 Unforgettable Moments in Pro Golf. Italia, Bob.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 149
+          },
+          "extensions": [
+            "149 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Pts. 17352 EN 100 Unforgettable Moments in Pro Basketball. Italia, Bob. 6.5. 1. 17354 EN 100 Unforgettable Moments in Pro Golf. Italia, Bob.",
+          "source_info_link": "https://www.mylakelibrary.org/virtual_library/arlistdocs/4_bytitle.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCioGWiXjH890Jnx-7oALANyq_gabGTrOistAdLJsOGed.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.mylakelibrary.org/virtual_library/arlistdocs/4_bytitle.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.mylakelibrary.org%2Fvirtual_library%2Farlistdocs%2F4_bytitle.pdf",
+      "source": "Lake County Library System"
+    },
+    {
+      "position": 6,
+      "title": "OCR Text - NLM Digital Collections",
+      "link": "https://collections.nlm.nih.gov/ocr/nlm:nlmuid-7807587X36-leaf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://collections.nlm.nih.gov/ocr/nlm:nlmuid-7807587X36-leaf&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQFnoECCkQAQ",
+      "displayed_link": "https://collections.nlm.nih.gov › ocr",
+      "favicon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCpT5LbPq1u3jo8we4zaS4aU.png",
+      "snippet": "... Key title: Hospital literature index, ISSN 0018-5736. 1. Delivery of Health ... issues of the Hospital Literature Index are shipped to subscribers in ...",
+      "snippet_highlighted_words": [
+        "Key",
+        "issues"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Key title: Hospital literature index, ISSN 0018-5736. 1. Delivery of Health ... issues of the Hospital Literature Index are shipped to subscribers in ...",
+          "source_info_link": "https://collections.nlm.nih.gov/ocr/nlm:nlmuid-7807587X36-leaf",
+          "icon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCoEVeZsLIi6y_l3AYLryqDcw6xdfonVds-AQaIkzFxOH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://collections.nlm.nih.gov/ocr/nlm:nlmuid-7807587X36-leaf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcollections.nlm.nih.gov%2Focr%2Fnlm%3Anlmuid-7807587X36-leaf",
+      "source": "National Institutes of Health (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Town of Forest , Richland County",
+      "link": "https://www.facebook.com/groups/333827440359540/posts/1908922086183393/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/333827440359540/posts/1908922086183393/&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQFnoECDAQAQ",
+      "displayed_link": "3 comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCqRxFDLmekEAy3NVqn6F1kE.png",
+      "snippet": "Town of Forest , Richland County The town of Forest ,forms the northwest corner of Richland County, being composed of congressional township ...",
+      "snippet_highlighted_words": [
+        "congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Town of Forest , Richland County The town of Forest ,forms the northwest corner of Richland County, being composed of congressional township ...",
+          "source_info_link": "https://www.facebook.com/groups/333827440359540/posts/1908922086183393/",
+          "icon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bChsydHg8jYOU7eNJUPoWPTkirqNcwYFumCE0KmOZy6t6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/333827440359540/posts/1908922086183393/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F333827440359540%2Fposts%2F1908922086183393%2F",
+      "source": "Facebook · Forgotten Wisconsin"
+    },
+    {
+      "position": 8,
+      "title": "https://digitalarchives.sjc.edu/items?page=165&amp%3Bamp ...",
+      "link": "https://digitalarchives.sjc.edu/items?page=165&amp%3Bamp%3Bamp%3Bsort_field=Dublin+Core%2CTitle&amp%3Bamp%3Bamp%3Bsort_dir=d&amp%3Bamp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bsort_field=added&amp%3Bamp%3Boutput=omeka-xml&amp%3Bsort_field=Dublin+Core%2CDate&amp%3Boutput=omeka-xml&sort_field=added&sort_dir=d&output=omeka-xml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://digitalarchives.sjc.edu/items%3Fpage%3D165%26amp%253Bamp%253Bamp%253Bsort_field%3DDublin%2BCore%252CTitle%26amp%253Bamp%253Bamp%253Bsort_dir%3Dd%26amp%253Bamp%253Bamp%253Boutput%3Domeka-xml%26amp%253Bamp%253Bsort_field%3Dadded%26amp%253Bamp%253Boutput%3Domeka-xml%26amp%253Bsort_field%3DDublin%2BCore%252CDate%26amp%253Boutput%3Domeka-xml%26sort_field%3Dadded%26sort_dir%3Dd%26output%3Domeka-xml&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQFnoECC8QAQ",
+      "displayed_link": "https://digitalarchives.sjc.edu › items",
+      "snippet": "only early college and became a 1964 unit of Bard in February. Us From William P. and Arlene campus is in Great Barrington, Andrew Banks comes all sorts of ...",
+      "snippet_highlighted_words": [
+        "early",
+        "Us",
+        "William P"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "only early college and became a 1964 unit of Bard in February. Us From William P. and Arlene campus is in Great Barrington, Andrew Banks comes all sorts of ...",
+          "source_info_link": "https://digitalarchives.sjc.edu/items?page=165&amp%3Bamp%3Bamp%3Bsort_field=Dublin+Core%2CTitle&amp%3Bamp%3Bamp%3Bsort_dir=d&amp%3Bamp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bsort_field=added&amp%3Bamp%3Boutput=omeka-xml&amp%3Bsort_field=Dublin+Core%2CDate&amp%3Boutput=omeka-xml&sort_field=added&sort_dir=d&output=omeka-xml"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://digitalarchives.sjc.edu/items?page=165&amp%3Bamp%3Bamp%3Bsort_field=Dublin+Core%2CTitle&amp%3Bamp%3Bamp%3Bsort_dir=d&amp%3Bamp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bsort_field=added&amp%3Bamp%3Boutput=omeka-xml&amp%3Bsort_field=Dublin+Core%2CDate&amp%3Boutput=omeka-xml&sort_field=added&sort_dir=d&output=omeka-xml&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdigitalarchives.sjc.edu%2Fitems%3Fpage%3D165%26amp%253Bamp%253Bamp%253Bsort_field%3DDublin%2BCore%252CTitle%26amp%253Bamp%253Bamp%253Bsort_dir%3Dd%26amp%253Bamp%253Bamp%253Boutput%3Domeka-xml%26amp%253Bamp%253Bsort_field%3Dadded%26amp%253Bamp%253Boutput%3Domeka-xml%26amp%253Bsort_field%3DDublin%2BCore%252CDate%26amp%253Boutput%3Domeka-xml%26sort_field%3Dadded%26sort_dir%3Dd%26output%3Domeka-xml",
+      "source": "St. John's College Digital Archives"
+    },
+    {
+      "position": 9,
+      "title": "THE MINUTE MAN",
+      "link": "https://www.sar.org/wp-content/uploads/2019/12/XVIII-NO-3_DECEMBER-1923.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sar.org/wp-content/uploads/2019/12/XVIII-NO-3_DECEMBER-1923.pdf&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQFnoECDcQAQ",
+      "displayed_link": "https://www.sar.org › uploads › 2019/12 › XVIII...",
+      "favicon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCl9sGVEILQVa9E0_6jDHVXg.png",
+      "snippet": "The OFFICIAL BuLLETIN records action by the General Officers, the. Board of Trustees, the Executive and other ational Committees, lists.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 58
+          },
+          "extensions": [
+            "58 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The OFFICIAL BuLLETIN records action by the General Officers, the. Board of Trustees, the Executive and other ational Committees, lists.",
+          "source_info_link": "https://www.sar.org/wp-content/uploads/2019/12/XVIII-NO-3_DECEMBER-1923.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCtem2gUwQ4vX9R67IpQvrPGz0wD_yfXC4MtU8w4a8bnD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sar.org/wp-content/uploads/2019/12/XVIII-NO-3_DECEMBER-1923.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sar.org%2Fwp-content%2Fuploads%2F2019%2F12%2FXVIII-NO-3_DECEMBER-1923.pdf",
+      "source": "National Society Sons of the American Revolution"
+    },
+    {
+      "position": 10,
+      "title": "SENATE—Wednesday, April 11, 2007",
+      "link": "https://www.govinfo.gov/content/pkg/CRECB-2007-pt6/pdf/CRECB-2007-pt6-issue-2007-04-11.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/CRECB-2007-pt6/pdf/CRECB-2007-pt6-issue-2007-04-11.pdf&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQFnoECCsQAQ",
+      "displayed_link": "https://www.govinfo.gov › CRECB-2007-pt6 › pdf",
+      "favicon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCvvERoWKxdBmapvyVt6bpKQ.png",
+      "date": "Apr 11, 2007",
+      "snippet": "This ''bullet'' symbol identifies statements or insertions which are not spoken by a Member of the Senate on the floor. CONGRESSIONAL RECORD— ...",
+      "snippet_highlighted_words": [
+        "CONGRESSIONAL"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This ''bullet'' symbol identifies statements or insertions which are not spoken by a Member of the Senate on the floor. CONGRESSIONAL RECORD— ...",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/CRECB-2007-pt6/pdf/CRECB-2007-pt6-issue-2007-04-11.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ccfbe918a295919fa5e/images/gu5xefa8WittiqCCeM2bCpwJBEIUW9V_3HM8k72_TpjfC9E9x3mJsYgO244b1yO6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/CRECB-2007-pt6/pdf/CRECB-2007-pt6-issue-2007-04-11.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FCRECB-2007-pt6%2Fpdf%2FCRECB-2007-pt6-issue-2007-04-11.pdf",
+      "source": "GovInfo (.gov)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=0Vy7afuoG7GLptQPt4XImAc&start=10&sa=N&sstk=Af77f_fXG-OEUKs53zNkqk0WiwTbV8br_3tlCGZ1DxXyrILADZE1PqM7R4muPrO-u7pA40IUuvwjDuOTv7RRTXbEsAX7sqST1L6Vog&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ8NMDegQIJBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=0Vy7afuoG7GLptQPt4XImAc&start=10&sa=N&sstk=Af77f_fXG-OEUKs53zNkqk0WiwTbV8br_3tlCGZ1DxXyrILADZE1PqM7R4muPrO-u7pA40IUuvwjDuOTv7RRTXbEsAX7sqST1L6Vog&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ8tMDegQIJBAE",
+      "3": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=0Vy7afuoG7GLptQPt4XImAc&start=20&sa=N&sstk=Af77f_fXG-OEUKs53zNkqk0WiwTbV8br_3tlCGZ1DxXyrILADZE1PqM7R4muPrO-u7pA40IUuvwjDuOTv7RRTXbEsAX7sqST1L6Vog&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ8tMDegQIJBAG",
+      "4": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=0Vy7afuoG7GLptQPt4XImAc&start=30&sa=N&sstk=Af77f_fXG-OEUKs53zNkqk0WiwTbV8br_3tlCGZ1DxXyrILADZE1PqM7R4muPrO-u7pA40IUuvwjDuOTv7RRTXbEsAX7sqST1L6Vog&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ8tMDegQIJBAI",
+      "5": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=0Vy7afuoG7GLptQPt4XImAc&start=40&sa=N&sstk=Af77f_fXG-OEUKs53zNkqk0WiwTbV8br_3tlCGZ1DxXyrILADZE1PqM7R4muPrO-u7pA40IUuvwjDuOTv7RRTXbEsAX7sqST1L6Vog&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ8tMDegQIJBAK",
+      "6": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=0Vy7afuoG7GLptQPt4XImAc&start=50&sa=N&sstk=Af77f_fXG-OEUKs53zNkqk0WiwTbV8br_3tlCGZ1DxXyrILADZE1PqM7R4muPrO-u7pA40IUuvwjDuOTv7RRTXbEsAX7sqST1L6Vog&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ8tMDegQIJBAM",
+      "7": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=0Vy7afuoG7GLptQPt4XImAc&start=60&sa=N&sstk=Af77f_fXG-OEUKs53zNkqk0WiwTbV8br_3tlCGZ1DxXyrILADZE1PqM7R4muPrO-u7pA40IUuvwjDuOTv7RRTXbEsAX7sqST1L6Vog&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ8tMDegQIJBAO",
+      "8": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=0Vy7afuoG7GLptQPt4XImAc&start=70&sa=N&sstk=Af77f_fXG-OEUKs53zNkqk0WiwTbV8br_3tlCGZ1DxXyrILADZE1PqM7R4muPrO-u7pA40IUuvwjDuOTv7RRTXbEsAX7sqST1L6Vog&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ8tMDegQIJBAQ",
+      "9": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=0Vy7afuoG7GLptQPt4XImAc&start=80&sa=N&sstk=Af77f_fXG-OEUKs53zNkqk0WiwTbV8br_3tlCGZ1DxXyrILADZE1PqM7R4muPrO-u7pA40IUuvwjDuOTv7RRTXbEsAX7sqST1L6Vog&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ8tMDegQIJBAS",
+      "10": "https://www.google.com/search?q=US+House+TX-31+election.+Key+platform+issues+for+candidates:+William+P.+Abel,+David+Lee+Berry,+John+R.+Carter,+Steven+Clay+Dowell+Jr.,+Justin+Early.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=0Vy7afuoG7GLptQPt4XImAc&start=90&sa=N&sstk=Af77f_fXG-OEUKs53zNkqk0WiwTbV8br_3tlCGZ1DxXyrILADZE1PqM7R4muPrO-u7pA40IUuvwjDuOTv7RRTXbEsAX7sqST1L6Vog&ved=2ahUKEwi71avo8qqTAxWxhYkEHbcCEnMQ8tMDegQIJBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+House+TX-31+election.+Key+platform+issues+for+candidates%3A+William+P.+Abel%2C+David+Lee+Berry%2C+John+R.+Carter%2C+Steven+Clay+Dowell+Jr.%2C+Justin+Early.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

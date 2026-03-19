@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "69bb5e945c2622037140ee03",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UlO-5jDxBMNVKq9SwPGa3g/69bb5e945c2622037140ee03.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/UlO-5jDxBMNVKq9SwPGa3g/69bb5e945c2622037140ee03.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:24 UTC",
+    "processed_at": "2026-03-19 02:25:24 UTC",
+    "google_url": "https://www.google.com/search?q=Nina+Cobb+%22Killeen+Council+D3%22+%22Killeen%22+Instagram&oq=Nina+Cobb+%22Killeen+Council+D3%22+%22Killeen%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/UlO-5jDxBMNVKq9SwPGa3g/69bb5e945c2622037140ee03.html",
+    "total_time_taken": 1.3
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Nina Cobb \"Killeen Council D3\" \"Killeen\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Nina Cobb \"Killeen Council D3\" \"Killeen\" Instagram",
+    "total_results": 0,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

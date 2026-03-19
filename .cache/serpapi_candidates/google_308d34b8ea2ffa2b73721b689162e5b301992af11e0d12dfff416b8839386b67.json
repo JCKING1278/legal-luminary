@@ -1,0 +1,403 @@
+{
+  "search_metadata": {
+    "id": "69bb5dc00558c02b77d3b354",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zJBB1bP3BBNv8NUBTuARrw/69bb5dc00558c02b77d3b354.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/zJBB1bP3BBNv8NUBTuARrw/69bb5dc00558c02b77d3b354.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:52 UTC",
+    "processed_at": "2026-03-19 02:21:52 UTC",
+    "google_url": "https://www.google.com/search?q=Brad+Buckley+%22State+House+TX-54%22+%22Central+Texas%22+LinkedIn&oq=Brad+Buckley+%22State+House+TX-54%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/zJBB1bP3BBNv8NUBTuARrw/69bb5dc00558c02b77d3b354.html",
+    "total_time_taken": 2.8
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Brad Buckley \"State House TX-54\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Brad Buckley \"State House TX-54\" \"Central Texas\" LinkedIn",
+    "total_results": 21300,
+    "time_taken_displayed": 0.64,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Brad Buckley State House TX-54 Central Texas LinkedIn",
+    "spelling_fix": "Brad Buckley State House TX-54 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Cash Rugely - Legislative Aide| Representative Brad Buckley",
+      "link": "https://www.linkedin.com/in/cash-rugely-363133285",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cash-rugely-363133285&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQFnoECB0QAQ",
+      "displayed_link": "100+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVkEmNMrEwFrB2Y9oS85IbP8.png",
+      "snippet": "Legislative Aide| Representative Brad Buckley · Experience: Texas House of Representatives · Education: Kansas State University · Location: Manor · 108 ...",
+      "snippet_highlighted_words": [
+        "Brad Buckley",
+        "Texas House",
+        "State"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Legislative Aide| Representative Brad Buckley · Experience: Texas House of Representatives · Education: Kansas State University · Location: Manor · 108 ...",
+          "source_info_link": "https://www.linkedin.com/in/cash-rugely-363133285",
+          "icon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVn-nATWv8XjW92CROAMoaBR8wmb6fOserJzl5l6Ctm9S.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/cash-rugely-363133285&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcash-rugely-363133285",
+      "missing": [
+        "TX-",
+        "54"
+      ],
+      "source": "LinkedIn · Cash Rugely"
+    },
+    {
+      "position": 2,
+      "title": "Texas Rep. Brad Buckley",
+      "link": "https://www.texastribune.org/directory/brad-buckley/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.texastribune.org/directory/brad-buckley/&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQFnoECB8QAQ",
+      "displayed_link": "https://www.texastribune.org › directory › brad-buckley",
+      "favicon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVsyKcLu2wDSVDicLzj24sOA.png",
+      "snippet": "Mailing address, P.O. Box 2910. Austin, TX 78768. Phone, 512-463-0684. Room, E2.510. Email, brad.buckley@house.texas.gov ...",
+      "snippet_highlighted_words": [
+        "TX",
+        "brad",
+        "buckley",
+        "house",
+        "texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mailing address, P.O. Box 2910. Austin, TX 78768. Phone, 512-463-0684. Room, E2.510. Email, brad.buckley@house.texas.gov ...",
+          "source_info_link": "https://www.texastribune.org/directory/brad-buckley/",
+          "icon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVso9YkPB3GO8tO8aJxDptNEPJPcmSJTHJS1hUh34Tiik.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.texastribune.org/directory/brad-buckley/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.texastribune.org%2Fdirectory%2Fbrad-buckley%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+TX-54+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQ5t4CegQILxAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 3,
+      "title": "Jessica Diem - Deputy Chief of Staff, Texas HD 54 at ...",
+      "link": "https://www.linkedin.com/in/jessica-diem-ba54aa150",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jessica-diem-ba54aa150&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQFnoECCYQAQ",
+      "displayed_link": "390+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVjnQHkaVTaHssGP3jOzzRBM.png",
+      "snippet": "Deputy Chief of Staff, Texas HD 54 at Texas House of Representatives · Experience: Texas House of Representatives · Education: The University of Texas at ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "54",
+        "Texas House",
+        "Texas House",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Deputy Chief of Staff, Texas HD 54 at Texas House of Representatives · Experience: Texas House of Representatives · Education: The University of Texas at ...",
+          "source_info_link": "https://www.linkedin.com/in/jessica-diem-ba54aa150",
+          "icon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVrBJz2mk54Rpq-Hy1kcydFRHpbzk3pGbpukHmnOPZHKB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/jessica-diem-ba54aa150&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjessica-diem-ba54aa150",
+      "missing": [
+        "TX-",
+        "Central"
+      ],
+      "source": "LinkedIn · Jessica Diem"
+    },
+    {
+      "position": 4,
+      "title": "Retired educator announces candidacy for Texas House ...",
+      "link": "https://kdhnews.com/news/local/retired-educator-announces-candidacy-for-texas-house-district-54/article_d3af300a-6470-11ee-b102-8722bf8373c5.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/retired-educator-announces-candidacy-for-texas-house-district-54/article_d3af300a-6470-11ee-b102-8722bf8373c5.html&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › retired-educator-a...",
+      "favicon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVqxpCIwVLTfo5drkcw5tZvA.png",
+      "date": "Oct 6, 2023",
+      "snippet": "Dawn Richardson, a 31-year Killeen resident and retired educator, announced her candidacy for Texas House District 54 on Friday — an attempt ...",
+      "snippet_highlighted_words": [
+        "Texas House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dawn Richardson, a 31-year Killeen resident and retired educator, announced her candidacy for Texas House District 54 on Friday — an attempt ...",
+          "source_info_link": "https://kdhnews.com/news/local/retired-educator-announces-candidacy-for-texas-house-district-54/article_d3af300a-6470-11ee-b102-8722bf8373c5.html",
+          "icon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVhdxk7tIsvn6IUDNh0jBNYwSSUPjAuxekO-r8LDgFQGr.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/retired-educator-announces-candidacy-for-texas-house-district-54/article_d3af300a-6470-11ee-b102-8722bf8373c5.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fretired-educator-announces-candidacy-for-texas-house-district-54%2Farticle_d3af300a-6470-11ee-b102-8722bf8373c5.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "Shatina McMillian, MS-HRM, CHW - Harmony House",
+      "link": "https://www.linkedin.com/in/shatina-mcmillian-ms-hrm-chw-976246100",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shatina-mcmillian-ms-hrm-chw-976246100&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQFnoECCAQAQ",
+      "displayed_link": "360+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVvPQhaZ0v9a6EsMwhmhYkPE.png",
+      "snippet": "To obtain a position with a company that will enable me to use my strong organizational… · Experience: Harmony House · Education: Texas A&M University ...",
+      "snippet_highlighted_words": [
+        "House",
+        "Texas"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Harmony House"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "To obtain a position with a company that will enable me to use my strong organizational… · Experience: Harmony House · Education: Texas A&M University ...",
+          "source_info_link": "https://www.linkedin.com/in/shatina-mcmillian-ms-hrm-chw-976246100",
+          "icon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVu6Ix7fuTy0YriYGwnh_i5a40IEhp_0rAIgw1pWVw4fZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/shatina-mcmillian-ms-hrm-chw-976246100&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshatina-mcmillian-ms-hrm-chw-976246100",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+TX-54+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQ5t4CegQIMBAB"
+      },
+      "source": "LinkedIn · Shatina McMillian, MS-HRM, CHW"
+    },
+    {
+      "position": 6,
+      "title": "Government",
+      "link": "https://killeenchamber.com/Government",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://killeenchamber.com/Government&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQFnoECBsQAQ",
+      "displayed_link": "https://killeenchamber.com › Government",
+      "favicon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVoIsxqo5WsEJk9k3xaG63uI.png",
+      "snippet": "The government of Bell County, Texas exists to promote and sustain a superior quality of life in Central Texas.",
+      "snippet_highlighted_words": [
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The government of Bell County, Texas exists to promote and sustain a superior quality of life in Central Texas.",
+          "source_info_link": "https://killeenchamber.com/Government",
+          "icon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVv7CTvikGjHJkpurNaNnSU1wvGfmrONLVqSnwfH-TxJX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://killeenchamber.com/Government&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkilleenchamber.com%2FGovernment",
+      "source": "Killeen Chamber of Commerce"
+    },
+    {
+      "position": 7,
+      "title": "Vanessa Cortez Tanner - Texas House of Representatives",
+      "link": "https://www.linkedin.com/in/vanessactanner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vanessactanner&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQFnoECEMQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVr0j-UXpq4ZZjS3Siu58QA8.png",
+      "snippet": "As campaign manager, I advised the candidate, Texas Supreme Court Justice Jeff Boyd, on campaign strategies and tactics for the statewide race.",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Chief of Staff",
+            "Texas House of Representatives"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "As campaign manager, I advised the candidate, Texas Supreme Court Justice Jeff Boyd, on campaign strategies and tactics for the statewide race.",
+          "source_info_link": "https://www.linkedin.com/in/vanessactanner",
+          "icon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVtYj4bXCOiHeVJVCdNoEApJ0JoM9oOGBzv3XG01qN_bz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/vanessactanner&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvanessactanner",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+TX-54+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQ5t4CegQIRBAB"
+      },
+      "source": "LinkedIn · Vanessa Cortez Tanner"
+    },
+    {
+      "position": 8,
+      "title": "Texas House District 54 - Elected Officials Directory",
+      "link": "https://www.texastribune.org/directory/districts/tx-house/54/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.texastribune.org/directory/districts/tx-house/54/&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQFnoECDYQAQ",
+      "displayed_link": "https://www.texastribune.org › districts › tx-house",
+      "favicon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVvPKjxFrdU33PqgfH_jPFe4.png",
+      "snippet": "Legislative district details for Texas House District 54: Elected official, demographics, counties, cities and schools in the district.",
+      "snippet_highlighted_words": [
+        "Texas House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Legislative district details for Texas House District 54: Elected official, demographics, counties, cities and schools in the district.",
+          "source_info_link": "https://www.texastribune.org/directory/districts/tx-house/54/",
+          "icon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVohIuiNQmsjQW97u5CQEqwq8zDqqsQ8OPN-evnlCKgKE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.texastribune.org/directory/districts/tx-house/54/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.texastribune.org%2Fdirectory%2Fdistricts%2Ftx-house%2F54%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+TX-54+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQ5t4CegQIPhAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 9,
+      "title": "Rachel H. - Lifestyle and Travel Photographer",
+      "link": "https://www.linkedin.com/in/racheljhahn28281",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/racheljhahn28281&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQFnoECDcQAQ",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVjuDvvR8koCVTExvSGXeUls.png",
+      "snippet": "Lifestyle and Travel Photographer · Experience: LeadLab Media · Education: The University of Texas at Austin · Location: Austin · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Lifestyle and Travel Photographer · Experience: LeadLab Media · Education: The University of Texas at Austin · Location: Austin · 500+ connections on ...",
+          "source_info_link": "https://www.linkedin.com/in/racheljhahn28281",
+          "icon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvViC0cTTE94dRocXjO5B4FlmqDSbrugooMTFyIHSiLP_F.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/racheljhahn28281&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fracheljhahn28281",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+TX-54+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQ5t4CegQIORAB"
+      },
+      "source": "LinkedIn · Rachel H."
+    },
+    {
+      "position": 10,
+      "title": "GRK hits 20th anniversary milestone",
+      "link": "https://www.army.mil/article/278732/grk_hits_20th_anniversary_milestone",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.army.mil/article/278732/grk_hits_20th_anniversary_milestone&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQFnoECDoQAQ",
+      "displayed_link": "https://www.army.mil › article",
+      "favicon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVk1vgV1JjxIbeJRo1FTQHIo.png",
+      "date": "Aug 8, 2024",
+      "snippet": "KILLEEN, Texas — Community members gathered Aug. 2 on the second floor of the Killeen Regional Airport, also known as GRK, to celebrate its ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "KILLEEN, Texas — Community members gathered Aug. 2 on the second floor of the Killeen Regional Airport, also known as GRK, to celebrate its ...",
+          "source_info_link": "https://www.army.mil/article/278732/grk_hits_20th_anniversary_milestone",
+          "icon": "https://serpapi.com/searches/69bb5dc00558c02b77d3b354/images/rghs3UEUuOZce2dtBmrvVqvCL2gKrbBA-PBfmX5UxucXsHcUmqMawomFMVCkVeCG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.army.mil/article/278732/grk_hits_20th_anniversary_milestone&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.army.mil%2Farticle%2F278732%2Fgrk_hits_20th_anniversary_milestone",
+      "source": "Army.mil"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Brad+Buckley+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=wl27acqCIuaFqtsPjaTiiQw&start=10&sa=N&sstk=Af77f_ddyF8wWsZ_m6x4GLEElLfnE-QwEvYJQZEiy-MvAKSKdDVclM7bHs3SlG_Z5OmtS-A8gJmymW4ljp1RkwElFFjHQy5qng6Rog&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQ8NMDegQIDRAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Brad+Buckley+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=wl27acqCIuaFqtsPjaTiiQw&start=10&sa=N&sstk=Af77f_ddyF8wWsZ_m6x4GLEElLfnE-QwEvYJQZEiy-MvAKSKdDVclM7bHs3SlG_Z5OmtS-A8gJmymW4ljp1RkwElFFjHQy5qng6Rog&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=Brad+Buckley+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=wl27acqCIuaFqtsPjaTiiQw&start=20&sa=N&sstk=Af77f_ddyF8wWsZ_m6x4GLEElLfnE-QwEvYJQZEiy-MvAKSKdDVclM7bHs3SlG_Z5OmtS-A8gJmymW4ljp1RkwElFFjHQy5qng6Rog&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=Brad+Buckley+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=wl27acqCIuaFqtsPjaTiiQw&start=30&sa=N&sstk=Af77f_ddyF8wWsZ_m6x4GLEElLfnE-QwEvYJQZEiy-MvAKSKdDVclM7bHs3SlG_Z5OmtS-A8gJmymW4ljp1RkwElFFjHQy5qng6Rog&ved=2ahUKEwjK66fb86qTAxXmgmoFHQ2SOMEQ8tMDegQIDRAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+LinkedIn&start=30"
+    }
+  }
+}

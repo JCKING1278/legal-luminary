@@ -1,0 +1,396 @@
+{
+  "search_metadata": {
+    "id": "69bb5cb4a89e0234ad77d62c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/QLvZ9hPD9X-bDUxz3tfBaw/69bb5cb4a89e0234ad77d62c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/QLvZ9hPD9X-bDUxz3tfBaw/69bb5cb4a89e0234ad77d62c.json_with_pixel_position",
+    "created_at": "2026-03-19 02:17:24 UTC",
+    "processed_at": "2026-03-19 02:17:24 UTC",
+    "google_url": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/QLvZ9hPD9X-bDUxz3tfBaw/69bb5cb4a89e0234ad77d62c.html",
+    "total_time_taken": 1.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bell County Sheriff election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bell County Sheriff election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 344000,
+    "time_taken_displayed": 0.51,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "2025-explanatory-statements.pdf",
+      "link": "https://www.bellcountytx.com/elections/2025-explanatory-statements.pdf?t=202508251427310",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bellcountytx.com/elections/2025-explanatory-statements.pdf%3Ft%3D202508251427310&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4QFnoECBkQAQ",
+      "displayed_link": "https://www.bellcountytx.com › elections › 2025-expla...",
+      "favicon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeG_oIfV1FwuVLXEtddFz7Ng.jpeg",
+      "snippet": "No information is available for this page.",
+      "about_this_result": {
+        "source": {
+          "source_info_link": "https://www.bellcountytx.com/elections/2025-explanatory-statements.pdf?t=202508251427310",
+          "icon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeBuQN5QvulPdKdGffi9W2aIl9l6CfDnK0prDAOlSR8v8.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bellcountytx.com/elections/2025-explanatory-statements.pdf?t=202508251427310&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bellcountytx.com%2Felections%2F2025-explanatory-statements.pdf%3Ft%3D202508251427310",
+      "missing": [
+        "Sheriff",
+        "Key",
+        "platform",
+        "issues",
+        "candidates:",
+        "opponents.",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "Bell County, Texas"
+    },
+    {
+      "position": 2,
+      "title": "Six candidates with backgrounds ranging from law ...",
+      "link": "https://www.facebook.com/thefactsnews/posts/six-candidates-with-backgrounds-ranging-from-law-enforcement-and-court-administr/1471019964510172/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/thefactsnews/posts/six-candidates-with-backgrounds-ranging-from-law-enforcement-and-court-administr/1471019964510172/&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4QFnoECB0QAQ",
+      "displayed_link": "10+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeLRoMxEU-LRwSzjUPJiaAC0.png",
+      "snippet": "Six candidates with backgrounds ranging from law enforcement and court administration to public service and private industry are competing ...",
+      "snippet_highlighted_words": [
+        "candidates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Six candidates with backgrounds ranging from law enforcement and court administration to public service and private industry are competing ...",
+          "source_info_link": "https://www.facebook.com/thefactsnews/posts/six-candidates-with-backgrounds-ranging-from-law-enforcement-and-court-administr/1471019964510172/",
+          "icon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeFymg6e64h-AOsmiZZS66mYTpnGXaB4iHdg5BbtRiOWb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/thefactsnews/posts/six-candidates-with-backgrounds-ranging-from-law-enforcement-and-court-administr/1471019964510172/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fthefactsnews%2Fposts%2Fsix-candidates-with-backgrounds-ranging-from-law-enforcement-and-court-administr%2F1471019964510172%2F",
+      "missing": [
+        "summary."
+      ],
+      "must_include": {
+        "word": "summary.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+%22summary.%22&sa=X&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q5t4CegQIHxAB"
+      },
+      "source": "Facebook · The Facts"
+    },
+    {
+      "position": 3,
+      "title": "BELTON — Patrick “Pat” Patterson will follow in his ...",
+      "link": "https://www.facebook.com/TempleTelegram/posts/belton-patrick-pat-patterson-will-follow-in-his-stepfathers-footsteps-as-bell-co/1583678493187427/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/TempleTelegram/posts/belton-patrick-pat-patterson-will-follow-in-his-stepfathers-footsteps-as-bell-co/1583678493187427/&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4QFnoECCAQAQ",
+      "displayed_link": "5 reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeBbVs1Cmvg8phmY9tsBA4ms.png",
+      "snippet": "BELTON — Patrick “Pat” Patterson will follow in his stepfather's footsteps as Bell County Precinct 1 Justice of the Peace while incumbent ...",
+      "snippet_highlighted_words": [
+        "Bell County"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "BELTON — Patrick “Pat” Patterson will follow in his stepfather's footsteps as Bell County Precinct 1 Justice of the Peace while incumbent ...",
+          "source_info_link": "https://www.facebook.com/TempleTelegram/posts/belton-patrick-pat-patterson-will-follow-in-his-stepfathers-footsteps-as-bell-co/1583678493187427/",
+          "icon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeC7kNnb8wzd1w8jow9wcfXEh1nu_4CPVVdie34DIa7UN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/TempleTelegram/posts/belton-patrick-pat-patterson-will-follow-in-his-stepfathers-footsteps-as-bell-co/1583678493187427/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FTempleTelegram%2Fposts%2Fbelton-patrick-pat-patterson-will-follow-in-his-stepfathers-footsteps-as-bell-co%2F1583678493187427%2F",
+      "missing": [
+        "short",
+        "summary."
+      ],
+      "source": "Facebook · Temple Daily Telegram"
+    },
+    {
+      "position": 4,
+      "title": "introduction to the 1995 voters pamphlet",
+      "link": "https://www.sos.wa.gov/sites/default/files/2025-05/SL_voterspamphlet_1995_ed7.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sos.wa.gov/sites/default/files/2025-05/SL_voterspamphlet_1995_ed7.pdf&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4QFnoECDEQAQ",
+      "displayed_link": "https://www.sos.wa.gov › sites › default › files › S...",
+      "favicon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeEJDR5MM0gphLDYUOBPS39c.png",
+      "snippet": "Shall the state enter into compacts with Indian tribes providing for unrestricted gambling on Indian lands within the state's borders? Q YES. Q NO. REFERENDUM ...",
+      "snippet_highlighted_words": [
+        "providing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Shall the state enter into compacts with Indian tribes providing for unrestricted gambling on Indian lands within the state's borders? Q YES. Q NO. REFERENDUM ...",
+          "source_info_link": "https://www.sos.wa.gov/sites/default/files/2025-05/SL_voterspamphlet_1995_ed7.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JePJs8-nfjjzzWV__KUciz66gBjg27FEg4YGd-VfGZQ0r.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sos.wa.gov/sites/default/files/2025-05/SL_voterspamphlet_1995_ed7.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sos.wa.gov%2Fsites%2Fdefault%2Ffiles%2F2025-05%2FSL_voterspamphlet_1995_ed7.pdf",
+      "source": "WA Secretary of State (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "Austin voter guide 2026: What's on the ballot on March 3?",
+      "link": "https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4QFnoECC0QAQ",
+      "displayed_link": "https://www.statesman.com › projects › texas-election-a...",
+      "favicon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeBYGJncq7KsDfS0DqdS4eQ0.png",
+      "date": "Mar 3, 2026",
+      "snippet": "Austin-area voters will head to the polls on March 3 to decide key Texas primary races, including U.S. Senate, governor, and state offices.",
+      "snippet_highlighted_words": [
+        "key"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Austin-area voters will head to the polls on March 3 to decide key Texas primary races, including U.S. Senate, governor, and state offices.",
+          "source_info_link": "https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/",
+          "icon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeAwtKC52lk4AHONVeQ5SVscjzwT5_E9ygClqr7fPirHg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.statesman.com%2Fprojects%2F2026%2Ftexas-election-austin-primary-voting-guide%2F",
+      "source": "Austin American-Statesman"
+    },
+    {
+      "position": 6,
+      "title": "Working Paper Series : Research : Democracy Center",
+      "link": "https://www.sas.rochester.edu/democracycenter/research/working-paper-series.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sas.rochester.edu/democracycenter/research/working-paper-series.html&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4QFnoECDMQAQ",
+      "displayed_link": "https://www.sas.rochester.edu › democracycenter › wor...",
+      "favicon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeC6yRJgQUjVc8uhAbBokjiQ.png",
+      "snippet": "Democratic Balancing: A Candidate-Choice Experiment with Multi-Ballot Races. Kang Huang, Mitch Lovitt, and Gretchen Helmke. In this paper we explore whether and ...",
+      "snippet_highlighted_words": [
+        "Candidate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Democratic Balancing: A Candidate-Choice Experiment with Multi-Ballot Races. Kang Huang, Mitch Lovitt, and Gretchen Helmke. In this paper we explore whether and ...",
+          "source_info_link": "https://www.sas.rochester.edu/democracycenter/research/working-paper-series.html",
+          "icon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeFwWWqjka9LHilsM0Iv6Vq9OAMGgo146jD8xsRWTZOR5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sas.rochester.edu/democracycenter/research/working-paper-series.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sas.rochester.edu%2Fdemocracycenter%2Fresearch%2Fworking-paper-series.html",
+      "source": "University of Rochester"
+    },
+    {
+      "position": 7,
+      "title": "Public Comments - Texas Legislature Online",
+      "link": "https://capitol.texas.gov/tlodocs/87R/handouts/C0902021082308001/6afa33c4-37f7-4a3b-acd3-14ca3bbc542a.PDF",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://capitol.texas.gov/tlodocs/87R/handouts/C0902021082308001/6afa33c4-37f7-4a3b-acd3-14ca3bbc542a.PDF&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4QFnoECC8QAQ",
+      "displayed_link": "https://capitol.texas.gov › tlodocs › handouts",
+      "favicon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeKqhjMWY483_cMyTTISFWvI.jpeg",
+      "date": "Aug 30, 2021",
+      "snippet": "with hand delivering the pictures to the county election office for secure upload to State servers for fraud analysis. Voting and Rolls. * a ...",
+      "snippet_highlighted_words": [
+        "county election",
+        "analysis",
+        "Voting"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 466
+          },
+          "extensions": [
+            "466 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "with hand delivering the pictures to the county election office for secure upload to State servers for fraud analysis. Voting and Rolls. * a ...",
+          "source_info_link": "https://capitol.texas.gov/tlodocs/87R/handouts/C0902021082308001/6afa33c4-37f7-4a3b-acd3-14ca3bbc542a.PDF",
+          "icon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeFCZe3GOdhfWUtrO9HI88V81qosvP7J86T_9xBCa83Du.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://capitol.texas.gov/tlodocs/87R/handouts/C0902021082308001/6afa33c4-37f7-4a3b-acd3-14ca3bbc542a.PDF&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcapitol.texas.gov%2Ftlodocs%2F87R%2Fhandouts%2FC0902021082308001%2F6afa33c4-37f7-4a3b-acd3-14ca3bbc542a.PDF",
+      "source": "Texas Legislature Online (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "TEXAS JUDICIAL ETHICS OPINIONS",
+      "link": "https://www.txcourts.gov/media/678096/JudicialEthicsOpinions.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.txcourts.gov/media/678096/JudicialEthicsOpinions.pdf&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4QFnoECDYQAQ",
+      "displayed_link": "https://www.txcourts.gov › media › JudicialEthics...",
+      "favicon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeFkMm6HitYUbk4IVz8KeKj4.png",
+      "snippet": "well as to all other judges and candidates. Section 4(i) provides a date when persons expecting to be candidates in the 1996 election may begin to raise ...",
+      "snippet_highlighted_words": [
+        "candidates",
+        "provides",
+        "candidates",
+        "election"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 171
+          },
+          "extensions": [
+            "171 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "well as to all other judges and candidates. Section 4(i) provides a date when persons expecting to be candidates in the 1996 election may begin to raise ...",
+          "source_info_link": "https://www.txcourts.gov/media/678096/JudicialEthicsOpinions.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeLBakYLrwITydS5e8x9KOySDNJeVTumhLFknb-ETBNO7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.txcourts.gov/media/678096/JudicialEthicsOpinions.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.txcourts.gov%2Fmedia%2F678096%2FJudicialEthicsOpinions.pdf",
+      "missing": [
+        "Key",
+        "summary."
+      ],
+      "source": "TXCourts.gov"
+    },
+    {
+      "position": 9,
+      "title": "Hearing on the Weaponization of the Federal Government",
+      "link": "https://www.congress.gov/event/118th-congress/house-event/115294/text",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/event/118th-congress/house-event/115294/text&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4QFnoECDIQAQ",
+      "displayed_link": "https://www.congress.gov › event › house-event › text",
+      "favicon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeLbxKtYtdUJmQz9AKv7nr3E.png",
+      "snippet": "Dozens and dozens of whistleblowers, FBI agents coming to us, talking about what is going on, the political nature at the Justice Department. Not Jim Jordan ...",
+      "about_this_result": {
+        "source": {
+          "description": "Dozens and dozens of whistleblowers, FBI agents coming to us, talking about what is going on, the political nature at the Justice Department. Not Jim Jordan ...",
+          "source_info_link": "https://www.congress.gov/event/118th-congress/house-event/115294/text",
+          "icon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeNr46kP8JVoksLfPPlz1Oa0mjHp0NKe043a5fA2cRn3c.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/event/118th-congress/house-event/115294/text&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2Fevent%2F118th-congress%2Fhouse-event%2F115294%2Ftext",
+      "source": "Congress.gov"
+    },
+    {
+      "position": 10,
+      "title": "Volume 50 Number 43 October 24, 2025 Pages 6931 – 7078",
+      "link": "https://www.sos.state.tx.us/texreg/pdf/backview/1024/1024is.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sos.state.tx.us/texreg/pdf/backview/1024/1024is.pdf&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4QFnoECDAQAQ",
+      "displayed_link": "https://www.sos.state.tx.us › pdf › backview",
+      "favicon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeALrsyXDJlt400RMP3HRrYU.png",
+      "date": "Oct 24, 2025",
+      "snippet": "Appointments. Appointments for October 13, 2025. Appointed to the Texas Health Services Authority Board of Directors.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 149
+          },
+          "extensions": [
+            "149 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Appointments. Appointments for October 13, 2025. Appointed to the Texas Health Services Authority Board of Directors.",
+          "source_info_link": "https://www.sos.state.tx.us/texreg/pdf/backview/1024/1024is.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cb4a89e0234ad77d62c/images/vANqVRy5SbnxpxsBH11JeBeHSMo8he14iicZoBaadP-JMmVCN8ImH-GjXwxeSTPV.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sos.state.tx.us/texreg/pdf/backview/1024/1024is.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sos.state.tx.us%2Ftexreg%2Fpdf%2Fbackview%2F1024%2F1024is.pdf",
+      "source": "the Texas Secretary of State"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=tVy7aZW8FO-1qtsPk-CE8A4&start=10&sa=N&sstk=Af77f_dDdRJSHTCmuzgowGUALwojMXPqjhMiTfj_o5HbY_uk4Dgk69vQMK5RK0nrslaYCPqgybJ9r5irlAcLAO05bnhbc6_qsGpnVg&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=tVy7aZW8FO-1qtsPk-CE8A4&start=10&sa=N&sstk=Af77f_dDdRJSHTCmuzgowGUALwojMXPqjhMiTfj_o5HbY_uk4Dgk69vQMK5RK0nrslaYCPqgybJ9r5irlAcLAO05bnhbc6_qsGpnVg&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=tVy7aZW8FO-1qtsPk-CE8A4&start=20&sa=N&sstk=Af77f_dDdRJSHTCmuzgowGUALwojMXPqjhMiTfj_o5HbY_uk4Dgk69vQMK5RK0nrslaYCPqgybJ9r5irlAcLAO05bnhbc6_qsGpnVg&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=tVy7aZW8FO-1qtsPk-CE8A4&start=30&sa=N&sstk=Af77f_dDdRJSHTCmuzgowGUALwojMXPqjhMiTfj_o5HbY_uk4Dgk69vQMK5RK0nrslaYCPqgybJ9r5irlAcLAO05bnhbc6_qsGpnVg&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=tVy7aZW8FO-1qtsPk-CE8A4&start=40&sa=N&sstk=Af77f_dDdRJSHTCmuzgowGUALwojMXPqjhMiTfj_o5HbY_uk4Dgk69vQMK5RK0nrslaYCPqgybJ9r5irlAcLAO05bnhbc6_qsGpnVg&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=tVy7aZW8FO-1qtsPk-CE8A4&start=50&sa=N&sstk=Af77f_dDdRJSHTCmuzgowGUALwojMXPqjhMiTfj_o5HbY_uk4Dgk69vQMK5RK0nrslaYCPqgybJ9r5irlAcLAO05bnhbc6_qsGpnVg&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=tVy7aZW8FO-1qtsPk-CE8A4&start=60&sa=N&sstk=Af77f_dDdRJSHTCmuzgowGUALwojMXPqjhMiTfj_o5HbY_uk4Dgk69vQMK5RK0nrslaYCPqgybJ9r5irlAcLAO05bnhbc6_qsGpnVg&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=tVy7aZW8FO-1qtsPk-CE8A4&start=70&sa=N&sstk=Af77f_dDdRJSHTCmuzgowGUALwojMXPqjhMiTfj_o5HbY_uk4Dgk69vQMK5RK0nrslaYCPqgybJ9r5irlAcLAO05bnhbc6_qsGpnVg&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=tVy7aZW8FO-1qtsPk-CE8A4&start=80&sa=N&sstk=Af77f_dDdRJSHTCmuzgowGUALwojMXPqjhMiTfj_o5HbY_uk4Dgk69vQMK5RK0nrslaYCPqgybJ9r5irlAcLAO05bnhbc6_qsGpnVg&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=tVy7aZW8FO-1qtsPk-CE8A4&start=90&sa=N&sstk=Af77f_dDdRJSHTCmuzgowGUALwojMXPqjhMiTfj_o5HbY_uk4Dgk69vQMK5RK0nrslaYCPqgybJ9r5irlAcLAO05bnhbc6_qsGpnVg&ved=2ahUKEwjV6vfa8qqTAxXvmmoFHRMwAe4Q8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Sheriff+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

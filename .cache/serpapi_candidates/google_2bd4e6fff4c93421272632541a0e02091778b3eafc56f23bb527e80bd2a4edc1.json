@@ -1,0 +1,359 @@
+{
+  "search_metadata": {
+    "id": "69bb5e2113f4b6fc175e90b8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/I3zO5MzEbaEmgAWiTrqx-A/69bb5e2113f4b6fc175e90b8.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/I3zO5MzEbaEmgAWiTrqx-A/69bb5e2113f4b6fc175e90b8.json_with_pixel_position",
+    "created_at": "2026-03-19 02:23:29 UTC",
+    "processed_at": "2026-03-19 02:23:29 UTC",
+    "google_url": "https://www.google.com/search?q=Elvis+Arturo+Lossa+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&oq=Elvis+Arturo+Lossa+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/I3zO5MzEbaEmgAWiTrqx-A/69bb5e2113f4b6fc175e90b8.html",
+    "total_time_taken": 3.44
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Elvis Arturo Lossa \"US House TX-31\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Elvis Arturo Lossa \"US House TX-31\" \"Central Texas\" Instagram",
+    "total_results": 396,
+    "time_taken_displayed": 0.7,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Elvis Arturo Lossa US House TX-31 Central Texas Instagram",
+    "spelling_fix": "Elvis Arturo Lossa US House TX-31 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Elvis Lossa for Congress (TX-31) (@elvisforcongress)",
+      "link": "https://www.instagram.com/elvisforcongress/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/elvisforcongress/&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQFnoECCEQAQ",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2KPXCviCqNxbdh_PqYsPiuQ.png",
+      "snippet": "607 followers · 2.9K+ following · 56 posts · @elvisforcongress: “✝️ | Proven Conservative | Combat Veteran | Dad | Policy Coordinator in the Texas House ...",
+      "snippet_highlighted_words": [
+        "Texas House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "607 followers · 2.9K+ following · 56 posts · @elvisforcongress: “✝️ | Proven Conservative | Combat Veteran | Dad | Policy Coordinator in the Texas House ...",
+          "source_info_link": "https://www.instagram.com/elvisforcongress/",
+          "icon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2MdKeiBuNpQ7F_85K0mXQpyFXaz6ghc3iMuJeiANfI2c.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/elvisforcongress/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Felvisforcongress%2F",
+      "missing": [
+        "Arturo"
+      ],
+      "must_include": {
+        "word": "Arturo",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Elvis+%22Arturo%22+Lossa+US+House+TX-31+Central+Texas+Instagram&sa=X&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQ5t4CegQINhAB"
+      },
+      "source": "Instagram · elvisforcongress"
+    },
+    {
+      "position": 2,
+      "title": "Elvis A. Lossa (@elvisalossa)",
+      "link": "https://www.instagram.com/elvisalossa/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/elvisalossa/&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQFnoECB8QAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2LiqKseRnN5tCmXkBJ-mGlM.png",
+      "snippet": "1K+ followers · 2.2K+ following · 523 posts · @elvisalossa: “Texas. Veteran. Dad. Trying to be better every day. Blessed, Gracias a Dios.”",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1K+ followers · 2.2K+ following · 523 posts · @elvisalossa: “Texas. Veteran. Dad. Trying to be better every day. Blessed, Gracias a Dios.”",
+          "source_info_link": "https://www.instagram.com/elvisalossa/",
+          "icon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2Jscr9gR-wICJl1czmvNFnuRdhu1xQDxJEPmR6zA6Ie6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/elvisalossa/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Felvisalossa%2F",
+      "source": "Instagram · elvisalossa"
+    },
+    {
+      "position": 3,
+      "title": "Elvis Lossa for Congress (TX-31) | Through every chapter ...",
+      "link": "https://www.instagram.com/p/DUvxxOfgCB3/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUvxxOfgCB3/&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQFnoECB4QAQ",
+      "displayed_link": "30+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2FYENQGLm32UIW8B6oUzSGU.png",
+      "snippet": "30 likes, 0 comments - elvisforcongress on February 14, 2026: \"Through every chapter, every season, every challenge. Still us.",
+      "snippet_highlighted_words": [
+        "us"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "30 likes, 0 comments - elvisforcongress on February 14, 2026: \"Through every chapter, every season, every challenge. Still us.",
+          "source_info_link": "https://www.instagram.com/p/DUvxxOfgCB3/",
+          "icon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2I4SpeqpcLDPdGNQm7twngdJwIVLuijxLAZnpw1g5wAh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUvxxOfgCB3/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUvxxOfgCB3%2F",
+      "missing": [
+        "Arturo",
+        "Texas"
+      ],
+      "source": "Instagram · elvisforcongress"
+    },
+    {
+      "position": 4,
+      "title": "Elvis Lossa for Congress (TX-31) | Strong conversations in ...",
+      "link": "https://www.instagram.com/p/DVOimjcgCjY/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DVOimjcgCjY/&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQFnoECCIQAQ",
+      "displayed_link": "20+ likes · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2NPNCrYE9Jg-P6pblCnXHnM.png",
+      "snippet": "25 likes, 0 comments - elvisforcongress on February 26, 2026: \"Strong conversations in Killeen tonight. Grateful for the support and honored ...",
+      "about_this_result": {
+        "source": {
+          "description": "25 likes, 0 comments - elvisforcongress on February 26, 2026: \"Strong conversations in Killeen tonight. Grateful for the support and honored ...",
+          "source_info_link": "https://www.instagram.com/p/DVOimjcgCjY/",
+          "icon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2Ggg70SsA7sdkrx7F7uMPW7m8hXNVVe9653Rh8ss_F5C.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DVOimjcgCjY/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDVOimjcgCjY%2F",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "Instagram · elvisforcongress"
+    },
+    {
+      "position": 5,
+      "title": "Service isn't something you learn once you get to Congress.",
+      "link": "https://www.instagram.com/p/DUBLbNrgI2Z/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUBLbNrgI2Z/&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQFnoECCMQAQ",
+      "displayed_link": "10+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2HPxfCLXA0A9kR3eAC-wbUY.png",
+      "snippet": "16 likes, 0 comments - elvisforcongress on January 27, 2026: \"Service isn't something you learn once you get to Congress.",
+      "about_this_result": {
+        "source": {
+          "description": "16 likes, 0 comments - elvisforcongress on January 27, 2026: \"Service isn't something you learn once you get to Congress.",
+          "source_info_link": "https://www.instagram.com/p/DUBLbNrgI2Z/",
+          "icon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2DTeEqEXfG315dRELNlHTSXhd1golemQJN7FTPkfdKEp.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUBLbNrgI2Z/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUBLbNrgI2Z%2F",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "Instagram · elvisforcongress"
+    },
+    {
+      "position": 6,
+      "title": "Elvis Lossa for Congress (TX-31) (@elvisforcongress)",
+      "link": "https://www.instagram.com/elvisforcongress/reels/?__d=1https%3A%2F%2Fwww.instagram.com%2Fsyjobodygoals%2F",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/elvisforcongress/reels/%3F__d%3D1https%253A%252F%252Fwww.instagram.com%252Fsyjobodygoals%252F&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQFnoECB0QAQ",
+      "displayed_link": "https://www.instagram.com › elvisforcongress › reels",
+      "favicon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2F6scy0CMtuTVn_RqbEyZ2E.png",
+      "date": "Jan 16, 2026",
+      "snippet": "484 followers · 2.4K+ following · 39 posts · @elvisforcongress: “✝️ | Proven Conservative | Combat Veteran | Dad | Policy Coordinator in ...",
+      "about_this_result": {
+        "source": {
+          "description": "484 followers · 2.4K+ following · 39 posts · @elvisforcongress: “✝️ | Proven Conservative | Combat Veteran | Dad | Policy Coordinator in ...",
+          "source_info_link": "https://www.instagram.com/elvisforcongress/reels/?__d=1https%3A%2F%2Fwww.instagram.com%2Fsyjobodygoals%2F",
+          "icon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2N4MUdVPdf71wdOlTfYMNymHjLNg7g04Fo0OCVvpkJ1d.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/elvisforcongress/reels/?__d=1https%3A%2F%2Fwww.instagram.com%2Fsyjobodygoals%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Felvisforcongress%2Freels%2F%3F__d%3D1https%253A%252F%252Fwww.instagram.com%252Fsyjobodygoals%252F",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "Instagram"
+    },
+    {
+      "position": 7,
+      "title": "Elvis Lossa for Congress (TX-31) | Officially underway. ...",
+      "link": "https://www.instagram.com/p/DSTjMk8DOrN/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DSTjMk8DOrN/&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQFnoECCAQAQ",
+      "displayed_link": "20+ likes · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2CD1nes3hSo2CU9jLUHNxK0.png",
+      "snippet": "26 likes, 0 comments - elvisforcongress on December 15, 2025: \"Officially underway. Grateful for the encouragement and support as we get to ...",
+      "about_this_result": {
+        "source": {
+          "description": "26 likes, 0 comments - elvisforcongress on December 15, 2025: \"Officially underway. Grateful for the encouragement and support as we get to ...",
+          "source_info_link": "https://www.instagram.com/p/DSTjMk8DOrN/",
+          "icon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2GoX-EFYdZC64DkDDj1lJXAVQB_g-OO2MzxXatkO_AsH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DSTjMk8DOrN/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDSTjMk8DOrN%2F",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "Instagram · elvisforcongress"
+    },
+    {
+      "position": 8,
+      "title": "Elvis Lossa for Congress (TX-31) | Congressional Job ...",
+      "link": "https://www.instagram.com/reel/DS4DmEZgMiV/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DS4DmEZgMiV/&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQFnoECEUQAQ",
+      "displayed_link": "40+ likes · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2Aj6sqLcb2o9o-SQYyJs5Ug.png",
+      "snippet": "47 likes, 2 comments - elvisforcongress on December 29, 2025: \"Congressional Job Performance Review: Texas 31 Is TX-31 getting full-time ...",
+      "snippet_highlighted_words": [
+        "Congressional",
+        "Texas",
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "47 likes, 2 comments - elvisforcongress on December 29, 2025: \"Congressional Job Performance Review: Texas 31 Is TX-31 getting full-time ...",
+          "source_info_link": "https://www.instagram.com/reel/DS4DmEZgMiV/",
+          "icon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2KLSopSiyUi5vjZOJ--Yrd4xSBnfD1HTflNnspwF1RKl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DS4DmEZgMiV/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDS4DmEZgMiV%2F",
+      "missing": [
+        "Arturo"
+      ],
+      "must_include": {
+        "word": "Arturo",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Elvis+%22Arturo%22+Lossa+US+House+TX-31+Central+Texas+Instagram&sa=X&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQ5t4CegQIRhAB"
+      },
+      "source": "Instagram · elvisforcongress"
+    },
+    {
+      "position": 9,
+      "title": "Elvis Lossa for Congress (TX-31) | I'm proud of the work ...",
+      "link": "https://www.instagram.com/p/DUGKAGJAGHE/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUGKAGJAGHE/&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQFnoECD4QAQ",
+      "displayed_link": "20+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2HDeWITovulnLMeKaE0BXAs.png",
+      "snippet": "25 likes, 0 comments - elvisforcongress on January 29, 2026: \"I'm proud of the work I've been part of over the years and the responsibility ...",
+      "about_this_result": {
+        "source": {
+          "description": "25 likes, 0 comments - elvisforcongress on January 29, 2026: \"I'm proud of the work I've been part of over the years and the responsibility ...",
+          "source_info_link": "https://www.instagram.com/p/DUGKAGJAGHE/",
+          "icon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2OiK9kP0xYlK4LnFpo4tUribBVI7W5a-HTpy5DzIhPsw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUGKAGJAGHE/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUGKAGJAGHE%2F",
+      "missing": [
+        "Arturo",
+        "Central"
+      ],
+      "source": "Instagram · elvisforcongress"
+    },
+    {
+      "position": 10,
+      "title": "Family push in Round Rock today. Service ...",
+      "link": "https://www.instagram.com/p/DVW9B4KAI8K/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DVW9B4KAI8K/&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQFnoECD0QAQ",
+      "displayed_link": "30+ likes · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2Lp14sbQw1X3vdJt9Bz8N4c.png",
+      "snippet": "39 likes, 4 comments - elvisforcongress on March 1, 2026: \"Family push in Round Rock today. Service matters. Kids on bikes, push cards in ...",
+      "about_this_result": {
+        "source": {
+          "description": "39 likes, 4 comments - elvisforcongress on March 1, 2026: \"Family push in Round Rock today. Service matters. Kids on bikes, push cards in ...",
+          "source_info_link": "https://www.instagram.com/p/DVW9B4KAI8K/",
+          "icon": "https://serpapi.com/searches/69bb5e2113f4b6fc175e90b8/images/KUYI9U1W-YiQf9pb7y5A2EJyDecOH4R4EcSJs7dGTkvZ3MNltS02-wZJN7dQgO6r.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DVW9B4KAI8K/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDVW9B4KAI8K%2F",
+      "missing": [
+        "Arturo",
+        "US",
+        "Central"
+      ],
+      "source": "Instagram · elvisforcongress"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=I167aZGDL9akqtsPyPzIgAw&start=10&sa=N&sstk=Af77f_d7Y61EnTKNoyfp7OB4Op8TYdJo79PTLo3P0AfEz3uPImwszMCFie7c3Bzj1ZopYSlfmxFtyre7wqQoG4bmi6NRT8TaXQL4bw&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQ8NMDegQIDBAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=I167aZGDL9akqtsPyPzIgAw&start=10&sa=N&sstk=Af77f_d7Y61EnTKNoyfp7OB4Op8TYdJo79PTLo3P0AfEz3uPImwszMCFie7c3Bzj1ZopYSlfmxFtyre7wqQoG4bmi6NRT8TaXQL4bw&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=I167aZGDL9akqtsPyPzIgAw&start=20&sa=N&sstk=Af77f_d7Y61EnTKNoyfp7OB4Op8TYdJo79PTLo3P0AfEz3uPImwszMCFie7c3Bzj1ZopYSlfmxFtyre7wqQoG4bmi6NRT8TaXQL4bw&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=I167aZGDL9akqtsPyPzIgAw&start=30&sa=N&sstk=Af77f_d7Y61EnTKNoyfp7OB4Op8TYdJo79PTLo3P0AfEz3uPImwszMCFie7c3Bzj1ZopYSlfmxFtyre7wqQoG4bmi6NRT8TaXQL4bw&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQ8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=I167aZGDL9akqtsPyPzIgAw&start=40&sa=N&sstk=Af77f_d7Y61EnTKNoyfp7OB4Op8TYdJo79PTLo3P0AfEz3uPImwszMCFie7c3Bzj1ZopYSlfmxFtyre7wqQoG4bmi6NRT8TaXQL4bw&ved=2ahUKEwjRoNWJ9KqTAxVWkmoFHUg-EsAQ8tMDegQIDBAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Elvis+Arturo+Lossa+US+House+TX-31+Central+Texas+Instagram&start=40"
+    }
+  }
+}

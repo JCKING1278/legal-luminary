@@ -1,0 +1,363 @@
+{
+  "search_metadata": {
+    "id": "69bb5d73874d508f23cf6868",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/r_BcPE4rnQ2ibksCuez5gA/69bb5d73874d508f23cf6868.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/r_BcPE4rnQ2ibksCuez5gA/69bb5d73874d508f23cf6868.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:35 UTC",
+    "processed_at": "2026-03-19 02:20:35 UTC",
+    "google_url": "https://www.google.com/search?q=Jimmy+D.+Towers+%22CTC+Trustee+Place+1%22+%22Central+Texas%22+LinkedIn&oq=Jimmy+D.+Towers+%22CTC+Trustee+Place+1%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/r_BcPE4rnQ2ibksCuez5gA/69bb5d73874d508f23cf6868.html",
+    "total_time_taken": 1.58
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Jimmy D. Towers \"CTC Trustee Place 1\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Jimmy D. Towers \"CTC Trustee Place 1\" \"Central Texas\" LinkedIn",
+    "total_results": 365,
+    "time_taken_displayed": 0.44,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Jimmy D. Towers CTC Trustee Place 1 Central Texas LinkedIn",
+    "spelling_fix": "Jimmy D. Towers CTC Trustee Place 1 Central Texas LinkedIn"
+  },
+  "ai_overview": {
+    "page_token": "y7zsgHicxZZbk6o4EIDfz_9YXzzDRdxRpoo6lUQcUbwwMo7Oi8UlRhBkBBH1bf_L_qr9NRvwhjrM2bNVW9sPkKQ73aH7Sxd__Ok5y8Vf377N1-uP6IllkyRhSBAQDzNW4LNGtFta7CzwotCa_9htJKFkRRJXwo5kNys1Y_bYQLU4_qhXB44ZRwnolrIt0tQ0IuxSj1s3YqcsfSx-Exp0wkQMXjILsQaVqd8b7rpMheNFps8aPjUA_5HI4IU-oUIHVMi1EmVLcvFuTc607dzSwQXMrUwOi4TIQEvnzc8PImc7h4juHcDNQ9I1CqMCJTeDkyxsM40DEIGZwa0odyuXI3aOTgti3Ts67GxckgVBoSjKSQs1gBBoJeiiPLogxyBVoCJ0dgepGg2ggJSg2D3dOSItef6gga_qRK2Ul15iT2glWJtQnjjWDOmLZx1rbmWDMEoxQ7rIBc36YD_qayZ49MTFaMf3XoE10RYVMEgAa5nUzgsMG9vT-ZT7ngFtRWeiozzRsasAewt3g57FqAzkczinmSTo6pBpYQvq8ImgYtWhpAGQU7jPVA_SAXw9GdUBJADJl-LJR5_3OGeiXC0SctChdEpuTFNfi-Po5N_Kq-H5C-gZaKUvMZK8GcqjpSiKnEabHDyQvBmdQ3qF0lEnu2atvBug5HIF02tL86xdvil9Nk7nTdOQOpcBaWDUTc0QzQhKjdIJRFlSoSbfgg_JZd4FqIoOOP-6wMLreBINnPi9wTGP8XODn_I1zt3qM8Xw4_pW3Wuzzt7dNJvkiG3gm7_Qia3_D-xjn-5ktzwg92CTr8DWZPRFnz6CfenTWUNCzc_BljNQcn0a59V5sDWo5MDeFvbpHNjKT8EeX6XlDLb2CdjwFmxYDHbap89gIwRv-nT2WVlacmD_qz6t_fM-nfGND6_rph27pLh5a9VAnMUJP169bVY7Qwjfhi4ko7Ha1-6b98xfPxm2933q2E-w0l7v7NJKaju-vys3mLIeJDiMykhHZT2MozXG5YFnWLjMlxFerkPDK-t4a0Rllf4sYVtZlnwvDCTOqOr4ebir9aoTs9ufm5oqbIdDYT0Yd2tWrw5q_O_7ZyIudG6mVjr7yvJddBLusVGrqKaG9dbsff4eC4qpxvO2M3p5UM0HUW4I7odWtQfOq14b-Yoz63Qr43AO31_e5jEyhaautgl0txP8yK29fmvRyE4TSavhplV_XbkTISj5oSXR2lUJ6GngjaRduRRZxhRHG8mqWIaIa7xY5wQRz4SST9a7D0nkStEylPi_AYXg3I4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=y7zsgHicxZZbk6o4EIDfz_9YXzzDRdxRpoo6lUQcUbwwMo7Oi8UlRhBkBBH1bf_L_qr9NRvwhjrM2bNVW9sPkKQ73aH7Sxd__Ok5y8Vf377N1-uP6IllkyRhSBAQDzNW4LNGtFta7CzwotCa_9htJKFkRRJXwo5kNys1Y_bYQLU4_qhXB44ZRwnolrIt0tQ0IuxSj1s3YqcsfSx-Exp0wkQMXjILsQaVqd8b7rpMheNFps8aPjUA_5HI4IU-oUIHVMi1EmVLcvFuTc607dzSwQXMrUwOi4TIQEvnzc8PImc7h4juHcDNQ9I1CqMCJTeDkyxsM40DEIGZwa0odyuXI3aOTgti3Ts67GxckgVBoSjKSQs1gBBoJeiiPLogxyBVoCJ0dgepGg2ggJSg2D3dOSItef6gga_qRK2Ul15iT2glWJtQnjjWDOmLZx1rbmWDMEoxQ7rIBc36YD_qayZ49MTFaMf3XoE10RYVMEgAa5nUzgsMG9vT-ZT7ngFtRWeiozzRsasAewt3g57FqAzkczinmSTo6pBpYQvq8ImgYtWhpAGQU7jPVA_SAXw9GdUBJADJl-LJR5_3OGeiXC0SctChdEpuTFNfi-Po5N_Kq-H5C-gZaKUvMZK8GcqjpSiKnEabHDyQvBmdQ3qF0lEnu2atvBug5HIF02tL86xdvil9Nk7nTdOQOpcBaWDUTc0QzQhKjdIJRFlSoSbfgg_JZd4FqIoOOP-6wMLreBINnPi9wTGP8XODn_I1zt3qM8Xw4_pW3Wuzzt7dNJvkiG3gm7_Qia3_D-xjn-5ktzwg92CTr8DWZPRFnz6CfenTWUNCzc_BljNQcn0a59V5sDWo5MDeFvbpHNjKT8EeX6XlDLb2CdjwFmxYDHbap89gIwRv-nT2WVlacmD_qz6t_fM-nfGND6_rph27pLh5a9VAnMUJP169bVY7Qwjfhi4ko7Ha1-6b98xfPxm2933q2E-w0l7v7NJKaju-vys3mLIeJDiMykhHZT2MozXG5YFnWLjMlxFerkPDK-t4a0Rllf4sYVtZlnwvDCTOqOr4ebir9aoTs9ufm5oqbIdDYT0Yd2tWrw5q_O_7ZyIudG6mVjr7yvJddBLusVGrqKaG9dbsff4eC4qpxvO2M3p5UM0HUW4I7odWtQfOq14b-Yoz63Qr43AO31_e5jEyhaautgl0txP8yK29fmvRyE4TSavhplV_XbkTISj5oSXR2lUJ6GngjaRduRRZxhRHG8mqWIaIa7xY5wQRz4SST9a7D0nkStEylPi_AYXg3I4"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The_Robert_Allen_Duralee_Gro...",
+      "link": "https://www.pacermonitor.com/public/filings/DQFBYBEY/The_Robert_Allen_Duralee_Group__nyebke-19-71023__0002.0.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pacermonitor.com/public/filings/DQFBYBEY/The_Robert_Allen_Duralee_Group__nyebke-19-71023__0002.0.pdf&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQFnoECCIQAQ",
+      "displayed_link": "https://www.pacermonitor.com › filings › DQFBYBEY",
+      "favicon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNvGD3MzwENwWVLJfYTKA9dA.png",
+      "snippet": "2.0 - Filed 02/12/2019: Verification of List of Creditors Filed by Mark T Power on behalf of The Robert Allen Duralee Group, Inc. (Power, ...",
+      "about_this_result": {
+        "source": {
+          "description": "2.0 - Filed 02/12/2019: Verification of List of Creditors Filed by Mark T Power on behalf of The Robert Allen Duralee Group, Inc. (Power, ...",
+          "source_info_link": "https://www.pacermonitor.com/public/filings/DQFBYBEY/The_Robert_Allen_Duralee_Group__nyebke-19-71023__0002.0.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNiWXQ3gg8r4m88Nnt0JSoZR4hGvrGQfLDwdQ66qhWZTP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pacermonitor.com/public/filings/DQFBYBEY/The_Robert_Allen_Duralee_Group__nyebke-19-71023__0002.0.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pacermonitor.com%2Fpublic%2Ffilings%2FDQFBYBEY%2FThe_Robert_Allen_Duralee_Group__nyebke-19-71023__0002.0.pdf",
+      "source": "PacerMonitor"
+    },
+    {
+      "position": 2,
+      "title": "CTC swears in new board members | Education",
+      "link": "https://kdhnews.com/news/education/ctc-swears-in-new-board-members/article_76a982e1-cdda-4c65-9d6d-3441cc86747c.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/education/ctc-swears-in-new-board-members/article_76a982e1-cdda-4c65-9d6d-3441cc86747c.html&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQFnoECCkQAQ",
+      "displayed_link": "https://kdhnews.com › news › ctc-swears-in-new-board-...",
+      "favicon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNpgdDL4vd_YXkRQ3skrcpOQ.png",
+      "date": "May 20, 2025",
+      "snippet": "Swearing in were longtime board members Jimmy Towers (Place 1) and Eric Armstrong (Place 4), who ran unopposed in the May 3 election, along with ...",
+      "snippet_highlighted_words": [
+        "Jimmy Towers",
+        "Place 1",
+        "Place"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Swearing in were longtime board members Jimmy Towers (Place 1) and Eric Armstrong (Place 4), who ran unopposed in the May 3 election, along with ...",
+          "source_info_link": "https://kdhnews.com/news/education/ctc-swears-in-new-board-members/article_76a982e1-cdda-4c65-9d6d-3441cc86747c.html",
+          "icon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNpFDtprkiuJIzTFWEAhgBHvPvca6o8UPqs_AVNCkny-5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/education/ctc-swears-in-new-board-members/article_76a982e1-cdda-4c65-9d6d-3441cc86747c.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Feducation%2Fctc-swears-in-new-board-members%2Farticle_76a982e1-cdda-4c65-9d6d-3441cc86747c.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Under JP Morrell's leadership, utility costs have risen ...",
+      "link": "https://www.facebook.com/groups/bigeasymagazinesocialcrew/posts/3271511716333282/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/bigeasymagazinesocialcrew/posts/3271511716333282/&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQFnoECB4QAQ",
+      "displayed_link": "1 comment · 5 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNv0la0pAebEXBXYl4D1_3Dc.png",
+      "snippet": "Under JP Morrell's leadership, utility costs have risen by $200 over the last four years, hitting the people who can least afford it.",
+      "about_this_result": {
+        "source": {
+          "description": "Under JP Morrell's leadership, utility costs have risen by $200 over the last four years, hitting the people who can least afford it.",
+          "source_info_link": "https://www.facebook.com/groups/bigeasymagazinesocialcrew/posts/3271511716333282/",
+          "icon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNm1WWtpeCQ4hg5-_ectZa_FCjw8JAAKiLaGe20-y-Y7u.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/bigeasymagazinesocialcrew/posts/3271511716333282/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fbigeasymagazinesocialcrew%2Fposts%2F3271511716333282%2F",
+      "source": "Facebook · Big Easy Magazine Social Krewe"
+    },
+    {
+      "position": 4,
+      "title": "Case 21-10549-JTD Doc 423 Filed 06/08/21 Page 1 of 138",
+      "link": "https://cases.stretto.com/public/x130/11572/PLEADINGS/1157206092180000000004.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cases.stretto.com/public/x130/11572/PLEADINGS/1157206092180000000004.pdf&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQFnoECB0QAQ",
+      "displayed_link": "https://cases.stretto.com › public › PLEADINGS",
+      "favicon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNn0Bv_-faoXAL7TQ63SFqUI.png",
+      "date": "Aug 6, 2021",
+      "snippet": "PLEASE TAKE FURTHER NOTICE that, on June 3, 2021, the Bankruptcy Court entered the Order. (A) Approving Disclosure Statement; (B) Scheduling ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 138
+          },
+          "extensions": [
+            "138 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "PLEASE TAKE FURTHER NOTICE that, on June 3, 2021, the Bankruptcy Court entered the Order. (A) Approving Disclosure Statement; (B) Scheduling ...",
+          "source_info_link": "https://cases.stretto.com/public/x130/11572/PLEADINGS/1157206092180000000004.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNo5fn8mOVyVoCMhaj19QHuRtvXVojEq14bL4KgOnG1r_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cases.stretto.com/public/x130/11572/PLEADINGS/1157206092180000000004.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcases.stretto.com%2Fpublic%2Fx130%2F11572%2FPLEADINGS%2F1157206092180000000004.pdf",
+      "source": "Stretto"
+    },
+    {
+      "position": 5,
+      "title": "Announcements - Arnold Adreani Elementary School",
+      "link": "https://adreani.egusd.net/Announcements/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://adreani.egusd.net/Announcements/&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQFnoECCEQAQ",
+      "displayed_link": "https://adreani.egusd.net › Announcements",
+      "favicon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNq-hwCUzLSDVdsKDZ74qNIk.png",
+      "snippet": "Board Resolutions, Community Update, EGU News Story, EGU Update, EGUSD Parent Updates, Elk Grove Unified, Laguna Creek Region, Media Advisories, Press Releases",
+      "about_this_result": {
+        "source": {
+          "description": "Board Resolutions, Community Update, EGU News Story, EGU Update, EGUSD Parent Updates, Elk Grove Unified, Laguna Creek Region, Media Advisories, Press Releases",
+          "source_info_link": "https://adreani.egusd.net/Announcements/",
+          "icon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNl1IiBTPQ3C-SZFgUXzNoQfeEl0HJENNmuYDsf1achzP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://adreani.egusd.net/Announcements/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fadreani.egusd.net%2FAnnouncements%2F",
+      "source": "Arnold Adreani Elementary"
+    },
+    {
+      "position": 6,
+      "title": "Case 19-11292-KG Doc 276 Filed 07/11/19 Page 1 of 256",
+      "link": "https://document.epiq11.com/document/getdocumentbycode?docId=3473300&projectCode=INS",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://document.epiq11.com/document/getdocumentbycode%3FdocId%3D3473300%26projectCode%3DINS&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQFnoECDwQAQ",
+      "displayed_link": "https://document.epiq11.com › getdocumentbycode",
+      "snippet": "The Debtors' mailing address is 1333 South Spectrum Blvd #100, Chandler, Arizona 85286. Case 19-11292-KG Doc 276 Filed 07/11/19 Page 1 of 256. Page ...",
+      "snippet_highlighted_words": [
+        "1"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Debtors' mailing address is 1333 South Spectrum Blvd #100, Chandler, Arizona 85286. Case 19-11292-KG Doc 276 Filed 07/11/19 Page 1 of 256. Page ...",
+          "source_info_link": "https://document.epiq11.com/document/getdocumentbycode?docId=3473300&projectCode=INS"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://document.epiq11.com/document/getdocumentbycode?docId=3473300&projectCode=INS&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdocument.epiq11.com%2Fdocument%2Fgetdocumentbycode%3FdocId%3D3473300%26projectCode%3DINS",
+      "source": "epiq11.com"
+    },
+    {
+      "position": 7,
+      "title": "Storybeat with Steve Cuden",
+      "link": "https://feeds.buzzsprout.com/1851444.rss",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://feeds.buzzsprout.com/1851444.rss&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQFnoECDQQAQ",
+      "displayed_link": "https://feeds.buzzsprout.com › ...",
+      "favicon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNqt08BrnswUw0GRUUoypWNE.png",
+      "snippet": "JJ and I have known one another for more than 15 years as we attended the UCLA MFA in Screenwriting Program at the same time. JJ Nelson is a Michigan native who ...",
+      "snippet_highlighted_words": [
+        "one"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "JJ and I have known one another for more than 15 years as we attended the UCLA MFA in Screenwriting Program at the same time. JJ Nelson is a Michigan native who ...",
+          "source_info_link": "https://feeds.buzzsprout.com/1851444.rss",
+          "icon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNiEREDqGfF_qLXYf9NNTR0BGuDLrs06XoBRlU5WZnJAn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://feeds.buzzsprout.com/1851444.rss&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffeeds.buzzsprout.com%2F1851444.rss",
+      "source": "Buzzsprout"
+    },
+    {
+      "position": 8,
+      "title": "Case 17-12443 Doc 1 Filed 11/15/17 Page 1 of 502",
+      "link": "https://dr201.s3.amazonaws.com/vhc/VoluntaryPetitions/17-12443.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dr201.s3.amazonaws.com/vhc/VoluntaryPetitions/17-12443.pdf&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQFnoECDgQAQ",
+      "displayed_link": "https://dr201.s3.amazonaws.com › vhc › Volunta...",
+      "favicon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNlKuazTBXCGLV04M7fvMneE.jpeg",
+      "date": "Nov 15, 2017",
+      "snippet": "APOLLO INDUSTRIES LIMITED. IN HONG KONG LIMITED FLAT/RM 1408 14/F. TAK SHING HOUSE THEATER LANE. KWUN TONG, KOWLOON. HONG KONG.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 502
+          },
+          "extensions": [
+            "502 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "APOLLO INDUSTRIES LIMITED. IN HONG KONG LIMITED FLAT/RM 1408 14/F. TAK SHING HOUSE THEATER LANE. KWUN TONG, KOWLOON. HONG KONG.",
+          "source_info_link": "https://dr201.s3.amazonaws.com/vhc/VoluntaryPetitions/17-12443.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNvJYDKiSAAOwYqBVEfMbcmH4mXPSBc9xplTNlss-SOQT.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://dr201.s3.amazonaws.com/vhc/VoluntaryPetitions/17-12443.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdr201.s3.amazonaws.com%2Fvhc%2FVoluntaryPetitions%2F17-12443.pdf",
+      "source": "Amazon Web Services (AWS)"
+    },
+    {
+      "position": 9,
+      "title": "¨8¤vs 6&> \"2«",
+      "link": "https://assets.inman.com/wp-content/uploads/2022/06/Bankruptcy-petition-FGMC-6.30.22.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://assets.inman.com/wp-content/uploads/2022/06/Bankruptcy-petition-FGMC-6.30.22.pdf&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQFnoECDUQAQ",
+      "displayed_link": "https://assets.inman.com › uploads › 2022/06 › Ba...",
+      "date": "Jun 30, 2022",
+      "snippet": "June 29, 2022. The undersigned, constituting all of the members of the board of directors (the “Board”) of First Guaranty Mortgage ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 199
+          },
+          "extensions": [
+            "199 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "June 29, 2022. The undersigned, constituting all of the members of the board of directors (the “Board”) of First Guaranty Mortgage ...",
+          "source_info_link": "https://assets.inman.com/wp-content/uploads/2022/06/Bankruptcy-petition-FGMC-6.30.22.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://assets.inman.com/wp-content/uploads/2022/06/Bankruptcy-petition-FGMC-6.30.22.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fassets.inman.com%2Fwp-content%2Fuploads%2F2022%2F06%2FBankruptcy-petition-FGMC-6.30.22.pdf",
+      "source": "Inman Real Estate News"
+    },
+    {
+      "position": 10,
+      "title": "Marketing Master List Named Accounts | PDF",
+      "link": "https://www.scribd.com/document/740136415/Marketing-Master-List-Named-Accounts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/740136415/Marketing-Master-List-Named-Accounts&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQFnoECDIQAQ",
+      "displayed_link": "https://www.scribd.com › document › Marketing-Maste...",
+      "favicon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNvh6_BE1wT8iF2BmifdrT-U.png",
+      "snippet": "Marketing Master List Named Accounts - Free download as Excel Spreadsheet (.xls / .xlsx), PDF File (.pdf), Text File (.txt) or read online for free.",
+      "about_this_result": {
+        "source": {
+          "description": "Marketing Master List Named Accounts - Free download as Excel Spreadsheet (.xls / .xlsx), PDF File (.pdf), Text File (.txt) or read online for free.",
+          "source_info_link": "https://www.scribd.com/document/740136415/Marketing-Master-List-Named-Accounts",
+          "icon": "https://serpapi.com/searches/69bb5d73874d508f23cf6868/images/RXTIQjlATbM1gvsAe5VxNu9T-8NhavezqDXRp_53tdkzWOozMUWb9-ZI1cc9hj2w.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.scribd.com/document/740136415/Marketing-Master-List-Named-Accounts&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.scribd.com%2Fdocument%2F740136415%2FMarketing-Master-List-Named-Accounts",
+      "source": "Scribd"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In response to a complaint we received under the US Digital Millennium Copyright Act, we have removed 1 result(s) from this page. If you wish, you may read the DMCA complaint that caused the removal(s) at LumenDatabase.org.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/support/answer/1386831",
+            "text": "US Digital Millennium Copyright Act"
+          },
+          {
+            "link": "https://lumendatabase.org/notices/73241570",
+            "text": "read the DMCA complaint"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=dF27af6DC7uup84PibuswAM&start=10&sa=N&sstk=Af77f_f0UTyGIVIHq1XBh3-6y5d-sBeu2Geuo4cVZNRRGZIRw7SD2T1YbqPISP9wc-QRlFcjlU244LwyTUlreNEhx18aZjB_N0A-Qw&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQ8NMDegQIDRAP",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=dF27af6DC7uup84PibuswAM&start=10&sa=N&sstk=Af77f_f0UTyGIVIHq1XBh3-6y5d-sBeu2Geuo4cVZNRRGZIRw7SD2T1YbqPISP9wc-QRlFcjlU244LwyTUlreNEhx18aZjB_N0A-Qw&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQ8tMDegQIDRAH",
+      "3": "https://www.google.com/search?q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=dF27af6DC7uup84PibuswAM&start=20&sa=N&sstk=Af77f_f0UTyGIVIHq1XBh3-6y5d-sBeu2Geuo4cVZNRRGZIRw7SD2T1YbqPISP9wc-QRlFcjlU244LwyTUlreNEhx18aZjB_N0A-Qw&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQ8tMDegQIDRAJ",
+      "4": "https://www.google.com/search?q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=dF27af6DC7uup84PibuswAM&start=30&sa=N&sstk=Af77f_f0UTyGIVIHq1XBh3-6y5d-sBeu2Geuo4cVZNRRGZIRw7SD2T1YbqPISP9wc-QRlFcjlU244LwyTUlreNEhx18aZjB_N0A-Qw&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQ8tMDegQIDRAL",
+      "5": "https://www.google.com/search?q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=dF27af6DC7uup84PibuswAM&start=40&sa=N&sstk=Af77f_f0UTyGIVIHq1XBh3-6y5d-sBeu2Geuo4cVZNRRGZIRw7SD2T1YbqPISP9wc-QRlFcjlU244LwyTUlreNEhx18aZjB_N0A-Qw&ved=2ahUKEwj-jfi186qTAxU718kDHYkdCzgQ8tMDegQIDRAN"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jimmy+D.+Towers+CTC+Trustee+Place+1+Central+Texas+LinkedIn&start=40"
+    }
+  }
+}

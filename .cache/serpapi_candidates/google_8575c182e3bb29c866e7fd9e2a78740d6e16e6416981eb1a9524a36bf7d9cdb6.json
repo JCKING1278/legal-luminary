@@ -1,0 +1,395 @@
+{
+  "search_metadata": {
+    "id": "69bb5cbdbadf0b5a0905617e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bofCQvj40YDJ3TzN0lJZdA/69bb5cbdbadf0b5a0905617e.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/bofCQvj40YDJ3TzN0lJZdA/69bb5cbdbadf0b5a0905617e.json_with_pixel_position",
+    "created_at": "2026-03-19 02:17:33 UTC",
+    "processed_at": "2026-03-19 02:17:33 UTC",
+    "google_url": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&oq=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/bofCQvj40YDJ3TzN0lJZdA/69bb5cbdbadf0b5a0905617e.html",
+    "total_time_taken": 1.08
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "State House TX-54 election. Key platform issues for candidates: Dawn Richardson. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "State House TX-54 election. Key platform issues for candidates: Dawn Richardson. Provide a short factual summary.",
+    "total_results": 181000,
+    "time_taken_displayed": 0.5,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Rep. Jay Dean",
+      "link": "https://www.facebook.com/jaydeanfortexas/posts/i-believe-campaigns-should-be-grounded-in-truthmy-opponent-has-repeatedly-claime/1322393026370826/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jaydeanfortexas/posts/i-believe-campaigns-should-be-grounded-in-truthmy-opponent-has-repeatedly-claime/1322393026370826/&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQFnoECBwQAQ",
+      "displayed_link": "80+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTYg6AI9v1ERCPjSQOUQbDIY.png",
+      "snippet": "I believe campaigns should be grounded in truth. My opponent has repeatedly claimed she has influenced education-based legislation in Texas.",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I believe campaigns should be grounded in truth. My opponent has repeatedly claimed she has influenced education-based legislation in Texas.",
+          "source_info_link": "https://www.facebook.com/jaydeanfortexas/posts/i-believe-campaigns-should-be-grounded-in-truthmy-opponent-has-repeatedly-claime/1322393026370826/",
+          "icon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTbGKNPBqU6myxacoGMM_gYYrAUPAZNBBYgbWbq97rOvj.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jaydeanfortexas/posts/i-believe-campaigns-should-be-grounded-in-truthmy-opponent-has-repeatedly-claime/1322393026370826/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjaydeanfortexas%2Fposts%2Fi-believe-campaigns-should-be-grounded-in-truthmy-opponent-has-repeatedly-claime%2F1322393026370826%2F",
+      "source": "Facebook · Rep. Jay Dean"
+    },
+    {
+      "position": 2,
+      "title": "Dawn Richardson for Texas House District 54 | Moms Taking ...",
+      "link": "https://www.youtube.com/watch?v=9P1QjNZ0j2A",
+      "displayed_link": "90+ views · 3 weeks ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTahEJsng_W1RyukdCn86BfI.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTdr1XsBo-w2Aujj8o7JS_vk.png",
+      "snippet": "I want to help fight for a strong public education system where educators are not worried about having to buy things out of their own pockets.",
+      "duration": "8:08",
+      "about_this_result": {
+        "source": {
+          "description": "I want to help fight for a strong public education system where educators are not worried about having to buy things out of their own pockets.",
+          "source_info_link": "https://www.youtube.com/watch?v=9P1QjNZ0j2A",
+          "icon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTUFH-dFhNpJYYTLPllCj09usRMwBpvKBe5jC-_1t3Ym2.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=9P1QjNZ0j2A&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9P1QjNZ0j2A",
+      "missing": [
+        "Key",
+        "platform",
+        "candidates:",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ5l37IbyKFCMiS68QbwQI2EG48oANvTd20dA",
+      "source": "YouTube · MothersAgainstGregAbbott-MothersForDemocracy"
+    },
+    {
+      "position": 3,
+      "title": "Dawn Richardson For House District 54",
+      "link": "https://www.lonestarleft.com/p/dawn-richardson-for-house-district",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lonestarleft.com/p/dawn-richardson-for-house-district&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQFnoECBsQAQ",
+      "displayed_link": "https://www.lonestarleft.com › dawn-richardson-for-ho...",
+      "favicon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTUuBjqRbaNpk8DVWkjhGJh0.jpeg",
+      "date": "Oct 12, 2024",
+      "snippet": "Bell County is one county that has seen a low voter turnout over the last several years. However, with a strong turnout, they could quickly flip ...",
+      "about_this_result": {
+        "source": {
+          "description": "Bell County is one county that has seen a low voter turnout over the last several years. However, with a strong turnout, they could quickly flip ...",
+          "source_info_link": "https://www.lonestarleft.com/p/dawn-richardson-for-house-district",
+          "icon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTWVP0-jB-QMUzcz4WH7ly8_Gf2Vc0JtTT9TdtkEBME94.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.lonestarleft.com/p/dawn-richardson-for-house-district&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.lonestarleft.com%2Fp%2Fdawn-richardson-for-house-district",
+      "missing": [
+        "Key",
+        "short"
+      ],
+      "source": "Lone Star Left"
+    },
+    {
+      "position": 4,
+      "title": "Dawn Richardson",
+      "link": "https://ballotpedia.org/Dawn_Richardson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Dawn_Richardson&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQFnoECB0QAQ",
+      "displayed_link": "https://ballotpedia.org › Dawn_Richardson",
+      "favicon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTfmOT93lKdIfdsAqbh0m3mM.png",
+      "date": "Oct 10, 2023",
+      "snippet": "Republican primary. The candidate list in this election may not be complete. Republican primary for Texas House of Representatives District 54.",
+      "snippet_highlighted_words": [
+        "candidate",
+        "election",
+        "Texas House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Republican primary. The candidate list in this election may not be complete. Republican primary for Texas House of Representatives District 54.",
+          "source_info_link": "https://ballotpedia.org/Dawn_Richardson",
+          "icon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTatUTtLMOeIlgf0grStqrESkd6ZUeKZgBMMh2VIDA-0t.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Dawn_Richardson&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FDawn_Richardson",
+      "missing": [
+        "factual"
+      ],
+      "must_include": {
+        "word": "factual",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+%22factual%22+summary.&sa=X&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ5t4CegQIKRAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 5,
+      "title": "House District 54 candidates share their policies ahead of ...",
+      "link": "https://www.youtube.com/watch?v=qsMzRbJRVO8",
+      "displayed_link": "110+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTWQc7FwnmzH5GP0k-b0QPQc.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTd3o0biXInM7NMQPpGdblyQ.png",
+      "snippet": "The Texas house District 54 races between Republican incumbent and Vetinarian Brad Buckley who is running for his fourth term.",
+      "duration": "3:30",
+      "about_this_result": {
+        "source": {
+          "description": "The Texas house District 54 races between Republican incumbent and Vetinarian Brad Buckley who is running for his fourth term.",
+          "source_info_link": "https://www.youtube.com/watch?v=qsMzRbJRVO8",
+          "icon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTWwhaKTa_MpzAb07b9bj8pfAwd0fAbdIrbY2Yl_tnHYt.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=qsMzRbJRVO8&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqsMzRbJRVO8",
+      "missing": [
+        "State",
+        "Key",
+        "platform",
+        "issues",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTBeOMe-tAJcXIne2uFOVrVIiqcApV9VaZKCg",
+      "source": "YouTube · KCENNews"
+    },
+    {
+      "position": 6,
+      "title": "Decision 2024: Texas House District 54 race",
+      "link": "https://www.kcentv.com/article/entertainment/television/texas-today/decision-2024-texas-house-district-54-race-covers-bell-county-between-incumbent-brad-buckley-and-teacher-dawn-richardson/500-b050c75d-6348-43fb-bdab-c4291cdf7b54",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kcentv.com/article/entertainment/television/texas-today/decision-2024-texas-house-district-54-race-covers-bell-county-between-incumbent-brad-buckley-and-teacher-dawn-richardson/500-b050c75d-6348-43fb-bdab-c4291cdf7b54&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQFnoECB4QAQ",
+      "displayed_link": "https://www.kcentv.com › article › television › texas-today",
+      "favicon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTZCZl7wWh8dckB1JG0hTxL4.png",
+      "date": "Nov 4, 2024",
+      "snippet": "The race is between Republican incumbent Brad Buckley and Democrat Dawn Richardson. They are hoping to earn your vote.",
+      "snippet_highlighted_words": [
+        "Dawn Richardson",
+        "vote"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The race is between Republican incumbent Brad Buckley and Democrat Dawn Richardson. They are hoping to earn your vote.",
+          "source_info_link": "https://www.kcentv.com/article/entertainment/television/texas-today/decision-2024-texas-house-district-54-race-covers-bell-county-between-incumbent-brad-buckley-and-teacher-dawn-richardson/500-b050c75d-6348-43fb-bdab-c4291cdf7b54",
+          "icon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTd8amGzwmtKdzfB03Yuen3_Xyp8cLHnZLW6bdAfp9diY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.kcentv.com/article/entertainment/television/texas-today/decision-2024-texas-house-district-54-race-covers-bell-county-between-incumbent-brad-buckley-and-teacher-dawn-richardson/500-b050c75d-6348-43fb-bdab-c4291cdf7b54&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.kcentv.com%2Farticle%2Fentertainment%2Ftelevision%2Ftexas-today%2Fdecision-2024-texas-house-district-54-race-covers-bell-county-between-incumbent-brad-buckley-and-teacher-dawn-richardson%2F500-b050c75d-6348-43fb-bdab-c4291cdf7b54",
+      "missing": [
+        "platform",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "KCENTV.com"
+    },
+    {
+      "position": 7,
+      "title": "ActiveReports Document - Texas.gov",
+      "link": "https://capitol.texas.gov/tlodocs/87R/handouts/C2402021032508001/7638b505-ff45-45f0-b0f7-6e6c7f69eece.PDF",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://capitol.texas.gov/tlodocs/87R/handouts/C2402021032508001/7638b505-ff45-45f0-b0f7-6e6c7f69eece.PDF&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQFnoECDcQAQ",
+      "displayed_link": "https://capitol.texas.gov › tlodocs › handouts",
+      "favicon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTQubsrNI75inud_wuCwG5Nw.jpeg",
+      "date": "Mar 29, 2021",
+      "snippet": "Rosharon, TX. COMMENTS FOR: HB 6. Page 2 of 223. Page 3. I think its sad that you are all going through these great lengths regarding voting.",
+      "snippet_highlighted_words": [
+        "TX",
+        "voting"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 223
+          },
+          "extensions": [
+            "223 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Rosharon, TX. COMMENTS FOR: HB 6. Page 2 of 223. Page 3. I think its sad that you are all going through these great lengths regarding voting.",
+          "source_info_link": "https://capitol.texas.gov/tlodocs/87R/handouts/C2402021032508001/7638b505-ff45-45f0-b0f7-6e6c7f69eece.PDF",
+          "icon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTQglnJbX7pq07GKb2iTxxL37UYvx3kYOGSn5eAcs4t-X.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://capitol.texas.gov/tlodocs/87R/handouts/C2402021032508001/7638b505-ff45-45f0-b0f7-6e6c7f69eece.PDF&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcapitol.texas.gov%2Ftlodocs%2F87R%2Fhandouts%2FC2402021032508001%2F7638b505-ff45-45f0-b0f7-6e6c7f69eece.PDF",
+      "source": "Texas Legislature Online (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "How the race for Texas House District 54 is shaping up",
+      "link": "https://kdhnews.com/centerforpolitics/how-the-race-for-texas-house-district-54-is-shaping-up/article_3c04bb8e-25cd-11ef-8893-bbed49e84c6a.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/how-the-race-for-texas-house-district-54-is-shaping-up/article_3c04bb8e-25cd-11ef-8893-bbed49e84c6a.html&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQFnoECC8QAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › how-the-race-...",
+      "favicon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTQ87xP9qYFCbvKyCccsuweA.png",
+      "date": "Jun 9, 2024",
+      "snippet": "The contest is between incumbent Republican Rep. Brad Buckley of Salado and Democratic challenger Dawn Richardson of Killeen.",
+      "snippet_highlighted_words": [
+        "Dawn Richardson"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The contest is between incumbent Republican Rep. Brad Buckley of Salado and Democratic challenger Dawn Richardson of Killeen.",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/how-the-race-for-texas-house-district-54-is-shaping-up/article_3c04bb8e-25cd-11ef-8893-bbed49e84c6a.html",
+          "icon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTVj-OzXQWSpngqYSz9_G9UsKK1LhcHhbP64lXND0Evoh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/how-the-race-for-texas-house-district-54-is-shaping-up/article_3c04bb8e-25cd-11ef-8893-bbed49e84c6a.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fhow-the-race-for-texas-house-district-54-is-shaping-up%2Farticle_3c04bb8e-25cd-11ef-8893-bbed49e84c6a.html",
+      "missing": [
+        "platform",
+        "candidates:",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "Texas House Of Representatives District 54",
+      "link": "https://bluevoterguide.org/district/TX/Texas_House_of_Representatives_District_54/32577/522",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bluevoterguide.org/district/TX/Texas_House_of_Representatives_District_54/32577/522&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQFnoECDAQAQ",
+      "displayed_link": "https://bluevoterguide.org › district › Texas_House_of_...",
+      "favicon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTQOmndOT_Iv7ykcKxFmMLpY.png",
+      "snippet": "Voter Guide for Texas House of Representatives District 54 TX: Primary Election on March 3, 2026. Actual ballot may show races in a different order.",
+      "snippet_highlighted_words": [
+        "Texas House",
+        "54 TX",
+        "Election"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Voter Guide for Texas House of Representatives District 54 TX: Primary Election on March 3, 2026. Actual ballot may show races in a different order.",
+          "source_info_link": "https://bluevoterguide.org/district/TX/Texas_House_of_Representatives_District_54/32577/522",
+          "icon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTZrrFnl8emChEnBpN4UPxASlsPyKlfrK53jECMmC-DMl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bluevoterguide.org/district/TX/Texas_House_of_Representatives_District_54/32577/522&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbluevoterguide.org%2Fdistrict%2FTX%2FTexas_House_of_Representatives_District_54%2F32577%2F522",
+      "missing": [
+        "Key",
+        "platform",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "Blue Voter Guide"
+    },
+    {
+      "position": 10,
+      "title": "Candidate Forum at E-Center | Dawn Richardson for Texas ...",
+      "link": "https://www.facebook.com/dawnrichardsondistrict54/videos/candidate-forum-at-e-center/911191001521576/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/dawnrichardsondistrict54/videos/candidate-forum-at-e-center/911191001521576/&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQFnoECDsQAQ",
+      "displayed_link": "10+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTaFWFbzd_DJ9-CEkH4TSUic.png",
+      "snippet": "I'm running for congress of Texas 31st district. I'm not grown here. I went to Elegant School in Bell County. Uh and people's elementary. And I ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I'm running for congress of Texas 31st district. I'm not grown here. I went to Elegant School in Bell County. Uh and people's elementary. And I ...",
+          "source_info_link": "https://www.facebook.com/dawnrichardsondistrict54/videos/candidate-forum-at-e-center/911191001521576/",
+          "icon": "https://serpapi.com/searches/69bb5cbdbadf0b5a0905617e/images/AY8HlU8on-qrDqBuZ98HTbyLVlfCPWxDjsOyx3Vu7EBcOrHvmWtRT8-MTsplusrd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/dawnrichardsondistrict54/videos/candidate-forum-at-e-center/911191001521576/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fdawnrichardsondistrict54%2Fvideos%2Fcandidate-forum-at-e-center%2F911191001521576%2F",
+      "missing": [
+        "factual",
+        "summary."
+      ],
+      "source": "Facebook · Dawn Richardson for Texas Rep. District 54"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=vVy7afDIMaOkptQP4f7biA8&start=10&sa=N&sstk=Af77f_faS8h5WBbr42kJPCxAZX9KVjkswtcBSYmDlXBb7xI7chDEIQIX2H_zMqr4tL-TWA_GrXpUSigwDQ-e4lOKfN1JDumfv31CZw&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ8NMDegQIERAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=vVy7afDIMaOkptQP4f7biA8&start=10&sa=N&sstk=Af77f_faS8h5WBbr42kJPCxAZX9KVjkswtcBSYmDlXBb7xI7chDEIQIX2H_zMqr4tL-TWA_GrXpUSigwDQ-e4lOKfN1JDumfv31CZw&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ8tMDegQIERAE",
+      "3": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=vVy7afDIMaOkptQP4f7biA8&start=20&sa=N&sstk=Af77f_faS8h5WBbr42kJPCxAZX9KVjkswtcBSYmDlXBb7xI7chDEIQIX2H_zMqr4tL-TWA_GrXpUSigwDQ-e4lOKfN1JDumfv31CZw&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ8tMDegQIERAG",
+      "4": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=vVy7afDIMaOkptQP4f7biA8&start=30&sa=N&sstk=Af77f_faS8h5WBbr42kJPCxAZX9KVjkswtcBSYmDlXBb7xI7chDEIQIX2H_zMqr4tL-TWA_GrXpUSigwDQ-e4lOKfN1JDumfv31CZw&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ8tMDegQIERAI",
+      "5": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=vVy7afDIMaOkptQP4f7biA8&start=40&sa=N&sstk=Af77f_faS8h5WBbr42kJPCxAZX9KVjkswtcBSYmDlXBb7xI7chDEIQIX2H_zMqr4tL-TWA_GrXpUSigwDQ-e4lOKfN1JDumfv31CZw&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ8tMDegQIERAK",
+      "6": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=vVy7afDIMaOkptQP4f7biA8&start=50&sa=N&sstk=Af77f_faS8h5WBbr42kJPCxAZX9KVjkswtcBSYmDlXBb7xI7chDEIQIX2H_zMqr4tL-TWA_GrXpUSigwDQ-e4lOKfN1JDumfv31CZw&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ8tMDegQIERAM",
+      "7": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=vVy7afDIMaOkptQP4f7biA8&start=60&sa=N&sstk=Af77f_faS8h5WBbr42kJPCxAZX9KVjkswtcBSYmDlXBb7xI7chDEIQIX2H_zMqr4tL-TWA_GrXpUSigwDQ-e4lOKfN1JDumfv31CZw&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ8tMDegQIERAO",
+      "8": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=vVy7afDIMaOkptQP4f7biA8&start=70&sa=N&sstk=Af77f_faS8h5WBbr42kJPCxAZX9KVjkswtcBSYmDlXBb7xI7chDEIQIX2H_zMqr4tL-TWA_GrXpUSigwDQ-e4lOKfN1JDumfv31CZw&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ8tMDegQIERAQ",
+      "9": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=vVy7afDIMaOkptQP4f7biA8&start=80&sa=N&sstk=Af77f_faS8h5WBbr42kJPCxAZX9KVjkswtcBSYmDlXBb7xI7chDEIQIX2H_zMqr4tL-TWA_GrXpUSigwDQ-e4lOKfN1JDumfv31CZw&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ8tMDegQIERAS",
+      "10": "https://www.google.com/search?q=State+House+TX-54+election.+Key+platform+issues+for+candidates:+Dawn+Richardson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=vVy7afDIMaOkptQP4f7biA8&start=90&sa=N&sstk=Af77f_faS8h5WBbr42kJPCxAZX9KVjkswtcBSYmDlXBb7xI7chDEIQIX2H_zMqr4tL-TWA_GrXpUSigwDQ-e4lOKfN1JDumfv31CZw&ved=2ahUKEwiwm_3e8qqTAxUjkokEHWH_FvEQ8tMDegQIERAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+House+TX-54+election.+Key+platform+issues+for+candidates%3A+Dawn+Richardson.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

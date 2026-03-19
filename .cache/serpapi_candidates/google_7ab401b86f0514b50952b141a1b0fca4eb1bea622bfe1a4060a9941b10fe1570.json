@@ -1,0 +1,339 @@
+{
+  "search_metadata": {
+    "id": "69bb5df6db99ec4b3986f25a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/yieGK7e9dgptb715C0toVg/69bb5df6db99ec4b3986f25a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/yieGK7e9dgptb715C0toVg/69bb5df6db99ec4b3986f25a.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:46 UTC",
+    "processed_at": "2026-03-19 02:22:46 UTC",
+    "google_url": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&oq=Steven+Clay+Dowell+Jr.+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/yieGK7e9dgptb715C0toVg/69bb5df6db99ec4b3986f25a.html",
+    "total_time_taken": 1.52
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Steven Clay Dowell Jr. \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Steven Clay Dowell Jr. \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "total_results": 2310,
+    "time_taken_displayed": 0.56,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Steven Clay Dowell Jr. US House TX-31 Central Texas LinkedIn",
+    "spelling_fix": "Steven Clay Dowell Jr. US House TX-31 Central Texas LinkedIn"
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Home - Steve Dowell | TX-31 | Next Generation Conservative ...",
+      "link": "https://stevendowell.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stevendowell.com/&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4QFnoECBwQAQ",
+      "displayed_link": "https://stevendowell.com",
+      "favicon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ23cMcC7QRa19dEzdt07YkTg.png",
+      "snippet": "Steve Dowell | TX-31 | 5th-Generation Central Texan & Conservative Veteran. Reduce Government Spending. Pro Term Limits. Fixing the VA.",
+      "snippet_highlighted_words": [
+        "Steve Dowell",
+        "TX",
+        "31",
+        "Central"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Steve Dowell | TX-31 | 5th-Generation Central Texan & Conservative Veteran. Reduce Government Spending. Pro Term Limits. Fixing the VA.",
+          "source_info_link": "https://stevendowell.com/",
+          "icon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ285asrJyEri9ABvSiufWi3c3D7ZtxSlfItQOC_1RH8s2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://stevendowell.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fstevendowell.com%2F",
+      "source": "Steve Dowell"
+    },
+    {
+      "position": 2,
+      "title": "200+ \"Steven Clay\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Steven/Clay/us-0-United-States",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Steven/Clay/us-0-United-States&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4QFnoECCIQAQ",
+      "displayed_link": "https://www.linkedin.com › dir › Clay › us-0-United-States",
+      "favicon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ2-GCJMCuDItcxAzfLtKPuZ0.png",
+      "snippet": "View the profiles of professionals named \"Steven Clay\" on LinkedIn. There are 200+ professionals named \"Steven Clay\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "Steven Clay",
+        "LinkedIn",
+        "Steven Clay",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Steven Clay\" on LinkedIn. There are 200+ professionals named \"Steven Clay\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Steven/Clay/us-0-United-States",
+          "icon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ2-jXaTa_e2KJhuB9JVgWTeiNfcLhV1aiuPfyZWEuNjvb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Steven/Clay/us-0-United-States&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FSteven%2FClay%2Fus-0-United-States",
+      "missing": [
+        "Dowell",
+        "Jr.",
+        "31"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 3,
+      "title": "Metabotissugenic citrate biomaterials orchestrate bone ... - PMC",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12285708/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC12285708/&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4QFnoECB8QAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC12285708",
+      "favicon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ2wFjq0Pvp4-Zt5GVkE_fg00.png",
+      "author": "by H Xu",
+      "snippet": "Bone regeneration requires coordinated anabolic and catabolic signaling, yet the interplay between mammalian target of rapamycin complex 1 ...",
+      "about_this_result": {
+        "source": {
+          "description": "Bone regeneration requires coordinated anabolic and catabolic signaling, yet the interplay between mammalian target of rapamycin complex 1 ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12285708/",
+          "icon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ23-wvx9h_3-eEl4mSiokvFOfYknHd1XMDLQ4_1QhH25W.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pmc.ncbi.nlm.nih.gov/articles/PMC12285708/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC12285708%2F",
+      "source": "National Institutes of Health (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Aug 29th Rob and I are back at The Music Room with ...",
+      "link": "https://www.facebook.com/aylabrownmusic/posts/aug-29th-rob-and-i-are-back-at-the-music-room-with-the-band-it-was-such-a-succes/1332571371572639/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/aylabrownmusic/posts/aug-29th-rob-and-i-are-back-at-the-music-room-with-the-band-it-was-such-a-succes/1332571371572639/&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4QFnoECCoQAQ",
+      "displayed_link": "50+ reactions · 7 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ2zlHE74H1ybMqjBAAhODJgg.png",
+      "snippet": "A Special Do-Not-Miss Event, Friday, August 29 @7PM! 🎙️ 🎙️ https://musicroomcapecodtickets. com/events/ayla-brown-rob-bellamy-08292025/ 1️⃣ 2️⃣ 3️⃣ 4️⃣ ...",
+      "about_this_result": {
+        "source": {
+          "description": "A Special Do-Not-Miss Event, Friday, August 29 @7PM! 🎙️ 🎙️ https://musicroomcapecodtickets. com/events/ayla-brown-rob-bellamy-08292025/ 1️⃣ 2️⃣ 3️⃣ 4️⃣ ...",
+          "source_info_link": "https://www.facebook.com/aylabrownmusic/posts/aug-29th-rob-and-i-are-back-at-the-music-room-with-the-band-it-was-such-a-succes/1332571371572639/",
+          "icon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ222ph3zJvaDiu1NGyiUt3Pb4pzcEk1WI6CIEa2nHNSFf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/aylabrownmusic/posts/aug-29th-rob-and-i-are-back-at-the-music-room-with-the-band-it-was-such-a-succes/1332571371572639/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Faylabrownmusic%2Fposts%2Faug-29th-rob-and-i-are-back-at-the-music-room-with-the-band-it-was-such-a-succes%2F1332571371572639%2F",
+      "source": "Facebook · Ayla Brown"
+    },
+    {
+      "position": 5,
+      "title": "15th Symposium on Integrated Observing and Assimilation ...",
+      "link": "https://ams.confex.com/ams/91Annual/webprogram/15IOAS.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ams.confex.com/ams/91Annual/webprogram/15IOAS.html&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4QFnoECB4QAQ",
+      "displayed_link": "https://ams.confex.com › ams › webprogram",
+      "favicon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ22-YuiIrJxEf01COpXGc54M.png",
+      "snippet": "15th Symposium on Integrated Observing and Assimilation Systems for the Atmosphere, Oceans and Land Surface (IOAS-AOLS) · Registration for Student Conference and ...",
+      "about_this_result": {
+        "source": {
+          "description": "15th Symposium on Integrated Observing and Assimilation Systems for the Atmosphere, Oceans and Land Surface (IOAS-AOLS) · Registration for Student Conference and ...",
+          "source_info_link": "https://ams.confex.com/ams/91Annual/webprogram/15IOAS.html",
+          "icon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ20O8lvkijqV1XslFSqZV3Uazp6dLpu9IH3ikPNIZLV7c.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ams.confex.com/ams/91Annual/webprogram/15IOAS.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fams.confex.com%2Fams%2F91Annual%2Fwebprogram%2F15IOAS.html",
+      "source": "The Conference Exchange"
+    },
+    {
+      "position": 6,
+      "title": "The Profession and Ethic in Large-Scale Combat Operations",
+      "link": "https://www.armyupress.army.mil/Portals/7/Research-and-Books/Archives/2021/PDF/Jun-21-Maintaining-the-high-Ground.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.armyupress.army.mil/Portals/7/Research-and-Books/Archives/2021/PDF/Jun-21-Maintaining-the-high-Ground.pdf&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4QFnoECDgQAQ",
+      "displayed_link": "https://www.armyupress.army.mil › Archives › PDF",
+      "favicon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ22uPmBmRC5D15NGA84cg4eI.png",
+      "snippet": "Subjects: LCSH: United States. Army--Case studies. | Military ethics-. -United States--Case studies. | Soldiers--Professional ethics--United. States--Case ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "United States"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Subjects: LCSH: United States. Army--Case studies. | Military ethics-. -United States--Case studies. | Soldiers--Professional ethics--United. States--Case ...",
+          "source_info_link": "https://www.armyupress.army.mil/Portals/7/Research-and-Books/Archives/2021/PDF/Jun-21-Maintaining-the-high-Ground.pdf",
+          "icon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ2y150mBlHSBqTn2N_EMQsViqp5oELrUV-83rVecLir_E.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.armyupress.army.mil/Portals/7/Research-and-Books/Archives/2021/PDF/Jun-21-Maintaining-the-high-Ground.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.armyupress.army.mil%2FPortals%2F7%2FResearch-and-Books%2FArchives%2F2021%2FPDF%2FJun-21-Maintaining-the-high-Ground.pdf",
+      "source": "Army University Press (.mil)"
+    },
+    {
+      "position": 7,
+      "title": "Clinical Practice Guidelines for Pain Management in Acute...",
+      "link": "https://journals.lww.com/jorthotrauma/fulltext/2019/05000/clinical_practice_guidelines_for_pain_management.11.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://journals.lww.com/jorthotrauma/fulltext/2019/05000/clinical_practice_guidelines_for_pain_management.11.aspx&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4QFnoECDIQAQ",
+      "displayed_link": "https://journals.lww.com › jorthotrauma › fulltext › clin...",
+      "favicon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ2xuB23OzyON3-_9EosLCjyQ.png",
+      "author": "by JR Hsu",
+      "snippet": "We present evidence-based best practice recommendations and pain medication recommendations with the hope that they can be utilized by orthopaedic practices.",
+      "about_this_result": {
+        "source": {
+          "description": "We present evidence-based best practice recommendations and pain medication recommendations with the hope that they can be utilized by orthopaedic practices.",
+          "source_info_link": "https://journals.lww.com/jorthotrauma/fulltext/2019/05000/clinical_practice_guidelines_for_pain_management.11.aspx",
+          "icon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ2z5YRayM8xyGtkcp28BMHY9jWQSwYFe1sxqEmZ8Juz64.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://journals.lww.com/jorthotrauma/fulltext/2019/05000/clinical_practice_guidelines_for_pain_management.11.aspx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fjournals.lww.com%2Fjorthotrauma%2Ffulltext%2F2019%2F05000%2Fclinical_practice_guidelines_for_pain_management.11.aspx",
+      "source": "LWW"
+    },
+    {
+      "position": 8,
+      "title": "Arthur Miller: An Inventory of His Papers at the Harry ...",
+      "link": "https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00786",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://research.hrc.utexas.edu/fasearch/findingaid.cfm%3Feadid%3D00786&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4QFnoECDkQAQ",
+      "displayed_link": "https://research.hrc.utexas.edu › fasearch › findingaid",
+      "favicon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ21FWHO3MwHozBcGosLNhIIU.png",
+      "snippet": "Abstract: The papers of American Pulitzer Prize-winning playwright Arthur Miller consist of drafts of published and unpublished plays and other works, personal ...",
+      "snippet_highlighted_words": [
+        "American"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Abstract: The papers of American Pulitzer Prize-winning playwright Arthur Miller consist of drafts of published and unpublished plays and other works, personal ...",
+          "source_info_link": "https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00786",
+          "icon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ22JnPjbkBS7-rbkG6mink6yLnHhrcAlzjBgmQH56Ch_o.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00786&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fresearch.hrc.utexas.edu%2Ffasearch%2Ffindingaid.cfm%3Feadid%3D00786",
+      "source": "The University of Texas at Austin"
+    },
+    {
+      "position": 9,
+      "title": "S.Hrg. 115-677 — TACKLING OPIOID AND SUBSTANCE ...",
+      "link": "https://www.congress.gov/event/115th-congress/senate-event/LC64227/text",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/event/115th-congress/senate-event/LC64227/text&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4QFnoECDoQAQ",
+      "displayed_link": "https://www.congress.gov › event › senate-event › text",
+      "favicon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ2w9q4lPYEYD1nYyAXswQlDA.png",
+      "snippet": "S.Hrg. 115-677 — TACKLING OPIOID AND SUBSTANCE ABUSE DISORDERS IN MEDICARE, MEDICAID, AND HUMAN SERVICES PROGRAMS115th Congress (2017-2018). Senate Committee ...",
+      "about_this_result": {
+        "source": {
+          "description": "S.Hrg. 115-677 — TACKLING OPIOID AND SUBSTANCE ABUSE DISORDERS IN MEDICARE, MEDICAID, AND HUMAN SERVICES PROGRAMS115th Congress (2017-2018). Senate Committee ...",
+          "source_info_link": "https://www.congress.gov/event/115th-congress/senate-event/LC64227/text",
+          "icon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ20hqeIuEfH2u4W7nw9enBa9vc7B2HhkLiFfnGEXmDMtP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/event/115th-congress/senate-event/LC64227/text&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2Fevent%2F115th-congress%2Fsenate-event%2FLC64227%2Ftext",
+      "source": "Congress.gov | Library of Congress"
+    },
+    {
+      "position": 10,
+      "title": "Society for Industrial and Organizational Psychology",
+      "link": "https://www.siop.org/wp-content/uploads/legacy/TIP/Archives/493.pdf?ver=2019-08-19-115510-867",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.siop.org/wp-content/uploads/legacy/TIP/Archives/493.pdf%3Fver%3D2019-08-19-115510-867&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4QFnoECDMQAQ",
+      "displayed_link": "https://www.siop.org › legacy › TIP › Archives",
+      "favicon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ26E5f-YdrT_fHfiHsMXQmyg.png",
+      "snippet": "In this issue there is a fascinating account of research on leadership and psychological resilience conducted by an I-O psychologist embedded in an Army unit in ...",
+      "about_this_result": {
+        "source": {
+          "description": "In this issue there is a fascinating account of research on leadership and psychological resilience conducted by an I-O psychologist embedded in an Army unit in ...",
+          "source_info_link": "https://www.siop.org/wp-content/uploads/legacy/TIP/Archives/493.pdf?ver=2019-08-19-115510-867",
+          "icon": "https://serpapi.com/searches/69bb5df6db99ec4b3986f25a/images/oljNbR6vJf2f4RibN2JZ2-RPGC_KddwlbQyBvhpMKuD0ZcZCU_frB--2FZbMS0zx.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.siop.org/wp-content/uploads/legacy/TIP/Archives/493.pdf?ver=2019-08-19-115510-867&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.siop.org%2Fwp-content%2Fuploads%2Flegacy%2FTIP%2FArchives%2F493.pdf%3Fver%3D2019-08-19-115510-867",
+      "source": "Society for Industrial and Organizational Psychology"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=9127afKXI-utiLMP0YeL8Qo&start=10&sa=N&sstk=Af77f_fa6GsORoP7ZCqiPV-AMF7GDRCGc5OkUj0TK2T1gGrQzKX0PrWe0c1pvI_0pVDpSWEPN0kNQ1gIt7QSK9hEtPa-rbSROZwz_w&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4Q8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=9127afKXI-utiLMP0YeL8Qo&start=10&sa=N&sstk=Af77f_fa6GsORoP7ZCqiPV-AMF7GDRCGc5OkUj0TK2T1gGrQzKX0PrWe0c1pvI_0pVDpSWEPN0kNQ1gIt7QSK9hEtPa-rbSROZwz_w&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4Q8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=9127afKXI-utiLMP0YeL8Qo&start=20&sa=N&sstk=Af77f_fa6GsORoP7ZCqiPV-AMF7GDRCGc5OkUj0TK2T1gGrQzKX0PrWe0c1pvI_0pVDpSWEPN0kNQ1gIt7QSK9hEtPa-rbSROZwz_w&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4Q8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=9127afKXI-utiLMP0YeL8Qo&start=30&sa=N&sstk=Af77f_fa6GsORoP7ZCqiPV-AMF7GDRCGc5OkUj0TK2T1gGrQzKX0PrWe0c1pvI_0pVDpSWEPN0kNQ1gIt7QSK9hEtPa-rbSROZwz_w&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4Q8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=9127afKXI-utiLMP0YeL8Qo&start=40&sa=N&sstk=Af77f_fa6GsORoP7ZCqiPV-AMF7GDRCGc5OkUj0TK2T1gGrQzKX0PrWe0c1pvI_0pVDpSWEPN0kNQ1gIt7QSK9hEtPa-rbSROZwz_w&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4Q8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=9127afKXI-utiLMP0YeL8Qo&start=50&sa=N&sstk=Af77f_fa6GsORoP7ZCqiPV-AMF7GDRCGc5OkUj0TK2T1gGrQzKX0PrWe0c1pvI_0pVDpSWEPN0kNQ1gIt7QSK9hEtPa-rbSROZwz_w&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4Q8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=9127afKXI-utiLMP0YeL8Qo&start=60&sa=N&sstk=Af77f_fa6GsORoP7ZCqiPV-AMF7GDRCGc5OkUj0TK2T1gGrQzKX0PrWe0c1pvI_0pVDpSWEPN0kNQ1gIt7QSK9hEtPa-rbSROZwz_w&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4Q8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=9127afKXI-utiLMP0YeL8Qo&start=70&sa=N&sstk=Af77f_fa6GsORoP7ZCqiPV-AMF7GDRCGc5OkUj0TK2T1gGrQzKX0PrWe0c1pvI_0pVDpSWEPN0kNQ1gIt7QSK9hEtPa-rbSROZwz_w&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4Q8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=9127afKXI-utiLMP0YeL8Qo&start=80&sa=N&sstk=Af77f_fa6GsORoP7ZCqiPV-AMF7GDRCGc5OkUj0TK2T1gGrQzKX0PrWe0c1pvI_0pVDpSWEPN0kNQ1gIt7QSK9hEtPa-rbSROZwz_w&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4Q8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=9127afKXI-utiLMP0YeL8Qo&start=90&sa=N&sstk=Af77f_fa6GsORoP7ZCqiPV-AMF7GDRCGc5OkUj0TK2T1gGrQzKX0PrWe0c1pvI_0pVDpSWEPN0kNQ1gIt7QSK9hEtPa-rbSROZwz_w&ved=2ahUKEwiy78v086qTAxXrFmIAHdHDIq4Q8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+LinkedIn&start=90"
+    }
+  }
+}

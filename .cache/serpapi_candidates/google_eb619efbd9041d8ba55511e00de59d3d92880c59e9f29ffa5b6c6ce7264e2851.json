@@ -1,0 +1,386 @@
+{
+  "search_metadata": {
+    "id": "69bb5d012f5ea002fc74ce02",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/WTflp1i6hyVzXqCNpHG7hQ/69bb5d012f5ea002fc74ce02.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/WTflp1i6hyVzXqCNpHG7hQ/69bb5d012f5ea002fc74ce02.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:41 UTC",
+    "processed_at": "2026-03-19 02:18:41 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/WTflp1i6hyVzXqCNpHG7hQ/69bb5d012f5ea002fc74ce02.html",
+    "total_time_taken": 6.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Abhiram Garapati for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Abhiram Garapati for US House TX-31? Include who that supporter works for.",
+    "total_results": 445,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "GARAPATI, ABHIRAM - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H0TX31030/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H0TX31030/&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQFnoECBkQAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H0TX31030",
+      "favicon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_WN9IDAlKc8ryhDmMUwl5Dc.png",
+      "snippet": "Candidate for House Texas - 31 ID: H0TX31030 REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary. About this candidate.",
+      "snippet_highlighted_words": [
+        "House Texas",
+        "31",
+        "Financial"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Candidate for House Texas - 31 ID: H0TX31030 REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary. About this candidate.",
+          "source_info_link": "https://www.fec.gov/data/candidate/H0TX31030/",
+          "icon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_aOZ3NK9TPo-nnwGKBXA20DM1iJ8Q5FylGaTbc8IlmyW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H0TX31030/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH0TX31030%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ5t4CegQIKxAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 2,
+      "title": "Fundraising in Texas' 31st Congressional District",
+      "link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quiverquant.com/election-fundraising/house/TX/31&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQFnoECBoQAQ",
+      "displayed_link": "https://www.quiverquant.com › house",
+      "favicon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_XBRCUP_BiebMQURMYbRgO0.png",
+      "snippet": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+          "source_info_link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+          "icon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_auqHyK_IYbPAot_UNz7lny3aDBu7eSa20l4znT1HSNB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quiverquant.com/election-fundraising/house/TX/31&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quiverquant.com%2Felection-fundraising%2Fhouse%2FTX%2F31",
+      "missing": [
+        "financial"
+      ],
+      "must_include": {
+        "word": "financial",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+%22financial%22+supporter+of+Abhiram+Garapati+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ5t4CegQILBAB"
+      },
+      "source": "Quiver Quantitative"
+    },
+    {
+      "position": 3,
+      "title": "Next week, I will file for re-election for Texas House District ...",
+      "link": "https://www.facebook.com/representative.guillen/posts/next-week-i-will-file-for-re-election-for-texas-house-district-31-together-well-/1363116418597906/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/representative.guillen/posts/next-week-i-will-file-for-re-election-for-texas-house-district-31-together-well-/1363116418597906/&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQFnoECBcQAQ",
+      "displayed_link": "90+ reactions · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_aEUOdyG40DGHsUvbEroawE.png",
+      "snippet": "Next week, I will file for re-election for Texas House District 31. Together, we'll keep fighting for less taxes, safe and stronger ...",
+      "snippet_highlighted_words": [
+        "Texas House",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Next week, I will file for re-election for Texas House District 31. Together, we'll keep fighting for less taxes, safe and stronger ...",
+          "source_info_link": "https://www.facebook.com/representative.guillen/posts/next-week-i-will-file-for-re-election-for-texas-house-district-31-together-well-/1363116418597906/",
+          "icon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_UKw4JrfSbuByjrFsHYNmZJh6x_ODvJNJtzsuzMeFxUh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/representative.guillen/posts/next-week-i-will-file-for-re-election-for-texas-house-district-31-together-well-/1363116418597906/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Frepresentative.guillen%2Fposts%2Fnext-week-i-will-file-for-re-election-for-texas-house-district-31-together-well-%2F1363116418597906%2F",
+      "source": "Facebook · Ryan Guillen"
+    },
+    {
+      "position": 4,
+      "title": "Steven Dowell (Texas)",
+      "link": "https://ballotpedia.org/Steven_Dowell_(Texas)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Steven_Dowell_(Texas)&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQFnoECBUQAQ",
+      "displayed_link": "https://ballotpedia.org › Steven_Dowell_(Texas)",
+      "favicon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_fRc7QyWxbYe8_pVB-i-GeA.png",
+      "snippet": "His career experience includes working as a military officer and business strategist. Texas' 31st Congressional District election, 2026 (March 3 Republican ...",
+      "snippet_highlighted_words": [
+        "includes working",
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "His career experience includes working as a military officer and business strategist. Texas' 31st Congressional District election, 2026 (March 3 Republican ...",
+          "source_info_link": "https://ballotpedia.org/Steven_Dowell_(Texas)",
+          "icon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_RkHJqEiX_Cujl2LW71elS37NtbEhAgyncmqDdApklz8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Steven_Dowell_(Texas)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FSteven_Dowell_%28Texas%29",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 5,
+      "title": "Candidates Search Results",
+      "link": "https://www.opensecrets.org/races/candidate_search_results",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/candidate_search_results&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQFnoECBsQAQ",
+      "displayed_link": "https://www.opensecrets.org › candidate_search_results",
+      "favicon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_a5-UhsKC3w-2CUPPiw1Db8.png",
+      "snippet": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+          "source_info_link": "https://www.opensecrets.org/races/candidate_search_results",
+          "icon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_aXjHf23uGBJB19C1XlBEiBi_3Oy_ngJ5yc6GFj7w5Uw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/candidate_search_results&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Fcandidate_search_results",
+      "missing": [
+        "Include"
+      ],
+      "must_include": {
+        "word": "Include",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31?+%22Include%22+who+that+supporter+works+for.&sa=X&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ5t4CegQIKRAB"
+      },
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 6,
+      "title": "I want to extend a huge thank you to the 45 volunteers who ...",
+      "link": "https://www.instagram.com/p/DVESTq8FCrj/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DVESTq8FCrj/&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQFnoECBYQAQ",
+      "displayed_link": "30+ likes · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_aHKVA5IVUW9R2fkqERmwiA.png",
+      "snippet": "I'm a volunteer with the Texas Democratic Party. Do you have a plan to vote early this primary season? We're team Smith and we're working to get ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "have",
+        "working"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I'm a volunteer with the Texas Democratic Party. Do you have a plan to vote early this primary season? We're team Smith and we're working to get ...",
+          "source_info_link": "https://www.instagram.com/p/DVESTq8FCrj/",
+          "icon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_ZgYjBcEoBaZD6s_qvB6H3UDsQWpRJRmBP84i6LIADhB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DVESTq8FCrj/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDVESTq8FCrj%2F",
+      "missing": [
+        "financial",
+        "Include"
+      ],
+      "source": "Instagram · electadamsmith"
+    },
+    {
+      "position": 7,
+      "title": "I'm running for Congress in Texas District 31 on a 3rd party ...",
+      "link": "https://www.facebook.com/greg.stoker.7583/posts/im-running-for-congress-in-texas-district-31-on-a-3rd-party-nonpartisan-ticket-t/1782945479776695/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/greg.stoker.7583/posts/im-running-for-congress-in-texas-district-31-on-a-3rd-party-nonpartisan-ticket-t/1782945479776695/&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQFnoECBgQAQ",
+      "displayed_link": "1.8K+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_cD9Vxs4pKBprgzrr7aTtRc.png",
+      "snippet": "I'm running for Congress in Texas District 31 on a 3rd party, nonpartisan ticket. These are baseline political positions.",
+      "snippet_highlighted_words": [
+        "Congress",
+        "Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I'm running for Congress in Texas District 31 on a 3rd party, nonpartisan ticket. These are baseline political positions.",
+          "source_info_link": "https://www.facebook.com/greg.stoker.7583/posts/im-running-for-congress-in-texas-district-31-on-a-3rd-party-nonpartisan-ticket-t/1782945479776695/",
+          "icon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_UzVabcSiwNLlGgp7XSrq96iKd8-QqFuWD_bQQrbiMG5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/greg.stoker.7583/posts/im-running-for-congress-in-texas-district-31-on-a-3rd-party-nonpartisan-ticket-t/1782945479776695/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgreg.stoker.7583%2Fposts%2Fim-running-for-congress-in-texas-district-31-on-a-3rd-party-nonpartisan-ticket-t%2F1782945479776695%2F",
+      "source": "Facebook · Greg Stoker"
+    },
+    {
+      "position": 8,
+      "title": "Republican U.S. Congressional Candidates relay their ...",
+      "link": "https://kdhnews.com/news/region/republican-u-s-congressional-candidates-relay-their-stances-ahead-of-march-primary/article_92476e79-259c-597b-8099-497ecef8dfe2.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/region/republican-u-s-congressional-candidates-relay-their-stances-ahead-of-march-primary/article_92476e79-259c-597b-8099-497ecef8dfe2.html&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQFnoECD4QAQ",
+      "displayed_link": "https://kdhnews.com › news › region › republican-u-s-c...",
+      "favicon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_X5XFCQBrgBJaE6dCZdWUI4.png",
+      "date": "Feb 15, 2026",
+      "snippet": "U.S. Congressional District 31, the office U.S. Representative John Carter, R-Round Rock, has held since 2003, will see the congressman face ...",
+      "snippet_highlighted_words": [
+        "U.S. Congressional",
+        "31",
+        "U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "U.S. Congressional District 31, the office U.S. Representative John Carter, R-Round Rock, has held since 2003, will see the congressman face ...",
+          "source_info_link": "https://kdhnews.com/news/region/republican-u-s-congressional-candidates-relay-their-stances-ahead-of-march-primary/article_92476e79-259c-597b-8099-497ecef8dfe2.html",
+          "icon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_ayNh68pEH659_4Ln5nJk_lmHZqf-kCO7Irv-79Qe1Y1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/region/republican-u-s-congressional-candidates-relay-their-stances-ahead-of-march-primary/article_92476e79-259c-597b-8099-497ecef8dfe2.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Fregion%2Frepublican-u-s-congressional-candidates-relay-their-stances-ahead-of-march-primary%2Farticle_92476e79-259c-597b-8099-497ecef8dfe2.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "2022 United States House of Representatives elections in ...",
+      "link": "https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_Texas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_Texas&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQFnoECEEQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › 2022_United_States_H...",
+      "favicon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_f3UM9JyievrZbbiBkUXJXY.png",
+      "snippet": "During the 2022 elections, the Democrats and Republicans each gained one of the two seats Texas gained through reapportionment. While Republicans flipped the ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "During the 2022 elections, the Democrats and Republicans each gained one of the two seats Texas gained through reapportionment. While Republicans flipped the ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_Texas",
+          "icon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_fQ4R7HtvtLStdDLTiDBY1PIYT1g1q8cQsOMhJl_xo8Z.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_Texas&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F2022_United_States_House_of_Representatives_elections_in_Texas",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 10,
+      "title": "Austin voter guide 2026: What's on the ballot on March 3?",
+      "link": "https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQFnoECEQQAQ",
+      "displayed_link": "https://www.statesman.com › projects › texas-election-a...",
+      "favicon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_d-ylcvMtULW30mSeIoLOGg.png",
+      "date": "Mar 3, 2026",
+      "snippet": "Austin-area voters will head to the polls on March 3 to decide key Texas primary races, including U.S. Senate, governor, and state offices.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "including U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Austin-area voters will head to the polls on March 3 to decide key Texas primary races, including U.S. Senate, governor, and state offices.",
+          "source_info_link": "https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/",
+          "icon": "https://serpapi.com/searches/69bb5d012f5ea002fc74ce02/images/T52LvAdcoo5Lj-Pq1OZQ_TJcGIbwMRAOz37O0hPMPKgVtN4Ag21t2o-JNUmO_THS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.statesman.com%2Fprojects%2F2026%2Ftexas-election-austin-primary-voting-guide%2F",
+      "source": "Austin American-Statesman"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Abhiram Garapati nationality",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Abhiram+Garapati+nationality&sa=X&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati+nationality"
+    },
+    {
+      "block_position": 1,
+      "query": "Who is Abhiram Garapati",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+Abhiram+Garapati&sa=X&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+Abhiram+Garapati"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Bl27aeK4LP24wN4PxPPJ4A4&start=10&sa=N&sstk=Af77f_fix5uzvu-YTn_GyHvwerF_Eqv7-5coLevtCVCVwrAYNkNvnaNNvh5DHnYGdXS5v00XCdx6KkPo8SIk7O8jasmcz31s4A5hyg&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ8NMDegQIBxAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Bl27aeK4LP24wN4PxPPJ4A4&start=10&sa=N&sstk=Af77f_fix5uzvu-YTn_GyHvwerF_Eqv7-5coLevtCVCVwrAYNkNvnaNNvh5DHnYGdXS5v00XCdx6KkPo8SIk7O8jasmcz31s4A5hyg&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Bl27aeK4LP24wN4PxPPJ4A4&start=20&sa=N&sstk=Af77f_fix5uzvu-YTn_GyHvwerF_Eqv7-5coLevtCVCVwrAYNkNvnaNNvh5DHnYGdXS5v00XCdx6KkPo8SIk7O8jasmcz31s4A5hyg&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Bl27aeK4LP24wN4PxPPJ4A4&start=30&sa=N&sstk=Af77f_fix5uzvu-YTn_GyHvwerF_Eqv7-5coLevtCVCVwrAYNkNvnaNNvh5DHnYGdXS5v00XCdx6KkPo8SIk7O8jasmcz31s4A5hyg&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Bl27aeK4LP24wN4PxPPJ4A4&start=40&sa=N&sstk=Af77f_fix5uzvu-YTn_GyHvwerF_Eqv7-5coLevtCVCVwrAYNkNvnaNNvh5DHnYGdXS5v00XCdx6KkPo8SIk7O8jasmcz31s4A5hyg&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Bl27aeK4LP24wN4PxPPJ4A4&start=50&sa=N&sstk=Af77f_fix5uzvu-YTn_GyHvwerF_Eqv7-5coLevtCVCVwrAYNkNvnaNNvh5DHnYGdXS5v00XCdx6KkPo8SIk7O8jasmcz31s4A5hyg&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=Bl27aeK4LP24wN4PxPPJ4A4&start=60&sa=N&sstk=Af77f_fix5uzvu-YTn_GyHvwerF_Eqv7-5coLevtCVCVwrAYNkNvnaNNvh5DHnYGdXS5v00XCdx6KkPo8SIk7O8jasmcz31s4A5hyg&ved=2ahUKEwji09-B86qTAxV9HNAFHcR5EuwQ8tMDegQIBxAO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Abhiram+Garapati+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=60"
+    }
+  }
+}

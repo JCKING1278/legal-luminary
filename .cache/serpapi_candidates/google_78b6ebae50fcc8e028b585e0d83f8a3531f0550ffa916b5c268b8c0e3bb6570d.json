@@ -1,0 +1,354 @@
+{
+  "search_metadata": {
+    "id": "69bb5d30408027b3ea6b3831",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CON1Dvpas-1bTXK64O36tw/69bb5d30408027b3ea6b3831.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/CON1Dvpas-1bTXK64O36tw/69bb5d30408027b3ea6b3831.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:28 UTC",
+    "processed_at": "2026-03-19 02:19:28 UTC",
+    "google_url": "https://www.google.com/search?q=Stacey+L.+Wilson+%22Bell+County+Commissioner+P2%22+%22Central+Texas%22+Instagram&oq=Stacey+L.+Wilson+%22Bell+County+Commissioner+P2%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/CON1Dvpas-1bTXK64O36tw/69bb5d30408027b3ea6b3831.html",
+    "total_time_taken": 4.11
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Stacey L. Wilson \"Bell County Commissioner P2\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Stacey L. Wilson \"Bell County Commissioner P2\" \"Central Texas\" Instagram",
+    "total_results": 1880,
+    "time_taken_displayed": 0.72,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Stacey L. Wilson Bell County Commissioner P2 Central Texas Instagram",
+    "spelling_fix": "Stacey L. Wilson Bell County Commissioner P2 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "💙🌊 Stacey Wilson for County Commissioner — Precinct 2!! ...",
+      "link": "https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQFnoECCAQAQ",
+      "displayed_link": "20+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--HutfPbpuOfYRirvTTOorGj4g.png",
+      "snippet": "Stacey Wilson for County Commissioner — Precinct 2!! Stacey L Wilson instagram.com/staceywilsoncampaign Donate: DonateToStacey.com.",
+      "snippet_highlighted_words": [
+        "County Commissioner",
+        "Stacey L Wilson instagram"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Stacey Wilson for County Commissioner — Precinct 2!! Stacey L Wilson instagram.com/staceywilsoncampaign Donate: DonateToStacey.com.",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/",
+          "icon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--HuuY2lsBPOOKMLoL6NoUeFyb1MsEvSnZTGPhVVnYPEJv5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2F-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst%2F1281821050654714%2F",
+      "missing": [
+        "P2",
+        "Central"
+      ],
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 2,
+      "title": "Stacey L. Wilson (Bell County Commissioner Precinct 2, ...",
+      "link": "https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQFnoECB8QAQ",
+      "displayed_link": "https://ballotpedia.org › Stacey_L._Wilson_(Bell_County...",
+      "favicon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--HuqkEclFXJeSQogQYexSpFPs.png",
+      "snippet": "Completing the survey will update the candidate's Ballotpedia profile, letting voters know who they are and what they stand for. More than 26,000 candidates ...",
+      "about_this_result": {
+        "source": {
+          "description": "Completing the survey will update the candidate's Ballotpedia profile, letting voters know who they are and what they stand for. More than 26,000 candidates ...",
+          "source_info_link": "https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--Humw7d0TZeIXhtGn1bO_0igoclyW_hloymhejX4NQUSsh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FStacey_L._Wilson_%28Bell_County_Commissioner_Precinct_2%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "P2",
+        "Central",
+        "Instagram"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 3,
+      "title": "The San Bernardino Community College Board of Trustees ...",
+      "link": "https://sbccd.edu/meetings-and-agendas/board-of-trustees/2022/05-12/2022-05-12boardmeetingagenda.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sbccd.edu/meetings-and-agendas/board-of-trustees/2022/05-12/2022-05-12boardmeetingagenda.pdf&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQFnoECCYQAQ",
+      "displayed_link": "https://sbccd.edu › meetings-and-agendas › boar...",
+      "favicon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--Huo_rTblGAx7TXQZJqFWQbCQ.png",
+      "date": "May 12, 2022",
+      "snippet": "The San Bernardino Community College Board of Trustees offers an opportunity for the public to address the Board on any agenda.",
+      "about_this_result": {
+        "source": {
+          "description": "The San Bernardino Community College Board of Trustees offers an opportunity for the public to address the Board on any agenda.",
+          "source_info_link": "https://sbccd.edu/meetings-and-agendas/board-of-trustees/2022/05-12/2022-05-12boardmeetingagenda.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--Huo3IAS9It7pHq4RL97xAIm3fxdL3mY3RCMZHtkAZo6A-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://sbccd.edu/meetings-and-agendas/board-of-trustees/2022/05-12/2022-05-12boardmeetingagenda.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsbccd.edu%2Fmeetings-and-agendas%2Fboard-of-trustees%2F2022%2F05-12%2F2022-05-12boardmeetingagenda.pdf",
+      "source": "San Bernardino Community College District"
+    },
+    {
+      "position": 4,
+      "title": "2022-2023 - Undergraduate Catalog - Daemen University",
+      "link": "https://catalog.daemen.edu/ug-2023/wp-content/uploads/sites/49/2022/11/Undergrad2022.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://catalog.daemen.edu/ug-2023/wp-content/uploads/sites/49/2022/11/Undergrad2022.pdf&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQFnoECCsQAQ",
+      "displayed_link": "https://catalog.daemen.edu › sites › Undergrad2022",
+      "snippet": "... Center. 7. Erie Basin Marina. 8. Buffalo and Erie County Library. 9. Buffalo Niagara Convention Center. 10. Buffalo Theater District. 11. Fort Erie. 12. Peace ...",
+      "snippet_highlighted_words": [
+        "Center",
+        "County",
+        "Center"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 483
+          },
+          "extensions": [
+            "483 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... Center. 7. Erie Basin Marina. 8. Buffalo and Erie County Library. 9. Buffalo Niagara Convention Center. 10. Buffalo Theater District. 11. Fort Erie. 12. Peace ...",
+          "source_info_link": "https://catalog.daemen.edu/ug-2023/wp-content/uploads/sites/49/2022/11/Undergrad2022.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://catalog.daemen.edu/ug-2023/wp-content/uploads/sites/49/2022/11/Undergrad2022.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcatalog.daemen.edu%2Fug-2023%2Fwp-content%2Fuploads%2Fsites%2F49%2F2022%2F11%2FUndergrad2022.pdf",
+      "source": "Daemen University"
+    },
+    {
+      "position": 5,
+      "title": "\"\" search results | Northwestern Oklahoma State ...",
+      "link": "https://www.nwosu.edu/search",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nwosu.edu/search&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQFnoECBwQAQ",
+      "displayed_link": "https://www.nwosu.edu › search",
+      "favicon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--HuvXp1SU-lZNqDsXKQMr9V9A.png",
+      "snippet": "Students attending classes at Northwestern-Woodward are able to take the same types of undergraduate courses that are available at Northwestern's main campus in ...",
+      "snippet_highlighted_words": [
+        "main"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Students attending classes at Northwestern-Woodward are able to take the same types of undergraduate courses that are available at Northwestern's main campus in ...",
+          "source_info_link": "https://www.nwosu.edu/search",
+          "icon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--HuvZMig2MzYsnCIgcXxPiIBtmXnZj6lbFOYsBtCtc4uQb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nwosu.edu/search&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nwosu.edu%2Fsearch",
+      "source": "Northwestern Oklahoma State University"
+    },
+    {
+      "position": 6,
+      "title": "2026 OAH Conference on American History, Philadelphia",
+      "link": "https://www.oah.org/wp-content/uploads/2026/01/Phil-Program-12-18-25-Online-6.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oah.org/wp-content/uploads/2026/01/Phil-Program-12-18-25-Online-6.pdf&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQFnoECB0QAQ",
+      "displayed_link": "https://www.oah.org › uploads › 2026/01 › Phil-...",
+      "favicon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--HuggWDU2QoTNibXWKYbovQ0g.png",
+      "date": "Jan 12, 2026",
+      "snippet": "Welcome to Philadelphia, the “City of. Brotherly Love,” for the 119th annual conference of the Organization of America. Historians.",
+      "about_this_result": {
+        "source": {
+          "description": "Welcome to Philadelphia, the “City of. Brotherly Love,” for the 119th annual conference of the Organization of America. Historians.",
+          "source_info_link": "https://www.oah.org/wp-content/uploads/2026/01/Phil-Program-12-18-25-Online-6.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--HutBEurIdKBNJhMIPI2peg_1CGSgsMfFfh_EQ3BC5MsSG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.oah.org/wp-content/uploads/2026/01/Phil-Program-12-18-25-Online-6.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.oah.org%2Fwp-content%2Fuploads%2F2026%2F01%2FPhil-Program-12-18-25-Online-6.pdf",
+      "source": "OAH.org"
+    },
+    {
+      "position": 7,
+      "title": "Alpha Kappa Alpha Sorority, Theta Theta Omega Chapter",
+      "link": "https://special.library.unlv.edu/ark%3A/62930/d1t43nj4s",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://special.library.unlv.edu/ark%253A/62930/d1t43nj4s&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQFnoECB4QAQ",
+      "displayed_link": "https://special.library.unlv.edu › ark:",
+      "snippet": "From the Alpha Kappa Alpha Sorority, Incorporated, Theta Theta Omega Chapter Records (MS-01014) -- Chapter records file.",
+      "about_this_result": {
+        "source": {
+          "description": "From the Alpha Kappa Alpha Sorority, Incorporated, Theta Theta Omega Chapter Records (MS-01014) -- Chapter records file.",
+          "source_info_link": "https://special.library.unlv.edu/ark%3A/62930/d1t43nj4s"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://special.library.unlv.edu/ark%3A/62930/d1t43nj4s&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fspecial.library.unlv.edu%2Fark%253A%2F62930%2Fd1t43nj4s",
+      "source": "UNLV Special Collections Portal"
+    },
+    {
+      "position": 8,
+      "title": "asbury park march 27-31, 2019",
+      "link": "https://www.gsff.org/wp-content/uploads/GSFF-program-book-2019.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gsff.org/wp-content/uploads/GSFF-program-book-2019.pdf&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQFnoECDcQAQ",
+      "displayed_link": "https://www.gsff.org › GSFF-program-book-2019",
+      "favicon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--Hur_EPJcdl9OA9qfVaf7kJJs.png",
+      "date": "Mar 27, 2019",
+      "snippet": "As a lifelong resident of the Jersey shore, David's first contact with Brookdale came very early when he participated in a song-writers camp for ...",
+      "about_this_result": {
+        "source": {
+          "description": "As a lifelong resident of the Jersey shore, David's first contact with Brookdale came very early when he participated in a song-writers camp for ...",
+          "source_info_link": "https://www.gsff.org/wp-content/uploads/GSFF-program-book-2019.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--Huu6cSqotUtkCYlf2ALjpLHlKEfMNJbzPp3Z0jXvPGO-5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gsff.org/wp-content/uploads/GSFF-program-book-2019.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gsff.org%2Fwp-content%2Fuploads%2FGSFF-program-book-2019.pdf",
+      "source": "Garden State Film Festival"
+    },
+    {
+      "position": 9,
+      "title": "Recent smoke in the cockpit events",
+      "link": "https://www.visionsafe.com/recent-smoke-in-the-cockpit-events/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.visionsafe.com/recent-smoke-in-the-cockpit-events/&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQFnoECDgQAQ",
+      "displayed_link": "https://www.visionsafe.com › recent-smoke-in-the-cock...",
+      "favicon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--HuksiOnZDoa05c1Q_TvwLatA.png",
+      "snippet": "December 18, 2025. Crew of Air Canada flight dons oxygen masks and declares emergency due to burning smell and smoke in the cockpit. November 26, 2025.",
+      "about_this_result": {
+        "source": {
+          "description": "December 18, 2025. Crew of Air Canada flight dons oxygen masks and declares emergency due to burning smell and smoke in the cockpit. November 26, 2025.",
+          "source_info_link": "https://www.visionsafe.com/recent-smoke-in-the-cockpit-events/",
+          "icon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--HulIcMXesk7JRz7eZJFARF-OzNS7LF9awUugR_9KHQspw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.visionsafe.com/recent-smoke-in-the-cockpit-events/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.visionsafe.com%2Frecent-smoke-in-the-cockpit-events%2F",
+      "source": "VisionSafe | EVAS"
+    },
+    {
+      "position": 10,
+      "title": "ENTOMOLOGY 2014",
+      "link": "https://swfrec.ifas.ufl.edu/hlb/database/pdf/10V_ESA14_14.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://swfrec.ifas.ufl.edu/hlb/database/pdf/10V_ESA14_14.pdf&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQFnoECD0QAQ",
+      "displayed_link": "https://swfrec.ifas.ufl.edu › hlb › database › pdf",
+      "favicon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--HuqNedmJSZyM5sX5BnD8Id4s.png",
+      "snippet": "... Central Exhibit Booth ... P2 level is nine feet. Overnight parking in the garage is prohibited. Portland, Oregon. Portland, Oregon, host for ENTOMOLOGY ...",
+      "snippet_highlighted_words": [
+        "Central",
+        "P2"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 260
+          },
+          "extensions": [
+            "260 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... Central Exhibit Booth ... P2 level is nine feet. Overnight parking in the garage is prohibited. Portland, Oregon. Portland, Oregon, host for ENTOMOLOGY ...",
+          "source_info_link": "https://swfrec.ifas.ufl.edu/hlb/database/pdf/10V_ESA14_14.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d30408027b3ea6b3831/images/bS65M2dhwAOZOvUgD--Huhw4yYGTc-EAWXR5SiRmhDT1_yTF-hUnLZuH7mFJYw8O.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://swfrec.ifas.ufl.edu/hlb/database/pdf/10V_ESA14_14.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fswfrec.ifas.ufl.edu%2Fhlb%2Fdatabase%2Fpdf%2F10V_ESA14_14.pdf",
+      "source": "UF/IFAS Southwest Florida Research and Education Center"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=M127aZ38KMHqptQPrOWUiQo&start=10&sa=N&sstk=Af77f_dFcIPprSqoJT820LsLyiQumXoJ6DAmxuqx68BMCatCrvC3u6blJukFRDmcd3x91X4tHCyIuXLtL6pKy9bTpYcdE5JZxlA5Lg&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=M127aZ38KMHqptQPrOWUiQo&start=10&sa=N&sstk=Af77f_dFcIPprSqoJT820LsLyiQumXoJ6DAmxuqx68BMCatCrvC3u6blJukFRDmcd3x91X4tHCyIuXLtL6pKy9bTpYcdE5JZxlA5Lg&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=M127aZ38KMHqptQPrOWUiQo&start=20&sa=N&sstk=Af77f_dFcIPprSqoJT820LsLyiQumXoJ6DAmxuqx68BMCatCrvC3u6blJukFRDmcd3x91X4tHCyIuXLtL6pKy9bTpYcdE5JZxlA5Lg&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=M127aZ38KMHqptQPrOWUiQo&start=30&sa=N&sstk=Af77f_dFcIPprSqoJT820LsLyiQumXoJ6DAmxuqx68BMCatCrvC3u6blJukFRDmcd3x91X4tHCyIuXLtL6pKy9bTpYcdE5JZxlA5Lg&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=M127aZ38KMHqptQPrOWUiQo&start=40&sa=N&sstk=Af77f_dFcIPprSqoJT820LsLyiQumXoJ6DAmxuqx68BMCatCrvC3u6blJukFRDmcd3x91X4tHCyIuXLtL6pKy9bTpYcdE5JZxlA5Lg&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=M127aZ38KMHqptQPrOWUiQo&start=50&sa=N&sstk=Af77f_dFcIPprSqoJT820LsLyiQumXoJ6DAmxuqx68BMCatCrvC3u6blJukFRDmcd3x91X4tHCyIuXLtL6pKy9bTpYcdE5JZxlA5Lg&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=M127aZ38KMHqptQPrOWUiQo&start=60&sa=N&sstk=Af77f_dFcIPprSqoJT820LsLyiQumXoJ6DAmxuqx68BMCatCrvC3u6blJukFRDmcd3x91X4tHCyIuXLtL6pKy9bTpYcdE5JZxlA5Lg&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=M127aZ38KMHqptQPrOWUiQo&start=70&sa=N&sstk=Af77f_dFcIPprSqoJT820LsLyiQumXoJ6DAmxuqx68BMCatCrvC3u6blJukFRDmcd3x91X4tHCyIuXLtL6pKy9bTpYcdE5JZxlA5Lg&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=M127aZ38KMHqptQPrOWUiQo&start=80&sa=N&sstk=Af77f_dFcIPprSqoJT820LsLyiQumXoJ6DAmxuqx68BMCatCrvC3u6blJukFRDmcd3x91X4tHCyIuXLtL6pKy9bTpYcdE5JZxlA5Lg&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQ8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=M127aZ38KMHqptQPrOWUiQo&start=90&sa=N&sstk=Af77f_dFcIPprSqoJT820LsLyiQumXoJ6DAmxuqx68BMCatCrvC3u6blJukFRDmcd3x91X4tHCyIuXLtL6pKy9bTpYcdE5JZxlA5Lg&ved=2ahUKEwjd4ZaX86qTAxVBtYkEHawyJaEQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=90"
+    }
+  }
+}

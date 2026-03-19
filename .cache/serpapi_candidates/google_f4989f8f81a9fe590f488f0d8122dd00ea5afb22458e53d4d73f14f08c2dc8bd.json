@@ -1,0 +1,367 @@
+{
+  "search_metadata": {
+    "id": "69bb5d3b874d508dc2038f48",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/u6tNlqjzKla-uzSAUuil2w/69bb5d3b874d508dc2038f48.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/u6tNlqjzKla-uzSAUuil2w/69bb5d3b874d508dc2038f48.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:39 UTC",
+    "processed_at": "2026-03-19 02:19:39 UTC",
+    "google_url": "https://www.google.com/search?q=John+Driver+%22Bell+County+Commissioner+P3%22+%22Central+Texas%22+LinkedIn&oq=John+Driver+%22Bell+County+Commissioner+P3%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/u6tNlqjzKla-uzSAUuil2w/69bb5d3b874d508dc2038f48.html",
+    "total_time_taken": 2.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "John Driver \"Bell County Commissioner P3\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "John Driver \"Bell County Commissioner P3\" \"Central Texas\" LinkedIn",
+    "total_results": 12100,
+    "time_taken_displayed": 0.74,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "John Driver Bell County Commissioner P3 Central Texas LinkedIn",
+    "spelling_fix": "John Driver Bell County Commissioner P3 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "John Driver - Corporate Secretary",
+      "link": "https://www.linkedin.com/in/john-driver-a3a28026",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-driver-a3a28026&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88QFnoECCgQAQ",
+      "displayed_link": "280+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpBOG3RJ7_v4SaQDW4_uWG4Y.png",
+      "snippet": "Apr 2023 - Present 3 years. San Antonio, Texas, United States. County Commissioner Pct. 4. Bell County, Texas. Jan 2019 - Dec 2022 4 years. Belton, Texas.",
+      "snippet_highlighted_words": [
+        "County Commissioner Pct. 4. Bell County, Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apr 2023 - Present 3 years. San Antonio, Texas, United States. County Commissioner Pct. 4. Bell County, Texas. Jan 2019 - Dec 2022 4 years. Belton, Texas.",
+          "source_info_link": "https://www.linkedin.com/in/john-driver-a3a28026",
+          "icon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpDfZY8fD3lrJfRdm4fdVLlZPuFGp8QKWFmVWxbktLWuq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/john-driver-a3a28026&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-driver-a3a28026",
+      "missing": [
+        "P3",
+        "Central"
+      ],
+      "source": "LinkedIn · John Driver"
+    },
+    {
+      "position": 2,
+      "title": "John Driver",
+      "link": "https://www.linkedin.com/in/john-driver-3baa49278",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-driver-3baa49278&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88QFnoECB8QAQ",
+      "displayed_link": "https://www.linkedin.com › john-driver-3baa49278",
+      "favicon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpAFi383iU5qCA-6wVLkvQNM.png",
+      "snippet": "Experience: DAMN GOOD AGENCY · Location: 77008. View John Driver's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "View John Driver's profile on LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Houston, Texas, United States",
+            "Third Key",
+            "DAMN GOOD AGENCY"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: DAMN GOOD AGENCY · Location: 77008. View John Driver's profile on LinkedIn, a professional community of 1 billion members.",
+          "source_info_link": "https://www.linkedin.com/in/john-driver-3baa49278",
+          "icon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpEBJ4jxxFsGvBBrxl_mY0T8f5lYM9adPT6VPtdxWLdo8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/john-driver-3baa49278&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-driver-3baa49278",
+      "missing": [
+        "Bell",
+        "County",
+        "P3",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 3,
+      "title": "John Driver - Fort Hood Family Housing",
+      "link": "https://www.linkedin.com/in/john-driver-95440419",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-driver-95440419&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88QFnoECCUQAQ",
+      "displayed_link": "310+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpGE6oHjD_OOFsf9-RCat_JM.png",
+      "snippet": "John Driver. Operation Director Westside at Fort Hood Family Housing. Fort Hood Family Housing. Killeen, Texas, United States. 319 followers 318 connections.",
+      "snippet_highlighted_words": [
+        "Operation Director Westside at Fort Hood Family Housing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "John Driver. Operation Director Westside at Fort Hood Family Housing. Fort Hood Family Housing. Killeen, Texas, United States. 319 followers 318 connections.",
+          "source_info_link": "https://www.linkedin.com/in/john-driver-95440419",
+          "icon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpPWbFrhL2sNMbG4tpHjHLm-RfhrqbeDtME1wEZfhQg8S.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/john-driver-95440419&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-driver-95440419",
+      "missing": [
+        "Bell",
+        "Commissioner",
+        "P3",
+        "Central"
+      ],
+      "source": "LinkedIn · John Driver"
+    },
+    {
+      "position": 4,
+      "title": "NAARB – Serving the U.S. and Canada Since 1947",
+      "link": "https://naarb.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://naarb.org/&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88QFnoECBwQAQ",
+      "displayed_link": "https://naarb.org",
+      "favicon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpON09H_EjHhYEgOPbR5R7v4.png",
+      "snippet": "The preeminent organization of labor and employment arbitrators, serving members in the US and Canada since 1947.",
+      "about_this_result": {
+        "source": {
+          "description": "The preeminent organization of labor and employment arbitrators, serving members in the US and Canada since 1947.",
+          "source_info_link": "https://naarb.org/",
+          "icon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpK0LBl1ULc_DKp30I90U1CfT_p0pgJHd0kPDBsS4Yqg-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://naarb.org/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnaarb.org%2F",
+      "source": "NAARB"
+    },
+    {
+      "position": 5,
+      "title": "Press Conference Todd Shea, Founder & CEO CDRS ...",
+      "link": "https://www.facebook.com/QBworld/posts/press-conference-todd-shea-founder-ceo-cdrs-comprehensive-disaster-response-serv/1370914964392299/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/QBworld/posts/press-conference-todd-shea-founder-ceo-cdrs-comprehensive-disaster-response-serv/1370914964392299/&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88QFnoECCYQAQ",
+      "displayed_link": "40+ reactions · 6 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpHxzUqO3-OPputrmnkChaeM.png",
+      "snippet": "LIVE PRESS CONFERENCE: Harris County Commissioner Rodney Ellis and and Congresswoman Sheila Jackson Lee fighting to extend critical disaster ...",
+      "snippet_highlighted_words": [
+        "County Commissioner"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "LIVE PRESS CONFERENCE: Harris County Commissioner Rodney Ellis and and Congresswoman Sheila Jackson Lee fighting to extend critical disaster ...",
+          "source_info_link": "https://www.facebook.com/QBworld/posts/press-conference-todd-shea-founder-ceo-cdrs-comprehensive-disaster-response-serv/1370914964392299/",
+          "icon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpDsTV2pTCEhdceVnFCn4Nwj9Fg6vKR6Q9hw9yK-_XPCd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/QBworld/posts/press-conference-todd-shea-founder-ceo-cdrs-comprehensive-disaster-response-serv/1370914964392299/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FQBworld%2Fposts%2Fpress-conference-todd-shea-founder-ceo-cdrs-comprehensive-disaster-response-serv%2F1370914964392299%2F",
+      "source": "Facebook · Quratulain Balouch"
+    },
+    {
+      "position": 6,
+      "title": "Taylor Foxx, Author at The Mint Museum",
+      "link": "https://www.mintmuseum.org/news/author/taylorsocialdesignhouse-com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mintmuseum.org/news/author/taylorsocialdesignhouse-com/&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88QFnoECB4QAQ",
+      "displayed_link": "https://www.mintmuseum.org › news › author › taylors...",
+      "favicon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpFyyR_m6-jOUA2sXu-MSKVA.png",
+      "snippet": "The result is a diverse range of styles and images that will dot Charlotte's urban landscape and the two Mint museum locations beginning mid-February 2023.",
+      "about_this_result": {
+        "source": {
+          "description": "The result is a diverse range of styles and images that will dot Charlotte's urban landscape and the two Mint museum locations beginning mid-February 2023.",
+          "source_info_link": "https://www.mintmuseum.org/news/author/taylorsocialdesignhouse-com/",
+          "icon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpMKP3fDATAfzvmxHrdpYcVYmcmaeemT9ziwRCTDgCi0S.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.mintmuseum.org/news/author/taylorsocialdesignhouse-com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.mintmuseum.org%2Fnews%2Fauthor%2Ftaylorsocialdesignhouse-com%2F",
+      "source": "The Mint Museum"
+    },
+    {
+      "position": 7,
+      "title": "Water Issues Committee Meeting with Board of Directors",
+      "link": "https://www.ocwd.com/wp-content/uploads/WIC_20241211.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ocwd.com/wp-content/uploads/WIC_20241211.pdf&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88QFnoECB0QAQ",
+      "displayed_link": "https://www.ocwd.com › WIC_20241211",
+      "favicon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpMu7NReD4jFCMwQXQ9rBH00.png",
+      "date": "Dec 11, 2024",
+      "snippet": "*The OCWD Water Issues Committee meeting is noticed as a joint meeting with the Board of Directors for the purpose of strict compliance with ...",
+      "about_this_result": {
+        "source": {
+          "description": "*The OCWD Water Issues Committee meeting is noticed as a joint meeting with the Board of Directors for the purpose of strict compliance with ...",
+          "source_info_link": "https://www.ocwd.com/wp-content/uploads/WIC_20241211.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpGztCpYZ2NkVynZ7YpBMgCptI8RBCCzWJiwV3dQjsuvk.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ocwd.com/wp-content/uploads/WIC_20241211.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ocwd.com%2Fwp-content%2Fuploads%2FWIC_20241211.pdf",
+      "source": "Orange County Water District"
+    },
+    {
+      "position": 8,
+      "title": "National-level and state-level prevalence of overweight ... - PMC",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11694015/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC11694015/&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88QFnoECDgQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC11694015",
+      "favicon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpCU3v12oyY-eSHzKUB5FcUM.png",
+      "date": "2024",
+      "snippet": "Over the past several decades, the overweight and obesity epidemic in the USA has resulted in a significant health and economic burden.",
+      "about_this_result": {
+        "source": {
+          "description": "Over the past several decades, the overweight and obesity epidemic in the USA has resulted in a significant health and economic burden.",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11694015/",
+          "icon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpC2gh-3AiccB8kaXKjDEHfpc9b0M1OSGscG45VTNfJPw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pmc.ncbi.nlm.nih.gov/articles/PMC11694015/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC11694015%2F",
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "2016 Interim Record - August",
+      "link": "https://apps.legislature.ky.gov/record/interim_records/Interim_Aug16.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.legislature.ky.gov/record/interim_records/Interim_Aug16.pdf&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88QFnoECD4QAQ",
+      "displayed_link": "https://apps.legislature.ky.gov › Interim_Aug16",
+      "favicon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpL8YBL5AJh4eENarFzTVjJs.jpeg",
+      "snippet": "Bell County Board of Education, 1600002826;. Barren County Board of Education ... Central Campbell County Fire District,. 2017-124. OFFICE OF INSPECTOR ...",
+      "snippet_highlighted_words": [
+        "Bell County",
+        "Central"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 88
+          },
+          "extensions": [
+            "88 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Bell County Board of Education, 1600002826;. Barren County Board of Education ... Central Campbell County Fire District,. 2017-124. OFFICE OF INSPECTOR ...",
+          "source_info_link": "https://apps.legislature.ky.gov/record/interim_records/Interim_Aug16.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpNqEn3lh5q7G6urkUpIZrII0eummWb7QKo2YGziFhqOl.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://apps.legislature.ky.gov/record/interim_records/Interim_Aug16.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fapps.legislature.ky.gov%2Frecord%2Finterim_records%2FInterim_Aug16.pdf",
+      "source": "Kentucky.gov"
+    },
+    {
+      "position": 10,
+      "title": "Economic Impacts of COVID-19: Evidence from a New Public ...",
+      "link": "https://academic.oup.com/qje/article/139/2/829/7289247",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://academic.oup.com/qje/article/139/2/829/7289247&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88QFnoECDkQAQ",
+      "displayed_link": "https://academic.oup.com › qje › article",
+      "favicon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpGbYHo0siqW9KelHKIK0byg.png",
+      "author": "by R Chetty",
+      "snippet": "We report weekly statistics on consumer spending, business revenues, job postings, and employment rates disaggregated by county, sector, and income group. Using ...",
+      "snippet_highlighted_words": [
+        "county"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We report weekly statistics on consumer spending, business revenues, job postings, and employment rates disaggregated by county, sector, and income group. Using ...",
+          "source_info_link": "https://academic.oup.com/qje/article/139/2/829/7289247",
+          "icon": "https://serpapi.com/searches/69bb5d3b874d508dc2038f48/images/BDOmty0fUhASHD6JbWGzpPffMK0BpzVWl2dr5sCrlNldDPB3m3KQpiCWROAfe3tw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://academic.oup.com/qje/article/139/2/829/7289247&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Facademic.oup.com%2Fqje%2Farticle%2F139%2F2%2F829%2F7289247",
+      "source": "Oxford Academic"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=PF27aYeyGKyTxc8P1dK_-Aw&start=10&sa=N&sstk=Af77f_fWuBzinFpneqQMoqqPdtLtZeFs5KBivnbOjyeobbLK2RqSJggvLZgtXwcvtPhfZWSO7WsAWjD5YIoFpw7ZeLDpL98z1iYJ6w&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88Q8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=PF27aYeyGKyTxc8P1dK_-Aw&start=10&sa=N&sstk=Af77f_fWuBzinFpneqQMoqqPdtLtZeFs5KBivnbOjyeobbLK2RqSJggvLZgtXwcvtPhfZWSO7WsAWjD5YIoFpw7ZeLDpL98z1iYJ6w&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88Q8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=PF27aYeyGKyTxc8P1dK_-Aw&start=20&sa=N&sstk=Af77f_fWuBzinFpneqQMoqqPdtLtZeFs5KBivnbOjyeobbLK2RqSJggvLZgtXwcvtPhfZWSO7WsAWjD5YIoFpw7ZeLDpL98z1iYJ6w&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88Q8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=PF27aYeyGKyTxc8P1dK_-Aw&start=30&sa=N&sstk=Af77f_fWuBzinFpneqQMoqqPdtLtZeFs5KBivnbOjyeobbLK2RqSJggvLZgtXwcvtPhfZWSO7WsAWjD5YIoFpw7ZeLDpL98z1iYJ6w&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88Q8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=PF27aYeyGKyTxc8P1dK_-Aw&start=40&sa=N&sstk=Af77f_fWuBzinFpneqQMoqqPdtLtZeFs5KBivnbOjyeobbLK2RqSJggvLZgtXwcvtPhfZWSO7WsAWjD5YIoFpw7ZeLDpL98z1iYJ6w&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88Q8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=PF27aYeyGKyTxc8P1dK_-Aw&start=50&sa=N&sstk=Af77f_fWuBzinFpneqQMoqqPdtLtZeFs5KBivnbOjyeobbLK2RqSJggvLZgtXwcvtPhfZWSO7WsAWjD5YIoFpw7ZeLDpL98z1iYJ6w&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88Q8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=PF27aYeyGKyTxc8P1dK_-Aw&start=60&sa=N&sstk=Af77f_fWuBzinFpneqQMoqqPdtLtZeFs5KBivnbOjyeobbLK2RqSJggvLZgtXwcvtPhfZWSO7WsAWjD5YIoFpw7ZeLDpL98z1iYJ6w&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88Q8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=PF27aYeyGKyTxc8P1dK_-Aw&start=70&sa=N&sstk=Af77f_fWuBzinFpneqQMoqqPdtLtZeFs5KBivnbOjyeobbLK2RqSJggvLZgtXwcvtPhfZWSO7WsAWjD5YIoFpw7ZeLDpL98z1iYJ6w&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88Q8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=PF27aYeyGKyTxc8P1dK_-Aw&start=80&sa=N&sstk=Af77f_fWuBzinFpneqQMoqqPdtLtZeFs5KBivnbOjyeobbLK2RqSJggvLZgtXwcvtPhfZWSO7WsAWjD5YIoFpw7ZeLDpL98z1iYJ6w&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88Q8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=PF27aYeyGKyTxc8P1dK_-Aw&start=90&sa=N&sstk=Af77f_fWuBzinFpneqQMoqqPdtLtZeFs5KBivnbOjyeobbLK2RqSJggvLZgtXwcvtPhfZWSO7WsAWjD5YIoFpw7ZeLDpL98z1iYJ6w&ved=2ahUKEwiHwKub86qTAxWsSfEDHVXpD88Q8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Driver+Bell+County+Commissioner+P3+Central+Texas+LinkedIn&start=90"
+    }
+  }
+}

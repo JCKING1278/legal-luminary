@@ -1,0 +1,379 @@
+{
+  "search_metadata": {
+    "id": "69bb5dc5932b0e6560b4f648",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/HWMGMZRA7X8SlzPh-STVvQ/69bb5dc5932b0e6560b4f648.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/HWMGMZRA7X8SlzPh-STVvQ/69bb5dc5932b0e6560b4f648.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:57 UTC",
+    "processed_at": "2026-03-19 02:21:57 UTC",
+    "google_url": "https://www.google.com/search?q=Dawn+Richardson+%22State+House+TX-54%22+%22Central+Texas%22+Instagram&oq=Dawn+Richardson+%22State+House+TX-54%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/HWMGMZRA7X8SlzPh-STVvQ/69bb5dc5932b0e6560b4f648.html",
+    "total_time_taken": 1.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Dawn Richardson \"State House TX-54\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Dawn Richardson \"State House TX-54\" \"Central Texas\" Instagram",
+    "total_results": 65000,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Dawn Richardson State House TX-54 Central Texas Instagram",
+    "spelling_fix": "Dawn Richardson State House TX-54 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Dawn Richardson (@anewdawnfortexas)",
+      "link": "https://www.instagram.com/anewdawnfortexas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/anewdawnfortexas/&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQFnoECB4QAQ",
+      "displayed_link": "50+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGmkBEJl42w6Fq9PLCLIzH9g.png",
+      "snippet": "58 followers · 23 following · 31 posts · @anewdawnfortexas: “Retired Educator who knows people deserve - A Fully Funded Public Education Women's Rights ...",
+      "about_this_result": {
+        "source": {
+          "description": "58 followers · 23 following · 31 posts · @anewdawnfortexas: “Retired Educator who knows people deserve - A Fully Funded Public Education Women's Rights ...",
+          "source_info_link": "https://www.instagram.com/anewdawnfortexas/",
+          "icon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGskIZViR2C6sqzESllhsOSc3LuG0MVa0r7xOR4ccNgx8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/anewdawnfortexas/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fanewdawnfortexas%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Dawn+Richardson+State+House+TX-54+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQ5t4CegQILxAB"
+      },
+      "source": "Instagram · anewdawnfortexas"
+    },
+    {
+      "position": 2,
+      "title": "Dawn Richardson @anewdawnfortexas is running for Texas ...",
+      "link": "https://www.instagram.com/reel/DVaMR-UlfP2/",
+      "displayed_link": "10+ likes · 2 weeks ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGqSezDx8nwRacrRo_cRv96w.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGuDhwVdmVD2VH5xJpbvfnDw.png",
+      "snippet": "So, what do you feel this office needs right now? OCR. Dawn Richardson Texas House District 54 Ek DAWN RICHARDS Healthcare for ALL MOTHERS ...",
+      "duration": "0:46",
+      "about_this_result": {
+        "source": {
+          "description": "So, what do you feel this office needs right now? OCR. Dawn Richardson Texas House District 54 Ek DAWN RICHARDS Healthcare for ALL MOTHERS ...",
+          "source_info_link": "https://www.instagram.com/reel/DVaMR-UlfP2/",
+          "icon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGk1Uz2K1GLUJ5KMWW-UTamTUkjRgaI4tWD03zG7igSBu.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DVaMR-UlfP2/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDVaMR-UlfP2%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Dawn+Richardson+State+House+TX-54+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQ5t4CegQIFRAR"
+      },
+      "source": "Instagram · momsagabbott"
+    },
+    {
+      "position": 3,
+      "title": "We need leaders who stand up to the billionaires and ...",
+      "link": "https://www.instagram.com/p/DUBLTUKCcjn/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUBLTUKCcjn/&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQFnoECCEQAQ",
+      "displayed_link": "1 like · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGndVICYkzIdRmAcaigaWU8c.png",
+      "snippet": "TEXAS AFL SAFL*CIO CIO is proud to endorse Dawn Richardson for House District 54 LABOR ENDORSED Early Voting: Feb. 17-27 Election Day: Mar ...",
+      "snippet_highlighted_words": [
+        "TEXAS",
+        "Dawn Richardson",
+        "House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "TEXAS AFL SAFL*CIO CIO is proud to endorse Dawn Richardson for House District 54 LABOR ENDORSED Early Voting: Feb. 17-27 Election Day: Mar ...",
+          "source_info_link": "https://www.instagram.com/p/DUBLTUKCcjn/",
+          "icon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGn7mqj5xpCLt6ZZ5e1bfxPaA1TeNSxCe0VPASfIZPt58.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUBLTUKCcjn/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUBLTUKCcjn%2F",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Dawn+Richardson+State+House+%22TX-%22+54+Central+Texas+Instagram&sa=X&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQ5t4CegQIMxAB"
+      },
+      "source": "Instagram · anewdawnfortexas"
+    },
+    {
+      "position": 4,
+      "title": "Can't make it? You can still support! Scan the QR code or ...",
+      "link": "https://www.instagram.com/p/DT2LEgRlhcz/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DT2LEgRlhcz/&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQFnoECB8QAQ",
+      "displayed_link": "https://www.instagram.com › ...",
+      "favicon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGolR7XOjYdi_O67x9iKu_qE.png",
+      "date": "Jan 23, 2026",
+      "snippet": "Killeen, TX 76541 DAWN RICHARDSON 54 DEMOCRATIC CANDIDATE FOR HD SCAN TO DONATE TEXAS DESERVES A NEW DAWN! anewdawnfortexas's profile picture.",
+      "snippet_highlighted_words": [
+        "TX",
+        "DAWN RICHARDSON 54",
+        "TEXAS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen, TX 76541 DAWN RICHARDSON 54 DEMOCRATIC CANDIDATE FOR HD SCAN TO DONATE TEXAS DESERVES A NEW DAWN! anewdawnfortexas's profile picture.",
+          "source_info_link": "https://www.instagram.com/p/DT2LEgRlhcz/",
+          "icon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGs0fwgIHfz9kvHQS0iMLcUNGZ3yKNywYHgLKTUzx-j8l.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DT2LEgRlhcz/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDT2LEgRlhcz%2F",
+      "missing": [
+        "State",
+        "House"
+      ],
+      "source": "Instagram"
+    },
+    {
+      "position": 5,
+      "title": "Join Me at the Candidate Meet & Greet! 🇺🇸 I' ...",
+      "link": "https://www.instagram.com/p/DVMCbwKjt-K/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DVMCbwKjt-K/&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQFnoECCcQAQ",
+      "displayed_link": "8 likes · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGj2LNPRQIK063Rv8G8nTg8s.png",
+      "snippet": "JOIN ME Greater Killeen Chamber of Commerce MEET-AND-GREET GREET MEET- CANDIDATE RECEPTION FEBRUARY 25 5:30 PM COURTYARD BY MARRIOTT 1721 E ...",
+      "about_this_result": {
+        "source": {
+          "description": "JOIN ME Greater Killeen Chamber of Commerce MEET-AND-GREET GREET MEET- CANDIDATE RECEPTION FEBRUARY 25 5:30 PM COURTYARD BY MARRIOTT 1721 E ...",
+          "source_info_link": "https://www.instagram.com/p/DVMCbwKjt-K/",
+          "icon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGvsqGNA8ehuCSTIf9Tsmg0e-GJHxkcQ3rqu0HDxcaXus.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DVMCbwKjt-K/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDVMCbwKjt-K%2F",
+      "source": "Instagram · votejustinearly"
+    },
+    {
+      "position": 6,
+      "title": "BELL COUNTY, TEXAS WE DESERVE BETTER. Follow us ...",
+      "link": "https://www.instagram.com/reel/DU0xuDpgGIl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DU0xuDpgGIl/&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQFnoECB0QAQ",
+      "displayed_link": "3 likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGgLnzQNmrUOifwqO_2P0pfs.png",
+      "snippet": "exas Democratic Won ГФи ΓФа WE DESERVE REPRESENTATION \"DAWN . Elect Dawn House Representative District 54 Richardson Volunteer Donate Learn More ...",
+      "snippet_highlighted_words": [
+        "DAWN",
+        "Dawn House",
+        "54 Richardson"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "exas Democratic Won ГФи ΓФа WE DESERVE REPRESENTATION \"DAWN . Elect Dawn House Representative District 54 Richardson Volunteer Donate Learn More ...",
+          "source_info_link": "https://www.instagram.com/reel/DU0xuDpgGIl/",
+          "icon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGvb_6F13S9Ri2RBFR8Cn1MWqeQHoQqRgqdP6cMQnTYzu.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DU0xuDpgGIl/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDU0xuDpgGIl%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Dawn+Richardson+State+House+TX-54+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQ5t4CegQIMhAB"
+      },
+      "source": "Instagram · anewdawnfortexas"
+    },
+    {
+      "position": 7,
+      "title": "Join us tomorrow for food, drinks, and real conversation ...",
+      "link": "https://www.instagram.com/p/DUHWFpWDki6/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUHWFpWDki6/&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQFnoECCAQAQ",
+      "displayed_link": "1 like · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGq-p8XjhMQ0OGG4G43COyxo.png",
+      "snippet": "Killeen, 76541 DAWN RICHARDSON 54 DEMOCRATIC CANDIDATE FOR HD SCAN TO DONATE TEXAS DESERVES A NEW DAWN!",
+      "snippet_highlighted_words": [
+        "DAWN RICHARDSON 54",
+        "TEXAS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen, 76541 DAWN RICHARDSON 54 DEMOCRATIC CANDIDATE FOR HD SCAN TO DONATE TEXAS DESERVES A NEW DAWN!",
+          "source_info_link": "https://www.instagram.com/p/DUHWFpWDki6/",
+          "icon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGljpzSDM6drq6dhDhFgxzFo-uyQZpX8-dDSZv7DEKSKg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUHWFpWDki6/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUHWFpWDki6%2F",
+      "missing": [
+        "House"
+      ],
+      "must_include": {
+        "word": "House",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Dawn+Richardson+State+%22House%22+TX-54+Central+Texas+Instagram&sa=X&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQ5t4CegQIMRAB"
+      },
+      "source": "Instagram · anewdawnfortexas"
+    },
+    {
+      "position": 8,
+      "title": "join us! 🔥 I'll be joining fellow Democrats for a Candidate ...",
+      "link": "https://www.instagram.com/p/DUedz_eiNzL/?hl=en-gb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUedz_eiNzL/%3Fhl%3Den-gb&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQFnoECDoQAQ",
+      "displayed_link": "1 like · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGt8uOByKEuM2R63JhQv_w6U.png",
+      "snippet": "Candidate Meet & Greet We are tronger together! FEATURING... NOTSO BY: TERRY MUSTAPHER Democratic Party Chair Candidate JUSTIN EARLY US ...",
+      "about_this_result": {
+        "source": {
+          "description": "Candidate Meet & Greet We are tronger together! FEATURING... NOTSO BY: TERRY MUSTAPHER Democratic Party Chair Candidate JUSTIN EARLY US ...",
+          "source_info_link": "https://www.instagram.com/p/DUedz_eiNzL/?hl=en-gb",
+          "icon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGmB99icjVOSxRn7eI16vEEopuqI_QGFs380uuTmGFgqZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUedz_eiNzL/?hl=en-gb&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUedz_eiNzL%2F%3Fhl%3Den-gb",
+      "missing": [
+        "State",
+        "Central"
+      ],
+      "source": "Instagram · anewdawnfortexas"
+    },
+    {
+      "position": 9,
+      "title": "EARLY VOTING STARTS TODAY!",
+      "link": "https://www.instagram.com/reel/DU3JOK2lY6D/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DU3JOK2lY6D/&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQFnoECDgQAQ",
+      "displayed_link": "2 likes · 4 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGrjhQGdZkl4wdU1WbuvmVJ8.png",
+      "snippet": "Dawn Richardson ADVANCE NAACP 1909 SANFILVN WE ALL . Democratic Candidate for Texas House District 54 ADVANCE NAACP 1909 IT IS so IMPORTANT ...",
+      "snippet_highlighted_words": [
+        "Dawn Richardson",
+        "Texas House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dawn Richardson ADVANCE NAACP 1909 SANFILVN WE ALL . Democratic Candidate for Texas House District 54 ADVANCE NAACP 1909 IT IS so IMPORTANT ...",
+          "source_info_link": "https://www.instagram.com/reel/DU3JOK2lY6D/",
+          "icon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGn2ue41CD4WwWzw-YakY4gXsaWt8TpqgtcyyYA4fLzHJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DU3JOK2lY6D/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDU3JOK2lY6D%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Dawn+Richardson+State+House+TX-54+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQ5t4CegQIQhAB"
+      },
+      "source": "Instagram · anewdawnfortexas"
+    },
+    {
+      "position": 10,
+      "title": "EARLY VOTING STARTS TODAY",
+      "link": "https://www.instagram.com/reel/DU3kv94kQit/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DU3kv94kQit/&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQFnoECDkQAQ",
+      "displayed_link": "4 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGvtsj2HZGSVjKbfgGoO1riA.png",
+      "snippet": "Dawn Richardson as THE ADVAN FOR SMALLWORLD 1909 าน NAACP . Democratic Candidate for Texas House District 54 ADVANCE NAACP 1909 IT IS so ...",
+      "snippet_highlighted_words": [
+        "Dawn Richardson",
+        "Texas House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dawn Richardson as THE ADVAN FOR SMALLWORLD 1909 าน NAACP . Democratic Candidate for Texas House District 54 ADVANCE NAACP 1909 IT IS so ...",
+          "source_info_link": "https://www.instagram.com/reel/DU3kv94kQit/",
+          "icon": "https://serpapi.com/searches/69bb5dc5932b0e6560b4f648/images/T5vpVJUR69d1zv_NI3SYGg-jwjuD-DCjS_M2xyPgu6n3yMndBbMIMlHK60nOqIdr.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DU3kv94kQit/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDU3kv94kQit%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Dawn+Richardson+State+House+TX-54+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQ5t4CegQIQRAB"
+      },
+      "source": "Instagram · anewdawnfortexas"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+Instagram&newwindow=1&sca_esv=c2ca9e7198039ef3&ei=xV27adXRI9aqur8PxO7pmAI&start=10&sa=N&sstk=Af77f_c6RUHsrrSy9zHEVJCn1IrI5fA0bv-rBWTxo4IZV4wZlbX1HFexzcGvSs3moT9-WalokhKWN2DjzGaSFj2bG9a8koAckA0gPQ&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQ8NMDegQIDhAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+Instagram&newwindow=1&sca_esv=c2ca9e7198039ef3&ei=xV27adXRI9aqur8PxO7pmAI&start=10&sa=N&sstk=Af77f_c6RUHsrrSy9zHEVJCn1IrI5fA0bv-rBWTxo4IZV4wZlbX1HFexzcGvSs3moT9-WalokhKWN2DjzGaSFj2bG9a8koAckA0gPQ&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQ8tMDegQIDhAE",
+      "3": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+Instagram&newwindow=1&sca_esv=c2ca9e7198039ef3&ei=xV27adXRI9aqur8PxO7pmAI&start=20&sa=N&sstk=Af77f_c6RUHsrrSy9zHEVJCn1IrI5fA0bv-rBWTxo4IZV4wZlbX1HFexzcGvSs3moT9-WalokhKWN2DjzGaSFj2bG9a8koAckA0gPQ&ved=2ahUKEwiVyODc86qTAxVWle4BHUR3GiMQ8tMDegQIDhAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+Instagram&start=20"
+    }
+  }
+}

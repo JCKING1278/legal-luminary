@@ -1,0 +1,392 @@
+{
+  "search_metadata": {
+    "id": "69bb5dcb271332eb3262e9c7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/t1a_XDbPgUPHDI27C3lUKQ/69bb5dcb271332eb3262e9c7.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/t1a_XDbPgUPHDI27C3lUKQ/69bb5dcb271332eb3262e9c7.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:03 UTC",
+    "processed_at": "2026-03-19 02:22:03 UTC",
+    "google_url": "https://www.google.com/search?q=Pete+Flores+%22State+Senate+TX-24%22+%22Central+Texas%22+Facebook&oq=Pete+Flores+%22State+Senate+TX-24%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/t1a_XDbPgUPHDI27C3lUKQ/69bb5dcb271332eb3262e9c7.html",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Pete Flores \"State Senate TX-24\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Pete Flores \"State Senate TX-24\" \"Central Texas\" Facebook",
+    "total_results": 169000,
+    "time_taken_displayed": 0.63,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Pete Flores State Senate TX-24 Central Texas Facebook",
+    "spelling_fix": "Pete Flores State Senate TX-24 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Senator Pete Flores, District 24 (@PeteFloresTX)",
+      "link": "https://www.facebook.com/PeteFloresTX/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/PeteFloresTX/&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQFnoECCAQAQ",
+      "displayed_link": "5.7K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU8VsEE3-_13X_ZTyhxTNdhI.png",
+      "snippet": "Senator Pete Flores, District 24. 5680 likes · 251 talking about this. Texas Senator Pete Flores, District 24 Pd pol ad • Pete Flores Campaign.",
+      "snippet_highlighted_words": [
+        "Senator Pete Flores",
+        "24",
+        "Texas Senator Pete Flores",
+        "24",
+        "Pete Flores"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Senator Pete Flores, District 24. 5680 likes · 251 talking about this. Texas Senator Pete Flores, District 24 Pd pol ad • Pete Flores Campaign.",
+          "source_info_link": "https://www.facebook.com/PeteFloresTX/",
+          "icon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU2SQYOpXd-76Jj3Or_MAj5h0uUEq7g_EtBpdLOj3hijw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/PeteFloresTX/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FPeteFloresTX%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Pete+Flores+State+Senate+TX-24+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ5t4CegQINhAB"
+      },
+      "source": "Facebook · Senator Pete Flores, District 24"
+    },
+    {
+      "position": 2,
+      "title": "Senator Pete Flores, District 24 (@PeteFloresTX)",
+      "link": "https://www.facebook.com/PeteFloresTX/reels/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/PeteFloresTX/reels/&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQFnoECBwQAQ",
+      "displayed_link": "https://www.facebook.com › PeteFloresTX › reels",
+      "favicon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRUyzcXh1V2m8MRd8tgKjxqo8.png",
+      "snippet": "Senator Pete Flores, District 24. 5612 likes · 543 talking about this. Texas Senator Pete Flores, District 24 Pd pol ad • Pete Flores Campaign.",
+      "snippet_highlighted_words": [
+        "Senator Pete Flores",
+        "24",
+        "Texas Senator Pete Flores",
+        "24",
+        "Pete Flores"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Senator Pete Flores, District 24. 5612 likes · 543 talking about this. Texas Senator Pete Flores, District 24 Pd pol ad • Pete Flores Campaign.",
+          "source_info_link": "https://www.facebook.com/PeteFloresTX/reels/",
+          "icon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU2c1b52gFkcjd5XD2-S7Wgq0DhvgLN3B-HQVnvsffhdP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/PeteFloresTX/reels/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FPeteFloresTX%2Freels%2F",
+      "missing": [
+        "State",
+        "TX-",
+        "Central"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 3,
+      "title": "Attended the Coryell County Republican Party Lincoln ...",
+      "link": "https://www.facebook.com/PeteFloresTX/posts/attended-the-coryell-county-republican-party-lincoln-reagan-dinner-in-gatesville/1380859417183784/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/PeteFloresTX/posts/attended-the-coryell-county-republican-party-lincoln-reagan-dinner-in-gatesville/1380859417183784/&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQFnoECCIQAQ",
+      "displayed_link": "130+ reactions · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU1WMPe--qH5C-k6CtbR2-gQ.png",
+      "snippet": "Attended the Coryell County Republican Party Lincoln Reagan dinner in Gatesville. Thank you Chairman Norm Mitchell for his hospitality ...",
+      "snippet_highlighted_words": [
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Attended the Coryell County Republican Party Lincoln Reagan dinner in Gatesville. Thank you Chairman Norm Mitchell for his hospitality ...",
+          "source_info_link": "https://www.facebook.com/PeteFloresTX/posts/attended-the-coryell-county-republican-party-lincoln-reagan-dinner-in-gatesville/1380859417183784/",
+          "icon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU4J3UeB5bV3GBxbWiu-0-_cHrFah_R1FeNgbBu9qDWUO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/PeteFloresTX/posts/attended-the-coryell-county-republican-party-lincoln-reagan-dinner-in-gatesville/1380859417183784/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FPeteFloresTX%2Fposts%2Fattended-the-coryell-county-republican-party-lincoln-reagan-dinner-in-gatesville%2F1380859417183784%2F",
+      "source": "Facebook · Senator Pete Flores, District 24"
+    },
+    {
+      "position": 4,
+      "title": "Senator Pete Flores, District 24",
+      "link": "https://www.facebook.com/PeteFloresTX/posts/check-your-mailboxes-for-my-latest-newsletterinside-youll-find-updates-from-the-/1262901015646292/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/PeteFloresTX/posts/check-your-mailboxes-for-my-latest-newsletterinside-youll-find-updates-from-the-/1262901015646292/&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQFnoECCEQAQ",
+      "displayed_link": "20+ reactions · 5 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU6ICmEzOEmHEJS9klxDiGas.png",
+      "snippet": "Check your mailboxes for my latest newsletter! Inside, you'll find updates from the 2025 Texas Legislative Session and the work being done ...",
+      "snippet_highlighted_words": [
+        "for",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Check your mailboxes for my latest newsletter! Inside, you'll find updates from the 2025 Texas Legislative Session and the work being done ...",
+          "source_info_link": "https://www.facebook.com/PeteFloresTX/posts/check-your-mailboxes-for-my-latest-newsletterinside-youll-find-updates-from-the-/1262901015646292/",
+          "icon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU2NTrcPx6SZF1lBvbnFK3n-X3Uhsc-Pke3NwJ1H8_Qm6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/PeteFloresTX/posts/check-your-mailboxes-for-my-latest-newsletterinside-youll-find-updates-from-the-/1262901015646292/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FPeteFloresTX%2Fposts%2Fcheck-your-mailboxes-for-my-latest-newsletterinside-youll-find-updates-from-the-%2F1262901015646292%2F",
+      "missing": [
+        "TX-",
+        "Central"
+      ],
+      "source": "Facebook · Senator Pete Flores, District 24"
+    },
+    {
+      "position": 5,
+      "title": "I appointed Senator Pete Flores, District 24 as Chair ...",
+      "link": "https://www.facebook.com/dan.patrick.texas/posts/i-appointed-senator-pete-flores-district-24-as-chair-of-criminal-justice-because/1273828897443175/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/dan.patrick.texas/posts/i-appointed-senator-pete-flores-district-24-as-chair-of-criminal-justice-because/1273828897443175/&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQFnoECB8QAQ",
+      "displayed_link": "160+ reactions · 9 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRUwHDuwRbZwlpzaOA19PieP8.png",
+      "snippet": "I appointed Senator Pete Flores, District 24 as Chair of Criminal Justice because I knew he would stand strong for law and order.",
+      "snippet_highlighted_words": [
+        "Senator Pete Flores",
+        "24",
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I appointed Senator Pete Flores, District 24 as Chair of Criminal Justice because I knew he would stand strong for law and order.",
+          "source_info_link": "https://www.facebook.com/dan.patrick.texas/posts/i-appointed-senator-pete-flores-district-24-as-chair-of-criminal-justice-because/1273828897443175/",
+          "icon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRUyH45pWwAdhRKrwbAbMXhLwg-a_fQwfbkcHKWZu8yC8Y.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/dan.patrick.texas/posts/i-appointed-senator-pete-flores-district-24-as-chair-of-criminal-justice-because/1273828897443175/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fdan.patrick.texas%2Fposts%2Fi-appointed-senator-pete-flores-district-24-as-chair-of-criminal-justice-because%2F1273828897443175%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Pete+Flores+State+Senate+TX-24+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ5t4CegQIMhAB"
+      },
+      "source": "Facebook · Dan Patrick"
+    },
+    {
+      "position": 6,
+      "title": "Senator Pete Flores, District 24",
+      "link": "https://www.facebook.com/PeteFloresTX/photos/d41d8cd9/1201963818406679/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/PeteFloresTX/photos/d41d8cd9/1201963818406679/&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQFnoECCsQAQ",
+      "displayed_link": "https://www.facebook.com › PeteFloresTX › photos",
+      "favicon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU-CnmmO0HufrcgCzIqjZGx8.png",
+      "date": "Jul 26, 2025",
+      "snippet": "Thank you, Senator Flores for coming to Sandstone Mountain Ranch to speak today. We appreciate your dedication to our county. Senator Pete ...",
+      "snippet_highlighted_words": [
+        "Senator Flores for",
+        "Senator Pete"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Thank you, Senator Flores for coming to Sandstone Mountain Ranch to speak today. We appreciate your dedication to our county. Senator Pete ...",
+          "source_info_link": "https://www.facebook.com/PeteFloresTX/photos/d41d8cd9/1201963818406679/",
+          "icon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU53CvdYFBhfpIMOo3LjXCvSMgYM2oVdTKd5QfJdDAo7y.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/PeteFloresTX/photos/d41d8cd9/1201963818406679/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FPeteFloresTX%2Fphotos%2Fd41d8cd9%2F1201963818406679%2F",
+      "missing": [
+        "TX-",
+        "Central"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 7,
+      "title": "Senator Pete Flores, District 24",
+      "link": "https://www.facebook.com/PeteFloresTX/photos/d41d8cd9/972286248041105/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/PeteFloresTX/photos/d41d8cd9/972286248041105/&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQFnoECCoQAQ",
+      "displayed_link": "https://www.facebook.com › PeteFloresTX › photos",
+      "favicon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU5qmymOjbZop6gyw5TGxuYk.png",
+      "date": "Sep 27, 2024",
+      "snippet": "Senator Pete Flores, District 24 added a new photo.",
+      "snippet_highlighted_words": [
+        "Senator Pete Flores",
+        "24"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Senator Pete Flores, District 24 added a new photo.",
+          "source_info_link": "https://www.facebook.com/PeteFloresTX/photos/d41d8cd9/972286248041105/",
+          "icon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU2rEtIybQiKD4p3ZbCIMIcLRaVaZf2uCFgr-nA4Sixt3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/PeteFloresTX/photos/d41d8cd9/972286248041105/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FPeteFloresTX%2Fphotos%2Fd41d8cd9%2F972286248041105%2F",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Pete+Flores+State+Senate+%22TX-%22+24+Central+Texas+Facebook&sa=X&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ5t4CegQINBAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 8,
+      "title": "Senator Pete Flores, District 24",
+      "link": "https://www.facebook.com/PeteFloresTX/posts/great-to-be-in-lampasas-speaking-with-the-texas-first-conservative-alliance-ive-/1322664876336572/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/PeteFloresTX/posts/great-to-be-in-lampasas-speaking-with-the-texas-first-conservative-alliance-ive-/1322664876336572/&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQFnoECDsQAQ",
+      "displayed_link": "8 reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRUxCwSEQNMVmr7vcdHt3NMiU.png",
+      "snippet": "Great to be in Lampasas speaking with the Texas First Conservative Alliance. I've always loved serving the people of Texas, from my days as ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Great to be in Lampasas speaking with the Texas First Conservative Alliance. I've always loved serving the people of Texas, from my days as ...",
+          "source_info_link": "https://www.facebook.com/PeteFloresTX/posts/great-to-be-in-lampasas-speaking-with-the-texas-first-conservative-alliance-ive-/1322664876336572/",
+          "icon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU5BWXVDH7GWBB9HeNWPZCv5GYeIpHXhKzZjB1I_884Ov.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/PeteFloresTX/posts/great-to-be-in-lampasas-speaking-with-the-texas-first-conservative-alliance-ive-/1322664876336572/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FPeteFloresTX%2Fposts%2Fgreat-to-be-in-lampasas-speaking-with-the-texas-first-conservative-alliance-ive-%2F1322664876336572%2F",
+      "missing": [
+        "TX-",
+        "Central"
+      ],
+      "source": "Facebook · Senator Pete Flores, District 24"
+    },
+    {
+      "position": 9,
+      "title": "On Monday, I traveled with Pete Flores for Texas Senate ...",
+      "link": "https://www.facebook.com/dan.patrick.texas/posts/on-monday-i-traveled-with-pete-flores-for-texas-senate-district-24-around-centra/583148949844510/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/dan.patrick.texas/posts/on-monday-i-traveled-with-pete-flores-for-texas-senate-district-24-around-centra/583148949844510/&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQFnoECEMQAQ",
+      "displayed_link": "490+ reactions · 3 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU9wS1Jnjud5eZs1npMsSwlM.png",
+      "snippet": "We visited with the local papers in Marble Falls, Llano, Fredericksburg, Kerrville, Bandera, and Pleasanton. Pete is a 27-year Game Warden who ...",
+      "snippet_highlighted_words": [
+        "Pete"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We visited with the local papers in Marble Falls, Llano, Fredericksburg, Kerrville, Bandera, and Pleasanton. Pete is a 27-year Game Warden who ...",
+          "source_info_link": "https://www.facebook.com/dan.patrick.texas/posts/on-monday-i-traveled-with-pete-flores-for-texas-senate-district-24-around-centra/583148949844510/",
+          "icon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU1Y012ycoLvs5fg7XFgLLoYR6Qq4FYOLP12ECYSNYf3i.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/dan.patrick.texas/posts/on-monday-i-traveled-with-pete-flores-for-texas-senate-district-24-around-centra/583148949844510/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fdan.patrick.texas%2Fposts%2Fon-monday-i-traveled-with-pete-flores-for-texas-senate-district-24-around-centra%2F583148949844510%2F",
+      "source": "Facebook · Dan Patrick"
+    },
+    {
+      "position": 10,
+      "title": "That's two Central Texas officers killed in a month. Two too ...",
+      "link": "https://www.facebook.com/PeteFloresTX/posts/thats-two-central-texas-officers-killed-in-a-month-two-too-manythank-you-all-for/1346874850582241/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/PeteFloresTX/posts/thats-two-central-texas-officers-killed-in-a-month-two-too-manythank-you-all-for/1346874850582241/&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQFnoECDwQAQ",
+      "displayed_link": "220+ reactions · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU1wIIVQpkfpDck7IDRKuPN8.png",
+      "snippet": "This repeat offender should have been in jail on thev1st criminal activity charge, but given probation, then violated probation, ...",
+      "about_this_result": {
+        "source": {
+          "description": "This repeat offender should have been in jail on thev1st criminal activity charge, but given probation, then violated probation, ...",
+          "source_info_link": "https://www.facebook.com/PeteFloresTX/posts/thats-two-central-texas-officers-killed-in-a-month-two-too-manythank-you-all-for/1346874850582241/",
+          "icon": "https://serpapi.com/searches/69bb5dcb271332eb3262e9c7/images/UsC9pdKo6dMqiObn7CYRU7egwDm2VjYbZv4MqlnIuasICICJVk3KkMUERwHF6YUs.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/PeteFloresTX/posts/thats-two-central-texas-officers-killed-in-a-month-two-too-manythank-you-all-for/1346874850582241/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FPeteFloresTX%2Fposts%2Fthats-two-central-texas-officers-killed-in-a-month-two-too-manythank-you-all-for%2F1346874850582241%2F",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Pete+Flores+State+Senate+%22TX-%22+24+Central+Texas+Facebook&sa=X&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ5t4CegQIQRAB"
+      },
+      "source": "Facebook · Senator Pete Flores, District 24"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=zF27aYsag5inzg_30tDYAw&start=10&sa=N&sstk=Af77f_ehVhy3vNnSnNg_xRoNTBc1s5ixUzSzqr3ipQM0dmOIVVSHZnpKxKkFnOSgrweJMxkvCAAkwowV_fxZjT040sN0zt0nUbYNAw&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ8NMDegQICBAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=zF27aYsag5inzg_30tDYAw&start=10&sa=N&sstk=Af77f_ehVhy3vNnSnNg_xRoNTBc1s5ixUzSzqr3ipQM0dmOIVVSHZnpKxKkFnOSgrweJMxkvCAAkwowV_fxZjT040sN0zt0nUbYNAw&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=zF27aYsag5inzg_30tDYAw&start=20&sa=N&sstk=Af77f_ehVhy3vNnSnNg_xRoNTBc1s5ixUzSzqr3ipQM0dmOIVVSHZnpKxKkFnOSgrweJMxkvCAAkwowV_fxZjT040sN0zt0nUbYNAw&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=zF27aYsag5inzg_30tDYAw&start=30&sa=N&sstk=Af77f_ehVhy3vNnSnNg_xRoNTBc1s5ixUzSzqr3ipQM0dmOIVVSHZnpKxKkFnOSgrweJMxkvCAAkwowV_fxZjT040sN0zt0nUbYNAw&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=zF27aYsag5inzg_30tDYAw&start=40&sa=N&sstk=Af77f_ehVhy3vNnSnNg_xRoNTBc1s5ixUzSzqr3ipQM0dmOIVVSHZnpKxKkFnOSgrweJMxkvCAAkwowV_fxZjT040sN0zt0nUbYNAw&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=zF27aYsag5inzg_30tDYAw&start=50&sa=N&sstk=Af77f_ehVhy3vNnSnNg_xRoNTBc1s5ixUzSzqr3ipQM0dmOIVVSHZnpKxKkFnOSgrweJMxkvCAAkwowV_fxZjT040sN0zt0nUbYNAw&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=zF27aYsag5inzg_30tDYAw&start=60&sa=N&sstk=Af77f_ehVhy3vNnSnNg_xRoNTBc1s5ixUzSzqr3ipQM0dmOIVVSHZnpKxKkFnOSgrweJMxkvCAAkwowV_fxZjT040sN0zt0nUbYNAw&ved=2ahUKEwiLsOjf86qTAxUDzMkDHXcpFDsQ8tMDegQICBAO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Facebook&start=60"
+    }
+  }
+}

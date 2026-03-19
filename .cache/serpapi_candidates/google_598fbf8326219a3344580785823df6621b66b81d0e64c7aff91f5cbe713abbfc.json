@@ -1,0 +1,435 @@
+{
+  "search_metadata": {
+    "id": "69bb5d075a5e9688bbea2ed1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5oWUgYYm2tnjO3kHmqCNJQ/69bb5d075a5e9688bbea2ed1.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/5oWUgYYm2tnjO3kHmqCNJQ/69bb5d075a5e9688bbea2ed1.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:47 UTC",
+    "processed_at": "2026-03-19 02:18:47 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5oWUgYYm2tnjO3kHmqCNJQ/69bb5d075a5e9688bbea2ed1.html",
+    "total_time_taken": 1.33
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Valentina Gomez Noriega for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Valentina Gomez Noriega for US House TX-31? Include who that supporter works for.",
+    "total_results": 3480,
+    "time_taken_displayed": 0.63,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "GOMEZ NORIEGA, VALENTINA - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H6TX31078/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H6TX31078/&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQFnoECCAQAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H6TX31078",
+      "favicon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFSN5CKJO8k1U2EjYcxg0XKA.png",
+      "snippet": "Candidate for House Texas - 31 ID: H6TX31078 REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary. About this candidate.",
+      "snippet_highlighted_words": [
+        "House Texas",
+        "31",
+        "Financial"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Candidate for House Texas - 31 ID: H6TX31078 REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary. About this candidate.",
+          "source_info_link": "https://www.fec.gov/data/candidate/H6TX31078/",
+          "icon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFfrYVhVFjc1jXsPF_97kfDmzU9xYjha3vrVOv7pJP5Tp.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H6TX31078/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH6TX31078%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ5t4CegQIMRAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 2,
+      "title": "Valentina Gomez Noriega",
+      "link": "https://ballotpedia.org/Valentina_Gomez_Noriega",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Valentina_Gomez_Noriega&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQFnoECB8QAQ",
+      "displayed_link": "https://ballotpedia.org › Valentina_Gomez_Noriega",
+      "favicon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFZV6bRj2XwDda4V8z02cbuY.png",
+      "snippet": "Freeman School of Business in 2020. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Freeman School of Business in 2020. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+          "source_info_link": "https://ballotpedia.org/Valentina_Gomez_Noriega",
+          "icon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFaCx6d3UbS69bGaXYJb5vDqso314jIGZkbueQAbj7StI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Valentina_Gomez_Noriega&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FValentina_Gomez_Noriega",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ5t4CegQILxAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 3,
+      "title": "Follow the Money: Defense PACs and a 10-Way Primary ...",
+      "link": "http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQFnoECBsQAQ",
+      "displayed_link": "http://legis1.com › Legis1 Newsroom",
+      "favicon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFT_tYhJYOo26u464ihQaFKs.png",
+      "date": "Feb 21, 2026",
+      "snippet": "Rep. John Carter, the 84-year-old Republican who has held Texas's 31st Congressional District since 2003, is facing the most crowded primary ...",
+      "snippet_highlighted_words": [
+        "Texas's 31st Congressional",
+        "most"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Rep. John Carter, the 84-year-old Republican who has held Texas's 31st Congressional District since 2003, is facing the most crowded primary ...",
+          "source_info_link": "http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/",
+          "icon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFW5SqcJqKxAomTFDUNiU4Q37RNnsKUREBflhbh_VSlcu.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Flegis1.com%2Fnews%2Ffollow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat%2F",
+      "missing": [
+        "donor"
+      ],
+      "must_include": {
+        "word": "donor",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+%22donor%22+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ5t4CegQIMBAB"
+      },
+      "source": "Legis1"
+    },
+    {
+      "position": 4,
+      "title": "Fundraising in Texas' 31st Congressional District",
+      "link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quiverquant.com/election-fundraising/house/TX/31&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQFnoECBwQAQ",
+      "displayed_link": "https://www.quiverquant.com › house",
+      "favicon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFeIkS8aKsv0DtgN8vZOhJuk.png",
+      "snippet": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+          "source_info_link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+          "icon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFdnCx9UavegWrnTn9xzLIcG-5YNENfdPdHsNVYQtwkg2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quiverquant.com/election-fundraising/house/TX/31&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quiverquant.com%2Felection-fundraising%2Fhouse%2FTX%2F31",
+      "missing": [
+        "financial"
+      ],
+      "must_include": {
+        "word": "financial",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+%22financial%22+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ5t4CegQIMhAB"
+      },
+      "source": "Quiver Quantitative"
+    },
+    {
+      "position": 5,
+      "title": "Texas' 31st Congressional District election, 2026",
+      "link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Texas%2527_31st_Congressional_District_election,_2026&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQFnoECBoQAQ",
+      "displayed_link": "https://ballotpedia.org › ...",
+      "favicon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFd9-z-3KcBLA_FwQoEzxXe4.png",
+      "snippet": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+      "snippet_highlighted_words": [
+        "U.S. House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+          "source_info_link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026",
+          "icon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFXjGyBzCv7FKmoFkzy3ojfK7DPdy1Lqfz-lGlXhn0WCD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FTexas%2527_31st_Congressional_District_election%2C_2026",
+      "missing": [
+        "largest",
+        "donor"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 6,
+      "title": "The 2026 Republican primary challenging U.S. Rep. John ...",
+      "link": "https://www.facebook.com/thetexanmedia/posts/the-2026-republican-primary-challenging-us-rep-john-carter-for-congressional-dis/1605836327604008/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/thetexanmedia/posts/the-2026-republican-primary-challenging-us-rep-john-carter-for-congressional-dis/1605836327604008/&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQFnoECCEQAQ",
+      "displayed_link": "1 reaction · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFTMQ4nRNSTvWfeeEp4sXTxs.png",
+      "snippet": "The 2026 Republican primary challenging U.S. Rep. John Carter for Congressional District 31 has nine other contenders in the ring, ...",
+      "snippet_highlighted_words": [
+        "U.S.",
+        "Congressional",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 2026 Republican primary challenging U.S. Rep. John Carter for Congressional District 31 has nine other contenders in the ring, ...",
+          "source_info_link": "https://www.facebook.com/thetexanmedia/posts/the-2026-republican-primary-challenging-us-rep-john-carter-for-congressional-dis/1605836327604008/",
+          "icon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFaOVn_kuX-jfTRL_EYc0uhFl4Z-f1elr6AIEsTIIEqsD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/thetexanmedia/posts/the-2026-republican-primary-challenging-us-rep-john-carter-for-congressional-dis/1605836327604008/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fthetexanmedia%2Fposts%2Fthe-2026-republican-primary-challenging-us-rep-john-carter-for-congressional-dis%2F1605836327604008%2F",
+      "source": "Facebook · The Texan"
+    },
+    {
+      "position": 7,
+      "title": "Anti-LGBTQ+ Republican Valentina Gomez ...",
+      "link": "https://www.facebook.com/pinknews/posts/anti-lgbtq-republican-valentina-gomez-who-previously-filmed-an-offensive-weak-an/1354635020041549/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/pinknews/posts/anti-lgbtq-republican-valentina-gomez-who-previously-filmed-an-offensive-weak-an/1354635020041549/&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQFnoECBkQAQ",
+      "displayed_link": "13.6K+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFTZAeovIEovH_41Kbxeg-tU.png",
+      "snippet": "Anti-LGBTQ+ Republican Valentina Gomez, who previously filmed an offensive “weak and gay” ad, claims voting was rigged after another ...",
+      "snippet_highlighted_words": [
+        "Valentina Gomez"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Anti-LGBTQ+ Republican Valentina Gomez, who previously filmed an offensive “weak and gay” ad, claims voting was rigged after another ...",
+          "source_info_link": "https://www.facebook.com/pinknews/posts/anti-lgbtq-republican-valentina-gomez-who-previously-filmed-an-offensive-weak-an/1354635020041549/",
+          "icon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFWbtSpLE3fBH-T-5b20fCLfb4PrnSW9sEtJHxPL8nvhn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/pinknews/posts/anti-lgbtq-republican-valentina-gomez-who-previously-filmed-an-offensive-weak-an/1354635020041549/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fpinknews%2Fposts%2Fanti-lgbtq-republican-valentina-gomez-who-previously-filmed-an-offensive-weak-an%2F1354635020041549%2F",
+      "source": "Facebook · PinkNews"
+    },
+    {
+      "position": 8,
+      "title": "NJ mayor fires brother of anti-LGBTQ+ Republican extremist",
+      "link": "https://www.advocate.com/politics/valentina-gomez-brother-lgbtq",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.advocate.com/politics/valentina-gomez-brother-lgbtq&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQFnoECEQQAQ",
+      "displayed_link": "https://www.advocate.com › Politics",
+      "favicon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFZVqbgsVJAbdpLkTCq0QSos.png",
+      "date": "Aug 5, 2024",
+      "snippet": "Jonathan Gomez-Noriega worked as an aide to Jersey City Mayor Steven Fulop, a Democrat, and also served on the city's LGBTQ+ Task Force.",
+      "snippet_highlighted_words": [
+        "Gomez",
+        "Noriega worked"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jonathan Gomez-Noriega worked as an aide to Jersey City Mayor Steven Fulop, a Democrat, and also served on the city's LGBTQ+ Task Force.",
+          "source_info_link": "https://www.advocate.com/politics/valentina-gomez-brother-lgbtq",
+          "icon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFeKH__bEyhmrLeMxKcL7QrV4vEipTGJmGdzD14BchioI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.advocate.com/politics/valentina-gomez-brother-lgbtq&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.advocate.com%2Fpolitics%2Fvalentina-gomez-brother-lgbtq",
+      "source": "Advocate.com"
+    },
+    {
+      "position": 9,
+      "title": "Central Texas Primary Election 2026: Complete guide to ...",
+      "link": "https://www.kcentv.com/article/news/local/central-texas-primary-election-2026-senate-congressional-races/500-79a9bde4-a6bf-494c-9ca9-84b5ea43a64b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kcentv.com/article/news/local/central-texas-primary-election-2026-senate-congressional-races/500-79a9bde4-a6bf-494c-9ca9-84b5ea43a64b&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQFnoECEgQAQ",
+      "displayed_link": "https://www.kcentv.com › article › news › local › central...",
+      "favicon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFTxD0MD-7ubLrrZfi-CggGU.png",
+      "date": "Mar 2, 2026",
+      "snippet": "Central Texas voters will weigh in on a high-profile U.S. Senate race and four congressional districts March 3, 2026. Author: Kevin Duer.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "U.S.",
+        "congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Central Texas voters will weigh in on a high-profile U.S. Senate race and four congressional districts March 3, 2026. Author: Kevin Duer.",
+          "source_info_link": "https://www.kcentv.com/article/news/local/central-texas-primary-election-2026-senate-congressional-races/500-79a9bde4-a6bf-494c-9ca9-84b5ea43a64b",
+          "icon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFTWa1hUEiY_DYEt4T8prxsPccndHyjcBtuaWAvogC96f.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.kcentv.com/article/news/local/central-texas-primary-election-2026-senate-congressional-races/500-79a9bde4-a6bf-494c-9ca9-84b5ea43a64b&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.kcentv.com%2Farticle%2Fnews%2Flocal%2Fcentral-texas-primary-election-2026-senate-congressional-races%2F500-79a9bde4-a6bf-494c-9ca9-84b5ea43a64b",
+      "source": "KCENTV.com"
+    },
+    {
+      "position": 10,
+      "title": "Texas' 31st Congressional District election, 2026 (March 3 ...",
+      "link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026_(March_3_Republican_primary)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Texas%2527_31st_Congressional_District_election,_2026_(March_3_Republican_primary)&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQFnoECEIQAQ",
+      "displayed_link": "https://ballotpedia.org › ...",
+      "favicon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFeJgdUK8t2uPnG16wHDMTlg.png",
+      "snippet": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+      "snippet_highlighted_words": [
+        "U.S. House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+          "source_info_link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026_(March_3_Republican_primary)",
+          "icon": "https://serpapi.com/searches/69bb5d075a5e9688bbea2ed1/images/0zgqfAUdLg_ORZIBXeVtFV85U8Eol2M8M-dT-awbHIGDg05Y_dslMsguNS6lX2aL.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026_(March_3_Republican_primary)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FTexas%2527_31st_Congressional_District_election%2C_2026_%28March_3_Republican_primary%29",
+      "source": "Ballotpedia"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez height",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+height&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+height"
+    },
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez Tulane",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Tulane&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Tulane"
+    },
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez college",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+college&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+college"
+    },
+    {
+      "block_position": 1,
+      "query": "Texas District 31 candidates 2026",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas+District+31+candidates+2026&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas+District+31+candidates+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez net worth",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+net+worth&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+net+worth"
+    },
+    {
+      "block_position": 1,
+      "query": "Valentina Gómez linkedin",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+G%C3%B3mez+linkedin&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+G%C3%B3mez+linkedin"
+    },
+    {
+      "block_position": 1,
+      "query": "Texas' 31st Congressional District",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas%27+31st+Congressional+District&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas%27+31st+Congressional+District"
+    },
+    {
+      "block_position": 1,
+      "query": "2026 U.S. House Texas district 31 general election",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=2026+U.S.+House+Texas+district+31+general+election&sa=X&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=2026+U.S.+House+Texas+district+31+general+election"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=CF27acDxBu7n5NoPnrC3oA0&start=10&sa=N&sstk=Af77f_e9BC89-sUOsWCiceA7d7WYQ-opFrWNEKEELmZDpm_PBh8M4nafLUiKM7YyaR6DuZq__j-fekFeGUiL1wWVlQUBRKSD1nUihA&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=CF27acDxBu7n5NoPnrC3oA0&start=10&sa=N&sstk=Af77f_e9BC89-sUOsWCiceA7d7WYQ-opFrWNEKEELmZDpm_PBh8M4nafLUiKM7YyaR6DuZq__j-fekFeGUiL1wWVlQUBRKSD1nUihA&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=CF27acDxBu7n5NoPnrC3oA0&start=20&sa=N&sstk=Af77f_e9BC89-sUOsWCiceA7d7WYQ-opFrWNEKEELmZDpm_PBh8M4nafLUiKM7YyaR6DuZq__j-fekFeGUiL1wWVlQUBRKSD1nUihA&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=CF27acDxBu7n5NoPnrC3oA0&start=30&sa=N&sstk=Af77f_e9BC89-sUOsWCiceA7d7WYQ-opFrWNEKEELmZDpm_PBh8M4nafLUiKM7YyaR6DuZq__j-fekFeGUiL1wWVlQUBRKSD1nUihA&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=CF27acDxBu7n5NoPnrC3oA0&start=40&sa=N&sstk=Af77f_e9BC89-sUOsWCiceA7d7WYQ-opFrWNEKEELmZDpm_PBh8M4nafLUiKM7YyaR6DuZq__j-fekFeGUiL1wWVlQUBRKSD1nUihA&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=CF27acDxBu7n5NoPnrC3oA0&start=50&sa=N&sstk=Af77f_e9BC89-sUOsWCiceA7d7WYQ-opFrWNEKEELmZDpm_PBh8M4nafLUiKM7YyaR6DuZq__j-fekFeGUiL1wWVlQUBRKSD1nUihA&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=CF27acDxBu7n5NoPnrC3oA0&start=60&sa=N&sstk=Af77f_e9BC89-sUOsWCiceA7d7WYQ-opFrWNEKEELmZDpm_PBh8M4nafLUiKM7YyaR6DuZq__j-fekFeGUiL1wWVlQUBRKSD1nUihA&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=CF27acDxBu7n5NoPnrC3oA0&start=70&sa=N&sstk=Af77f_e9BC89-sUOsWCiceA7d7WYQ-opFrWNEKEELmZDpm_PBh8M4nafLUiKM7YyaR6DuZq__j-fekFeGUiL1wWVlQUBRKSD1nUihA&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=CF27acDxBu7n5NoPnrC3oA0&start=80&sa=N&sstk=Af77f_e9BC89-sUOsWCiceA7d7WYQ-opFrWNEKEELmZDpm_PBh8M4nafLUiKM7YyaR6DuZq__j-fekFeGUiL1wWVlQUBRKSD1nUihA&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=CF27acDxBu7n5NoPnrC3oA0&start=90&sa=N&sstk=Af77f_e9BC89-sUOsWCiceA7d7WYQ-opFrWNEKEELmZDpm_PBh8M4nafLUiKM7YyaR6DuZq__j-fekFeGUiL1wWVlQUBRKSD1nUihA&ved=2ahUKEwjAlbSC86qTAxXuM1kFHR7YDdQQ8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Valentina+Gomez+Noriega+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=90"
+    }
+  }
+}

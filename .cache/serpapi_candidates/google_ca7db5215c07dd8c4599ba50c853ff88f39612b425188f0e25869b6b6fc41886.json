@@ -1,0 +1,401 @@
+{
+  "search_metadata": {
+    "id": "69bb5d7dd2d74054ccb8576d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/R5_5QVZ8vCcdWOcPtrCcxw/69bb5d7dd2d74054ccb8576d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/R5_5QVZ8vCcdWOcPtrCcxw/69bb5d7dd2d74054ccb8576d.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:45 UTC",
+    "processed_at": "2026-03-19 02:20:45 UTC",
+    "google_url": "https://www.google.com/search?q=James+A.+Pierce+Jr.+%22CTC+Trustee+Place+3%22+%22Central+Texas%22+Instagram&oq=James+A.+Pierce+Jr.+%22CTC+Trustee+Place+3%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/R5_5QVZ8vCcdWOcPtrCcxw/69bb5d7dd2d74054ccb8576d.html",
+    "total_time_taken": 1.58
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "James A. Pierce Jr. \"CTC Trustee Place 3\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "James A. Pierce Jr. \"CTC Trustee Place 3\" \"Central Texas\" Instagram",
+    "total_results": 1030,
+    "time_taken_displayed": 0.52,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    },
+    "showing_results_for": "James A. Pierce Jr. CTC Trustee Place 3 Central Texas Instagram",
+    "spelling_fix": "James A. Pierce Jr. CTC Trustee Place 3 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Galleries",
+      "link": "https://ppdphoto.photoshelter.com/archive/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ppdphoto.photoshelter.com/archive/&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQFnoECBoQAQ",
+      "displayed_link": "https://ppdphoto.photoshelter.com › archive",
+      "favicon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDNNFJJJCf_znTJ6tD2r_zlM.png",
+      "snippet": "Hatcher Headshot. 58 images. Holdsworth Center Gala. 5.7.25.",
+      "snippet_highlighted_words": [
+        "Center"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Hatcher Headshot. 58 images. Holdsworth Center Gala. 5.7.25.",
+          "source_info_link": "https://ppdphoto.photoshelter.com/archive/",
+          "icon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDAPNZid49frISvR_cG5ARq8sOq3mhCKA1yvvgDs6c7kk.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ppdphoto.photoshelter.com/archive/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fppdphoto.photoshelter.com%2Farchive%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ5t4CegQIHRAB"
+      },
+      "source": "PhotoShelter"
+    },
+    {
+      "position": 2,
+      "title": "Western Technical College",
+      "link": "https://www.facebook.com/westerntechnicalcollege/posts/last-friday-at-our-main-campus-we-proudly-inducted-nearly-20-outstanding-student/1327030039460522/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/westerntechnicalcollege/posts/last-friday-at-our-main-campus-we-proudly-inducted-nearly-20-outstanding-student/1327030039460522/&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQFnoECBwQAQ",
+      "displayed_link": "10+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDCTjXhyOpT5LeOLGaDZDdUE.png",
+      "snippet": "Last Friday at our Main Campus, we proudly inducted nearly 20 outstanding students into the National Technical Honor Society (NTHS) at Western ...",
+      "snippet_highlighted_words": [
+        "Main"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Last Friday at our Main Campus, we proudly inducted nearly 20 outstanding students into the National Technical Honor Society (NTHS) at Western ...",
+          "source_info_link": "https://www.facebook.com/westerntechnicalcollege/posts/last-friday-at-our-main-campus-we-proudly-inducted-nearly-20-outstanding-student/1327030039460522/",
+          "icon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDB8HAeK56xnEOV1NDcMxXcESp7oC1Q_v-tlgMPgTzWPA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/westerntechnicalcollege/posts/last-friday-at-our-main-campus-we-proudly-inducted-nearly-20-outstanding-student/1327030039460522/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fwesterntechnicalcollege%2Fposts%2Flast-friday-at-our-main-campus-we-proudly-inducted-nearly-20-outstanding-student%2F1327030039460522%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ5t4CegQIHhAB"
+      },
+      "source": "Facebook · Western Technical College"
+    },
+    {
+      "position": 3,
+      "title": "Baptist Hospitals of Southeast Texas",
+      "link": "https://www.facebook.com/BHSET/posts/it-is-always-so-much-fun-celebrating-bhsets-annual-family-picnic-in-the-plaza-in/1037333791729775/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BHSET/posts/it-is-always-so-much-fun-celebrating-bhsets-annual-family-picnic-in-the-plaza-in/1037333791729775/&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQFnoECCAQAQ",
+      "displayed_link": "60+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDN_fWWlFKBD2fT6G0HuLfc8.png",
+      "snippet": "Be sure to follow them on Facebook, Instagram & TikTok! Many thanks to Josh Classen and CTV Edmontonfor coming out on Friday to do the weather ...",
+      "snippet_highlighted_words": [
+        "Instagram"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Be sure to follow them on Facebook, Instagram & TikTok! Many thanks to Josh Classen and CTV Edmontonfor coming out on Friday to do the weather ...",
+          "source_info_link": "https://www.facebook.com/BHSET/posts/it-is-always-so-much-fun-celebrating-bhsets-annual-family-picnic-in-the-plaza-in/1037333791729775/",
+          "icon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDMFyt67Oq_hcm-nLnU3bnbDVYMhzNifcQOV5w28VaZWX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BHSET/posts/it-is-always-so-much-fun-celebrating-bhsets-annual-family-picnic-in-the-plaza-in/1037333791729775/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBHSET%2Fposts%2Fit-is-always-so-much-fun-celebrating-bhsets-annual-family-picnic-in-the-plaza-in%2F1037333791729775%2F",
+      "source": "Facebook · Baptist Hospitals of Southeast Texas"
+    },
+    {
+      "position": 4,
+      "title": "Public Hearing Summary and Analysis",
+      "link": "https://ftp.txdot.gov/pub/txdot-info/hou/notices/041216-summary.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ftp.txdot.gov/pub/txdot-info/hou/notices/041216-summary.pdf&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQFnoECDIQAQ",
+      "displayed_link": "https://ftp.txdot.gov › notices › 041216-summary",
+      "snippet": "Notices were also sent to citizens that requested to be notified of the public hearing at the Public Meeting conducted in 2015. A copy of the notice is included ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 358
+          },
+          "extensions": [
+            "358 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Notices were also sent to citizens that requested to be notified of the public hearing at the Public Meeting conducted in 2015. A copy of the notice is included ...",
+          "source_info_link": "https://ftp.txdot.gov/pub/txdot-info/hou/notices/041216-summary.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ftp.txdot.gov/pub/txdot-info/hou/notices/041216-summary.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fftp.txdot.gov%2Fpub%2Ftxdot-info%2Fhou%2Fnotices%2F041216-summary.pdf",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ5t4CegQIQhAB"
+      },
+      "source": "Texas Department of Transportation"
+    },
+    {
+      "position": 5,
+      "title": "Case 9:23-cv-01465-DNH-TWD Document 72 Filed 12/ ...",
+      "link": "https://www.govinfo.gov/content/pkg/USCOURTS-nynd-9_23-cv-01465/pdf/USCOURTS-nynd-9_23-cv-01465-2.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/USCOURTS-nynd-9_23-cv-01465/pdf/USCOURTS-nynd-9_23-cv-01465-2.pdf&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQFnoECDEQAQ",
+      "displayed_link": "https://www.govinfo.gov › content › pkg › pdf",
+      "favicon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDCAe2V_Pv2ZwFrqIoNzgNMk.png",
+      "snippet": "based on three main factual assertions. See generally Compl. First, Plaintiff alleges that Kalra and Nasar wrongfully chose to prosecute him, despite the ...",
+      "snippet_highlighted_words": [
+        "three main"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 160
+          },
+          "extensions": [
+            "160 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "based on three main factual assertions. See generally Compl. First, Plaintiff alleges that Kalra and Nasar wrongfully chose to prosecute him, despite the ...",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/USCOURTS-nynd-9_23-cv-01465/pdf/USCOURTS-nynd-9_23-cv-01465-2.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDAEW8cY-dIVtkTvSt-UrTFNlmgGqEgjosQeVHW643poO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/USCOURTS-nynd-9_23-cv-01465/pdf/USCOURTS-nynd-9_23-cv-01465-2.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FUSCOURTS-nynd-9_23-cv-01465%2Fpdf%2FUSCOURTS-nynd-9_23-cv-01465-2.pdf",
+      "source": "GovInfo (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "2025-ISGAP-Oxford-Summer-Institute- ...",
+      "link": "https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQFnoECDYQAQ",
+      "displayed_link": "https://isgap.org › wp-content › uploads › 2025/08",
+      "favicon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDLvDlW5gcqG7f3U2AwevBio.png",
+      "date": "Aug 7, 2025",
+      "snippet": "He was the founding editor of the. Cambridge University Press Series on Law and Judaism and served as a trustee of the Center for Israel ...",
+      "snippet_highlighted_words": [
+        "trustee",
+        "Center"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 67
+          },
+          "extensions": [
+            "67 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "He was the founding editor of the. Cambridge University Press Series on Law and Judaism and served as a trustee of the Center for Israel ...",
+          "source_info_link": "https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDAp2suxGvXqAm2O-aIapHCk4tBFpNKa_kTlMf9B5DsWZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fisgap.org%2Fwp-content%2Fuploads%2F2025%2F08%2F2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+      "source": "ISGAP"
+    },
+    {
+      "position": 7,
+      "title": "20/01 Supervisor",
+      "link": "https://naps.org/files/galleries/January_2020.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://naps.org/files/galleries/January_2020.pdf&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQFnoECDAQAQ",
+      "displayed_link": "https://naps.org › files › galleries › January_2020",
+      "favicon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDNklPQYzcAWkTY2XqrKutRk.png",
+      "date": "Jan 1, 2020",
+      "snippet": "Part of the lawsuit NAPS brought against the Postal Service deals with the unfair pay system forced on area and Head- quarters EAS employees.",
+      "snippet_highlighted_words": [
+        "area"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 48
+          },
+          "extensions": [
+            "48 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Part of the lawsuit NAPS brought against the Postal Service deals with the unfair pay system forced on area and Head- quarters EAS employees.",
+          "source_info_link": "https://naps.org/files/galleries/January_2020.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDNl1tKV3f4bd80afoc4w7DVpJmIQn7aqQ_TCe_SD-Yf3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://naps.org/files/galleries/January_2020.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnaps.org%2Ffiles%2Fgalleries%2FJanuary_2020.pdf",
+      "source": "National Association of Postal Supervisors (NAPS)"
+    },
+    {
+      "position": 8,
+      "title": "A Tale as Old as Time",
+      "link": "https://chqdaily.com/wp-content/uploads/2023/06/072421_Daily.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://chqdaily.com/wp-content/uploads/2023/06/072421_Daily.pdf&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQFnoECC0QAQ",
+      "displayed_link": "https://chqdaily.com › 2023/06 › 072421_Daily",
+      "favicon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDNJngOyCk-XjnSBXiznRKc4.png",
+      "snippet": "It's a tale as old as time, true as it can be — and its mu- sic will fill the Amphitheater this weekend as the Chau- tauqua Symphony Orchestra.",
+      "about_this_result": {
+        "source": {
+          "description": "It's a tale as old as time, true as it can be — and its mu- sic will fill the Amphitheater this weekend as the Chau- tauqua Symphony Orchestra.",
+          "source_info_link": "https://chqdaily.com/wp-content/uploads/2023/06/072421_Daily.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDM6uKjhMG3tCSry4pBSU4iCx3Rmy3QMmSX2c4GL_AQvq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://chqdaily.com/wp-content/uploads/2023/06/072421_Daily.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fchqdaily.com%2Fwp-content%2Fuploads%2F2023%2F06%2F072421_Daily.pdf",
+      "source": "The Chautauquan Daily"
+    },
+    {
+      "position": 9,
+      "title": "WinRed: Directory",
+      "link": "https://winred.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://winred.com/&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQFnoECDQQAQ",
+      "displayed_link": "https://winred.com",
+      "favicon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDACfEuWqYHnVCjLA0ARJQeM.png",
+      "snippet": "Find candidates and committees on WinRed Office. All President National Committees State Party US Senate US House Governor State Executive State Senator State ...",
+      "about_this_result": {
+        "source": {
+          "description": "Find candidates and committees on WinRed Office. All President National Committees State Party US Senate US House Governor State Executive State Senator State ...",
+          "source_info_link": "https://winred.com/",
+          "icon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDI1Xy7hA3nIN4Ymxnjw3gcnTLt9dxN_Ly116B2rZ6gOR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://winred.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwinred.com%2F",
+      "missing": [
+        "Instagram"
+      ],
+      "must_include": {
+        "word": "Instagram",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+%22Instagram%22&sa=X&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ5t4CegQIQxAB"
+      },
+      "source": "WinRed"
+    },
+    {
+      "position": 10,
+      "title": "Food Lifeline - Full Filing - Nonprofit Explorer",
+      "link": "https://projects.propublica.org/nonprofits/organizations/911090450/202131279349303058/full",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://projects.propublica.org/nonprofits/organizations/911090450/202131279349303058/full&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQFnoECC4QAQ",
+      "displayed_link": "https://projects.propublica.org › organizations › full",
+      "favicon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDJIYe_U-NuakycouhRfIbuE.png",
+      "snippet": "Since 2013, the IRS has released data culled from millions of nonprofit tax filings. Use this database to find organizations and see details like their ...",
+      "about_this_result": {
+        "source": {
+          "description": "Since 2013, the IRS has released data culled from millions of nonprofit tax filings. Use this database to find organizations and see details like their ...",
+          "source_info_link": "https://projects.propublica.org/nonprofits/organizations/911090450/202131279349303058/full",
+          "icon": "https://serpapi.com/searches/69bb5d7dd2d74054ccb8576d/images/rFsmsfRBauO8rVM1WOoBDJRoc2zqFkI3UHSokAPdq3B_7YFfJxQy-JnVHIAvlJFT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://projects.propublica.org/nonprofits/organizations/911090450/202131279349303058/full&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fprojects.propublica.org%2Fnonprofits%2Forganizations%2F911090450%2F202131279349303058%2Ffull",
+      "source": "ProPublica"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=fl27af3xIpez5NoPpprTyQo&start=10&sa=N&sstk=Af77f_etS_MDCODJOEFfYS8vdcjiv_APPMpDJ8lJWRdw6IHXmF4CuySW_nbSOoQGYqXLCqJo-HKYVALTaMaN7u_FTXCq4vOvY-4wWQ&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ8NMDegQIEBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=fl27af3xIpez5NoPpprTyQo&start=10&sa=N&sstk=Af77f_etS_MDCODJOEFfYS8vdcjiv_APPMpDJ8lJWRdw6IHXmF4CuySW_nbSOoQGYqXLCqJo-HKYVALTaMaN7u_FTXCq4vOvY-4wWQ&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ8tMDegQIEBAE",
+      "3": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=fl27af3xIpez5NoPpprTyQo&start=20&sa=N&sstk=Af77f_etS_MDCODJOEFfYS8vdcjiv_APPMpDJ8lJWRdw6IHXmF4CuySW_nbSOoQGYqXLCqJo-HKYVALTaMaN7u_FTXCq4vOvY-4wWQ&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ8tMDegQIEBAG",
+      "4": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=fl27af3xIpez5NoPpprTyQo&start=30&sa=N&sstk=Af77f_etS_MDCODJOEFfYS8vdcjiv_APPMpDJ8lJWRdw6IHXmF4CuySW_nbSOoQGYqXLCqJo-HKYVALTaMaN7u_FTXCq4vOvY-4wWQ&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ8tMDegQIEBAI",
+      "5": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=fl27af3xIpez5NoPpprTyQo&start=40&sa=N&sstk=Af77f_etS_MDCODJOEFfYS8vdcjiv_APPMpDJ8lJWRdw6IHXmF4CuySW_nbSOoQGYqXLCqJo-HKYVALTaMaN7u_FTXCq4vOvY-4wWQ&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ8tMDegQIEBAK",
+      "6": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=fl27af3xIpez5NoPpprTyQo&start=50&sa=N&sstk=Af77f_etS_MDCODJOEFfYS8vdcjiv_APPMpDJ8lJWRdw6IHXmF4CuySW_nbSOoQGYqXLCqJo-HKYVALTaMaN7u_FTXCq4vOvY-4wWQ&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ8tMDegQIEBAM",
+      "7": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=fl27af3xIpez5NoPpprTyQo&start=60&sa=N&sstk=Af77f_etS_MDCODJOEFfYS8vdcjiv_APPMpDJ8lJWRdw6IHXmF4CuySW_nbSOoQGYqXLCqJo-HKYVALTaMaN7u_FTXCq4vOvY-4wWQ&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ8tMDegQIEBAO",
+      "8": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=fl27af3xIpez5NoPpprTyQo&start=70&sa=N&sstk=Af77f_etS_MDCODJOEFfYS8vdcjiv_APPMpDJ8lJWRdw6IHXmF4CuySW_nbSOoQGYqXLCqJo-HKYVALTaMaN7u_FTXCq4vOvY-4wWQ&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ8tMDegQIEBAQ",
+      "9": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=fl27af3xIpez5NoPpprTyQo&start=80&sa=N&sstk=Af77f_etS_MDCODJOEFfYS8vdcjiv_APPMpDJ8lJWRdw6IHXmF4CuySW_nbSOoQGYqXLCqJo-HKYVALTaMaN7u_FTXCq4vOvY-4wWQ&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ8tMDegQIEBAS",
+      "10": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=fl27af3xIpez5NoPpprTyQo&start=90&sa=N&sstk=Af77f_etS_MDCODJOEFfYS8vdcjiv_APPMpDJ8lJWRdw6IHXmF4CuySW_nbSOoQGYqXLCqJo-HKYVALTaMaN7u_FTXCq4vOvY-4wWQ&ved=2ahUKEwj9qPK686qTAxWXGVkFHSbNNKkQ8tMDegQIEBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+Instagram&start=90"
+    }
+  }
+}

@@ -1,0 +1,657 @@
+{
+  "name": "snowballstemmer",
+  "version": "3.0.1",
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "snowballstemmer-3.0.1-py311hca03da5_0.conda",
+  "md5": "23ebd47348c36297f39c64c314ab022b",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/snowballstemmer-3.0.1-py311hca03da5_0.conda",
+  "sha256": "c9afa8ea7c84c7fc3b9615a0a8159b245076b36310be3d852a360efa4e0af049",
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1756710332000,
+  "size": 282972,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/snowballstemmer-3.0.1-py311hca03da5_0.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/snowballstemmer-3.0.1-py311hca03da5_0",
+  "files": [
+    "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/METADATA",
+    "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/RECORD",
+    "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/WHEEL",
+    "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/licenses/COPYING",
+    "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/snowballstemmer/__init__.py",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/among.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/arabic_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/armenian_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/basestemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/basque_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/catalan_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/danish_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/dutch_porter_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/dutch_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/english_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/esperanto_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/estonian_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/finnish_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/french_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/german_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/greek_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/hindi_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/hungarian_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/indonesian_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/irish_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/italian_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/lithuanian_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/nepali_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/norwegian_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/porter_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/portuguese_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/romanian_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/russian_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/serbian_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/spanish_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/swedish_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/tamil_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/turkish_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/__pycache__/yiddish_stemmer.cpython-311.pyc",
+    "lib/python3.11/site-packages/snowballstemmer/among.py",
+    "lib/python3.11/site-packages/snowballstemmer/arabic_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/armenian_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/basestemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/basque_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/catalan_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/danish_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/dutch_porter_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/dutch_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/english_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/esperanto_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/estonian_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/finnish_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/french_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/german_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/greek_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/hindi_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/hungarian_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/indonesian_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/irish_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/italian_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/lithuanian_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/nepali_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/norwegian_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/porter_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/portuguese_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/romanian_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/russian_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/serbian_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/spanish_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/swedish_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/tamil_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/turkish_stemmer.py",
+    "lib/python3.11/site-packages/snowballstemmer/yiddish_stemmer.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e0c742e4403251230a138c0214ff2a175773be95dcef9fff9c95d70eab17a1d7",
+        "size_in_bytes": 7935,
+        "sha256_in_prefix": "e0c742e4403251230a138c0214ff2a175773be95dcef9fff9c95d70eab17a1d7"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4797555ca5fbee8df0c486af62de3fee7aa6a82ba11b1f50d5b04a986ee055b6",
+        "size_in_bytes": 6155,
+        "sha256_in_prefix": "4797555ca5fbee8df0c486af62de3fee7aa6a82ba11b1f50d5b04a986ee055b6"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "95353a07a7887d8a224094d935cf9fc9a47a0692fa7a14f3537c466319f69fc9",
+        "size_in_bytes": 91,
+        "sha256_in_prefix": "95353a07a7887d8a224094d935cf9fc9a47a0692fa7a14f3537c466319f69fc9"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "c56259c31afcd663244adb2b262e84f21f02966c0b3750580d44e10dc9b55211",
+        "size_in_bytes": 146,
+        "sha256_in_prefix": "c56259c31afcd663244adb2b262e84f21f02966c0b3750580d44e10dc9b55211"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/licenses/COPYING",
+        "path_type": "hardlink",
+        "sha256": "f6f9e4c0e737728ca980de8595ded046d5e077017c1bb0ee05dc794a01434dae",
+        "size_in_bytes": 1655,
+        "sha256_in_prefix": "f6f9e4c0e737728ca980de8595ded046d5e077017c1bb0ee05dc794a01434dae"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer-3.0.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "727be2d8abcff3db51bed4845eefea9761a4abdc063d90f59202e194365f32b0",
+        "size_in_bytes": 16,
+        "sha256_in_prefix": "727be2d8abcff3db51bed4845eefea9761a4abdc063d90f59202e194365f32b0"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c49181c971ec472ca30d6bb1cfa1ab4507c52a69d6bf7e5d9d587eb313a0e261",
+        "size_in_bytes": 2932,
+        "sha256_in_prefix": "c49181c971ec472ca30d6bb1cfa1ab4507c52a69d6bf7e5d9d587eb313a0e261"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4e472827abd517e89e72a3a63b6b447967d391e3981532be6e7df3839aea3289",
+        "size_in_bytes": 4142,
+        "sha256_in_prefix": "4e472827abd517e89e72a3a63b6b447967d391e3981532be6e7df3839aea3289"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/among.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6d5ffd6fd6e514a4f0fc766bb6360249459612fdad994970cc5ed603b0068d21",
+        "size_in_bytes": 867,
+        "sha256_in_prefix": "6d5ffd6fd6e514a4f0fc766bb6360249459612fdad994970cc5ed603b0068d21"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/arabic_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1ca922ee8ff873cace078645a41809b0cc9d95de8bb6f844d35663d41093df8b",
+        "size_in_bytes": 51150,
+        "sha256_in_prefix": "1ca922ee8ff873cace078645a41809b0cc9d95de8bb6f844d35663d41093df8b"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/armenian_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b44075ca965bcd1dc6e690e90431305462ffdd55796f07afea9efd9005a6d0f5",
+        "size_in_bytes": 17305,
+        "sha256_in_prefix": "b44075ca965bcd1dc6e690e90431305462ffdd55796f07afea9efd9005a6d0f5"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/basestemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "48d0ef83da117bb1cd272c850d9dadbffa5d9a3398e94447060be27a53659ac5",
+        "size_in_bytes": 12150,
+        "sha256_in_prefix": "48d0ef83da117bb1cd272c850d9dadbffa5d9a3398e94447060be27a53659ac5"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/basque_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "35a3af881a26cd1bfb3caf62f595893dc4a531875d3c25fc823fb2dfed9dbb53",
+        "size_in_bytes": 35591,
+        "sha256_in_prefix": "35a3af881a26cd1bfb3caf62f595893dc4a531875d3c25fc823fb2dfed9dbb53"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/catalan_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e845f4a084d63636857810b1dca9a500ca16ebf88f9f3efb02cea360fd9a3487",
+        "size_in_bytes": 43194,
+        "sha256_in_prefix": "e845f4a084d63636857810b1dca9a500ca16ebf88f9f3efb02cea360fd9a3487"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/danish_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c5833a4124da48128c039a61f638aa8d9a737bc9ae0a3471b7407346e96edf6c",
+        "size_in_bytes": 9635,
+        "sha256_in_prefix": "c5833a4124da48128c039a61f638aa8d9a737bc9ae0a3471b7407346e96edf6c"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/dutch_porter_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3e15c630bd9354388956a07dde4ca0a8f46f606458fa1cc419cef16d5c04531d",
+        "size_in_bytes": 19517,
+        "sha256_in_prefix": "3e15c630bd9354388956a07dde4ca0a8f46f606458fa1cc419cef16d5c04531d"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/dutch_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f2c28301bcc5de04d2ac2d6f7ef4392fc11f511a68f21117602c59aec8aeead",
+        "size_in_bytes": 54821,
+        "sha256_in_prefix": "5f2c28301bcc5de04d2ac2d6f7ef4392fc11f511a68f21117602c59aec8aeead"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/english_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "69ae6c43b18d93c9769fc03f929babfaf7b088a3fee5b6c81697549493c99651",
+        "size_in_bytes": 31448,
+        "sha256_in_prefix": "69ae6c43b18d93c9769fc03f929babfaf7b088a3fee5b6c81697549493c99651"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/esperanto_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "28e463c9828bd2df48078392038998bfe58266bbd06ea2bd2a460d010df99bfc",
+        "size_in_bytes": 25899,
+        "sha256_in_prefix": "28e463c9828bd2df48078392038998bfe58266bbd06ea2bd2a460d010df99bfc"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/estonian_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "cfac445a6ad6b8602f7c79286cc441e57db91ad72750dfcce280701c1796520d",
+        "size_in_bytes": 41360,
+        "sha256_in_prefix": "cfac445a6ad6b8602f7c79286cc441e57db91ad72750dfcce280701c1796520d"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/finnish_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "78f914b576c7ac1b73e9cdf2562ac3da4c1458457019a0673623dbf6766b730f",
+        "size_in_bytes": 22340,
+        "sha256_in_prefix": "78f914b576c7ac1b73e9cdf2562ac3da4c1458457019a0673623dbf6766b730f"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/french_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d508fa3929460a26bb951a2fdae0313f84537554c44257aafee6bddb7d1e8840",
+        "size_in_bytes": 43989,
+        "sha256_in_prefix": "d508fa3929460a26bb951a2fdae0313f84537554c44257aafee6bddb7d1e8840"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/german_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c4fbcaa41fce012906c399a1eb29e3099b5e70e03c6da92351b00e0883a42229",
+        "size_in_bytes": 19511,
+        "sha256_in_prefix": "c4fbcaa41fce012906c399a1eb29e3099b5e70e03c6da92351b00e0883a42229"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/greek_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f51281adea97502cdd555943b8d653de4b6dd48beca7ce146ffcbc730c1a94e9",
+        "size_in_bytes": 105625,
+        "sha256_in_prefix": "f51281adea97502cdd555943b8d653de4b6dd48beca7ce146ffcbc730c1a94e9"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/hindi_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a2e131743c4338d16e233547e36c549c6f959c54ff3fb72c5bdac843a0035a50",
+        "size_in_bytes": 11439,
+        "sha256_in_prefix": "a2e131743c4338d16e233547e36c549c6f959c54ff3fb72c5bdac843a0035a50"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/hungarian_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "cc307ae2442b047f630f1b12b3d816a32d827931469fdd2c0621be2d9561b177",
+        "size_in_bytes": 21508,
+        "sha256_in_prefix": "cc307ae2442b047f630f1b12b3d816a32d827931469fdd2c0621be2d9561b177"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/indonesian_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a1663edbdd7590adc3d7da2b391c6624c1013ec92b6e4f517a225ac760f364bf",
+        "size_in_bytes": 12894,
+        "sha256_in_prefix": "a1663edbdd7590adc3d7da2b391c6624c1013ec92b6e4f517a225ac760f364bf"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/irish_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6dca8cd9e6d35cbbedebf43c6c42f23dbcc6ffe8d52c3f2ca1cbe22ad500b083",
+        "size_in_bytes": 11416,
+        "sha256_in_prefix": "6dca8cd9e6d35cbbedebf43c6c42f23dbcc6ffe8d52c3f2ca1cbe22ad500b083"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/italian_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c874e0faa0ffabdc96c89b4eaaf8fd68f8931f49c897d51f2fe834ecae556d9c",
+        "size_in_bytes": 32403,
+        "sha256_in_prefix": "c874e0faa0ffabdc96c89b4eaaf8fd68f8931f49c897d51f2fe834ecae556d9c"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/lithuanian_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a42368e35197a8cda64f1a5600dd6a3f1409a8f6fb18fab60c4a3f8f3f68f8e7",
+        "size_in_bytes": 24493,
+        "sha256_in_prefix": "a42368e35197a8cda64f1a5600dd6a3f1409a8f6fb18fab60c4a3f8f3f68f8e7"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/nepali_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a21942716504d196ad609073ca2c7d1f71715c84a107f572167068fca9c9ad76",
+        "size_in_bytes": 13285,
+        "sha256_in_prefix": "a21942716504d196ad609073ca2c7d1f71715c84a107f572167068fca9c9ad76"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/norwegian_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "55bce82340ced9a6735afcbe02dabd5a5b9354c409b4b04a60802a580589a982",
+        "size_in_bytes": 10174,
+        "sha256_in_prefix": "55bce82340ced9a6735afcbe02dabd5a5b9354c409b4b04a60802a580589a982"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/porter_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "76475df1cd56c326c64e3962c67ca90e16abf3426c39310abfb449d1007af3a3",
+        "size_in_bytes": 20845,
+        "sha256_in_prefix": "76475df1cd56c326c64e3962c67ca90e16abf3426c39310abfb449d1007af3a3"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/portuguese_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "874e3b2ad5840fbd86a09e4aa7874d781f1a4e71701cba7be58fe42a2859886c",
+        "size_in_bytes": 29813,
+        "sha256_in_prefix": "874e3b2ad5840fbd86a09e4aa7874d781f1a4e71701cba7be58fe42a2859886c"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/romanian_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c6d122e63a043bb7bed30a97742c86cab24b6900c48c89dc71e1fbe1d037ad37",
+        "size_in_bytes": 31751,
+        "sha256_in_prefix": "c6d122e63a043bb7bed30a97742c86cab24b6900c48c89dc71e1fbe1d037ad37"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/russian_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "166d6e84cb7cc63377c66ccd40f183bc04f57158b7f35157cf0aa607a34cd021",
+        "size_in_bytes": 21822,
+        "sha256_in_prefix": "166d6e84cb7cc63377c66ccd40f183bc04f57158b7f35157cf0aa607a34cd021"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/serbian_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7940d08f402aed2318582def1fad8ba0343ceac519f507ed700b2b6bec96ac0c",
+        "size_in_bytes": 192058,
+        "sha256_in_prefix": "7940d08f402aed2318582def1fad8ba0343ceac519f507ed700b2b6bec96ac0c"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/spanish_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "34b5ab2d279d86c593597175438dc67a0ea40d230be1f940557aeb458e14271e",
+        "size_in_bytes": 31443,
+        "sha256_in_prefix": "34b5ab2d279d86c593597175438dc67a0ea40d230be1f940557aeb458e14271e"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/swedish_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "17d3bccad103ff437de12bca589faa0af95d9dcb9db6c695b27790fdd12d184f",
+        "size_in_bytes": 11500,
+        "sha256_in_prefix": "17d3bccad103ff437de12bca589faa0af95d9dcb9db6c695b27790fdd12d184f"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/tamil_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c40321ed18395236d506be66f1f3691294f14cc37e2da88afbb0cf2a9163c020",
+        "size_in_bytes": 39871,
+        "sha256_in_prefix": "c40321ed18395236d506be66f1f3691294f14cc37e2da88afbb0cf2a9163c020"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/turkish_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7b3facdd4eca75c7c4b2e1e8dcf811c9a95e50a5a25c7d08f5fcf9df7e0b4c4b",
+        "size_in_bytes": 80573,
+        "sha256_in_prefix": "7b3facdd4eca75c7c4b2e1e8dcf811c9a95e50a5a25c7d08f5fcf9df7e0b4c4b"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/__pycache__/yiddish_stemmer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9d252b8a848f277da2044d3e362a6933626935129e5246580e660370ed40d9e9",
+        "size_in_bytes": 38882,
+        "sha256_in_prefix": "9d252b8a848f277da2044d3e362a6933626935129e5246580e660370ed40d9e9"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/among.py",
+        "path_type": "hardlink",
+        "sha256": "ebed9da6bee0a46b48be26c92714a09d2d903e40a3006e70f2c90fdccf41e7eb",
+        "size_in_bytes": 404,
+        "sha256_in_prefix": "ebed9da6bee0a46b48be26c92714a09d2d903e40a3006e70f2c90fdccf41e7eb"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/arabic_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "4fd3c12d3ccbce37e45a101f187bf13961b9c09090e58e16b6f7b0a8856af86b",
+        "size_in_bytes": 40727,
+        "sha256_in_prefix": "4fd3c12d3ccbce37e45a101f187bf13961b9c09090e58e16b6f7b0a8856af86b"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/armenian_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "9484f77218c5646cc83e460a51ff7177c835339e865cb62eae94743bc6995492",
+        "size_in_bytes": 9702,
+        "sha256_in_prefix": "9484f77218c5646cc83e460a51ff7177c835339e865cb62eae94743bc6995492"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/basestemmer.py",
+        "path_type": "hardlink",
+        "sha256": "40b1347f08eafdca080bb8358c4c56f94f06af63d4610fde84e64f17ba34d0ec",
+        "size_in_bytes": 8164,
+        "sha256_in_prefix": "40b1347f08eafdca080bb8358c4c56f94f06af63d4610fde84e64f17ba34d0ec"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/basque_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "02fc8dae18ddfec41401af08a958190520986bc3884b3f9f2ef2e4b1398cde48",
+        "size_in_bytes": 19887,
+        "sha256_in_prefix": "02fc8dae18ddfec41401af08a958190520986bc3884b3f9f2ef2e4b1398cde48"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/catalan_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "16417c75498efe68cc663fa295ea8af1681c821dec3a3a69e205364904992e0d",
+        "size_in_bytes": 23740,
+        "sha256_in_prefix": "16417c75498efe68cc663fa295ea8af1681c821dec3a3a69e205364904992e0d"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/danish_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "c5ce63fa24f5489d757fc332bcd485d492f189410d6cdddffbef063ee83493af",
+        "size_in_bytes": 6522,
+        "sha256_in_prefix": "c5ce63fa24f5489d757fc332bcd485d492f189410d6cdddffbef063ee83493af"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/dutch_porter_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "776c1106c86de267aaa94290ae845f0098647d8c1ac2e1e119a115660b58bb11",
+        "size_in_bytes": 14080,
+        "sha256_in_prefix": "776c1106c86de267aaa94290ae845f0098647d8c1ac2e1e119a115660b58bb11"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/dutch_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "127fab70fc00a81940a433ffa67eb228f2c368572524825870b69a3ebe8018e7",
+        "size_in_bytes": 43011,
+        "sha256_in_prefix": "127fab70fc00a81940a433ffa67eb228f2c368572524825870b69a3ebe8018e7"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/english_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "5a70f664d5bcc3a3f0e241d63dc00aa2c8e6549f8d002fa5f8bc4ed45e239130",
+        "size_in_bytes": 23731,
+        "sha256_in_prefix": "5a70f664d5bcc3a3f0e241d63dc00aa2c8e6549f8d002fa5f8bc4ed45e239130"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/esperanto_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "fc1c0e739e495dc487c8725179aa24d06063aa41f9fa7d6e8ce09d4078fa72e6",
+        "size_in_bytes": 17705,
+        "sha256_in_prefix": "fc1c0e739e495dc487c8725179aa24d06063aa41f9fa7d6e8ce09d4078fa72e6"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/estonian_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "7bf46f59355cd5969151ab8c119fb83a3fe8445cea72fa72e84821eadb41f608",
+        "size_in_bytes": 26368,
+        "sha256_in_prefix": "7bf46f59355cd5969151ab8c119fb83a3fe8445cea72fa72e84821eadb41f608"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/finnish_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "d659f8c980dd0b1d7362c0ff8fb0445da243e874451b645288c3f6e40c6f7864",
+        "size_in_bytes": 16016,
+        "sha256_in_prefix": "d659f8c980dd0b1d7362c0ff8fb0445da243e874451b645288c3f6e40c6f7864"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/french_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "b0ac75709ba7fedba7e43df4035de82b4a73991c92e2e3eb067caf5048765146",
+        "size_in_bytes": 34414,
+        "sha256_in_prefix": "b0ac75709ba7fedba7e43df4035de82b4a73991c92e2e3eb067caf5048765146"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/german_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "2d8e622bbed510dd3e9577ed3115c5a5f04aac67e0f5e86effb1df39832e248d",
+        "size_in_bytes": 14818,
+        "sha256_in_prefix": "2d8e622bbed510dd3e9577ed3115c5a5f04aac67e0f5e86effb1df39832e248d"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/greek_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "d0ce5c43e3ff3b220e0e16cb4aa2ee7cca1ed55149be9b9a532af73bed6a732f",
+        "size_in_bytes": 70343,
+        "sha256_in_prefix": "d0ce5c43e3ff3b220e0e16cb4aa2ee7cca1ed55149be9b9a532af73bed6a732f"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/hindi_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "03a6afe198a2acaa97182b2e6fb0813ee4b4dfcaef7b891519f201c51b4e9883",
+        "size_in_bytes": 7839,
+        "sha256_in_prefix": "03a6afe198a2acaa97182b2e6fb0813ee4b4dfcaef7b891519f201c51b4e9883"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/hungarian_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "6c77439c512aedc63e7a1c27e6db0d04f91b07ee17a1a5668f42d3cdf1e6dc05",
+        "size_in_bytes": 13667,
+        "sha256_in_prefix": "6c77439c512aedc63e7a1c27e6db0d04f91b07ee17a1a5668f42d3cdf1e6dc05"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/indonesian_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "a40c94d820247fc8ee851a70c64263162d4895d86c543d58625c60d13d3e963b",
+        "size_in_bytes": 8953,
+        "sha256_in_prefix": "a40c94d820247fc8ee851a70c64263162d4895d86c543d58625c60d13d3e963b"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/irish_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "9047f3826e14cfcb5d966ddedd51b18a1d5cce406a65ad2d68ef38200b431600",
+        "size_in_bytes": 7711,
+        "sha256_in_prefix": "9047f3826e14cfcb5d966ddedd51b18a1d5cce406a65ad2d68ef38200b431600"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/italian_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "060c56ef07ceda25719c6d1a0d401924d657e73d95f260a6b3744fb8408d837b",
+        "size_in_bytes": 22524,
+        "sha256_in_prefix": "060c56ef07ceda25719c6d1a0d401924d657e73d95f260a6b3744fb8408d837b"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/lithuanian_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "fc40d28243c38ed2af1d8ea55e01b28c671cccf8c56dc9da2b2320644457c7f0",
+        "size_in_bytes": 14172,
+        "sha256_in_prefix": "fc40d28243c38ed2af1d8ea55e01b28c671cccf8c56dc9da2b2320644457c7f0"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/nepali_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "e4b61f6ea73abef29015408f9f1fad116ae519b8ae78a94819bc875d3cfab403",
+        "size_in_bytes": 8918,
+        "sha256_in_prefix": "e4b61f6ea73abef29015408f9f1fad116ae519b8ae78a94819bc875d3cfab403"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/norwegian_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "74cdfbfcfd4ddae1453a03f94672310bb183f78fea0a6a62a477531b8d0ef2d5",
+        "size_in_bytes": 6827,
+        "sha256_in_prefix": "74cdfbfcfd4ddae1453a03f94672310bb183f78fea0a6a62a477531b8d0ef2d5"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/porter_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "32ce8574ce779e094b0c10bf88a70e9db613ab0ab5684104fba6cfbc997e3c71",
+        "size_in_bytes": 14750,
+        "sha256_in_prefix": "32ce8574ce779e094b0c10bf88a70e9db613ab0ab5684104fba6cfbc997e3c71"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/portuguese_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "372d2ba5b1fcfda64fcd69d1d69dac9ef0a30471e953120cd033976a174ab5d2",
+        "size_in_bytes": 20269,
+        "sha256_in_prefix": "372d2ba5b1fcfda64fcd69d1d69dac9ef0a30471e953120cd033976a174ab5d2"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/romanian_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "f13a7aee23a4bf66b9d560d83bce54a401018312e026004760399d97b5dd6367",
+        "size_in_bytes": 21185,
+        "sha256_in_prefix": "f13a7aee23a4bf66b9d560d83bce54a401018312e026004760399d97b5dd6367"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/russian_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "c4bccf81b1ffd040b1c95ab40198757ac0d3cfb256aa3ef2b0165208bb6b09e9",
+        "size_in_bytes": 13992,
+        "sha256_in_prefix": "c4bccf81b1ffd040b1c95ab40198757ac0d3cfb256aa3ef2b0165208bb6b09e9"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/serbian_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "b16e9faab22a940809efc4057d0e775e12dd4b8146f27a2c3af38aff046d8f83",
+        "size_in_bytes": 121107,
+        "sha256_in_prefix": "b16e9faab22a940809efc4057d0e775e12dd4b8146f27a2c3af38aff046d8f83"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/spanish_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "2748a0afe138518e2cce73fa7c1cc7fc7cf52665c8b7f855001a305a3f2af7a7",
+        "size_in_bytes": 21534,
+        "sha256_in_prefix": "2748a0afe138518e2cce73fa7c1cc7fc7cf52665c8b7f855001a305a3f2af7a7"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/swedish_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "b870fd8eb7270e92425be742c2ae659f3c32376a8b38d603f0f90e195528b6d3",
+        "size_in_bytes": 7672,
+        "sha256_in_prefix": "b870fd8eb7270e92425be742c2ae659f3c32376a8b38d603f0f90e195528b6d3"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/tamil_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "a98bf19bcd632dbf40e1d2e96991f642b57b8dd1f15b7190ba68339525fcfb91",
+        "size_in_bytes": 30874,
+        "sha256_in_prefix": "a98bf19bcd632dbf40e1d2e96991f642b57b8dd1f15b7190ba68339525fcfb91"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/turkish_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "b2bb0ca4b8e74dbe3f561f5e1d770cfc7dac0fe37d631734d2b0c113276e63d9",
+        "size_in_bytes": 61393,
+        "sha256_in_prefix": "b2bb0ca4b8e74dbe3f561f5e1d770cfc7dac0fe37d631734d2b0c113276e63d9"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snowballstemmer/yiddish_stemmer.py",
+        "path_type": "hardlink",
+        "sha256": "80a3bdc501674a950816dabfa7ffdb1557f7eb7836647dcb844cc3ba46bf9e55",
+        "size_in_bytes": 34227,
+        "sha256_in_prefix": "80a3bdc501674a950816dabfa7ffdb1557f7eb7836647dcb844cc3ba46bf9e55"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/snowballstemmer-3.0.1-py311hca03da5_0",
+    "type": 1
+  }
+}

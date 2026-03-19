@@ -1,0 +1,379 @@
+{
+  "search_metadata": {
+    "id": "69bb5dded0a88f1894ca8e47",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tH1Dif5D5Ly1sQGxnujcpA/69bb5dded0a88f1894ca8e47.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/tH1Dif5D5Ly1sQGxnujcpA/69bb5dded0a88f1894ca8e47.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:22 UTC",
+    "processed_at": "2026-03-19 02:22:22 UTC",
+    "google_url": "https://www.google.com/search?q=Roger+Williams+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&oq=Roger+Williams+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/tH1Dif5D5Ly1sQGxnujcpA/69bb5dded0a88f1894ca8e47.html",
+    "total_time_taken": 1.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Roger Williams \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Roger Williams \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "total_results": 40000,
+    "time_taken_displayed": 0.75,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Roger Williams US House TX-31 Central Texas LinkedIn",
+    "spelling_fix": "Roger Williams US House TX-31 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "SBC 2025 | Representative Roger Williams is Chairman of ...",
+      "link": "https://www.linkedin.com/posts/nsbaadvocate_sbc-2025-representative-roger-williams-activity-7293626336168820737-xBYJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/nsbaadvocate_sbc-2025-representative-roger-williams-activity-7293626336168820737-xBYJ&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQFnoECB4QAQ",
+      "displayed_link": "10+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEoiIrjSr6eIGMBTGFSABamc.png",
+      "snippet": "SBC 2025 | Representative Roger Williams is Chairman of one of the House's most important committees, and he's always saving a seat at the ...",
+      "snippet_highlighted_words": [
+        "Roger Williams",
+        "House's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "SBC 2025 | Representative Roger Williams is Chairman of one of the House's most important committees, and he's always saving a seat at the ...",
+          "source_info_link": "https://www.linkedin.com/posts/nsbaadvocate_sbc-2025-representative-roger-williams-activity-7293626336168820737-xBYJ",
+          "icon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEm695gm9ohHqbx3tXf4H8jB3J7bmTSNKE630qaKfvMrg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/nsbaadvocate_sbc-2025-representative-roger-williams-activity-7293626336168820737-xBYJ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnsbaadvocate_sbc-2025-representative-roger-williams-activity-7293626336168820737-xBYJ",
+      "missing": [
+        "TX-",
+        "31",
+        "Central",
+        "Texas"
+      ],
+      "source": "LinkedIn · National Small Business Association"
+    },
+    {
+      "position": 2,
+      "title": "Brooks A. - Legislative Director - Congressman Roger ...",
+      "link": "https://www.linkedin.com/in/brooksakin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brooksakin&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQFnoECBgQAQ",
+      "displayed_link": "740+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEsx-9ogOjyBsdMd7UiP2MSU.png",
+      "snippet": "Legislative Director - Congressman Roger Williams (TX-25) at U.S. House of Representives · Experience: U.S. House of Representatives · Education: Texas ...",
+      "snippet_highlighted_words": [
+        "Roger Williams",
+        "TX",
+        "U.S. House",
+        "U.S. House",
+        "Texas"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "legislative_director_chairman_roger_williams_tx": 25
+          },
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Legislative Director - Chairman Roger Williams (TX-25)",
+            "U.S. House of Representatives"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Legislative Director - Congressman Roger Williams (TX-25) at U.S. House of Representives · Experience: U.S. House of Representatives · Education: Texas\n ...",
+          "source_info_link": "https://www.linkedin.com/in/brooksakin",
+          "icon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEv1-ekLtQMji4mxwsqN626UL6BRjPOfv6uKDFTbZ4K6o.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/brooksakin&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbrooksakin",
+      "missing": [
+        "31",
+        "Central"
+      ],
+      "source": "LinkedIn · Brooks A."
+    },
+    {
+      "position": 3,
+      "title": "Center for Transforming Lives' Post",
+      "link": "https://www.linkedin.com/posts/centerfortransforminglives_we-welcomed-us-representative-roger-williams-activity-7431737212494491648-V85H",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/centerfortransforminglives_we-welcomed-us-representative-roger-williams-activity-7431737212494491648-V85H&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQFnoECDMQAQ",
+      "displayed_link": "40+ reactions · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEhwbqn1wbum_yXJD6aFLmn0.png",
+      "snippet": "We welcomed U.S. Representative Roger Williams, Chairman of the House Committee on Small Business, for a small business workshop this week.",
+      "snippet_highlighted_words": [
+        "U.S.",
+        "Roger Williams",
+        "House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We welcomed U.S. Representative Roger Williams, Chairman of the House Committee on Small Business, for a small business workshop this week.",
+          "source_info_link": "https://www.linkedin.com/posts/centerfortransforminglives_we-welcomed-us-representative-roger-williams-activity-7431737212494491648-V85H",
+          "icon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEke-BehnSmTKeYCGOJLPgqBK9gwdVRHR_yDcqknkLuv9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/centerfortransforminglives_we-welcomed-us-representative-roger-williams-activity-7431737212494491648-V85H&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fcenterfortransforminglives_we-welcomed-us-representative-roger-williams-activity-7431737212494491648-V85H",
+      "missing": [
+        "TX-",
+        "31"
+      ],
+      "source": "LinkedIn · Center for Transforming Lives"
+    },
+    {
+      "position": 4,
+      "title": "The Business Press DFW's Post",
+      "link": "https://www.linkedin.com/posts/the-business-press-dfw_chairman-williams-holds-small-business-roundtable-activity-7439309581811433473-Ay-f",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/the-business-press-dfw_chairman-williams-holds-small-business-roundtable-activity-7439309581811433473-Ay-f&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQFnoECBkQAQ",
+      "displayed_link": "2 days ago",
+      "favicon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEu1Pl8NvhSqoXynWA3QHHkE.png",
+      "snippet": "Chairman Williams Holds Small Business Roundtable on Opportunities Surrounding the Arlington Grand Prix Congressman Roger Williams (TX-25), ...",
+      "snippet_highlighted_words": [
+        "Roger Williams",
+        "TX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Chairman Williams Holds Small Business Roundtable on Opportunities Surrounding the Arlington Grand Prix Congressman Roger Williams (TX-25), ...",
+          "source_info_link": "https://www.linkedin.com/posts/the-business-press-dfw_chairman-williams-holds-small-business-roundtable-activity-7439309581811433473-Ay-f",
+          "icon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEuX0rIJZxDHm7Gzj65LFhZGMJpoPkHgMFAif55EhqNRZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/the-business-press-dfw_chairman-williams-holds-small-business-roundtable-activity-7439309581811433473-Ay-f&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fthe-business-press-dfw_chairman-williams-holds-small-business-roundtable-activity-7439309581811433473-Ay-f",
+      "missing": [
+        "US",
+        "31"
+      ],
+      "source": "LinkedIn · The Business Press DFW"
+    },
+    {
+      "position": 5,
+      "title": "Rep. Roger Williams (R-TX) Staff Directory",
+      "link": "https://www.legistorm.com/pro/staffer_list/member_id/2894/name/Rep_Roger_Williams.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.legistorm.com/pro/staffer_list/member_id/2894/name/Rep_Roger_Williams.html&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQFnoECBoQAQ",
+      "displayed_link": "https://www.legistorm.com › pro › member_id › name",
+      "snippet": "Issues: Abortion • Agriculture and food • Animals • Arts, culture and religion • Civil rights and liberties, minority issues • Crime and law enforcement ...",
+      "about_this_result": {
+        "source": {
+          "description": "Issues: Abortion • Agriculture and food • Animals • Arts, culture and religion • Civil rights and liberties, minority issues • Crime and law enforcement ...",
+          "source_info_link": "https://www.legistorm.com/pro/staffer_list/member_id/2894/name/Rep_Roger_Williams.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.legistorm.com/pro/staffer_list/member_id/2894/name/Rep_Roger_Williams.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.legistorm.com%2Fpro%2Fstaffer_list%2Fmember_id%2F2894%2Fname%2FRep_Roger_Williams.html",
+      "source": "LegiStorm"
+    },
+    {
+      "position": 6,
+      "title": "#tx25 #congressmanrogerwilliams | Robyn Hess, M.A.",
+      "link": "https://www.linkedin.com/posts/robyn-hess-m-a-2b666213_tx25-congressmanrogerwilliams-activity-7158582345808121856-dj-t",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/robyn-hess-m-a-2b666213_tx25-congressmanrogerwilliams-activity-7158582345808121856-dj-t&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQFnoECBwQAQ",
+      "displayed_link": "50+ reactions · 2 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEqMufkjzAKOG_ztHZ9HbVjM.png",
+      "snippet": "It's always great when DC staffers get to come to visit beautiful TX25. Madeline Waschak We had a great district week, working hard on ...",
+      "about_this_result": {
+        "source": {
+          "description": "It's always great when DC staffers get to come to visit beautiful TX25. Madeline Waschak We had a great district week, working hard on ...",
+          "source_info_link": "https://www.linkedin.com/posts/robyn-hess-m-a-2b666213_tx25-congressmanrogerwilliams-activity-7158582345808121856-dj-t",
+          "icon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEnt6WIyYo-a5ToAJLmaEs9ZqM7nMrrk0yDYnE5OHTqwE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/robyn-hess-m-a-2b666213_tx25-congressmanrogerwilliams-activity-7158582345808121856-dj-t&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frobyn-hess-m-a-2b666213_tx25-congressmanrogerwilliams-activity-7158582345808121856-dj-t",
+      "missing": [
+        "House",
+        "TX-",
+        "31",
+        "Central"
+      ],
+      "source": "LinkedIn · Robyn Hess, M.A."
+    },
+    {
+      "position": 7,
+      "title": "A great moment this morning on the House floor",
+      "link": "https://www.linkedin.com/posts/steven-hatchell-707014a_a-great-moment-this-morning-on-the-house-activity-7432533366354243584-XgNm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/steven-hatchell-707014a_a-great-moment-this-morning-on-the-house-activity-7432533366354243584-XgNm&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQFnoECBsQAQ",
+      "displayed_link": "60+ reactions · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEv1qnV23TZBgAaYj5BzhnFg.png",
+      "snippet": "A great moment this morning on the House floor - thank you to Congressman Roger Williams for recognizing the Stephenville (TX) Yellow ...",
+      "snippet_highlighted_words": [
+        "House",
+        "Roger Williams",
+        "TX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A great moment this morning on the House floor - thank you to Congressman Roger Williams for recognizing the Stephenville (TX) Yellow ...",
+          "source_info_link": "https://www.linkedin.com/posts/steven-hatchell-707014a_a-great-moment-this-morning-on-the-house-activity-7432533366354243584-XgNm",
+          "icon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEu_yXTZvLK9Asf5EYidevAzc5ePOcZ-453ML0DgtMTa4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/steven-hatchell-707014a_a-great-moment-this-morning-on-the-house-activity-7432533366354243584-XgNm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsteven-hatchell-707014a_a-great-moment-this-morning-on-the-house-activity-7432533366354243584-XgNm",
+      "missing": [
+        "31",
+        "Central"
+      ],
+      "source": "LinkedIn · Steven Hatchell"
+    },
+    {
+      "position": 8,
+      "title": "K&L Gates: Homepage",
+      "link": "https://www.klgates.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.klgates.com/&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQFnoECEEQAQ",
+      "displayed_link": "https://www.klgates.com",
+      "favicon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEnUK9A6Ihs9gFAYS5eOQDqk.png",
+      "snippet": "At K&L Gates, we foster an inclusive and collaborative environment across our fully integrated global platform that enables us to diligently combine the ...",
+      "snippet_highlighted_words": [
+        "us"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "At K&L Gates, we foster an inclusive and collaborative environment across our fully integrated global platform that enables us to diligently combine the ...",
+          "source_info_link": "https://www.klgates.com/",
+          "icon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEr-C1v2Br_njv33b6tHOWZPwoOIqG2NN6ZgivFYyViFD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.klgates.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.klgates.com%2F",
+      "source": "K&L Gates"
+    },
+    {
+      "position": 9,
+      "title": "Section 12: Religious Discrimination",
+      "link": "https://www.eeoc.gov/laws/guidance/section-12-religious-discrimination",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eeoc.gov/laws/guidance/section-12-religious-discrimination&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQFnoECDwQAQ",
+      "displayed_link": "https://www.eeoc.gov › laws › guidance › section-12-reli...",
+      "favicon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEmPuGUG-u9h0sABxMFoDMX4.png",
+      "date": "Jan 15, 2021",
+      "snippet": "Notice Concerning the Undue Hardship Standard in Title VII Religious Accommodation Cases.This document was issued prior to the Supreme ...",
+      "about_this_result": {
+        "source": {
+          "description": "Notice Concerning the Undue Hardship Standard in Title VII Religious Accommodation Cases.This document was issued prior to the Supreme ...",
+          "source_info_link": "https://www.eeoc.gov/laws/guidance/section-12-religious-discrimination",
+          "icon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PErIqdaIjJky86WriTHNQg9W0nzIxix7gbt4pMz0ZK094.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.eeoc.gov/laws/guidance/section-12-religious-discrimination&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.eeoc.gov%2Flaws%2Fguidance%2Fsection-12-religious-discrimination",
+      "source": "U.S. Equal Employment Opportunity Commission (.gov)"
+    },
+    {
+      "position": 10,
+      "title": "Financial Aid Forms and Resources",
+      "link": "https://www.rwu.edu/admission/financial-aid/forms-and-resources",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rwu.edu/admission/financial-aid/forms-and-resources&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQFnoECDsQAQ",
+      "displayed_link": "https://www.rwu.edu › admission › forms-and-resources",
+      "favicon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PErgd5QaMNGRYRLd5Qbp6wvc.png",
+      "date": "Feb 1, 2025",
+      "snippet": "Complete a Free Application for Federal Student Aid (FAFSA) for the academic year in which the grant is to be awarded and have illustrated a ...",
+      "snippet_highlighted_words": [
+        "Federal"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Complete a Free Application for Federal Student Aid (FAFSA) for the academic year in which the grant is to be awarded and have illustrated a ...",
+          "source_info_link": "https://www.rwu.edu/admission/financial-aid/forms-and-resources",
+          "icon": "https://serpapi.com/searches/69bb5dded0a88f1894ca8e47/images/XvUb6BZOjmuSnjb1LK0PEmQcpx6dlPOjBz6ziSePk7y0-G28QOkRdoo8QgKB5cQ7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.rwu.edu/admission/financial-aid/forms-and-resources&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.rwu.edu%2Fadmission%2Ffinancial-aid%2Fforms-and-resources",
+      "source": "Roger Williams University"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=3127acuFDYCew8cPnc-vuAQ&start=10&sa=N&sstk=Af77f_fSgxyC6pleuGEt4v1pWKjLrFVJ5yCAdRT0j0tSrqfFvC1Vglt19pgWX068VUFrIwMnSxLeVcC4QMBTLE0OmfcPgx7p7qo9aA&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQ8NMDegQICRAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=3127acuFDYCew8cPnc-vuAQ&start=10&sa=N&sstk=Af77f_fSgxyC6pleuGEt4v1pWKjLrFVJ5yCAdRT0j0tSrqfFvC1Vglt19pgWX068VUFrIwMnSxLeVcC4QMBTLE0OmfcPgx7p7qo9aA&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=3127acuFDYCew8cPnc-vuAQ&start=20&sa=N&sstk=Af77f_fSgxyC6pleuGEt4v1pWKjLrFVJ5yCAdRT0j0tSrqfFvC1Vglt19pgWX068VUFrIwMnSxLeVcC4QMBTLE0OmfcPgx7p7qo9aA&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=3127acuFDYCew8cPnc-vuAQ&start=30&sa=N&sstk=Af77f_fSgxyC6pleuGEt4v1pWKjLrFVJ5yCAdRT0j0tSrqfFvC1Vglt19pgWX068VUFrIwMnSxLeVcC4QMBTLE0OmfcPgx7p7qo9aA&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=3127acuFDYCew8cPnc-vuAQ&start=40&sa=N&sstk=Af77f_fSgxyC6pleuGEt4v1pWKjLrFVJ5yCAdRT0j0tSrqfFvC1Vglt19pgWX068VUFrIwMnSxLeVcC4QMBTLE0OmfcPgx7p7qo9aA&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=3127acuFDYCew8cPnc-vuAQ&start=50&sa=N&sstk=Af77f_fSgxyC6pleuGEt4v1pWKjLrFVJ5yCAdRT0j0tSrqfFvC1Vglt19pgWX068VUFrIwMnSxLeVcC4QMBTLE0OmfcPgx7p7qo9aA&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=3127acuFDYCew8cPnc-vuAQ&start=60&sa=N&sstk=Af77f_fSgxyC6pleuGEt4v1pWKjLrFVJ5yCAdRT0j0tSrqfFvC1Vglt19pgWX068VUFrIwMnSxLeVcC4QMBTLE0OmfcPgx7p7qo9aA&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=3127acuFDYCew8cPnc-vuAQ&start=70&sa=N&sstk=Af77f_fSgxyC6pleuGEt4v1pWKjLrFVJ5yCAdRT0j0tSrqfFvC1Vglt19pgWX068VUFrIwMnSxLeVcC4QMBTLE0OmfcPgx7p7qo9aA&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=3127acuFDYCew8cPnc-vuAQ&start=80&sa=N&sstk=Af77f_fSgxyC6pleuGEt4v1pWKjLrFVJ5yCAdRT0j0tSrqfFvC1Vglt19pgWX068VUFrIwMnSxLeVcC4QMBTLE0OmfcPgx7p7qo9aA&ved=2ahUKEwiL8fzo86qTAxUAz_ACHZ3nC0cQ8tMDegQICRAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Roger+Williams+US+House+TX-31+Central+Texas+LinkedIn&start=80"
+    }
+  }
+}

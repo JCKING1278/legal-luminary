@@ -1,0 +1,404 @@
+{
+  "search_metadata": {
+    "id": "69bb5d922771436db0c36878",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OkYym0DhYg4cH3IfhhGQWA/69bb5d922771436db0c36878.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/OkYym0DhYg4cH3IfhhGQWA/69bb5d922771436db0c36878.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:06 UTC",
+    "processed_at": "2026-03-19 02:21:06 UTC",
+    "google_url": "https://www.google.com/search?q=Beatrice+Cox+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Facebook&oq=Beatrice+Cox+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/OkYym0DhYg4cH3IfhhGQWA/69bb5d922771436db0c36878.html",
+    "total_time_taken": 1.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Beatrice Cox \"Bell JP P4 Place 2\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Beatrice Cox \"Bell JP P4 Place 2\" \"Central Texas\" Facebook",
+    "total_results": 59200,
+    "time_taken_displayed": 0.71,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Beatrice Cox Bell JP P4 Place 2 Central Texas Facebook",
+    "spelling_fix": "Beatrice Cox Bell JP P4 Place 2 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bea Cox for Justice of the Peace, Precinct 4 Place 2",
+      "link": "https://www.facebook.com/BeaForJP/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BeaForJP/&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQFnoECBwQAQ",
+      "displayed_link": "400+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbgSZy_sXIbWMkNvJFvp8fgE.png",
+      "snippet": "Bea Cox for Justice of the Peace, Precinct 4 Place 2. 403 likes · 169 talking about this. Over 20 years of dedicated service to Bell County. Chief Clerk...",
+      "snippet_highlighted_words": [
+        "Cox",
+        "Justice of the Peace",
+        "4 Place 2",
+        "Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bea Cox for Justice of the Peace, Precinct 4 Place 2. 403 likes · 169 talking about this. Over 20 years of dedicated service to Bell County. Chief Clerk...",
+          "source_info_link": "https://www.facebook.com/BeaForJP/",
+          "icon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbpiLIE9fsQTgh2JmkloNzUvR-0xcoAfAE77Nb6IVUKL1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BeaForJP/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBeaForJP%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Beatrice+Cox+Bell+JP+P4+Place+2+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ5t4CegQIIRAB"
+      },
+      "source": "Facebook · Bea Cox for Justice of the Peace, Precinct 4 Place 2"
+    },
+    {
+      "position": 2,
+      "title": "Bea for JP Bea Cox has served Bell County for 25 years ...",
+      "link": "https://www.facebook.com/jackiecoxmusic/posts/vote-bea-for-jpbea-cox-has-served-bell-county-for-25-years-most-of-them-inside-t/10231677725861609/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jackiecoxmusic/posts/vote-bea-for-jpbea-cox-has-served-bell-county-for-25-years-most-of-them-inside-t/10231677725861609/&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQFnoECCYQAQ",
+      "displayed_link": "30+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbtk8rtH1wCr-GoS_cqvDDbo.png",
+      "snippet": "VOTE : Bea for JP Bea Cox has served Bell County for 25 years, most of them inside the JP office. This isn't just another job for Bea — it's ...",
+      "snippet_highlighted_words": [
+        "JP",
+        "Cox",
+        "Bell",
+        "JP"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "VOTE : Bea for JP Bea Cox has served Bell County for 25 years, most of them inside the JP office. This isn't just another job for Bea — it's ...",
+          "source_info_link": "https://www.facebook.com/jackiecoxmusic/posts/vote-bea-for-jpbea-cox-has-served-bell-county-for-25-years-most-of-them-inside-t/10231677725861609/",
+          "icon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbrGpSPtomz9zTB9zvYcUMLKWG0WCDninQ4bTpYcz_V0L.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jackiecoxmusic/posts/vote-bea-for-jpbea-cox-has-served-bell-county-for-25-years-most-of-them-inside-t/10231677725861609/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjackiecoxmusic%2Fposts%2Fvote-bea-for-jpbea-cox-has-served-bell-county-for-25-years-most-of-them-inside-t%2F10231677725861609%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Beatrice+Cox+Bell+JP+P4+Place+2+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ5t4CegQINBAB"
+      },
+      "source": "Facebook · Jackie Cox"
+    },
+    {
+      "position": 3,
+      "title": "The Bell County Truancy Master Judge Beatrice Cox, Mary ...",
+      "link": "https://www.facebook.com/wilkeyforjp/posts/the-bell-county-truancy-master-judge-beatrice-cox-mary-her-court-coordinator-and/722666086760980/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/wilkeyforjp/posts/the-bell-county-truancy-master-judge-beatrice-cox-mary-her-court-coordinator-and/722666086760980/&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQFnoECCoQAQ",
+      "displayed_link": "20+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbv1xjlCvU9g-zvA7zpDGLRA.png",
+      "snippet": "The Bell County Truancy Master Judge Beatrice Cox, Mary her Court Coordinator and I attended Raymond Mays Middle School in Troy.",
+      "snippet_highlighted_words": [
+        "Bell",
+        "Beatrice Cox"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Bell County Truancy Master Judge Beatrice Cox, Mary her Court Coordinator and I attended Raymond Mays Middle School in Troy.",
+          "source_info_link": "https://www.facebook.com/wilkeyforjp/posts/the-bell-county-truancy-master-judge-beatrice-cox-mary-her-court-coordinator-and/722666086760980/",
+          "icon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbsQASP28LevtE5QHm8e1_bs4FER4CCbIJdg7XQweuEd0.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/wilkeyforjp/posts/the-bell-county-truancy-master-judge-beatrice-cox-mary-her-court-coordinator-and/722666086760980/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fwilkeyforjp%2Fposts%2Fthe-bell-county-truancy-master-judge-beatrice-cox-mary-her-court-coordinator-and%2F722666086760980%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Beatrice+Cox+Bell+JP+P4+Place+2+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ5t4CegQINxAB"
+      },
+      "source": "Facebook · Judge Larry Wilkey, Bell County Justice of the Peace, Precinct 3, Place 2"
+    },
+    {
+      "position": 4,
+      "title": "a position that represents the Killeen-Harker Heights area.",
+      "link": "https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQFnoECCQQAQ",
+      "displayed_link": "110+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABblFH6evKx6F6Jgag7nB6Ics.png",
+      "snippet": "Jessica Gonzalez a native Texan born in Killeen is the right candidate for this job. Knows the landscape and raised by public servants. She will ...",
+      "about_this_result": {
+        "source": {
+          "description": "Jessica Gonzalez a native Texan born in Killeen is the right candidate for this job. Knows the landscape and raised by public servants. She will ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/",
+          "icon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbounV4MAHeLR_fPVQpq3BqlEKEwwhbKvWDoXzn-YMA7S.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fthree-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-%2F1457676362973180%2F",
+      "missing": [
+        "Beatrice",
+        "Cox"
+      ],
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "Candidates answer questions as election day nears",
+      "link": "https://kdhnews.com/news/local/killeen-jp-race-candidates-answer-questions-as-election-day-nears/article_fedf2cde-7c43-4a13-aaa1-16473ee5dedc.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/killeen-jp-race-candidates-answer-questions-as-election-day-nears/article_fedf2cde-7c43-4a13-aaa1-16473ee5dedc.html&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQFnoECCIQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › killeen-jp-race-ca...",
+      "favicon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbk8Qwgpf3hFTvcN9R7he8NY.png",
+      "date": "Mar 1, 2026",
+      "snippet": "Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on the Killeen City Council, and LaTasha Quarles, who is a veteran ...",
+      "about_this_result": {
+        "source": {
+          "description": "Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on the Killeen City Council, and LaTasha Quarles, who is a veteran ...",
+          "source_info_link": "https://kdhnews.com/news/local/killeen-jp-race-candidates-answer-questions-as-election-day-nears/article_fedf2cde-7c43-4a13-aaa1-16473ee5dedc.html",
+          "icon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbsNoPxmAIqx8_aSzUZBIiX3rb3ccVT0a959hFd30kCIS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/killeen-jp-race-candidates-answer-questions-as-election-day-nears/article_fedf2cde-7c43-4a13-aaa1-16473ee5dedc.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fkilleen-jp-race-candidates-answer-questions-as-election-day-nears%2Farticle_fedf2cde-7c43-4a13-aaa1-16473ee5dedc.html",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Beatrice+Cox+Bell+JP+%22P4%22+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ5t4CegQINhAB"
+      },
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 6,
+      "title": "Juvenile Truant Conduct Court",
+      "link": "https://www.bellcountytx.com/departments/juvenile_truant_conduct_court.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bellcountytx.com/departments/juvenile_truant_conduct_court.php&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQFnoECCcQAQ",
+      "displayed_link": "https://www.bellcountytx.com › departments › juvenile...",
+      "favicon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbgrAlsgO1jOsPAhZphRRmOs.jpeg",
+      "snippet": "House Bill 2398 was passed during the 84th Texas Legislature. This bill decriminalized juvenile truancy, creating a new civil offense of truant conduct, and ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "House Bill 2398 was passed during the 84th Texas Legislature. This bill decriminalized juvenile truancy, creating a new civil offense of truant conduct, and ...",
+          "source_info_link": "https://www.bellcountytx.com/departments/juvenile_truant_conduct_court.php",
+          "icon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbsJqoSIohbQdXSQXxGEtaj1ntt6YYZNK--eLjLdqLAud.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bellcountytx.com/departments/juvenile_truant_conduct_court.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bellcountytx.com%2Fdepartments%2Fjuvenile_truant_conduct_court.php",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Beatrice+Cox+Bell+JP+%22P4%22+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ5t4CegQINRAB"
+      },
+      "source": "Bell County, Texas"
+    },
+    {
+      "position": 7,
+      "title": "Beatrice Cox (Bell County Justice of the Peace Precinct 4, ...",
+      "link": "https://ballotpedia.org/Beatrice_Cox_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Beatrice_Cox_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQFnoECB0QAQ",
+      "displayed_link": "https://ballotpedia.org › Beatrice_Cox_(Bell_County_Just...",
+      "favicon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbromhjsFWSKkBqsJKo2USfs.png",
+      "snippet": "Beatrice Cox has not yet completed Ballotpedia's 2026 Candidate Connection survey. If you are Beatrice Cox, click here to fill out the survey. Elections ...",
+      "snippet_highlighted_words": [
+        "Beatrice Cox",
+        "Beatrice Cox"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Beatrice Cox has not yet completed Ballotpedia's 2026 Candidate Connection survey. If you are Beatrice Cox, click here to fill out the survey. Elections ...",
+          "source_info_link": "https://ballotpedia.org/Beatrice_Cox_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbpO4Ex8EKCmR64Z-kd5pr-kNJOCaWzzyBT8HDeVXljFl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Beatrice_Cox_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FBeatrice_Cox_%28Bell_County_Justice_of_the_Peace_Precinct_4%2C_Place_2%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Beatrice+Cox+Bell+JP+P4+Place+2+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ5t4CegQIHxAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 8,
+      "title": "Local Ballot Guide: Here's who's up for election in Waco, ...",
+      "link": "https://www.kcentv.com/article/news/local/local-ballot-guide-election-waco-temple-killeen/500-693dd76c-2882-490e-bed0-9da55df29bed",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kcentv.com/article/news/local/local-ballot-guide-election-waco-temple-killeen/500-693dd76c-2882-490e-bed0-9da55df29bed&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQFnoECEEQAQ",
+      "displayed_link": "https://www.kcentv.com › article › news › local-ballot-g...",
+      "favicon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbnbrXHDqFoPv1LcG4NQEGBE.png",
+      "date": "Feb 17, 2026",
+      "snippet": "Below is a complete guide to the Central Texas county races and candidates as they will appear on voters' ballots. Bell County. Voters in Bell ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Bell",
+        "Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Below is a complete guide to the Central Texas county races and candidates as they will appear on voters' ballots. Bell County. Voters in Bell ...",
+          "source_info_link": "https://www.kcentv.com/article/news/local/local-ballot-guide-election-waco-temple-killeen/500-693dd76c-2882-490e-bed0-9da55df29bed",
+          "icon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbhPcmZI7ospdsTaiJAyHvW_BYARlva52013gSne4IBNB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.kcentv.com/article/news/local/local-ballot-guide-election-waco-temple-killeen/500-693dd76c-2882-490e-bed0-9da55df29bed&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.kcentv.com%2Farticle%2Fnews%2Flocal%2Flocal-ballot-guide-election-waco-temple-killeen%2F500-693dd76c-2882-490e-bed0-9da55df29bed",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Beatrice+Cox+Bell+JP+%22P4%22+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ5t4CegQIRRAB"
+      },
+      "source": "KCENTV.com"
+    },
+    {
+      "position": 9,
+      "title": "The biobehavioral family model with a seminarian population",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9539678/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC9539678/&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQFnoECDwQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC9539678",
+      "favicon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABblj6Beu0kQC85acuIs-MHwg.png",
+      "author": "by K Smith",
+      "snippet": "Seminary students remain unstudied in the research literature despite their eminent role in caring for the wellbeing of congregants.",
+      "about_this_result": {
+        "source": {
+          "description": "Seminary students remain unstudied in the research literature despite their eminent role in caring for the wellbeing of congregants.",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9539678/",
+          "icon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbo0rlnS7hIuGZDqzRwULL5yvGIJ5w9YxXFGRcNRclHEe.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pmc.ncbi.nlm.nih.gov/articles/PMC9539678/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC9539678%2F",
+      "source": "National Institutes of Health (.gov)"
+    },
+    {
+      "position": 10,
+      "title": "Jackie Cox (@jackiecoxmusic)",
+      "link": "https://www.facebook.com/jackiecoxmusic/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jackiecoxmusic/&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQFnoECD8QAQ",
+      "displayed_link": "5.9K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbnmBBydXA_4VifGI4bSMdRw.png",
+      "snippet": "Jackie Cox. 5861 likes · 293 talking about this. \"Doing My Thing, for the KING\" !!",
+      "snippet_highlighted_words": [
+        "Cox"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jackie Cox. 5861 likes · 293 talking about this. \"Doing My Thing, for the KING\" !!",
+          "source_info_link": "https://www.facebook.com/jackiecoxmusic/",
+          "icon": "https://serpapi.com/searches/69bb5d922771436db0c36878/images/QJYk5Y7DGIAQO__fnxABbtAy-R0yIY2o7ukrBPtvXV5VzFawVRfDw7Z0RgxFABgK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jackiecoxmusic/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjackiecoxmusic%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Beatrice+Cox+Bell+JP+%22P4%22+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ5t4CegQIQhAB"
+      },
+      "source": "Facebook · Jackie Cox"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=k127abeOB5GmmtkP6pCIyA4&start=10&sa=N&sstk=Af77f_fis5Y_dnKWDgDaT-YIuIWf8-2ZJpWjDzdVomU7TKTleRvm4Tfej9XxMCl7hkLJIUxFuxoAQ3ltyfyNgvueEjmOIqb0auxZ8Q&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ8NMDegQIDBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=k127abeOB5GmmtkP6pCIyA4&start=10&sa=N&sstk=Af77f_fis5Y_dnKWDgDaT-YIuIWf8-2ZJpWjDzdVomU7TKTleRvm4Tfej9XxMCl7hkLJIUxFuxoAQ3ltyfyNgvueEjmOIqb0auxZ8Q&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=k127abeOB5GmmtkP6pCIyA4&start=20&sa=N&sstk=Af77f_fis5Y_dnKWDgDaT-YIuIWf8-2ZJpWjDzdVomU7TKTleRvm4Tfej9XxMCl7hkLJIUxFuxoAQ3ltyfyNgvueEjmOIqb0auxZ8Q&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=k127abeOB5GmmtkP6pCIyA4&start=30&sa=N&sstk=Af77f_fis5Y_dnKWDgDaT-YIuIWf8-2ZJpWjDzdVomU7TKTleRvm4Tfej9XxMCl7hkLJIUxFuxoAQ3ltyfyNgvueEjmOIqb0auxZ8Q&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=k127abeOB5GmmtkP6pCIyA4&start=40&sa=N&sstk=Af77f_fis5Y_dnKWDgDaT-YIuIWf8-2ZJpWjDzdVomU7TKTleRvm4Tfej9XxMCl7hkLJIUxFuxoAQ3ltyfyNgvueEjmOIqb0auxZ8Q&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ8tMDegQIDBAK",
+      "6": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=k127abeOB5GmmtkP6pCIyA4&start=50&sa=N&sstk=Af77f_fis5Y_dnKWDgDaT-YIuIWf8-2ZJpWjDzdVomU7TKTleRvm4Tfej9XxMCl7hkLJIUxFuxoAQ3ltyfyNgvueEjmOIqb0auxZ8Q&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ8tMDegQIDBAM",
+      "7": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=k127abeOB5GmmtkP6pCIyA4&start=60&sa=N&sstk=Af77f_fis5Y_dnKWDgDaT-YIuIWf8-2ZJpWjDzdVomU7TKTleRvm4Tfej9XxMCl7hkLJIUxFuxoAQ3ltyfyNgvueEjmOIqb0auxZ8Q&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ8tMDegQIDBAO",
+      "8": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=k127abeOB5GmmtkP6pCIyA4&start=70&sa=N&sstk=Af77f_fis5Y_dnKWDgDaT-YIuIWf8-2ZJpWjDzdVomU7TKTleRvm4Tfej9XxMCl7hkLJIUxFuxoAQ3ltyfyNgvueEjmOIqb0auxZ8Q&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ8tMDegQIDBAQ",
+      "9": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=k127abeOB5GmmtkP6pCIyA4&start=80&sa=N&sstk=Af77f_fis5Y_dnKWDgDaT-YIuIWf8-2ZJpWjDzdVomU7TKTleRvm4Tfej9XxMCl7hkLJIUxFuxoAQ3ltyfyNgvueEjmOIqb0auxZ8Q&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ8tMDegQIDBAS",
+      "10": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=k127abeOB5GmmtkP6pCIyA4&start=90&sa=N&sstk=Af77f_fis5Y_dnKWDgDaT-YIuIWf8-2ZJpWjDzdVomU7TKTleRvm4Tfej9XxMCl7hkLJIUxFuxoAQ3ltyfyNgvueEjmOIqb0auxZ8Q&ved=2ahUKEwj3o9jE86qTAxURkyYFHWoIAukQ8tMDegQIDBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=90"
+    }
+  }
+}

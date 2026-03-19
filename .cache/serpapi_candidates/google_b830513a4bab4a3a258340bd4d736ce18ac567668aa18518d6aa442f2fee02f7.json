@@ -1,0 +1,345 @@
+{
+  "search_metadata": {
+    "id": "69bb5e451dcfe29d362e2b80",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/wX-bkqXHoK3APGal370P8Q/69bb5e451dcfe29d362e2b80.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/wX-bkqXHoK3APGal370P8Q/69bb5e451dcfe29d362e2b80.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:05 UTC",
+    "processed_at": "2026-03-19 02:24:05 UTC",
+    "google_url": "https://www.google.com/search?q=Brian+Trautner+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&oq=Brian+Trautner+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/wX-bkqXHoK3APGal370P8Q/69bb5e451dcfe29d362e2b80.html",
+    "total_time_taken": 3.8
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Brian Trautner \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Brian Trautner \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "total_results": 5620,
+    "time_taken_displayed": 0.97,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Brian Trautner US House TX-31 Central Texas LinkedIn",
+    "spelling_fix": "Brian Trautner US House TX-31 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Brian Trautner - Seasoned Producer and Creative, with ...",
+      "link": "https://www.linkedin.com/in/brian-trautner-6a609813b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brian-trautner-6a609813b&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQFnoECCEQAQ",
+      "displayed_link": "60+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBnW7B-bGmbpu18dsmTtepbo.png",
+      "snippet": "Seasoned Producer and Creative, with strong management, graphic design and videography expertise. · •Leadership and production expertise •Extensive ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas Metropolitan Area",
+            "Director of Event Technology",
+            "INSPIRE"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Seasoned Producer and Creative, with strong management, graphic design and videography expertise. · •Leadership and production expertise •Extensive ...",
+          "source_info_link": "https://www.linkedin.com/in/brian-trautner-6a609813b",
+          "icon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBsJeqP8AZxfDsSi6MdhvB2K-nUvio2OitfTKqIFDUd4P.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/brian-trautner-6a609813b&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbrian-trautner-6a609813b",
+      "missing": [
+        "House",
+        "TX-",
+        "31",
+        "Central"
+      ],
+      "source": "LinkedIn · Brian Trautner"
+    },
+    {
+      "position": 2,
+      "title": "Mary (Robin) Roberta Duggan's",
+      "link": "https://obituaries.rwcpulse.com/obituaries/contact.php%20%20Turn%20on%20screen%20reader%20support%20%20https:/obituaries.rwcpulse.com/obituaries/memorials/mary-robin-roberta-duggan?o=8494",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://obituaries.rwcpulse.com/obituaries/contact.php%2520%2520Turn%2520on%2520screen%2520reader%2520support%2520%2520https:/obituaries.rwcpulse.com/obituaries/memorials/mary-robin-roberta-duggan%3Fo%3D8494&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQFnoECBcQAQ",
+      "displayed_link": "https://obituaries.rwcpulse.com › obituaries › memorials",
+      "snippet": "John Thomas Antoun March 27, 1943 - March 8, 2026. Palo Alto, California. John Thomas Antoun was born in Erie, Pennsylvania, to Majid John and Marion ...",
+      "about_this_result": {
+        "source": {
+          "description": "John Thomas Antoun March 27, 1943 - March 8, 2026. Palo Alto, California. John Thomas Antoun was born in Erie, Pennsylvania, to Majid John and Marion ...",
+          "source_info_link": "https://obituaries.rwcpulse.com/obituaries/contact.php%20%20Turn%20on%20screen%20reader%20support%20%20https:/obituaries.rwcpulse.com/obituaries/memorials/mary-robin-roberta-duggan?o=8494"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://obituaries.rwcpulse.com/obituaries/contact.php%20%20Turn%20on%20screen%20reader%20support%20%20https:/obituaries.rwcpulse.com/obituaries/memorials/mary-robin-roberta-duggan?o=8494&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fobituaries.rwcpulse.com%2Fobituaries%2Fcontact.php%2520%2520Turn%2520on%2520screen%2520reader%2520support%2520%2520https%3A%2Fobituaries.rwcpulse.com%2Fobituaries%2Fmemorials%2Fmary-robin-roberta-duggan%3Fo%3D8494",
+      "source": "Redwood City Pulse"
+    },
+    {
+      "position": 3,
+      "title": "ASSOCIATED SCHOOLS OF CONSTRUCTION",
+      "link": "https://asc67.org/PrintedProgram/ASC_2023_Program.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://asc67.org/PrintedProgram/ASC_2023_Program.pdf&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQFnoECBkQAQ",
+      "displayed_link": "https://asc67.org › ASC_2023_Program",
+      "snippet": "The 36th Annual Associated Schools of Construction (ASC) Regions 6 & 7 Student Competition is host to the largest construction management student ...",
+      "about_this_result": {
+        "source": {
+          "description": "The 36th Annual Associated Schools of Construction (ASC) Regions 6 & 7 Student Competition is host to the largest construction management student ...",
+          "source_info_link": "https://asc67.org/PrintedProgram/ASC_2023_Program.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://asc67.org/PrintedProgram/ASC_2023_Program.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fasc67.org%2FPrintedProgram%2FASC_2023_Program.pdf",
+      "source": "ASC Regions 6 & 7"
+    },
+    {
+      "position": 4,
+      "title": "Distinct maternofetal immune signatures delineate preterm ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11527006/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC11527006/&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQFnoECCAQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC11527006",
+      "favicon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBly7cKbGsmanlXHGaBw8VmQ.png",
+      "author": "by S Ottinger",
+      "snippet": "Preterm birth is the leading cause of infant mortality resulting in over one million neonatal deaths annually. Maternal urinary tract infection (UTI) during ...",
+      "about_this_result": {
+        "source": {
+          "description": "Preterm birth is the leading cause of infant mortality resulting in over one million neonatal deaths annually. Maternal urinary tract infection (UTI) during ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11527006/",
+          "icon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBhb_fLPPoZO1SBGy8jw2y-y0gN2r5nEkecFhKVLJYO5Z.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pmc.ncbi.nlm.nih.gov/articles/PMC11527006/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC11527006%2F",
+      "missing": [
+        "House"
+      ],
+      "must_include": {
+        "word": "House",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Brian+Trautner+US+%22House%22+TX-31+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ5t4CegQILRAB"
+      },
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "Medicine Grand Rounds | BCM",
+      "link": "https://www.bcm.edu/departments/medicine/education/grand-rounds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bcm.edu/departments/medicine/education/grand-rounds&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQFnoECB8QAQ",
+      "displayed_link": "https://www.bcm.edu › medicine › education › grand-ro...",
+      "favicon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBu4Y4yiVCrY93seFmuxDvSw.jpeg",
+      "snippet": "Endocrinology, Diabetes and Metabolism Grand Rounds · Gastroenterology and Hepatology Grand Rounds · Health Services Research Grand Rounds · Immunology, Allergy ...",
+      "about_this_result": {
+        "source": {
+          "description": "Endocrinology, Diabetes and Metabolism Grand Rounds · Gastroenterology and Hepatology Grand Rounds · Health Services Research Grand Rounds · Immunology, Allergy ...",
+          "source_info_link": "https://www.bcm.edu/departments/medicine/education/grand-rounds",
+          "icon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBlZ5dZSnP-fTkfrAFr5hFImuQdHDVlGde1UXAcZBZ6c6.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bcm.edu/departments/medicine/education/grand-rounds&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bcm.edu%2Fdepartments%2Fmedicine%2Feducation%2Fgrand-rounds",
+      "missing": [
+        "Brian"
+      ],
+      "must_include": {
+        "word": "Brian",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=%22Brian%22+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ5t4CegQILhAB"
+      },
+      "source": "Baylor College of Medicine | BCM"
+    },
+    {
+      "position": 6,
+      "title": "The Guide to the Palm Beaches 2026",
+      "link": "https://issuu.com/passportpublications/docs/the_guide_to_the_palm_beaches_2026_af48d8c9ee2dd9?fr=sYmU4NTkwNDYyNzU",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://issuu.com/passportpublications/docs/the_guide_to_the_palm_beaches_2026_af48d8c9ee2dd9%3Ffr%3DsYmU4NTkwNDYyNzU&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQFnoECBgQAQ",
+      "displayed_link": "https://issuu.com › passportpublications › docs",
+      "favicon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBr2ojKohsFpXdTwWQZL-07M.png",
+      "date": "Jan 12, 2026",
+      "snippet": "Downtown West Palm Beach is a hub for arts and culture, featuring the Kravis Center for the Performing Arts, Norton Museum of Art, Armory Art ...",
+      "snippet_highlighted_words": [
+        "Center"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Downtown West Palm Beach is a hub for arts and culture, featuring the Kravis Center for the Performing Arts, Norton Museum of Art, Armory Art ...",
+          "source_info_link": "https://issuu.com/passportpublications/docs/the_guide_to_the_palm_beaches_2026_af48d8c9ee2dd9?fr=sYmU4NTkwNDYyNzU",
+          "icon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBvkVdLeKqPcUpvhEk6qjr19MvVhBbOQkT3m4HXPXlTWE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://issuu.com/passportpublications/docs/the_guide_to_the_palm_beaches_2026_af48d8c9ee2dd9?fr=sYmU4NTkwNDYyNzU&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fissuu.com%2Fpassportpublications%2Fdocs%2Fthe_guide_to_the_palm_beaches_2026_af48d8c9ee2dd9%3Ffr%3DsYmU4NTkwNDYyNzU",
+      "source": "Issuu"
+    },
+    {
+      "position": 7,
+      "title": "Antimicrobial Prescribing, Population Use and Resistance, ...",
+      "link": "https://mdpi-res.com/bookfiles/book/10043/Antimicrobial_Prescribing_Population_Use_and_Resistance_Impact_in_Global_Health.pdf?v=1742177398",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mdpi-res.com/bookfiles/book/10043/Antimicrobial_Prescribing_Population_Use_and_Resistance_Impact_in_Global_Health.pdf%3Fv%3D1742177398&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQFnoECBoQAQ",
+      "displayed_link": "https://mdpi-res.com › bookfiles › book › Antim...",
+      "favicon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBoAQxjqzHtrVNoNrNvQo7N8.png",
+      "date": "Mar 11, 2023",
+      "snippet": "Juan Manuel Vázquez-Lago. I graduated with Honors in Medicine and Surgery from the University of Santiago de. Compostela in 2004.",
+      "about_this_result": {
+        "source": {
+          "description": "Juan Manuel Vázquez-Lago. I graduated with Honors in Medicine and Surgery from the University of Santiago de. Compostela in 2004.",
+          "source_info_link": "https://mdpi-res.com/bookfiles/book/10043/Antimicrobial_Prescribing_Population_Use_and_Resistance_Impact_in_Global_Health.pdf?v=1742177398",
+          "icon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBgCUhjx-xS3cQHzfD_gtpYI5w77Vsv7TGgxHnYCokZm6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mdpi-res.com/bookfiles/book/10043/Antimicrobial_Prescribing_Population_Use_and_Resistance_Impact_in_Global_Health.pdf?v=1742177398&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmdpi-res.com%2Fbookfiles%2Fbook%2F10043%2FAntimicrobial_Prescribing_Population_Use_and_Resistance_Impact_in_Global_Health.pdf%3Fv%3D1742177398",
+      "source": "MDPI"
+    },
+    {
+      "position": 8,
+      "title": "Congratulations, Class of 2010! - Columbia College",
+      "link": "https://www.yumpu.com/en/document/view/33766994/congratulations-class-of-2010-columbia-college-columbia-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yumpu.com/en/document/view/33766994/congratulations-class-of-2010-columbia-college-columbia-&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQFnoECEEQAQ",
+      "displayed_link": "https://www.yumpu.com › document › view › congratu...",
+      "favicon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBgNabF6mG4KVyNkILzdXpA8.png",
+      "date": "Feb 1, 2014",
+      "snippet": "Leverage SEO-optimized Flipbooks, powerful backlinks, and multimedia content to professionally showcase your products and significantly increase ...",
+      "about_this_result": {
+        "source": {
+          "description": "Leverage SEO-optimized Flipbooks, powerful backlinks, and multimedia content to professionally showcase your products and significantly increase ...",
+          "source_info_link": "https://www.yumpu.com/en/document/view/33766994/congratulations-class-of-2010-columbia-college-columbia-",
+          "icon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBiki8G1LAt60fCtdf2_ZtoVSTwrG9IucF35dfwAym6zE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.yumpu.com/en/document/view/33766994/congratulations-class-of-2010-columbia-college-columbia-&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.yumpu.com%2Fen%2Fdocument%2Fview%2F33766994%2Fcongratulations-class-of-2010-columbia-college-columbia-",
+      "source": "YUMPU"
+    },
+    {
+      "position": 9,
+      "title": "Caitlin Rourk",
+      "link": "https://ballotpedia.org/Caitlin_Rourk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Caitlin_Rourk&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQFnoECEAQAQ",
+      "displayed_link": "https://ballotpedia.org › Caitlin_Rourk",
+      "favicon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBkDKNOQ7lJp90ntfRyrojSA.png",
+      "snippet": "The general election will occur on November 3, 2026. The candidate list in this election may not be complete. General election for U.S. House Texas District 10.",
+      "snippet_highlighted_words": [
+        "U.S. House Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The general election will occur on November 3, 2026. The candidate list in this election may not be complete. General election for U.S. House Texas District 10.",
+          "source_info_link": "https://ballotpedia.org/Caitlin_Rourk",
+          "icon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBgyoqP16_PR6S7svUBhsbvO_2CCto24sky2HQYz9bbXO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Caitlin_Rourk&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FCaitlin_Rourk",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 10,
+      "title": "Beshear Complaint Petitions | PDF | Subpoena",
+      "link": "https://www.scribd.com/document/470259613/Beshear-Complaint-Petitions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/470259613/Beshear-Complaint-Petitions&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQFnoECEIQAQ",
+      "displayed_link": "https://www.scribd.com › document › Beshear-Complai...",
+      "favicon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBvLj85bF7rCMVNPiQBmuEEc.png",
+      "snippet": "Filed 20-CI-02157 07/22/2020 NOT ORIGINAL. Vincent Riggs, Fayette Circuit Clerk DOCUMENT. 07/24/2020 [Link] AM WKYT. COMMONWEALTH OF KENTUCKY",
+      "about_this_result": {
+        "source": {
+          "description": "Filed 20-CI-02157 07/22/2020 NOT ORIGINAL. Vincent Riggs, Fayette Circuit Clerk DOCUMENT. 07/24/2020 [Link] AM WKYT. COMMONWEALTH OF KENTUCKY",
+          "source_info_link": "https://www.scribd.com/document/470259613/Beshear-Complaint-Petitions",
+          "icon": "https://serpapi.com/searches/69bb5e451dcfe29d362e2b80/images/r7r99X5Eode8Rn3fFsrpBmcffB-SaAJIl-cQSoU7N-QK3Rpv7wxvevrsoG6EYNXr.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.scribd.com/document/470259613/Beshear-Complaint-Petitions&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.scribd.com%2Fdocument%2F470259613%2FBeshear-Complaint-Petitions",
+      "source": "Scribd"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=R167aebUK5CU5OUPmbPSiQ4&start=10&sa=N&sstk=Af77f_dxyBLNHSUwy-8sdaOebYmfPn7X8Rg2BWVjGu-HysT_ukROP0-lfh9tp8bn3_InJacMQhfRHpiolEwAipZkEpQDGeqV1F9_9A&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ8NMDegQIDBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=R167aebUK5CU5OUPmbPSiQ4&start=10&sa=N&sstk=Af77f_dxyBLNHSUwy-8sdaOebYmfPn7X8Rg2BWVjGu-HysT_ukROP0-lfh9tp8bn3_InJacMQhfRHpiolEwAipZkEpQDGeqV1F9_9A&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=R167aebUK5CU5OUPmbPSiQ4&start=20&sa=N&sstk=Af77f_dxyBLNHSUwy-8sdaOebYmfPn7X8Rg2BWVjGu-HysT_ukROP0-lfh9tp8bn3_InJacMQhfRHpiolEwAipZkEpQDGeqV1F9_9A&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=R167aebUK5CU5OUPmbPSiQ4&start=30&sa=N&sstk=Af77f_dxyBLNHSUwy-8sdaOebYmfPn7X8Rg2BWVjGu-HysT_ukROP0-lfh9tp8bn3_InJacMQhfRHpiolEwAipZkEpQDGeqV1F9_9A&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=R167aebUK5CU5OUPmbPSiQ4&start=40&sa=N&sstk=Af77f_dxyBLNHSUwy-8sdaOebYmfPn7X8Rg2BWVjGu-HysT_ukROP0-lfh9tp8bn3_InJacMQhfRHpiolEwAipZkEpQDGeqV1F9_9A&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ8tMDegQIDBAK",
+      "6": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=R167aebUK5CU5OUPmbPSiQ4&start=50&sa=N&sstk=Af77f_dxyBLNHSUwy-8sdaOebYmfPn7X8Rg2BWVjGu-HysT_ukROP0-lfh9tp8bn3_InJacMQhfRHpiolEwAipZkEpQDGeqV1F9_9A&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ8tMDegQIDBAM",
+      "7": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=R167aebUK5CU5OUPmbPSiQ4&start=60&sa=N&sstk=Af77f_dxyBLNHSUwy-8sdaOebYmfPn7X8Rg2BWVjGu-HysT_ukROP0-lfh9tp8bn3_InJacMQhfRHpiolEwAipZkEpQDGeqV1F9_9A&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ8tMDegQIDBAO",
+      "8": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=R167aebUK5CU5OUPmbPSiQ4&start=70&sa=N&sstk=Af77f_dxyBLNHSUwy-8sdaOebYmfPn7X8Rg2BWVjGu-HysT_ukROP0-lfh9tp8bn3_InJacMQhfRHpiolEwAipZkEpQDGeqV1F9_9A&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ8tMDegQIDBAQ",
+      "9": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=R167aebUK5CU5OUPmbPSiQ4&start=80&sa=N&sstk=Af77f_dxyBLNHSUwy-8sdaOebYmfPn7X8Rg2BWVjGu-HysT_ukROP0-lfh9tp8bn3_InJacMQhfRHpiolEwAipZkEpQDGeqV1F9_9A&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ8tMDegQIDBAS",
+      "10": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=R167aebUK5CU5OUPmbPSiQ4&start=90&sa=N&sstk=Af77f_dxyBLNHSUwy-8sdaOebYmfPn7X8Rg2BWVjGu-HysT_ukROP0-lfh9tp8bn3_InJacMQhfRHpiolEwAipZkEpQDGeqV1F9_9A&ved=2ahUKEwimlOea9KqTAxUQCrkGHZmZNOEQ8tMDegQIDBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brian+Trautner+US+House+TX-31+Central+Texas+LinkedIn&start=90"
+    }
+  }
+}

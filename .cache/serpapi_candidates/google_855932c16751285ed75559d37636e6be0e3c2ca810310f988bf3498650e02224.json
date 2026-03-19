@@ -1,0 +1,345 @@
+{
+  "search_metadata": {
+    "id": "69bb5d753d34dd5b82030330",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/olyVmOfNekRUTKRKrRehdw/69bb5d753d34dd5b82030330.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/olyVmOfNekRUTKRKrRehdw/69bb5d753d34dd5b82030330.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:37 UTC",
+    "processed_at": "2026-03-19 02:20:37 UTC",
+    "google_url": "https://www.google.com/search?q=Charles+Hollinger+%22CTC+Trustee+Place+2%22+%22Central+Texas%22+Facebook&oq=Charles+Hollinger+%22CTC+Trustee+Place+2%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/olyVmOfNekRUTKRKrRehdw/69bb5d753d34dd5b82030330.html",
+    "total_time_taken": 1.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Charles Hollinger \"CTC Trustee Place 2\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Charles Hollinger \"CTC Trustee Place 2\" \"Central Texas\" Facebook",
+    "total_results": 469,
+    "time_taken_displayed": 0.82,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Charles Hollinger CTC Trustee Place 2 Central Texas Facebook",
+    "spelling_fix": "Charles Hollinger CTC Trustee Place 2 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Candidates for CTC Board answer questions about their role",
+      "link": "https://kdhnews.com/centerforpolitics/candidates-for-ctc-board-answer-questions-about-their-role/article_0cfd3b1f-2019-41af-ad72-6463852b8d25.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/candidates-for-ctc-board-answer-questions-about-their-role/article_0cfd3b1f-2019-41af-ad72-6463852b8d25.html&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8QFnoECCEQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › candidates-for...",
+      "favicon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3aumIZVEs-XZ9ht2jCJ0tyEw.png",
+      "date": "Apr 20, 2025",
+      "snippet": "The vision of Central Texas College Central Texas College is to be a leader in providing innovative academic, technical, continuing and ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The vision of Central Texas College Central Texas College is to be a leader in providing innovative academic, technical, continuing and ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/candidates-for-ctc-board-answer-questions-about-their-role/article_0cfd3b1f-2019-41af-ad72-6463852b8d25.html",
+          "icon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3ariPYgApr2LqfGJ_u8IgGibr0xRIzVRiXaiSlPBuyV8o.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/candidates-for-ctc-board-answer-questions-about-their-role/article_0cfd3b1f-2019-41af-ad72-6463852b8d25.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fcandidates-for-ctc-board-answer-questions-about-their-role%2Farticle_0cfd3b1f-2019-41af-ad72-6463852b8d25.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "Candidate Video: Charles Hollinger CTC Board of Trustees ...",
+      "link": "https://www.youtube.com/watch?v=e3EN3odubMA",
+      "displayed_link": "120+ views · 6 years ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3aoeqWMNkpHZDHw5whLyQa7Q.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3at6Ca-r6_1OfXa3eOnfvKSg.png",
+      "snippet": "Charles Hollinger answers questions provided by The Killeen Daily Herald.",
+      "duration": "1:49",
+      "about_this_result": {
+        "source": {
+          "description": "Charles Hollinger answers questions provided by The Killeen Daily Herald.",
+          "source_info_link": "https://www.youtube.com/watch?v=e3EN3odubMA",
+          "icon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3akIk4ujPnuwhu-HthBGEUapTzOdPARRlKDMBhx6F7As9.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=e3EN3odubMA&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De3EN3odubMA",
+      "missing": [
+        "Trustee",
+        "Central",
+        "Texas",
+        "Facebook"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTArcDDfVyXaa-BiRzeb1S1F5XGRrKiMtexlQ",
+      "source": "YouTube · Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Charles Hollinger's Instagram, Twitter & Facebook on ...",
+      "link": "https://www.idcrawl.com/charles-hollinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.idcrawl.com/charles-hollinger&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8QFnoECCcQAQ",
+      "displayed_link": "https://www.idcrawl.com › 🔍 C › Charles...Horace",
+      "favicon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3at8x4KXk0ExByrJb9djVB-c.png",
+      "snippet": "Looking for Charles Hollinger? Found 85 people named Charles Hollinger. Instagram, Twitter, Facebook, TikTok profiles, and images on IDCrawl - free people ...",
+      "snippet_highlighted_words": [
+        "Charles Hollinger",
+        "Charles Hollinger",
+        "Facebook"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Looking for Charles Hollinger? Found 85 people named Charles Hollinger. Instagram, Twitter, Facebook, TikTok profiles, and images on IDCrawl - free people ...",
+          "source_info_link": "https://www.idcrawl.com/charles-hollinger",
+          "icon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3arwcgCwEBlu-y3xNwDtH-HOjZtb26G19UXOQr0U5A5L9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.idcrawl.com/charles-hollinger&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.idcrawl.com%2Fcharles-hollinger",
+      "source": "IDCrawl"
+    },
+    {
+      "position": 4,
+      "title": "IRS-CI Fiscal Year 2015 Annual Business Report",
+      "link": "http://static.politico.com/ce/83/57c6e30947a28db189dc95c27fe5/irs-2015-criminal-investigations-report.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://static.politico.com/ce/83/57c6e30947a28db189dc95c27fe5/irs-2015-criminal-investigations-report.pdf&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8QFnoECCAQAQ",
+      "displayed_link": "http://static.politico.com › irs-2015-criminal-invest...",
+      "date": "Sep 23, 2014",
+      "snippet": "23, 2015, to conspiracy to commit mail and wire fraud, wire fraud, mail fraud and tax evasion for his role in a scheme to fraudulently gain ...",
+      "about_this_result": {
+        "source": {
+          "description": "23, 2015, to conspiracy to commit mail and wire fraud, wire fraud, mail fraud and tax evasion for his role in a scheme to fraudulently gain ...",
+          "source_info_link": "http://static.politico.com/ce/83/57c6e30947a28db189dc95c27fe5/irs-2015-criminal-investigations-report.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://static.politico.com/ce/83/57c6e30947a28db189dc95c27fe5/irs-2015-criminal-investigations-report.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Fstatic.politico.com%2Fce%2F83%2F57c6e30947a28db189dc95c27fe5%2Firs-2015-criminal-investigations-report.pdf",
+      "source": "Politico"
+    },
+    {
+      "position": 5,
+      "title": "Full text of \"Flashlight 2005 Spring [Student Newspaper]\"",
+      "link": "https://archive.org/stream/Flashlight2005Spring/Flashlight%202005%20Spring_djvu.txt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://archive.org/stream/Flashlight2005Spring/Flashlight%25202005%2520Spring_djvu.txt&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8QFnoECB4QAQ",
+      "displayed_link": "https://archive.org › stream",
+      "favicon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3auFLLpaN_nhY6KKziXERBxM.png",
+      "snippet": "Full text of \"Flashlight 2005 Spring [Student Newspaper]\". See other formats. Mansfield University ♢> Volume 86, Issue 1 ♢ Thursday, January 20, ...",
+      "about_this_result": {
+        "source": {
+          "description": "Full text of \"Flashlight 2005 Spring [Student Newspaper]\". See other formats. Mansfield University ♢> Volume 86, Issue 1 ♢ Thursday, January 20, ...",
+          "source_info_link": "https://archive.org/stream/Flashlight2005Spring/Flashlight%202005%20Spring_djvu.txt",
+          "icon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3aokRe859atfizmDJGcQTk14xNIX9bTufLnTqUJREmSoh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://archive.org/stream/Flashlight2005Spring/Flashlight%202005%20Spring_djvu.txt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Farchive.org%2Fstream%2FFlashlight2005Spring%2FFlashlight%25202005%2520Spring_djvu.txt",
+      "source": "Archive"
+    },
+    {
+      "position": 6,
+      "title": "PATENTS",
+      "link": "http://pericles.ipaustralia.gov.au/ols/epublish/content/olsPatentsPdfDownload?id=655",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://pericles.ipaustralia.gov.au/ols/epublish/content/olsPatentsPdfDownload%3Fid%3D655&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8QFnoECB8QAQ",
+      "displayed_link": "http://pericles.ipaustralia.gov.au › ols › content",
+      "favicon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3amE2rhL2GYJVW-HYg6CJcz4.png",
+      "date": "Oct 24, 2013",
+      "snippet": "The Australian Official Journal of Patents (AOJP) and the Supplement to the AOJP reports all major events and actions which take place ...",
+      "snippet_highlighted_words": [
+        "place"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Australian Official Journal of Patents (AOJP) and the Supplement to the AOJP reports all major events and actions which take place ...",
+          "source_info_link": "http://pericles.ipaustralia.gov.au/ols/epublish/content/olsPatentsPdfDownload?id=655",
+          "icon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3ah0amFkivG872xCvs3WVmQbKNia1YfYoKELge7nOoHH-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://pericles.ipaustralia.gov.au/ols/epublish/content/olsPatentsPdfDownload?id=655&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Fpericles.ipaustralia.gov.au%2Fols%2Fepublish%2Fcontent%2FolsPatentsPdfDownload%3Fid%3D655",
+      "source": "IP Australia"
+    },
+    {
+      "position": 7,
+      "title": "Tax Mob Member List | PDF | Financial Services | Business",
+      "link": "https://www.scribd.com/document/959510231/Tax-Mob-Member-List",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/959510231/Tax-Mob-Member-List&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8QFnoECB0QAQ",
+      "displayed_link": "https://www.scribd.com › document › Tax-Mob-Memb...",
+      "favicon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3av7aeDt43uYFm4WDs0Qlvyg.png",
+      "snippet": "Owner/Tax Preparer at C & C Tax and Accounting Inc. Mary P Rogers Joined about 2 years ago. Enrolled Agent - Owner at MPR Taxes and Representation Mariela Ramos",
+      "snippet_highlighted_words": [
+        "2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Owner/Tax Preparer at C & C Tax and Accounting Inc. Mary P Rogers Joined about 2 years ago. Enrolled Agent - Owner at MPR Taxes and Representation Mariela Ramos",
+          "source_info_link": "https://www.scribd.com/document/959510231/Tax-Mob-Member-List",
+          "icon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3anmbZRgkkunNzDInOiCiVEH3NMlwtm7w_uWOeRBdR9LS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.scribd.com/document/959510231/Tax-Mob-Member-List&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.scribd.com%2Fdocument%2F959510231%2FTax-Mob-Member-List",
+      "source": "Scribd"
+    },
+    {
+      "position": 8,
+      "title": "Candidate Video: Charles Hollinger CTC Board of Trustees ...",
+      "link": "https://kdhnews.com/centerforpolitics/candidates/candidate-video-charles-hollinger-ctc-board-of-trustees-candidate/youtube_56aa6e72-5713-11e9-80d0-1b14845c7d80.html",
+      "displayed_link": "https://kdhnews.com · Apr 4, 2019",
+      "thumbnail": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3auWOPQCqmDI9YwyDCDY3mWE.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3aivjHaclPPcy8kq7IHMHifM.png",
+      "snippet": "I would like to have a seat at the board so that as the next series of decisions gets made I can bring to bear the experience and training a CTC board member.",
+      "duration": "1:49",
+      "about_this_result": {
+        "source": {
+          "description": "I would like to have a seat at the board so that as the next series of decisions gets made I can bring to bear the experience and training a CTC board member.",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/candidates/candidate-video-charles-hollinger-ctc-board-of-trustees-candidate/youtube_56aa6e72-5713-11e9-80d0-1b14845c7d80.html",
+          "icon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3an6aMHrKkau1vfIg0faDc-LiA4lHYOSAODXTuNA0BDRF.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/candidates/candidate-video-charles-hollinger-ctc-board-of-trustees-candidate/youtube_56aa6e72-5713-11e9-80d0-1b14845c7d80.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fcandidates%2Fcandidate-video-charles-hollinger-ctc-board-of-trustees-candidate%2Fyoutube_56aa6e72-5713-11e9-80d0-1b14845c7d80.html",
+      "missing": [
+        "Trustee",
+        "2"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTArcDDfVyXaa-BiRzeb1S1F5XGRrKiMtexlQ",
+      "source": "The Killeen Daily Herald · Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "333333 23135851162 the 13151942776 of 12997637966",
+      "link": "https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8QFnoECDYQAQ",
+      "displayed_link": "https://www.cs.princeton.edu › testing › words-333333",
+      "favicon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3at7zflnX7dhEIkuxjywE8sY.png",
+      "snippet": "... place 220812328 end 220709925 following 220626128 download 220523502 h 219516023 him 219190105 without 218945655 per 217986984 access 217856550 think ...",
+      "snippet_highlighted_words": [
+        "place"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... place 220812328 end 220709925 following 220626128 download 220523502 h 219516023 him 219190105 without 218945655 per 217986984 access 217856550 think ...",
+          "source_info_link": "https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt",
+          "icon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3as_VMZf__feP3KzeAeYz4udEFcQfFPhmtmpXN0fLL_4D.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cs.princeton.edu%2Fcourses%2Farchive%2Fspring18%2Fcos226%2Fassignments%2Fautocomplete%2Ftesting%2Fwords-333333.txt",
+      "source": "Princeton University"
+    },
+    {
+      "position": 10,
+      "title": "2025-ISGAP-Oxford-Summer-Institute- ...",
+      "link": "https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8QFnoECDMQAQ",
+      "displayed_link": "https://isgap.org › wp-content › uploads › 2025/08",
+      "favicon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3arNTMC4jvq68mPM-Su0yIto.png",
+      "date": "Aug 7, 2025",
+      "snippet": "Charles convened groundbreaking academic seminar series in the emerging field of contemporary antisemitism studies at Columbia University, ...",
+      "snippet_highlighted_words": [
+        "Charles"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 67
+          },
+          "extensions": [
+            "67 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Charles convened groundbreaking academic seminar series in the emerging field of contemporary antisemitism studies at Columbia University, ...",
+          "source_info_link": "https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d753d34dd5b82030330/images/UYSsE5YQPaW6PmkHIAP3agUVPsWw6dEpKoE9_N2CFFfPGo1gVLbM2_q3GBes98Dw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fisgap.org%2Fwp-content%2Fuploads%2F2025%2F08%2F2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+      "source": "ISGAP"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=dV27admXFtSOwbkP5reu-AE&start=10&sa=N&sstk=Af77f_fHQeloetvVxEYKQUAG1NOLE1PniNCo-6cCq_21XMijkiq4_N7gcrxf0dKq42GuTNt3_CrqupmDW04rft1pFLuAKe-3Lnfj9g&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8Q8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=dV27admXFtSOwbkP5reu-AE&start=10&sa=N&sstk=Af77f_fHQeloetvVxEYKQUAG1NOLE1PniNCo-6cCq_21XMijkiq4_N7gcrxf0dKq42GuTNt3_CrqupmDW04rft1pFLuAKe-3Lnfj9g&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8Q8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=dV27admXFtSOwbkP5reu-AE&start=20&sa=N&sstk=Af77f_fHQeloetvVxEYKQUAG1NOLE1PniNCo-6cCq_21XMijkiq4_N7gcrxf0dKq42GuTNt3_CrqupmDW04rft1pFLuAKe-3Lnfj9g&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8Q8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=dV27admXFtSOwbkP5reu-AE&start=30&sa=N&sstk=Af77f_fHQeloetvVxEYKQUAG1NOLE1PniNCo-6cCq_21XMijkiq4_N7gcrxf0dKq42GuTNt3_CrqupmDW04rft1pFLuAKe-3Lnfj9g&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8Q8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=dV27admXFtSOwbkP5reu-AE&start=40&sa=N&sstk=Af77f_fHQeloetvVxEYKQUAG1NOLE1PniNCo-6cCq_21XMijkiq4_N7gcrxf0dKq42GuTNt3_CrqupmDW04rft1pFLuAKe-3Lnfj9g&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8Q8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=dV27admXFtSOwbkP5reu-AE&start=50&sa=N&sstk=Af77f_fHQeloetvVxEYKQUAG1NOLE1PniNCo-6cCq_21XMijkiq4_N7gcrxf0dKq42GuTNt3_CrqupmDW04rft1pFLuAKe-3Lnfj9g&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8Q8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=dV27admXFtSOwbkP5reu-AE&start=60&sa=N&sstk=Af77f_fHQeloetvVxEYKQUAG1NOLE1PniNCo-6cCq_21XMijkiq4_N7gcrxf0dKq42GuTNt3_CrqupmDW04rft1pFLuAKe-3Lnfj9g&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8Q8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=dV27admXFtSOwbkP5reu-AE&start=70&sa=N&sstk=Af77f_fHQeloetvVxEYKQUAG1NOLE1PniNCo-6cCq_21XMijkiq4_N7gcrxf0dKq42GuTNt3_CrqupmDW04rft1pFLuAKe-3Lnfj9g&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8Q8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=dV27admXFtSOwbkP5reu-AE&start=80&sa=N&sstk=Af77f_fHQeloetvVxEYKQUAG1NOLE1PniNCo-6cCq_21XMijkiq4_N7gcrxf0dKq42GuTNt3_CrqupmDW04rft1pFLuAKe-3Lnfj9g&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8Q8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=dV27admXFtSOwbkP5reu-AE&start=90&sa=N&sstk=Af77f_fHQeloetvVxEYKQUAG1NOLE1PniNCo-6cCq_21XMijkiq4_N7gcrxf0dKq42GuTNt3_CrqupmDW04rft1pFLuAKe-3Lnfj9g&ved=2ahUKEwiZpsC286qTAxVURzABHeabCx8Q8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Facebook&start=90"
+    }
+  }
+}

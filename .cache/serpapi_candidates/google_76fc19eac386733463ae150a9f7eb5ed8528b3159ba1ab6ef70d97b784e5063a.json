@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "69bb5df4231ffe31095cda59",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_CoqkyOwXUnMN_W-zswHag/69bb5df4231ffe31095cda59.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_CoqkyOwXUnMN_W-zswHag/69bb5df4231ffe31095cda59.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:44 UTC",
+    "processed_at": "2026-03-19 02:22:44 UTC",
+    "google_url": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Steven+Clay+Dowell+Jr.+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_CoqkyOwXUnMN_W-zswHag/69bb5df4231ffe31095cda59.html",
+    "total_time_taken": 1.19
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Steven Clay Dowell Jr. \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Steven Clay Dowell Jr. \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 0,
+    "time_taken_displayed": 0.46,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

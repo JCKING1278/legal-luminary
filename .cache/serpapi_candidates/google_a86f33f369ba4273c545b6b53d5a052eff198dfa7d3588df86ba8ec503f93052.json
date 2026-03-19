@@ -1,0 +1,372 @@
+{
+  "search_metadata": {
+    "id": "69bb5e91556ce31115822fcb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/AYx3a0wivq3_o6vORxjakg/69bb5e91556ce31115822fcb.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/AYx3a0wivq3_o6vORxjakg/69bb5e91556ce31115822fcb.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:21 UTC",
+    "processed_at": "2026-03-19 02:25:21 UTC",
+    "google_url": "https://www.google.com/search?q=Joseph+Solomon+%22Killeen+Council+D2%22+%22Killeen%22+LinkedIn&oq=Joseph+Solomon+%22Killeen+Council+D2%22+%22Killeen%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/AYx3a0wivq3_o6vORxjakg/69bb5e91556ce31115822fcb.html",
+    "total_time_taken": 1.23
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Joseph Solomon \"Killeen Council D2\" \"Killeen\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Joseph Solomon \"Killeen Council D2\" \"Killeen\" LinkedIn",
+    "total_results": 2490,
+    "time_taken_displayed": 0.57,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Joseph Solomon Killeen Council D2 Killeen LinkedIn",
+    "spelling_fix": "Joseph Solomon Killeen Council D2 Killeen LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "joe solomon solomon - Killeen, Texas, United States",
+      "link": "https://www.linkedin.com/in/joe-solomon-solomon-1162b3114",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joe-solomon-solomon-1162b3114&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQFnoECB4QAQ",
+      "displayed_link": "https://www.linkedin.com › joe-solomon-solomon-1162...",
+      "favicon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5s2Y-ht1SKlN5_6Rylcto-mA.png",
+      "snippet": "Education: Baylor University · Location: Killeen. View joe solomon solomon's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "joe solomon",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Education: Baylor University · Location: Killeen. View joe solomon solomon's profile on LinkedIn, a professional community of 1 billion members.",
+          "source_info_link": "https://www.linkedin.com/in/joe-solomon-solomon-1162b3114",
+          "icon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5s6_ZVrLf5fakA1fB6oyHq19nWHm3OlWuelYj-fjtcQc4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/joe-solomon-solomon-1162b3114&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoe-solomon-solomon-1162b3114",
+      "missing": [
+        "Council",
+        "D2"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 2,
+      "title": "Staff Directory • Joseph Solomon",
+      "link": "https://www.killeentexas.gov/directory.aspx?EID=197",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.killeentexas.gov/directory.aspx%3FEID%3D197&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQFnoECCEQAQ",
+      "displayed_link": "https://www.killeentexas.gov › directory",
+      "favicon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5s7qHgxojWJtNrYub7EyIfa8.png",
+      "snippet": "Joseph Solomon Sr. is a military veteran who brings a unique perspective and a strong sense of duty to his community service.",
+      "snippet_highlighted_words": [
+        "Joseph Solomon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Joseph Solomon Sr. is a military veteran who brings a unique perspective and a strong sense of duty to his community service.",
+          "source_info_link": "https://www.killeentexas.gov/directory.aspx?EID=197",
+          "icon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5sxqJUNChjYoeYojOrxpZyetzLK6wIII8eHUyFEKjzoJO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.killeentexas.gov/directory.aspx?EID=197&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.killeentexas.gov%2Fdirectory.aspx%3FEID%3D197",
+      "missing": [
+        "D2"
+      ],
+      "must_include": {
+        "word": "D2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Joseph+Solomon+Killeen+Council+%22D2%22+Killeen+LinkedIn&sa=X&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQ5t4CegQIMRAB"
+      },
+      "source": "City of Killeen, TX (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Joseph Solomon (Killeen City Council District 2, Texas ...",
+      "link": "https://ballotpedia.org/Joseph_Solomon_(Killeen_City_Council_District_2,_Texas,_candidate_2025)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Joseph_Solomon_(Killeen_City_Council_District_2,_Texas,_candidate_2025)&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQFnoECB8QAQ",
+      "displayed_link": "https://ballotpedia.org › Joseph_Solomon_(Killeen_City_...",
+      "favicon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5s_TwblXKJZU77AF9b0tFKik.png",
+      "snippet": "Joseph Solomon ran for election to the Killeen City Council to represent District 2 in Texas. Solomon was on the ballot in the general election on May 3, 2025.",
+      "snippet_highlighted_words": [
+        "Joseph Solomon",
+        "Killeen",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Joseph Solomon ran for election to the Killeen City Council to represent District 2 in Texas. Solomon was on the ballot in the general election on May 3, 2025.",
+          "source_info_link": "https://ballotpedia.org/Joseph_Solomon_(Killeen_City_Council_District_2,_Texas,_candidate_2025)",
+          "icon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5syd8jsOl4wf2Zpn82gWYnv08wyeMpmvJB1ny9fdQFsVK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Joseph_Solomon_(Killeen_City_Council_District_2,_Texas,_candidate_2025)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FJoseph_Solomon_%28Killeen_City_Council_District_2%2C_Texas%2C_candidate_2025%29",
+      "missing": [
+        "D2",
+        "LinkedIn"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 4,
+      "title": "Joseph Solomon - Killeen (Texas) City Council (May 2023- ...",
+      "link": "https://www.legistorm.com/person/bio/503516/Joseph_Solomon_Sr_.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.legistorm.com/person/bio/503516/Joseph_Solomon_Sr_.html&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQFnoECCAQAQ",
+      "displayed_link": "https://www.legistorm.com › person › bio › Joseph_Solo...",
+      "snippet": "See more about Joseph Solomon including contact information, employment history and other biographical information.",
+      "snippet_highlighted_words": [
+        "Joseph Solomon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "See more about Joseph Solomon including contact information, employment history and other biographical information.",
+          "source_info_link": "https://www.legistorm.com/person/bio/503516/Joseph_Solomon_Sr_.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.legistorm.com/person/bio/503516/Joseph_Solomon_Sr_.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.legistorm.com%2Fperson%2Fbio%2F503516%2FJoseph_Solomon_Sr_.html",
+      "missing": [
+        "D2"
+      ],
+      "must_include": {
+        "word": "D2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Joseph+Solomon+Killeen+Council+%22D2%22+Killeen+LinkedIn&sa=X&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQ5t4CegQIMBAB"
+      },
+      "source": "LegiStorm"
+    },
+    {
+      "position": 5,
+      "title": "Killeen High standout thought he'd lost a Division II ...",
+      "link": "https://kdhnews.com/kdhpressbox/sportsstats/high_school/schools/killeen/killeen-high-standout-thought-he-d-lost-a-division-ii-scholarship-something-better-came-along/article_171059b4-66e8-11e8-b1d8-93d0a95b72f5.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/kdhpressbox/sportsstats/high_school/schools/killeen/killeen-high-standout-thought-he-d-lost-a-division-ii-scholarship-something-better-came-along/article_171059b4-66e8-11e8-b1d8-93d0a95b72f5.html&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › high_school › schools › killeen",
+      "favicon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5s6NFTtcNl1_nNvAFQeMd4vc.png",
+      "date": "Jun 2, 2018",
+      "snippet": "Montego Muckelvaney watches Killeen High's Maroon and White Spring football game May 24 at Leo Buckley Stadium. The former KHS star will play ...",
+      "snippet_highlighted_words": [
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Montego Muckelvaney watches Killeen High's Maroon and White Spring football game May 24 at Leo Buckley Stadium. The former KHS star will play ...",
+          "source_info_link": "https://kdhnews.com/kdhpressbox/sportsstats/high_school/schools/killeen/killeen-high-standout-thought-he-d-lost-a-division-ii-scholarship-something-better-came-along/article_171059b4-66e8-11e8-b1d8-93d0a95b72f5.html",
+          "icon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5syKcDimg9-HBGXsQdGpdnDIYkAo2WzNvOSKtrMF8NB3z.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/kdhpressbox/sportsstats/high_school/schools/killeen/killeen-high-standout-thought-he-d-lost-a-division-ii-scholarship-something-better-came-along/article_171059b4-66e8-11e8-b1d8-93d0a95b72f5.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fkdhpressbox%2Fsportsstats%2Fhigh_school%2Fschools%2Fkilleen%2Fkilleen-high-standout-thought-he-d-lost-a-division-ii-scholarship-something-better-came-along%2Farticle_171059b4-66e8-11e8-b1d8-93d0a95b72f5.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 6,
+      "title": "Chapter 11 CASH CLOUD, INC.1 Case No. 23-10423 (MKN ...",
+      "link": "https://cases.stretto.com/public/x221/12046/PLEADINGS/1204607142380000000011.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cases.stretto.com/public/x221/12046/PLEADINGS/1204607142380000000011.pdf&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQFnoECB0QAQ",
+      "displayed_link": "https://cases.stretto.com › public › PLEADINGS",
+      "favicon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5szXX_VREAltgmloVABhuDEg.png",
+      "date": "Jul 13, 2023",
+      "snippet": "CREDITS: The amount of all payments on this claim has been credited for the purpose of maNing this proof of claim.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 104
+          },
+          "extensions": [
+            "104 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "CREDITS: The amount of all payments on this claim has been credited for the purpose of maNing this proof of claim.",
+          "source_info_link": "https://cases.stretto.com/public/x221/12046/PLEADINGS/1204607142380000000011.pdf",
+          "icon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5s8igoJPIQ-HoC2NLj-9MVKMzy66CwuUnbm3wCpaOAMc-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cases.stretto.com/public/x221/12046/PLEADINGS/1204607142380000000011.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcases.stretto.com%2Fpublic%2Fx221%2F12046%2FPLEADINGS%2F1204607142380000000011.pdf",
+      "source": "Stretto"
+    },
+    {
+      "position": 7,
+      "title": "f Notice of.tif",
+      "link": "https://veritaglobal.net/documents/1013677/1013677110817000000000001.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veritaglobal.net/documents/1013677/1013677110817000000000001.pdf&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQFnoECBsQAQ",
+      "displayed_link": "https://veritaglobal.net › documents",
+      "favicon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5s7oVDOIW6wAO41ssn9cgrP0.png",
+      "date": "Aug 17, 2011",
+      "snippet": "Name. Notice Name. Address 1. Address 2. City. State. Zip. Assistant Arapahoe County Attorney. George Rosenberg Esq. 5334 S Prince St.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 95
+          },
+          "extensions": [
+            "95 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Name. Notice Name. Address 1. Address 2. City. State. Zip. Assistant Arapahoe County Attorney. George Rosenberg Esq. 5334 S Prince St.",
+          "source_info_link": "https://veritaglobal.net/documents/1013677/1013677110817000000000001.pdf",
+          "icon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5s82X7B92j0Hu5hImebv_LaiyREkoyT-8Xck5xOHsD0P2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veritaglobal.net/documents/1013677/1013677110817000000000001.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveritaglobal.net%2Fdocuments%2F1013677%2F1013677110817000000000001.pdf",
+      "source": "Kurtzman Carson Consultants"
+    },
+    {
+      "position": 8,
+      "title": "AS Names",
+      "link": "https://bgp.potaroo.net/as6447/asnames.txt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bgp.potaroo.net/as6447/asnames.txt&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQFnoECDwQAQ",
+      "displayed_link": "https://bgp.potaroo.net › asnames",
+      "snippet": "... Council Hong Kong, HK AS7578 GSL Global Secure Layer, AU AS7581 POWERNET-AS-AP POWERNET INTERNET GROUP, HK AS7582 UMAC-AS-AP University of Macau, MO AS7585 ...",
+      "snippet_highlighted_words": [
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Council Hong Kong, HK AS7578 GSL Global Secure Layer, AU AS7581 POWERNET-AS-AP POWERNET INTERNET GROUP, HK AS7582 UMAC-AS-AP University of Macau, MO AS7585 ...",
+          "source_info_link": "https://bgp.potaroo.net/as6447/asnames.txt"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bgp.potaroo.net/as6447/asnames.txt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbgp.potaroo.net%2Fas6447%2Fasnames.txt",
+      "source": "BGP Reports"
+    },
+    {
+      "position": 9,
+      "title": "220802 Academic and Educational Goods and Services",
+      "link": "https://www.tips-usa.com/assets/Commoditypdf/220802_Academic_and_Educational_Goods_Svcs_BIDRESP.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tips-usa.com/assets/Commoditypdf/220802_Academic_and_Educational_Goods_Svcs_BIDRESP.pdf&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQFnoECDkQAQ",
+      "displayed_link": "https://www.tips-usa.com › assets › Commoditypdf",
+      "date": "Jul 27, 2022",
+      "snippet": "Supplier. Email Status Response Status. ¡Sí! Bilingual Books, Inc. (Si Bilingual Books). No Response. 1 Stop IT Solutions. No Response.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 214
+          },
+          "extensions": [
+            "214 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Supplier. Email Status Response Status. ¡Sí! Bilingual Books, Inc. (Si Bilingual Books). No Response. 1 Stop IT Solutions. No Response.",
+          "source_info_link": "https://www.tips-usa.com/assets/Commoditypdf/220802_Academic_and_Educational_Goods_Svcs_BIDRESP.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tips-usa.com/assets/Commoditypdf/220802_Academic_and_Educational_Goods_Svcs_BIDRESP.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tips-usa.com%2Fassets%2FCommoditypdf%2F220802_Academic_and_Educational_Goods_Svcs_BIDRESP.pdf",
+      "source": "TIPS-USA"
+    },
+    {
+      "position": 10,
+      "title": "Assignment | Management homework help",
+      "link": "https://www.sweetstudy.com/files/businessethicscasestudiesandselectedreadingsmindtapcourselist9thedition-pdf-7942619",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sweetstudy.com/files/businessethicscasestudiesandselectedreadingsmindtapcourselist9thedition-pdf-7942619&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQFnoECD0QAQ",
+      "displayed_link": "https://www.sweetstudy.com › ... › ASSIGNMENT",
+      "favicon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5s9RzKDokRUeniUUVQqA7jSI.png",
+      "snippet": "MindTap® Business Law is the dig- ital learning solution that powers students from memorization to mastery . It gives you complete control of your course—to ...",
+      "about_this_result": {
+        "source": {
+          "description": "MindTap® Business Law is the dig- ital learning solution that powers students from memorization to mastery . It gives you complete control of your course—to ...",
+          "source_info_link": "https://www.sweetstudy.com/files/businessethicscasestudiesandselectedreadingsmindtapcourselist9thedition-pdf-7942619",
+          "icon": "https://serpapi.com/searches/69bb5e91556ce31115822fcb/images/2VJRmT1d1m2D4zoRVjp5sxm8GwEtxCfUnXoUpBmPDCckesgXzvDVIhh1RikOzdfI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sweetstudy.com/files/businessethicscasestudiesandselectedreadingsmindtapcourselist9thedition-pdf-7942619&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sweetstudy.com%2Ffiles%2Fbusinessethicscasestudiesandselectedreadingsmindtapcourselist9thedition-pdf-7942619",
+      "source": "SweetStudy"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=kV67adKlMuvNkPIP7cLWgQo&start=10&sa=N&sstk=Af77f_ccUvUEFXtkdzp48VK1aESxh6YPuIJshISPpE7KppjwALDE49OY_fUR2m2CyWMLhto9Qnv9caG3N1a8r3jlSJlfCV20Sol8sg&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQ8NMDegQICRAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=kV67adKlMuvNkPIP7cLWgQo&start=10&sa=N&sstk=Af77f_ccUvUEFXtkdzp48VK1aESxh6YPuIJshISPpE7KppjwALDE49OY_fUR2m2CyWMLhto9Qnv9caG3N1a8r3jlSJlfCV20Sol8sg&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=kV67adKlMuvNkPIP7cLWgQo&start=20&sa=N&sstk=Af77f_ccUvUEFXtkdzp48VK1aESxh6YPuIJshISPpE7KppjwALDE49OY_fUR2m2CyWMLhto9Qnv9caG3N1a8r3jlSJlfCV20Sol8sg&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=kV67adKlMuvNkPIP7cLWgQo&start=30&sa=N&sstk=Af77f_ccUvUEFXtkdzp48VK1aESxh6YPuIJshISPpE7KppjwALDE49OY_fUR2m2CyWMLhto9Qnv9caG3N1a8r3jlSJlfCV20Sol8sg&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=kV67adKlMuvNkPIP7cLWgQo&start=40&sa=N&sstk=Af77f_ccUvUEFXtkdzp48VK1aESxh6YPuIJshISPpE7KppjwALDE49OY_fUR2m2CyWMLhto9Qnv9caG3N1a8r3jlSJlfCV20Sol8sg&ved=2ahUKEwiSspK-9KqTAxXrJkQIHW2hNaAQ8tMDegQICRAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+LinkedIn&start=40"
+    }
+  }
+}

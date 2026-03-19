@@ -1,0 +1,61 @@
+{
+  "search_metadata": {
+    "id": "69bb5e51974bbb4ab9d92c4f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JpAJ7v0lyglq-teT4fmnhg/69bb5e51974bbb4ab9d92c4f.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/JpAJ7v0lyglq-teT4fmnhg/69bb5e51974bbb4ab9d92c4f.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:17 UTC",
+    "processed_at": "2026-03-19 02:24:17 UTC",
+    "google_url": "https://www.google.com/search?q=Michael+Howard+Williams+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Michael+Howard+Williams+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/JpAJ7v0lyglq-teT4fmnhg/69bb5e51974bbb4ab9d92c4f.html",
+    "total_time_taken": 0.88
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Michael Howard Williams \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Michael Howard Williams \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 1,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "22 candidates running for Congress have signed our pledge ...",
+      "link": "https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/&ved=2ahUKEwjVhr-f9KqTAxU91fACHUfjKB0QFnoECBgQAQ",
+      "displayed_link": "https://www.facebook.com › posts › 22-candidates-run...",
+      "favicon": "https://serpapi.com/searches/69bb5e51974bbb4ab9d92c4f/images/DhQ89oetpTQll8qWRkj1usHAu5McVPqgkgYqplPYcLE.png",
+      "snippet": "... US House TX-31 @Abel_tx31 - Jace Yarbrough, US ... Central Texas Local Politics & Events. Thank you ... Michael Folk@MichaelFolk34WV Senate Nate Cain ...",
+      "snippet_highlighted_words": [
+        "US House TX-31",
+        "Central Texas",
+        "Michael"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... US House TX-31 @Abel_tx31 - Jace Yarbrough, US ... Central Texas Local Politics & Events. Thank you ... Michael Folk@MichaelFolk34WV Senate Nate Cain ...",
+          "source_info_link": "https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/",
+          "icon": "https://serpapi.com/searches/69bb5e51974bbb4ab9d92c4f/images/DhQ89oetpTQll8qWRkj1uoXHK14BzEU1SLi9-DhEJEVdrgxaK1szd17qzKDZMIcg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FDrMaryTalleyBowden%2Fposts%2F22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-%2F936734028884543%2F",
+      "source": "Facebook"
+    }
+  ]
+}

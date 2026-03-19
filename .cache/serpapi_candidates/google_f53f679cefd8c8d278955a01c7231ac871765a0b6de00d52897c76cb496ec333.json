@@ -1,0 +1,263 @@
+{
+  "search_metadata": {
+    "id": "69bb5e35484c0946ebdb1ee6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1SAMYKU3lJmJFkKOxgqLTA/69bb5e35484c0946ebdb1ee6.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/1SAMYKU3lJmJFkKOxgqLTA/69bb5e35484c0946ebdb1ee6.json_with_pixel_position",
+    "created_at": "2026-03-19 02:23:49 UTC",
+    "processed_at": "2026-03-19 02:23:49 UTC",
+    "google_url": "https://www.google.com/search?q=Jack+McConnell+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&oq=Jack+McConnell+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/1SAMYKU3lJmJFkKOxgqLTA/69bb5e35484c0946ebdb1ee6.html",
+    "total_time_taken": 2.38
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Jack McConnell \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Jack McConnell \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "total_results": 6,
+    "time_taken_displayed": 0.45,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Jack McConnell US House TX-31 Central Texas LinkedIn",
+    "spelling_fix": "Jack McConnell US House TX-31 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Jack McConnell - Abhiram Garapati for Congress",
+      "link": "https://www.linkedin.com/in/jackmcconnell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jackmcconnell&ved=2ahUKEwjhyuGS9KqTAxU5PjQIHR_6Ab4QFnoECCEQAQ",
+      "displayed_link": "11.2K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3nKsxR7IgKRvyMwgFgqEBpI.png",
+      "snippet": "Melba Culp's debut album A Darkened Rose was released on September 6th, 2024. … · Experience: Abhiram Garapati for Congress · Education: Round Rock High ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas Metropolitan Area",
+            "Abhiram Garapati for Congress"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Melba Culp's debut album A Darkened Rose was released on September 6th, 2024. … · Experience: Abhiram Garapati for Congress · Education: Round Rock High ...",
+          "source_info_link": "https://www.linkedin.com/in/jackmcconnell",
+          "icon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3sOG5VzL8q7pMNebe1NWnmolYwVx83WOKfV_9QPL33h6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/jackmcconnell&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjackmcconnell",
+      "missing": [
+        "31"
+      ],
+      "must_include": {
+        "word": "31",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jack+McConnell+US+House+TX-+%2231%22+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwjhyuGS9KqTAxU5PjQIHR_6Ab4Q5t4CegQIMhAB"
+      },
+      "source": "LinkedIn · Jack McConnell"
+    },
+    {
+      "position": 2,
+      "title": "60+ \"Jack Mcconnell\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Jack/Mcconnell/us-0-United-States",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Jack/Mcconnell/us-0-United-States&ved=2ahUKEwjhyuGS9KqTAxU5PjQIHR_6Ab4QFnoECB8QAQ",
+      "displayed_link": "https://www.linkedin.com › dir › Jack › us-0-United-States",
+      "favicon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3r6Fy578Urwa-QbUM4NURwU.png",
+      "snippet": "View the profiles of professionals named \"Jack Mcconnell\" on LinkedIn. There are 60+ professionals named \"Jack Mcconnell\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "Jack Mcconnell",
+        "LinkedIn",
+        "Jack Mcconnell",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Jack Mcconnell\" on LinkedIn. There are 60+ professionals named \"Jack Mcconnell\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Jack/Mcconnell/us-0-United-States",
+          "icon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3mOqLgJat5htUVx346LETRCZunF_OkZy1JdEzc8_S6F5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Jack/Mcconnell/us-0-United-States&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FJack%2FMcconnell%2Fus-0-United-States",
+      "missing": [
+        "House",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 3,
+      "title": "Jack McConnell - Clarion Partners LLC",
+      "link": "https://www.linkedin.com/in/jackmcconnell05",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jackmcconnell05&ved=2ahUKEwjhyuGS9KqTAxU5PjQIHR_6Ab4QFnoECCcQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3u9lzD7SukzvfE5NuQlkZZM.png",
+      "snippet": "Experience: Clarion Partners LLC · Education: Texas A&M University · Location: Dallas-Fort Worth Metroplex · 500+ connections on LinkedIn. View Jack ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "LinkedIn",
+        "Jack"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas-Fort Worth Metroplex",
+            "Clarion Partners LLC"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: Clarion Partners LLC · Education: Texas A&M University · Location: Dallas-Fort Worth Metroplex · 500+ connections on LinkedIn. View Jack ...",
+          "source_info_link": "https://www.linkedin.com/in/jackmcconnell05",
+          "icon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3qsULvzwJ8FSULEmKBDrP8r-FDeQA1ISmTJT_jD-fkVb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/jackmcconnell05&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjackmcconnell05",
+      "missing": [
+        "31"
+      ],
+      "must_include": {
+        "word": "31",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jack+McConnell+US+House+TX-+%2231%22+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwjhyuGS9KqTAxU5PjQIHR_6Ab4Q5t4CegQIMRAB"
+      },
+      "source": "LinkedIn · Jack McConnell"
+    },
+    {
+      "position": 4,
+      "title": "JACK MCCONNELL - -none",
+      "link": "https://www.linkedin.com/in/jack-mcconnell-683b85148",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jack-mcconnell-683b85148&ved=2ahUKEwjhyuGS9KqTAxU5PjQIHR_6Ab4QFnoECCAQAQ",
+      "displayed_link": "1 follower",
+      "favicon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3kkVZDjRPcqVaT6oJZ8wUVg.png",
+      "snippet": "Experience: -none- · Location: Mount Ayr · 1 connection on LinkedIn. View JACK MCCONNELL's profile on LinkedIn, a professional community of 1 billion ...",
+      "snippet_highlighted_words": [
+        "LinkedIn",
+        "JACK MCCONNELL's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mount Ayr, Iowa, United States",
+            "-none-"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: -none- · Location: Mount Ayr · 1 connection on LinkedIn. View JACK MCCONNELL's profile on LinkedIn, a professional community of 1 billion ...",
+          "source_info_link": "https://www.linkedin.com/in/jack-mcconnell-683b85148",
+          "icon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3mFF2zthrhabeNiKLOfl8sD540XQiYEh9KgghhlWxGQB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/jack-mcconnell-683b85148&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjack-mcconnell-683b85148",
+      "missing": [
+        "TX-",
+        "31",
+        "Central",
+        "Texas"
+      ],
+      "source": "LinkedIn · JACK MCCONNELL"
+    },
+    {
+      "position": 5,
+      "title": "Jack McConnell - Real Estate Private Equity",
+      "link": "https://www.linkedin.com/in/jack-mcconnell-61813a247",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jack-mcconnell-61813a247&ved=2ahUKEwjhyuGS9KqTAxU5PjQIHR_6Ab4QFnoECCMQAQ",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3u0Q1AQFcSSZ81HmiVP-v24.png",
+      "snippet": "Real Estate Private Equity | Acquisitions & Development · Experience: Integra Investments · Education: University of Arkansas - Sam M. Walton College of ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Miami, Florida, United States",
+            "Investment Associate",
+            "Integra Investments"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Real Estate Private Equity | Acquisitions & Development · Experience: Integra Investments · Education: University of Arkansas - Sam M. Walton College of ...",
+          "source_info_link": "https://www.linkedin.com/in/jack-mcconnell-61813a247",
+          "icon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3k18ehw-Wv42T4y0qIgkJultsLM-jSIw5sLmB9iRTxq1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/jack-mcconnell-61813a247&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjack-mcconnell-61813a247",
+      "missing": [
+        "House"
+      ],
+      "must_include": {
+        "word": "House",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jack+McConnell+US+%22House%22+TX-31+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwjhyuGS9KqTAxU5PjQIHR_6Ab4Q5t4CegQIMxAB"
+      },
+      "source": "LinkedIn · Jack McConnell"
+    },
+    {
+      "position": 6,
+      "title": "Valentina Gomez Noriega",
+      "link": "https://ballotpedia.org/Valentina_Gomez_Noriega",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Valentina_Gomez_Noriega&ved=2ahUKEwjhyuGS9KqTAxU5PjQIHR_6Ab4QFnoECB0QAQ",
+      "displayed_link": "https://ballotpedia.org › Valentina_Gomez_Noriega",
+      "favicon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3q5Ys_WAnUywC-Qw79EfNfM.png",
+      "snippet": "Freeman School of Business in 2020. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Freeman School of Business in 2020. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+          "source_info_link": "https://ballotpedia.org/Valentina_Gomez_Noriega",
+          "icon": "https://serpapi.com/searches/69bb5e35484c0946ebdb1ee6/images/YwqMA6Sm6fO6mNj1wlNw3isZEBQjefdxpa4VeAnGUaLA1lpFlOZaoCmK7zxPPfSy.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Valentina_Gomez_Noriega&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FValentina_Gomez_Noriega",
+      "source": "Ballotpedia"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "search_metadata": {
+    "id": "69bb5caaf357f638977d9748",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RUC0ROOW_tswKIF6Cyt6tw/69bb5caaf357f638977d9748.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/RUC0ROOW_tswKIF6Cyt6tw/69bb5caaf357f638977d9748.json_with_pixel_position",
+    "created_at": "2026-03-19 02:17:14 UTC",
+    "processed_at": "2026-03-19 02:17:14 UTC",
+    "google_url": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/RUC0ROOW_tswKIF6Cyt6tw/69bb5caaf357f638977d9748.html",
+    "total_time_taken": 1.37
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "CTC Trustee Place 4 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "CTC Trustee Place 4 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 10800,
+    "time_taken_displayed": 0.49,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "https://meetings-qa.ctc.ca.gov/MeetingComment/Expo...",
+      "link": "https://meetings-qa.ctc.ca.gov/MeetingComment/ExportToWord",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://meetings-qa.ctc.ca.gov/MeetingComment/ExportToWord&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQFnoECBkQAQ",
+      "displayed_link": "https://meetings-qa.ctc.ca.gov › ExportToWord",
+      "favicon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRoPLrnWiiA5YyphzCzTrmAk.png",
+      "snippet": "I strongly support the proposal to eliminate the TPA as a standalone assessment and instead embed it within teacher preparation coursework. This assessment ...",
+      "about_this_result": {
+        "source": {
+          "description": "I strongly support the proposal to eliminate the TPA as a standalone assessment and instead embed it within teacher preparation coursework. This assessment ...",
+          "source_info_link": "https://meetings-qa.ctc.ca.gov/MeetingComment/ExportToWord",
+          "icon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRqrd93yUV0mOhJ_gzB5V8L57aCV9H1103aa-BMoYsYwW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://meetings-qa.ctc.ca.gov/MeetingComment/ExportToWord&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmeetings-qa.ctc.ca.gov%2FMeetingComment%2FExportToWord",
+      "source": "California State Portal | CA.gov"
+    },
+    {
+      "position": 2,
+      "title": "https://meetings.ctc.ca.gov/MeetingComment/ExportT...",
+      "link": "https://meetings.ctc.ca.gov/MeetingComment/ExportToWord",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://meetings.ctc.ca.gov/MeetingComment/ExportToWord&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQFnoECCAQAQ",
+      "displayed_link": "https://meetings.ctc.ca.gov › ExportToWord",
+      "favicon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRlvYPxejTZEgsL3ktkP2evs.png",
+      "snippet": "Please see the attached letter. Comment provided in uploaded document. Meeting: Commission Meeting - February 2026. Agenda Item ...",
+      "snippet_highlighted_words": [
+        "provided"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Please see the attached letter. Comment provided in uploaded document. Meeting: Commission Meeting - February 2026. Agenda Item ...",
+          "source_info_link": "https://meetings.ctc.ca.gov/MeetingComment/ExportToWord",
+          "icon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRs-GmfqXOlYKCu2XDCvQHLqsOrC3I4JP-17Pe1QisQu1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://meetings.ctc.ca.gov/MeetingComment/ExportToWord&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmeetings.ctc.ca.gov%2FMeetingComment%2FExportToWord",
+      "source": "California State Portal | CA.gov"
+    },
+    {
+      "position": 3,
+      "title": "Faculty Handbook",
+      "link": "https://llu.edu/sites/llu.edu/files/2023-05/FH-2020-with-TOC-Links-updated-5-19-23.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://llu.edu/sites/llu.edu/files/2023-05/FH-2020-with-TOC-Links-updated-5-19-23.pdf&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQFnoECBsQAQ",
+      "displayed_link": "https://llu.edu › sites › llu.edu › files › FH-2020-...",
+      "favicon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRtTAd1IBBZrQuY3472cz_U8.png",
+      "snippet": "The University seeks to foster a collegial, Christian environment for the discussion of issues and resolution of disputes that may arise within the university ...",
+      "snippet_highlighted_words": [
+        "issues"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 241
+          },
+          "extensions": [
+            "241 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The University seeks to foster a collegial, Christian environment for the discussion of issues and resolution of disputes that may arise within the university ...",
+          "source_info_link": "https://llu.edu/sites/llu.edu/files/2023-05/FH-2020-with-TOC-Links-updated-5-19-23.pdf",
+          "icon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRsUiphL3vEjPmJRVSyMnd0FImf8PpBloIbZaQmuc6oj0.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://llu.edu/sites/llu.edu/files/2023-05/FH-2020-with-TOC-Links-updated-5-19-23.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fllu.edu%2Fsites%2Fllu.edu%2Ffiles%2F2023-05%2FFH-2020-with-TOC-Links-updated-5-19-23.pdf",
+      "source": "Loma Linda University"
+    },
+    {
+      "position": 4,
+      "title": "- U.S. NATIONAL SECURITY CHALLENGES AND ...",
+      "link": "https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQFnoECC8QAQ",
+      "displayed_link": "https://www.govinfo.gov › content › pkg › html",
+      "favicon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRtu2tFaoxeb7AxH1FqI82JY.png",
+      "snippet": "[Senate Hearing 114-687] [From the U.S. Government Publishing Office] S. Hrg. 114-687 U.S. NATIONAL SECURITY CHALLENGES AND ONGOING MILITARY OPERATIONS ...",
+      "snippet_highlighted_words": [
+        "CHALLENGES"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "[Senate Hearing 114-687] [From the U.S. Government Publishing Office] S. Hrg. 114-687 U.S. NATIONAL SECURITY CHALLENGES AND ONGOING MILITARY OPERATIONS ...",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm",
+          "icon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRri6E0fCLl8p-6gHMHWBp5lNQwsPKtEmIkiaAu0CSqsc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FCHRG-114shrg26841%2Fhtml%2FCHRG-114shrg26841.htm",
+      "source": "GovInfo (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "Chapter 8 Study Guide Flashcards",
+      "link": "https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQFnoECCcQAQ",
+      "displayed_link": "https://quizlet.com › ... › Politics of the United States",
+      "favicon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRh9DxMKbdm4RcIsM8xGLzFs.png",
+      "snippet": "Study with Quizlet and memorize flashcards containing terms like Platform, Precinct, Political Party and more.",
+      "snippet_highlighted_words": [
+        "Platform"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Study with Quizlet and memorize flashcards containing terms like Platform, Precinct, Political Party and more.",
+          "source_info_link": "https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/",
+          "icon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRqswjgBQGnAOG5oCboEx_GvQBD8dfRELvwCei9GjbzJk.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fquizlet.com%2F317579268%2Fchapter-8-study-guide-flash-cards%2F",
+      "source": "Quizlet"
+    },
+    {
+      "position": 6,
+      "title": "United States Senate Committee on Finance",
+      "link": "https://www.finance.senate.gov/download/responses-to-questions-for-the-record-for-each-nominee",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.finance.senate.gov/download/responses-to-questions-for-the-record-for-each-nominee&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQFnoECDMQAQ",
+      "displayed_link": "https://www.finance.senate.gov › download › res...",
+      "favicon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRtQ6niznQK_w7TW_E-1Kr4c.png",
+      "date": "May 25, 2021",
+      "snippet": "6. While Congress has provided this crucial relief for student loan borrowers through 2026,. Treasury can extend it indefinitely by issuing a ...",
+      "snippet_highlighted_words": [
+        "provided"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "6. While Congress has provided this crucial relief for student loan borrowers through 2026,. Treasury can extend it indefinitely by issuing a ...",
+          "source_info_link": "https://www.finance.senate.gov/download/responses-to-questions-for-the-record-for-each-nominee",
+          "icon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRjWpAaFnb84vIIGZ8I-2YPk8WGKE5Y7jFD5GcFSWLet5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.finance.senate.gov/download/responses-to-questions-for-the-record-for-each-nominee&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.finance.senate.gov%2Fdownload%2Fresponses-to-questions-for-the-record-for-each-nominee",
+      "source": "The United States Senate Committee on Finance (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "- NOMINATION OF ALEX MICHAEL AZAR II",
+      "link": "https://www.congress.gov/115/chrg/CHRG-115shrg34341/CHRG-115shrg34341.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/115/chrg/CHRG-115shrg34341/CHRG-115shrg34341.htm&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQFnoECCYQAQ",
+      "displayed_link": "https://www.congress.gov › chrg",
+      "favicon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRttXgNUX7O73BkQsf3_L-Ic.png",
+      "snippet": "The hearing was convened, pursuant to notice, at 10:02 a.m., in room SD-215, Dirksen Senate Office Building, Hon. Orrin G. Hatch (chairman of the committee) ...",
+      "about_this_result": {
+        "source": {
+          "description": "The hearing was convened, pursuant to notice, at 10:02 a.m., in room SD-215, Dirksen Senate Office Building, Hon. Orrin G. Hatch (chairman of the committee) ...",
+          "source_info_link": "https://www.congress.gov/115/chrg/CHRG-115shrg34341/CHRG-115shrg34341.htm",
+          "icon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRgEBxZXp9Z1N0f6WbxIgsNGONM1AcoVH_WyHz78qxgIG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/115/chrg/CHRG-115shrg34341/CHRG-115shrg34341.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2F115%2Fchrg%2FCHRG-115shrg34341%2FCHRG-115shrg34341.htm",
+      "source": "Congress.gov"
+    },
+    {
+      "position": 8,
+      "title": "In honor of Women's History Month, my office is hosting our ...",
+      "link": "https://www.facebook.com/Rep.Grijalva/posts/in-honor-of-womens-history-month-my-office-is-hosting-our-annual-women-who-inspi/10155677492166234/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Rep.Grijalva/posts/in-honor-of-womens-history-month-my-office-is-hosting-our-annual-women-who-inspi/10155677492166234/&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQFnoECCoQAQ",
+      "displayed_link": "30+ reactions · 8 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRourlGaK9BG6Q2v1wGJjXko.png",
+      "snippet": "In honor of Women's History Month, my office is hosting our annual \"Women Who Inspire Me\" essay competition!",
+      "about_this_result": {
+        "source": {
+          "description": "In honor of Women's History Month, my office is hosting our annual \"Women Who Inspire Me\" essay competition!",
+          "source_info_link": "https://www.facebook.com/Rep.Grijalva/posts/in-honor-of-womens-history-month-my-office-is-hosting-our-annual-women-who-inspi/10155677492166234/",
+          "icon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRnpGTlevBPfonSVNbPBH_OQuG-_A-vRYGxzlGTJp9_bI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Rep.Grijalva/posts/in-honor-of-womens-history-month-my-office-is-hosting-our-annual-women-who-inspi/10155677492166234/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FRep.Grijalva%2Fposts%2Fin-honor-of-womens-history-month-my-office-is-hosting-our-annual-women-who-inspi%2F10155677492166234%2F",
+      "source": "Facebook · Raul M. Grijalva"
+    },
+    {
+      "position": 9,
+      "title": "meeting",
+      "link": "https://www.ucop.edu/acadinit/mastplan/cpr/CPR_Hearing_Transcript_Sept9.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ucop.edu/acadinit/mastplan/cpr/CPR_Hearing_Transcript_Sept9.pdf&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQFnoECDcQAQ",
+      "displayed_link": "https://www.ucop.edu › acadinit › mastplan › cpr",
+      "favicon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRktYURXvXyGebJSFyp7oIwQ.jpeg",
+      "snippet": "20 presentation with a brief overview of the issues that were. 21 developed by the Education Team. 22. As has been reported by many review bodies during. 23 ...",
+      "snippet_highlighted_words": [
+        "brief overview",
+        "issues"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 299
+          },
+          "extensions": [
+            "299 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "20 presentation with a brief overview of the issues that were. 21 developed by the Education Team. 22. As has been reported by many review bodies during. 23 ...",
+          "source_info_link": "https://www.ucop.edu/acadinit/mastplan/cpr/CPR_Hearing_Transcript_Sept9.pdf",
+          "icon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRmff9fK062GpeAbRFNquFc0E11uvvy7sm0HjybuTFIkG.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ucop.edu/acadinit/mastplan/cpr/CPR_Hearing_Transcript_Sept9.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ucop.edu%2Facadinit%2Fmastplan%2Fcpr%2FCPR_Hearing_Transcript_Sept9.pdf",
+      "source": "University of California Office of the President (UCOP)"
+    },
+    {
+      "position": 10,
+      "title": "Economic Report of the President - Biden White House",
+      "link": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/ERP-2024.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/ERP-2024.pdf&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQFnoECDQQAQ",
+      "displayed_link": "https://bidenwhitehouse.archives.gov › ERP-2024",
+      "favicon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRij9neAI3myZXeqThCkC51Y.png",
+      "date": "Mar 21, 2024",
+      "snippet": "When I was elected President, a pandemic was raging and our economy was reeling, and trickle-down economics had undermined our nation's ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 487
+          },
+          "extensions": [
+            "487 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "When I was elected President, a pandemic was raging and our economy was reeling, and trickle-down economics had undermined our nation's ...",
+          "source_info_link": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/ERP-2024.pdf",
+          "icon": "https://serpapi.com/searches/69bb5caaf357f638977d9748/images/BXdhn8vlTvN3_hvDxVMIRtB5nzk6nqU_aoNAtkpslQFFKRZReyG16jVJi54PtOhe.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/ERP-2024.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbidenwhitehouse.archives.gov%2Fwp-content%2Fuploads%2F2024%2F03%2FERP-2024.pdf",
+      "source": "National Archives (.gov)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=qly7aaX8NZ2jur8P0MzuuQw&start=10&sa=N&sstk=Af77f_eR9brb_xHNUYYrII_24ttJ64Z4TF_4adpMCBrIn3nrQHtrmMFrVvZbmEGfgrhrjiG3T7XC_ZbVLs2NN2e8xCwqplEJStl-fg&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQ8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=qly7aaX8NZ2jur8P0MzuuQw&start=10&sa=N&sstk=Af77f_eR9brb_xHNUYYrII_24ttJ64Z4TF_4adpMCBrIn3nrQHtrmMFrVvZbmEGfgrhrjiG3T7XC_ZbVLs2NN2e8xCwqplEJStl-fg&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQ8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=qly7aaX8NZ2jur8P0MzuuQw&start=20&sa=N&sstk=Af77f_eR9brb_xHNUYYrII_24ttJ64Z4TF_4adpMCBrIn3nrQHtrmMFrVvZbmEGfgrhrjiG3T7XC_ZbVLs2NN2e8xCwqplEJStl-fg&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQ8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=qly7aaX8NZ2jur8P0MzuuQw&start=30&sa=N&sstk=Af77f_eR9brb_xHNUYYrII_24ttJ64Z4TF_4adpMCBrIn3nrQHtrmMFrVvZbmEGfgrhrjiG3T7XC_ZbVLs2NN2e8xCwqplEJStl-fg&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQ8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=qly7aaX8NZ2jur8P0MzuuQw&start=40&sa=N&sstk=Af77f_eR9brb_xHNUYYrII_24ttJ64Z4TF_4adpMCBrIn3nrQHtrmMFrVvZbmEGfgrhrjiG3T7XC_ZbVLs2NN2e8xCwqplEJStl-fg&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQ8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=qly7aaX8NZ2jur8P0MzuuQw&start=50&sa=N&sstk=Af77f_eR9brb_xHNUYYrII_24ttJ64Z4TF_4adpMCBrIn3nrQHtrmMFrVvZbmEGfgrhrjiG3T7XC_ZbVLs2NN2e8xCwqplEJStl-fg&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQ8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=qly7aaX8NZ2jur8P0MzuuQw&start=60&sa=N&sstk=Af77f_eR9brb_xHNUYYrII_24ttJ64Z4TF_4adpMCBrIn3nrQHtrmMFrVvZbmEGfgrhrjiG3T7XC_ZbVLs2NN2e8xCwqplEJStl-fg&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQ8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=qly7aaX8NZ2jur8P0MzuuQw&start=70&sa=N&sstk=Af77f_eR9brb_xHNUYYrII_24ttJ64Z4TF_4adpMCBrIn3nrQHtrmMFrVvZbmEGfgrhrjiG3T7XC_ZbVLs2NN2e8xCwqplEJStl-fg&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQ8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=qly7aaX8NZ2jur8P0MzuuQw&start=80&sa=N&sstk=Af77f_eR9brb_xHNUYYrII_24ttJ64Z4TF_4adpMCBrIn3nrQHtrmMFrVvZbmEGfgrhrjiG3T7XC_ZbVLs2NN2e8xCwqplEJStl-fg&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQ8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=qly7aaX8NZ2jur8P0MzuuQw&start=90&sa=N&sstk=Af77f_eR9brb_xHNUYYrII_24ttJ64Z4TF_4adpMCBrIn3nrQHtrmMFrVvZbmEGfgrhrjiG3T7XC_ZbVLs2NN2e8xCwqplEJStl-fg&ved=2ahUKEwil-fnV8qqTAxWdke4BHVCmO8cQ8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

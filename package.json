@@ -30,5 +30,24 @@
   },
   "dependencies": {
     "mp4-muxer": "^5.2.2"
-  }
+  },
+  "version": "1.0.0",
+  "main": "playwright-smoke.config.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweeden-ttu/legal-luminary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sweeden-ttu/legal-luminary/issues"
+  },
+  "homepage": "https://github.com/sweeden-ttu/legal-luminary#readme"
 }

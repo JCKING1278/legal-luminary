@@ -1,0 +1,374 @@
+{
+  "search_metadata": {
+    "id": "69bb5e9717bdbf7f6e0f93b9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/s7M05RJyiPd3p7fzklAgWA/69bb5e9717bdbf7f6e0f93b9.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/s7M05RJyiPd3p7fzklAgWA/69bb5e9717bdbf7f6e0f93b9.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:27 UTC",
+    "processed_at": "2026-03-19 02:25:27 UTC",
+    "google_url": "https://www.google.com/search?q=Anthony+Kendrick+%22Killeen+Council+D4%22+%22Killeen%22+Facebook&oq=Anthony+Kendrick+%22Killeen+Council+D4%22+%22Killeen%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/s7M05RJyiPd3p7fzklAgWA/69bb5e9717bdbf7f6e0f93b9.html",
+    "total_time_taken": 3.1
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Anthony Kendrick \"Killeen Council D4\" \"Killeen\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Anthony Kendrick \"Killeen Council D4\" \"Killeen\" Facebook",
+    "total_results": 6040,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "spelling_fix": "Anthony Kendrick Killeen Councilman D4 Killeen Facebook",
+    "showing_results_for": "Anthony Kendrick Killeen Council D4 Killeen Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Anthony Kendrick District 4 City Councilman",
+      "link": "https://www.facebook.com/61573556377934/photos/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/61573556377934/photos/&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQFnoECB0QAQ",
+      "displayed_link": "https://www.facebook.com › photos",
+      "favicon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kjuz4bHr50nFGV3txO70VRGpw.png",
+      "snippet": "Anthony Kendrick District 4 City Councilman. 312 likes · 1 talking about this. Public figure.",
+      "snippet_highlighted_words": [
+        "Anthony Kendrick",
+        "Councilman"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Anthony Kendrick District 4 City Councilman. 312 likes · 1 talking about this. Public figure.",
+          "source_info_link": "https://www.facebook.com/61573556377934/photos/",
+          "icon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju_9q3VTTxBZWSltS9lUS_czwdxpfTY1vPkBh1G7pyoeu.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/61573556377934/photos/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F61573556377934%2Fphotos%2F",
+      "missing": [
+        "Killeen",
+        "Council",
+        "D4"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 2,
+      "title": "Killeen voters have chosen Anthony Kendrick to represent ...",
+      "link": "https://www.facebook.com/kdhnews/posts/killeen-voters-have-chosen-anthony-kendrick-to-represent-district-4-on-the-kille/1207352821338870/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/killeen-voters-have-chosen-anthony-kendrick-to-represent-district-4-on-the-kille/1207352821338870/&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQFnoECB4QAQ",
+      "displayed_link": "70+ reactions · 10 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju9o1WVG1z5Rtubk7p-yzq_g.png",
+      "snippet": "Killeen voters have chosen Anthony Kendrick to represent District 4 on the Killeen City Council. Kendrick replaces Councilmember Michael ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Anthony Kendrick",
+        "Killeen",
+        "Council",
+        "Kendrick"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen voters have chosen Anthony Kendrick to represent District 4 on the Killeen City Council. Kendrick replaces Councilmember Michael ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/killeen-voters-have-chosen-anthony-kendrick-to-represent-district-4-on-the-kille/1207352821338870/",
+          "icon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju72QGSsRZesqRab6iZhg2A8qLzwZGYkrUunRZ0Dn90IX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/killeen-voters-have-chosen-anthony-kendrick-to-represent-district-4-on-the-kille/1207352821338870/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fkilleen-voters-have-chosen-anthony-kendrick-to-represent-district-4-on-the-kille%2F1207352821338870%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "City of Killeen, Texas",
+      "link": "https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilman-anthony-kendrick-presented-/1298044872359424/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilman-anthony-kendrick-presented-/1298044872359424/&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQFnoECCIQAQ",
+      "displayed_link": "120+ reactions · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju7MUzBlPG60ivykDCU17vhQ.png",
+      "snippet": "During this evening's city council meeting, Councilman Anthony Kendrick presented the Star Award to Rev. Dr. Sharon Daniels-Rich.",
+      "snippet_highlighted_words": [
+        "council",
+        "Councilman Anthony Kendrick"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "During this evening's city council meeting, Councilman Anthony Kendrick presented the Star Award to Rev. Dr. Sharon Daniels-Rich.",
+          "source_info_link": "https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilman-anthony-kendrick-presented-/1298044872359424/",
+          "icon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kjuw0MWwF4RP1gx20wD9uSTX02ThFAX_VcQiolRkFOZBq5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilman-anthony-kendrick-presented-/1298044872359424/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKilleenTexas%2Fposts%2Fduring-this-evenings-city-council-meeting-councilman-anthony-kendrick-presented-%2F1298044872359424%2F",
+      "missing": [
+        "D4"
+      ],
+      "must_include": {
+        "word": "D4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Anthony+Kendrick+Killeen+Council+%22D4%22+Killeen+Facebook&sa=X&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ5t4CegQIMxAB"
+      },
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 4,
+      "title": "Anthony Kendrick is narrowly... - Killeen Daily Herald",
+      "link": "https://www.facebook.com/kdhnews/posts/anthony-kendrick-is-narrowly-leading-christy-wilbanks-in-the-election-for-killee/1207296454677840/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/anthony-kendrick-is-narrowly-leading-christy-wilbanks-in-the-election-for-killee/1207296454677840/&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQFnoECB8QAQ",
+      "displayed_link": "4 reactions · 10 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju8zVcjoL3RzRTctB9L7aWeY.png",
+      "snippet": "Anthony Kendrick is narrowly leading Christy Wilbanks in the election for Killeen City Council District 4. Kendrick received 174 votes from ...",
+      "snippet_highlighted_words": [
+        "Anthony Kendrick",
+        "Killeen",
+        "Council",
+        "Kendrick"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Anthony Kendrick is narrowly leading Christy Wilbanks in the election for Killeen City Council District 4. Kendrick received 174 votes from ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/anthony-kendrick-is-narrowly-leading-christy-wilbanks-in-the-election-for-killee/1207296454677840/",
+          "icon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju1w6V0VwODpoVnvmK721IZo0DdyesKWhYBFJtkGIPhjR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/anthony-kendrick-is-narrowly-leading-christy-wilbanks-in-the-election-for-killee/1207296454677840/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fanthony-kendrick-is-narrowly-leading-christy-wilbanks-in-the-election-for-killee%2F1207296454677840%2F",
+      "missing": [
+        "D4"
+      ],
+      "must_include": {
+        "word": "D4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Anthony+Kendrick+Killeen+Council+%22D4%22+Killeen+Facebook&sa=X&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ5t4CegQINRAB"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "Congratulations Anthony Kendrick for city Council District 4 ...",
+      "link": "https://www.facebook.com/groups/377206482352530/posts/29451160161197109/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/377206482352530/posts/29451160161197109/&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQFnoECCMQAQ",
+      "displayed_link": "1 comment · 10 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju2tiPjeUJS8E5BJPn0kqVic.png",
+      "snippet": "Join us Wednesday, March 11, 2026, at 8:00 PM at the intimate Monks Jazz Club, located at 310 E Saint Elmo Road, Suite 2E, Austin, Texas 78745.",
+      "about_this_result": {
+        "source": {
+          "description": "Join us Wednesday, March 11, 2026, at 8:00 PM at the intimate Monks Jazz Club, located at 310 E Saint Elmo Road, Suite 2E, Austin, Texas 78745.",
+          "source_info_link": "https://www.facebook.com/groups/377206482352530/posts/29451160161197109/",
+          "icon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju0vWgNy3L39juzTsr_dLYx9SLf6jFMf1yYedZjUe3oob.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/377206482352530/posts/29451160161197109/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F377206482352530%2Fposts%2F29451160161197109%2F",
+      "missing": [
+        "D4"
+      ],
+      "must_include": {
+        "word": "D4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Anthony+Kendrick+Killeen+Council+%22D4%22+Killeen+Facebook&sa=X&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ5t4CegQINBAB"
+      },
+      "source": "Facebook · Killeen Friends"
+    },
+    {
+      "position": 6,
+      "title": "Killeen City Council Candidate Kendrick Supports ...",
+      "link": "https://www.facebook.com/groups/327011874826028/posts/1787250062135528/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/327011874826028/posts/1787250062135528/&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQFnoECCQQAQ",
+      "displayed_link": "1 comment · 10 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju2ykekLX6rBeF_oSQoELI2Y.png",
+      "snippet": "Just announced! Candidate for Dist 4 KENDRICK IS FOR PROP B! He is willing to pledge support for even more bonds in the future!",
+      "snippet_highlighted_words": [
+        "KENDRICK"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Just announced! Candidate for Dist 4 KENDRICK IS FOR PROP B! He is willing to pledge support for even more bonds in the future!",
+          "source_info_link": "https://www.facebook.com/groups/327011874826028/posts/1787250062135528/",
+          "icon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31KjuyDwmEt29RGTZ5uaWZJ41c4BCJdn3fQEpQUr1TnJf-ZL.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/327011874826028/posts/1787250062135528/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F327011874826028%2Fposts%2F1787250062135528%2F",
+      "missing": [
+        "D4"
+      ],
+      "must_include": {
+        "word": "D4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Anthony+Kendrick+Killeen+Council+%22D4%22+Killeen+Facebook&sa=X&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ5t4CegQIMRAB"
+      },
+      "source": "Facebook · Killeen TX Citizen Expressions"
+    },
+    {
+      "position": 7,
+      "title": "Criticism of Killeen City Council Member Kendrick",
+      "link": "https://www.facebook.com/groups/327011874826028/posts/1745170863010115/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/327011874826028/posts/1745170863010115/&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQFnoECCUQAQ",
+      "displayed_link": "20+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kjuw9TBUI5j0luuwAjPoQ6WpI.png",
+      "snippet": "Candidate – District 4 – Killeen, Texas. Potential Illegal Activities. In a recent interview with the Killeen Daily Herald, City Council ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Candidate – District 4 – Killeen, Texas. Potential Illegal Activities. In a recent interview with the Killeen Daily Herald, City Council ...",
+          "source_info_link": "https://www.facebook.com/groups/327011874826028/posts/1745170863010115/",
+          "icon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju3VAjzuaGvDBKhua6XTaq87-yMC9n94OpK6TS66lrTH7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/327011874826028/posts/1745170863010115/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F327011874826028%2Fposts%2F1745170863010115%2F",
+      "source": "Facebook · Killeen TX Citizen Expressions"
+    },
+    {
+      "position": 8,
+      "title": "Anthony Kendrick will be facing off against Christy ...",
+      "link": "https://www.facebook.com/kdhnews/posts/anthony-kendrick-will-be-facing-off-against-christy-wilbanks-in-the-may-3-munici/1151461443594675/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/anthony-kendrick-will-be-facing-off-against-christy-wilbanks-in-the-may-3-munici/1151461443594675/&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQFnoECDwQAQ",
+      "displayed_link": "1 reaction · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju51xMC8KELyvNCnsdQ45gcM.png",
+      "snippet": "... Dude. No photo description available. Profile photo of Surfer Dude. No photo description available. Profile photo of Surfer Dude ...",
+      "about_this_result": {
+        "source": {
+          "description": "... Dude. No photo description available. Profile photo of Surfer Dude. No photo description available. Profile photo of Surfer Dude ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/anthony-kendrick-will-be-facing-off-against-christy-wilbanks-in-the-may-3-munici/1151461443594675/",
+          "icon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31KjuxF4wnjNKGc8zmb1uPQ5WXmQSMFuudx2Ylvk7Y2Pof8K.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/anthony-kendrick-will-be-facing-off-against-christy-wilbanks-in-the-may-3-munici/1151461443594675/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fanthony-kendrick-will-be-facing-off-against-christy-wilbanks-in-the-may-3-munici%2F1151461443594675%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "Killeen City Council Meeting Decision Part 3 | Killeen Daily ...",
+      "link": "https://www.facebook.com/kdhnews/videos/killeen-city-council-meeting-decision-part-3/865291546250613/",
+      "displayed_link": "4 reactions · 2 months ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31KjuwhIwxr6qoWKkOTl2XO4YJ4.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju3a8Lk1JvqPpHU7ePJ5WEzI.png",
+      "snippet": "More videos you may like. 01: ...",
+      "duration": "0:45",
+      "about_this_result": {
+        "source": {
+          "description": "More videos you may like. 01: ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/killeen-city-council-meeting-decision-part-3/865291546250613/",
+          "icon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju1Sb-1nD48_El9aUODPAQT7M23Ku-V6IykiDevsd4gvB.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/killeen-city-council-meeting-decision-part-3/865291546250613/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fkilleen-city-council-meeting-decision-part-3%2F865291546250613%2F",
+      "missing": [
+        "D4"
+      ],
+      "must_include": {
+        "word": "D4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Anthony+Kendrick+Killeen+Council+%22D4%22+Killeen+Facebook&sa=X&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ5t4CegQIOhAT"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 10,
+      "title": "Do you really trust this guy, to be your District 4 city council ...",
+      "link": "https://www.facebook.com/groups/1694211147468616/posts/4409738435915860/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1694211147468616/posts/4409738435915860/&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQFnoECDsQAQ",
+      "displayed_link": "7 comments · 10 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju4dgYaidHjlafwX41J3PR-g.png",
+      "snippet": "OCR: Do you really think this District 4 candidate is an independent thinker, or just another puppet for the mayor? How can we really trust ...",
+      "about_this_result": {
+        "source": {
+          "description": "OCR: Do you really think this District 4 candidate is an independent thinker, or just another puppet for the mayor? How can we really trust ...",
+          "source_info_link": "https://www.facebook.com/groups/1694211147468616/posts/4409738435915860/",
+          "icon": "https://serpapi.com/searches/69bb5e9717bdbf7f6e0f93b9/images/ysZdCNb2-uEmlg1D31Kju750q8j9OXyMe1TmwEs4bnNwn_t9oL7_t6stlOgsuzyv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1694211147468616/posts/4409738435915860/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1694211147468616%2Fposts%2F4409738435915860%2F",
+      "source": "Facebook · Killeen/Fort Hood Places to go & Things to do!"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mV67aaPJNuyo0-kPraLXsA8&start=10&sa=N&sstk=Af77f_fiu7d22JRQ-N-LrKeqnOx9tASmQ1KLRZQrWhHMAno6hzphh0_iaCJVYakXfOZJmJybstUOH3chQ2_wsiLTZKedff5G0EG2iA&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mV67aaPJNuyo0-kPraLXsA8&start=10&sa=N&sstk=Af77f_fiu7d22JRQ-N-LrKeqnOx9tASmQ1KLRZQrWhHMAno6hzphh0_iaCJVYakXfOZJmJybstUOH3chQ2_wsiLTZKedff5G0EG2iA&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mV67aaPJNuyo0-kPraLXsA8&start=20&sa=N&sstk=Af77f_fiu7d22JRQ-N-LrKeqnOx9tASmQ1KLRZQrWhHMAno6hzphh0_iaCJVYakXfOZJmJybstUOH3chQ2_wsiLTZKedff5G0EG2iA&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mV67aaPJNuyo0-kPraLXsA8&start=30&sa=N&sstk=Af77f_fiu7d22JRQ-N-LrKeqnOx9tASmQ1KLRZQrWhHMAno6hzphh0_iaCJVYakXfOZJmJybstUOH3chQ2_wsiLTZKedff5G0EG2iA&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mV67aaPJNuyo0-kPraLXsA8&start=40&sa=N&sstk=Af77f_fiu7d22JRQ-N-LrKeqnOx9tASmQ1KLRZQrWhHMAno6hzphh0_iaCJVYakXfOZJmJybstUOH3chQ2_wsiLTZKedff5G0EG2iA&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mV67aaPJNuyo0-kPraLXsA8&start=50&sa=N&sstk=Af77f_fiu7d22JRQ-N-LrKeqnOx9tASmQ1KLRZQrWhHMAno6hzphh0_iaCJVYakXfOZJmJybstUOH3chQ2_wsiLTZKedff5G0EG2iA&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mV67aaPJNuyo0-kPraLXsA8&start=60&sa=N&sstk=Af77f_fiu7d22JRQ-N-LrKeqnOx9tASmQ1KLRZQrWhHMAno6hzphh0_iaCJVYakXfOZJmJybstUOH3chQ2_wsiLTZKedff5G0EG2iA&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mV67aaPJNuyo0-kPraLXsA8&start=70&sa=N&sstk=Af77f_fiu7d22JRQ-N-LrKeqnOx9tASmQ1KLRZQrWhHMAno6hzphh0_iaCJVYakXfOZJmJybstUOH3chQ2_wsiLTZKedff5G0EG2iA&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mV67aaPJNuyo0-kPraLXsA8&start=80&sa=N&sstk=Af77f_fiu7d22JRQ-N-LrKeqnOx9tASmQ1KLRZQrWhHMAno6hzphh0_iaCJVYakXfOZJmJybstUOH3chQ2_wsiLTZKedff5G0EG2iA&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mV67aaPJNuyo0-kPraLXsA8&start=90&sa=N&sstk=Af77f_fiu7d22JRQ-N-LrKeqnOx9tASmQ1KLRZQrWhHMAno6hzphh0_iaCJVYakXfOZJmJybstUOH3chQ2_wsiLTZKedff5G0EG2iA&ved=2ahUKEwjj-f7B9KqTAxVs1DQHHS3RFfYQ8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+Facebook&start=90"
+    }
+  }
+}

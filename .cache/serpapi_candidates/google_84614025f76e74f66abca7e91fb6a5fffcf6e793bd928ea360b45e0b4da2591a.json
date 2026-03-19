@@ -1,0 +1,94 @@
+{
+  "search_metadata": {
+    "id": "69bb5e8b3d0e4ed7c7a756dd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/atQuP7imt81xn4lWHhzvMw/69bb5e8b3d0e4ed7c7a756dd.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/atQuP7imt81xn4lWHhzvMw/69bb5e8b3d0e4ed7c7a756dd.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:15 UTC",
+    "processed_at": "2026-03-19 02:25:15 UTC",
+    "google_url": "https://www.google.com/search?q=Joseph+Solomon+%22Killeen+Council+D2%22+%22Killeen%22+Instagram&oq=Joseph+Solomon+%22Killeen+Council+D2%22+%22Killeen%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/atQuP7imt81xn4lWHhzvMw/69bb5e8b3d0e4ed7c7a756dd.html",
+    "total_time_taken": 6.08
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Joseph Solomon \"Killeen Council D2\" \"Killeen\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Joseph Solomon \"Killeen Council D2\" \"Killeen\" Instagram",
+    "total_results": 2,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Joseph Solomon Killeen Council D2 Killeen Instagram",
+    "spelling_fix": "Joseph Solomon Killeen Council D2 Killeen Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Killeen council to vote on calling special election to fill ...",
+      "link": "https://www.tdtnews.com/news/region/article_dc7edae3-1588-5882-9028-434d1fd0521b.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tdtnews.com/news/region/article_dc7edae3-1588-5882-9028-434d1fd0521b.html&ved=2ahUKEwiW88u99KqTAxU0lokEHSpcKWEQFnoECAwQAQ",
+      "displayed_link": "https://www.tdtnews.com › news › region",
+      "favicon": "https://serpapi.com/searches/69bb5e8b3d0e4ed7c7a756dd/images/4KS5f_8qmBlI6aoT_x3LGa4w5wiaz939H5vEHT5hG98.png",
+      "date": "Feb 16, 2026",
+      "snippet": "The Killeen City Council will likely vote Tuesday on calling a special election to fill the District 2 City Council seat, ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Council",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Killeen City Council will likely vote Tuesday on calling a special election to fill the District 2 City Council seat, ...",
+          "source_info_link": "https://www.tdtnews.com/news/region/article_dc7edae3-1588-5882-9028-434d1fd0521b.html",
+          "icon": "https://serpapi.com/searches/69bb5e8b3d0e4ed7c7a756dd/images/4KS5f_8qmBlI6aoT_x3LGRQHYjOXbdGhAVTspioOb97_x3ag8QwLhkM1W2N4IyEg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tdtnews.com/news/region/article_dc7edae3-1588-5882-9028-434d1fd0521b.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tdtnews.com%2Fnews%2Fregion%2Farticle_dc7edae3-1588-5882-9028-434d1fd0521b.html",
+      "source": "Temple Daily Telegram"
+    },
+    {
+      "position": 2,
+      "title": "Joseph Solomon (Killeen City Council District 2, Texas ...",
+      "link": "https://ballotpedia.org/Joseph_Solomon_(Killeen_City_Council_District_2,_Texas,_candidate_2025)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Joseph_Solomon_(Killeen_City_Council_District_2,_Texas,_candidate_2025)&ved=2ahUKEwiW88u99KqTAxU0lokEHSpcKWEQFnoECA0QAQ",
+      "displayed_link": "https://ballotpedia.org › Joseph_Solomon_(Killeen_City_...",
+      "favicon": "https://serpapi.com/searches/69bb5e8b3d0e4ed7c7a756dd/images/4KS5f_8qmBlI6aoT_x3LGa5TD_LfF5ZiTXf121UxKNM.png",
+      "snippet": "Joseph Solomon ran for election to the Killeen City Council to represent District 2 in Texas. Solomon was on the ballot in the general election on May 3, 2025.",
+      "snippet_highlighted_words": [
+        "Joseph Solomon",
+        "Killeen",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Joseph Solomon ran for election to the Killeen City Council to represent District 2 in Texas. Solomon was on the ballot in the general election on May 3, 2025.",
+          "source_info_link": "https://ballotpedia.org/Joseph_Solomon_(Killeen_City_Council_District_2,_Texas,_candidate_2025)",
+          "icon": "https://serpapi.com/searches/69bb5e8b3d0e4ed7c7a756dd/images/4KS5f_8qmBlI6aoT_x3LGfdOx5E0a7f8CniSs8YHZOkuIHtdd2If1n_yUHZK9cAA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Joseph_Solomon_(Killeen_City_Council_District_2,_Texas,_candidate_2025)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FJoseph_Solomon_%28Killeen_City_Council_District_2%2C_Texas%2C_candidate_2025%29",
+      "missing": [
+        "D2",
+        "Instagram"
+      ],
+      "source": "Ballotpedia"
+    }
+  ]
+}

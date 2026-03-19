@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "69bb5dc395e0b382ff4c2ce9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7c92WY0u4uvfmwEWO6OHVg/69bb5dc395e0b382ff4c2ce9.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/7c92WY0u4uvfmwEWO6OHVg/69bb5dc395e0b382ff4c2ce9.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:55 UTC",
+    "processed_at": "2026-03-19 02:21:55 UTC",
+    "google_url": "https://www.google.com/search?q=Dawn+Richardson+%22State+House+TX-54%22+%22Central+Texas%22+Facebook&oq=Dawn+Richardson+%22State+House+TX-54%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7c92WY0u4uvfmwEWO6OHVg/69bb5dc395e0b382ff4c2ce9.html",
+    "total_time_taken": 1.27
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Dawn Richardson \"State House TX-54\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Dawn Richardson \"State House TX-54\" \"Central Texas\" Facebook",
+    "total_results": 0,
+    "time_taken_displayed": 0.53,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

@@ -1,0 +1,385 @@
+{
+  "search_metadata": {
+    "id": "69bb5cf4ae678cb84f505854",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Kf5-9cHlJNh6Isb4EctN2A/69bb5cf4ae678cb84f505854.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Kf5-9cHlJNh6Isb4EctN2A/69bb5cf4ae678cb84f505854.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:28 UTC",
+    "processed_at": "2026-03-19 02:18:28 UTC",
+    "google_url": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Kf5-9cHlJNh6Isb4EctN2A/69bb5cf4ae678cb84f505854.html",
+    "total_time_taken": 0.93
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Killeen Council D4 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Killeen Council D4 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 665,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Texas Democratic and Republican nominees discuss key ...",
+      "link": "https://www.youtube.com/watch?v=OZvv513i4BE",
+      "displayed_link": "580+ views · 3 days ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3kWvGauD4EAm1ZtWwylvLi0.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3tq-qKDAmKOaotqCRnFGI2Q.png",
+      "snippet": "The clash between Sen. John Cornyn and Attorney General Ken Paxton in the Texas GOP is heating up. And Texas Democrats Sarah Eckhardt and ...",
+      "duration": "21:00",
+      "about_this_result": {
+        "source": {
+          "description": "The clash between Sen. John Cornyn and Attorney General Ken Paxton in the Texas GOP is heating up. And Texas Democrats Sarah Eckhardt and ...",
+          "source_info_link": "https://www.youtube.com/watch?v=OZvv513i4BE",
+          "icon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3hYmIp4L9eq6GWwrMTswXZ17TxDR_I80EkA0PsLia9BV.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=OZvv513i4BE&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOZvv513i4BE",
+      "missing": [
+        "Killeen",
+        "Council",
+        "D4",
+        "platform",
+        "candidates:",
+        "opponents.",
+        "short",
+        "factual"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSk8HSKY6tLKTsxEr9N-wlF8IBdFJeuK1pSsA",
+      "source": "YouTube · CBS TEXAS"
+    },
+    {
+      "position": 2,
+      "title": "Do you really trust this guy, to be your District 4 city council ...",
+      "link": "https://www.facebook.com/groups/1694211147468616/posts/4409738435915860/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1694211147468616/posts/4409738435915860/&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQFnoECBkQAQ",
+      "displayed_link": "7 comments · 10 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3kgTsCDl8M-L8fpO2isSlRk.png",
+      "snippet": "OCR: Do you really think this District 4 candidate is an independent thinker, or just another puppet for the mayor? How can we really trust ...",
+      "snippet_highlighted_words": [
+        "candidate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "OCR: Do you really think this District 4 candidate is an independent thinker, or just another puppet for the mayor? How can we really trust ...",
+          "source_info_link": "https://www.facebook.com/groups/1694211147468616/posts/4409738435915860/",
+          "icon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3svxP2BCwkK1K4Kw8T3GIKyk7tIpvbzedr7XKpYNxkP9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1694211147468616/posts/4409738435915860/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1694211147468616%2Fposts%2F4409738435915860%2F",
+      "missing": [
+        "summary."
+      ],
+      "must_include": {
+        "word": "summary.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+%22summary.%22&sa=X&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ5t4CegQIGhAB"
+      },
+      "source": "Facebook · Killeen/Fort Hood Places to go & Things to do!"
+    },
+    {
+      "position": 3,
+      "title": "📣📣If it wasn't clear before, it should be obviously clear now ...",
+      "link": "https://www.facebook.com/groups/314314556248190/posts/1603438494002450/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/314314556248190/posts/1603438494002450/&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQFnoECCAQAQ",
+      "displayed_link": "1 comment · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3uhC-Rfsry4zhgExUCUO1Yw.png",
+      "snippet": "OCR: WHEN CITY COUNCIL TURNS INTO REALITY ν... THE RECKLESS & ARROGANT EDITION Columbus Ga City Council olumbusGaCiyCunciMetin1-1-2 Meeting ...",
+      "snippet_highlighted_words": [
+        "COUNCIL",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "OCR: WHEN CITY COUNCIL TURNS INTO REALITY ν... THE RECKLESS & ARROGANT EDITION Columbus Ga City Council olumbusGaCiyCunciMetin1-1-2 Meeting ...",
+          "source_info_link": "https://www.facebook.com/groups/314314556248190/posts/1603438494002450/",
+          "icon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3ugLEsqPIx2Y0rYmJi3lUPIz2n-IXtZ3BKP12N7UE7qA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/314314556248190/posts/1603438494002450/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F314314556248190%2Fposts%2F1603438494002450%2F",
+      "source": "Facebook · Columbus, Ga Black Citizens Concerned Group"
+    },
+    {
+      "position": 4,
+      "title": "DIVERSITÀ ED INCLUSIONE",
+      "link": "https://amsdottorato.unibo.it/id/eprint/12059/1/Masi_PhdThesis.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://amsdottorato.unibo.it/id/eprint/12059/1/Masi_PhdThesis.pdf&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQFnoECCkQAQ",
+      "displayed_link": "https://amsdottorato.unibo.it › Masi_PhdThesis",
+      "favicon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3o2epC54C3GtlIc48yW0sak.png",
+      "author": "by B Masi",
+      "snippet": "The present PhD thesis examines a collection of Irish texts written during and after the. Celtic Tiger, analysing their integration of realism with ...",
+      "snippet_highlighted_words": [
+        "present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 346
+          },
+          "extensions": [
+            "346 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The present PhD thesis examines a collection of Irish texts written during and after the. Celtic Tiger, analysing their integration of realism with ...",
+          "source_info_link": "https://amsdottorato.unibo.it/id/eprint/12059/1/Masi_PhdThesis.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3uMHHkeUO-WUrK5r41AIoHbpS8D-ekbwkyvpgshwTAjb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://amsdottorato.unibo.it/id/eprint/12059/1/Masi_PhdThesis.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Famsdottorato.unibo.it%2Fid%2Feprint%2F12059%2F1%2FMasi_PhdThesis.pdf",
+      "source": "AMS Tesi di Dottorato"
+    },
+    {
+      "position": 5,
+      "title": "XXI ISEK CONGRESS Bridges to innovation",
+      "link": "https://isek.org/wp-content/uploads/2016/09/Full-ISEK2016Chicago.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isek.org/wp-content/uploads/2016/09/Full-ISEK2016Chicago.pdf&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQFnoECCUQAQ",
+      "displayed_link": "https://isek.org › wp-content › uploads › 2016/09",
+      "favicon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3qqIslr0mv2uwero4sizVSs.png",
+      "author": "by I CONGRESS",
+      "snippet": "About ISEK. The International Society of Electrophysiology and Kinesiology (ISEK) is a multidisciplinary organization composed of members from all over the ...",
+      "about_this_result": {
+        "source": {
+          "description": "About ISEK. The International Society of Electrophysiology and Kinesiology (ISEK) is a multidisciplinary organization composed of members from all over the ...",
+          "source_info_link": "https://isek.org/wp-content/uploads/2016/09/Full-ISEK2016Chicago.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3uHJMUt5Uv3klPF0vUHmXqbWMGNHspP1trpObNN1rc_h.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://isek.org/wp-content/uploads/2016/09/Full-ISEK2016Chicago.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fisek.org%2Fwp-content%2Fuploads%2F2016%2F09%2FFull-ISEK2016Chicago.pdf",
+      "source": "International Society of Electrophysiology and Kinesiology (ISEK)"
+    },
+    {
+      "position": 6,
+      "title": "Drought risk management",
+      "link": "http://www.sayersandpartners.co.uk/uploads/6/2/0/9/6209349/2016_sayers_et_al_strategic_drought_risk_management_-_web.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.sayersandpartners.co.uk/uploads/6/2/0/9/6209349/2016_sayers_et_al_strategic_drought_risk_management_-_web.pdf&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQFnoECDIQAQ",
+      "displayed_link": "http://www.sayersandpartners.co.uk › uploads › 2...",
+      "favicon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3mkcTzMzha0eDFDBmlR8U7I.png",
+      "author": "by PB Sayers",
+      "snippet": "She provides strategic advice to WWF's freshwater programmes across the world, conducts research on various water management issues, and ...",
+      "snippet_highlighted_words": [
+        "provides",
+        "issues"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "She provides strategic advice to WWF's freshwater programmes across the world, conducts research on various water management issues, and ...",
+          "source_info_link": "http://www.sayersandpartners.co.uk/uploads/6/2/0/9/6209349/2016_sayers_et_al_strategic_drought_risk_management_-_web.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3st2Y2sISX3K4ffyza6ciUYUTc0OqTK5IsaDgc1AZ1mM.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://www.sayersandpartners.co.uk/uploads/6/2/0/9/6209349/2016_sayers_et_al_strategic_drought_risk_management_-_web.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Fwww.sayersandpartners.co.uk%2Fuploads%2F6%2F2%2F0%2F9%2F6209349%2F2016_sayers_et_al_strategic_drought_risk_management_-_web.pdf",
+      "source": "Sayers and Partners"
+    },
+    {
+      "position": 7,
+      "title": "SCIENCE AT THE ENVIRONMENTAL RESEARCH STATION ...",
+      "link": "https://pure.mpg.de/rest/items/item_3549213_3/component/file_3549215/content",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pure.mpg.de/rest/items/item_3549213_3/component/file_3549215/content&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQFnoECCQQAQ",
+      "displayed_link": "https://pure.mpg.de › rest › file_3549215 › content",
+      "favicon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3mK3ROKuVEvEvPFW7Wb_NC0.png",
+      "author": "by G Bagheri",
+      "snippet": "... platform, is of outstanding importance for the competitiveness of ... provide an insight into the diversity of scientific work in the ...",
+      "snippet_highlighted_words": [
+        "platform",
+        "provide"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... platform, is of outstanding importance for the competitiveness of ... provide an insight into the diversity of scientific work in the ...",
+          "source_info_link": "https://pure.mpg.de/rest/items/item_3549213_3/component/file_3549215/content",
+          "icon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3oUQV81h7lvuI8sep9dmxN37buY1bp58SHLsVF_uy34k.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pure.mpg.de/rest/items/item_3549213_3/component/file_3549215/content&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpure.mpg.de%2Frest%2Fitems%2Fitem_3549213_3%2Fcomponent%2Ffile_3549215%2Fcontent",
+      "source": "MPG.PuRe"
+    },
+    {
+      "position": 8,
+      "title": "FRANCHISE LAW JOURNAL",
+      "link": "https://www.americanbar.org/content/dam/aba/publications/franchising_law_journal/summer2020/franchiselaw_jul20.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.americanbar.org/content/dam/aba/publications/franchising_law_journal/summer2020/franchiselaw_jul20.pdf&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQFnoECCoQAQ",
+      "displayed_link": "https://www.americanbar.org › aba › summer2020",
+      "favicon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3rQ-3sBIZKeMA37IOvacjEg.png",
+      "date": "Aug 19, 2020",
+      "snippet": "ArtiCles. The Early History of the ABA Forum Committee on Franchising and Its Publications. Steve Brown. Joint Employers and the National ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 210
+          },
+          "extensions": [
+            "210 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "ArtiCles. The Early History of the ABA Forum Committee on Franchising and Its Publications. Steve Brown. Joint Employers and the National ...",
+          "source_info_link": "https://www.americanbar.org/content/dam/aba/publications/franchising_law_journal/summer2020/franchiselaw_jul20.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3gD3UKdCemrIkgvMnprd1BAuIEjEOlXqIILsUTBvQFoB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.americanbar.org/content/dam/aba/publications/franchising_law_journal/summer2020/franchiselaw_jul20.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.americanbar.org%2Fcontent%2Fdam%2Faba%2Fpublications%2Ffranchising_law_journal%2Fsummer2020%2Ffranchiselaw_jul20.pdf",
+      "source": "American Bar Association"
+    },
+    {
+      "position": 9,
+      "title": "Labor Day 2009",
+      "link": "https://iatse.net/wp-content/uploads/2021/05/IATSE_4th09_singles.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iatse.net/wp-content/uploads/2021/05/IATSE_4th09_singles.pdf&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQFnoECCgQAQ",
+      "displayed_link": "https://iatse.net › wp-content › uploads › 2021/05",
+      "favicon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3viVUwAFR_t4NEz5XL3EJSI.png",
+      "snippet": "Workers who belong to unions earn 28% more than non-union workers; are 52% more likely to have employer-provided health coverage and nearly three times more ...",
+      "snippet_highlighted_words": [
+        "provided"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 60
+          },
+          "extensions": [
+            "60 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Workers who belong to unions earn 28% more than non-union workers; are 52% more likely to have employer-provided health coverage and nearly three times more ...",
+          "source_info_link": "https://iatse.net/wp-content/uploads/2021/05/IATSE_4th09_singles.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3isZUMHk5I-7Rx23dugo-NVQXvOy0x81OdsqNvLtTSK1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://iatse.net/wp-content/uploads/2021/05/IATSE_4th09_singles.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fiatse.net%2Fwp-content%2Fuploads%2F2021%2F05%2FIATSE_4th09_singles.pdf",
+      "source": "iatse"
+    },
+    {
+      "position": 10,
+      "title": "Annual Conference Program",
+      "link": "https://www.socialstudies.org/sites/default/files/ncss2022/2022_NCSS_Annual_Conference_Program.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.socialstudies.org/sites/default/files/ncss2022/2022_NCSS_Annual_Conference_Program.pdf&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQFnoECCMQAQ",
+      "displayed_link": "https://www.socialstudies.org › files › ncss2022",
+      "favicon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3nDtCSF0GVUkoDaPWiL3Qg8.png",
+      "date": "Dec 2, 2022",
+      "snippet": "When you are not in sessions, we hope that you will take advantage of everything that our host city of Philadelphia has to offer. Don't miss ...",
+      "snippet_highlighted_words": [
+        "offer"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "When you are not in sessions, we hope that you will take advantage of everything that our host city of Philadelphia has to offer. Don't miss ...",
+          "source_info_link": "https://www.socialstudies.org/sites/default/files/ncss2022/2022_NCSS_Annual_Conference_Program.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf4ae678cb84f505854/images/cBIJIrHxH6ps2UnBww8m3sF3pMvei6JkC2V5Yo-F7itRTaacl1XhRrUPq_NDBCEJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.socialstudies.org/sites/default/files/ncss2022/2022_NCSS_Annual_Conference_Program.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.socialstudies.org%2Fsites%2Fdefault%2Ffiles%2Fncss2022%2F2022_NCSS_Annual_Conference_Program.pdf",
+      "source": "Social Studies.Org"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=9Vy7afjwE73Cp84P7NCxgAw&start=10&sa=N&sstk=Af77f_d5yhNuzDHqxh5CMgVu35cZsf7ioxQFWJR2b8_KvztwA1CvYIkymCKxrDkdpUVg_oXMfMbUS_Ey4ErDS8SL_L6P9ZZB3fQ2-w&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=9Vy7afjwE73Cp84P7NCxgAw&start=10&sa=N&sstk=Af77f_d5yhNuzDHqxh5CMgVu35cZsf7ioxQFWJR2b8_KvztwA1CvYIkymCKxrDkdpUVg_oXMfMbUS_Ey4ErDS8SL_L6P9ZZB3fQ2-w&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=9Vy7afjwE73Cp84P7NCxgAw&start=20&sa=N&sstk=Af77f_d5yhNuzDHqxh5CMgVu35cZsf7ioxQFWJR2b8_KvztwA1CvYIkymCKxrDkdpUVg_oXMfMbUS_Ey4ErDS8SL_L6P9ZZB3fQ2-w&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=9Vy7afjwE73Cp84P7NCxgAw&start=30&sa=N&sstk=Af77f_d5yhNuzDHqxh5CMgVu35cZsf7ioxQFWJR2b8_KvztwA1CvYIkymCKxrDkdpUVg_oXMfMbUS_Ey4ErDS8SL_L6P9ZZB3fQ2-w&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=9Vy7afjwE73Cp84P7NCxgAw&start=40&sa=N&sstk=Af77f_d5yhNuzDHqxh5CMgVu35cZsf7ioxQFWJR2b8_KvztwA1CvYIkymCKxrDkdpUVg_oXMfMbUS_Ey4ErDS8SL_L6P9ZZB3fQ2-w&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=9Vy7afjwE73Cp84P7NCxgAw&start=50&sa=N&sstk=Af77f_d5yhNuzDHqxh5CMgVu35cZsf7ioxQFWJR2b8_KvztwA1CvYIkymCKxrDkdpUVg_oXMfMbUS_Ey4ErDS8SL_L6P9ZZB3fQ2-w&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=9Vy7afjwE73Cp84P7NCxgAw&start=60&sa=N&sstk=Af77f_d5yhNuzDHqxh5CMgVu35cZsf7ioxQFWJR2b8_KvztwA1CvYIkymCKxrDkdpUVg_oXMfMbUS_Ey4ErDS8SL_L6P9ZZB3fQ2-w&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=9Vy7afjwE73Cp84P7NCxgAw&start=70&sa=N&sstk=Af77f_d5yhNuzDHqxh5CMgVu35cZsf7ioxQFWJR2b8_KvztwA1CvYIkymCKxrDkdpUVg_oXMfMbUS_Ey4ErDS8SL_L6P9ZZB3fQ2-w&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=9Vy7afjwE73Cp84P7NCxgAw&start=80&sa=N&sstk=Af77f_d5yhNuzDHqxh5CMgVu35cZsf7ioxQFWJR2b8_KvztwA1CvYIkymCKxrDkdpUVg_oXMfMbUS_Ey4ErDS8SL_L6P9ZZB3fQ2-w&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=9Vy7afjwE73Cp84P7NCxgAw&start=90&sa=N&sstk=Af77f_d5yhNuzDHqxh5CMgVu35cZsf7ioxQFWJR2b8_KvztwA1CvYIkymCKxrDkdpUVg_oXMfMbUS_Ey4ErDS8SL_L6P9ZZB3fQ2-w&ved=2ahUKEwi4v7n58qqTAxU94ckDHWxoDMAQ8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D4+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

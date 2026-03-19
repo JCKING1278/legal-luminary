@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "69bb5d52f357f621eed79364",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pEhgcnRxujOj209SwKJA6g/69bb5d52f357f621eed79364.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/pEhgcnRxujOj209SwKJA6g/69bb5d52f357f621eed79364.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:02 UTC",
+    "processed_at": "2026-03-19 02:20:02 UTC",
+    "google_url": "https://www.google.com/search?q=Curtis+Emmons+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+Instagram&oq=Curtis+Emmons+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/pEhgcnRxujOj209SwKJA6g/69bb5d52f357f621eed79364.html",
+    "total_time_taken": 1.5
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Curtis Emmons \"Bell County Commissioner P4\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Curtis Emmons \"Bell County Commissioner P4\" \"Central Texas\" Instagram",
+    "total_results": 0,
+    "time_taken_displayed": 0.38,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

@@ -1,0 +1,406 @@
+{
+  "search_metadata": {
+    "id": "69bb5d2a05bb597a155b7a81",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/U8NtnHh2IdX6oHKZCaRqKA/69bb5d2a05bb597a155b7a81.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/U8NtnHh2IdX6oHKZCaRqKA/69bb5d2a05bb597a155b7a81.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:22 UTC",
+    "processed_at": "2026-03-19 02:19:22 UTC",
+    "google_url": "https://www.google.com/search?q=Bobby+Whitson+%22Bell+County+Commissioner+P2%22+%22Central+Texas%22+Instagram&oq=Bobby+Whitson+%22Bell+County+Commissioner+P2%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/U8NtnHh2IdX6oHKZCaRqKA/69bb5d2a05bb597a155b7a81.html",
+    "total_time_taken": 1.05
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bobby Whitson \"Bell County Commissioner P2\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bobby Whitson \"Bell County Commissioner P2\" \"Central Texas\" Instagram",
+    "total_results": 347,
+    "time_taken_displayed": 0.7,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Bobby Whitson Bell County Commissioner P2 Central Texas Instagram",
+    "spelling_fix": "Bobby Whitson Bell County Commissioner P2 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bobby Whitson (@bellcountycommish)",
+      "link": "https://www.instagram.com/bellcountycommish/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/bellcountycommish/&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQFnoECCcQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33joUZyCaiH9VaEWI-zE5u5mg.png",
+      "snippet": "1.2K+ followers · 1.2K+ following · 101 posts · @bellcountycommish: “I have lived, worked, & worshiped in Bell County my entire life & I love this community ...",
+      "snippet_highlighted_words": [
+        "Bell County"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1.2K+ followers · 1.2K+ following · 101 posts · @bellcountycommish: “I have lived, worked, & worshiped in Bell County my entire life & I love this community ...",
+          "source_info_link": "https://www.instagram.com/bellcountycommish/",
+          "icon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jgBTqTi-6gfDbdngGr-bnUeLP1la5WJe4ykPtFyyXyMm.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/bellcountycommish/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fbellcountycommish%2F",
+      "missing": [
+        "P2",
+        "Central"
+      ],
+      "source": "Instagram · bellcountycommish"
+    },
+    {
+      "position": 2,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2 | Belton TX",
+      "link": "https://www.facebook.com/Vote4BobbyWhitson/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Vote4BobbyWhitson/&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQFnoECCIQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jh_2Sj5RXkvFIQh1GZsQRIw.png",
+      "snippet": "Bobby Whitson Bell County Commissioner Pct. 2, Belton. 2642 likes · 53 talking about this. – Committed to the Prosperity of Bell County – Available and...",
+      "snippet_highlighted_words": [
+        "Bobby Whitson Bell County Commissioner",
+        "Bell County"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 1
+          },
+          "extensions": [
+            "5.0(1)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Bobby Whitson Bell County Commissioner Pct. 2, Belton. 2642 likes · 53 talking about this. – Committed to the Prosperity of Bell County – Available and...",
+          "source_info_link": "https://www.facebook.com/Vote4BobbyWhitson/",
+          "icon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jlKFJpCKyI_gqBCMhDtHWcYLTNTsQsI-DQnhLJ2VAEl8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Vote4BobbyWhitson/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVote4BobbyWhitson%2F",
+      "missing": [
+        "P2",
+        "Instagram"
+      ],
+      "source": "Facebook · Bobby Whitson Bell County Commissioner Pct. 2"
+    },
+    {
+      "position": 3,
+      "title": "Pursuant to Governor Newsom's Executive Orders N-29-20 ...",
+      "link": "https://www.mpwmd.net/wp-content/uploads/Jun-21-2021-Board-Mtg-Agenda-and-Packet.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mpwmd.net/wp-content/uploads/Jun-21-2021-Board-Mtg-Agenda-and-Packet.pdf&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQFnoECCUQAQ",
+      "displayed_link": "https://www.mpwmd.net › wp-content › uploads",
+      "favicon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jtWc4zJxBuevu38keQr4hBI.png",
+      "date": "Jun 21, 2021",
+      "snippet": "This agenda was posted at the District office at 5 Harris Court, Bldg. G. Monterey, California on Thursday, June 17, 2021.",
+      "about_this_result": {
+        "source": {
+          "description": "This agenda was posted at the District office at 5 Harris Court, Bldg. G. Monterey, California on Thursday, June 17, 2021.",
+          "source_info_link": "https://www.mpwmd.net/wp-content/uploads/Jun-21-2021-Board-Mtg-Agenda-and-Packet.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jsB3Dj8P_9428LyB3vNVq01az6caHBYd0SEnINjApuNg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.mpwmd.net/wp-content/uploads/Jun-21-2021-Board-Mtg-Agenda-and-Packet.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.mpwmd.net%2Fwp-content%2Fuploads%2FJun-21-2021-Board-Mtg-Agenda-and-Packet.pdf",
+      "missing": [
+        "Bobby"
+      ],
+      "must_include": {
+        "word": "Bobby",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=%22Bobby%22+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sa=X&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ5t4CegQIIBAB"
+      },
+      "source": "Monterey Peninsula Water Management District"
+    },
+    {
+      "position": 4,
+      "title": "October Birth Announcements - The Paper",
+      "link": "https://www.thepaper.media/announcements/births/october-birth-announcements/article_eb27e4aa-a5d0-11ef-856d-0756f899125b.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thepaper.media/announcements/births/october-birth-announcements/article_eb27e4aa-a5d0-11ef-856d-0756f899125b.html&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQFnoECCQQAQ",
+      "displayed_link": "https://www.thepaper.media › announcements › births",
+      "favicon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jvQrPr8I_g42zys1yiUWwas.png",
+      "date": "Nov 23, 2024",
+      "snippet": "Taylor Raven Albright & Andrew Scott Clendenin,. a boy — Easton Scott Albright; Tamara Brooke Hinson & Matthew Ray Atwell,.",
+      "about_this_result": {
+        "source": {
+          "description": "Taylor Raven Albright & Andrew Scott Clendenin,. a boy — Easton Scott Albright; Tamara Brooke Hinson & Matthew Ray Atwell,.",
+          "source_info_link": "https://www.thepaper.media/announcements/births/october-birth-announcements/article_eb27e4aa-a5d0-11ef-856d-0756f899125b.html",
+          "icon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jgE1gJeVwyM3bduS0beSN6iwSRl96Wxl7i3cqx-JI5ow.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.thepaper.media/announcements/births/october-birth-announcements/article_eb27e4aa-a5d0-11ef-856d-0756f899125b.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thepaper.media%2Fannouncements%2Fbirths%2Foctober-birth-announcements%2Farticle_eb27e4aa-a5d0-11ef-856d-0756f899125b.html",
+      "missing": [
+        "Bobby"
+      ],
+      "must_include": {
+        "word": "Bobby",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=%22Bobby%22+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sa=X&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ5t4CegQIHhAB"
+      },
+      "source": "thepaper.media"
+    },
+    {
+      "position": 5,
+      "title": "International Journal of Progressive Education, Volume 18 ...",
+      "link": "https://inased.org/All_Documents/Journals/IJPE/volume18/ijpev18n2.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://inased.org/All_Documents/Journals/IJPE/volume18/ijpev18n2.pdf&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQFnoECCMQAQ",
+      "displayed_link": "https://inased.org › Journals › IJPE › volume18",
+      "favicon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jgqtsjZUe9RxkV4bW7jDR1M.png",
+      "snippet": "Editorial Review Board (Board of Referees). Peggy Placier. University of Missouri-Columbia, USA. Yang Changyong. Southwest China Normal University China.",
+      "about_this_result": {
+        "source": {
+          "description": "Editorial Review Board (Board of Referees). Peggy Placier. University of Missouri-Columbia, USA. Yang Changyong. Southwest China Normal University China.",
+          "source_info_link": "https://inased.org/All_Documents/Journals/IJPE/volume18/ijpev18n2.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33joj2-pWScFwQnTTMQ9P7bYrA3aFygDKTHTIUr2V7PKbb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://inased.org/All_Documents/Journals/IJPE/volume18/ijpev18n2.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Finased.org%2FAll_Documents%2FJournals%2FIJPE%2Fvolume18%2Fijpev18n2.pdf",
+      "missing": [
+        "Bobby"
+      ],
+      "must_include": {
+        "word": "Bobby",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=%22Bobby%22+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sa=X&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ5t4CegQIHBAB"
+      },
+      "source": "International Association of Educators"
+    },
+    {
+      "position": 6,
+      "title": "Bobby Whitson (Bell County Commissioner Precinct 2 ...",
+      "link": "https://ballotpedia.org/Bobby_Whitson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Bobby_Whitson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQFnoECC8QAQ",
+      "displayed_link": "https://ballotpedia.org › Bobby_Whitson_(Bell_County_...",
+      "favicon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jtxQvvWPuoVJvYeUMpKg6Jc.png",
+      "snippet": "Any candidate running for elected office, at any level, can complete Ballotpedia's Candidate Survey. Completing the survey will update the candidate's ...",
+      "about_this_result": {
+        "source": {
+          "description": "Any candidate running for elected office, at any level, can complete Ballotpedia's Candidate Survey. Completing the survey will update the candidate's ...",
+          "source_info_link": "https://ballotpedia.org/Bobby_Whitson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jtM9ak02hfb3p_WUcotpqN4mDdtqX9tBnywr9qdZ2h4N.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Bobby_Whitson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FBobby_Whitson_%28Bell_County_Commissioner_Precinct_2%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "P2",
+        "Central",
+        "Instagram"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 7,
+      "title": "Western Journal of Emergency Medicine",
+      "link": "https://escholarship.org/content/qt6058k1p5/qt6058k1p5_noSplash_84c27ba0c4c69bd3b075ae8a0e78d2b6.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://escholarship.org/content/qt6058k1p5/qt6058k1p5_noSplash_84c27ba0c4c69bd3b075ae8a0e78d2b6.pdf&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQFnoECCwQAQ",
+      "displayed_link": "https://escholarship.org › content",
+      "favicon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jkbuudE4FH_lrXy1fb0vf34.png",
+      "author": "by N Valenzi",
+      "snippet": "About Us: Penn State Health is a multi-hospital health system serving patients and communities across central Pennsylvania. We are the only medical facility in ...",
+      "snippet_highlighted_words": [
+        "central"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 193
+          },
+          "extensions": [
+            "193 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "About Us: Penn State Health is a multi-hospital health system serving patients and communities across central Pennsylvania. We are the only medical facility in ...",
+          "source_info_link": "https://escholarship.org/content/qt6058k1p5/qt6058k1p5_noSplash_84c27ba0c4c69bd3b075ae8a0e78d2b6.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jkEdb5hc2XWQFCP7WCykotknElm9TTqWfTRCWSyur4dW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://escholarship.org/content/qt6058k1p5/qt6058k1p5_noSplash_84c27ba0c4c69bd3b075ae8a0e78d2b6.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fescholarship.org%2Fcontent%2Fqt6058k1p5%2Fqt6058k1p5_noSplash_84c27ba0c4c69bd3b075ae8a0e78d2b6.pdf",
+      "missing": [
+        "Bobby"
+      ],
+      "must_include": {
+        "word": "Bobby",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=%22Bobby%22+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sa=X&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ5t4CegQIHxAB"
+      },
+      "source": "eScholarship"
+    },
+    {
+      "position": 8,
+      "title": "The Antecedents of Consumer Response to Domestic and ...",
+      "link": "https://www.ln.edu.hk/oge/f/upload/113724/Extended-Abstracts-Updated-on-9-Dec_compressed.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ln.edu.hk/oge/f/upload/113724/Extended-Abstracts-Updated-on-9-Dec_compressed.pdf&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQFnoECEUQAQ",
+      "displayed_link": "https://www.ln.edu.hk › oge › upload › Extende...",
+      "favicon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33juWft-SfVupg2lju83ORCzI.png",
+      "snippet": "Balabanis, G. & Diamantopoulos, A. 2004. Domestic country bias, country-of-origin effects, and consumer ethnocentrism: a multidimensional unfolding approach ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 1231
+          },
+          "extensions": [
+            "1,231 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Balabanis, G. & Diamantopoulos, A. 2004. Domestic country bias, country-of-origin effects, and consumer ethnocentrism: a multidimensional unfolding approach ...",
+          "source_info_link": "https://www.ln.edu.hk/oge/f/upload/113724/Extended-Abstracts-Updated-on-9-Dec_compressed.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jgJi6zrRpvCD4uYO59rT94lWvyUIJGf3bUWN6o56lYL2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ln.edu.hk/oge/f/upload/113724/Extended-Abstracts-Updated-on-9-Dec_compressed.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ln.edu.hk%2Foge%2Ff%2Fupload%2F113724%2FExtended-Abstracts-Updated-on-9-Dec_compressed.pdf",
+      "missing": [
+        "Bobby"
+      ],
+      "must_include": {
+        "word": "Bobby",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=%22Bobby%22+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sa=X&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ5t4CegQIRhAB"
+      },
+      "source": "Lingnan University"
+    },
+    {
+      "position": 9,
+      "title": "Environment and Health",
+      "link": "https://cdn.ymaws.com/www.edra.org/resource/resmgr/proceedings/fullproceedings/edra54_proceedings_ch1-12.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cdn.ymaws.com/www.edra.org/resource/resmgr/proceedings/fullproceedings/edra54_proceedings_ch1-12.pdf&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQFnoECD4QAQ",
+      "displayed_link": "https://cdn.ymaws.com › resmgr › fullproceedings",
+      "date": "Dec 8, 2022",
+      "snippet": "We are very excited to present the EDRA54 Mexico City Conference Proceedings to the EDRA community, where the theme of “Environment and ...",
+      "about_this_result": {
+        "source": {
+          "description": "We are very excited to present the EDRA54 Mexico City Conference Proceedings to the EDRA community, where the theme of “Environment and ...",
+          "source_info_link": "https://cdn.ymaws.com/www.edra.org/resource/resmgr/proceedings/fullproceedings/edra54_proceedings_ch1-12.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cdn.ymaws.com/www.edra.org/resource/resmgr/proceedings/fullproceedings/edra54_proceedings_ch1-12.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcdn.ymaws.com%2Fwww.edra.org%2Fresource%2Fresmgr%2Fproceedings%2Ffullproceedings%2Fedra54_proceedings_ch1-12.pdf",
+      "missing": [
+        "Bobby"
+      ],
+      "must_include": {
+        "word": "Bobby",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=%22Bobby%22+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sa=X&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ5t4CegQIPRAB"
+      },
+      "source": "ymaws.com"
+    },
+    {
+      "position": 10,
+      "title": "Early Black Settlements by County",
+      "link": "https://indianahistory.org/research/research-materials/early-black-settlements/early-black-settlements-by-county/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://indianahistory.org/research/research-materials/early-black-settlements/early-black-settlements-by-county/&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQFnoECEIQAQ",
+      "displayed_link": "https://indianahistory.org › ... › Early Black Settlements",
+      "favicon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jkyHOdnDH5Y8OFwRWgWD3kQ.png",
+      "author": "by EBS by County",
+      "snippet": "Popular understanding of Indiana black history focuses on post-Civil War African-American migration to cities in the north, such as Evansville, Fort Wayne, ...",
+      "about_this_result": {
+        "source": {
+          "description": "Popular understanding of Indiana black history focuses on post-Civil War African-American migration to cities in the north, such as Evansville, Fort Wayne, ...",
+          "source_info_link": "https://indianahistory.org/research/research-materials/early-black-settlements/early-black-settlements-by-county/",
+          "icon": "https://serpapi.com/searches/69bb5d2a05bb597a155b7a81/images/nLZYxaOfXzuYNMZsIH33jvZVWhFSoQjKJPfoDC4WJus5Z3J2RjCDQ7EXw3yuwKjF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://indianahistory.org/research/research-materials/early-black-settlements/early-black-settlements-by-county/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Findianahistory.org%2Fresearch%2Fresearch-materials%2Fearly-black-settlements%2Fearly-black-settlements-by-county%2F",
+      "missing": [
+        "Commissioner"
+      ],
+      "must_include": {
+        "word": "Commissioner",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+%22Commissioner%22+P2+Central+Texas+Instagram&sa=X&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ5t4CegQIQBAB"
+      },
+      "source": "Indiana Historical Society"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=Kl27aY6ED-OfptQPjtbS2Ak&start=10&sa=N&sstk=Af77f_eQ8Mqut4fVXUO55It-kHyTQ-_wM5bOstOs8TAPNN45_YcMC13Rfve6i5pJhAb1q_GZSRidBzycA0Ho1LrFBTPYU4Q4AbNoBw&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ8NMDegQIEBAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=Kl27aY6ED-OfptQPjtbS2Ak&start=10&sa=N&sstk=Af77f_eQ8Mqut4fVXUO55It-kHyTQ-_wM5bOstOs8TAPNN45_YcMC13Rfve6i5pJhAb1q_GZSRidBzycA0Ho1LrFBTPYU4Q4AbNoBw&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ8tMDegQIEBAE",
+      "3": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=Kl27aY6ED-OfptQPjtbS2Ak&start=20&sa=N&sstk=Af77f_eQ8Mqut4fVXUO55It-kHyTQ-_wM5bOstOs8TAPNN45_YcMC13Rfve6i5pJhAb1q_GZSRidBzycA0Ho1LrFBTPYU4Q4AbNoBw&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ8tMDegQIEBAG",
+      "4": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=Kl27aY6ED-OfptQPjtbS2Ak&start=30&sa=N&sstk=Af77f_eQ8Mqut4fVXUO55It-kHyTQ-_wM5bOstOs8TAPNN45_YcMC13Rfve6i5pJhAb1q_GZSRidBzycA0Ho1LrFBTPYU4Q4AbNoBw&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ8tMDegQIEBAI",
+      "5": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=Kl27aY6ED-OfptQPjtbS2Ak&start=40&sa=N&sstk=Af77f_eQ8Mqut4fVXUO55It-kHyTQ-_wM5bOstOs8TAPNN45_YcMC13Rfve6i5pJhAb1q_GZSRidBzycA0Ho1LrFBTPYU4Q4AbNoBw&ved=2ahUKEwiOwdeS86qTAxXjj4kEHQ6rFJsQ8tMDegQIEBAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Instagram&start=40"
+    }
+  }
+}

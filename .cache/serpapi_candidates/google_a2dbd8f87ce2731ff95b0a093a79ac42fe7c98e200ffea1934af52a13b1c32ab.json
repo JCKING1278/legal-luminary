@@ -1,0 +1,91 @@
+{
+  "search_metadata": {
+    "id": "69bb5de031866017e56b12b7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5B9IzwONmHM6PpzcQRIFkw/69bb5de031866017e56b12b7.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/5B9IzwONmHM6PpzcQRIFkw/69bb5de031866017e56b12b7.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:24 UTC",
+    "processed_at": "2026-03-19 02:22:24 UTC",
+    "google_url": "https://www.google.com/search?q=William+P.+Abel+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=William+P.+Abel+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5B9IzwONmHM6PpzcQRIFkw/69bb5de031866017e56b12b7.html",
+    "total_time_taken": 1.1
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "William P. Abel \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "William P. Abel \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 2,
+    "time_taken_displayed": 0.39,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Army Veteran William Abel for US House District 31 is working ...",
+      "link": "https://www.facebook.com/groups/1722046241675118/posts/2007716099774796/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1722046241675118/posts/2007716099774796/&ved=2ahUKEwj8ndbp86qTAxVWEUQIHb5sOe4QFnoECBkQAQ",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/searches/69bb5de031866017e56b12b7/images/ws-4f6OXF44X1CsaQMx3IxnRiGNwgWl4Ytk3qq_rw2g.png",
+      "snippet": "... William Abel for U.S. House TX-31. @Abel tx31 has ... Central Texas Community The Central Texas BBQ ... https://www.instagram. com/p/DVrs7ZHDelK/? ...",
+      "snippet_highlighted_words": [
+        "William Abel",
+        "U.S. House TX-31",
+        "Abel",
+        "Central Texas",
+        "Central Texas",
+        "p"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... William Abel for U.S. House TX-31. @Abel tx31 has ... Central Texas Community The Central Texas BBQ ... https://www.instagram. com/p\n/DVrs7ZHDelK/? ...",
+          "source_info_link": "https://www.facebook.com/groups/1722046241675118/posts/2007716099774796/",
+          "icon": "https://serpapi.com/searches/69bb5de031866017e56b12b7/images/ws-4f6OXF44X1CsaQMx3I7sYAUOM_adKRrRvJDbO7bnSh9AdtBKnUQxKYrDZp39M.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1722046241675118/posts/2007716099774796/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1722046241675118%2Fposts%2F2007716099774796%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 2,
+      "title": "22 candidates running for Congress have signed our pledge ...",
+      "link": "https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/&ved=2ahUKEwj8ndbp86qTAxVWEUQIHb5sOe4QFnoECBwQAQ",
+      "displayed_link": "https://www.facebook.com › posts › 22-candidates-run...",
+      "favicon": "https://serpapi.com/searches/69bb5de031866017e56b12b7/images/ws-4f6OXF44X1CsaQMx3Iy5uHJhAqaWhcYu-W_VJ0Lk.png",
+      "snippet": "... William Abel, US House TX-31 @Abel_tx31 - Jace ... Central Texas Local Politics & Events. Thank you ... Neal P. Dunn of Florida's 2nd Congressional ...",
+      "snippet_highlighted_words": [
+        "William Abel",
+        "US House TX-31",
+        "Central Texas",
+        "P"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... William Abel, US House TX-31 @Abel_tx31 - Jace ... Central Texas Local Politics & Events. Thank you ... Neal P. Dunn of Florida's 2nd Congressional ...",
+          "source_info_link": "https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/",
+          "icon": "https://serpapi.com/searches/69bb5de031866017e56b12b7/images/ws-4f6OXF44X1CsaQMx3I9Wdr0jXccziryEv9nEid_m1roOCIgjuxPLmVkahOt0h.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FDrMaryTalleyBowden%2Fposts%2F22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-%2F936734028884543%2F",
+      "source": "Facebook"
+    }
+  ]
+}

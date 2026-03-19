@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "69bb5e575c93012fb7920e65",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JN4amvGoEHnHYrB5CkooQA/69bb5e575c93012fb7920e65.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/JN4amvGoEHnHYrB5CkooQA/69bb5e575c93012fb7920e65.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:23 UTC",
+    "processed_at": "2026-03-19 02:24:23 UTC",
+    "google_url": "https://www.google.com/search?q=Ramon+Alvarez+%22Killeen+Council+At-Large%22+%22Killeen%22+Instagram&oq=Ramon+Alvarez+%22Killeen+Council+At-Large%22+%22Killeen%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/JN4amvGoEHnHYrB5CkooQA/69bb5e575c93012fb7920e65.html",
+    "total_time_taken": 2.9
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Ramon Alvarez \"Killeen Council At-Large\" \"Killeen\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Ramon Alvarez \"Killeen Council At-Large\" \"Killeen\" Instagram",
+    "total_results": 0,
+    "time_taken_displayed": 0.45,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

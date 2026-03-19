@@ -1,0 +1,379 @@
+{
+  "search_metadata": {
+    "id": "69bb5d9e95a694f6bd86f143",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qjSl_MnjBkSDZEkkc-t4dw/69bb5d9e95a694f6bd86f143.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/qjSl_MnjBkSDZEkkc-t4dw/69bb5d9e95a694f6bd86f143.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:18 UTC",
+    "processed_at": "2026-03-19 02:21:18 UTC",
+    "google_url": "https://www.google.com/search?q=Latasha+Carroway+Quarles+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Instagram&oq=Latasha+Carroway+Quarles+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/qjSl_MnjBkSDZEkkc-t4dw/69bb5d9e95a694f6bd86f143.html",
+    "total_time_taken": 1.34
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Latasha Carroway Quarles \"Bell JP P4 Place 2\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Latasha Carroway Quarles \"Bell JP P4 Place 2\" \"Central Texas\" Instagram",
+    "total_results": 518,
+    "time_taken_displayed": 0.52,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    },
+    "showing_results_for": "Latasha Carroway Quarles Bell JP P4 Place 2 Central Texas Instagram",
+    "spelling_fix": "Latasha Carroway Quarles Bell JP P4 Place 2 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Court records reveal that Frank Steven Demo, from Spring ...",
+      "link": "https://www.facebook.com/GrizzysHoodNews/posts/court-records-reveal-that-frank-steven-demo-from-spring-branch-has-been-charged-/1333301018156382/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/GrizzysHoodNews/posts/court-records-reveal-that-frank-steven-demo-from-spring-branch-has-been-charged-/1333301018156382/&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8QFnoECCEQAQ",
+      "displayed_link": "2.1K+ reactions · 6 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikrclSBzTGFhBnemXgSX_gfM.png",
+      "snippet": "Court records reveal that Frank Steven Demo, from Spring Branch, has been charged with sexual exploitation of minors following a multi-state ...",
+      "about_this_result": {
+        "source": {
+          "description": "Court records reveal that Frank Steven Demo, from Spring Branch, has been charged with sexual exploitation of minors following a multi-state ...",
+          "source_info_link": "https://www.facebook.com/GrizzysHoodNews/posts/court-records-reveal-that-frank-steven-demo-from-spring-branch-has-been-charged-/1333301018156382/",
+          "icon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikqVo8DSfurqwfEQ-c-pfirbmaHcq4npqcQj53y5nIVY-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/GrizzysHoodNews/posts/court-records-reveal-that-frank-steven-demo-from-spring-branch-has-been-charged-/1333301018156382/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FGrizzysHoodNews%2Fposts%2Fcourt-records-reveal-that-frank-steven-demo-from-spring-branch-has-been-charged-%2F1333301018156382%2F",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "Facebook · Grizzy's Hood News"
+    },
+    {
+      "position": 2,
+      "title": "Plaintiff v. Defendant 3:2020av99999 | U.S. District Court ...",
+      "link": "https://dockets.justia.com/docket/south-carolina/scdce/3:2020av99999/254508",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dockets.justia.com/docket/south-carolina/scdce/3:2020av99999/254508&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8QFnoECB8QAQ",
+      "displayed_link": "https://dockets.justia.com › ... › District Court",
+      "favicon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikkBLZtAiOzdyeETQQ7iVGxU.png",
+      "date": "Dec 27, 2019",
+      "snippet": "Insurance case filed on December 27, 2019 in the South Carolina District Court.",
+      "about_this_result": {
+        "source": {
+          "description": "Insurance case filed on December 27, 2019 in the South Carolina District Court.",
+          "source_info_link": "https://dockets.justia.com/docket/south-carolina/scdce/3:2020av99999/254508",
+          "icon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikjY1McwOqHjHQJsfL2M9SxVnU3jjFj_2ZCzeUMOWiR3P.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://dockets.justia.com/docket/south-carolina/scdce/3:2020av99999/254508&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdockets.justia.com%2Fdocket%2Fsouth-carolina%2Fscdce%2F3%3A2020av99999%2F254508",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "Justia Dockets & Filings"
+    },
+    {
+      "position": 3,
+      "title": "Attorney General Reports",
+      "link": "https://clerk.franklincountyohio.gov/pubrecords/AG-Lien?id=2022-11-04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://clerk.franklincountyohio.gov/pubrecords/AG-Lien%3Fid%3D2022-11-04&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8QFnoECBoQAQ",
+      "displayed_link": "https://clerk.franklincountyohio.gov › AG-Lien",
+      "favicon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikrzXJekiUS4kghGom_r1oYk.png",
+      "date": "Nov 4, 2022",
+      "snippet": "Weekly Attorney General Revenue Recovery Post Processing Report CIV591.",
+      "about_this_result": {
+        "source": {
+          "description": "Weekly Attorney General Revenue Recovery Post Processing Report CIV591.",
+          "source_info_link": "https://clerk.franklincountyohio.gov/pubrecords/AG-Lien?id=2022-11-04",
+          "icon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikgmc3diSM_4ajzV94srbNS5QziuDJVT1JbgophZvqSM_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://clerk.franklincountyohio.gov/pubrecords/AG-Lien?id=2022-11-04&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fclerk.franklincountyohio.gov%2Fpubrecords%2FAG-Lien%3Fid%3D2022-11-04",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "Franklin County Clerk of Courts (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "NY Top Court Set to Weigh In on 'Extraordinary ...",
+      "link": "https://assets.alm.com/23/cf/5379057f4be8857aa6b076b286af/nylj20260108a.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://assets.alm.com/23/cf/5379057f4be8857aa6b076b286af/nylj20260108a.pdf&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8QFnoECDUQAQ",
+      "displayed_link": "https://assets.alm.com › ...",
+      "date": "Jan 8, 2026",
+      "snippet": "Private equity, hybrids, fam- ily office, this isn't just sexy to invest in, but an incredible area to invest in.” Jaffe said that while, tradi-.",
+      "snippet_highlighted_words": [
+        "area"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 16
+          },
+          "extensions": [
+            "16 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Private equity, hybrids, fam- ily office, this isn't just sexy to invest in, but an incredible area to invest in.” Jaffe said that while, tradi-.",
+          "source_info_link": "https://assets.alm.com/23/cf/5379057f4be8857aa6b076b286af/nylj20260108a.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://assets.alm.com/23/cf/5379057f4be8857aa6b076b286af/nylj20260108a.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fassets.alm.com%2F23%2Fcf%2F5379057f4be8857aa6b076b286af%2Fnylj20260108a.pdf",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "ALM Media"
+    },
+    {
+      "position": 5,
+      "title": "Danielle Deadwyler",
+      "link": "https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-winter-2023.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-winter-2023.pdf&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8QFnoECDgQAQ",
+      "displayed_link": "https://www.spelman.edu › spelman-messenger › s...",
+      "favicon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikhDHSZ7TCmDZDGPEQC5WILA.png",
+      "snippet": "The Spelman Messenger is published twice a year by. Spelman College, 350 Spelman Lane, S.W., Atlanta,. Georgia 30314-4399, free of charge for alumnae,.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 76
+          },
+          "extensions": [
+            "76 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Spelman Messenger is published twice a year by. Spelman College, 350 Spelman Lane, S.W., Atlanta,. Georgia 30314-4399, free of charge for alumnae,.",
+          "source_info_link": "https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-winter-2023.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikvk7EP5mgTA-9misoOcron5h9pDU6xNUiE2utBoBpIda.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-winter-2023.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.spelman.edu%2F_1_Docs-and-Files%2Fspelman-messenger%2Fspelman-messenger-winter-2023.pdf",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "Spelman College"
+    },
+    {
+      "position": 6,
+      "title": "zxcvbn.js.map",
+      "link": "https://forge.inrae.fr/eabx-public/transect/-/blob/v1.8.1/display/node_modules/zxcvbn/dist/zxcvbn.js.map",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forge.inrae.fr/eabx-public/transect/-/blob/v1.8.1/display/node_modules/zxcvbn/dist/zxcvbn.js.map&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8QFnoECC4QAQ",
+      "displayed_link": "https://forge.inrae.fr › eabx-public › Transect",
+      "favicon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikuRgELjVdNAzhksOl7JiVj8.png",
+      "date": "Jun 5, 2020",
+      "snippet": "GitLab Community Edition.",
+      "about_this_result": {
+        "source": {
+          "description": "GitLab Community Edition.",
+          "source_info_link": "https://forge.inrae.fr/eabx-public/transect/-/blob/v1.8.1/display/node_modules/zxcvbn/dist/zxcvbn.js.map",
+          "icon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikne3ZP2KwEUG-QSis0IzyKwsyhW7fZ-hRL1ButnmAWmH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://forge.inrae.fr/eabx-public/transect/-/blob/v1.8.1/display/node_modules/zxcvbn/dist/zxcvbn.js.map&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fforge.inrae.fr%2Feabx-public%2Ftransect%2F-%2Fblob%2Fv1.8.1%2Fdisplay%2Fnode_modules%2Fzxcvbn%2Fdist%2Fzxcvbn.js.map",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "INRAE"
+    },
+    {
+      "position": 7,
+      "title": "Send me a message to be featured on next month's cards!",
+      "link": "https://www.facebook.com/groups/320222211457658/posts/4264116483734858/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/320222211457658/posts/4264116483734858/&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8QFnoECDAQAQ",
+      "displayed_link": "5 days ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackiklr0wg7O_o6Wm_05pjw4vFk.png",
+      "snippet": "Send me a message to be featured on next month's cards! Just finished the Catoosa community card for March! 2500 cards were handed off to ...",
+      "about_this_result": {
+        "source": {
+          "description": "Send me a message to be featured on next month's cards! Just finished the Catoosa community card for March! 2500 cards were handed off to ...",
+          "source_info_link": "https://www.facebook.com/groups/320222211457658/posts/4264116483734858/",
+          "icon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikjoKnqzmCXrmed6_7AsWwJpA1mmSK8aLcuGCs-VtiQUG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/320222211457658/posts/4264116483734858/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F320222211457658%2Fposts%2F4264116483734858%2F",
+      "missing": [
+        "Carroway"
+      ],
+      "must_include": {
+        "word": "Carroway",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Latasha+%22Carroway%22+Quarles+Bell+JP+P4+Place+2+Central+Texas+Instagram&sa=X&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8Q5t4CegQIQhAB"
+      },
+      "source": "Facebook · Catoosa Business Connection"
+    },
+    {
+      "position": 8,
+      "title": "blocktrail-webwallet/src/lib/zxcvbn/dist/zxcvbn.js.map ...",
+      "link": "https://github.com/blocktrail/blocktrail-webwallet/blob/master/src/lib/zxcvbn/dist/zxcvbn.js.map",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/blocktrail/blocktrail-webwallet/blob/master/src/lib/zxcvbn/dist/zxcvbn.js.map&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8QFnoECDQQAQ",
+      "displayed_link": "https://github.com › blocktrail-webwallet › blob › master",
+      "favicon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikqIH20D6gW5sp_EfVHWa2e8.png",
+      "snippet": "BTC.com Web Wallet. Contribute to blocktrail/blocktrail-webwallet development by creating an account on GitHub.",
+      "about_this_result": {
+        "source": {
+          "description": "BTC.com Web Wallet. Contribute to blocktrail/blocktrail-webwallet development by creating an account on GitHub.",
+          "source_info_link": "https://github.com/blocktrail/blocktrail-webwallet/blob/master/src/lib/zxcvbn/dist/zxcvbn.js.map",
+          "icon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackiknowvBihGzsxCUcZturpcR7Cobf307ydvvNhUuSXN9Ta.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://github.com/blocktrail/blocktrail-webwallet/blob/master/src/lib/zxcvbn/dist/zxcvbn.js.map&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fgithub.com%2Fblocktrail%2Fblocktrail-webwallet%2Fblob%2Fmaster%2Fsrc%2Flib%2Fzxcvbn%2Fdist%2Fzxcvbn.js.map",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 9,
+      "title": "City of Mesa City of Mesa Tariffs | PDF | Postal System",
+      "link": "https://www.scribd.com/document/446799266/City-of-Mesa-City-of-Mesa-Tariffs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/446799266/City-of-Mesa-City-of-Mesa-Tariffs&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8QFnoECDMQAQ",
+      "displayed_link": "https://www.scribd.com › document › City-of-Mesa-Cit...",
+      "favicon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackiksHTR1YV0K5yZ2yClDnKVZE.png",
+      "snippet": "This document appears to be an exhibit listing containing contact information for parties related to \"Case 17-34665-KLP\". It includes company names and ...",
+      "about_this_result": {
+        "source": {
+          "description": "This document appears to be an exhibit listing containing contact information for parties related to \"Case 17-34665-KLP\". It includes company names and ...",
+          "source_info_link": "https://www.scribd.com/document/446799266/City-of-Mesa-City-of-Mesa-Tariffs",
+          "icon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikifD2o7QW0bZAWN5v3kZwf4rf_VrlNTi8lj20dQ3nCiR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.scribd.com/document/446799266/City-of-Mesa-City-of-Mesa-Tariffs&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.scribd.com%2Fdocument%2F446799266%2FCity-of-Mesa-City-of-Mesa-Tariffs",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "Scribd"
+    },
+    {
+      "position": 10,
+      "title": "Mary Schmidt Campbell, Ph.D.",
+      "link": "https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-spring-2022.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-spring-2022.pdf&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8QFnoECC8QAQ",
+      "displayed_link": "https://www.spelman.edu › spelman-messenger › s...",
+      "favicon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikjx-sNlYxSTSCsMdSC-WpUc.png",
+      "date": "Mar 8, 2022",
+      "snippet": "The Spelman Messenger is published twice a year by. Spelman College, 350 Spelman Lane, S.W., Atlanta,. Georgia 30314-4399, free of charge ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 76
+          },
+          "extensions": [
+            "76 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Spelman Messenger is published twice a year by. Spelman College, 350 Spelman Lane, S.W., Atlanta,. Georgia 30314-4399, free of charge ...",
+          "source_info_link": "https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-spring-2022.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d9e95a694f6bd86f143/images/wnoFdO6URfqSGWzxackikriLWiU5mIrL5voD76tFkmZKDZNGpEXsgnq8is8FhE12.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-spring-2022.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.spelman.edu%2F_1_Docs-and-Files%2Fspelman-messenger%2Fspelman-messenger-spring-2022.pdf",
+      "missing": [
+        "Carroway",
+        "P4"
+      ],
+      "source": "Spelman College"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=nl27af2NMca5kPIPrcbe-AM&start=10&sa=N&sstk=Af77f_dtwuT_EBuuHnZe7xoVfhdTPrP50jxFOKYI6jT5zxo3TXNFo_k8xp4ivSMtmREUMiir0WnDA2sXfhMwwfy7GrHX6o2m_8Zw5A&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8Q8NMDegQICRAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=nl27af2NMca5kPIPrcbe-AM&start=10&sa=N&sstk=Af77f_dtwuT_EBuuHnZe7xoVfhdTPrP50jxFOKYI6jT5zxo3TXNFo_k8xp4ivSMtmREUMiir0WnDA2sXfhMwwfy7GrHX6o2m_8Zw5A&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8Q8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=nl27af2NMca5kPIPrcbe-AM&start=20&sa=N&sstk=Af77f_dtwuT_EBuuHnZe7xoVfhdTPrP50jxFOKYI6jT5zxo3TXNFo_k8xp4ivSMtmREUMiir0WnDA2sXfhMwwfy7GrHX6o2m_8Zw5A&ved=2ahUKEwj91KHK86qTAxXGHEQIHS2jFz8Q8tMDegQICRAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=20"
+    }
+  }
+}

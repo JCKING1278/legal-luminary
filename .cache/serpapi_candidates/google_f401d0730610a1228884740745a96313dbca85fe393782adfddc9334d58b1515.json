@@ -1,0 +1,358 @@
+{
+  "search_metadata": {
+    "id": "69bb5d8bbd1c2061845dd9f0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/k3Tqx1mM7wciU3MAFOPNeA/69bb5d8bbd1c2061845dd9f0.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/k3Tqx1mM7wciU3MAFOPNeA/69bb5d8bbd1c2061845dd9f0.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:59 UTC",
+    "processed_at": "2026-03-19 02:20:59 UTC",
+    "google_url": "https://www.google.com/search?q=Tom+Maynard+%22SBOE+TX-10%22+%22Central+Texas%22+Instagram&oq=Tom+Maynard+%22SBOE+TX-10%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/k3Tqx1mM7wciU3MAFOPNeA/69bb5d8bbd1c2061845dd9f0.html",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Tom Maynard \"SBOE TX-10\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Tom Maynard \"SBOE TX-10\" \"Central Texas\" Instagram",
+    "total_results": 450,
+    "time_taken_displayed": 0.56,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Tom Maynard SBOE TX-10 Central Texas Instagram",
+    "spelling_fix": "Tom Maynard SBOE TX-10 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Tom Maynard, Texas School Board of Education (SBOE), ...",
+      "link": "https://www.instagram.com/p/C-SgTgbi2kH/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/C-SgTgbi2kH/&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQFnoECCQQAQ",
+      "displayed_link": "10+ likes · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAMyVIYLmKDdIL8cblyO8nsac.png",
+      "snippet": "He will be discussing what is currently happening with the Texas SBOE and legislative priorities for the upcoming 2025 legislative session. RSVP ...",
+      "snippet_highlighted_words": [
+        "Texas SBOE"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "He will be discussing what is currently happening with the Texas SBOE and legislative priorities for the upcoming 2025 legislative session. RSVP ...",
+          "source_info_link": "https://www.instagram.com/p/C-SgTgbi2kH/",
+          "icon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM_0oUxbIeBL2efLAdcEXrhqePJr8iIdTv3SqrWFYMqvJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/C-SgTgbi2kH/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FC-SgTgbi2kH%2F",
+      "missing": [
+        "TX-",
+        "Central"
+      ],
+      "source": "Instagram · leanderarw"
+    },
+    {
+      "position": 2,
+      "title": "What a great evening block walking in Fredericksburg with ...",
+      "link": "https://www.instagram.com/p/DBP4T-pN7QO/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DBP4T-pN7QO/&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQFnoECCMQAQ",
+      "displayed_link": "20+ likes · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAMwRObWWXRi8i749Iy8WFAuc.png",
+      "snippet": "I'll be in College Station this weekend. District 10 includes 26 counties and I try to be in as many as I can. You can check the link in the bio ...",
+      "snippet_highlighted_words": [
+        "10"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I'll be in College Station this weekend. District 10 includes 26 counties and I try to be in as many as I can. You can check the link in the bio ...",
+          "source_info_link": "https://www.instagram.com/p/DBP4T-pN7QO/",
+          "icon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM5HaSqN_xPghH2_4gqXpqZUJHVRXWZ-1eMXXDKxh2eu-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DBP4T-pN7QO/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDBP4T-pN7QO%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Tom+Maynard+SBOE+TX-10+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ5t4CegQINBAB"
+      },
+      "source": "Instagram · drsoforsboe"
+    },
+    {
+      "position": 3,
+      "title": "Photo by Tom Maynard (@tommaynard) · October 19, 2024",
+      "link": "https://www.instagram.com/p/DBTkRzky99O/?__d=1%2F",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DBTkRzky99O/%3F__d%3D1%252F&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQFnoECCUQAQ",
+      "displayed_link": "40+ likes · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAMwBW5RV3vw2Cy5AZFhS1YSE.png",
+      "snippet": "Photo by Tom Maynard on March 11, 2026. May be an image of truck.",
+      "snippet_highlighted_words": [
+        "Tom Maynard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Photo by Tom Maynard on March 11, 2026. May be an image of truck.",
+          "source_info_link": "https://www.instagram.com/p/DBTkRzky99O/?__d=1%2F",
+          "icon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM8bWy6KU883iVA8fD6e_mbztgAM4--C1iovubZiP7_YN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DBTkRzky99O/?__d=1%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDBTkRzky99O%2F%3F__d%3D1%252F",
+      "missing": [
+        "SBOE",
+        "TX-",
+        "Central",
+        "Texas"
+      ],
+      "source": "Instagram · tommaynard"
+    },
+    {
+      "position": 4,
+      "title": "Student ICE Protests Prompt State Board of Education ...",
+      "link": "https://thetexan.news/issues/education/student-ice-protests-prompt-state-board-of-education-members-to-urge-greater-tea-action/article_2aa6841f-be57-4de6-8a9f-7e37d079a031.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thetexan.news/issues/education/student-ice-protests-prompt-state-board-of-education-members-to-urge-greater-tea-action/article_2aa6841f-be57-4de6-8a9f-7e37d079a031.html&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQFnoECB4QAQ",
+      "displayed_link": "https://thetexan.news › Issues › Education",
+      "favicon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM8H_tk4FputIAE33v27psuY.png",
+      "date": "Feb 9, 2026",
+      "snippet": "11), Tom Maynard (R-Dist. 10), and Julie Pickren (R-Dist. 7) expressed “serious concerns” regarding widespread student walkouts in protest ...",
+      "snippet_highlighted_words": [
+        "Tom Maynard",
+        "10"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "11), Tom Maynard (R-Dist. 10), and Julie Pickren (R-Dist. 7) expressed “serious concerns” regarding widespread student walkouts in protest ...",
+          "source_info_link": "https://thetexan.news/issues/education/student-ice-protests-prompt-state-board-of-education-members-to-urge-greater-tea-action/article_2aa6841f-be57-4de6-8a9f-7e37d079a031.html",
+          "icon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAMzIl61S_KLgI_N7pQpv9Lm94NZWZys0FEW3Ymlpp_gWy.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thetexan.news/issues/education/student-ice-protests-prompt-state-board-of-education-members-to-urge-greater-tea-action/article_2aa6841f-be57-4de6-8a9f-7e37d079a031.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthetexan.news%2Fissues%2Feducation%2Fstudent-ice-protests-prompt-state-board-of-education-members-to-urge-greater-tea-action%2Farticle_2aa6841f-be57-4de6-8a9f-7e37d079a031.html",
+      "source": "thetexan.news"
+    },
+    {
+      "position": 5,
+      "title": "ELECTION RESULTS 🚨 Keller Mayor Armin Mizani has ...",
+      "link": "https://www.facebook.com/TheGrapevineEdit/posts/election-results-keller-mayor-armin-mizani-has-won-the-republican-primary-for-te/925276653806938/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/TheGrapevineEdit/posts/election-results-keller-mayor-armin-mizani-has-won-the-republican-primary-for-te/925276653806938/&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQFnoECCAQAQ",
+      "displayed_link": "540+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM6-vwqPfiZasO3zWuaWTm9s.png",
+      "snippet": "ELECTION RESULTS Keller Mayor Armin Mizani has won the Republican primary for Texas House District 98, according to unofficial results.",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ELECTION RESULTS Keller Mayor Armin Mizani has won the Republican primary for Texas House District 98, according to unofficial results.",
+          "source_info_link": "https://www.facebook.com/TheGrapevineEdit/posts/election-results-keller-mayor-armin-mizani-has-won-the-republican-primary-for-te/925276653806938/",
+          "icon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM2CHCOy39EfQwBIfTr5pnGGHCwcxHaEdFqO84WixNwU6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/TheGrapevineEdit/posts/election-results-keller-mayor-armin-mizani-has-won-the-republican-primary-for-te/925276653806938/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FTheGrapevineEdit%2Fposts%2Felection-results-keller-mayor-armin-mizani-has-won-the-republican-primary-for-te%2F925276653806938%2F",
+      "source": "Facebook · The Grapevine Edit"
+    },
+    {
+      "position": 6,
+      "title": "Dr. Raquel Saenz Ortiz (@drsoforsboe)",
+      "link": "https://www.instagram.com/drsoforsboe/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/drsoforsboe/%3Fhl%3Den&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQFnoECCIQAQ",
+      "displayed_link": "390+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAMwIUc5mQDEJTQT40K3hu3lU.png",
+      "snippet": "395 followers · 696 following · 67 posts · @drsoforsboe: “Candidate for the SBOE, District 10, with 15+ years experience as an educator”",
+      "snippet_highlighted_words": [
+        "SBOE",
+        "10"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "395 followers · 696 following · 67 posts · @drsoforsboe: “Candidate for the SBOE, District 10, with 15+ years experience as an educator”",
+          "source_info_link": "https://www.instagram.com/drsoforsboe/?hl=en",
+          "icon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM2v0QLVxTzEbbjHRv887QnbppsDAZvd324BTGE6YsAvo.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/drsoforsboe/?hl=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fdrsoforsboe%2F%3Fhl%3Den",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Tom+Maynard+SBOE+TX-10+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ5t4CegQIMRAB"
+      },
+      "source": "Instagram · drsoforsboe"
+    },
+    {
+      "position": 7,
+      "title": "28-2.pdf - PHP Credits - Texas Education Agency",
+      "link": "http://castro.tea.state.tx.us/charter_apps/content/downloads/Nocdn/28-2.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://castro.tea.state.tx.us/charter_apps/content/downloads/Nocdn/28-2.pdf&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQFnoECBwQAQ",
+      "displayed_link": "http://castro.tea.state.tx.us › downloads › Nocdn",
+      "favicon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM5AFinQnxISSrLYN3RjOvlA.png",
+      "date": "Jan 12, 2023",
+      "snippet": "A. D. Rison Académie is a content-rich school serving grades 7-12 with adaptive lessons and certified virtual teachers blended with a ...",
+      "about_this_result": {
+        "source": {
+          "description": "A. D. Rison Académie is a content-rich school serving grades 7-12 with adaptive lessons and certified virtual teachers blended with a ...",
+          "source_info_link": "http://castro.tea.state.tx.us/charter_apps/content/downloads/Nocdn/28-2.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM1xOTrs84Y8tV11v9qYh_n9TRYn30PU6c9pNXyzxmnj7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://castro.tea.state.tx.us/charter_apps/content/downloads/Nocdn/28-2.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Fcastro.tea.state.tx.us%2Fcharter_apps%2Fcontent%2Fdownloads%2FNocdn%2F28-2.pdf",
+      "source": "Texas Education Agency (TEA) (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "Stand for Children - Washington",
+      "link": "https://www.facebook.com/standwashington/posts/grateful-and-proud-today-our-incredible-educators-and-advocates-met-with-lawmake/1031722182321561/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/standwashington/posts/grateful-and-proud-today-our-incredible-educators-and-advocates-met-with-lawmake/1031722182321561/&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQFnoECDwQAQ",
+      "displayed_link": "3 reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM1sUVRbTHsa8lFIxWjHEBbI.png",
+      "snippet": "Grateful and proud! Today, our incredible educators and advocates met with lawmakers to champion 9th Grade Success—because after COVID, ...",
+      "about_this_result": {
+        "source": {
+          "description": "Grateful and proud! Today, our incredible educators and advocates met with lawmakers to champion 9th Grade Success—because after COVID, ...",
+          "source_info_link": "https://www.facebook.com/standwashington/posts/grateful-and-proud-today-our-incredible-educators-and-advocates-met-with-lawmake/1031722182321561/",
+          "icon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM4Q1_HQqqmUV1HDfKVyDdQNMysiaVzPe20ggbyBbV8c_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/standwashington/posts/grateful-and-proud-today-our-incredible-educators-and-advocates-met-with-lawmake/1031722182321561/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fstandwashington%2Fposts%2Fgrateful-and-proud-today-our-incredible-educators-and-advocates-met-with-lawmake%2F1031722182321561%2F",
+      "source": "Facebook · Stand for Children - Washington"
+    },
+    {
+      "position": 9,
+      "title": "county performs random tests Providence-Jones",
+      "link": "https://etypeproductionstorage1.blob.core.windows.net/$web/Production_Prod/Jobs/268/2020-04-28/93517/PreProcessedPDF/Magazine335832.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://etypeproductionstorage1.blob.core.windows.net/%24web/Production_Prod/Jobs/268/2020-04-28/93517/PreProcessedPDF/Magazine335832.pdf&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQFnoECD0QAQ",
+      "displayed_link": "https://etypeproductionstorage1.blob.core.windows.net › ...",
+      "date": "Apr 29, 2020",
+      "snippet": "On April 16, Elgin ISD an- nounced that the schools would remain closed through the rest of the year. The next day, Texas. Governor Greg Abbott ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On April 16, Elgin ISD an- nounced that the schools would remain closed through the rest of the year. The next day, Texas. Governor Greg Abbott ...",
+          "source_info_link": "https://etypeproductionstorage1.blob.core.windows.net/$web/Production_Prod/Jobs/268/2020-04-28/93517/PreProcessedPDF/Magazine335832.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://etypeproductionstorage1.blob.core.windows.net/$web/Production_Prod/Jobs/268/2020-04-28/93517/PreProcessedPDF/Magazine335832.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fetypeproductionstorage1.blob.core.windows.net%2F%24web%2FProduction_Prod%2FJobs%2F268%2F2020-04-28%2F93517%2FPreProcessedPDF%2FMagazine335832.pdf",
+      "source": "windows.net"
+    },
+    {
+      "position": 10,
+      "title": "Visualize TEA Accountability Ratings Across Texas Schools",
+      "link": "https://www.commitpartnership.org/insights/data-dashboards/tea-accountability-ratings-hope-chart",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.commitpartnership.org/insights/data-dashboards/tea-accountability-ratings-hope-chart&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQFnoECDkQAQ",
+      "displayed_link": "https://www.commitpartnership.org › data-dashboards",
+      "favicon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM-1gUePYfQOOHLLdWR8t-_A.png",
+      "snippet": "A \"hope chart\" demonstrates what's already possibly within our public education system by highlighting campuses and districts that are exceeding expectations.",
+      "about_this_result": {
+        "source": {
+          "description": "A \"hope chart\" demonstrates what's already possibly within our public education system by highlighting campuses and districts that are exceeding expectations.",
+          "source_info_link": "https://www.commitpartnership.org/insights/data-dashboards/tea-accountability-ratings-hope-chart",
+          "icon": "https://serpapi.com/searches/69bb5d8bbd1c2061845dd9f0/images/mSGVBT6NUzPTlkhVzipAM8B6FMWhzxwVibTehGIdVp3JE3XWfKntp9Aeg4jS--Qr.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.commitpartnership.org/insights/data-dashboards/tea-accountability-ratings-hope-chart&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.commitpartnership.org%2Finsights%2Fdata-dashboards%2Ftea-accountability-ratings-hope-chart",
+      "source": "Commit Partnership"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=jF27aaPhCbvHkPIPzKauiQg&start=10&sa=N&sstk=Af77f_crMeA249-cFg-nCVSJyUO1IdjOdAOIhpemWh9Akow5tTrVcjK_B5ygkrCmLx8a1fMhgtEG-FK5tDEVErz3GvGlgg109cw1wQ&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ8NMDegQIEBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=jF27aaPhCbvHkPIPzKauiQg&start=10&sa=N&sstk=Af77f_crMeA249-cFg-nCVSJyUO1IdjOdAOIhpemWh9Akow5tTrVcjK_B5ygkrCmLx8a1fMhgtEG-FK5tDEVErz3GvGlgg109cw1wQ&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ8tMDegQIEBAE",
+      "3": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=jF27aaPhCbvHkPIPzKauiQg&start=20&sa=N&sstk=Af77f_crMeA249-cFg-nCVSJyUO1IdjOdAOIhpemWh9Akow5tTrVcjK_B5ygkrCmLx8a1fMhgtEG-FK5tDEVErz3GvGlgg109cw1wQ&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ8tMDegQIEBAG",
+      "4": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=jF27aaPhCbvHkPIPzKauiQg&start=30&sa=N&sstk=Af77f_crMeA249-cFg-nCVSJyUO1IdjOdAOIhpemWh9Akow5tTrVcjK_B5ygkrCmLx8a1fMhgtEG-FK5tDEVErz3GvGlgg109cw1wQ&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ8tMDegQIEBAI",
+      "5": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=jF27aaPhCbvHkPIPzKauiQg&start=40&sa=N&sstk=Af77f_crMeA249-cFg-nCVSJyUO1IdjOdAOIhpemWh9Akow5tTrVcjK_B5ygkrCmLx8a1fMhgtEG-FK5tDEVErz3GvGlgg109cw1wQ&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ8tMDegQIEBAK",
+      "6": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=jF27aaPhCbvHkPIPzKauiQg&start=50&sa=N&sstk=Af77f_crMeA249-cFg-nCVSJyUO1IdjOdAOIhpemWh9Akow5tTrVcjK_B5ygkrCmLx8a1fMhgtEG-FK5tDEVErz3GvGlgg109cw1wQ&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ8tMDegQIEBAM",
+      "7": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=jF27aaPhCbvHkPIPzKauiQg&start=60&sa=N&sstk=Af77f_crMeA249-cFg-nCVSJyUO1IdjOdAOIhpemWh9Akow5tTrVcjK_B5ygkrCmLx8a1fMhgtEG-FK5tDEVErz3GvGlgg109cw1wQ&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ8tMDegQIEBAO",
+      "8": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=jF27aaPhCbvHkPIPzKauiQg&start=70&sa=N&sstk=Af77f_crMeA249-cFg-nCVSJyUO1IdjOdAOIhpemWh9Akow5tTrVcjK_B5ygkrCmLx8a1fMhgtEG-FK5tDEVErz3GvGlgg109cw1wQ&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ8tMDegQIEBAQ",
+      "9": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=jF27aaPhCbvHkPIPzKauiQg&start=80&sa=N&sstk=Af77f_crMeA249-cFg-nCVSJyUO1IdjOdAOIhpemWh9Akow5tTrVcjK_B5ygkrCmLx8a1fMhgtEG-FK5tDEVErz3GvGlgg109cw1wQ&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ8tMDegQIEBAS",
+      "10": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=jF27aaPhCbvHkPIPzKauiQg&start=90&sa=N&sstk=Af77f_crMeA249-cFg-nCVSJyUO1IdjOdAOIhpemWh9Akow5tTrVcjK_B5ygkrCmLx8a1fMhgtEG-FK5tDEVErz3GvGlgg109cw1wQ&ved=2ahUKEwij16_B86qTAxW7I0QIHUyTK4EQ8tMDegQIEBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Instagram&start=90"
+    }
+  }
+}

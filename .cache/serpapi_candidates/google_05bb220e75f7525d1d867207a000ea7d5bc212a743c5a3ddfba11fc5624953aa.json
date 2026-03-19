@@ -1,0 +1,386 @@
+{
+  "search_metadata": {
+    "id": "69bb5e8900a197d8e70745c3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vZ5bfF0W7BQzzL-INlO_dQ/69bb5e8900a197d8e70745c3.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/vZ5bfF0W7BQzzL-INlO_dQ/69bb5e8900a197d8e70745c3.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:13 UTC",
+    "processed_at": "2026-03-19 02:25:13 UTC",
+    "google_url": "https://www.google.com/search?q=Joseph+Solomon+%22Killeen+Council+D2%22+%22Killeen%22+Facebook&oq=Joseph+Solomon+%22Killeen+Council+D2%22+%22Killeen%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/vZ5bfF0W7BQzzL-INlO_dQ/69bb5e8900a197d8e70745c3.html",
+    "total_time_taken": 1.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Joseph Solomon \"Killeen Council D2\" \"Killeen\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Joseph Solomon \"Killeen Council D2\" \"Killeen\" Facebook",
+    "total_results": 8330,
+    "time_taken_displayed": 0.6,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Joseph Solomon Killeen Council D2 Killeen Facebook",
+    "spelling_fix": "Joseph Solomon Killeen Council D2 Killeen Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Councilman Joseph Solomon filed to run for mayor of city ...",
+      "link": "https://www.facebook.com/kdhnews/posts/councilman-joseph-solomon-filed-to-run-for-mayor-of-city-of-killeen-friday-in-th/1442592117814938/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/councilman-joseph-solomon-filed-to-run-for-mayor-of-city-of-killeen-friday-in-th/1442592117814938/&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQFnoECBwQAQ",
+      "displayed_link": "1 reaction · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmikjJ-BZQQBL2q0d5d7IrNQ.png",
+      "snippet": "What is the main issue with the current city council and mayor in Killeen, Texas? Dennis Drury ▻ Killeen TX Citizen Expressions. 4y · Public ...",
+      "snippet_highlighted_words": [
+        "council",
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What is the main issue with the current city council and mayor in Killeen, Texas? Dennis Drury ▻ Killeen TX Citizen Expressions. 4y · Public ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/councilman-joseph-solomon-filed-to-run-for-mayor-of-city-of-killeen-friday-in-th/1442592117814938/",
+          "icon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmrsXRuk_SzlfjgkvXismbf4kitjbQNLVeqUKSuKu6lFB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/councilman-joseph-solomon-filed-to-run-for-mayor-of-city-of-killeen-friday-in-th/1442592117814938/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fcouncilman-joseph-solomon-filed-to-run-for-mayor-of-city-of-killeen-friday-in-th%2F1442592117814938%2F",
+      "missing": [
+        "D2"
+      ],
+      "must_include": {
+        "word": "D2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Joseph+Solomon+Killeen+Council+%22D2%22+Killeen+Facebook&sa=X&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ5t4CegQIHxAB"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "Joseph Solomon is seeking another term on the Killeen ...",
+      "link": "https://www.facebook.com/kdhnews/posts/joseph-solomon-is-seeking-another-term-on-the-killeen-city-council-as-its-distri/1195955065811979/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/joseph-solomon-is-seeking-another-term-on-the-killeen-city-council-as-its-distri/1195955065811979/&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQFnoECBsQAQ",
+      "displayed_link": "https://www.facebook.com › kdhnews › posts › joseph-...",
+      "favicon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmoGrmmoTe5afX3Qfuw7pbW8.png",
+      "date": "Apr 20, 2025",
+      "snippet": "Joseph Solomon is seeking another term on the Killeen City Council as its District 2 representative. Verlyn Valentine stands in his way.",
+      "snippet_highlighted_words": [
+        "Joseph Solomon",
+        "Killeen",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Joseph Solomon is seeking another term on the Killeen City Council as its District 2 representative. Verlyn Valentine stands in his way.",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/joseph-solomon-is-seeking-another-term-on-the-killeen-city-council-as-its-distri/1195955065811979/",
+          "icon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7Dmo8kM5d6gRkdSrmF7WoA8Ma9xJeUtlEEG_FhpfFVdu3v.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/joseph-solomon-is-seeking-another-term-on-the-killeen-city-council-as-its-distri/1195955065811979/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fjoseph-solomon-is-seeking-another-term-on-the-killeen-city-council-as-its-distri%2F1195955065811979%2F",
+      "missing": [
+        "D2"
+      ],
+      "must_include": {
+        "word": "D2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Joseph+Solomon+Killeen+Council+%22D2%22+Killeen+Facebook&sa=X&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ5t4CegQIIBAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 3,
+      "title": "Killeen Councilman Joseph Solomon talks about accessible ...",
+      "link": "https://www.facebook.com/kdhnews/videos/killeen-councilman-joseph-solomon-talks-about-accessible-parks-and-other-issues-/3362979170544876/",
+      "displayed_link": "1 reaction · 1 month ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmsJwEKMZlnz7Km6Ns9Xq9hw.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7Dmux6fYbHVpPYrYDIkZGozNE.png",
+      "snippet": "Killeen Councilman Joseph Solomon talks about accessible parks and other issues with KDH News in his campaign for Killeen mayor.",
+      "duration": "24:05",
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Councilman Joseph Solomon talks about accessible parks and other issues with KDH News in his campaign for Killeen mayor.",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/killeen-councilman-joseph-solomon-talks-about-accessible-parks-and-other-issues-/3362979170544876/",
+          "icon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmoN4O16z6WEC25ORTraN-fN12b957Bg8MJxi7gOyjaJ1.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/killeen-councilman-joseph-solomon-talks-about-accessible-parks-and-other-issues-/3362979170544876/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fkilleen-councilman-joseph-solomon-talks-about-accessible-parks-and-other-issues-%2F3362979170544876%2F",
+      "missing": [
+        "Council",
+        "D2"
+      ],
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 4,
+      "title": "City of Killeen, Texas",
+      "link": "https://www.facebook.com/KilleenTexas/posts/during-tonights-city-council-meeting-councilman-joseph-solomon-presented-the-sta/1109472884549958/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KilleenTexas/posts/during-tonights-city-council-meeting-councilman-joseph-solomon-presented-the-sta/1109472884549958/&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQFnoECCMQAQ",
+      "displayed_link": "250+ reactions · 10 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmtBwq8VJTSxAzRPOGW53KMU.png",
+      "snippet": "During tonight's City Council Meeting, Councilman Joseph Solomon presented the Star Award to Jimmie Gee! Mr. Gee, along with his team from ...",
+      "snippet_highlighted_words": [
+        "Council",
+        "Joseph Solomon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "During tonight's City Council Meeting, Councilman Joseph Solomon presented the Star Award to Jimmie Gee! Mr. Gee, along with his team from ...",
+          "source_info_link": "https://www.facebook.com/KilleenTexas/posts/during-tonights-city-council-meeting-councilman-joseph-solomon-presented-the-sta/1109472884549958/",
+          "icon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmjJmNjJ2xIhYY07b-V-AEKVpEq0FTYKSK4BBRkJivRbl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KilleenTexas/posts/during-tonights-city-council-meeting-councilman-joseph-solomon-presented-the-sta/1109472884549958/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKilleenTexas%2Fposts%2Fduring-tonights-city-council-meeting-councilman-joseph-solomon-presented-the-sta%2F1109472884549958%2F",
+      "missing": [
+        "D2"
+      ],
+      "must_include": {
+        "word": "D2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Joseph+Solomon+Killeen+Council+%22D2%22+Killeen+Facebook&sa=X&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ5t4CegQIJBAB"
+      },
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 5,
+      "title": "Who is running for Killeen City Council District 2?",
+      "link": "https://www.facebook.com/groups/1935070693170186/posts/26492837376966843/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1935070693170186/posts/26492837376966843/&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQFnoECCgQAQ",
+      "displayed_link": "8 comments · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7Dmpz_zPdSrffIP6if9Ai9x68.png",
+      "snippet": "YUP, he works in the local real estate market. Just another person on the city council, who can also sell you a home.|Also, a former police ...",
+      "snippet_highlighted_words": [
+        "council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "YUP, he works in the local real estate market. Just another person on the city council, who can also sell you a home.|Also, a former police ...",
+          "source_info_link": "https://www.facebook.com/groups/1935070693170186/posts/26492837376966843/",
+          "icon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DminU82i_kcsWFbAkDcO1ON6LtYgGkYTgmstzakPFP9n2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1935070693170186/posts/26492837376966843/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1935070693170186%2Fposts%2F26492837376966843%2F",
+      "source": "Facebook · Killeen/Ft Hood (No Rules)"
+    },
+    {
+      "position": 6,
+      "title": "Killeen Daily Herald on Reels",
+      "link": "https://www.facebook.com/kdhnews/videos/joseph-solomon-running-for-reelection/1024518672844686/",
+      "displayed_link": "7 reactions · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmsfdvhuIzy7KcI1tfr9Cj4E.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmrOycrYQ_NFUEty1cgWdSDI.png",
+      "snippet": "Log in · Video. 󱡘. Killeen Daily Herald. Feb 6, 2025󰞋󱟠. 󳄫. Joseph Solomon Running For Reelection. Rescue The One and 6 others · 󰍸. 7.",
+      "duration": "18:36",
+      "about_this_result": {
+        "source": {
+          "description": "Log in · Video. 󱡘. Killeen Daily Herald. Feb 6, 2025󰞋󱟠. 󳄫. Joseph Solomon Running For Reelection. Rescue The One and 6 others · 󰍸. 7.",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/joseph-solomon-running-for-reelection/1024518672844686/",
+          "icon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmmVmzHD-eQZH9asAhq9_xiim9TK63osKGaUtt_BRIcUp.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/joseph-solomon-running-for-reelection/1024518672844686/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fjoseph-solomon-running-for-reelection%2F1024518672844686%2F",
+      "missing": [
+        "Council",
+        "D2"
+      ],
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 7,
+      "title": "Joseph Solomon",
+      "link": "https://www.facebook.com/p/Joseph-Solomon-100024414259342/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/p/Joseph-Solomon-100024414259342/&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQFnoECDAQAQ",
+      "displayed_link": "https://www.facebook.com › Joseph-Solomon-1000244...",
+      "favicon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmkMTRg8IHUEx3MLdAeDjvNc.png",
+      "snippet": "See more from Joseph Solomon. Log in to see posts from this account and find other people you may know.",
+      "snippet_highlighted_words": [
+        "Joseph Solomon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "See more from Joseph Solomon. Log in to see posts from this account and find other people you may know.",
+          "source_info_link": "https://www.facebook.com/p/Joseph-Solomon-100024414259342/",
+          "icon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmrG0y_IA8JOUcVdLD9AN80tg07zFcvZB_CgjzbMHgYvp.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/p/Joseph-Solomon-100024414259342/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fp%2FJoseph-Solomon-100024414259342%2F",
+      "missing": [
+        "Council",
+        "D2"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 8,
+      "title": "Killeen City Councilmembers Nina Cobb and Joseph ...",
+      "link": "https://www.facebook.com/25NewsKXXV/posts/killeen-city-councilmembers-nina-cobb-and-joseph-solomon-have-received-recall-pe/1297868612374490/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/25NewsKXXV/posts/killeen-city-councilmembers-nina-cobb-and-joseph-solomon-have-received-recall-pe/1297868612374490/&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQFnoECDMQAQ",
+      "displayed_link": "10+ reactions · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7Dmtmnzj8jqCshwrBk2yj6l7g.png",
+      "snippet": "Killeen City Councilmembers Nina Cobb and Joseph Solomon have received recall petitions, demanding their resignation or an election for ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Joseph Solomon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen City Councilmembers Nina Cobb and Joseph Solomon have received recall petitions, demanding their resignation or an election for ...",
+          "source_info_link": "https://www.facebook.com/25NewsKXXV/posts/killeen-city-councilmembers-nina-cobb-and-joseph-solomon-have-received-recall-pe/1297868612374490/",
+          "icon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7Dmvd6oZfXctfAfgUBwlSZsy-6R5zDCkhOat__jzUG5Ok9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/25NewsKXXV/posts/killeen-city-councilmembers-nina-cobb-and-joseph-solomon-have-received-recall-pe/1297868612374490/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F25NewsKXXV%2Fposts%2Fkilleen-city-councilmembers-nina-cobb-and-joseph-solomon-have-received-recall-pe%2F1297868612374490%2F",
+      "missing": [
+        "D2"
+      ],
+      "must_include": {
+        "word": "D2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Joseph+Solomon+Killeen+Council+%22D2%22+Killeen+Facebook&sa=X&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ5t4CegQIPxAB"
+      },
+      "source": "Facebook · 25 News KXXV"
+    },
+    {
+      "position": 9,
+      "title": "kdhnews.com",
+      "link": "https://www.facebook.com/photo.php?fbid=1369899488417535&set=a.549157087158450&type=3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/photo.php%3Ffbid%3D1369899488417535%26set%3Da.549157087158450%26type%3D3&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQFnoECDIQAQ",
+      "displayed_link": "https://www.facebook.com › photo",
+      "favicon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7Dmg8NtvNAdHZggghTjH5Y5a4.png",
+      "date": "Nov 5, 2025",
+      "snippet": "In the latest Inside Killeen podcast, Killeen Councilman Joseph Solomon talks about issues with food banks, responds to a city survey and ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen",
+        "Joseph Solomon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In the latest Inside Killeen podcast, Killeen Councilman Joseph Solomon talks about issues with food banks, responds to a city survey and ...",
+          "source_info_link": "https://www.facebook.com/photo.php?fbid=1369899488417535&set=a.549157087158450&type=3",
+          "icon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7Dmh0EfdY3hKqdOkfGFwVSSX7nCWAV54HYdi_PtlwtYV32.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/photo.php?fbid=1369899488417535&set=a.549157087158450&type=3&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1369899488417535%26set%3Da.549157087158450%26type%3D3",
+      "missing": [
+        "Council",
+        "D2"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 10,
+      "title": "Congratulations on Your Re-Election, Councilman Solomon",
+      "link": "https://www.facebook.com/groups/290784111109045/posts/2710928122427953/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/290784111109045/posts/2710928122427953/&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQFnoECDEQAQ",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7DmmprDHEfMzKYcYvpc6j3seM.png",
+      "date": "May 6, 2025",
+      "snippet": "OCR: LO for 1lleen City Coun A Wise Choice District 2 VOTE! Other posts. Black Owned Business in Killeen & Surrounding areas.",
+      "snippet_highlighted_words": [
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "OCR: LO for 1lleen City Coun A Wise Choice District 2 VOTE! Other posts. Black Owned Business in Killeen & Surrounding areas.",
+          "source_info_link": "https://www.facebook.com/groups/290784111109045/posts/2710928122427953/",
+          "icon": "https://serpapi.com/searches/69bb5e8900a197d8e70745c3/images/cnLY89Ff25Pfa0BZ9P7Dmq68_WQqTe53JbsJ6fBUIaLS4G0Vb6ORfbBfzqLkF-Se.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/290784111109045/posts/2710928122427953/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F290784111109045%2Fposts%2F2710928122427953%2F",
+      "missing": [
+        "D2"
+      ],
+      "must_include": {
+        "word": "D2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Joseph+Solomon+Killeen+Council+%22D2%22+Killeen+Facebook&sa=X&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ5t4CegQIPRAB"
+      },
+      "source": "Facebook"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=il67aZ6jA9eEqtsPzcb7oAY&start=10&sa=N&sstk=Af77f_figH-iW68g2jR5xZ_Lv9S0s27ZSCIs-tBdSwUpZlinYKFgUJlTA8m1_G-ZiR-JCP-MQvA41URquzyS67Tb1yBFXvZVMofQXw&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ8NMDegQICxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=il67aZ6jA9eEqtsPzcb7oAY&start=10&sa=N&sstk=Af77f_figH-iW68g2jR5xZ_Lv9S0s27ZSCIs-tBdSwUpZlinYKFgUJlTA8m1_G-ZiR-JCP-MQvA41URquzyS67Tb1yBFXvZVMofQXw&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ8tMDegQICxAE",
+      "3": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=il67aZ6jA9eEqtsPzcb7oAY&start=20&sa=N&sstk=Af77f_figH-iW68g2jR5xZ_Lv9S0s27ZSCIs-tBdSwUpZlinYKFgUJlTA8m1_G-ZiR-JCP-MQvA41URquzyS67Tb1yBFXvZVMofQXw&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ8tMDegQICxAG",
+      "4": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=il67aZ6jA9eEqtsPzcb7oAY&start=30&sa=N&sstk=Af77f_figH-iW68g2jR5xZ_Lv9S0s27ZSCIs-tBdSwUpZlinYKFgUJlTA8m1_G-ZiR-JCP-MQvA41URquzyS67Tb1yBFXvZVMofQXw&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ8tMDegQICxAI",
+      "5": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=il67aZ6jA9eEqtsPzcb7oAY&start=40&sa=N&sstk=Af77f_figH-iW68g2jR5xZ_Lv9S0s27ZSCIs-tBdSwUpZlinYKFgUJlTA8m1_G-ZiR-JCP-MQvA41URquzyS67Tb1yBFXvZVMofQXw&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ8tMDegQICxAK",
+      "6": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=il67aZ6jA9eEqtsPzcb7oAY&start=50&sa=N&sstk=Af77f_figH-iW68g2jR5xZ_Lv9S0s27ZSCIs-tBdSwUpZlinYKFgUJlTA8m1_G-ZiR-JCP-MQvA41URquzyS67Tb1yBFXvZVMofQXw&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ8tMDegQICxAM",
+      "7": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=il67aZ6jA9eEqtsPzcb7oAY&start=60&sa=N&sstk=Af77f_figH-iW68g2jR5xZ_Lv9S0s27ZSCIs-tBdSwUpZlinYKFgUJlTA8m1_G-ZiR-JCP-MQvA41URquzyS67Tb1yBFXvZVMofQXw&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ8tMDegQICxAO",
+      "8": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=il67aZ6jA9eEqtsPzcb7oAY&start=70&sa=N&sstk=Af77f_figH-iW68g2jR5xZ_Lv9S0s27ZSCIs-tBdSwUpZlinYKFgUJlTA8m1_G-ZiR-JCP-MQvA41URquzyS67Tb1yBFXvZVMofQXw&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ8tMDegQICxAQ",
+      "9": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=il67aZ6jA9eEqtsPzcb7oAY&start=80&sa=N&sstk=Af77f_figH-iW68g2jR5xZ_Lv9S0s27ZSCIs-tBdSwUpZlinYKFgUJlTA8m1_G-ZiR-JCP-MQvA41URquzyS67Tb1yBFXvZVMofQXw&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ8tMDegQICxAS",
+      "10": "https://www.google.com/search?q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=il67aZ6jA9eEqtsPzcb7oAY&start=90&sa=N&sstk=Af77f_figH-iW68g2jR5xZ_Lv9S0s27ZSCIs-tBdSwUpZlinYKFgUJlTA8m1_G-ZiR-JCP-MQvA41URquzyS67Tb1yBFXvZVMofQXw&ved=2ahUKEwiekLi69KqTAxVXgmoFHU3jHmQQ8tMDegQICxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Joseph+Solomon+Killeen+Council+D2+Killeen+Facebook&start=90"
+    }
+  }
+}

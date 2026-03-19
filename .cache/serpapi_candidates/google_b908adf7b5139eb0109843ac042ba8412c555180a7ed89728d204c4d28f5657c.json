@@ -1,0 +1,389 @@
+{
+  "search_metadata": {
+    "id": "69bb5d9b89ec197107489d63",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4YVZZGu6L8LbMpwGRbvI9g/69bb5d9b89ec197107489d63.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/4YVZZGu6L8LbMpwGRbvI9g/69bb5d9b89ec197107489d63.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:15 UTC",
+    "processed_at": "2026-03-19 02:21:15 UTC",
+    "google_url": "https://www.google.com/search?q=Latasha+Carroway+Quarles+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Facebook&oq=Latasha+Carroway+Quarles+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4YVZZGu6L8LbMpwGRbvI9g/69bb5d9b89ec197107489d63.html",
+    "total_time_taken": 2.69
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Latasha Carroway Quarles \"Bell JP P4 Place 2\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Latasha Carroway Quarles \"Bell JP P4 Place 2\" \"Central Texas\" Facebook",
+    "total_results": 448,
+    "time_taken_displayed": 0.41,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Latasha Carroway Quarles Bell JP P4 Place 2 Central Texas Facebook",
+    "spelling_fix": "Latasha Carroway Quarles Bell JP P4 Place 2 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "DrLatasha Quarles",
+      "link": "https://www.facebook.com/DrQuarlesforJP4/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/DrQuarlesforJP4/&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4QFnoECB4QAQ",
+      "displayed_link": "260+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskCHiXnDzYSv4vkuWkOhlp5k.png",
+      "snippet": "Early voting: February 17th – February 27th Election Day: March 3, 2026 “You are, I am, We are Bell County.” Vote for Dr. LaTasha Carroway Quarles Justice of ...",
+      "snippet_highlighted_words": [
+        "Bell",
+        "LaTasha Carroway Quarles Justice of"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Early voting: February 17th – February 27th Election Day: March 3, 2026 “You are, I am, We are Bell County.” Vote for Dr. LaTasha Carroway Quarles Justice of ...",
+          "source_info_link": "https://www.facebook.com/DrQuarlesforJP4/",
+          "icon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskOw-_YB4AnkKV5sQhBlyRsX1elwUEKMtNqd2gEcuJ8hZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/DrQuarlesforJP4/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FDrQuarlesforJP4%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Latasha+Carroway+Quarles+Bell+JP+%22P4%22+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q5t4CegQIMhAB"
+      },
+      "source": "Facebook · DrLatasha Quarles"
+    },
+    {
+      "position": 2,
+      "title": "DrTasha Carroway Quarles (@latasha.carrowayquarles)",
+      "link": "https://www.facebook.com/latasha.carrowayquarles/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/latasha.carrowayquarles/&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4QFnoECCkQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskPQAVEfTCpTmXD2XdaLvluQ.png",
+      "snippet": "DrTasha Carroway Quarles. 2151 likes · 150 talking about this. God first, Family second, Life matters third..Thankful for discernment of the good people...",
+      "snippet_highlighted_words": [
+        "Carroway Quarles"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "DrTasha Carroway Quarles. 2151 likes · 150 talking about this. God first, Family second, Life matters third..Thankful for discernment of the good people...",
+          "source_info_link": "https://www.facebook.com/latasha.carrowayquarles/",
+          "icon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskCff2ySiWUHov3KPYnE2UNW3XrIbX4wqC66hOc1-rngK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/latasha.carrowayquarles/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Flatasha.carrowayquarles%2F",
+      "missing": [
+        "Bell"
+      ],
+      "must_include": {
+        "word": "Bell",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Latasha+Carroway+Quarles+%22Bell%22+JP+P4+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q5t4CegQINBAB"
+      },
+      "source": "Facebook · DrTasha Carroway Quarles"
+    },
+    {
+      "position": 3,
+      "title": "DrTasha - Love Fashion..",
+      "link": "https://www.facebook.com/latasha.carrowayquarles/photos/love-fashion/10173868979520006/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/latasha.carrowayquarles/photos/love-fashion/10173868979520006/&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4QFnoECB8QAQ",
+      "displayed_link": "60+ reactions · 5 days ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskNpBm6-hhg-H0h8fPCkcSEo.png",
+      "snippet": "Sticker, Avatar is looking sideways, left hand is bent and blowing kisses with their. 2d. 1.",
+      "about_this_result": {
+        "source": {
+          "description": "Sticker, Avatar is looking sideways, left hand is bent and blowing kisses with their. 2d. 1.",
+          "source_info_link": "https://www.facebook.com/latasha.carrowayquarles/photos/love-fashion/10173868979520006/",
+          "icon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskGVr2O13dKLiU8IY4qXf03ohu9FEZoteuJ8CsYUxKQAC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/latasha.carrowayquarles/photos/love-fashion/10173868979520006/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Flatasha.carrowayquarles%2Fphotos%2Flove-fashion%2F10173868979520006%2F",
+      "missing": [
+        "Bell",
+        "JP",
+        "Central"
+      ],
+      "source": "Facebook · DrTasha Carroway Quarles"
+    },
+    {
+      "position": 4,
+      "title": "GM, FB Family & Friends I want to thank God from whom ...",
+      "link": "https://www.facebook.com/latasha.carrowayquarles/posts/gm-fb-family-friends-i-want-to-thank-god-from-whom-all-blessings-flow-this-is-a-/10173790175250006/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/latasha.carrowayquarles/posts/gm-fb-family-friends-i-want-to-thank-god-from-whom-all-blessings-flow-this-is-a-/10173790175250006/&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4QFnoECCIQAQ",
+      "displayed_link": "230+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskMbKJ0WOhWoH0YgOfj0RG2U.png",
+      "snippet": "GM, FB Family & Friends I want to thank God from whom ALL blessings flow!!.. This is a small victory getting the highest votes in the ...",
+      "about_this_result": {
+        "source": {
+          "description": "GM, FB Family & Friends I want to thank God from whom ALL blessings flow!!.. This is a small victory getting the highest votes in the ...",
+          "source_info_link": "https://www.facebook.com/latasha.carrowayquarles/posts/gm-fb-family-friends-i-want-to-thank-god-from-whom-all-blessings-flow-this-is-a-/10173790175250006/",
+          "icon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskHAdvenRFCkE0NqDoOcAiqrf2JKeWgqxipHlGciVtUwb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/latasha.carrowayquarles/posts/gm-fb-family-friends-i-want-to-thank-god-from-whom-all-blessings-flow-this-is-a-/10173790175250006/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Flatasha.carrowayquarles%2Fposts%2Fgm-fb-family-friends-i-want-to-thank-god-from-whom-all-blessings-flow-this-is-a-%2F10173790175250006%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q5t4CegQIMRAB"
+      },
+      "source": "Facebook · DrTasha Carroway Quarles"
+    },
+    {
+      "position": 5,
+      "title": "DrTasha - Pose 2",
+      "link": "https://www.facebook.com/latasha.carrowayquarles/photos/pose-2/10173472854525006/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/latasha.carrowayquarles/photos/pose-2/10173472854525006/&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4QFnoECCEQAQ",
+      "displayed_link": "3 reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskCOgRo9C83kteMxU9x39EQc.png",
+      "snippet": "Election Day is fastly approaching!! Thank you ALL for your votes, I greatly appreciate you all..I don't believe in talking up the game, ...",
+      "about_this_result": {
+        "source": {
+          "description": "Election Day is fastly approaching!! Thank you ALL for your votes, I greatly appreciate you all..I don't believe in talking up the game, ...",
+          "source_info_link": "https://www.facebook.com/latasha.carrowayquarles/photos/pose-2/10173472854525006/",
+          "icon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskGtz5X07WxN1HznOs9cXIMisa3yPXDwOLKEEyhZDR6-B.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/latasha.carrowayquarles/photos/pose-2/10173472854525006/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Flatasha.carrowayquarles%2Fphotos%2Fpose-2%2F10173472854525006%2F",
+      "missing": [
+        "Bell",
+        "JP",
+        "P4",
+        "Central"
+      ],
+      "source": "Facebook · DrTasha Carroway Quarles"
+    },
+    {
+      "position": 6,
+      "title": "Honored to join KRGN 98.5 FM to talk about the community, ...",
+      "link": "https://www.facebook.com/latasha.carrowayquarles/videos/honored-to-join-krgn-985-fm-to-talk-about-the-community-justice-and-why-im-runni/1566866657958554/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/latasha.carrowayquarles/videos/honored-to-join-krgn-985-fm-to-talk-about-the-community-justice-and-why-im-runni/1566866657958554/&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4QFnoECBwQAQ",
+      "displayed_link": "https://www.facebook.com › ... › Videos",
+      "favicon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskJ69T9hkt3MDVPHlM-xBTHg.png",
+      "snippet": "Honored to join KRGN 98.5 FM to talk about the community, justice, and why I'm running for Justice of the Peace. Thank you for the opportunity to share...",
+      "snippet_highlighted_words": [
+        "Justice of the Peace"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Honored to join KRGN 98.5 FM to talk about the community, justice, and why I'm running for Justice of the Peace. Thank you for the opportunity to share...",
+          "source_info_link": "https://www.facebook.com/latasha.carrowayquarles/videos/honored-to-join-krgn-985-fm-to-talk-about-the-community-justice-and-why-im-runni/1566866657958554/",
+          "icon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskFLX47960idw1nJGMvM9CvbwdlE_sJuMSpnU0gGwslXT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/latasha.carrowayquarles/videos/honored-to-join-krgn-985-fm-to-talk-about-the-community-justice-and-why-im-runni/1566866657958554/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Flatasha.carrowayquarles%2Fvideos%2Fhonored-to-join-krgn-985-fm-to-talk-about-the-community-justice-and-why-im-runni%2F1566866657958554%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 7,
+      "title": "DrTasha - Singing, doing what she loved to do.. 🙏🏾❤️",
+      "link": "https://www.facebook.com/latasha.carrowayquarles/photos/singing-doing-what-she-loved-to-do-%EF%B8%8F/10173495731160006/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/latasha.carrowayquarles/photos/singing-doing-what-she-loved-to-do-%25EF%25B8%258F/10173495731160006/&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4QFnoECCQQAQ",
+      "displayed_link": "10+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskLGqi8xC9I593z0yo-UARJE.png",
+      "snippet": "DrTasha Carroway Quarles is in Killeen, TX. 3d · 󰟠. 󳄫. Early voting is LIVE! Pull up to Lions Park, make your voice heard, and be apart of ...",
+      "snippet_highlighted_words": [
+        "Carroway Quarles",
+        "TX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "DrTasha Carroway Quarles is in Killeen, TX. 3d · 󰟠. 󳄫. Early voting is LIVE! Pull up to Lions Park, make your voice heard, and be apart of ...",
+          "source_info_link": "https://www.facebook.com/latasha.carrowayquarles/photos/singing-doing-what-she-loved-to-do-%EF%B8%8F/10173495731160006/",
+          "icon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskGSg0NNIFulMEJ2w12PaZCiAuXjw0y-8d_Ksz18ptWGm.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/latasha.carrowayquarles/photos/singing-doing-what-she-loved-to-do-%EF%B8%8F/10173495731160006/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Flatasha.carrowayquarles%2Fphotos%2Fsinging-doing-what-she-loved-to-do-%25EF%25B8%258F%2F10173495731160006%2F",
+      "missing": [
+        "Bell",
+        "P4"
+      ],
+      "source": "Facebook · DrTasha Carroway Quarles"
+    },
+    {
+      "position": 8,
+      "title": "Felicia with the Tyres - DrTasha",
+      "link": "https://www.facebook.com/latasha.carrowayquarles/photos/felicia-with-the-tyres-/10173472827925006/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/latasha.carrowayquarles/photos/felicia-with-the-tyres-/10173472827925006/&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4QFnoECDwQAQ",
+      "displayed_link": "3 reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskA3VlVC1eMEIsRcIPOniZaI.png",
+      "snippet": "Look at our niece, looking so professional, Dr Carroway Quarles!! DrTasha Carroway Quarles is with Cedric Brothern and 21 others.",
+      "snippet_highlighted_words": [
+        "Carroway Quarles",
+        "Carroway Quarles"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Look at our niece, looking so professional, Dr Carroway Quarles!! DrTasha Carroway Quarles is with Cedric Brothern and 21 others.",
+          "source_info_link": "https://www.facebook.com/latasha.carrowayquarles/photos/felicia-with-the-tyres-/10173472827925006/",
+          "icon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskAgZCw9rDauE_e8B6TO23nKrmKtTGSPv2_VKBF7km1Zl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/latasha.carrowayquarles/photos/felicia-with-the-tyres-/10173472827925006/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Flatasha.carrowayquarles%2Fphotos%2Ffelicia-with-the-tyres-%2F10173472827925006%2F",
+      "missing": [
+        "Bell",
+        "JP",
+        "2",
+        "Central"
+      ],
+      "source": "Facebook · DrTasha Carroway Quarles"
+    },
+    {
+      "position": 9,
+      "title": "Information",
+      "link": "https://www.facebook.com/groups/2981175275544281/posts/4489149234746870/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/2981175275544281/posts/4489149234746870/&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4QFnoECDsQAQ",
+      "displayed_link": "2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskK-Fbi7mtWWi4OGFA3Q0wbU.png",
+      "snippet": "OCR: يلر 2026 Candidates County Justice of the Peace Precinct 4, Place 2 Incumbent Nicola James Dr. Latasha Carroway Quarles Councilwoman ...",
+      "snippet_highlighted_words": [
+        "Justice of the Peace",
+        "4",
+        "Place 2",
+        "Latasha Carroway Quarles"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "OCR: يلر 2026 Candidates County Justice of the Peace Precinct 4, Place 2 Incumbent Nicola James Dr. Latasha Carroway Quarles Councilwoman ...",
+          "source_info_link": "https://www.facebook.com/groups/2981175275544281/posts/4489149234746870/",
+          "icon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskD0Ix2exHHu1bGUnuQn_29Qyz3ifhJGAvWAc6K452cMv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/2981175275544281/posts/4489149234746870/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F2981175275544281%2Fposts%2F4489149234746870%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Latasha+Carroway+Quarles+Bell+JP+%22P4%22+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q5t4CegQIPxAB"
+      },
+      "source": "Facebook · Vida En Bell County"
+    },
+    {
+      "position": 10,
+      "title": "Bell County has 4 Justice of the Peace Precincts. ...",
+      "link": "https://www.facebook.com/bellcodems/posts/bell-county-has-4-justice-of-the-peace-precincts-precincts-3-and-4-each-have-two/1282628370573982/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/bell-county-has-4-justice-of-the-peace-precincts-precincts-3-and-4-each-have-two/1282628370573982/&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4QFnoECEMQAQ",
+      "displayed_link": "20+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskG-Pu8Mqgq-DaJlYRd7mOU0.png",
+      "snippet": "There is a third candidate in this race. I just need to finish the filing upload to SOS this evening!. 3mo. Recent Posts. Bell ...",
+      "snippet_highlighted_words": [
+        "Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "There is a third candidate in this race. I just need to finish the filing upload to SOS this evening!. 3mo. Recent Posts. Bell ...",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/bell-county-has-4-justice-of-the-peace-precincts-precincts-3-and-4-each-have-two/1282628370573982/",
+          "icon": "https://serpapi.com/searches/69bb5d9b89ec197107489d63/images/T37MWYfpJndsROLgXNHskByIJPv1X3qoWgWn9ScKnxPJ0cBQP6IbgwQ1y2ZONIGJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/bell-county-has-4-justice-of-the-peace-precincts-precincts-3-and-4-each-have-two/1282628370573982/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2Fbell-county-has-4-justice-of-the-peace-precincts-precincts-3-and-4-each-have-two%2F1282628370573982%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q5t4CegQIRhAB"
+      },
+      "source": "Facebook · Bell County Democratic Party"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=nV27aYjZE6ucptQPqKiz8AY&start=10&sa=N&sstk=Af77f_eRjNlsrovyp9G2wexpI3cVRvYIoI1hRZUVilo4GBdoach8n5Dn5elq3D-jw0q6AtGAJLXSvvHRYKBytyfaRFjW8-0WDZJIXw&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q8NMDegQIDxAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=nV27aYjZE6ucptQPqKiz8AY&start=10&sa=N&sstk=Af77f_eRjNlsrovyp9G2wexpI3cVRvYIoI1hRZUVilo4GBdoach8n5Dn5elq3D-jw0q6AtGAJLXSvvHRYKBytyfaRFjW8-0WDZJIXw&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=nV27aYjZE6ucptQPqKiz8AY&start=20&sa=N&sstk=Af77f_eRjNlsrovyp9G2wexpI3cVRvYIoI1hRZUVilo4GBdoach8n5Dn5elq3D-jw0q6AtGAJLXSvvHRYKBytyfaRFjW8-0WDZJIXw&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=nV27aYjZE6ucptQPqKiz8AY&start=30&sa=N&sstk=Af77f_eRjNlsrovyp9G2wexpI3cVRvYIoI1hRZUVilo4GBdoach8n5Dn5elq3D-jw0q6AtGAJLXSvvHRYKBytyfaRFjW8-0WDZJIXw&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=nV27aYjZE6ucptQPqKiz8AY&start=40&sa=N&sstk=Af77f_eRjNlsrovyp9G2wexpI3cVRvYIoI1hRZUVilo4GBdoach8n5Dn5elq3D-jw0q6AtGAJLXSvvHRYKBytyfaRFjW8-0WDZJIXw&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=nV27aYjZE6ucptQPqKiz8AY&start=50&sa=N&sstk=Af77f_eRjNlsrovyp9G2wexpI3cVRvYIoI1hRZUVilo4GBdoach8n5Dn5elq3D-jw0q6AtGAJLXSvvHRYKBytyfaRFjW8-0WDZJIXw&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=nV27aYjZE6ucptQPqKiz8AY&start=60&sa=N&sstk=Af77f_eRjNlsrovyp9G2wexpI3cVRvYIoI1hRZUVilo4GBdoach8n5Dn5elq3D-jw0q6AtGAJLXSvvHRYKBytyfaRFjW8-0WDZJIXw&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=nV27aYjZE6ucptQPqKiz8AY&start=70&sa=N&sstk=Af77f_eRjNlsrovyp9G2wexpI3cVRvYIoI1hRZUVilo4GBdoach8n5Dn5elq3D-jw0q6AtGAJLXSvvHRYKBytyfaRFjW8-0WDZJIXw&ved=2ahUKEwjIm8fJ86qTAxUrjokEHSjUDG4Q8tMDegQIDxAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latasha+Carroway+Quarles+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=70"
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "search_metadata": {
+    "id": "69bb5cdad0a88f12cde047bc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/45QFgYeREhfR_OaOVtPtFg/69bb5cdad0a88f12cde047bc.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/45QFgYeREhfR_OaOVtPtFg/69bb5cdad0a88f12cde047bc.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:02 UTC",
+    "processed_at": "2026-03-19 02:18:02 UTC",
+    "google_url": "https://www.google.com/search?q=Killeen+Council+At-Large+election.+Key+platform+issues+for+candidates%3A+Jose+Segarra%2C+Riakos+Adams.+Provide+a+short+factual+summary.&oq=Killeen+Council+At-Large+election.+Key+platform+issues+for+candidates%3A+Jose+Segarra%2C+Riakos+Adams.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/45QFgYeREhfR_OaOVtPtFg/69bb5cdad0a88f12cde047bc.html",
+    "total_time_taken": 1.62
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Killeen Council At-Large election. Key platform issues for candidates: Jose Segarra, Riakos Adams. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Killeen Council At-Large election. Key platform issues for candidates: Jose Segarra, Riakos Adams. Provide a short factual summary.",
+    "total_results": 10,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Jose Segarra announces candidacy for mayor of Killeen ...",
+      "link": "https://www.facebook.com/groups/1033048913869289/posts/2229968167510685/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1033048913869289/posts/2229968167510685/&ved=2ahUKEwiM5-7s8qqTAxXTWUEAHa_tLygQFnoECCIQAQ",
+      "displayed_link": "2 comments · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwxywSEZ1tLvGHDYzL7yalOkY.png",
+      "snippet": "What are your thoughts on the mayor's decision to step down and the potential impact on the city council? Dennis Drury ▻ Killeen TX Citizen ...",
+      "snippet_highlighted_words": [
+        "council",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What are your thoughts on the mayor's decision to step down and the potential impact on the city council? Dennis Drury ▻ Killeen TX Citizen ...",
+          "source_info_link": "https://www.facebook.com/groups/1033048913869289/posts/2229968167510685/",
+          "icon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwxyhfugSHKG1Rauo9eXsoG2qcgq9QF83Wk9K7PcSsyR5e.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "NG"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1033048913869289/posts/2229968167510685/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1033048913869289%2Fposts%2F2229968167510685%2F",
+      "source": "Facebook · The People of Killeen"
+    },
+    {
+      "position": 2,
+      "title": "Killeen City Council Promotes Misleading Video with False ...",
+      "link": "https://www.facebook.com/groups/115534431905645/posts/9439294159529579/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/115534431905645/posts/9439294159529579/&ved=2ahUKEwiM5-7s8qqTAxXTWUEAHa_tLygQFnoECB4QAQ",
+      "displayed_link": "7 comments · 11 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx8vfPKVzdE5OzAXMhcj1phE.png",
+      "snippet": "FALSE AND MISLEADING INFORMATION. (City of Killeen, Texas) The city manager, mayor, and city council are promoting on social media a ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "FALSE AND MISLEADING INFORMATION. (City of Killeen, Texas) The city manager, mayor, and city council are promoting on social media a ...",
+          "source_info_link": "https://www.facebook.com/groups/115534431905645/posts/9439294159529579/",
+          "icon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwxxdW-tXOmD6WbL3sceh3xiQR6nTeoS6VUIRWKVHTPz3M.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "NG"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/115534431905645/posts/9439294159529579/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F115534431905645%2Fposts%2F9439294159529579%2F",
+      "source": "Facebook · Copperas Cove Community"
+    },
+    {
+      "position": 3,
+      "title": "Bell County political leaders give views on 17 Texas ...",
+      "link": "https://kdhnews.com/news/region/bell-county-political-leaders-give-views-on-17-texas-amendments-on-election-ballot/article_f12aeb22-b484-5883-a025-614197aba8e4.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/region/bell-county-political-leaders-give-views-on-17-texas-amendments-on-election-ballot/article_f12aeb22-b484-5883-a025-614197aba8e4.html&ved=2ahUKEwiM5-7s8qqTAxXTWUEAHa_tLygQFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › news › region › bell-county-poli...",
+      "favicon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwxyMERoV_1f6sYk9xutDFmvM.png",
+      "date": "18 Oct 2025",
+      "snippet": "With Early Voting beginning at 8 a.m. on Monday, the Telegram contacted state and local politicians for their views on the 17 statewide ...",
+      "about_this_result": {
+        "source": {
+          "description": "With Early Voting beginning at 8 a.m. on Monday, the Telegram contacted state and local politicians for their views on the 17 statewide ...",
+          "source_info_link": "https://kdhnews.com/news/region/bell-county-political-leaders-give-views-on-17-texas-amendments-on-election-ballot/article_f12aeb22-b484-5883-a025-614197aba8e4.html",
+          "icon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwxyr_vY5aKmwmqWqzDjJ5Cxk2Vw8sZijHFOGyGwcXf8hF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "NG"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/region/bell-county-political-leaders-give-views-on-17-texas-amendments-on-election-ballot/article_f12aeb22-b484-5883-a025-614197aba8e4.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Fregion%2Fbell-county-political-leaders-give-views-on-17-texas-amendments-on-election-ballot%2Farticle_f12aeb22-b484-5883-a025-614197aba8e4.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 4,
+      "title": "The Killeen City Council held a public hearing Tuesday on ...",
+      "link": "https://www.facebook.com/kdhnews/posts/the-killeen-city-council-held-a-public-hearing-tuesday-on-the-proposed-2024-budg/771903564883800/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/the-killeen-city-council-held-a-public-hearing-tuesday-on-the-proposed-2024-budg/771903564883800/&ved=2ahUKEwiM5-7s8qqTAxXTWUEAHa_tLygQFnoECCQQAQ",
+      "displayed_link": "5 reactions · 2 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx3b1_5no_TxDeUmqqhSO6EM.png",
+      "snippet": "The Killeen City Council held a public hearing Tuesday on the proposed 2024 budget, which included complaints from a developer and an ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Killeen City Council held a public hearing Tuesday on the proposed 2024 budget, which included complaints from a developer and an ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/the-killeen-city-council-held-a-public-hearing-tuesday-on-the-proposed-2024-budg/771903564883800/",
+          "icon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx_bR_POpuA5_sziQU8sBHKrWrxk2zA_iRQaUS_dlpArm.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "NG"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/the-killeen-city-council-held-a-public-hearing-tuesday-on-the-proposed-2024-budg/771903564883800/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fthe-killeen-city-council-held-a-public-hearing-tuesday-on-the-proposed-2024-budg%2F771903564883800%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "THE STATE OF TEXAS, Plaintiff, v. CITY OF AUSTIN",
+      "link": "https://www.texasattorneygeneral.gov/sites/default/files/images/press/Marijuana%20Lawsuits%20Filed.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.texasattorneygeneral.gov/sites/default/files/images/press/Marijuana%2520Lawsuits%2520Filed.pdf&ved=2ahUKEwiM5-7s8qqTAxXTWUEAHa_tLygQFnoECB0QAQ",
+      "displayed_link": "https://www.texasattorneygeneral.gov › press",
+      "favicon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx8_OMTos3blBtBbWujWOht4.png",
+      "date": "30 Jan 2024",
+      "snippet": "Section 22-81 of the Ordinance prohibits Killeen police officers from issuing Class C misdemeanor citations for “possession of drug residue [sic ...",
+      "snippet_highlighted_words": [
+        "Killeen"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 176
+          },
+          "extensions": [
+            "176 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Section 22-81 of the Ordinance prohibits Killeen police officers from issuing Class C misdemeanor citations for “possession of drug residue [sic ...",
+          "source_info_link": "https://www.texasattorneygeneral.gov/sites/default/files/images/press/Marijuana%20Lawsuits%20Filed.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx96-wQHT5fR5VcYsimwzpVka49aLXhVLN6SgaMt2tqOI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "NG"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.texasattorneygeneral.gov/sites/default/files/images/press/Marijuana%20Lawsuits%20Filed.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.texasattorneygeneral.gov%2Fsites%2Fdefault%2Ffiles%2Fimages%2Fpress%2FMarijuana%2520Lawsuits%2520Filed.pdf",
+      "source": "Office of the Attorney General (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "CENTRAL TEXAS",
+      "link": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/0/4f/04f8987a-50ce-11ed-b903-ff5bd37ef0b5/6351d8bba6386.pdf.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/0/4f/04f8987a-50ce-11ed-b903-ff5bd37ef0b5/6351d8bba6386.pdf.pdf&ved=2ahUKEwiM5-7s8qqTAxXTWUEAHa_tLygQFnoECBsQAQ",
+      "displayed_link": "https://bloximages.newyork1.vip.townnews.com › ...",
+      "snippet": "The Fall 2022 Newcomers Guide is designed to help new residents familiarize themselves with the Central Texas communities that comprise the greater Killeen- ...",
+      "snippet_highlighted_words": [
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Fall 2022 Newcomers Guide is designed to help new residents familiarize themselves with the Central Texas communities that comprise the greater Killeen- ...",
+          "source_info_link": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/0/4f/04f8987a-50ce-11ed-b903-ff5bd37ef0b5/6351d8bba6386.pdf.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "NG"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/0/4f/04f8987a-50ce-11ed-b903-ff5bd37ef0b5/6351d8bba6386.pdf.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbloximages.newyork1.vip.townnews.com%2Fkdhnews.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2F0%2F4f%2F04f8987a-50ce-11ed-b903-ff5bd37ef0b5%2F6351d8bba6386.pdf.pdf",
+      "source": "BLOX Digital"
+    },
+    {
+      "position": 7,
+      "title": "City council woman jumps ship for new position",
+      "link": "https://www.facebook.com/groups/327011874826028/posts/1870119190515281/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/327011874826028/posts/1870119190515281/&ved=2ahUKEwiM5-7s8qqTAxXTWUEAHa_tLygQFnoECCUQAQ",
+      "displayed_link": "3 comments · 7 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx_lf4HJGDV6azHS6-jwdcG0.png",
+      "snippet": "Good morning! There is absolutely no jumping ship here…I am from the City Of Killeen and Texas born and raised and I will no doubt continue ...",
+      "snippet_highlighted_words": [
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Good morning! There is absolutely no jumping ship here…I am from the City Of Killeen and Texas born and raised and I will no doubt continue ...",
+          "source_info_link": "https://www.facebook.com/groups/327011874826028/posts/1870119190515281/",
+          "icon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx9POrJTdgo0VAlo6XknkUxMIapQeHkZ5FIY0fk9uz6Wz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "NG"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/327011874826028/posts/1870119190515281/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F327011874826028%2Fposts%2F1870119190515281%2F",
+      "source": "Facebook · Killeen TX Citizen Expressions"
+    },
+    {
+      "position": 8,
+      "title": "Internal audit: Killeen special ed needs 'major' overhaul",
+      "link": "https://kdhnews.com/news/education/internal-audit-killeen-special-ed-needs-major-overhaul/article_0a00635e-e34b-11e5-94be-2fc6ea293c33.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/education/internal-audit-killeen-special-ed-needs-major-overhaul/article_0a00635e-e34b-11e5-94be-2fc6ea293c33.html&ved=2ahUKEwiM5-7s8qqTAxXTWUEAHa_tLygQFnoECDQQAQ",
+      "displayed_link": "https://kdhnews.com › news › education › internal-audi...",
+      "favicon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx7HaXGBr_M5kVdSkXfNZ_RA.png",
+      "date": "5 Mar 2016",
+      "snippet": "The special education department of the Killeen Independent School District is in need of a “major program overhaul,” according to an ...",
+      "snippet_highlighted_words": [
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The special education department of the Killeen Independent School District is in need of a “major program overhaul,” according to an ...",
+          "source_info_link": "https://kdhnews.com/news/education/internal-audit-killeen-special-ed-needs-major-overhaul/article_0a00635e-e34b-11e5-94be-2fc6ea293c33.html",
+          "icon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx6aSPq0T6J09pv3phqG3gQXq250LyZesmzOQ9AfAyUz1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "NG"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/education/internal-audit-killeen-special-ed-needs-major-overhaul/article_0a00635e-e34b-11e5-94be-2fc6ea293c33.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Feducation%2Finternal-audit-killeen-special-ed-needs-major-overhaul%2Farticle_0a00635e-e34b-11e5-94be-2fc6ea293c33.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "Economic Growth in Downtown Killeen, Texas",
+      "link": "https://www.facebook.com/groups/1694211147468616/posts/4332530683636636/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1694211147468616/posts/4332530683636636/&ved=2ahUKEwiM5-7s8qqTAxXTWUEAHa_tLygQFnoECDgQAQ",
+      "displayed_link": "30+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx3TL4219whmMTq7pSxSERE0.png",
+      "snippet": "The side of the street you chose to shoot houses nothing but Professional services businesses and the sun is clearly setting therefore the ...",
+      "about_this_result": {
+        "source": {
+          "description": "The side of the street you chose to shoot houses nothing but Professional services businesses and the sun is clearly setting therefore the ...",
+          "source_info_link": "https://www.facebook.com/groups/1694211147468616/posts/4332530683636636/",
+          "icon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwxyv1x3dYgsXhVgOxyBXRIoKh32IorrMj98RGesnt8iwz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "NG"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1694211147468616/posts/4332530683636636/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1694211147468616%2Fposts%2F4332530683636636%2F",
+      "source": "Facebook · Killeen/Fort Hood Places to go & Things to do!"
+    },
+    {
+      "position": 10,
+      "title": "Killeen City Hall Controversy and Misuse of Taxpayer Funds",
+      "link": "https://www.facebook.com/groups/1694211147468616/posts/4398412393715131/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1694211147468616/posts/4398412393715131/&ved=2ahUKEwiM5-7s8qqTAxXTWUEAHa_tLygQFnoECDcQAQ",
+      "displayed_link": "2 comments · 11 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx1lLcwzMB3OP2V02jnEtsRc.png",
+      "snippet": "Is it against the law to make a video for something that is being voted on during an election on city property? -The drone footage shows the ...",
+      "snippet_highlighted_words": [
+        "election"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Is it against the law to make a video for something that is being voted on during an election on city property? -The drone footage shows the ...",
+          "source_info_link": "https://www.facebook.com/groups/1694211147468616/posts/4398412393715131/",
+          "icon": "https://serpapi.com/searches/69bb5cdad0a88f12cde047bc/images/_hpAOc-rK9uQGLehnjLwx7HGD5En4iUqMceeL4ecvQJRSLCzeJ-82kg6jYB0yoMY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "NG"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1694211147468616/posts/4398412393715131/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1694211147468616%2Fposts%2F4398412393715131%2F",
+      "source": "Facebook · Killeen/Fort Hood Places to go & Things to do!"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Killeen+Council+At-Large+election.+Key+platform+issues+for+candidates:+Jose+Segarra,+Riakos+Adams.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

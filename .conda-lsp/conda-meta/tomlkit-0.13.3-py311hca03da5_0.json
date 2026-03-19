@@ -1,0 +1,305 @@
+{
+  "name": "tomlkit",
+  "version": "0.13.3",
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "tomlkit-0.13.3-py311hca03da5_0.conda",
+  "md5": "c54ab15748dc2fb12a626268fafe875f",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/tomlkit-0.13.3-py311hca03da5_0.conda",
+  "sha256": "c881a459b3878fc64319ba5cf806104d35338eae529e47ce863c16761694ae0b",
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1762896658000,
+  "size": 191143,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/tomlkit-0.13.3-py311hca03da5_0.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/tomlkit-0.13.3-py311hca03da5_0",
+  "files": [
+    "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/METADATA",
+    "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/RECORD",
+    "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/WHEEL",
+    "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/licenses/LICENSE",
+    "lib/python3.11/site-packages/tomlkit/__init__.py",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/_compat.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/_types.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/_utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/api.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/container.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/exceptions.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/items.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/parser.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/source.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/toml_char.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/toml_document.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/__pycache__/toml_file.cpython-311.pyc",
+    "lib/python3.11/site-packages/tomlkit/_compat.py",
+    "lib/python3.11/site-packages/tomlkit/_types.py",
+    "lib/python3.11/site-packages/tomlkit/_utils.py",
+    "lib/python3.11/site-packages/tomlkit/api.py",
+    "lib/python3.11/site-packages/tomlkit/container.py",
+    "lib/python3.11/site-packages/tomlkit/exceptions.py",
+    "lib/python3.11/site-packages/tomlkit/items.py",
+    "lib/python3.11/site-packages/tomlkit/parser.py",
+    "lib/python3.11/site-packages/tomlkit/py.typed",
+    "lib/python3.11/site-packages/tomlkit/source.py",
+    "lib/python3.11/site-packages/tomlkit/toml_char.py",
+    "lib/python3.11/site-packages/tomlkit/toml_document.py",
+    "lib/python3.11/site-packages/tomlkit/toml_file.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "58607828bd5ee3b2f83e301c72afd3e86bc5f01756ac987f6025625463709525",
+        "size_in_bytes": 2835,
+        "sha256_in_prefix": "58607828bd5ee3b2f83e301c72afd3e86bc5f01756ac987f6025625463709525"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "675f5a3bb8253df8eb8a34f5fd5825427df61592a83e22c68d9b9ccc160c2e1c",
+        "size_in_bytes": 2268,
+        "sha256_in_prefix": "675f5a3bb8253df8eb8a34f5fd5825427df61592a83e22c68d9b9ccc160c2e1c"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3396ac9a20252fa1c470eab9d988b99a693d2a64d58d8d910cfb4ee29f4332b7",
+        "size_in_bytes": 88,
+        "sha256_in_prefix": "3396ac9a20252fa1c470eab9d988b99a693d2a64d58d8d910cfb4ee29f4332b7"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "ce52af3b31360dff271a1b3baad16e213610456b073ee2eb715c0d8db8dd659e",
+        "size_in_bytes": 86,
+        "sha256_in_prefix": "ce52af3b31360dff271a1b3baad16e213610456b073ee2eb715c0d8db8dd659e"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit-0.13.3.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f2f9b460ba719da6626add264d3782f275a4ff7aab677beda08b330911e23adb",
+        "size_in_bytes": 1062,
+        "sha256_in_prefix": "f2f9b460ba719da6626add264d3782f275a4ff7aab677beda08b330911e23adb"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "148d37325022edd8743312cfad372060981896dfcc37dfa95b55f6c297fc5baf",
+        "size_in_bytes": 1282,
+        "sha256_in_prefix": "148d37325022edd8743312cfad372060981896dfcc37dfa95b55f6c297fc5baf"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c6e353a1a623a6e752ae88004d7a8a03c7c5765cefd9f12447a9f04e4f928eea",
+        "size_in_bytes": 1598,
+        "sha256_in_prefix": "c6e353a1a623a6e752ae88004d7a8a03c7c5765cefd9f12447a9f04e4f928eea"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/_compat.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e03fb3de84b75152ecb33a230ae7ffbcdc4aa544f4803d58e9315856d2adc53e",
+        "size_in_bytes": 1247,
+        "sha256_in_prefix": "e03fb3de84b75152ecb33a230ae7ffbcdc4aa544f4803d58e9315856d2adc53e"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/_types.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "11e303a8ef70a183c4fde15c7596d6585aa4e42461212ea40470297ba2e17cc0",
+        "size_in_bytes": 4251,
+        "sha256_in_prefix": "11e303a8ef70a183c4fde15c7596d6585aa4e42461212ea40470297ba2e17cc0"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/_utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a8fddb25cd8ec472e66dc63f32a621332f11ce8d278bf60c4452f7904ca87702",
+        "size_in_bytes": 8220,
+        "sha256_in_prefix": "a8fddb25cd8ec472e66dc63f32a621332f11ce8d278bf60c4452f7904ca87702"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/api.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "380c0df53c8ea8ef1fe5b78f0eab86fff768b1308af66d3d7cddf72db80584fb",
+        "size_in_bytes": 13025,
+        "sha256_in_prefix": "380c0df53c8ea8ef1fe5b78f0eab86fff768b1308af66d3d7cddf72db80584fb"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/container.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8a9a78959dc12e03930e473f36db6c4e466c636998d938932f8bf5c3053b801b",
+        "size_in_bytes": 45271,
+        "sha256_in_prefix": "8a9a78959dc12e03930e473f36db6c4e466c636998d938932f8bf5c3053b801b"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/exceptions.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "49e6c3b78e7e77d315bc25f25b28c510e3f648baef5d33440bd7e9595059d74f",
+        "size_in_bytes": 12904,
+        "sha256_in_prefix": "49e6c3b78e7e77d315bc25f25b28c510e3f648baef5d33440bd7e9595059d74f"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/items.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d36330d26061b24cc4113657d88ecb5a3dd30b924c03c2349e1aafc80167bb05",
+        "size_in_bytes": 100170,
+        "sha256_in_prefix": "d36330d26061b24cc4113657d88ecb5a3dd30b924c03c2349e1aafc80167bb05"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/parser.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fd131a4ffa3f785d36bfa09da16f3d1ffca546d0e0294413663ada6b43b1c347",
+        "size_in_bytes": 48508,
+        "sha256_in_prefix": "fd131a4ffa3f785d36bfa09da16f3d1ffca546d0e0294413663ada6b43b1c347"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/source.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1f07be156f92a1f06421acb9913477fbe3f0bdb7a9a8fa3bed7fab8c57e034b8",
+        "size_in_bytes": 9553,
+        "sha256_in_prefix": "1f07be156f92a1f06421acb9913477fbe3f0bdb7a9a8fa3bed7fab8c57e034b8"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/toml_char.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "26c7378260382806d7b607fc91e1a64746988f53cfe6a05f6eb65c255577710e",
+        "size_in_bytes": 2598,
+        "sha256_in_prefix": "26c7378260382806d7b607fc91e1a64746988f53cfe6a05f6eb65c255577710e"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/toml_document.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "038330efc5ab91be3f3ffe6256522d3a62b650f8942dc6e86ccd23239e97c94a",
+        "size_in_bytes": 516,
+        "sha256_in_prefix": "038330efc5ab91be3f3ffe6256522d3a62b650f8942dc6e86ccd23239e97c94a"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/__pycache__/toml_file.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "cdae6866b1e8f5520d7f481ccec2382f5c5e9ee789042ca2868b8d40b505c7e8",
+        "size_in_bytes": 3031,
+        "sha256_in_prefix": "cdae6866b1e8f5520d7f481ccec2382f5c5e9ee789042ca2868b8d40b505c7e8"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "829ecfeea361d32635760d30ca38820db570153754a3ba744308d5e13dc5ba7b",
+        "size_in_bytes": 513,
+        "sha256_in_prefix": "829ecfeea361d32635760d30ca38820db570153754a3ba744308d5e13dc5ba7b"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/_types.py",
+        "path_type": "hardlink",
+        "sha256": "e3686dda6fbfa493ef43fb8c28c2097f828be85f4dd0da036b47f299f4de202e",
+        "size_in_bytes": 2619,
+        "sha256_in_prefix": "e3686dda6fbfa493ef43fb8c28c2097f828be85f4dd0da036b47f299f4de202e"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/_utils.py",
+        "path_type": "hardlink",
+        "sha256": "9b83b25aaf67c3930669b1e140a4c8bb562d503f12549ca84c89874cde8bed87",
+        "size_in_bytes": 4089,
+        "sha256_in_prefix": "9b83b25aaf67c3930669b1e140a4c8bb562d503f12549ca84c89874cde8bed87"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/api.py",
+        "path_type": "hardlink",
+        "sha256": "ab766644cf3bb4a0a18ec9eea9a8fa1201ed4f149f7be7cf8406f931b220ff75",
+        "size_in_bytes": 7811,
+        "sha256_in_prefix": "ab766644cf3bb4a0a18ec9eea9a8fa1201ed4f149f7be7cf8406f931b220ff75"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/container.py",
+        "path_type": "hardlink",
+        "sha256": "f78d32961ffc25fad3119b02498eaae4f249f13bc9bce86e55a828441fa1ca88",
+        "size_in_bytes": 31685,
+        "sha256_in_prefix": "f78d32961ffc25fad3119b02498eaae4f249f13bc9bce86e55a828441fa1ca88"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "7bed222a3bfebb69e013a1ba5cc3b16a804d9ca05f3cd8c32e66b0e180c7a685",
+        "size_in_bytes": 5703,
+        "sha256_in_prefix": "7bed222a3bfebb69e013a1ba5cc3b16a804d9ca05f3cd8c32e66b0e180c7a685"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/items.py",
+        "path_type": "hardlink",
+        "sha256": "d782acd571735ec25561a06c1da242fc8cfd10aa1da746d1389cc5dc75e305e9",
+        "size_in_bytes": 56286,
+        "sha256_in_prefix": "d782acd571735ec25561a06c1da242fc8cfd10aa1da746d1389cc5dc75e305e9"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/parser.py",
+        "path_type": "hardlink",
+        "sha256": "19a4d2d0d42511e9647751939670c54f736d41da797c2d63d74fe59cade939d2",
+        "size_in_bytes": 38080,
+        "sha256_in_prefix": "19a4d2d0d42511e9647751939670c54f736d41da797c2d63d74fe59cade939d2"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/source.py",
+        "path_type": "hardlink",
+        "sha256": "362b61ee698f9a14dfe5d31245ce356d8f5cb88451ff80a8a8e8c2f9fc737c2a",
+        "size_in_bytes": 4835,
+        "sha256_in_prefix": "362b61ee698f9a14dfe5d31245ce356d8f5cb88451ff80a8a8e8c2f9fc737c2a"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/toml_char.py",
+        "path_type": "hardlink",
+        "sha256": "c37b10674768959d6a8d9d91c63fecbef96944d34607f7e37c17180f48059c3b",
+        "size_in_bytes": 1291,
+        "sha256_in_prefix": "c37b10674768959d6a8d9d91c63fecbef96944d34607f7e37c17180f48059c3b"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/toml_document.py",
+        "path_type": "hardlink",
+        "sha256": "3824e45977773f9f04653e120fcfdd75cd58a6431aaad952e7fb2d1d306630e2",
+        "size_in_bytes": 110,
+        "sha256_in_prefix": "3824e45977773f9f04653e120fcfdd75cd58a6431aaad952e7fb2d1d306630e2"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tomlkit/toml_file.py",
+        "path_type": "hardlink",
+        "sha256": "f19cd266fd82d51f5071ed96675db68a39e5f4b51927fd674b5c4b2d04fb397e",
+        "size_in_bytes": 1659,
+        "sha256_in_prefix": "f19cd266fd82d51f5071ed96675db68a39e5f4b51927fd674b5c4b2d04fb397e"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/tomlkit-0.13.3-py311hca03da5_0",
+    "type": 1
+  }
+}

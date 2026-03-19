@@ -1,0 +1,384 @@
+{
+  "search_metadata": {
+    "id": "69bb5e819df9dd61b44f90a4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/uRvfD12MqrbZnXOIROEWOw/69bb5e819df9dd61b44f90a4.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/uRvfD12MqrbZnXOIROEWOw/69bb5e819df9dd61b44f90a4.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:05 UTC",
+    "processed_at": "2026-03-19 02:25:05 UTC",
+    "google_url": "https://www.google.com/search?q=Jessica+Gonzalez+%22Killeen+Council+D1%22+%22Killeen%22+Facebook&oq=Jessica+Gonzalez+%22Killeen+Council+D1%22+%22Killeen%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/uRvfD12MqrbZnXOIROEWOw/69bb5e819df9dd61b44f90a4.html",
+    "total_time_taken": 1.75
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Jessica Gonzalez \"Killeen Council D1\" \"Killeen\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Jessica Gonzalez \"Killeen Council D1\" \"Killeen\" Facebook",
+    "total_results": 9730,
+    "time_taken_displayed": 0.69,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Jessica Gonzalez Killeen Council D1 Killeen Facebook",
+    "spelling_fix": "Jessica Gonzalez Killeen Council D1 Killeen Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "JessicaG4Me",
+      "link": "https://www.facebook.com/jessicag4mekilleen/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jessicag4mekilleen/&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQFnoECA4QAQ",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftkEIXNBA7QVwXwcGAxfQpgs.png",
+      "snippet": "JessicaG4Me. 436 likes · 12 talking about this. Mayor ProTem Jessica Gonzalez City of Killeen District1 Paid Political Advertisement by Jessica G.",
+      "snippet_highlighted_words": [
+        "Jessica Gonzalez",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "JessicaG4Me. 436 likes · 12 talking about this. Mayor ProTem Jessica Gonzalez City of Killeen District1 Paid Political Advertisement by Jessica G.",
+          "source_info_link": "https://www.facebook.com/jessicag4mekilleen/",
+          "icon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftoKuo9X22_D2tRqLD50FGkS189jkTEwCym12TmljGNHZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jessicag4mekilleen/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjessicag4mekilleen%2F",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+Facebook&sa=X&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ5t4CegQIDxAB"
+      },
+      "source": "Facebook · JessicaG4Me"
+    },
+    {
+      "position": 2,
+      "title": "Killeen City Councilwoman Jessica Gonzalez speaks with ...",
+      "link": "https://www.facebook.com/kdhnews/videos/killeen-city-councilwoman-jessica-gonzalez-speaks-with-kdh-news-about-her-qualif/1402303494974629/",
+      "displayed_link": "10+ reactions · 2 weeks ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftvlfUFMAhzWELqRPNOikM50.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftmPEa7zplV02miFx37KOBVo.png",
+      "snippet": "Killeen City Councilwoman Jessica Gonzalez speaks with KDH News about her qualifications for Justice of the Peace and what she plans to do ...",
+      "duration": "9:02",
+      "about_this_result": {
+        "source": {
+          "description": "Killeen City Councilwoman Jessica Gonzalez speaks with KDH News about her qualifications for Justice of the Peace and what she plans to do ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/killeen-city-councilwoman-jessica-gonzalez-speaks-with-kdh-news-about-her-qualif/1402303494974629/",
+          "icon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftnQeYnjxNyOo4j0nvo0jviyUwYGfTsomf8e6eNdZ-F9C.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/killeen-city-councilwoman-jessica-gonzalez-speaks-with-kdh-news-about-her-qualif/1402303494974629/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fkilleen-city-councilwoman-jessica-gonzalez-speaks-with-kdh-news-about-her-qualif%2F1402303494974629%2F",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+Facebook&sa=X&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ5t4CegQIEhAR"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "City of Killeen, Texas - Government",
+      "link": "https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilwoman-jessica-gonzalez-presente/1308769881286923/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilwoman-jessica-gonzalez-presente/1308769881286923/&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQFnoECBwQAQ",
+      "displayed_link": "460+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftprp35Vf9TRJ5khJYD8xysk.png",
+      "snippet": "During this evening's city council meeting, Councilwoman Jessica Gonzalez presented the Star Award to Bernard Jones, also known as Babatunde ...",
+      "snippet_highlighted_words": [
+        "council",
+        "Jessica Gonzalez"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "During this evening's city council meeting, Councilwoman Jessica Gonzalez presented the Star Award to Bernard Jones, also known as Babatunde ...",
+          "source_info_link": "https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilwoman-jessica-gonzalez-presente/1308769881286923/",
+          "icon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLfthlXLG1Fhp_aOihNS4pNHm8BJwElv6xyZ_jAOzLw2h1V.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilwoman-jessica-gonzalez-presente/1308769881286923/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKilleenTexas%2Fposts%2Fduring-this-evenings-city-council-meeting-councilwoman-jessica-gonzalez-presente%2F1308769881286923%2F",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+Facebook&sa=X&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ5t4CegQIJxAB"
+      },
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 4,
+      "title": "Councilwoman Jessica Gonzalez is one of four (4) women on ...",
+      "link": "https://www.facebook.com/KilleenTexas/videos/councilwoman-jessica-gonzalez-is-one-of-four-4-women-on-our-killeen-city-council/370748441571993/",
+      "displayed_link": "10+ reactions · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftp69zW8kGujIxzs5GGgQpMY.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLfttoyAH94CEtgRaMCHuTMsLA.png",
+      "snippet": "Councilwoman Jessica Gonzalez is one of four (4) women on our Killeen City Council. She shares her thoughts on Women's History Month.",
+      "duration": "0:26",
+      "about_this_result": {
+        "source": {
+          "description": "Councilwoman Jessica Gonzalez is one of four (4) women on our Killeen City Council. She shares her thoughts on Women's History Month.",
+          "source_info_link": "https://www.facebook.com/KilleenTexas/videos/councilwoman-jessica-gonzalez-is-one-of-four-4-women-on-our-killeen-city-council/370748441571993/",
+          "icon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftpSRUics7gvOSIqniBPKXbz3bykdPGtUTLoInIP3wQJZ.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KilleenTexas/videos/councilwoman-jessica-gonzalez-is-one-of-four-4-women-on-our-killeen-city-council/370748441571993/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKilleenTexas%2Fvideos%2Fcouncilwoman-jessica-gonzalez-is-one-of-four-4-women-on-our-killeen-city-council%2F370748441571993%2F",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+Facebook&sa=X&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ5t4CegQIFBAS"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR_XjUf9BCAcaNVlADoKmjRXZ5np_852CZ_Ig",
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 5,
+      "title": "JessicaG4Me added a new photo.",
+      "link": "https://www.facebook.com/jessicag4mekilleen/photos/d41d8cd9/1459795636151136/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jessicag4mekilleen/photos/d41d8cd9/1459795636151136/&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQFnoECB8QAQ",
+      "displayed_link": "3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftr2Y0UzOuPh4zofiYe1Bm-0.png",
+      "snippet": "Want to hear directly from your police department? Join the Killeen Police Department for a Town Hall Meeting with Chief Lopez, command staff, ...",
+      "snippet_highlighted_words": [
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Want to hear directly from your police department? Join the Killeen Police Department for a Town Hall Meeting with Chief Lopez, command staff, ...",
+          "source_info_link": "https://www.facebook.com/jessicag4mekilleen/photos/d41d8cd9/1459795636151136/",
+          "icon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftm5Zl8oPXYSL3N-NK_xSFcZaZNfBySMQ0BE1cF_8bVnB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jessicag4mekilleen/photos/d41d8cd9/1459795636151136/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjessicag4mekilleen%2Fphotos%2Fd41d8cd9%2F1459795636151136%2F",
+      "source": "Facebook · JessicaG4Me"
+    },
+    {
+      "position": 6,
+      "title": "Jessica Gonzalez, D-Killeen, wants to be your next justice ...",
+      "link": "https://www.facebook.com/kdhnews/posts/jessica-gonzalez-d-killeen-wants-to-be-your-next-justice-of-the-peace/1295396359201182/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/jessica-gonzalez-d-killeen-wants-to-be-your-next-justice-of-the-peace/1295396359201182/&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQFnoECB4QAQ",
+      "displayed_link": "3 reactions · 7 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLfts6TeKN-4QlCyVxIMiqT7uA.png",
+      "snippet": "Jessica Gonzalez, D-Killeen, wants to be your next justice of the peace.",
+      "snippet_highlighted_words": [
+        "Jessica Gonzalez",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jessica Gonzalez, D-Killeen, wants to be your next justice of the peace.",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/jessica-gonzalez-d-killeen-wants-to-be-your-next-justice-of-the-peace/1295396359201182/",
+          "icon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftpwFk0ZnHZjuvPZK2h_FIr-CBY9jCSwNIP-XlTFFtIIX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/jessica-gonzalez-d-killeen-wants-to-be-your-next-justice-of-the-peace/1295396359201182/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fjessica-gonzalez-d-killeen-wants-to-be-your-next-justice-of-the-peace%2F1295396359201182%2F",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+Facebook&sa=X&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ5t4CegQIKhAB"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 7,
+      "title": "Killeen Councilwoman Jessica Gonzalez has a request for ...",
+      "link": "https://www.facebook.com/kdhnews/posts/killeen-councilwoman-jessica-gonzalez-has-a-request-for-a-future-item-on-tuesday/1388712773202873/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/killeen-councilwoman-jessica-gonzalez-has-a-request-for-a-future-item-on-tuesday/1388712773202873/&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQFnoECDQQAQ",
+      "displayed_link": "https://www.facebook.com › kdhnews › posts › killeen-...",
+      "favicon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftj5fAGmSfU1hbOu6PBH8ORU.png",
+      "date": "Nov 27, 2025",
+      "snippet": "Killeen Councilwoman Jessica Gonzalez has a request for a future item on Tuesday's Killeen City Council agenda to discuss establishing a ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Jessica Gonzalez",
+        "Killeen",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Councilwoman Jessica Gonzalez has a request for a future item on Tuesday's Killeen City Council agenda to discuss establishing a ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/killeen-councilwoman-jessica-gonzalez-has-a-request-for-a-future-item-on-tuesday/1388712773202873/",
+          "icon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftg-3teOl5lxSIWJ9nE5IEzAlaCarIZCQ7oiAFyxJYrsW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/killeen-councilwoman-jessica-gonzalez-has-a-request-for-a-future-item-on-tuesday/1388712773202873/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fkilleen-councilwoman-jessica-gonzalez-has-a-request-for-a-future-item-on-tuesday%2F1388712773202873%2F",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+Facebook&sa=X&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ5t4CegQIOhAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 8,
+      "title": "District #1 Killeen Councilmember Jessica Gonzalez sits down ...",
+      "link": "https://www.facebook.com/kdhnews/videos/district-1-killeen-councilmember-jessica-gonzalez-sits-down-with-killeen-daily-h/1007203723809460/",
+      "displayed_link": "2 reactions · 2 years ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftowCNrlQh58Y9nsE0JbDHbQ.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftjs97r927dYuRQdB4E8BuPU.png",
+      "snippet": "District #1 Killeen Councilmember Jessica Gonzalez sits down with Killeen Daily Herald Reporter Kevin Limiti to explain some of her ...",
+      "duration": "17:49",
+      "about_this_result": {
+        "source": {
+          "description": "District #1 Killeen Councilmember Jessica Gonzalez sits down with Killeen Daily Herald Reporter Kevin Limiti to explain some of her ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/district-1-killeen-councilmember-jessica-gonzalez-sits-down-with-killeen-daily-h/1007203723809460/",
+          "icon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftk_qZ25kGnbrjwdf3mehPR8iQyYohTgzEkUiWopLfmzR.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/district-1-killeen-councilmember-jessica-gonzalez-sits-down-with-killeen-daily-h/1007203723809460/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fdistrict-1-killeen-councilmember-jessica-gonzalez-sits-down-with-killeen-daily-h%2F1007203723809460%2F",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+Facebook&sa=X&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ5t4CegQILhAR"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "Council Member's Performance and Downtown ...",
+      "link": "https://www.facebook.com/groups/1694211147468616/posts/4400971983459172/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1694211147468616/posts/4400971983459172/&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQFnoECDYQAQ",
+      "displayed_link": "2 comments · 11 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftkCe6GJC_43rWIpzYnwxvwg.png",
+      "snippet": "Jessica Gonzalez meet and greet at the public park on Sunday. Yeah, ask her about her downtown business, The Music Box.",
+      "snippet_highlighted_words": [
+        "Jessica Gonzalez"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jessica Gonzalez meet and greet at the public park on Sunday. Yeah, ask her about her downtown business, The Music Box.",
+          "source_info_link": "https://www.facebook.com/groups/1694211147468616/posts/4400971983459172/",
+          "icon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftrYqRRHUkbccrnAuhQJjSkHU_H9yjihH87avuQpvtaGV.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1694211147468616/posts/4400971983459172/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1694211147468616%2Fposts%2F4400971983459172%2F",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+Facebook&sa=X&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ5t4CegQIOxAB"
+      },
+      "source": "Facebook · Killeen/Fort Hood Places to go & Things to do!"
+    },
+    {
+      "position": 10,
+      "title": "City - Councilman Jose Segarra, Councilwoman Jessica ...",
+      "link": "https://www.facebook.com/KilleenTexas/photos/councilman-jose-segarra-councilwoman-jessica-gonzalez-judge-gregory-simmons-mayo/570864948410757/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KilleenTexas/photos/councilman-jose-segarra-councilwoman-jessica-gonzalez-judge-gregory-simmons-mayo/570864948410757/&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQFnoECDAQAQ",
+      "displayed_link": "7 reactions · 3 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftvfTXNZgEg4-8mOtOfwowiU.png",
+      "snippet": "Councilman Jose Segarra, Councilwoman Jessica Gonzalez, Judge Gregory Simmons, Mayor Debbie Nash-King, Judge Kris Krishna.",
+      "snippet_highlighted_words": [
+        "Jessica Gonzalez"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Councilman Jose Segarra, Councilwoman Jessica Gonzalez, Judge Gregory Simmons, Mayor Debbie Nash-King, Judge Kris Krishna.",
+          "source_info_link": "https://www.facebook.com/KilleenTexas/photos/councilman-jose-segarra-councilwoman-jessica-gonzalez-judge-gregory-simmons-mayo/570864948410757/",
+          "icon": "https://serpapi.com/searches/69bb5e819df9dd61b44f90a4/images/HQfK1Ni8lo8OtBFvlcLftt_wNilFG7-3mY_9wc8bR_CEWLkrgtu-RuHmREEDltbt.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KilleenTexas/photos/councilman-jose-segarra-councilwoman-jessica-gonzalez-judge-gregory-simmons-mayo/570864948410757/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKilleenTexas%2Fphotos%2Fcouncilman-jose-segarra-councilwoman-jessica-gonzalez-judge-gregory-simmons-mayo%2F570864948410757%2F",
+      "missing": [
+        "Council",
+        "D1"
+      ],
+      "source": "Facebook · City of Killeen, Texas - Government"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=gl67aaycCpurptQPgInNmAQ&start=10&sa=N&sstk=Af77f_fgCfd-lBBsNVFaL3NpRJDUHQSyqTRZWahMGfiqG-TirSe2__HGATe8hnvIcQO1C3vAR7AShu7UibUmGG5ge5MEnZkpXUqC0Q&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=gl67aaycCpurptQPgInNmAQ&start=10&sa=N&sstk=Af77f_fgCfd-lBBsNVFaL3NpRJDUHQSyqTRZWahMGfiqG-TirSe2__HGATe8hnvIcQO1C3vAR7AShu7UibUmGG5ge5MEnZkpXUqC0Q&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=gl67aaycCpurptQPgInNmAQ&start=20&sa=N&sstk=Af77f_fgCfd-lBBsNVFaL3NpRJDUHQSyqTRZWahMGfiqG-TirSe2__HGATe8hnvIcQO1C3vAR7AShu7UibUmGG5ge5MEnZkpXUqC0Q&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=gl67aaycCpurptQPgInNmAQ&start=30&sa=N&sstk=Af77f_fgCfd-lBBsNVFaL3NpRJDUHQSyqTRZWahMGfiqG-TirSe2__HGATe8hnvIcQO1C3vAR7AShu7UibUmGG5ge5MEnZkpXUqC0Q&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=gl67aaycCpurptQPgInNmAQ&start=40&sa=N&sstk=Af77f_fgCfd-lBBsNVFaL3NpRJDUHQSyqTRZWahMGfiqG-TirSe2__HGATe8hnvIcQO1C3vAR7AShu7UibUmGG5ge5MEnZkpXUqC0Q&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=gl67aaycCpurptQPgInNmAQ&start=50&sa=N&sstk=Af77f_fgCfd-lBBsNVFaL3NpRJDUHQSyqTRZWahMGfiqG-TirSe2__HGATe8hnvIcQO1C3vAR7AShu7UibUmGG5ge5MEnZkpXUqC0Q&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=gl67aaycCpurptQPgInNmAQ&start=60&sa=N&sstk=Af77f_fgCfd-lBBsNVFaL3NpRJDUHQSyqTRZWahMGfiqG-TirSe2__HGATe8hnvIcQO1C3vAR7AShu7UibUmGG5ge5MEnZkpXUqC0Q&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=gl67aaycCpurptQPgInNmAQ&start=70&sa=N&sstk=Af77f_fgCfd-lBBsNVFaL3NpRJDUHQSyqTRZWahMGfiqG-TirSe2__HGATe8hnvIcQO1C3vAR7AShu7UibUmGG5ge5MEnZkpXUqC0Q&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=gl67aaycCpurptQPgInNmAQ&start=80&sa=N&sstk=Af77f_fgCfd-lBBsNVFaL3NpRJDUHQSyqTRZWahMGfiqG-TirSe2__HGATe8hnvIcQO1C3vAR7AShu7UibUmGG5ge5MEnZkpXUqC0Q&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&ei=gl67aaycCpurptQPgInNmAQ&start=90&sa=N&sstk=Af77f_fgCfd-lBBsNVFaL3NpRJDUHQSyqTRZWahMGfiqG-TirSe2__HGATe8hnvIcQO1C3vAR7AShu7UibUmGG5ge5MEnZkpXUqC0Q&ved=2ahUKEwis5da29KqTAxWblYkEHYBEE0MQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+Facebook&start=90"
+    }
+  }
+}

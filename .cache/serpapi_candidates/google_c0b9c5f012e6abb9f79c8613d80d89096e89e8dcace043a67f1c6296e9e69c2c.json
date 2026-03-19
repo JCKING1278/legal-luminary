@@ -1,0 +1,354 @@
+{
+  "search_metadata": {
+    "id": "69bb5e7cf3fc7b793abe662a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OBxPM2uELQEvE9yLfdc6rg/69bb5e7cf3fc7b793abe662a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/OBxPM2uELQEvE9yLfdc6rg/69bb5e7cf3fc7b793abe662a.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:00 UTC",
+    "processed_at": "2026-03-19 02:25:00 UTC",
+    "google_url": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&oq=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/OBxPM2uELQEvE9yLfdc6rg/69bb5e7cf3fc7b793abe662a.html",
+    "total_time_taken": 2.72
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Riakos Adams \"Killeen Council At-Large\" \"Killeen\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Riakos Adams \"Killeen Council At-Large\" \"Killeen\" Facebook",
+    "total_results": 209,
+    "time_taken_displayed": 0.5,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Beverly Williams files for Killeen council at-large election",
+      "link": "https://www.facebook.com/kdhnews/posts/beverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos/1428419932565490/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/beverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos/1428419932565490/&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0QFnoECCAQAQ",
+      "displayed_link": "1 reaction · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMqFsRJWAwj1AsfgpLJfy1IE.png",
+      "snippet": "Beverly Williams files for Killeen council at-large ... Profile photo of Killeen. Killeen Resident ▻ Killeen TX Citizen Expressions. 1y · Public ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen",
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Beverly Williams files for Killeen council at-large ... Profile photo of Killeen. Killeen Resident ▻ Killeen TX Citizen Expressions. 1y · Public ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/beverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos/1428419932565490/",
+          "icon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMhGD0vAlT4CWPSYpBUCGUsc28eJZMjE-Akgvnc0m2swH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/beverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos/1428419932565490/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fbeverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos%2F1428419932565490%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "Killeen Mayor Debbie Nash-King announced that she has ...",
+      "link": "https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0QFnoECCgQAQ",
+      "displayed_link": "170+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMuCYfu0Retx7I6yrJkkpjY8.png",
+      "snippet": "Nash-King announces run for Killeen council at-large seat, resigns as mayor. KDHNEWS.COM. Nash-King announces run for Killeen council at-large ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nash-King announces run for Killeen council at-large seat, resigns as mayor. KDHNEWS.COM. Nash-King announces run for Killeen council at-large ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/",
+          "icon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMlP93aU_ovl9GpPX_ZoB5exhIOD8vOJ9PC5SVYTrgQDE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fkilleen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th%2F1456150003125816%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "JUST IN | Killeen, #Texas Mayor Debbie Nash-King ...",
+      "link": "https://www.facebook.com/micahrwilson/posts/just-in-killeen-texas-mayor-debbie-nash-king-announced-that-she-has-filed-to-run/1514856456890670/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/micahrwilson/posts/just-in-killeen-texas-mayor-debbie-nash-king-announced-that-she-has-filed-to-run/1514856456890670/&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0QFnoECCMQAQ",
+      "displayed_link": "120+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMuMIhdx9LilEzp1aSV91k_I.png",
+      "snippet": "... killeen-council-at-large-seat-resigns-as-mayor/article_ef6251c3-2f0d-4a8e-881f-02420bdf1fa7.html?utm_campaign=blox&utm_source ...",
+      "snippet_highlighted_words": [
+        "killeen-council-at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... killeen-council-at-large\n-seat-resigns-as-mayor/article_ef6251c3-2f0d-4a8e-881f-02420bdf1fa7.html?utm_campaign=blox&utm_source ...",
+          "source_info_link": "https://www.facebook.com/micahrwilson/posts/just-in-killeen-texas-mayor-debbie-nash-king-announced-that-she-has-filed-to-run/1514856456890670/",
+          "icon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMkRBNOhwsixp4zVFziD1gyntu27ULo3Jp4upDuhX4YnF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/micahrwilson/posts/just-in-killeen-texas-mayor-debbie-nash-king-announced-that-she-has-filed-to-run/1514856456890670/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fmicahrwilson%2Fposts%2Fjust-in-killeen-texas-mayor-debbie-nash-king-announced-that-she-has-filed-to-run%2F1514856456890670%2F",
+      "source": "Facebook · Micah Wilson"
+    },
+    {
+      "position": 4,
+      "title": "Election Season: Candidate filing starts Wednesday for ...",
+      "link": "https://kdhnews.com/centerforpolitics/election-season-candidate-filing-starts-wednesday-for-may-city-school-elections/article_5da6dc5f-f7a6-442d-b736-e62924f0fe0c.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/election-season-candidate-filing-starts-wednesday-for-may-city-school-elections/article_5da6dc5f-f7a6-442d-b736-e62924f0fe0c.html&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0QFnoECB0QAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › election-seaso...",
+      "favicon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMtOXbTvGgPm1Gdm9QgASYZo.png",
+      "date": "Jan 11, 2026",
+      "snippet": "Two seats will be up for election in 2027. More from this section. Shavonn Hull files for Killeen council at-large ... Inside Killeen. Inside ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Two seats will be up for election in 2027. More from this section. Shavonn Hull files for Killeen council at-large ... Inside Killeen. Inside ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/election-season-candidate-filing-starts-wednesday-for-may-city-school-elections/article_5da6dc5f-f7a6-442d-b736-e62924f0fe0c.html",
+          "icon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMgS82_d-GqdigCmYN_YrRpy-cTlk5SrbJ9eBWLmSFQJ_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/election-season-candidate-filing-starts-wednesday-for-may-city-school-elections/article_5da6dc5f-f7a6-442d-b736-e62924f0fe0c.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Felection-season-candidate-filing-starts-wednesday-for-may-city-school-elections%2Farticle_5da6dc5f-f7a6-442d-b736-e62924f0fe0c.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "Killeen incumbents retain council at-large seats",
+      "link": "https://kdhnews.com/centerforpolitics/killeen-incumbents-retain-council-at-large-seats/article_09daaaea-0a95-11ef-82e7-435b0922faf1.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/killeen-incumbents-retain-council-at-large-seats/article_09daaaea-0a95-11ef-82e7-435b0922faf1.html&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0QFnoECBsQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › killeen-incum...",
+      "favicon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMoVP2K5X_P3hV8gtDK4WISY.png",
+      "date": "May 4, 2024",
+      "snippet": "... Killeen, May 4th 2024. Mike Bartoszek | Herald. adamsreactiontoearlyvotingnumbers.jpg ... Killeen council at-large seat · Center for Politics ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "adamsreactiontoearlyvotingnumbers",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Killeen, May 4th 2024. Mike Bartoszek | Herald. adamsreactiontoearlyvotingnumbers.jpg ... Killeen council at-large seat · Center for Politics ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/killeen-incumbents-retain-council-at-large-seats/article_09daaaea-0a95-11ef-82e7-435b0922faf1.html",
+          "icon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMhVH_GWspXqsWYmFSM17zoY38qf4DqypuwM2mo2HdV1M.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/killeen-incumbents-retain-council-at-large-seats/article_09daaaea-0a95-11ef-82e7-435b0922faf1.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fkilleen-incumbents-retain-council-at-large-seats%2Farticle_09daaaea-0a95-11ef-82e7-435b0922faf1.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 6,
+      "title": "Killeen business owner alleges harassment from council ...",
+      "link": "https://kdhnews.com/centerforpolitics/downtown-tensions-killeen-business-owner-alleges-harassment-from-council-candidate-and-others/article_ba7d943e-f9ce-11ee-8113-0b594318b8d0.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/downtown-tensions-killeen-business-owner-alleges-harassment-from-council-candidate-and-others/article_ba7d943e-f9ce-11ee-8113-0b594318b8d0.html&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0QFnoECB8QAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › downtown-te...",
+      "favicon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMvp0ApW1Qz2mEZCRTKMgoeY.png",
+      "date": "Apr 14, 2024",
+      "snippet": "“My 9-year-old is standing next to me.” Price, a white man who is running for the Killeen council at-large seat, was at the NAACP's candidate ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "“My 9-year-old is standing next to me.” Price, a white man who is running for the Killeen council at-large seat, was at the NAACP's candidate ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/downtown-tensions-killeen-business-owner-alleges-harassment-from-council-candidate-and-others/article_ba7d943e-f9ce-11ee-8113-0b594318b8d0.html",
+          "icon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMl6us647lFQOXXt0YWGdA9ozF3A7jBOmTgyssII7HF9-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/downtown-tensions-killeen-business-owner-alleges-harassment-from-council-candidate-and-others/article_ba7d943e-f9ce-11ee-8113-0b594318b8d0.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fdowntown-tensions-killeen-business-owner-alleges-harassment-from-council-candidate-and-others%2Farticle_ba7d943e-f9ce-11ee-8113-0b594318b8d0.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 7,
+      "title": "Nash-King announces run for Killeen council at-large seat ...",
+      "link": "https://kdhnews.com/centerforpolitics/nash-king-announces-run-for-killeen-council-at-large-seat-resigns-as-mayor/article_ef6251c3-2f0d-4a8e-881f-02420bdf1fa7.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/nash-king-announces-run-for-killeen-council-at-large-seat-resigns-as-mayor/article_ef6251c3-2f0d-4a8e-881f-02420bdf1fa7.html&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0QFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › nash-king-an...",
+      "favicon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMjJ-xOj4Y4Zj0Xnl7XqfeiM.png",
+      "date": "Feb 13, 2026",
+      "snippet": "Nash-King announces run for Killeen council at-large seat, resigns as mayor ... Killeen Fire Chief Jim Kubinski. Inside Killeen.",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nash-King announces run for Killeen council at-large seat, resigns as mayor ... Killeen Fire Chief Jim Kubinski. Inside Killeen.",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/nash-king-announces-run-for-killeen-council-at-large-seat-resigns-as-mayor/article_ef6251c3-2f0d-4a8e-881f-02420bdf1fa7.html",
+          "icon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMn8QnIZPFr9Z2q6SdgjfVF_GLe8RdrYPYQoYqN5_J202.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/nash-king-announces-run-for-killeen-council-at-large-seat-resigns-as-mayor/article_ef6251c3-2f0d-4a8e-881f-02420bdf1fa7.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fnash-king-announces-run-for-killeen-council-at-large-seat-resigns-as-mayor%2Farticle_ef6251c3-2f0d-4a8e-881f-02420bdf1fa7.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 8,
+      "title": "Two people file for Killeen Council at-large seat",
+      "link": "https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0QFnoECDoQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › two-people-fil...",
+      "favicon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMgTBwv2jtw31Z-daKSlOvAM.png",
+      "date": "Feb 15, 2024",
+      "snippet": "Two people file for Killeen Council at-large seat ... Camron Cochran has filed for the May 4 election for the Killeen City Council's at-large seat ...",
+      "snippet_highlighted_words": [
+        "Killeen Council at-large",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Two people file for Killeen Council at-large seat ... Camron Cochran has filed for the May 4 election for the Killeen City Council's at-large seat ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html",
+          "icon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMpt0uOYGxhSRZxO7Bjp8-reaiJ7bkjMHmo7tJM11abh9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Ftwo-people-file-for-killeen-council-at-large-seat%2Farticle_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "Candidates respond to rezoning near Featherline Road",
+      "link": "https://kdhnews.com/centerforpolitics/candidates-respond-to-rezoning-near-featherline-road/article_ecff641c-04de-11ef-b252-f32ffcca2387.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/candidates-respond-to-rezoning-near-featherline-road/article_ecff641c-04de-11ef-b252-f32ffcca2387.html&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0QFnoECDcQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › candidates-res...",
+      "favicon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMt_9dpp2T6QORf26EanptoM.png",
+      "date": "Apr 28, 2024",
+      "snippet": "Segarra files for Killeen mayor in upcoming May election. Jan 14, 2026. Killeen ... Killeen council at-large election · Center for Politics ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Segarra files for Killeen mayor in upcoming May election. Jan 14, 2026. Killeen ... Killeen council at-large election · Center for Politics ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/candidates-respond-to-rezoning-near-featherline-road/article_ecff641c-04de-11ef-b252-f32ffcca2387.html",
+          "icon": "https://serpapi.com/searches/69bb5e7cf3fc7b793abe662a/images/rc7IBdf5gwrh6t0pywQzMr8rENDpyD3M2Nu3wZvw2i1XoQxSNLOhIQnNis9Pqfd1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/candidates-respond-to-rezoning-near-featherline-road/article_ecff641c-04de-11ef-b252-f32ffcca2387.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fcandidates-respond-to-rezoning-near-featherline-road%2Farticle_ecff641c-04de-11ef-b252-f32ffcca2387.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 10,
+      "title": "Untitled",
+      "link": "https://vmi.2yspa.com/port/port-of-nigata/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vmi.2yspa.com/port/port-of-nigata/&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0QFnoECDQQAQ",
+      "displayed_link": "https://vmi.2yspa.com › port › port-of-nigata",
+      "snippet": "Skip to main content. Killeen Daily Herald - Local News Logo. Facebook ... Killeen Mayor Pro Tem Riakos Adams will be sworn ... Killeen council at-large ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Facebook",
+        "Killeen",
+        "Riakos Adams",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Skip to main content. Killeen Daily Herald - Local News Logo. Facebook ... Killeen Mayor Pro Tem Riakos Adams will be sworn ... Killeen council at-large ...",
+          "source_info_link": "https://vmi.2yspa.com/port/port-of-nigata/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://vmi.2yspa.com/port/port-of-nigata/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fvmi.2yspa.com%2Fport%2Fport-of-nigata%2F",
+      "source": "2yspa.com"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=fl67acHFF4W9kPIPmLOh6QM&start=10&sa=N&sstk=Af77f_daxj5WsIXQNn8uh1SCI1wSaB9yQqDLOXVyFAPOExP8ZR--QKgg-54_LkkMea99IulIOlhODVELjq1hgnx07NWHZqMMRHKdZQ&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0Q8NMDegQIDxAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=fl67acHFF4W9kPIPmLOh6QM&start=10&sa=N&sstk=Af77f_daxj5WsIXQNn8uh1SCI1wSaB9yQqDLOXVyFAPOExP8ZR--QKgg-54_LkkMea99IulIOlhODVELjq1hgnx07NWHZqMMRHKdZQ&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0Q8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=fl67acHFF4W9kPIPmLOh6QM&start=20&sa=N&sstk=Af77f_daxj5WsIXQNn8uh1SCI1wSaB9yQqDLOXVyFAPOExP8ZR--QKgg-54_LkkMea99IulIOlhODVELjq1hgnx07NWHZqMMRHKdZQ&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0Q8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=fl67acHFF4W9kPIPmLOh6QM&start=30&sa=N&sstk=Af77f_daxj5WsIXQNn8uh1SCI1wSaB9yQqDLOXVyFAPOExP8ZR--QKgg-54_LkkMea99IulIOlhODVELjq1hgnx07NWHZqMMRHKdZQ&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0Q8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=fl67acHFF4W9kPIPmLOh6QM&start=40&sa=N&sstk=Af77f_daxj5WsIXQNn8uh1SCI1wSaB9yQqDLOXVyFAPOExP8ZR--QKgg-54_LkkMea99IulIOlhODVELjq1hgnx07NWHZqMMRHKdZQ&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0Q8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=fl67acHFF4W9kPIPmLOh6QM&start=50&sa=N&sstk=Af77f_daxj5WsIXQNn8uh1SCI1wSaB9yQqDLOXVyFAPOExP8ZR--QKgg-54_LkkMea99IulIOlhODVELjq1hgnx07NWHZqMMRHKdZQ&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0Q8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=fl67acHFF4W9kPIPmLOh6QM&start=60&sa=N&sstk=Af77f_daxj5WsIXQNn8uh1SCI1wSaB9yQqDLOXVyFAPOExP8ZR--QKgg-54_LkkMea99IulIOlhODVELjq1hgnx07NWHZqMMRHKdZQ&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0Q8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=fl67acHFF4W9kPIPmLOh6QM&start=70&sa=N&sstk=Af77f_daxj5WsIXQNn8uh1SCI1wSaB9yQqDLOXVyFAPOExP8ZR--QKgg-54_LkkMea99IulIOlhODVELjq1hgnx07NWHZqMMRHKdZQ&ved=2ahUKEwjB_O-09KqTAxWFHkQIHZhZKD0Q8tMDegQIDxAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=70"
+    }
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "search_metadata": {
+    "id": "69bb5df231a601324dd64004",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5LjccbYi43rz2PlgWa0lhQ/69bb5df231a601324dd64004.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/5LjccbYi43rz2PlgWa0lhQ/69bb5df231a601324dd64004.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:42 UTC",
+    "processed_at": "2026-03-19 02:22:42 UTC",
+    "google_url": "https://www.google.com/search?q=John+R.+Carter+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&oq=John+R.+Carter+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5LjccbYi43rz2PlgWa0lhQ/69bb5df231a601324dd64004.html",
+    "total_time_taken": 1.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "John R. Carter \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "John R. Carter \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "total_results": 50800,
+    "time_taken_displayed": 0.53,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "John R. Carter US House TX-31 Central Texas LinkedIn",
+    "spelling_fix": "John R. Carter US House TX-31 Central Texas LinkedIn"
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Matthew Key - Congressman John R. Carter TX31",
+      "link": "https://www.linkedin.com/in/matthew-key-460b48a3?trk=pub-pbmap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matthew-key-460b48a3%3Ftrk%3Dpub-pbmap&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQFnoECB8QAQ",
+      "displayed_link": "20+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wI1Rwp5Ck08fdCPClyFiwFg.png",
+      "snippet": "Experience: Congressman John R. Carter TX31 · Location: Killeen-Temple Area · 21 connections on LinkedIn. View Matthew Key's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "John R",
+        "Carter TX31",
+        "LinkedIn",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Killeen-Temple Area",
+            "Congressman John R. Carter TX31"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: Congressman John R. Carter TX31 · Location: Killeen-Temple Area · 21 connections on LinkedIn. View Matthew Key's profile on LinkedIn, ...",
+          "source_info_link": "https://www.linkedin.com/in/matthew-key-460b48a3?trk=pub-pbmap",
+          "icon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wFqIhUx4LtCukzpHmUCRrh_hXhcvAAKxHEGVFu2xzc6T.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/matthew-key-460b48a3?trk=pub-pbmap&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatthew-key-460b48a3%3Ftrk%3Dpub-pbmap",
+      "missing": [
+        "House"
+      ],
+      "must_include": {
+        "word": "House",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=John+R.+Carter+US+%22House%22+TX-31+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ5t4CegQIJRAB"
+      },
+      "source": "LinkedIn · Matthew Key"
+    },
+    {
+      "position": 2,
+      "title": "U.S. Representative John Carter",
+      "link": "https://carter.house.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://carter.house.gov/&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQFnoECBwQAQ",
+      "displayed_link": "https://carter.house.gov",
+      "favicon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wC5CSVeoiw0q_Di53EqcjXo.png",
+      "snippet": "U.S. Representative John Carter Proudly Serving the 31st District of Texas.",
+      "snippet_highlighted_words": [
+        "U.S.",
+        "John Carter",
+        "31st",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "U.S. Representative John Carter Proudly Serving the 31st District of Texas.",
+          "source_info_link": "https://carter.house.gov/",
+          "icon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wBJtklQYKFC5cRW-bUvGp7lnVF5sCI5lKyD7fgQEZrb9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://carter.house.gov/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcarter.house.gov%2F",
+      "missing": [
+        "LinkedIn"
+      ],
+      "must_include": {
+        "word": "LinkedIn",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=John+R.+Carter+US+House+TX-31+Central+Texas+%22LinkedIn%22&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ5t4CegQIJBAB"
+      },
+      "source": "U.S. Representative John Carter (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "US Rep. John Carter",
+      "link": "https://www.texastribune.org/directory/john-carter/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.texastribune.org/directory/john-carter/&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQFnoECCYQAQ",
+      "displayed_link": "https://www.texastribune.org › directory › john-carter",
+      "favicon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wCvODc-FWDXnkF6YcHf417M.png",
+      "snippet": "Address, 4407 S. Interstate 35, Suite 101. Georgetown, TX 78626 2180 N. Main St., Suite I-10. Belton, TX 76513 P.O. Box 729, Suite I-10. Belton, TX 76513.",
+      "snippet_highlighted_words": [
+        "TX",
+        "Main",
+        "TX",
+        "TX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Address, 4407 S. Interstate 35, Suite 101. Georgetown, TX 78626 2180 N. Main St., Suite I-10. Belton, TX 76513 P.O. Box 729, Suite I-10. Belton, TX 76513.",
+          "source_info_link": "https://www.texastribune.org/directory/john-carter/",
+          "icon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wO8GIEhWKii4Dwl9a-FZ_nQ0rq9M5XZN38emVxcPLf39.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.texastribune.org/directory/john-carter/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.texastribune.org%2Fdirectory%2Fjohn-carter%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=John+R.+Carter+US+House+TX-31+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ5t4CegQIKBAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 4,
+      "title": "Rep John Carter (R)",
+      "link": "https://www.nena.org/districting/Representative.aspx?State=TX&DistrictID=31&RepID=861052",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nena.org/districting/Representative.aspx%3FState%3DTX%26DistrictID%3D31%26RepID%3D861052&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQFnoECBsQAQ",
+      "displayed_link": "https://www.nena.org › districting › Representative",
+      "favicon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wCENrh_TMdxoDHLXztu6pY4.png",
+      "snippet": "U.S. House & Senate Representative Details. Rep John Carter (R). District: Texas District 31. Web site: https://carter.house.gov. Phone:.",
+      "snippet_highlighted_words": [
+        "U.S. House",
+        "John Carter",
+        "R",
+        "Texas",
+        "31",
+        "carter",
+        "house"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "U.S. House & Senate Representative Details. Rep John Carter (R). District: Texas District 31. Web site: https://carter.house.gov. Phone:.",
+          "source_info_link": "https://www.nena.org/districting/Representative.aspx?State=TX&DistrictID=31&RepID=861052",
+          "icon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wGhy0Sy2e0pGhig_furNnpCUbwPpHxTrHSRyVlRVH5gN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nena.org/districting/Representative.aspx?State=TX&DistrictID=31&RepID=861052&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nena.org%2Fdistricting%2FRepresentative.aspx%3FState%3DTX%26DistrictID%3D31%26RepID%3D861052",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=John+R.+Carter+US+House+TX-31+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ5t4CegQIIRAB"
+      },
+      "source": "National Emergency Number Association"
+    },
+    {
+      "position": 5,
+      "title": "Congressman John Carter Faces Valentina Gomez ...",
+      "link": "https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQFnoECD8QAQ",
+      "displayed_link": "https://thetexan.news › Elections › 2026",
+      "favicon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wAATQOmPTGmVWKow9cQj8xQ.png",
+      "date": "Feb 23, 2026",
+      "snippet": "Congressman John Carter (R-TX-31) is facing nine Republican challengers in the 2026 primary election for his seat, which he has held for 23 ...",
+      "snippet_highlighted_words": [
+        "John Carter",
+        "R",
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Congressman John Carter (R-TX-31) is facing nine Republican challengers in the 2026 primary election for his seat, which he has held for 23 ...",
+          "source_info_link": "https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html",
+          "icon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wGnwPtXTLsglDNIS3-Mkk2uqxQksoZikEuOPAy9YgeIN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthetexan.news%2Felections%2F2026%2Fcongressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary%2Farticle_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html",
+      "source": "thetexan.news"
+    },
+    {
+      "position": 6,
+      "title": "John Carter (Texas)",
+      "link": "https://ballotpedia.org/John_Carter_(Texas)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/John_Carter_(Texas)&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQFnoECDwQAQ",
+      "displayed_link": "https://ballotpedia.org › John_Carter_(Texas)",
+      "favicon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wGSNfJ_sNVP88bplZvgzdI0.png",
+      "snippet": "John Carter (Republican Party) is a member of the US House, representing Texas' 31st Congressional District. He assumed office on January 3, 2003.",
+      "snippet_highlighted_words": [
+        "John Carter",
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "John Carter (Republican Party) is a member of the US House, representing Texas' 31st Congressional District. He assumed office on January 3, 2003.",
+          "source_info_link": "https://ballotpedia.org/John_Carter_(Texas)",
+          "icon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wMO0VTG1rCT8xfLDACLtFWDhAPJJAG9fIUaE46S9Rx7r.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/John_Carter_(Texas)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FJohn_Carter_%28Texas%29",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 7,
+      "title": "A Pan-Cancer Proteogenomic Atlas of PI3K/AKT/mTOR ... - PMC",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5502825/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC5502825/&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQFnoECD0QAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC5502825",
+      "favicon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wBzBK0VbxbCtG1G7zo4oB98.png",
+      "author": "by Y Zhang",
+      "snippet": "Molecular alterations involving PI3K/AKT/mTOR pathway (including mutation, copy number, protein, or RNA) were examined across 11219 human cancers ...",
+      "about_this_result": {
+        "source": {
+          "description": "Molecular alterations involving PI3K/AKT/mTOR pathway (including mutation, copy number, protein, or RNA) were examined across 11219 human cancers ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5502825/",
+          "icon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wANSHIN7a1O0Gdr3CYZ0jxyDi356siRSy24a6l-_gs1S.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pmc.ncbi.nlm.nih.gov/articles/PMC5502825/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC5502825%2F",
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "Denied Persons List (DPL)",
+      "link": "https://www.bis.gov/licensing/end-user-guidance/denied-persons-list-dpl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bis.gov/licensing/end-user-guidance/denied-persons-list-dpl&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQFnoECDgQAQ",
+      "displayed_link": "https://www.bis.gov › licensing › end-user-guidance › de...",
+      "favicon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wIFZtcF-zipRfMIj-HuwG-U.png",
+      "snippet": "The Denied Persons List (DPL) provides the names of parties that have been denied export privileges in accordance with the Export Administration Regulations ...",
+      "about_this_result": {
+        "source": {
+          "description": "The Denied Persons List (DPL) provides the names of parties that have been denied export privileges in accordance with the Export Administration Regulations ...",
+          "source_info_link": "https://www.bis.gov/licensing/end-user-guidance/denied-persons-list-dpl",
+          "icon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wF9euad7cXcF9-mJltsmKwwoyPXCrsa2fOUnf2apIETV.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bis.gov/licensing/end-user-guidance/denied-persons-list-dpl&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bis.gov%2Flicensing%2Fend-user-guidance%2Fdenied-persons-list-dpl",
+      "source": "Bureau of Industry and Security (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "For a record fourth time, the Defense Counterintelligence ...",
+      "link": "https://www.facebook.com/GlennHegarTX/posts/for-a-record-fourth-time-the-defense-counterintelligence-and-security-agency-has/1504327721057703/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/GlennHegarTX/posts/for-a-record-fourth-time-the-defense-counterintelligence-and-security-agency-has/1504327721057703/&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQFnoECDoQAQ",
+      "displayed_link": "60+ reactions · 2 days ago",
+      "favicon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wG8h-GOH6wyoeSP-psQA8mA.png",
+      "snippet": "For a record fourth time, the Defense Counterintelligence and Security Agency has awarded The Texas A&M University System the Jack Donnelly ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For a record fourth time, the Defense Counterintelligence and Security Agency has awarded The Texas A&M University System the Jack Donnelly ...",
+          "source_info_link": "https://www.facebook.com/GlennHegarTX/posts/for-a-record-fourth-time-the-defense-counterintelligence-and-security-agency-has/1504327721057703/",
+          "icon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wBKvBkEtrpKdFvvvfEp54GDCly9rgNbLn2NlCGNaeVxo.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/GlennHegarTX/posts/for-a-record-fourth-time-the-defense-counterintelligence-and-security-agency-has/1504327721057703/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FGlennHegarTX%2Fposts%2Ffor-a-record-fourth-time-the-defense-counterintelligence-and-security-agency-has%2F1504327721057703%2F",
+      "source": "Facebook · Glenn Hegar"
+    },
+    {
+      "position": 10,
+      "title": "List of Currently Disciplined Practitioners",
+      "link": "https://www.justice.gov/eoir/list-of-currently-disciplined-practitioners",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justice.gov/eoir/list-of-currently-disciplined-practitioners&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQFnoECD4QAQ",
+      "displayed_link": "https://www.justice.gov › eoir › list-of-currently-discipli...",
+      "favicon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wGACFCeGRocddlvBNkAHJXo.png",
+      "snippet": "These practitioners were expelled from practice prior to January 13, 2012. The term expelled has been replaced by the term disbarred, which has the same ...",
+      "about_this_result": {
+        "source": {
+          "description": "These practitioners were expelled from practice prior to January 13, 2012. The term expelled has been replaced by the term disbarred, which has the same ...",
+          "source_info_link": "https://www.justice.gov/eoir/list-of-currently-disciplined-practitioners",
+          "icon": "https://serpapi.com/searches/69bb5df231a601324dd64004/images/ydjowN93ZOCKVE9g-Y8-wBmKnlyixAfjlosGIPTO6Ibtllc1VUHDU4dTsHF36gFF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.justice.gov/eoir/list-of-currently-disciplined-practitioners&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.justice.gov%2Feoir%2Flist-of-currently-disciplined-practitioners",
+      "source": "Department of Justice (.gov)"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Texas House district 31 map",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas+House+district+31+map&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas+House+district+31+map"
+    },
+    {
+      "block_position": 1,
+      "query": "John carter Texas",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=John+carter+Texas&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+carter+Texas"
+    },
+    {
+      "block_position": 1,
+      "query": "Texas District 31 Representative",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas+District+31+Representative&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas+District+31+Representative"
+    },
+    {
+      "block_position": 1,
+      "query": "Texas' 31st Congressional district 2026",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas%27+31st+Congressional+district+2026&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas%27+31st+Congressional+district+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Texas District 31 candidates",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas+District+31+candidates&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas+District+31+candidates"
+    },
+    {
+      "block_position": 1,
+      "query": "Texas District 31 candidates 2026",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas+District+31+candidates+2026&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas+District+31+candidates+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Congressman John Carter Net worth",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Congressman+John+Carter+Net+worth&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Congressman+John+Carter+Net+worth"
+    },
+    {
+      "block_position": 1,
+      "query": "John Carter phone number",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=John+Carter+phone+number&sa=X&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Carter+phone+number"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=8127aeHVBKDGp84PycDgkQ4&start=10&sa=N&sstk=Af77f_e56y1UzgVc65Opk46k3-NI7y4901C_axT1AjxQluPm-LR2JesiEqmGtAOPGQopArsRYgI1DUWcRtc1cu_huUEvlAC2jEtaVg&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ8NMDegQIEhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=8127aeHVBKDGp84PycDgkQ4&start=10&sa=N&sstk=Af77f_e56y1UzgVc65Opk46k3-NI7y4901C_axT1AjxQluPm-LR2JesiEqmGtAOPGQopArsRYgI1DUWcRtc1cu_huUEvlAC2jEtaVg&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ8tMDegQIEhAE",
+      "3": "https://www.google.com/search?q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=8127aeHVBKDGp84PycDgkQ4&start=20&sa=N&sstk=Af77f_e56y1UzgVc65Opk46k3-NI7y4901C_axT1AjxQluPm-LR2JesiEqmGtAOPGQopArsRYgI1DUWcRtc1cu_huUEvlAC2jEtaVg&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ8tMDegQIEhAG",
+      "4": "https://www.google.com/search?q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=8127aeHVBKDGp84PycDgkQ4&start=30&sa=N&sstk=Af77f_e56y1UzgVc65Opk46k3-NI7y4901C_axT1AjxQluPm-LR2JesiEqmGtAOPGQopArsRYgI1DUWcRtc1cu_huUEvlAC2jEtaVg&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ8tMDegQIEhAI",
+      "5": "https://www.google.com/search?q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=8127aeHVBKDGp84PycDgkQ4&start=40&sa=N&sstk=Af77f_e56y1UzgVc65Opk46k3-NI7y4901C_axT1AjxQluPm-LR2JesiEqmGtAOPGQopArsRYgI1DUWcRtc1cu_huUEvlAC2jEtaVg&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ8tMDegQIEhAK",
+      "6": "https://www.google.com/search?q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=8127aeHVBKDGp84PycDgkQ4&start=50&sa=N&sstk=Af77f_e56y1UzgVc65Opk46k3-NI7y4901C_axT1AjxQluPm-LR2JesiEqmGtAOPGQopArsRYgI1DUWcRtc1cu_huUEvlAC2jEtaVg&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ8tMDegQIEhAM",
+      "7": "https://www.google.com/search?q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=8127aeHVBKDGp84PycDgkQ4&start=60&sa=N&sstk=Af77f_e56y1UzgVc65Opk46k3-NI7y4901C_axT1AjxQluPm-LR2JesiEqmGtAOPGQopArsRYgI1DUWcRtc1cu_huUEvlAC2jEtaVg&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ8tMDegQIEhAO",
+      "8": "https://www.google.com/search?q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=8127aeHVBKDGp84PycDgkQ4&start=70&sa=N&sstk=Af77f_e56y1UzgVc65Opk46k3-NI7y4901C_axT1AjxQluPm-LR2JesiEqmGtAOPGQopArsRYgI1DUWcRtc1cu_huUEvlAC2jEtaVg&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ8tMDegQIEhAQ",
+      "9": "https://www.google.com/search?q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=8127aeHVBKDGp84PycDgkQ4&start=80&sa=N&sstk=Af77f_e56y1UzgVc65Opk46k3-NI7y4901C_axT1AjxQluPm-LR2JesiEqmGtAOPGQopArsRYgI1DUWcRtc1cu_huUEvlAC2jEtaVg&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ8tMDegQIEhAS",
+      "10": "https://www.google.com/search?q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=8127aeHVBKDGp84PycDgkQ4&start=90&sa=N&sstk=Af77f_e56y1UzgVc65Opk46k3-NI7y4901C_axT1AjxQluPm-LR2JesiEqmGtAOPGQopArsRYgI1DUWcRtc1cu_huUEvlAC2jEtaVg&ved=2ahUKEwihm7ny86qTAxUg48kDHUkgOOIQ8tMDegQIEhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+R.+Carter+US+House+TX-31+Central+Texas+LinkedIn&start=90"
+    }
+  }
+}

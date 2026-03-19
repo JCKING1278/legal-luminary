@@ -1,0 +1,382 @@
+{
+  "search_metadata": {
+    "id": "69bb5cf9998aadca10ef6a3d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/THBSgLXqAj78zOgTsAt6Bg/69bb5cf9998aadca10ef6a3d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/THBSgLXqAj78zOgTsAt6Bg/69bb5cf9998aadca10ef6a3d.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:33 UTC",
+    "processed_at": "2026-03-19 02:18:33 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+David+Lee+Berry+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+David+Lee+Berry+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/THBSgLXqAj78zOgTsAt6Bg/69bb5cf9998aadca10ef6a3d.html",
+    "total_time_taken": 1.44
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of David Lee Berry for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of David Lee Berry for US House TX-31? Include who that supporter works for.",
+    "total_results": 9,
+    "time_taken_displayed": 0.52,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "y3iqwXicxZTdcuI2FIDv-x7lxgvGQALOjGdHEiIICMEhELhijG1k8B-xDI5zt-_Sp-rTVDJ_Dom33c50esZjSzo_ks_5dH784a0D98_f-k4cb9mdLCdJUqFhSD27Yoa-bLA0MOVV6LHIdL6ne61eMplWLdlrreylTcO6neD53tzG-sgrj5wQkFLmoi2WBrM3POLbhskLmb_c3-ttPqmwih1UXLUJycIfjtOHSq2qqJVH2fC5AfiPBIMn_oaED7jQj0qULeFibx1n2l5u6RAC5lbmh0VKMdDFvPP1QXDmOUbcdwT35eTBKNwVkNwMzrNtO2IfgCjMDK6FfFq5HLF_DFqw1-dAB8_2JVkQFAohJy3UAUKgm6CL8hiCHjdpgAFC53CQq9EI1hEJi8NzzyntYqesg5_ViVuRp2FizXklZItynqryMuIfRV6bjpkNIiYwQ89qNey0Ru_TR30Jbj3VnabKcALMue7WwCgBsrnkdl5oWLa1cBbVbxnQJjsTzfJE7zYEWG8wHQ3NyqAClRzOIpMUfTikKGxBHb4QVKw6lDQE9wLuM9UjMYCTk1ELQAoQvhQPH2N-xjkT8mGR0oMOiSm9MhWx3OPoFN_Mq-H5D_gZeKUveyR5M5RHixCCxW7zQwSaN-NzyK-QGPWza9bNhwEklysori3Ps375J_Fun84r0iCCY0DbNnoQZohnBAkjMYEoSyrU8TX4kF7mDwA10AHnXxdYeB1PooMTv1c45jHGTYvh2lCZLZtvwzKNBv34JX2ZrtVeOzliG_rLX-jE5v8H9rFP97NbHtLPYNOfga1j9JM-fQT70qezhoQ6X4ONM1ByfdrOq_Ng65DkwH4r7NM5sMnfgj37kJYz2PoXYMNrsGEx2KJPn8FGCF716ey3srTkwP5XfVr_530649s-fD427d2GFjZv3O12_TrqWmpjuunNXz0v4hQ3ayrB9HPzXvnxnWF53xZr6w7WenFqlV61FyeU1kyKHVvyjIjaLJasMAgjiT-rdWAE5trwJLbbbsMotvnySmob-7UlDWxbgnYUpdKKm07GUjfcMVt6npXryneJBKa3s2wp4eFjx4hzEZIwcplwqpR8Lwq1qnELXBf3nqfTp42yAn4rLe91Czs3faW-64YNMPYGpDlS1_44NOoG1m_uBwPlWTdTpvqgEd_cuv2dM15gPF01d-3tdLqaLIIZCnx9Eju7pdJv3753vKd7MunN4tb2ZWS-z2gwDkG3o96_uo_bpkL07DBMKy-qVofezGatasmPTI0Xv0HBUAcvVLT1EjONhc32mlkzDdVuKmqrWlftVb3k0zjdag2lxIJIU_4Cj2r0nw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=y3iqwXicxZTdcuI2FIDv-x7lxgvGQALOjGdHEiIICMEhELhijG1k8B-xDI5zt-_Sp-rTVDJ_Dom33c50esZjSzo_ks_5dH784a0D98_f-k4cb9mdLCdJUqFhSD27Yoa-bLA0MOVV6LHIdL6ne61eMplWLdlrreylTcO6neD53tzG-sgrj5wQkFLmoi2WBrM3POLbhskLmb_c3-ttPqmwih1UXLUJycIfjtOHSq2qqJVH2fC5AfiPBIMn_oaED7jQj0qULeFibx1n2l5u6RAC5lbmh0VKMdDFvPP1QXDmOUbcdwT35eTBKNwVkNwMzrNtO2IfgCjMDK6FfFq5HLF_DFqw1-dAB8_2JVkQFAohJy3UAUKgm6CL8hiCHjdpgAFC53CQq9EI1hEJi8NzzyntYqesg5_ViVuRp2FizXklZItynqryMuIfRV6bjpkNIiYwQ89qNey0Ru_TR30Jbj3VnabKcALMue7WwCgBsrnkdl5oWLa1cBbVbxnQJjsTzfJE7zYEWG8wHQ3NyqAClRzOIpMUfTikKGxBHb4QVKw6lDQE9wLuM9UjMYCTk1ELQAoQvhQPH2N-xjkT8mGR0oMOiSm9MhWx3OPoFN_Mq-H5D_gZeKUveyR5M5RHixCCxW7zQwSaN-NzyK-QGPWza9bNhwEklysori3Ps375J_Fun84r0iCCY0DbNnoQZohnBAkjMYEoSyrU8TX4kF7mDwA10AHnXxdYeB1PooMTv1c45jHGTYvh2lCZLZtvwzKNBv34JX2ZrtVeOzliG_rLX-jE5v8H9rFP97NbHtLPYNOfga1j9JM-fQT70qezhoQ6X4ONM1ByfdrOq_Ng65DkwH4r7NM5sMnfgj37kJYz2PoXYMNrsGEx2KJPn8FGCF716ey3srTkwP5XfVr_530649s-fD427d2GFjZv3O12_TrqWmpjuunNXz0v4hQ3ayrB9HPzXvnxnWF53xZr6w7WenFqlV61FyeU1kyKHVvyjIjaLJasMAgjiT-rdWAE5trwJLbbbsMotvnySmob-7UlDWxbgnYUpdKKm07GUjfcMVt6npXryneJBKa3s2wp4eFjx4hzEZIwcplwqpR8Lwq1qnELXBf3nqfTp42yAn4rLe91Czs3faW-64YNMPYGpDlS1_44NOoG1m_uBwPlWTdTpvqgEd_cuv2dM15gPF01d-3tdLqaLIIZCnx9Eju7pdJv3753vKd7MunN4tb2ZWS-z2gwDkG3o96_uo_bpkL07DBMKy-qVofezGatasmPTI0Xv0HBUAcvVLT1EjONhc32mlkzDdVuKmqrWlftVb3k0zjdag2lxIJIU_4Cj2r0nw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Fundraising in Texas' 31st Congressional District",
+      "link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quiverquant.com/election-fundraising/house/TX/31&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQFnoECB4QAQ",
+      "displayed_link": "https://www.quiverquant.com › house",
+      "favicon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKrHEgTqgrjlreNixzfLiosI.png",
+      "snippet": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+          "source_info_link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+          "icon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKrozbPln44vS_87nSQlCYFrk9P8iMo4dNiAzsa5eYO5B.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quiverquant.com/election-fundraising/house/TX/31&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quiverquant.com%2Felection-fundraising%2Fhouse%2FTX%2F31",
+      "missing": [
+        "financial"
+      ],
+      "must_include": {
+        "word": "financial",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+%22financial%22+supporter+of+David+Lee+Berry+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQ5t4CegQIJRAB"
+      },
+      "source": "Quiver Quantitative"
+    },
+    {
+      "position": 2,
+      "title": "BERRY, DAVID LEE DR. - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H6TX31144/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H6TX31144/&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQFnoECBkQAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H6TX31144",
+      "favicon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKheSG9UZCbYXQtUj_VlWiqc.png",
+      "snippet": "BERRY, DAVID LEE DR. Candidate for House Texas - 31 ID: H6TX31144 REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary.",
+      "snippet_highlighted_words": [
+        "BERRY",
+        "DAVID LEE",
+        "House Texas",
+        "31",
+        "Financial"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "BERRY, DAVID LEE DR. Candidate for House Texas - 31 ID: H6TX31144 REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary.",
+          "source_info_link": "https://www.fec.gov/data/candidate/H6TX31144/",
+          "icon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKsMKw_i1XiVRfqoCQjTdRzKcDN6Z6wLq5HamPqcTeXC-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H6TX31144/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH6TX31144%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+David+Lee+Berry+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQ5t4CegQIJhAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 3,
+      "title": "Donor Lookup Results • OpenSecrets",
+      "link": "https://www.opensecrets.org/pres08/search?amt=a&sort=A&zip=75205",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/pres08/search%3Famt%3Da%26sort%3DA%26zip%3D75205&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQFnoECBgQAQ",
+      "displayed_link": "https://www.opensecrets.org › pres08 › search",
+      "favicon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKqenhhEVZKU0SD5HbicJIbo.png",
+      "snippet": "Your search has generated too many results. Only the top 1000 records are being displayed. If you would like to refine your search, return to the form page.",
+      "snippet_highlighted_words": [
+        "top"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Your search has generated too many results. Only the top 1000 records are being displayed. If you would like to refine your search, return to the form page.",
+          "source_info_link": "https://www.opensecrets.org/pres08/search?amt=a&sort=A&zip=75205",
+          "icon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKrk6Yw1SkS1NlBQWlMf5iaHwqctRVVibMe9nOKkGEi3Z.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/pres08/search?amt=a&sort=A&zip=75205&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fpres08%2Fsearch%3Famt%3Da%26sort%3DA%26zip%3D75205",
+      "missing": [
+        "largest",
+        "Include"
+      ],
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 4,
+      "title": "Which candidates raised the most money in key Texas ...",
+      "link": "https://www.expressnews.com/projects/2024/texas-campaign-finance-reports-2024/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.expressnews.com/projects/2024/texas-campaign-finance-reports-2024/&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQFnoECBoQAQ",
+      "displayed_link": "https://www.expressnews.com › projects › texas-campai...",
+      "favicon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKo5W0YsbP04zNL3kPWjhUjA.png",
+      "date": "Dec 9, 2024",
+      "snippet": "Here's a look at who's donating to the campaign of U.S. Rep. Collin Allred as he looks to challenge Ted Cruz – plus more races.",
+      "snippet_highlighted_words": [
+        "U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Here's a look at who's donating to the campaign of U.S. Rep. Collin Allred as he looks to challenge Ted Cruz – plus more races.",
+          "source_info_link": "https://www.expressnews.com/projects/2024/texas-campaign-finance-reports-2024/",
+          "icon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKv2-HP4WkIgfYLCn_jGAhlaDT-nd68k72DUcsIU9s5b7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.expressnews.com/projects/2024/texas-campaign-finance-reports-2024/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.expressnews.com%2Fprojects%2F2024%2Ftexas-campaign-finance-reports-2024%2F",
+      "missing": [
+        "financial",
+        "Berry"
+      ],
+      "source": "San Antonio Express-News"
+    },
+    {
+      "position": 5,
+      "title": "Donors and Members",
+      "link": "https://support.texastribune.org/members",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.texastribune.org/members&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQFnoECCgQAQ",
+      "displayed_link": "https://support.texastribune.org › members",
+      "favicon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKvhvtrwQ-xWU07ZmMay_sbE.png",
+      "snippet": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+      "snippet_highlighted_words": [
+        "donations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+          "source_info_link": "https://support.texastribune.org/members",
+          "icon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKoQZGKVT4doIhTnLBmC3Rq0AiOIdnKRKVHqxaOpQyIcC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://support.texastribune.org/members&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsupport.texastribune.org%2Fmembers",
+      "missing": [
+        "31?"
+      ],
+      "must_include": {
+        "word": "31?",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+David+Lee+Berry+for+US+House+TX-+%2231?%22+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQ5t4CegQIKRAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 6,
+      "title": "These are the Houston megadonors who gave the most ...",
+      "link": "https://www.facebook.com/houstonchronicle/posts/these-are-the-houston-megadonors-who-gave-the-most-campaign-cash-over-25-years/1221314256679377/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/houstonchronicle/posts/these-are-the-houston-megadonors-who-gave-the-most-campaign-cash-over-25-years/1221314256679377/&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQFnoECDQQAQ",
+      "displayed_link": "1 reaction · 5 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKkrPjqUV1gsB81ARxp97Ejs.png",
+      "snippet": "If you haven't given time, money, or both to the candidates in these races, I'm sure they would appreciate the help. Let's flip the Texas House!",
+      "snippet_highlighted_words": [
+        "Texas House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you haven't given time, money, or both to the candidates in these races, I'm sure they would appreciate the help. Let's flip the Texas House!",
+          "source_info_link": "https://www.facebook.com/houstonchronicle/posts/these-are-the-houston-megadonors-who-gave-the-most-campaign-cash-over-25-years/1221314256679377/",
+          "icon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKlK6j0Qd_H5jMoMu8H_j2BpUlxThA1CFTmLQcNfJBgEA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/houstonchronicle/posts/these-are-the-houston-megadonors-who-gave-the-most-campaign-cash-over-25-years/1221314256679377/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fhoustonchronicle%2Fposts%2Fthese-are-the-houston-megadonors-who-gave-the-most-campaign-cash-over-25-years%2F1221314256679377%2F",
+      "missing": [
+        "31?"
+      ],
+      "must_include": {
+        "word": "31?",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+David+Lee+Berry+for+US+House+TX-+%2231?%22+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQ5t4CegQINhAB"
+      },
+      "source": "Facebook · Houston Chronicle"
+    },
+    {
+      "position": 7,
+      "title": "US sports owners make huge political donations. Which ...",
+      "link": "https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQFnoECDEQAQ",
+      "displayed_link": "https://www.theguardian.com › sport › nov › us-sports-...",
+      "favicon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKkxdhdpup0P4i8h1VHXCDu8.png",
+      "date": "Nov 5, 2024",
+      "snippet": "Nearly 95% of total contributions from owners across America's major sports leagues went to Republicans. See how your team fared in our ...",
+      "snippet_highlighted_words": [
+        "major"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nearly 95% of total contributions from owners across America's major sports leagues went to Republicans. See how your team fared in our ...",
+          "source_info_link": "https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database",
+          "icon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKjN0g69ODrfgfBbJnkcW73hXBPeQRhexFUdJP-VHtu3a.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.theguardian.com%2Fsport%2F2024%2Fnov%2F05%2Fus-sports-team-political-donations-database",
+      "source": "The Guardian"
+    },
+    {
+      "position": 8,
+      "title": "Candidates Search Results",
+      "link": "https://www.opensecrets.org/races/candidate_search_results",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/candidate_search_results&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQFnoECDgQAQ",
+      "displayed_link": "https://www.opensecrets.org › candidate_search_results",
+      "favicon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKsmn4LxlIQIaIB36kPGpIHg.png",
+      "snippet": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+          "source_info_link": "https://www.opensecrets.org/races/candidate_search_results",
+          "icon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKpqCwGQqfZsLQDM1wCeaOnP4IPxQN80Xm8liFEEMa4L-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/candidate_search_results&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Fcandidate_search_results",
+      "missing": [
+        "Include"
+      ],
+      "must_include": {
+        "word": "Include",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+David+Lee+Berry+for+US+House+TX-31?+%22Include%22+who+that+supporter+works+for.&sa=X&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQ5t4CegQIPhAB"
+      },
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 9,
+      "title": "161523 results for",
+      "link": "https://www.opensecrets.org/search?q=%EC%9D%B8%EC%B2%9C%EC%B6%9C%EC%9E%A5%EC%95%88%EB%A7%88&type=indiv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/search%3Fq%3D%25EC%259D%25B8%25EC%25B2%259C%25EC%25B6%259C%25EC%259E%25A5%25EC%2595%2588%25EB%25A7%2588%26type%3Dindiv&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQFnoECDkQAQ",
+      "displayed_link": "https://www.opensecrets.org › search",
+      "favicon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKj4OI83llMxVs2JuPKHbXKQ.png",
+      "snippet": "$1 for transparency. Our work depends on donors like you. Just $1 from each visitor would sustain us for a year. Will you give in 2026? Donate Now.",
+      "snippet_highlighted_words": [
+        "work",
+        "donors",
+        "us"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "$1 for transparency. Our work depends on donors like you. Just $1 from each visitor would sustain us for a year. Will you give in 2026? Donate Now.",
+          "source_info_link": "https://www.opensecrets.org/search?q=%EC%9D%B8%EC%B2%9C%EC%B6%9C%EC%9E%A5%EC%95%88%EB%A7%88&type=indiv",
+          "icon": "https://serpapi.com/searches/69bb5cf9998aadca10ef6a3d/images/IWgOQtTBRDHqf357uh7hKnaq9en1G6_PF6go6uRElzuCbiMBh8vVwae3ubVUhzkz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/search?q=%EC%9D%B8%EC%B2%9C%EC%B6%9C%EC%9E%A5%EC%95%88%EB%A7%88&type=indiv&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fsearch%3Fq%3D%25EC%259D%25B8%25EC%25B2%259C%25EC%25B6%259C%25EC%259E%25A5%25EC%2595%2588%25EB%25A7%2588%26type%3Dindiv",
+      "missing": [
+        "Include"
+      ],
+      "must_include": {
+        "word": "Include",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+David+Lee+Berry+for+US+House+TX-31?+%22Include%22+who+that+supporter+works+for.&sa=X&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQ5t4CegQIPxAB"
+      },
+      "source": "OpenSecrets"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Political contributions search by name",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Political+contributions+search+by+name&sa=X&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Political+contributions+search+by+name"
+    },
+    {
+      "block_position": 1,
+      "query": "How to find out if someone is a registered Democrat or Republican",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=How+to+find+out+if+someone+is+a+registered+Democrat+or+Republican&sa=X&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+find+out+if+someone+is+a+registered+Democrat+or+Republican"
+    },
+    {
+      "block_position": 1,
+      "query": "Voter records search by Name",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Voter+records+search+by+Name&sa=X&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Voter+records+search+by+Name"
+    },
+    {
+      "block_position": 1,
+      "query": "AIPAC Tracker",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=AIPAC+Tracker&sa=X&ved=2ahUKEwje-ef78qqTAxULrokEHZdxGCQQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AIPAC+Tracker"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 9 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+David+Lee+Berry+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

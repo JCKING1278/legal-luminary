@@ -1,0 +1,409 @@
+{
+  "search_metadata": {
+    "id": "69bb5e85e22fed9b33f71b16",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/HC_7whVM6ZnJXpIRvVaxgw/69bb5e85e22fed9b33f71b16.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/HC_7whVM6ZnJXpIRvVaxgw/69bb5e85e22fed9b33f71b16.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:09 UTC",
+    "processed_at": "2026-03-19 02:25:09 UTC",
+    "google_url": "https://www.google.com/search?q=Jessica+Gonzalez+%22Killeen+Council+D1%22+%22Killeen%22+LinkedIn&oq=Jessica+Gonzalez+%22Killeen+Council+D1%22+%22Killeen%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/HC_7whVM6ZnJXpIRvVaxgw/69bb5e85e22fed9b33f71b16.html",
+    "total_time_taken": 3.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Jessica Gonzalez \"Killeen Council D1\" \"Killeen\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Jessica Gonzalez \"Killeen Council D1\" \"Killeen\" LinkedIn",
+    "total_results": 6160,
+    "time_taken_displayed": 0.91,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Jessica Gonzalez Killeen Council D1 Killeen LinkedIn",
+    "spelling_fix": "Jessica Gonzalez Killeen Council D1 Killeen LinkedIn"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.killeentexas.gov/153/City-Council",
+      "thumbnail": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/XpvCMrrr4P8kux5eay0B20QYPikt6Sv_UPxHdyNz_oE.jpeg",
+      "original": "https://www.killeentexas.gov/ImageRepository/Document?documentId=11183",
+      "title": "City Council | City of Killeen, TX",
+      "source_name": "City of Killeen"
+    },
+    {
+      "source": "https://www.killeentexas.gov/directory.aspx?EID=11",
+      "thumbnail": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/ZPS9_0Py-LqrTHnsP4aCxSO5UScGLU-eiI1SjQ0LDy8.jpeg",
+      "original": "https://www.killeentexas.gov/ImageRepository/Document?documentID=9151",
+      "title": "Staff Directory • Jessica Gonzalez",
+      "source_name": "Killeen, TX"
+    },
+    {
+      "source": "https://www.killeentexas.gov/153/City-Council",
+      "thumbnail": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/UjKkeevSuTyGWyif228Rq184d8aa_blCkbqv0pVY-78.jpeg",
+      "original": "https://www.killeentexas.gov/ImageRepository/Document?documentId=11178",
+      "title": "City Council | City of Killeen, TX",
+      "source_name": "City of Killeen"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Jessica Gonzalez - Candidate for Justice of the Peace at ...",
+      "link": "https://www.linkedin.com/in/jessica-gonzalez-1871243a6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jessica-gonzalez-1871243a6&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQFnoECB8QAQ",
+      "displayed_link": "7 followers",
+      "favicon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt82V6W_ROC-PRFlqaUsqgmF4.png",
+      "snippet": "Candidate for Justice of the Peace at Precinct 4 Place 2 · After serving three impactful terms on the Killeen City Council, Councilwoman Jessica Gonzalez ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Council",
+        "Jessica Gonzalez"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "precinct_place": 4
+          },
+          "extensions": [
+            "Killeen, Texas, United States",
+            "Candidate for Justice of the Peace",
+            "Precinct 4 Place 2"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Candidate for Justice of the Peace at Precinct 4 Place 2 · After serving three impactful terms on the Killeen City Council, Councilwoman Jessica Gonzalez ...",
+          "source_info_link": "https://www.linkedin.com/in/jessica-gonzalez-1871243a6",
+          "icon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt89LzhTPsUp2qwBi7BR1_UhpwTSqSj-BAsWjiztXiJGp5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/jessica-gonzalez-1871243a6&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjessica-gonzalez-1871243a6",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+LinkedIn&sa=X&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ5t4CegQIMxAB"
+      },
+      "source": "LinkedIn · Jessica Gonzalez"
+    },
+    {
+      "position": 2,
+      "title": "Staff Directory • Jessica Gonzalez",
+      "link": "https://www.killeentexas.gov/directory.aspx?EID=11",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.killeentexas.gov/directory.aspx%3FEID%3D11&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQFnoECB0QAQ",
+      "displayed_link": "https://www.killeentexas.gov › directory",
+      "favicon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt8zQEVoicQdmVRYYPPsitSJg.png",
+      "snippet": "Jessica Gonzalez is a native of the Killeen/Fort Hood, Texas area. Her father, stationed at Fort Hood, was a Vietnam Veteran, Bronze Star & Purple Heart ...",
+      "snippet_highlighted_words": [
+        "Jessica Gonzalez",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jessica Gonzalez is a native of the Killeen/Fort Hood, Texas area. Her father, stationed at Fort Hood, was a Vietnam Veteran, Bronze Star & Purple Heart ...",
+          "source_info_link": "https://www.killeentexas.gov/directory.aspx?EID=11",
+          "icon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt85OMyyv0ELr8B2iqN0MpM3ZDzevmHXAl_HVv2MV0MPBX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.killeentexas.gov/directory.aspx?EID=11&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.killeentexas.gov%2Fdirectory.aspx%3FEID%3D11",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+LinkedIn&sa=X&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ5t4CegQINRAB"
+      },
+      "source": "City of Killeen, TX (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Jessica Gonzalez - Shine Residential Management",
+      "link": "https://www.linkedin.com/in/jessica-gonzalez-085189176",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jessica-gonzalez-085189176&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQFnoECCsQAQ",
+      "displayed_link": "100+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt85XQngryQ66xZ_IIf5I0FsA.png",
+      "snippet": "Experience: Shine Residential Management · Location: Killeen · 104 connections on LinkedIn. View Jessica Gonzalez's profile on LinkedIn, a professional ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "LinkedIn",
+        "Jessica Gonzalez's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Killeen, Texas, United States",
+            "Shine Residential Management"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: Shine Residential Management · Location: Killeen · 104 connections on LinkedIn. View Jessica Gonzalez's profile on LinkedIn, a professional ...",
+          "source_info_link": "https://www.linkedin.com/in/jessica-gonzalez-085189176",
+          "icon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt87oowHG-i0xXVLlEo_01F8-hZV_OCvjFtaFefqcTkco8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/jessica-gonzalez-085189176&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjessica-gonzalez-085189176",
+      "missing": [
+        "Council",
+        "D1"
+      ],
+      "source": "LinkedIn · Jessica Gonzalez"
+    },
+    {
+      "position": 4,
+      "title": "Jessica Gonzalez - Killeen Daily Herald",
+      "link": "https://www.linkedin.com/in/jessica-gonzalez-4607746a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jessica-gonzalez-4607746a&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQFnoECCwQAQ",
+      "displayed_link": "40+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt8-M3L3-7xt__9GSTedghgZU.png",
+      "snippet": "Experience: Killeen Daily Herald · Location: Killeen · 41 connections on LinkedIn. View Jessica Gonzalez's profile on LinkedIn, a professional community of ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen",
+        "LinkedIn",
+        "Jessica Gonzalez's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Killeen, Texas, United States",
+            "Killeen Daily Herald"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: Killeen Daily Herald · Location: Killeen · 41 connections on LinkedIn. View Jessica Gonzalez's profile on LinkedIn, a professional community of ...",
+          "source_info_link": "https://www.linkedin.com/in/jessica-gonzalez-4607746a",
+          "icon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt810-K3H8NybLxyhJBLPOUORopxvhRkHza2e24622J4K5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/jessica-gonzalez-4607746a&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjessica-gonzalez-4607746a",
+      "missing": [
+        "Council",
+        "D1"
+      ],
+      "source": "LinkedIn · Jessica Gonzalez"
+    },
+    {
+      "position": 5,
+      "title": "City Councilwoman Jessica Gonzalez thanks constituents",
+      "link": "https://kdhnews.com/centerforpolitics/city-councilwoman-jessica-gonzalez-thanks-constituents/article_05f78a39-7906-4fa0-8b0c-c93299dc4ad5.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/city-councilwoman-jessica-gonzalez-thanks-constituents/article_05f78a39-7906-4fa0-8b0c-c93299dc4ad5.html&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › city-councilw...",
+      "favicon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt8xT82SMknV45NupuLfBhHnM.png",
+      "date": "May 4, 2025",
+      "snippet": "Jessica Gonzales unofficially declared the winner in Saturday's election which will give her a second term on the Killeen City Council.",
+      "snippet_highlighted_words": [
+        "Jessica Gonzales",
+        "Killeen",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jessica Gonzales unofficially declared the winner in Saturday's election which will give her a second term on the Killeen City Council.",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/city-councilwoman-jessica-gonzalez-thanks-constituents/article_05f78a39-7906-4fa0-8b0c-c93299dc4ad5.html",
+          "icon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt89GQeZav8JY0Dzd4ipeBypD9VfPTzepJcZcr4uBn_rd4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/city-councilwoman-jessica-gonzalez-thanks-constituents/article_05f78a39-7906-4fa0-8b0c-c93299dc4ad5.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fcity-councilwoman-jessica-gonzalez-thanks-constituents%2Farticle_05f78a39-7906-4fa0-8b0c-c93299dc4ad5.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 6,
+      "title": "Jessica Gonzalez (Killeen City Council District 1, Texas ...",
+      "link": "https://ballotpedia.org/Jessica_Gonzalez_(Killeen_City_Council_District_1,_Texas,_candidate_2025)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Jessica_Gonzalez_(Killeen_City_Council_District_1,_Texas,_candidate_2025)&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQFnoECCUQAQ",
+      "displayed_link": "https://ballotpedia.org › Jessica_Gonzalez_(Killeen_City_...",
+      "favicon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt89mMXOtNLHZOzOF5TuXJSs0.png",
+      "snippet": "Jessica Gonzalez ran for election to the Killeen City Council to represent District 1 in Texas. Gonzalez was on the ballot in the general election on May 3, ...",
+      "snippet_highlighted_words": [
+        "Jessica Gonzalez",
+        "Killeen",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jessica Gonzalez ran for election to the Killeen City Council to represent District 1 in Texas. Gonzalez was on the ballot in the general election on May 3, ...",
+          "source_info_link": "https://ballotpedia.org/Jessica_Gonzalez_(Killeen_City_Council_District_1,_Texas,_candidate_2025)",
+          "icon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt89-Kwggo8S16I_sBAF42ZO9GMrRi69aIHd7oAni1VEQk.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Jessica_Gonzalez_(Killeen_City_Council_District_1,_Texas,_candidate_2025)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FJessica_Gonzalez_%28Killeen_City_Council_District_1%2C_Texas%2C_candidate_2025%29",
+      "missing": [
+        "D1"
+      ],
+      "must_include": {
+        "word": "D1",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Jessica+Gonzalez+Killeen+Council+%22D1%22+Killeen+LinkedIn&sa=X&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ5t4CegQIMRAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 7,
+      "title": "Gonzalez initiates 'hard reset' with town hall in north Killeen",
+      "link": "https://kdhnews.com/news/local/gonzalez-initiates-hard-reset-with-town-hall-in-north-killeen/article_16694e66-6674-11ef-a8d6-ffb8a8278da4.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/gonzalez-initiates-hard-reset-with-town-hall-in-north-killeen/article_16694e66-6674-11ef-a8d6-ffb8a8278da4.html&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQFnoECB4QAQ",
+      "displayed_link": "https://kdhnews.com › news › local › gonzalez-initiates-...",
+      "favicon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt8yDz4VhRe_BVqY83VbsRw40.png",
+      "date": "Aug 29, 2024",
+      "snippet": "Mayor Pro Tem Jessica Gonzalez held a town hall Thursday at the Killeen Arts and Activities Center where she emphasized the importance of ...",
+      "snippet_highlighted_words": [
+        "Jessica Gonzalez",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mayor Pro Tem Jessica Gonzalez held a town hall Thursday at the Killeen Arts and Activities Center where she emphasized the importance of ...",
+          "source_info_link": "https://kdhnews.com/news/local/gonzalez-initiates-hard-reset-with-town-hall-in-north-killeen/article_16694e66-6674-11ef-a8d6-ffb8a8278da4.html",
+          "icon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt87ft-d0_YHMGgXww1_a5tMuTjhJaqLsAgP4jg6bjDUKX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/gonzalez-initiates-hard-reset-with-town-hall-in-north-killeen/article_16694e66-6674-11ef-a8d6-ffb8a8278da4.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fgonzalez-initiates-hard-reset-with-town-hall-in-north-killeen%2Farticle_16694e66-6674-11ef-a8d6-ffb8a8278da4.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 8,
+      "title": "Killeen City Councilwoman Jessica Gonzalez speaks with ...",
+      "link": "https://www.instagram.com/reel/DVPWLq5jIo4/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DVPWLq5jIo4/&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQFnoECD8QAQ",
+      "displayed_link": "3 likes · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt8zvvc0yk0cfmnROlV8vCrqQ.png",
+      "snippet": "3 likes, 0 comments - kdhnews on February 26, 2026: \"Killeen City Councilwoman Jessica Gonzalez speaks with KDH News about her ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Jessica Gonzalez"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "3 likes, 0 comments - kdhnews on February 26, 2026: \"Killeen City Councilwoman Jessica Gonzalez speaks with KDH News about her ...",
+          "source_info_link": "https://www.instagram.com/reel/DVPWLq5jIo4/",
+          "icon": "https://serpapi.com/searches/69bb5e85e22fed9b33f71b16/images/23oa36mKzKL4bXPVtUVt8zOqMXSJm9kFa-9ndzhB9a6g4V9ewMAYllTiyCJM3YCE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DVPWLq5jIo4/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDVPWLq5jIo4%2F",
+      "missing": [
+        "D1",
+        "LinkedIn"
+      ],
+      "source": "Instagram · kdhnews"
+    },
+    {
+      "position": 9,
+      "title": "University Catalog 2024-2025",
+      "link": "https://coursedog-pdfs-public-prod.s3.us-east-2.amazonaws.com/thenewschool_banner/catalog/8475eaa6-b707-44bd-a293-f3e530d7bd0e-thenewschool_banner-catalog-1762266168809.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coursedog-pdfs-public-prod.s3.us-east-2.amazonaws.com/thenewschool_banner/catalog/8475eaa6-b707-44bd-a293-f3e530d7bd0e-thenewschool_banner-catalog-1762266168809.pdf&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQFnoECDsQAQ",
+      "displayed_link": "https://coursedog-pdfs-public-prod.s3.us-east-2.amazonaws.com › ...",
+      "snippet": "Advising at The New School is a collaborative experience shared amongst students, faculty, staff, and the entire University community.",
+      "about_this_result": {
+        "source": {
+          "description": "Advising at The New School is a collaborative experience shared amongst students, faculty, staff, and the entire University community.",
+          "source_info_link": "https://coursedog-pdfs-public-prod.s3.us-east-2.amazonaws.com/thenewschool_banner/catalog/8475eaa6-b707-44bd-a293-f3e530d7bd0e-thenewschool_banner-catalog-1762266168809.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://coursedog-pdfs-public-prod.s3.us-east-2.amazonaws.com/thenewschool_banner/catalog/8475eaa6-b707-44bd-a293-f3e530d7bd0e-thenewschool_banner-catalog-1762266168809.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcoursedog-pdfs-public-prod.s3.us-east-2.amazonaws.com%2Fthenewschool_banner%2Fcatalog%2F8475eaa6-b707-44bd-a293-f3e530d7bd0e-thenewschool_banner-catalog-1762266168809.pdf",
+      "source": "Amazon Web Services"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=h167aezeDcXn2roPmpWH0Qk&start=10&sa=N&sstk=Af77f_eCRzGvPYApXyLDvRRxOaufF-rsnN04rme_LZNvfeYe__Xe-EpC3d1iM7wYT57O1AR2L22GrZwmyekBXG8a5BGJujarvzaYHg&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ8NMDegQIDBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=h167aezeDcXn2roPmpWH0Qk&start=10&sa=N&sstk=Af77f_eCRzGvPYApXyLDvRRxOaufF-rsnN04rme_LZNvfeYe__Xe-EpC3d1iM7wYT57O1AR2L22GrZwmyekBXG8a5BGJujarvzaYHg&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=h167aezeDcXn2roPmpWH0Qk&start=20&sa=N&sstk=Af77f_eCRzGvPYApXyLDvRRxOaufF-rsnN04rme_LZNvfeYe__Xe-EpC3d1iM7wYT57O1AR2L22GrZwmyekBXG8a5BGJujarvzaYHg&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=h167aezeDcXn2roPmpWH0Qk&start=30&sa=N&sstk=Af77f_eCRzGvPYApXyLDvRRxOaufF-rsnN04rme_LZNvfeYe__Xe-EpC3d1iM7wYT57O1AR2L22GrZwmyekBXG8a5BGJujarvzaYHg&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=h167aezeDcXn2roPmpWH0Qk&start=40&sa=N&sstk=Af77f_eCRzGvPYApXyLDvRRxOaufF-rsnN04rme_LZNvfeYe__Xe-EpC3d1iM7wYT57O1AR2L22GrZwmyekBXG8a5BGJujarvzaYHg&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ8tMDegQIDBAK",
+      "6": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=h167aezeDcXn2roPmpWH0Qk&start=50&sa=N&sstk=Af77f_eCRzGvPYApXyLDvRRxOaufF-rsnN04rme_LZNvfeYe__Xe-EpC3d1iM7wYT57O1AR2L22GrZwmyekBXG8a5BGJujarvzaYHg&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ8tMDegQIDBAM",
+      "7": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=h167aezeDcXn2roPmpWH0Qk&start=60&sa=N&sstk=Af77f_eCRzGvPYApXyLDvRRxOaufF-rsnN04rme_LZNvfeYe__Xe-EpC3d1iM7wYT57O1AR2L22GrZwmyekBXG8a5BGJujarvzaYHg&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ8tMDegQIDBAO",
+      "8": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=h167aezeDcXn2roPmpWH0Qk&start=70&sa=N&sstk=Af77f_eCRzGvPYApXyLDvRRxOaufF-rsnN04rme_LZNvfeYe__Xe-EpC3d1iM7wYT57O1AR2L22GrZwmyekBXG8a5BGJujarvzaYHg&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ8tMDegQIDBAQ",
+      "9": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=h167aezeDcXn2roPmpWH0Qk&start=80&sa=N&sstk=Af77f_eCRzGvPYApXyLDvRRxOaufF-rsnN04rme_LZNvfeYe__Xe-EpC3d1iM7wYT57O1AR2L22GrZwmyekBXG8a5BGJujarvzaYHg&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ8tMDegQIDBAS",
+      "10": "https://www.google.com/search?q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=h167aezeDcXn2roPmpWH0Qk&start=90&sa=N&sstk=Af77f_eCRzGvPYApXyLDvRRxOaufF-rsnN04rme_LZNvfeYe__Xe-EpC3d1iM7wYT57O1AR2L22GrZwmyekBXG8a5BGJujarvzaYHg&ved=2ahUKEwisvou59KqTAxXFs1YBHZrKIZoQ8tMDegQIDBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jessica+Gonzalez+Killeen+Council+D1+Killeen+LinkedIn&start=90"
+    }
+  }
+}

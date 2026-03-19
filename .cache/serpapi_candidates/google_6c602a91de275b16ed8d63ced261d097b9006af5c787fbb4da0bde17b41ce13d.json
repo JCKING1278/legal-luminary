@@ -1,0 +1,374 @@
+{
+  "search_metadata": {
+    "id": "69bb5d86c75443efee9c17ff",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4D1wjbrrlr92BMQqn9G3Yw/69bb5d86c75443efee9c17ff.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/4D1wjbrrlr92BMQqn9G3Yw/69bb5d86c75443efee9c17ff.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:54 UTC",
+    "processed_at": "2026-03-19 02:20:54 UTC",
+    "google_url": "https://www.google.com/search?q=Eric+R.+Armstrong+%22CTC+Trustee+Place+4%22+%22Central+Texas%22+LinkedIn&oq=Eric+R.+Armstrong+%22CTC+Trustee+Place+4%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4D1wjbrrlr92BMQqn9G3Yw/69bb5d86c75443efee9c17ff.html",
+    "total_time_taken": 1.5
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Eric R. Armstrong \"CTC Trustee Place 4\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Eric R. Armstrong \"CTC Trustee Place 4\" \"Central Texas\" LinkedIn",
+    "total_results": 815,
+    "time_taken_displayed": 0.7,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Eric R. Armstrong CTC Trustee Place 4 Central Texas LinkedIn",
+    "spelling_fix": "Eric R. Armstrong CTC Trustee Place 4 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Eric Armstrong (LtCol Ret) - EXIT Heart of Texas Realty",
+      "link": "https://www.linkedin.com/in/eric-armstrong-ltcol-ret-72635745",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eric-armstrong-ltcol-ret-72635745&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQFnoECCcQAQ",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDBrXIyCKwOQ-QbTO7NDzIpQ.png",
+      "snippet": "Experience: EXIT Heart of Texas Realty · Location: Copperas Cove · 500+ connections on LinkedIn. View Eric Armstrong (LtCol Ret)'s profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Location",
+        "LinkedIn",
+        "Eric Armstrong",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Copperas Cove, Texas, United States",
+            "EXIT Heart of Texas Realty"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: EXIT Heart of Texas Realty · Location: Copperas Cove · 500+ connections on LinkedIn. View Eric Armstrong (LtCol Ret)'s profile on LinkedIn, ...",
+          "source_info_link": "https://www.linkedin.com/in/eric-armstrong-ltcol-ret-72635745",
+          "icon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDO6kpAw68oTA_jmDfBmzuWkxypPxSFwRuepBAfkOUWcA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/eric-armstrong-ltcol-ret-72635745&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Feric-armstrong-ltcol-ret-72635745",
+      "missing": [
+        "R.",
+        "CTC"
+      ],
+      "source": "LinkedIn · Eric Armstrong (LtCol Ret)"
+    },
+    {
+      "position": 2,
+      "title": "CTC swears in new board members | Education",
+      "link": "https://kdhnews.com/news/education/ctc-swears-in-new-board-members/article_76a982e1-cdda-4c65-9d6d-3441cc86747c.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/education/ctc-swears-in-new-board-members/article_76a982e1-cdda-4c65-9d6d-3441cc86747c.html&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › news › ctc-swears-in-new-board-...",
+      "favicon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDAtlYcNy_ZpWyaw4UWntHXk.png",
+      "date": "May 20, 2025",
+      "snippet": "The Central Texas College board held a pair of meetings Tuesday, discussing contract renewals, purchasing of new surveillance equipment for ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Central Texas College board held a pair of meetings Tuesday, discussing contract renewals, purchasing of new surveillance equipment for ...",
+          "source_info_link": "https://kdhnews.com/news/education/ctc-swears-in-new-board-members/article_76a982e1-cdda-4c65-9d6d-3441cc86747c.html",
+          "icon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDJlTSKjlrCA-8QhYlGYEdYIz3EAAfp0sLLUyPPhqQDWI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/education/ctc-swears-in-new-board-members/article_76a982e1-cdda-4c65-9d6d-3441cc86747c.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Feducation%2Fctc-swears-in-new-board-members%2Farticle_76a982e1-cdda-4c65-9d6d-3441cc86747c.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Eric R. Armstrong (Central Texas College District Trustee ...",
+      "link": "https://ballotpedia.org/Eric_R._Armstrong_(Central_Texas_College_District_Trustee_Board_Place_4,_Texas,_candidate_2025)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Eric_R._Armstrong_(Central_Texas_College_District_Trustee_Board_Place_4,_Texas,_candidate_2025)&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQFnoECCEQAQ",
+      "displayed_link": "https://ballotpedia.org › Eric_R._Armstrong_(Central_Te...",
+      "favicon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDGTPF2fUwdzVH6gWS1bYnwQ.png",
+      "snippet": "Eric R. Armstrong ran for election to the Central Texas College District Trustee Board Place 4. Armstrong was on the ballot in the general election on May 3 ...",
+      "snippet_highlighted_words": [
+        "Eric R",
+        "Armstrong",
+        "for",
+        "Central Texas",
+        "Trustee",
+        "Place 4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Eric R. Armstrong ran for election to the Central Texas College District Trustee Board Place 4. Armstrong was on the ballot in the general election on May 3 ...",
+          "source_info_link": "https://ballotpedia.org/Eric_R._Armstrong_(Central_Texas_College_District_Trustee_Board_Place_4,_Texas,_candidate_2025)",
+          "icon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDDoegV7CIcNtZCZW4nMcYW_H1U1iYmVQ5kE-5mLpNpbi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Eric_R._Armstrong_(Central_Texas_College_District_Trustee_Board_Place_4,_Texas,_candidate_2025)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FEric_R._Armstrong_%28Central_Texas_College_District_Trustee_Board_Place_4%2C_Texas%2C_candidate_2025%29",
+      "missing": [
+        "CTC",
+        "LinkedIn"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 4,
+      "title": "Map the tumor microenvironment",
+      "link": "https://www.amp.org/AMP2018/assets/File/AMP_2018_Onsite_FINAL.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amp.org/AMP2018/assets/File/AMP_2018_Onsite_FINAL.pdf&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQFnoECCYQAQ",
+      "displayed_link": "https://www.amp.org › AMP_2018_Onsite_FINAL",
+      "favicon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDHFz-Ag-VAPEA0TDvidGTlY.png",
+      "date": "Nov 1, 2018",
+      "snippet": "Jonathan Rothberg, will talk on “Reimagining Healthcare: Next. Generation DNA Sequencing to Ultrasound-on-a-Chip.” Dr. Rothberg is recognized ...",
+      "about_this_result": {
+        "source": {
+          "description": "Jonathan Rothberg, will talk on “Reimagining Healthcare: Next. Generation DNA Sequencing to Ultrasound-on-a-Chip.” Dr. Rothberg is recognized ...",
+          "source_info_link": "https://www.amp.org/AMP2018/assets/File/AMP_2018_Onsite_FINAL.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDJNyatc4aD1Z-Y0ZYbcT8IZLykxvwyTtyynTxFRKkNQR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.amp.org/AMP2018/assets/File/AMP_2018_Onsite_FINAL.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amp.org%2FAMP2018%2Fassets%2FFile%2FAMP_2018_Onsite_FINAL.pdf",
+      "source": "Association for Molecular Pathology"
+    },
+    {
+      "position": 5,
+      "title": "Elgin Community College",
+      "link": "https://www.facebook.com/ElginCommunityCollege/posts/congratulations-to-the-iccta-award-nominees-and-winners-from-ecc-were-proud-to-c/1164560642381909/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/ElginCommunityCollege/posts/congratulations-to-the-iccta-award-nominees-and-winners-from-ecc-were-proud-to-c/1164560642381909/&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQFnoECCgQAQ",
+      "displayed_link": "30+ reactions · 8 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDAIMJhN094X_ntKxp5X063U.png",
+      "snippet": "Congratulations to the ICCTA award nominees and winners from ECC! We're proud to celebrate your outstanding achievements. Thank you for ...",
+      "snippet_highlighted_words": [
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Congratulations to the ICCTA award nominees and winners from ECC! We're proud to celebrate your outstanding achievements. Thank you for ...",
+          "source_info_link": "https://www.facebook.com/ElginCommunityCollege/posts/congratulations-to-the-iccta-award-nominees-and-winners-from-ecc-were-proud-to-c/1164560642381909/",
+          "icon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDASD5vBM3W7T6Jce4G3FX8MisngCOaLKLixCvOG-rXbi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/ElginCommunityCollege/posts/congratulations-to-the-iccta-award-nominees-and-winners-from-ecc-were-proud-to-c/1164560642381909/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FElginCommunityCollege%2Fposts%2Fcongratulations-to-the-iccta-award-nominees-and-winners-from-ecc-were-proud-to-c%2F1164560642381909%2F",
+      "source": "Facebook · Elgin Community College"
+    },
+    {
+      "position": 6,
+      "title": "Summer Convention Registration Inside",
+      "link": "https://www.utahbar.org/wp-content/uploads/2009_FINAL_03_may_june.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.utahbar.org/wp-content/uploads/2009_FINAL_03_may_june.pdf&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQFnoECCIQAQ",
+      "displayed_link": "https://www.utahbar.org › wp-content › uploads",
+      "favicon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDEMjrBmST-_xLWSJU9VmC3M.png",
+      "snippet": "Reuben Clark Law. School. He consults nationwide in a variety of criminal defense and civil litigation matters. He now serves as a Special Master for district ...",
+      "snippet_highlighted_words": [
+        "for"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 56
+          },
+          "extensions": [
+            "56 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Reuben Clark Law. School. He consults nationwide in a variety of criminal defense and civil litigation matters. He now serves as a Special Master for district ...",
+          "source_info_link": "https://www.utahbar.org/wp-content/uploads/2009_FINAL_03_may_june.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDOcsYPkpKeaCKVfcrlC8m4FqMoVWYkw6r3_JXc5onGsh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.utahbar.org/wp-content/uploads/2009_FINAL_03_may_june.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.utahbar.org%2Fwp-content%2Fuploads%2F2009_FINAL_03_may_june.pdf",
+      "source": "Utah State Bar"
+    },
+    {
+      "position": 7,
+      "title": "Humanae Vitae - School of Theology and Religious Studies",
+      "link": "https://trs.catholic.edu/humanae-vitae/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://trs.catholic.edu/humanae-vitae/index.html&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQFnoECB0QAQ",
+      "displayed_link": "https://trs.catholic.edu › humanae-vitae",
+      "snippet": "Hundreds of clergy, religious, and lay ministers from around the country gathered at Catholic University for a symposium discussing Blessed Paul VI&#8217;s ...",
+      "snippet_highlighted_words": [
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Hundreds of clergy, religious, and lay ministers from around the country gathered at Catholic University for a symposium discussing Blessed Paul VI&#8217;s ...",
+          "source_info_link": "https://trs.catholic.edu/humanae-vitae/index.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://trs.catholic.edu/humanae-vitae/index.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftrs.catholic.edu%2Fhumanae-vitae%2Findex.html",
+      "source": "The Catholic University of America"
+    },
+    {
+      "position": 8,
+      "title": "0001363565-14-000012.txt",
+      "link": "https://www.sec.gov/Archives/edgar/data/814232/000136356514000012/0001363565-14-000012.txt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sec.gov/Archives/edgar/data/814232/000136356514000012/0001363565-14-000012.txt&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQFnoECDgQAQ",
+      "displayed_link": "https://www.sec.gov › Archives › edgar › data",
+      "favicon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDFaAp4LOHiUYYFCj_m101FE.png",
+      "snippet": "Pursuant to the requirements of the Investment Company Act of 1940, the registrant has duly caused this report to be signed on its behalf by the ...",
+      "about_this_result": {
+        "source": {
+          "description": "Pursuant to the requirements of the Investment Company Act of 1940, the registrant has duly caused this report to be signed on its behalf by the ...",
+          "source_info_link": "https://www.sec.gov/Archives/edgar/data/814232/000136356514000012/0001363565-14-000012.txt",
+          "icon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDFBZ4iEr6xguyGfsdKJ2Puko6XNZD1QQm-cca2xeC9wg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sec.gov/Archives/edgar/data/814232/000136356514000012/0001363565-14-000012.txt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F814232%2F000136356514000012%2F0001363565-14-000012.txt",
+      "source": "SEC.gov"
+    },
+    {
+      "position": 9,
+      "title": "Marketing Management (2-download)",
+      "link": "https://gnindia.dronacharya.info/MBA/1stSem/Downloads/MarketingManagement/Books/Marketing-Management-text-book-1.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gnindia.dronacharya.info/MBA/1stSem/Downloads/MarketingManagement/Books/Marketing-Management-text-book-1.pdf&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQFnoECDkQAQ",
+      "displayed_link": "https://gnindia.dronacharya.info › MBA › Books",
+      "favicon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDEM90EsKkoWEirng56StBJw.png",
+      "snippet": "Philip Kotler is one of the world's leading authorities on market- ing. He is the S. C. Johnson & Son Distinguished Professor of International.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 812
+          },
+          "extensions": [
+            "812 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Philip Kotler is one of the world's leading authorities on market- ing. He is the S. C. Johnson & Son Distinguished Professor of International.",
+          "source_info_link": "https://gnindia.dronacharya.info/MBA/1stSem/Downloads/MarketingManagement/Books/Marketing-Management-text-book-1.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDB6AFc6ML32UwqHeZitdk5z9SPsLWviNRuEtiWKcgceS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://gnindia.dronacharya.info/MBA/1stSem/Downloads/MarketingManagement/Books/Marketing-Management-text-book-1.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fgnindia.dronacharya.info%2FMBA%2F1stSem%2FDownloads%2FMarketingManagement%2FBooks%2FMarketing-Management-text-book-1.pdf",
+      "source": "Dronacharya Group of Institutions"
+    },
+    {
+      "position": 10,
+      "title": "Previous Year Winner's Lists",
+      "link": "https://educationdigitalmarketingawards.com/about/previous-year-winners-lists/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://educationdigitalmarketingawards.com/about/previous-year-winners-lists/&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQFnoECDcQAQ",
+      "displayed_link": "https://educationdigitalmarketingawards.com › About",
+      "favicon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDGJ36_EPbVVT7COlv64cNEw.png",
+      "snippet": "The Education Digital Marketing Awards recognize the best educational websites, digital content, electronic communications, mobile media and social media.",
+      "about_this_result": {
+        "source": {
+          "description": "The Education Digital Marketing Awards recognize the best educational websites, digital content, electronic communications, mobile media and social media.",
+          "source_info_link": "https://educationdigitalmarketingawards.com/about/previous-year-winners-lists/",
+          "icon": "https://serpapi.com/searches/69bb5d86c75443efee9c17ff/images/vZgdJn6A0HHhkrKrAxIZDJWVbWO5fAbQUz8FUVf9BXTuF2sLi7Wo-A5I4SDj-9y-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://educationdigitalmarketingawards.com/about/previous-year-winners-lists/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Feducationdigitalmarketingawards.com%2Fabout%2Fprevious-year-winners-lists%2F",
+      "source": "Education Digital Marketing Awards"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=hl27acHzIL2lwbkPt-D0qA8&start=10&sa=N&sstk=Af77f_fTMHaUTa6OiEugQ4lslereYNUiBMzKMQ_xp9QqFPs2cu2PDRVnVa3cyS1WSbK7axen7HEmHL4XmMFM7gH67IO0rTLVjKmF0w&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQ8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=hl27acHzIL2lwbkPt-D0qA8&start=10&sa=N&sstk=Af77f_fTMHaUTa6OiEugQ4lslereYNUiBMzKMQ_xp9QqFPs2cu2PDRVnVa3cyS1WSbK7axen7HEmHL4XmMFM7gH67IO0rTLVjKmF0w&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQ8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=hl27acHzIL2lwbkPt-D0qA8&start=20&sa=N&sstk=Af77f_fTMHaUTa6OiEugQ4lslereYNUiBMzKMQ_xp9QqFPs2cu2PDRVnVa3cyS1WSbK7axen7HEmHL4XmMFM7gH67IO0rTLVjKmF0w&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQ8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=hl27acHzIL2lwbkPt-D0qA8&start=30&sa=N&sstk=Af77f_fTMHaUTa6OiEugQ4lslereYNUiBMzKMQ_xp9QqFPs2cu2PDRVnVa3cyS1WSbK7axen7HEmHL4XmMFM7gH67IO0rTLVjKmF0w&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQ8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=hl27acHzIL2lwbkPt-D0qA8&start=40&sa=N&sstk=Af77f_fTMHaUTa6OiEugQ4lslereYNUiBMzKMQ_xp9QqFPs2cu2PDRVnVa3cyS1WSbK7axen7HEmHL4XmMFM7gH67IO0rTLVjKmF0w&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQ8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=hl27acHzIL2lwbkPt-D0qA8&start=50&sa=N&sstk=Af77f_fTMHaUTa6OiEugQ4lslereYNUiBMzKMQ_xp9QqFPs2cu2PDRVnVa3cyS1WSbK7axen7HEmHL4XmMFM7gH67IO0rTLVjKmF0w&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQ8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=hl27acHzIL2lwbkPt-D0qA8&start=60&sa=N&sstk=Af77f_fTMHaUTa6OiEugQ4lslereYNUiBMzKMQ_xp9QqFPs2cu2PDRVnVa3cyS1WSbK7axen7HEmHL4XmMFM7gH67IO0rTLVjKmF0w&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQ8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=hl27acHzIL2lwbkPt-D0qA8&start=70&sa=N&sstk=Af77f_fTMHaUTa6OiEugQ4lslereYNUiBMzKMQ_xp9QqFPs2cu2PDRVnVa3cyS1WSbK7axen7HEmHL4XmMFM7gH67IO0rTLVjKmF0w&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQ8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=hl27acHzIL2lwbkPt-D0qA8&start=80&sa=N&sstk=Af77f_fTMHaUTa6OiEugQ4lslereYNUiBMzKMQ_xp9QqFPs2cu2PDRVnVa3cyS1WSbK7axen7HEmHL4XmMFM7gH67IO0rTLVjKmF0w&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQ8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=hl27acHzIL2lwbkPt-D0qA8&start=90&sa=N&sstk=Af77f_fTMHaUTa6OiEugQ4lslereYNUiBMzKMQ_xp9QqFPs2cu2PDRVnVa3cyS1WSbK7axen7HEmHL4XmMFM7gH67IO0rTLVjKmF0w&ved=2ahUKEwjBzti-86qTAxW9UjABHTcwHfUQ8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+LinkedIn&start=90"
+    }
+  }
+}

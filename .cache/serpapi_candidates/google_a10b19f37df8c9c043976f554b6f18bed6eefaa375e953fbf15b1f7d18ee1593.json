@@ -1,0 +1,387 @@
+{
+  "search_metadata": {
+    "id": "69bb5e9e69819d55c3686273",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tga70lFSdRgYvh83-PxNlg/69bb5e9e69819d55c3686273.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/tga70lFSdRgYvh83-PxNlg/69bb5e9e69819d55c3686273.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:34 UTC",
+    "processed_at": "2026-03-19 02:25:34 UTC",
+    "google_url": "https://www.google.com/search?q=Anthony+Kendrick+%22Killeen+Council+D4%22+%22Killeen%22+LinkedIn&oq=Anthony+Kendrick+%22Killeen+Council+D4%22+%22Killeen%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/tga70lFSdRgYvh83-PxNlg/69bb5e9e69819d55c3686273.html",
+    "total_time_taken": 1.16
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Anthony Kendrick \"Killeen Council D4\" \"Killeen\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Anthony Kendrick \"Killeen Council D4\" \"Killeen\" LinkedIn",
+    "total_results": 2820,
+    "time_taken_displayed": 0.43,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Anthony Kendrick Killeen Council D4 Killeen LinkedIn",
+    "spelling_fix": "Anthony Kendrick Killeen Council D4 Killeen LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Anthony Kendrick - City of Killeen, Texas",
+      "link": "https://www.linkedin.com/in/anthony-kendrick-814576368",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/anthony-kendrick-814576368&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQFnoECB4QAQ",
+      "displayed_link": "https://www.linkedin.com › anthony-kendrick-814576368",
+      "favicon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcNADU6UDkYPzP6qBGOlZp_w.png",
+      "snippet": "Experience: City of Killeen, Texas · Location: Killeen. View Anthony Kendrick's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen",
+        "Anthony Kendrick's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Killeen, Texas, United States",
+            "City of Killeen, Texas"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: City of Killeen, Texas · Location: Killeen. View Anthony Kendrick's profile on LinkedIn, a professional community of 1 billion members.",
+          "source_info_link": "https://www.linkedin.com/in/anthony-kendrick-814576368",
+          "icon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcIreZiMu2YKcffjkqx_d8-el_1ioRZRkU18PKNDLHKzi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/anthony-kendrick-814576368&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanthony-kendrick-814576368",
+      "missing": [
+        "Council",
+        "D4"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 2,
+      "title": "Staff Directory • Anthony Kendrick",
+      "link": "https://www.killeentexas.gov/directory.aspx?EID=240",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.killeentexas.gov/directory.aspx%3FEID%3D240&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQFnoECCYQAQ",
+      "displayed_link": "https://www.killeentexas.gov › directory",
+      "favicon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcKqHRR6hj_ogLTiMRSiBuKw.png",
+      "snippet": "He is also involved with the Killeen Independent School District's mentorship programs and health advisory council. A Killeen resident for over 25 years, his ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "council",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "He is also involved with the Killeen Independent School District's mentorship programs and health advisory council. A Killeen resident for over 25 years, his ...",
+          "source_info_link": "https://www.killeentexas.gov/directory.aspx?EID=240",
+          "icon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcLbiHm65E_je67qnUCNlX9ZrZpzf7Qu5AvmYb791l09G.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.killeentexas.gov/directory.aspx?EID=240&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.killeentexas.gov%2Fdirectory.aspx%3FEID%3D240",
+      "missing": [
+        "D4"
+      ],
+      "must_include": {
+        "word": "D4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Anthony+Kendrick+Killeen+Council+%22D4%22+Killeen+LinkedIn&sa=X&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQ5t4CegQIMRAB"
+      },
+      "source": "City of Killeen, TX (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "90+ \"Anthony Kendrick\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Anthony/Kendrick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Anthony/Kendrick&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQFnoECB8QAQ",
+      "displayed_link": "https://www.linkedin.com › pub › dir › Kendrick",
+      "favicon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcA-Zbr0WOI7AGALqDvRUYgQ.png",
+      "snippet": "View the profiles of professionals named \"Anthony Kendrick\" on LinkedIn. There are 90+ professionals named \"Anthony Kendrick\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "Anthony Kendrick",
+        "LinkedIn",
+        "Anthony Kendrick",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Anthony Kendrick\" on LinkedIn. There are 90+ professionals named \"Anthony Kendrick\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Anthony/Kendrick",
+          "icon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcBvpdOIp0p6EV0sPpvHxIy52upSW_klvwSMoq02KGj0X.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Anthony/Kendrick&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FAnthony%2FKendrick",
+      "missing": [
+        "Council",
+        "D4"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 4,
+      "title": "60+ \"Anthony Kendrick\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Anthony/Kendrick/us-0-United-States",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Anthony/Kendrick/us-0-United-States&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQFnoECBwQAQ",
+      "displayed_link": "https://www.linkedin.com › Kendrick › us-0-United-States",
+      "favicon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcJk6HE-T6nvMwMcqLmfR8QU.png",
+      "snippet": "View the profiles of professionals named \"Anthony Kendrick\" on LinkedIn. There are 60+ professionals named \"Anthony Kendrick\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "Anthony Kendrick",
+        "LinkedIn",
+        "Anthony Kendrick",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Anthony Kendrick\" on LinkedIn. There are 60+ professionals named \"Anthony Kendrick\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Anthony/Kendrick/us-0-United-States",
+          "icon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcBwWrgr2QARcJIA_nemWOmfSycS63CiT9JKr2bGE6605.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Anthony/Kendrick/us-0-United-States&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FAnthony%2FKendrick%2Fus-0-United-States",
+      "missing": [
+        "Council",
+        "D4"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 5,
+      "title": "90+ \"Anthony \"tony\" Kendrick\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Anthony+%22tony%22/Kendrick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Anthony%2B%2522tony%2522/Kendrick&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQFnoECCUQAQ",
+      "displayed_link": "https://www.linkedin.com › pub › dir › Kendrick",
+      "favicon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcP_zTddvVqoEtW4gwokckzs.png",
+      "snippet": "View the profiles of professionals named \"Anthony \"tony\" Kendrick\" on LinkedIn. There are 90+ professionals named \"Anthony \"tony\" Kendrick\", ...",
+      "snippet_highlighted_words": [
+        "Anthony",
+        "Kendrick",
+        "LinkedIn",
+        "Anthony",
+        "Kendrick"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Anthony \"tony\" Kendrick\" on LinkedIn. There are 90+ professionals named \"Anthony \"tony\" Kendrick\", ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Anthony+%22tony%22/Kendrick",
+          "icon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcHNjb15EsXf7AKgIDJ6be6YSsHA7eSS3cBTaoppJrYfY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Anthony+%22tony%22/Kendrick&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FAnthony%2B%2522tony%2522%2FKendrick",
+      "missing": [
+        "Killeen",
+        "Council",
+        "D4"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 6,
+      "title": "Anthony Kendrick (Killeen City Council District 4, Texas, ...",
+      "link": "https://ballotpedia.org/Anthony_Kendrick_(Killeen_City_Council_District_4,_Texas,_candidate_2025)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Anthony_Kendrick_(Killeen_City_Council_District_4,_Texas,_candidate_2025)&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQFnoECCAQAQ",
+      "displayed_link": "https://ballotpedia.org › Anthony_Kendrick_(Killeen_Cit...",
+      "favicon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcGmYVlScFJP6x6yAHxZJ9sM.png",
+      "snippet": "Completing the survey will update the candidate's Ballotpedia profile, letting voters know who they are and what they stand for. More than 25,000 candidates ...",
+      "about_this_result": {
+        "source": {
+          "description": "Completing the survey will update the candidate's Ballotpedia profile, letting voters know who they are and what they stand for. More than 25,000 candidates ...",
+          "source_info_link": "https://ballotpedia.org/Anthony_Kendrick_(Killeen_City_Council_District_4,_Texas,_candidate_2025)",
+          "icon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcD8_Vtob79TeOR-Eg8eG_zymkHzmWJ8OJuva4HRBxPf5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Anthony_Kendrick_(Killeen_City_Council_District_4,_Texas,_candidate_2025)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FAnthony_Kendrick_%28Killeen_City_Council_District_4%2C_Texas%2C_candidate_2025%29",
+      "missing": [
+        "D4",
+        "LinkedIn"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 7,
+      "title": "Anthony Kendrick - KBR",
+      "link": "https://www.linkedin.com/in/anthony-kendrick-9a430544",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/anthony-kendrick-9a430544&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQFnoECB0QAQ",
+      "displayed_link": "https://www.linkedin.com › anthony-kendrick-9a430544",
+      "favicon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcFbxVHvD0WYheTTCurAFzPg.png",
+      "snippet": "Experience: KBR · Location: Killeen · 25 connections on LinkedIn. View Anthony Kendrick's profile on LinkedIn, a professional community of 1 billion ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "LinkedIn",
+        "Anthony Kendrick's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Killeen, Texas, United States",
+            "KBR"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: KBR · Location: Killeen · 25 connections on LinkedIn. View Anthony Kendrick's profile on LinkedIn, a professional community of 1 billion ...",
+          "source_info_link": "https://www.linkedin.com/in/anthony-kendrick-9a430544",
+          "icon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcGbcnivL5XSZ3pUcUR92hR8ajST5VpoWrvq4VzW7wksH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/anthony-kendrick-9a430544&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanthony-kendrick-9a430544",
+      "missing": [
+        "Council",
+        "D4"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 8,
+      "title": "2022 Event Archive - Safe and Sound Week",
+      "link": "http://www.osha.gov/safeandsoundweek/event-archive-2022",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.osha.gov/safeandsoundweek/event-archive-2022&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQFnoECEAQAQ",
+      "displayed_link": "http://www.osha.gov › safeandsoundweek › event-archiv...",
+      "favicon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcOJFKzQgxdspl-vgvpzG6GM.png",
+      "snippet": "See who else has signed up to participate in Safe + Sound Week 2022. CT 26 ME 9 NH 16 RI 6 MA 77 VT 6 NY 120 NJ 60 PR 19 VI 23 PA 116 DE 7 WV 14 MD ...",
+      "about_this_result": {
+        "source": {
+          "description": "See who else has signed up to participate in Safe + Sound Week 2022. CT 26 ME 9 NH 16 RI 6 MA 77 VT 6 NY 120 NJ 60 PR 19 VI 23 PA 116 DE 7 WV 14 MD ...",
+          "source_info_link": "http://www.osha.gov/safeandsoundweek/event-archive-2022",
+          "icon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcJ2CbrubZRKOTK8nP8jiF5oPAHCZc1R5xCvxSxUZlvak.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://www.osha.gov/safeandsoundweek/event-archive-2022&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Fwww.osha.gov%2Fsafeandsoundweek%2Fevent-archive-2022",
+      "source": "Occupational Safety and Health Administration (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "Velocity_Holding_Company_Inc...",
+      "link": "https://www.pacermonitor.com/public/filings/DGFHHN2A/Velocity_Holding_Company_Inc__debke-17-12442__0064.1.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pacermonitor.com/public/filings/DGFHHN2A/Velocity_Holding_Company_Inc__debke-17-12442__0064.1.pdf&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQFnoECEIQAQ",
+      "displayed_link": "https://www.pacermonitor.com › public › filings › Velo...",
+      "favicon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcEpvoyyipNixB-nSNfVKWUk.png",
+      "snippet": "Confidential, secure access. Switch plans or cancel any time. We have this document in our database and it is free with your trial access. PLUS.",
+      "about_this_result": {
+        "source": {
+          "description": "Confidential, secure access. Switch plans or cancel any time. We have this document in our database and it is free with your trial access. PLUS.",
+          "source_info_link": "https://www.pacermonitor.com/public/filings/DGFHHN2A/Velocity_Holding_Company_Inc__debke-17-12442__0064.1.pdf",
+          "icon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcAephBeHugIJGSzr7EfekoFZ7lKeBuAt75kTcEqytvST.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pacermonitor.com/public/filings/DGFHHN2A/Velocity_Holding_Company_Inc__debke-17-12442__0064.1.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pacermonitor.com%2Fpublic%2Ffilings%2FDGFHHN2A%2FVelocity_Holding_Company_Inc__debke-17-12442__0064.1.pdf",
+      "source": "PacerMonitor"
+    },
+    {
+      "position": 10,
+      "title": "https://huggingface.co/datasets/LingoIITGN/PHINC/r...",
+      "link": "https://huggingface.co/datasets/LingoIITGN/PHINC/resolve/main/PHINC.csv?download=true",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://huggingface.co/datasets/LingoIITGN/PHINC/resolve/main/PHINC.csv%3Fdownload%3Dtrue&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQFnoECDwQAQ",
+      "displayed_link": "https://huggingface.co › datasets › PHINC › resolve › main",
+      "favicon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcIemnoGxgxc4LwEvVgxTJtc.png",
+      "snippet": "... LinkedIn https://twitter.com/Atheist_Krishna/status/682869864243974144 …,brother you try facebook on odd day and try linkedin on even day LinkedIn https ...",
+      "snippet_highlighted_words": [
+        "LinkedIn",
+        "linkedin",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... LinkedIn https://twitter.com/Atheist_Krishna/status/682869864243974144 …,brother you try facebook on odd day and try linkedin on even day LinkedIn https ...",
+          "source_info_link": "https://huggingface.co/datasets/LingoIITGN/PHINC/resolve/main/PHINC.csv?download=true",
+          "icon": "https://serpapi.com/searches/69bb5e9e69819d55c3686273/images/6pBjbry9ByTrOtFuOq2TcJxlP7hSkJkxY7QozptssUnJQv-n5svJqt4qMuOEK4ba.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://huggingface.co/datasets/LingoIITGN/PHINC/resolve/main/PHINC.csv?download=true&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhuggingface.co%2Fdatasets%2FLingoIITGN%2FPHINC%2Fresolve%2Fmain%2FPHINC.csv%3Fdownload%3Dtrue",
+      "source": "Hugging Face"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=n167acGxBaXs5NoP-vLysA0&start=10&sa=N&sstk=Af77f_exqxTaZEpFGgBLhSdpEJvKtZDMyFZVonv8rkUYIUVTkLfqgJu8tQJc2bWJ_QDnl2cYjAkuM0dMBCQvqe6pPDNW9IVnFbZ6FA&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQ8NMDegQICRAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=n167acGxBaXs5NoP-vLysA0&start=10&sa=N&sstk=Af77f_exqxTaZEpFGgBLhSdpEJvKtZDMyFZVonv8rkUYIUVTkLfqgJu8tQJc2bWJ_QDnl2cYjAkuM0dMBCQvqe6pPDNW9IVnFbZ6FA&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=n167acGxBaXs5NoP-vLysA0&start=20&sa=N&sstk=Af77f_exqxTaZEpFGgBLhSdpEJvKtZDMyFZVonv8rkUYIUVTkLfqgJu8tQJc2bWJ_QDnl2cYjAkuM0dMBCQvqe6pPDNW9IVnFbZ6FA&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=Anthony+Kendrick+Killeen+Council+D4+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=n167acGxBaXs5NoP-vLysA0&start=30&sa=N&sstk=Af77f_exqxTaZEpFGgBLhSdpEJvKtZDMyFZVonv8rkUYIUVTkLfqgJu8tQJc2bWJ_QDnl2cYjAkuM0dMBCQvqe6pPDNW9IVnFbZ6FA&ved=2ahUKEwiB_bvE9KqTAxUlNlkFHXq5HNYQ8tMDegQICRAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Anthony+Kendrick+Killeen+Council+D4+Killeen+LinkedIn&start=30"
+    }
+  }
+}

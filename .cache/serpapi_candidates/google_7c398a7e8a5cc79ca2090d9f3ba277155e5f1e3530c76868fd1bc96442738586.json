@@ -1,0 +1,362 @@
+{
+  "search_metadata": {
+    "id": "69bb5e37fd81c8ef62d3000a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0WBijhGy1hBPzjWGLt0uSg/69bb5e37fd81c8ef62d3000a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0WBijhGy1hBPzjWGLt0uSg/69bb5e37fd81c8ef62d3000a.json_with_pixel_position",
+    "created_at": "2026-03-19 02:23:51 UTC",
+    "processed_at": "2026-03-19 02:23:51 UTC",
+    "google_url": "https://www.google.com/search?q=Gregory+James+Stoker+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Gregory+James+Stoker+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0WBijhGy1hBPzjWGLt0uSg/69bb5e37fd81c8ef62d3000a.html",
+    "total_time_taken": 4.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Gregory James Stoker \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Gregory James Stoker \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 112000,
+    "time_taken_displayed": 0.54,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Gregory James Stoker US House TX-31 Central Texas Facebook",
+    "spelling_fix": "Gregory James Stoker US House TX-31 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Greg Stoker",
+      "link": "https://www.facebook.com/greg.stoker.7583/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/greg.stoker.7583/&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQFnoECBwQAQ",
+      "displayed_link": "31.8K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B9weOBWy4rVrKAXIlKLwH88w.png",
+      "snippet": "NOT endorsing this person's politics. Some people gotta go through a JOURNEY. #iranisraelwar #endwar #antiimperialism #savegaza.",
+      "about_this_result": {
+        "source": {
+          "description": "NOT endorsing this person's politics. Some people gotta go through a JOURNEY. #iranisraelwar #endwar #antiimperialism #savegaza.",
+          "source_info_link": "https://www.facebook.com/greg.stoker.7583/",
+          "icon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B97uMWFpooNgeyKugTYp4mVL-ciOSURHdPt2PJhRf_1RU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/greg.stoker.7583/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgreg.stoker.7583%2F",
+      "missing": [
+        "House"
+      ],
+      "must_include": {
+        "word": "House",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+%22House%22+TX-31+Central+Texas+Facebook&sa=X&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQ5t4CegQIMRAB"
+      },
+      "source": "Facebook · Greg Stoker"
+    },
+    {
+      "position": 2,
+      "title": "# Greg Stoker for Texas, district 31. # A former U.S. Army ...",
+      "link": "https://www.facebook.com/groups/powertothepeeps/posts/1840505399953864/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/powertothepeeps/posts/1840505399953864/&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQFnoECB8QAQ",
+      "displayed_link": "1 comment · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B92dzOH6dCLoMhfpAcQp2dFE.png",
+      "snippet": "Greg Stoker for Texas, district 31. # A former U.S. Army Ranger and neighbor who refuses corporate and foreign-influenced money. #VoteGreen.",
+      "snippet_highlighted_words": [
+        "Greg Stoker",
+        "Texas",
+        "31",
+        "U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Greg Stoker for Texas, district 31. # A former U.S. Army Ranger and neighbor who refuses corporate and foreign-influenced money. #VoteGreen.",
+          "source_info_link": "https://www.facebook.com/groups/powertothepeeps/posts/1840505399953864/",
+          "icon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B91nigSwB8G3nZD0xAZ3Fey8KpoA6TQY4a391i0JjgmC8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/powertothepeeps/posts/1840505399953864/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fpowertothepeeps%2Fposts%2F1840505399953864%2F",
+      "source": "Facebook · Power To The People"
+    },
+    {
+      "position": 3,
+      "title": "Greg Stoker, a former US Army Ranger who served ...",
+      "link": "https://www.facebook.com/tmjnewsnetwork/posts/greg-stoker-a-former-us-army-ranger-who-served-in-afghanistan-and-later-became-a/1325705402922618/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/tmjnewsnetwork/posts/greg-stoker-a-former-us-army-ranger-who-served-in-afghanistan-and-later-became-a/1325705402922618/&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQFnoECCAQAQ",
+      "displayed_link": "4.6K+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B9_dr6A5wg6e0UpsaeQm58v0.png",
+      "snippet": "The district is considered solidly Republican, but Stoker believes recent political shifts create an opening for outsider candidates. “Texas isn ...",
+      "snippet_highlighted_words": [
+        "Stoker",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The district is considered solidly Republican, but Stoker believes recent political shifts create an opening for outsider candidates. “Texas isn ...",
+          "source_info_link": "https://www.facebook.com/tmjnewsnetwork/posts/greg-stoker-a-former-us-army-ranger-who-served-in-afghanistan-and-later-became-a/1325705402922618/",
+          "icon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B9wfDpku_1hJnoo8pLf-dZFlHDDMxnlfSruqfys4xJwBP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/tmjnewsnetwork/posts/greg-stoker-a-former-us-army-ranger-who-served-in-afghanistan-and-later-became-a/1325705402922618/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Ftmjnewsnetwork%2Fposts%2Fgreg-stoker-a-former-us-army-ranger-who-served-in-afghanistan-and-later-became-a%2F1325705402922618%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQ5t4CegQINBAB"
+      },
+      "source": "Facebook · TMJ News Network"
+    },
+    {
+      "position": 4,
+      "title": "I am running for congress because clearly I'm a masochist ...",
+      "link": "https://www.facebook.com/greg.stoker.7583/posts/i-am-running-for-congress-because-clearly-im-a-masochist-who-believes-a-better-p/1743356513735592/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/greg.stoker.7583/posts/i-am-running-for-congress-because-clearly-im-a-masochist-who-believes-a-better-p/1743356513735592/&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQFnoECCQQAQ",
+      "displayed_link": "1.7K+ reactions · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B96VjcIIPtTittCVxkpRkxD8.png",
+      "snippet": "Very optimistic of you to think we will have future elections. But if I lived in Texas you'd have my vote. 2mo.",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Very optimistic of you to think we will have future elections. But if I lived in Texas you'd have my vote. 2mo.",
+          "source_info_link": "https://www.facebook.com/greg.stoker.7583/posts/i-am-running-for-congress-because-clearly-im-a-masochist-who-believes-a-better-p/1743356513735592/",
+          "icon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B99s8UeJGcruP7BDyOCboqTWfvu7R6I7OiU9Pz4G9bPuW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/greg.stoker.7583/posts/i-am-running-for-congress-because-clearly-im-a-masochist-who-believes-a-better-p/1743356513735592/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgreg.stoker.7583%2Fposts%2Fi-am-running-for-congress-because-clearly-im-a-masochist-who-believes-a-better-p%2F1743356513735592%2F",
+      "source": "Facebook · Greg Stoker"
+    },
+    {
+      "position": 5,
+      "title": "My dude Greg Stoker is running for Congress. You may ...",
+      "link": "https://www.facebook.com/jomanmusic/posts/my-dude-greg-stoker-is-running-for-congress-you-may-recognize-his-name-through-h/1480229923669646/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jomanmusic/posts/my-dude-greg-stoker-is-running-for-congress-you-may-recognize-his-name-through-h/1480229923669646/&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQFnoECCMQAQ",
+      "displayed_link": "170+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B9-yLanHz262m2tpCK7vK9E4.png",
+      "snippet": "My dude Greg Stoker is running for Congress. You may recognize his name through his activism and advocacy. Support his candidacy in any way ...",
+      "snippet_highlighted_words": [
+        "Greg Stoker"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "My dude Greg Stoker is running for Congress. You may recognize his name through his activism and advocacy. Support his candidacy in any way ...",
+          "source_info_link": "https://www.facebook.com/jomanmusic/posts/my-dude-greg-stoker-is-running-for-congress-you-may-recognize-his-name-through-h/1480229923669646/",
+          "icon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B90wVzVUNGZPaCKdR61OGcMti5chqC3aOz3iv551MrfmN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jomanmusic/posts/my-dude-greg-stoker-is-running-for-congress-you-may-recognize-his-name-through-h/1480229923669646/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjomanmusic%2Fposts%2Fmy-dude-greg-stoker-is-running-for-congress-you-may-recognize-his-name-through-h%2F1480229923669646%2F",
+      "source": "Facebook · Joman"
+    },
+    {
+      "position": 6,
+      "title": "I'm running for Congress in Texas District 31 on a 3rd party ...",
+      "link": "https://www.facebook.com/greg.stoker.7583/videos/im-running-for-congress-in-texas-district-31-on-a-3rd-party-nonpartisan-ticket-t/1430761428506572/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/greg.stoker.7583/videos/im-running-for-congress-in-texas-district-31-on-a-3rd-party-nonpartisan-ticket-t/1430761428506572/&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQFnoECB0QAQ",
+      "displayed_link": "1.6K+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B9_U1Jxlo2U7V-o_LySNPQ4w.png",
+      "snippet": "These are baseline political positions. Accept nothing less from any politician EVER again. #breakingnews #politics #stokerfortexas # ...",
+      "snippet_highlighted_words": [
+        "stokerfortexas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "These are baseline political positions. Accept nothing less from any politician EVER again. #breakingnews #politics #stokerfortexas # ...",
+          "source_info_link": "https://www.facebook.com/greg.stoker.7583/videos/im-running-for-congress-in-texas-district-31-on-a-3rd-party-nonpartisan-ticket-t/1430761428506572/",
+          "icon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B9wt-5chXL7wdACitkUhWD8D9KNoV00qabJmzX-amOwiZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/greg.stoker.7583/videos/im-running-for-congress-in-texas-district-31-on-a-3rd-party-nonpartisan-ticket-t/1430761428506572/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgreg.stoker.7583%2Fvideos%2Fim-running-for-congress-in-texas-district-31-on-a-3rd-party-nonpartisan-ticket-t%2F1430761428506572%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQ5t4CegQIMhAB"
+      },
+      "source": "Facebook · Greg Stoker"
+    },
+    {
+      "position": 7,
+      "title": "#Repost @greg.j.stoker HELL YEAH I am running for ...",
+      "link": "https://www.facebook.com/BattalionSAR/videos/repost-gregjstokerhell-yeah-i-am-running-for-congress-because-clearly-im-a-masoc/2021833551695206/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BattalionSAR/videos/repost-gregjstokerhell-yeah-i-am-running-for-congress-because-clearly-im-a-masoc/2021833551695206/&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQFnoECB4QAQ",
+      "displayed_link": "10+ reactions · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B91HKolv2aa7aGkAk7JIGQ_4.png",
+      "snippet": "Non-partisan, working class. Texas is not a blue state or a red state. It is a non-voting state. We are beginning the labor of changing that. If ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Non-partisan, working class. Texas is not a blue state or a red state. It is a non-voting state. We are beginning the labor of changing that. If ...",
+          "source_info_link": "https://www.facebook.com/BattalionSAR/videos/repost-gregjstokerhell-yeah-i-am-running-for-congress-because-clearly-im-a-masoc/2021833551695206/",
+          "icon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B99gDy_6Vy6AyisARBHirY4VBy791y64AshrC5Sf3MQUB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BattalionSAR/videos/repost-gregjstokerhell-yeah-i-am-running-for-congress-because-clearly-im-a-masoc/2021833551695206/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBattalionSAR%2Fvideos%2Frepost-gregjstokerhell-yeah-i-am-running-for-congress-because-clearly-im-a-masoc%2F2021833551695206%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQ5t4CegQIMxAB"
+      },
+      "source": "Facebook · Battalion SAR"
+    },
+    {
+      "position": 8,
+      "title": "TMJ - Greg Stoker, a former U.S. Army Ranger who served ...",
+      "link": "https://www.facebook.com/photo.php?fbid=1325705379589287&set=a.631220812371084&id=100064495127828",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/photo.php%3Ffbid%3D1325705379589287%26set%3Da.631220812371084%26id%3D100064495127828&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQFnoECDkQAQ",
+      "displayed_link": "4.6K+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B98nMO_tFDWtSLmzTL7eUbTc.png",
+      "snippet": "He joined the Global Sumud Flotilla in September to attempt to break Ga-za's blockade, providing updates until Israeli forces detained ...",
+      "about_this_result": {
+        "source": {
+          "description": "He joined the Global Sumud Flotilla in September to attempt to break Ga-za's blockade, providing updates until Israeli forces detained ...",
+          "source_info_link": "https://www.facebook.com/photo.php?fbid=1325705379589287&set=a.631220812371084&id=100064495127828",
+          "icon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B98Clseq2umrTMjjiQCiQxDQwEK46aqr2qXKG6p5tRwwi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/photo.php?fbid=1325705379589287&set=a.631220812371084&id=100064495127828&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1325705379589287%26set%3Da.631220812371084%26id%3D100064495127828",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+House+%22TX-%22+31+Central+Texas+Facebook&sa=X&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQ5t4CegQIOxAB"
+      },
+      "source": "Facebook · TMJ News Network"
+    },
+    {
+      "position": 9,
+      "title": "greg.j.stoker \"This is a US war and it's exhausting that ...",
+      "link": "https://www.facebook.com/61555015769709/videos/gregjstoker-this-is-a-us-war-and-its-exhausting-that-some-of-yall-dont-realize-i/1901302270507059/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/61555015769709/videos/gregjstoker-this-is-a-us-war-and-its-exhausting-that-some-of-yall-dont-realize-i/1901302270507059/&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQFnoECDoQAQ",
+      "displayed_link": "20+ reactions · 6 days ago",
+      "favicon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B946C6FFuXwbHyVH6UpOQUjY.png",
+      "snippet": "This is really about maintaining global supremacy and isolating china not just the tail wagging the dog. You'll get there eventually!\" # ...",
+      "about_this_result": {
+        "source": {
+          "description": "This is really about maintaining global supremacy and isolating china not just the tail wagging the dog. You'll get there eventually!\" # ...",
+          "source_info_link": "https://www.facebook.com/61555015769709/videos/gregjstoker-this-is-a-us-war-and-its-exhausting-that-some-of-yall-dont-realize-i/1901302270507059/",
+          "icon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B9wqvfnCt00kQhp3YP1VGQNbpQX3H9-sghoJsAKTGLtW2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/61555015769709/videos/gregjstoker-this-is-a-us-war-and-its-exhausting-that-some-of-yall-dont-realize-i/1901302270507059/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F61555015769709%2Fvideos%2Fgregjstoker-this-is-a-us-war-and-its-exhausting-that-some-of-yall-dont-realize-i%2F1901302270507059%2F",
+      "source": "Facebook · Viva Viva Palestina"
+    },
+    {
+      "position": 10,
+      "title": "Greg Stoker updated his profile picture.",
+      "link": "https://www.facebook.com/greg.stoker.7583/photos/d41d8cd9/1776937737044136/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/greg.stoker.7583/photos/d41d8cd9/1776937737044136/&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQFnoECEAQAQ",
+      "displayed_link": "7 reactions · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B97OB6-ynQ4ANpSuM0ypxrgU.png",
+      "snippet": "From the Imperial Perspective this is NOT a regime change operation, it is a Balkanization Operation since regime change is not possible at ...",
+      "about_this_result": {
+        "source": {
+          "description": "From the Imperial Perspective this is NOT a regime change operation, it is a Balkanization Operation since regime change is not possible at ...",
+          "source_info_link": "https://www.facebook.com/greg.stoker.7583/photos/d41d8cd9/1776937737044136/",
+          "icon": "https://serpapi.com/searches/69bb5e37fd81c8ef62d3000a/images/F_gJ17UqvDEtM7z7DL_B93xIZHEGFRGrwwNPaUrEIYvVT_j_P-2lW9E5q_jza2Vq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/greg.stoker.7583/photos/d41d8cd9/1776937737044136/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgreg.stoker.7583%2Fphotos%2Fd41d8cd9%2F1776937737044136%2F",
+      "missing": [
+        "House",
+        "Central",
+        "Texas"
+      ],
+      "source": "Facebook · Greg Stoker"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=O167ac3ICI6Kxc8P3KCQmAs&start=10&sa=N&sstk=Af77f_cdKpBJiKP5WcGlHw3KkoEcOoddXMolWQ3JIBwfVSEHxYx3VNL16Bsj4nsYPd0oM8U5Sn1VjxUYKjPCy-ksoeaF4zy_mOKYcA&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQ8NMDegQIChAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=O167ac3ICI6Kxc8P3KCQmAs&start=10&sa=N&sstk=Af77f_cdKpBJiKP5WcGlHw3KkoEcOoddXMolWQ3JIBwfVSEHxYx3VNL16Bsj4nsYPd0oM8U5Sn1VjxUYKjPCy-ksoeaF4zy_mOKYcA&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=O167ac3ICI6Kxc8P3KCQmAs&start=20&sa=N&sstk=Af77f_cdKpBJiKP5WcGlHw3KkoEcOoddXMolWQ3JIBwfVSEHxYx3VNL16Bsj4nsYPd0oM8U5Sn1VjxUYKjPCy-ksoeaF4zy_mOKYcA&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=O167ac3ICI6Kxc8P3KCQmAs&start=30&sa=N&sstk=Af77f_cdKpBJiKP5WcGlHw3KkoEcOoddXMolWQ3JIBwfVSEHxYx3VNL16Bsj4nsYPd0oM8U5Sn1VjxUYKjPCy-ksoeaF4zy_mOKYcA&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=O167ac3ICI6Kxc8P3KCQmAs&start=40&sa=N&sstk=Af77f_cdKpBJiKP5WcGlHw3KkoEcOoddXMolWQ3JIBwfVSEHxYx3VNL16Bsj4nsYPd0oM8U5Sn1VjxUYKjPCy-ksoeaF4zy_mOKYcA&ved=2ahUKEwiN0ueU9KqTAxUORfEDHVwQBLMQ8tMDegQIChAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Facebook&start=40"
+    }
+  }
+}

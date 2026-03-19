@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "69bb5d5c8976f7f088e81d66",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pkcTiNPAcG1jD70CgASQ4A/69bb5d5c8976f7f088e81d66.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/pkcTiNPAcG1jD70CgASQ4A/69bb5d5c8976f7f088e81d66.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:12 UTC",
+    "processed_at": "2026-03-19 02:20:12 UTC",
+    "google_url": "https://www.google.com/search?q=Ernest+Wilkerson+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+LinkedIn&oq=Ernest+Wilkerson+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/pkcTiNPAcG1jD70CgASQ4A/69bb5d5c8976f7f088e81d66.html",
+    "total_time_taken": 12.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Ernest Wilkerson \"Bell County Commissioner P4\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Ernest Wilkerson \"Bell County Commissioner P4\" \"Central Texas\" LinkedIn",
+    "total_results": 0,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

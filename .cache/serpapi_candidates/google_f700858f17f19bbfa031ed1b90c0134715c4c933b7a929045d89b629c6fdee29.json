@@ -1,0 +1,349 @@
+{
+  "search_metadata": {
+    "id": "69bb5cf0cc56d3d3dc45d2a8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a3NAiDX-mICryEBSJNJ57A/69bb5cf0cc56d3d3dc45d2a8.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/a3NAiDX-mICryEBSJNJ57A/69bb5cf0cc56d3d3dc45d2a8.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:24 UTC",
+    "processed_at": "2026-03-19 02:18:24 UTC",
+    "google_url": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a3NAiDX-mICryEBSJNJ57A/69bb5cf0cc56d3d3dc45d2a8.html",
+    "total_time_taken": 1.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Killeen Council D3 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Killeen Council D3 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 763,
+    "time_taken_displayed": 0.48,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Lawsuit filed against former candidate for defamation and ...",
+      "link": "https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQFnoECBwQAQ",
+      "displayed_link": "80+ comments · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjhVvndENjSqdVHFGeeLIJ80.png",
+      "snippet": "Deb For Long Beach I want to publicly thank you for taking the time to chat with me in person about the law suit. The FPPC process is in ...",
+      "about_this_result": {
+        "source": {
+          "description": "Deb For Long Beach I want to publicly thank you for taking the time to chat with me in person about the law suit. The FPPC process is in ...",
+          "source_info_link": "https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/",
+          "icon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjoX1Da88UshybmtHhAMlc4zbNknOs3MaMML4__E1ghqX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2FLBpolitics%2Fposts%2F26068769562761880%2F",
+      "source": "Facebook · Long Beach Politics"
+    },
+    {
+      "position": 2,
+      "title": "3 people have filed to run for Killeen City Council District ...",
+      "link": "https://kdhnews.com/centerforpolitics/3-people-have-filed-to-run-for-killeen-city-council-district-3-seat/article_bc048d0a-29b9-43ff-8f97-adc876fdccf3.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/3-people-have-filed-to-run-for-killeen-city-council-district-3-seat/article_bc048d0a-29b9-43ff-8f97-adc876fdccf3.html&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQFnoECBkQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › 3-people-hav...",
+      "favicon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjm-QM6M9RswRxZLoa_4DM3k.png",
+      "date": "Mar 5, 2026",
+      "snippet": "Since the start of the filing period on March 4, three people have filed to run for former councilwoman Nina Cobb's District 3 seat on the ...",
+      "about_this_result": {
+        "source": {
+          "description": "Since the start of the filing period on March 4, three people have filed to run for former councilwoman Nina Cobb's District 3 seat on the ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/3-people-have-filed-to-run-for-killeen-city-council-district-3-seat/article_bc048d0a-29b9-43ff-8f97-adc876fdccf3.html",
+          "icon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjt7bGZHwfyLbgLDlMJdwqWYNYlS-cUw7o4r93ZqltjOI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/3-people-have-filed-to-run-for-killeen-city-council-district-3-seat/article_bc048d0a-29b9-43ff-8f97-adc876fdccf3.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2F3-people-have-filed-to-run-for-killeen-city-council-district-3-seat%2Farticle_bc048d0a-29b9-43ff-8f97-adc876fdccf3.html",
+      "missing": [
+        "D3",
+        "platform",
+        "opponents.",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "3 Killeen City Council seats sit empty ahead of May special ...",
+      "link": "https://www.youtube.com/watch?v=IsVAldMKmTI",
+      "displayed_link": "50+ views · 1 week ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjskIagWuXQGJ24q-faMp-Ic.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjkrURm0ThHFC8ned-HKcXP4.png",
+      "snippet": "3 Killeen City Council seats sit empty ahead of May special election. 57 views · 6 days ago ...more. 25 News KXXV. 219K. Subscribe. 3. Share.",
+      "duration": "1:44",
+      "about_this_result": {
+        "source": {
+          "description": "3 Killeen City Council seats sit empty ahead of May special election. 57 views · 6 days ago ...more. 25 News KXXV. 219K. Subscribe. 3. Share.",
+          "source_info_link": "https://www.youtube.com/watch?v=IsVAldMKmTI",
+          "icon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjsbVAW3QigD6zp1X5iHSI07AqVtBgOIV3BIW3DptUOIl.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=IsVAldMKmTI&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIsVAldMKmTI",
+      "missing": [
+        "D3",
+        "platform",
+        "issues",
+        "candidates:",
+        "opponents.",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "YouTube · 25 News KXXV"
+    },
+    {
+      "position": 4,
+      "title": "KDH spoke with voters in Killeen and Harker Heights to hear ...",
+      "link": "https://www.facebook.com/kdhnews/videos/kdh-spoke-with-voters-in-killeen-and-harker-heights-to-hear-why-they-believe-its/860471817052085/",
+      "displayed_link": "1 reaction · 2 weeks ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjkZTyWCUXl0NGPGcDoPTJVo.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjti7um_MmNp5l0tNjFrb3mA.png",
+      "snippet": "... when making their decisions on Election Day. Polls close at 7 p.m. Part 2 | Killeen Daily Herald | Facebook. Log in · Video. 󱡘. Killeen Daily ...",
+      "duration": "3:19",
+      "about_this_result": {
+        "source": {
+          "description": "... when making their decisions on Election Day. Polls close at 7 p.m. Part 2 | Killeen Daily Herald | Facebook. Log in · Video. 󱡘. Killeen Daily ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/kdh-spoke-with-voters-in-killeen-and-harker-heights-to-hear-why-they-believe-its/860471817052085/",
+          "icon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjgv2H7llHhvnSE4pwihGkz4VFR6C35ph75s96dfFgy_C.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/kdh-spoke-with-voters-in-killeen-and-harker-heights-to-hear-why-they-believe-its/860471817052085/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fkdh-spoke-with-voters-in-killeen-and-harker-heights-to-hear-why-they-believe-its%2F860471817052085%2F",
+      "missing": [
+        "Council",
+        "D3",
+        "Key",
+        "platform",
+        "opponents.",
+        "factual",
+        "summary."
+      ],
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "What are district 3 biggest challenges?",
+      "link": "https://www.facebook.com/groups/365761771096601/posts/1484073175932116/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/365761771096601/posts/1484073175932116/&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQFnoECCwQAQ",
+      "displayed_link": "4 comments · 6 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjoX9WNYTA9qxrWjSumUOJlE.png",
+      "snippet": "District 3 constituents — what are some of the biggest challenges, obstacles, or concerns within our district? I would love your feedback!",
+      "snippet_highlighted_words": [
+        "challenges"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "District 3 constituents — what are some of the biggest challenges, obstacles, or concerns within our district? I would love your feedback!",
+          "source_info_link": "https://www.facebook.com/groups/365761771096601/posts/1484073175932116/",
+          "icon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjm1Fv5NEPqU-y84H2Jk_ZqrWqYZ9FGBi0E9C1ur-buuq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/365761771096601/posts/1484073175932116/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F365761771096601%2Fposts%2F1484073175932116%2F",
+      "source": "Facebook · I love Batesburg-Leesville!"
+    },
+    {
+      "position": 6,
+      "title": "ASPI Counterterrorism Yearbook 2020",
+      "link": "https://s3-ap-southeast-2.amazonaws.com/ad-aspi/2020-03/ASPI%20Counterterrorism%20YB2020.pdf?XVWQRHtHM0Yjs4OTfES3sLpkmCl36X4e",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://s3-ap-southeast-2.amazonaws.com/ad-aspi/2020-03/ASPI%2520Counterterrorism%2520YB2020.pdf%3FXVWQRHtHM0Yjs4OTfES3sLpkmCl36X4e&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQFnoECC0QAQ",
+      "displayed_link": "https://s3-ap-southeast-2.amazonaws.com › ad-aspi",
+      "favicon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjqPFfMu2hxtUnaYq9H70ov8.png",
+      "snippet": "Special thanks to Mike Burgess, the Director-General of the Australian Security Intelligence Organisation, for writing the preface to the 4th ASPI ...",
+      "about_this_result": {
+        "source": {
+          "description": "Special thanks to Mike Burgess, the Director-General of the Australian Security Intelligence Organisation, for writing the preface to the 4th ASPI ...",
+          "source_info_link": "https://s3-ap-southeast-2.amazonaws.com/ad-aspi/2020-03/ASPI%20Counterterrorism%20YB2020.pdf?XVWQRHtHM0Yjs4OTfES3sLpkmCl36X4e",
+          "icon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjlRsyULDWeps3QB9XBLEmVmGtdcdu6ZI0LLQCFCEvRoc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://s3-ap-southeast-2.amazonaws.com/ad-aspi/2020-03/ASPI%20Counterterrorism%20YB2020.pdf?XVWQRHtHM0Yjs4OTfES3sLpkmCl36X4e&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fs3-ap-southeast-2.amazonaws.com%2Fad-aspi%2F2020-03%2FASPI%2520Counterterrorism%2520YB2020.pdf%3FXVWQRHtHM0Yjs4OTfES3sLpkmCl36X4e",
+      "source": "Amazon Web Services (AWS)"
+    },
+    {
+      "position": 7,
+      "title": "Constructing Nineteenth-Century Religion",
+      "link": "https://library.oapen.org/bitstream/20.500.12657/53492/1/external_content.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://library.oapen.org/bitstream/20.500.12657/53492/1/external_content.pdf&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQFnoECCkQAQ",
+      "displayed_link": "https://library.oapen.org › external_content",
+      "favicon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjtXB2PpJ4ZSFX4uiGUOB4k0.png",
+      "snippet": "Library of Congress Cataloging-in-Publication Data. Names: King, Joshua, 1979– editor. | Werner, Winter Jade, editor. Title: Constructing nineteenth-century ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 334
+          },
+          "extensions": [
+            "334 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Library of Congress Cataloging-in-Publication Data. Names: King, Joshua, 1979– editor. | Werner, Winter Jade, editor. Title: Constructing nineteenth-century ...",
+          "source_info_link": "https://library.oapen.org/bitstream/20.500.12657/53492/1/external_content.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjudLRin__wUMdtlPmQyeQ4m9m3tX-UMlUvjMyHIk7U_Q.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://library.oapen.org/bitstream/20.500.12657/53492/1/external_content.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flibrary.oapen.org%2Fbitstream%2F20.500.12657%2F53492%2F1%2Fexternal_content.pdf",
+      "source": "OAPEN"
+    },
+    {
+      "position": 8,
+      "title": "Drought risk management",
+      "link": "http://www.sayersandpartners.co.uk/uploads/6/2/0/9/6209349/2016_sayers_et_al_strategic_drought_risk_management_-_web.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.sayersandpartners.co.uk/uploads/6/2/0/9/6209349/2016_sayers_et_al_strategic_drought_risk_management_-_web.pdf&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQFnoECC4QAQ",
+      "displayed_link": "http://www.sayersandpartners.co.uk › uploads › 2...",
+      "favicon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjuYRMh1zwkZjZaDsPKw20jA.png",
+      "author": "by PB Sayers",
+      "snippet": "She provides strategic advice to WWF's freshwater programmes across the world, conducts research on various water management issues, and ...",
+      "snippet_highlighted_words": [
+        "provides",
+        "issues"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "She provides strategic advice to WWF's freshwater programmes across the world, conducts research on various water management issues, and ...",
+          "source_info_link": "http://www.sayersandpartners.co.uk/uploads/6/2/0/9/6209349/2016_sayers_et_al_strategic_drought_risk_management_-_web.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjlKKoSRAMGGAjtTFHaH2YK-BZX6DXppJXDFvCk_E1VDc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://www.sayersandpartners.co.uk/uploads/6/2/0/9/6209349/2016_sayers_et_al_strategic_drought_risk_management_-_web.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Fwww.sayersandpartners.co.uk%2Fuploads%2F6%2F2%2F0%2F9%2F6209349%2F2016_sayers_et_al_strategic_drought_risk_management_-_web.pdf",
+      "source": "Sayers and Partners"
+    },
+    {
+      "position": 9,
+      "title": "Full text of Commercial and Financial Chronicle",
+      "link": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/january-19-1935-517161/fulltext",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/january-19-1935-517161/fulltext&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQFnoECCgQAQ",
+      "displayed_link": "https://fraser.stlouisfed.org › january-19-1935-517161",
+      "favicon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjmqoIX3pkMPQAVpAfzBq4bg.png",
+      "snippet": "The full text on this page is automatically extracted from the file linked above and may contain errors and inconsistencies. The Financial Situation HE gold ...",
+      "about_this_result": {
+        "source": {
+          "description": "The full text on this page is automatically extracted from the file linked above and may contain errors and inconsistencies. The Financial Situation HE gold ...",
+          "source_info_link": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/january-19-1935-517161/fulltext",
+          "icon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjhuB-NsTUu9pslspCNwxbI_rHxgu1ijFwofXuKYpuy8Z.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/january-19-1935-517161/fulltext&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffraser.stlouisfed.org%2Ftitle%2Fcommercial-financial-chronicle-1339%2Fjanuary-19-1935-517161%2Ffulltext",
+      "source": "Federal Reserve Bank of St. Louis"
+    },
+    {
+      "position": 10,
+      "title": "Dáil Éireann debate - Wednesday, 8 Jul 2009",
+      "link": "https://www.oireachtas.ie/en/debates/debate/dail/2009-07-08/44/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oireachtas.ie/en/debates/debate/dail/2009-07-08/44/&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQFnoECCsQAQ",
+      "displayed_link": "https://www.oireachtas.ie › debates › debate › dail",
+      "favicon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjpTgGtAdJQlI4MdZmREhSrE.png",
+      "date": "Jul 8, 2009",
+      "snippet": "Falling employment and rising unemployment is the most worrying aspect of the economic downturn. The Government is working to improve the ...",
+      "about_this_result": {
+        "source": {
+          "description": "Falling employment and rising unemployment is the most worrying aspect of the economic downturn. The Government is working to improve the ...",
+          "source_info_link": "https://www.oireachtas.ie/en/debates/debate/dail/2009-07-08/44/",
+          "icon": "https://serpapi.com/searches/69bb5cf0cc56d3d3dc45d2a8/images/fJ5lKJmPi1LTcVKfd8XVjpzfCmpKkFeYOZO0zf8wLsNJMbfyxJ2keDFCoR6niYpy.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.oireachtas.ie/en/debates/debate/dail/2009-07-08/44/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.oireachtas.ie%2Fen%2Fdebates%2Fdebate%2Fdail%2F2009-07-08%2F44%2F",
+      "source": "Houses of the Oireachtas"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=8Vy7aZKlJYWZkPIPjJGAqAE&start=10&sa=N&sstk=Af77f_cuZPjWWSiT3XzJfGPltpGYOAq84S8T_u1DoxDDWr0awwOKgbXxTmDVldG3QouH9z2SxNfM5em57uzHFGnmx4NK8haWjviieQ&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQ8NMDegQIDRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=8Vy7aZKlJYWZkPIPjJGAqAE&start=10&sa=N&sstk=Af77f_cuZPjWWSiT3XzJfGPltpGYOAq84S8T_u1DoxDDWr0awwOKgbXxTmDVldG3QouH9z2SxNfM5em57uzHFGnmx4NK8haWjviieQ&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=8Vy7aZKlJYWZkPIPjJGAqAE&start=20&sa=N&sstk=Af77f_cuZPjWWSiT3XzJfGPltpGYOAq84S8T_u1DoxDDWr0awwOKgbXxTmDVldG3QouH9z2SxNfM5em57uzHFGnmx4NK8haWjviieQ&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=8Vy7aZKlJYWZkPIPjJGAqAE&start=30&sa=N&sstk=Af77f_cuZPjWWSiT3XzJfGPltpGYOAq84S8T_u1DoxDDWr0awwOKgbXxTmDVldG3QouH9z2SxNfM5em57uzHFGnmx4NK8haWjviieQ&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQ8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=8Vy7aZKlJYWZkPIPjJGAqAE&start=40&sa=N&sstk=Af77f_cuZPjWWSiT3XzJfGPltpGYOAq84S8T_u1DoxDDWr0awwOKgbXxTmDVldG3QouH9z2SxNfM5em57uzHFGnmx4NK8haWjviieQ&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQ8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=8Vy7aZKlJYWZkPIPjJGAqAE&start=50&sa=N&sstk=Af77f_cuZPjWWSiT3XzJfGPltpGYOAq84S8T_u1DoxDDWr0awwOKgbXxTmDVldG3QouH9z2SxNfM5em57uzHFGnmx4NK8haWjviieQ&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQ8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=8Vy7aZKlJYWZkPIPjJGAqAE&start=60&sa=N&sstk=Af77f_cuZPjWWSiT3XzJfGPltpGYOAq84S8T_u1DoxDDWr0awwOKgbXxTmDVldG3QouH9z2SxNfM5em57uzHFGnmx4NK8haWjviieQ&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQ8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=8Vy7aZKlJYWZkPIPjJGAqAE&start=70&sa=N&sstk=Af77f_cuZPjWWSiT3XzJfGPltpGYOAq84S8T_u1DoxDDWr0awwOKgbXxTmDVldG3QouH9z2SxNfM5em57uzHFGnmx4NK8haWjviieQ&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQ8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=8Vy7aZKlJYWZkPIPjJGAqAE&start=80&sa=N&sstk=Af77f_cuZPjWWSiT3XzJfGPltpGYOAq84S8T_u1DoxDDWr0awwOKgbXxTmDVldG3QouH9z2SxNfM5em57uzHFGnmx4NK8haWjviieQ&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQ8tMDegQIDRAS",
+      "10": "https://www.google.com/search?q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=8Vy7aZKlJYWZkPIPjJGAqAE&start=90&sa=N&sstk=Af77f_cuZPjWWSiT3XzJfGPltpGYOAq84S8T_u1DoxDDWr0awwOKgbXxTmDVldG3QouH9z2SxNfM5em57uzHFGnmx4NK8haWjviieQ&ved=2ahUKEwjS4db38qqTAxWFDEQIHYwIABUQ8tMDegQIDRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Council+D3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

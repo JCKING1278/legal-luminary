@@ -1,0 +1,374 @@
+{
+  "search_metadata": {
+    "id": "69bb5c5da7d7843b8c6ffe1c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4wDEgbs1e31G1nO8_Pf5gA/69bb5c5da7d7843b8c6ffe1c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/4wDEgbs1e31G1nO8_Pf5gA/69bb5c5da7d7843b8c6ffe1c.json_with_pixel_position",
+    "created_at": "2026-03-19 02:15:57 UTC",
+    "processed_at": "2026-03-19 02:15:57 UTC",
+    "google_url": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&oq=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4wDEgbs1e31G1nO8_Pf5gA/69bb5c5da7d7843b8c6ffe1c.html",
+    "total_time_taken": 15.32
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bell County Commissioner P2 election. Key platform issues for candidates: Stacey L. Wilson. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bell County Commissioner P2 election. Key platform issues for candidates: Stacey L. Wilson. Provide a short factual summary.",
+    "total_results": 6460,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Stacey L. Wilson (Bell County Commissioner Precinct 2, ...",
+      "link": "https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0QFnoECBwQAQ",
+      "displayed_link": "https://ballotpedia.org › Stacey_L._Wilson_(Bell_County...",
+      "favicon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaef0GUnP4DkL-mS_T1Zlsy5I.png",
+      "snippet": "Any candidate running for elected office, at any level, can complete Ballotpedia's Candidate Survey. Completing the survey will update the candidate's ...",
+      "snippet_highlighted_words": [
+        "candidate",
+        "Candidate",
+        "candidate's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Any candidate running for elected office, at any level, can complete Ballotpedia's Candidate Survey. Completing the survey will update the candidate's ...",
+          "source_info_link": "https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeWXkExHFhRzMTJOIVNNMTB6tSp03TPd50_I8T9v1cwls.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FStacey_L._Wilson_%28Bell_County_Commissioner_Precinct_2%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "platform",
+        "issues",
+        "short",
+        "factual"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 2,
+      "title": "United States Government publications monthly catalog, ...",
+      "link": "https://www.govinfo.gov/content/pkg/GOVPUB-GP3-a3a03c750a40b62585b37351ee3488cb/pdf/GOVPUB-GP3-a3a03c750a40b62585b37351ee3488cb.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/GOVPUB-GP3-a3a03c750a40b62585b37351ee3488cb/pdf/GOVPUB-GP3-a3a03c750a40b62585b37351ee3488cb.pdf&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0QFnoECCQQAQ",
+      "displayed_link": "https://www.govinfo.gov › content › pkg › pdf",
+      "favicon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeQCNB116F6Fx4erUFg5KqOo.png",
+      "snippet": "Amendment, amendments_____amdt., amdts. Appendix______________________________ app. Article, articles_______ . Chapter, chapters_____________________ chap.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 136
+          },
+          "extensions": [
+            "136 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Amendment, amendments_____amdt., amdts. Appendix______________________________ app. Article, articles_______ . Chapter, chapters_____________________ chap.",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/GOVPUB-GP3-a3a03c750a40b62585b37351ee3488cb/pdf/GOVPUB-GP3-a3a03c750a40b62585b37351ee3488cb.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaebmt4bkOLJ8f4Tww1DshWU8gmIo8fH0P7cGqOWycVVQP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/GOVPUB-GP3-a3a03c750a40b62585b37351ee3488cb/pdf/GOVPUB-GP3-a3a03c750a40b62585b37351ee3488cb.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FGOVPUB-GP3-a3a03c750a40b62585b37351ee3488cb%2Fpdf%2FGOVPUB-GP3-a3a03c750a40b62585b37351ee3488cb.pdf",
+      "source": "GovInfo | U.S. Government Publishing Office (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "https://clinton.presidentiallibraries.us/items?amp%3Bamp ...",
+      "link": "https://clinton.presidentiallibraries.us/items?amp%3Bamp%3Bamp%3Bamp%3Bpage=2&amp%3Bamp%3Bamp%3Bamp%3Bsort_dir=d&amp%3Bamp%3Bamp%3Bamp%3Bsort_field=Dublin+Core%2CCreator&amp%3Bamp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bamp%3Bpage=2&amp%3Bamp%3Bamp%3Bsort_dir=d&amp%3Bamp%3Bamp%3Bsort_field=added&amp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bpage=4&amp%3Bamp%3Bsort_field=Dublin+Core%2CCreator&amp%3Boutput=omeka-xml&amp%3Bpage=12&amp%3Bsort_dir=a&amp%3Bsort_field=Dublin+Core%2CTitle&page=3&sort_dir=d&sort_field=Dublin+Core%2CTitle&output=omeka-xml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://clinton.presidentiallibraries.us/items%3Famp%253Bamp%253Bamp%253Bamp%253Bpage%3D2%26amp%253Bamp%253Bamp%253Bamp%253Bsort_dir%3Dd%26amp%253Bamp%253Bamp%253Bamp%253Bsort_field%3DDublin%2BCore%252CCreator%26amp%253Bamp%253Bamp%253Boutput%3Domeka-xml%26amp%253Bamp%253Bamp%253Bpage%3D2%26amp%253Bamp%253Bamp%253Bsort_dir%3Dd%26amp%253Bamp%253Bamp%253Bsort_field%3Dadded%26amp%253Bamp%253Boutput%3Domeka-xml%26amp%253Bamp%253Bpage%3D4%26amp%253Bamp%253Bsort_field%3DDublin%2BCore%252CCreator%26amp%253Boutput%3Domeka-xml%26amp%253Bpage%3D12%26amp%253Bsort_dir%3Da%26amp%253Bsort_field%3DDublin%2BCore%252CTitle%26page%3D3%26sort_dir%3Dd%26sort_field%3DDublin%2BCore%252CTitle%26output%3Domeka-xml&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0QFnoECCcQAQ",
+      "displayed_link": "https://clinton.presidentiallibraries.us › items",
+      "snippet": "... election - the three top vote-getters are elected as County Commissioners. The results were: Dawida(D) 27% Dunn (R) 26% :Cramner(R) 24 % Vuono (0) 23% The ...",
+      "snippet_highlighted_words": [
+        "election",
+        "vote",
+        "County Commissioners"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... election - the three top vote-getters are elected as County Commissioners. The results were: Dawida(D) 27% Dunn (R) 26% :Cramner(R) 24 % Vuono (0) 23% The ...",
+          "source_info_link": "https://clinton.presidentiallibraries.us/items?amp%3Bamp%3Bamp%3Bamp%3Bpage=2&amp%3Bamp%3Bamp%3Bamp%3Bsort_dir=d&amp%3Bamp%3Bamp%3Bamp%3Bsort_field=Dublin+Core%2CCreator&amp%3Bamp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bamp%3Bpage=2&amp%3Bamp%3Bamp%3Bsort_dir=d&amp%3Bamp%3Bamp%3Bsort_field=added&amp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bpage=4&amp%3Bamp%3Bsort_field=Dublin+Core%2CCreator&amp%3Boutput=omeka-xml&amp%3Bpage=12&amp%3Bsort_dir=a&amp%3Bsort_field=Dublin+Core%2CTitle&page=3&sort_dir=d&sort_field=Dublin+Core%2CTitle&output=omeka-xml"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://clinton.presidentiallibraries.us/items?amp%3Bamp%3Bamp%3Bamp%3Bpage=2&amp%3Bamp%3Bamp%3Bamp%3Bsort_dir=d&amp%3Bamp%3Bamp%3Bamp%3Bsort_field=Dublin+Core%2CCreator&amp%3Bamp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bamp%3Bpage=2&amp%3Bamp%3Bamp%3Bsort_dir=d&amp%3Bamp%3Bamp%3Bsort_field=added&amp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bpage=4&amp%3Bamp%3Bsort_field=Dublin+Core%2CCreator&amp%3Boutput=omeka-xml&amp%3Bpage=12&amp%3Bsort_dir=a&amp%3Bsort_field=Dublin+Core%2CTitle&page=3&sort_dir=d&sort_field=Dublin+Core%2CTitle&output=omeka-xml&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fclinton.presidentiallibraries.us%2Fitems%3Famp%253Bamp%253Bamp%253Bamp%253Bpage%3D2%26amp%253Bamp%253Bamp%253Bamp%253Bsort_dir%3Dd%26amp%253Bamp%253Bamp%253Bamp%253Bsort_field%3DDublin%2BCore%252CCreator%26amp%253Bamp%253Bamp%253Boutput%3Domeka-xml%26amp%253Bamp%253Bamp%253Bpage%3D2%26amp%253Bamp%253Bamp%253Bsort_dir%3Dd%26amp%253Bamp%253Bamp%253Bsort_field%3Dadded%26amp%253Bamp%253Boutput%3Domeka-xml%26amp%253Bamp%253Bpage%3D4%26amp%253Bamp%253Bsort_field%3DDublin%2BCore%252CCreator%26amp%253Boutput%3Domeka-xml%26amp%253Bpage%3D12%26amp%253Bsort_dir%3Da%26amp%253Bsort_field%3DDublin%2BCore%252CTitle%26page%3D3%26sort_dir%3Dd%26sort_field%3DDublin%2BCore%252CTitle%26output%3Domeka-xml",
+      "source": "Clinton Digital Library"
+    },
+    {
+      "position": 4,
+      "title": "Stacey Wilson (Bell County Commissioner Precinct 2, ...",
+      "link": "https://ballotpedia.org/Stacey_Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2022)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Stacey_Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2022)&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0QFnoECB8QAQ",
+      "displayed_link": "https://ballotpedia.org › Stacey_Wilson_(Bell_County_C...",
+      "favicon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeeNbfemFV8FERoUVugsPB-E.png",
+      "date": "Nov 8, 2022",
+      "snippet": "Completing the survey will update the candidate's Ballotpedia profile, letting voters know who they are and what they stand for. More than ...",
+      "snippet_highlighted_words": [
+        "candidate's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Completing the survey will update the candidate's Ballotpedia profile, letting voters know who they are and what they stand for. More than ...",
+          "source_info_link": "https://ballotpedia.org/Stacey_Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2022)",
+          "icon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeZrkhYf3kQfi6JU3gDJ3jfb9nPnsErEw5B1LcNxG1D6D.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Stacey_Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2022)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FStacey_Wilson_%28Bell_County_Commissioner_Precinct_2%2C_Texas%2C_candidate_2022%29",
+      "missing": [
+        "platform",
+        "issues",
+        "L.",
+        "short",
+        "factual"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 5,
+      "title": "Mayor Tim Knapp Council President Celia Ndñez ...",
+      "link": "https://www.wilsonvilleoregon.gov/sites/default/files/fileattachments/city_council/meeting/packets/26061/02-06-2012.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wilsonvilleoregon.gov/sites/default/files/fileattachments/city_council/meeting/packets/26061/02-06-2012.pdf&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0QFnoECC4QAQ",
+      "displayed_link": "https://www.wilsonvilleoregon.gov › files › packets",
+      "favicon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeef3H1wanQk-5zsFl20uMYg.png",
+      "date": "Feb 6, 2012",
+      "snippet": "The following is a summary of the legislative and other matters to come before the Wilsonville City Council a.",
+      "snippet_highlighted_words": [
+        "summary",
+        "Wilsonville"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following is a summary of the legislative and other matters to come before the Wilsonville City Council a.",
+          "source_info_link": "https://www.wilsonvilleoregon.gov/sites/default/files/fileattachments/city_council/meeting/packets/26061/02-06-2012.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeb3wc8PUkpKRvg5SwF_uLRRNmG2QnwptuAXvXo3CHvq7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.wilsonvilleoregon.gov/sites/default/files/fileattachments/city_council/meeting/packets/26061/02-06-2012.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.wilsonvilleoregon.gov%2Fsites%2Fdefault%2Ffiles%2Ffileattachments%2Fcity_council%2Fmeeting%2Fpackets%2F26061%2F02-06-2012.pdf",
+      "source": "City of Wilsonville Oregon (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "showcase.xml",
+      "link": "https://www.tcd.ie/research/assets/backend/xml/showcase.xml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tcd.ie/research/assets/backend/xml/showcase.xml&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0QFnoECB4QAQ",
+      "displayed_link": "https://www.tcd.ie › research › assets › backend",
+      "favicon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeR92TQE7yVo4oZdMDODTYlQ.png",
+      "snippet": "THE PROJECT WILL UNDERTAKE RESEARCH IN TEXT AND IMAGE ANALYSIS, IN ETHICAL AND FACTUAL ... STACEY, 2. MARCO AND ANDREA MERLOTTI (EDS), STATO SABAUDO E SACRO ...",
+      "snippet_highlighted_words": [
+        "ANALYSIS",
+        "FACTUAL",
+        "STACEY"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "THE PROJECT WILL UNDERTAKE RESEARCH IN TEXT AND IMAGE ANALYSIS, IN ETHICAL AND FACTUAL ... STACEY, 2. MARCO AND ANDREA MERLOTTI (EDS), STATO SABAUDO E SACRO ...",
+          "source_info_link": "https://www.tcd.ie/research/assets/backend/xml/showcase.xml",
+          "icon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaedWTkab6yLVyxzZwmIdjRRUewUD_v9G18TgRQCa_qanb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tcd.ie/research/assets/backend/xml/showcase.xml&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tcd.ie%2Fresearch%2Fassets%2Fbackend%2Fxml%2Fshowcase.xml",
+      "source": "Trinity College Dublin"
+    },
+    {
+      "position": 7,
+      "title": "Iowa Renewable Fuels Association Annual Meeting",
+      "link": "https://iowarfa.org/wp-content/uploads/2025/12/Compiled-Boardbook-Plant-Members.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iowarfa.org/wp-content/uploads/2025/12/Compiled-Boardbook-Plant-Members.pdf&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0QFnoECB0QAQ",
+      "displayed_link": "https://iowarfa.org › uploads › 2025/12 › Compi...",
+      "favicon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeb-kSwK841UtkYUqzQnV_F8.png",
+      "date": "Dec 11, 2025",
+      "snippet": "The Antitrust Law. U.S. and state antitrust laws have as their general goal the promotion of free competition. Under the antitrust laws, ...",
+      "about_this_result": {
+        "source": {
+          "description": "The Antitrust Law. U.S. and state antitrust laws have as their general goal the promotion of free competition. Under the antitrust laws, ...",
+          "source_info_link": "https://iowarfa.org/wp-content/uploads/2025/12/Compiled-Boardbook-Plant-Members.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeTwxvs5ldcISnbXEdnWMxFQfFiL19C4CfakHKRZbva7n.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://iowarfa.org/wp-content/uploads/2025/12/Compiled-Boardbook-Plant-Members.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fiowarfa.org%2Fwp-content%2Fuploads%2F2025%2F12%2FCompiled-Boardbook-Plant-Members.pdf",
+      "source": "Iowa Renewable Fuels Association"
+    },
+    {
+      "position": 8,
+      "title": "ecological Framework to Enhance Local-scale Adaptation",
+      "link": "https://sustainablect.org/fileadmin/media/Content/For_resources/Planning/2._Understanding_Community_Character_as_a_Socio-ecological_Framework.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sustainablect.org/fileadmin/media/Content/For_resources/Planning/2._Understanding_Community_Character_as_a_Socio-ecological_Framework.pdf&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0QFnoECD0QAQ",
+      "displayed_link": "https://sustainablect.org › For_resources › Planning",
+      "favicon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaedNg5qFG1ItZiNvI6oRPUnU.jpeg",
+      "snippet": "Your multi-dimensional stance on rurality inspired me to understand my own rural communities in new ways. I offer a debt of gratitude to the Antioch community ...",
+      "snippet_highlighted_words": [
+        "offer"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Your multi-dimensional stance on rurality inspired me to understand my own rural communities in new ways. I offer a debt of gratitude to the Antioch community ...",
+          "source_info_link": "https://sustainablect.org/fileadmin/media/Content/For_resources/Planning/2._Understanding_Community_Character_as_a_Socio-ecological_Framework.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeXQaZ_Ks4NBPNBIYcJHyP8CfNuajcS_4xxOQIdnXrERt.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://sustainablect.org/fileadmin/media/Content/For_resources/Planning/2._Understanding_Community_Character_as_a_Socio-ecological_Framework.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsustainablect.org%2Ffileadmin%2Fmedia%2FContent%2FFor_resources%2FPlanning%2F2._Understanding_Community_Character_as_a_Socio-ecological_Framework.pdf",
+      "source": "Sustainable CT"
+    },
+    {
+      "position": 9,
+      "title": "Disrupt, Include, Engage & Innovate",
+      "link": "https://www.psychiatry.org/getattachment/93a90185-9770-4158-a27e-4b037ee95874/am_program_2019.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.psychiatry.org/getattachment/93a90185-9770-4158-a27e-4b037ee95874/am_program_2019.pdf&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0QFnoECDcQAQ",
+      "displayed_link": "https://www.psychiatry.org › am_program_2019",
+      "favicon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeXpIwhSG8dZLLn5H-HfGC_k.png",
+      "date": "Apr 3, 2019",
+      "snippet": "... (2):117-133. 12. Goodman JH,. Tyer-Viola L. Detection, treatment, and referral of perinatal depression and anxiety by obstetrical providers. J ...",
+      "snippet_highlighted_words": [
+        "L"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 315
+          },
+          "extensions": [
+            "315 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... (2):117-133. 12. Goodman JH,. Tyer-Viola L. Detection, treatment, and referral of perinatal depression and anxiety by obstetrical providers. J ...",
+          "source_info_link": "https://www.psychiatry.org/getattachment/93a90185-9770-4158-a27e-4b037ee95874/am_program_2019.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeU9iMTdyAabxs2lPzqhgFThHFP8o2-1zANV_uCLoiD4b.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.psychiatry.org/getattachment/93a90185-9770-4158-a27e-4b037ee95874/am_program_2019.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.psychiatry.org%2Fgetattachment%2F93a90185-9770-4158-a27e-4b037ee95874%2Fam_program_2019.pdf",
+      "source": "Psychiatry.org"
+    },
+    {
+      "position": 10,
+      "title": "Expert Review Comments on the IPCC WGIII AR5 First ...",
+      "link": "https://archive.ipcc.ch/pdf/assessment-report/ar5/wg3/drafts/ipcc_wg3_ar5_fod_comments_chapter3.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://archive.ipcc.ch/pdf/assessment-report/ar5/wg3/drafts/ipcc_wg3_ar5_fod_comments_chapter3.pdf&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0QFnoECDgQAQ",
+      "displayed_link": "https://archive.ipcc.ch › assessment-report › drafts",
+      "favicon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaeWYAUsXE8CXQ4pMsg1uXpcI.jpeg",
+      "snippet": "(2012) Ethical Adaptation to. Climate Change (MIT Press). Such obstacles -such as the pure intergenerational problem or institutional fragmentation of agent ...",
+      "snippet_highlighted_words": [
+        "problem"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "(2012) Ethical Adaptation to. Climate Change (MIT Press). Such obstacles -such as the pure intergenerational problem or institutional fragmentation of agent ...",
+          "source_info_link": "https://archive.ipcc.ch/pdf/assessment-report/ar5/wg3/drafts/ipcc_wg3_ar5_fod_comments_chapter3.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c5da7d7843b8c6ffe1c/images/4hy06xLf5hbkKg18-bOaed5BN76bCZ7edkljFI84VsICMnO7wrsLQibC0Bo9DcKr.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://archive.ipcc.ch/pdf/assessment-report/ar5/wg3/drafts/ipcc_wg3_ar5_fod_comments_chapter3.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Farchive.ipcc.ch%2Fpdf%2Fassessment-report%2Far5%2Fwg3%2Fdrafts%2Fipcc_wg3_ar5_fod_comments_chapter3.pdf",
+      "source": "Intergovernmental Panel on Climate Change (IPCC)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates:+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=a1y7aevpPPXaptQP_8ng6Ac&start=10&sa=N&sstk=Af77f_dfBhQyB1nM8Bfd0MT3--L6yg4HtrJV633tqVdg5G64_G29_5JjA43dEkevq4QIUlVAmyrIrpA-a3hEKvDCBqMjf9Y7eRGVbg&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0Q8NMDegQIEBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates:+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=a1y7aevpPPXaptQP_8ng6Ac&start=10&sa=N&sstk=Af77f_dfBhQyB1nM8Bfd0MT3--L6yg4HtrJV633tqVdg5G64_G29_5JjA43dEkevq4QIUlVAmyrIrpA-a3hEKvDCBqMjf9Y7eRGVbg&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0Q8tMDegQIEBAE",
+      "3": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates:+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=a1y7aevpPPXaptQP_8ng6Ac&start=20&sa=N&sstk=Af77f_dfBhQyB1nM8Bfd0MT3--L6yg4HtrJV633tqVdg5G64_G29_5JjA43dEkevq4QIUlVAmyrIrpA-a3hEKvDCBqMjf9Y7eRGVbg&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0Q8tMDegQIEBAG",
+      "4": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates:+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=a1y7aevpPPXaptQP_8ng6Ac&start=30&sa=N&sstk=Af77f_dfBhQyB1nM8Bfd0MT3--L6yg4HtrJV633tqVdg5G64_G29_5JjA43dEkevq4QIUlVAmyrIrpA-a3hEKvDCBqMjf9Y7eRGVbg&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0Q8tMDegQIEBAI",
+      "5": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates:+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=a1y7aevpPPXaptQP_8ng6Ac&start=40&sa=N&sstk=Af77f_dfBhQyB1nM8Bfd0MT3--L6yg4HtrJV633tqVdg5G64_G29_5JjA43dEkevq4QIUlVAmyrIrpA-a3hEKvDCBqMjf9Y7eRGVbg&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0Q8tMDegQIEBAK",
+      "6": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates:+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=a1y7aevpPPXaptQP_8ng6Ac&start=50&sa=N&sstk=Af77f_dfBhQyB1nM8Bfd0MT3--L6yg4HtrJV633tqVdg5G64_G29_5JjA43dEkevq4QIUlVAmyrIrpA-a3hEKvDCBqMjf9Y7eRGVbg&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0Q8tMDegQIEBAM",
+      "7": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates:+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=a1y7aevpPPXaptQP_8ng6Ac&start=60&sa=N&sstk=Af77f_dfBhQyB1nM8Bfd0MT3--L6yg4HtrJV633tqVdg5G64_G29_5JjA43dEkevq4QIUlVAmyrIrpA-a3hEKvDCBqMjf9Y7eRGVbg&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0Q8tMDegQIEBAO",
+      "8": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates:+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=a1y7aevpPPXaptQP_8ng6Ac&start=70&sa=N&sstk=Af77f_dfBhQyB1nM8Bfd0MT3--L6yg4HtrJV633tqVdg5G64_G29_5JjA43dEkevq4QIUlVAmyrIrpA-a3hEKvDCBqMjf9Y7eRGVbg&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0Q8tMDegQIEBAQ",
+      "9": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates:+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=a1y7aevpPPXaptQP_8ng6Ac&start=80&sa=N&sstk=Af77f_dfBhQyB1nM8Bfd0MT3--L6yg4HtrJV633tqVdg5G64_G29_5JjA43dEkevq4QIUlVAmyrIrpA-a3hEKvDCBqMjf9Y7eRGVbg&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0Q8tMDegQIEBAS",
+      "10": "https://www.google.com/search?q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates:+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=a1y7aevpPPXaptQP_8ng6Ac&start=90&sa=N&sstk=Af77f_dfBhQyB1nM8Bfd0MT3--L6yg4HtrJV633tqVdg5G64_G29_5JjA43dEkevq4QIUlVAmyrIrpA-a3hEKvDCBqMjf9Y7eRGVbg&ved=2ahUKEwiry_u38qqTAxV1rYkEHf8kGH0Q8tMDegQIEBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P2+election.+Key+platform+issues+for+candidates%3A+Stacey+L.+Wilson.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

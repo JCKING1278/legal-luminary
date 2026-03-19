@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "69bb5d3d1fad363fc9a4b1cf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/610sB9wjVLxpireYr8xrNA/69bb5d3d1fad363fc9a4b1cf.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/610sB9wjVLxpireYr8xrNA/69bb5d3d1fad363fc9a4b1cf.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:41 UTC",
+    "processed_at": "2026-03-19 02:19:41 UTC",
+    "google_url": "https://www.google.com/search?q=Louie+Minor+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+Facebook&oq=Louie+Minor+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/610sB9wjVLxpireYr8xrNA/69bb5d3d1fad363fc9a4b1cf.html",
+    "total_time_taken": 3.51
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Louie Minor \"Bell County Commissioner P4\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Louie Minor \"Bell County Commissioner P4\" \"Central Texas\" Facebook",
+    "total_results": 0,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

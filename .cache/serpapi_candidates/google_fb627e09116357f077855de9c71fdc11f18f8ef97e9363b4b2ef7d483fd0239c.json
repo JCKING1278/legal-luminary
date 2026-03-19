@@ -1,0 +1,346 @@
+{
+  "search_metadata": {
+    "id": "69bb5d84bf04d54742a93bed",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eoo5M2mve1MVgpNcyI7n4Q/69bb5d84bf04d54742a93bed.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/eoo5M2mve1MVgpNcyI7n4Q/69bb5d84bf04d54742a93bed.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:52 UTC",
+    "processed_at": "2026-03-19 02:20:52 UTC",
+    "google_url": "https://www.google.com/search?q=Eric+R.+Armstrong+%22CTC+Trustee+Place+4%22+%22Central+Texas%22+Instagram&oq=Eric+R.+Armstrong+%22CTC+Trustee+Place+4%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/eoo5M2mve1MVgpNcyI7n4Q/69bb5d84bf04d54742a93bed.html",
+    "total_time_taken": 1.51
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Eric R. Armstrong \"CTC Trustee Place 4\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Eric R. Armstrong \"CTC Trustee Place 4\" \"Central Texas\" Instagram",
+    "total_results": 1130,
+    "time_taken_displayed": 0.74,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    },
+    "showing_results_for": "Eric R. Armstrong CTC Trustee Place 4 Central Texas Instagram",
+    "spelling_fix": "Eric R. Armstrong CTC Trustee Place 4 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "❤️🌹 Thank you, Travis County. It was the honor of a ...",
+      "link": "https://www.instagram.com/p/DVfOVc_DJ5l/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DVfOVc_DJ5l/&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4QFnoECBsQAQ",
+      "displayed_link": "100+ likes · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVH6ihf6ZBaHQy75wD8k3qdM.png",
+      "snippet": "I'm unbelievably proud of everyone who knocked doors, phone banked, attended meetings, or simply walked out in protest to build a better world.",
+      "about_this_result": {
+        "source": {
+          "description": "I'm unbelievably proud of everyone who knocked doors, phone banked, attended meetings, or simply walked out in protest to build a better world.",
+          "source_info_link": "https://www.instagram.com/p/DVfOVc_DJ5l/",
+          "icon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVE40YKgUo6YhXWCy0ODjGT2Ut68agyQPb8DYEzYzaBzB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DVfOVc_DJ5l/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDVfOVc_DJ5l%2F",
+      "missing": [
+        "R.",
+        "CTC",
+        "Trustee",
+        "Central",
+        "Texas"
+      ],
+      "source": "Instagram · reeseric.ci"
+    },
+    {
+      "position": 2,
+      "title": "🌹 We won…a student movement in Austin! While ...",
+      "link": "https://www.instagram.com/p/DVekXVNkgOd/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DVekXVNkgOd/&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4QFnoECCIQAQ",
+      "displayed_link": "130+ likes · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVOClx-_NllEy1VjwhlZbJIs.png",
+      "snippet": "Photo by Reese Ricci Armstrong on March 04, 2026. May be an image of.",
+      "snippet_highlighted_words": [
+        "Armstrong"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Photo by Reese Ricci Armstrong on March 04, 2026. May be an image of.",
+          "source_info_link": "https://www.instagram.com/p/DVekXVNkgOd/",
+          "icon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVE9CRM7-5vM3CeKaKoh-Nzh8-87ioS2ZmCskxSriJgrw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DVekXVNkgOd/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDVekXVNkgOd%2F",
+      "missing": [
+        "CTC",
+        "Trustee"
+      ],
+      "source": "Instagram · reeseric.ci"
+    },
+    {
+      "position": 3,
+      "title": "Stilr0 ·is - ~ MICHIGAN g - E-Gov Link",
+      "link": "https://www.egovlink.com/public_documents300/sturgis/published_documents/City%20Commission/Minutes%20and%20agendas/Commission%20Packets/2023/Commission%20Packet%20-%2006-14-2023.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.egovlink.com/public_documents300/sturgis/published_documents/City%2520Commission/Minutes%2520and%2520agendas/Commission%2520Packets/2023/Commission%2520Packet%2520-%252006-14-2023.pdf&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4QFnoECBoQAQ",
+      "displayed_link": "https://www.egovlink.com › published_documents",
+      "date": "Jun 14, 2023",
+      "snippet": "AUTHORIZE the payment of the City bills in the amount of $1,834,489.24 as presented. C. 2023 Independence Day Children's Parade. • APPROVE the ...",
+      "about_this_result": {
+        "source": {
+          "description": "AUTHORIZE the payment of the City bills in the amount of $1,834,489.24 as presented. C. 2023 Independence Day Children's Parade. • APPROVE the ...",
+          "source_info_link": "https://www.egovlink.com/public_documents300/sturgis/published_documents/City%20Commission/Minutes%20and%20agendas/Commission%20Packets/2023/Commission%20Packet%20-%2006-14-2023.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.egovlink.com/public_documents300/sturgis/published_documents/City%20Commission/Minutes%20and%20agendas/Commission%20Packets/2023/Commission%20Packet%20-%2006-14-2023.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.egovlink.com%2Fpublic_documents300%2Fsturgis%2Fpublished_documents%2FCity%2520Commission%2FMinutes%2520and%2520agendas%2FCommission%2520Packets%2F2023%2FCommission%2520Packet%2520-%252006-14-2023.pdf",
+      "source": "egovlink.com"
+    },
+    {
+      "position": 4,
+      "title": "9th July 2019 Said Business School, University of Oxford, UK",
+      "link": "https://cberuk.com/cdn/publications/2020-08-14-11-40-31-AM.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cberuk.com/cdn/publications/2020-08-14-11-40-31-AM.pdf&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4QFnoECC4QAQ",
+      "displayed_link": "https://cberuk.com › cdn › publications",
+      "favicon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVGnNIFuUV8Q1RpH52KykPCw.png",
+      "snippet": "The Academy of Business and Retail Management (ABRM) seeks to contribute to progress and prosperity through research and managerial excellence.",
+      "about_this_result": {
+        "source": {
+          "description": "The Academy of Business and Retail Management (ABRM) seeks to contribute to progress and prosperity through research and managerial excellence.",
+          "source_info_link": "https://cberuk.com/cdn/publications/2020-08-14-11-40-31-AM.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVLxVV6lor7wsvPVVH4IzAdtLozXIKsjsXSDOkfMEheoD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cberuk.com/cdn/publications/2020-08-14-11-40-31-AM.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcberuk.com%2Fcdn%2Fpublications%2F2020-08-14-11-40-31-AM.pdf",
+      "source": "Centre for Business & Economic Research"
+    },
+    {
+      "position": 5,
+      "title": "Can the school be built in a different location to avoid ...",
+      "link": "https://www.facebook.com/groups/195057590986779/posts/1537048553454336/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/195057590986779/posts/1537048553454336/&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4QFnoECDQQAQ",
+      "displayed_link": "10+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVH8h_7Cu1i2sU2zr1BBVi5w.png",
+      "snippet": "The sky is falling.... ARTICLE Leilani Thorpe has always been concerned about cancer, as three of her family members have died from the ...",
+      "about_this_result": {
+        "source": {
+          "description": "The sky is falling.... ARTICLE Leilani Thorpe has always been concerned about cancer, as three of her family members have died from the ...",
+          "source_info_link": "https://www.facebook.com/groups/195057590986779/posts/1537048553454336/",
+          "icon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVBC0FoW69IQ3qPlQmPxjDWJqnuFlUUWWuBVNzbO45mma.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/195057590986779/posts/1537048553454336/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F195057590986779%2Fposts%2F1537048553454336%2F",
+      "source": "Facebook · Duck Valley Sho-Pai Tribes - Public Information"
+    },
+    {
+      "position": 6,
+      "title": "Case 9:23-cv-01465-DNH-TWD Document 72 Filed 12/ ...",
+      "link": "https://www.govinfo.gov/content/pkg/USCOURTS-nynd-9_23-cv-01465/pdf/USCOURTS-nynd-9_23-cv-01465-2.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/USCOURTS-nynd-9_23-cv-01465/pdf/USCOURTS-nynd-9_23-cv-01465-2.pdf&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4QFnoECD8QAQ",
+      "displayed_link": "https://www.govinfo.gov › content › pkg › pdf",
+      "favicon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVIOxWkHfyLxheaee1NqVwW8.png",
+      "snippet": "preclude defendants from filing motions related to the issue of timeliness.” Id. at 3-4, n. 1. The. Court also issued a Valentin Order directing the Attorney ...",
+      "snippet_highlighted_words": [
+        "4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "preclude defendants from filing motions related to the issue of timeliness.” Id. at 3-4, n. 1. The. Court also issued a Valentin Order directing the Attorney ...",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/USCOURTS-nynd-9_23-cv-01465/pdf/USCOURTS-nynd-9_23-cv-01465-2.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVDaABdnYCrqqv8d8bJxwhH6L_i5sonTh-1Jq-Rel8J7w.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/USCOURTS-nynd-9_23-cv-01465/pdf/USCOURTS-nynd-9_23-cv-01465-2.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FUSCOURTS-nynd-9_23-cv-01465%2Fpdf%2FUSCOURTS-nynd-9_23-cv-01465-2.pdf",
+      "source": "GovInfo (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "THE WIRE",
+      "link": "https://royalsignals.org/storage/magazines/July2025/RCcdbaEg0WEg0p1iuXYP.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://royalsignals.org/storage/magazines/July2025/RCcdbaEg0WEg0p1iuXYP.pdf&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4QFnoECDEQAQ",
+      "displayed_link": "https://royalsignals.org › magazines › July2025",
+      "favicon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVGAtlsP6ngMb9WkueLkCpWg.png",
+      "snippet": "2 September for publication in the Winter edition. Winter 2021 Volume 75 No: 4. Christmas Messages. Corps Photography Competition. RSI Events. Lanyard Trophy.",
+      "snippet_highlighted_words": [
+        "for",
+        "4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2 September for publication in the Winter edition. Winter 2021 Volume 75 No: 4. Christmas Messages. Corps Photography Competition. RSI Events. Lanyard Trophy.",
+          "source_info_link": "https://royalsignals.org/storage/magazines/July2025/RCcdbaEg0WEg0p1iuXYP.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVLUqoXjEBkjq1nXlS9QVpqxDnc1Dai1z_lEjeF359oQr.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://royalsignals.org/storage/magazines/July2025/RCcdbaEg0WEg0p1iuXYP.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Froyalsignals.org%2Fstorage%2Fmagazines%2FJuly2025%2FRCcdbaEg0WEg0p1iuXYP.pdf",
+      "source": "Royalsignals.org"
+    },
+    {
+      "position": 8,
+      "title": "B O L L E T T I N O",
+      "link": "https://www.icf.org/wp-content/uploads/2016/02/july14bollettino.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.icf.org/wp-content/uploads/2016/02/july14bollettino.pdf&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4QFnoECDMQAQ",
+      "displayed_link": "https://www.icf.org › uploads › 2016/02",
+      "favicon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVHj5Gk5ZfBW1HZxdbpMPSpg.png",
+      "snippet": "marriott. com/hotels/travel/oakdt-oakland-marriott- city-center/or go to the ICF website for ease in reserving your room for the Convention. The room rate is ...",
+      "snippet_highlighted_words": [
+        "center",
+        "for",
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "marriott. com/hotels/travel/oakdt-oakland-marriott- city-center/or go to the ICF website for ease in reserving your room for the Convention. The room rate is ...",
+          "source_info_link": "https://www.icf.org/wp-content/uploads/2016/02/july14bollettino.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVJRzE-0gLtk42ItXlr6lbH3sPRqstIsXMbMWvYYA3Ktc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.icf.org/wp-content/uploads/2016/02/july14bollettino.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.icf.org%2Fwp-content%2Fuploads%2F2016%2F02%2Fjuly14bollettino.pdf",
+      "source": "The Italian Catholic Federation"
+    },
+    {
+      "position": 9,
+      "title": "Civic Buildings",
+      "link": "https://www.usmodernist.org/AR/AR-2019-03.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usmodernist.org/AR/AR-2019-03.pdf&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4QFnoECDAQAQ",
+      "displayed_link": "https://www.usmodernist.org › ...",
+      "favicon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVL0yCXeRq8pMZrucrA2U2Us.png",
+      "date": "Mar 7, 2019",
+      "snippet": "Leaders from the Bay Area design community will discuss recent projects related to this topic and will then be joined by Architectural Record ...",
+      "snippet_highlighted_words": [
+        "Area"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Leaders from the Bay Area design community will discuss recent projects related to this topic and will then be joined by Architectural Record ...",
+          "source_info_link": "https://www.usmodernist.org/AR/AR-2019-03.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d84bf04d54742a93bed/images/rdV0B02Ael0hiB2pK-ntVIIx_1IhxFMpSo2WNXqateftSqLpRpJ37R7ZwW89XoNB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.usmodernist.org/AR/AR-2019-03.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.usmodernist.org%2FAR%2FAR-2019-03.pdf",
+      "source": "USModernist Archives"
+    },
+    {
+      "position": 10,
+      "title": "2025 MUNICIPAL ELECTION Pettis County United Way ...",
+      "link": "https://cdn1.creativecirclemedia.com/sedalia/files/20250313-201002-f08-SED%202025-03-14.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cdn1.creativecirclemedia.com/sedalia/files/20250313-201002-f08-SED%25202025-03-14.pdf&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4QFnoECC0QAQ",
+      "displayed_link": "https://cdn1.creativecirclemedia.com › sedalia › files",
+      "date": "Mar 14, 2025",
+      "snippet": "Check out our. E-Editions to find what you're looking for! Democrat. Sedalia www.sedaliademocrat.com. Six people are running for Pettis County ...",
+      "snippet_highlighted_words": [
+        "for",
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Check out our. E-Editions to find what you're looking for! Democrat. Sedalia www.sedaliademocrat.com. Six people are running for Pettis County ...",
+          "source_info_link": "https://cdn1.creativecirclemedia.com/sedalia/files/20250313-201002-f08-SED%202025-03-14.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cdn1.creativecirclemedia.com/sedalia/files/20250313-201002-f08-SED%202025-03-14.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcdn1.creativecirclemedia.com%2Fsedalia%2Ffiles%2F20250313-201002-f08-SED%25202025-03-14.pdf",
+      "source": "Creative Circle Media Solutions"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=hV27aZjrA6PSkPIPzZ_C8QQ&start=10&sa=N&sstk=Af77f_f9U-Z9k0t8STlAKoxFItEPWkEA97CduBklableytHQvyGhTd5zYivq0RlLxOU90wD5qOdSZrtELNJvkzUW2dbjBs2fQLhcmA&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4Q8NMDegQIDhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=hV27aZjrA6PSkPIPzZ_C8QQ&start=10&sa=N&sstk=Af77f_f9U-Z9k0t8STlAKoxFItEPWkEA97CduBklableytHQvyGhTd5zYivq0RlLxOU90wD5qOdSZrtELNJvkzUW2dbjBs2fQLhcmA&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4Q8tMDegQIDhAE",
+      "3": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=hV27aZjrA6PSkPIPzZ_C8QQ&start=20&sa=N&sstk=Af77f_f9U-Z9k0t8STlAKoxFItEPWkEA97CduBklableytHQvyGhTd5zYivq0RlLxOU90wD5qOdSZrtELNJvkzUW2dbjBs2fQLhcmA&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4Q8tMDegQIDhAG",
+      "4": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=hV27aZjrA6PSkPIPzZ_C8QQ&start=30&sa=N&sstk=Af77f_f9U-Z9k0t8STlAKoxFItEPWkEA97CduBklableytHQvyGhTd5zYivq0RlLxOU90wD5qOdSZrtELNJvkzUW2dbjBs2fQLhcmA&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4Q8tMDegQIDhAI",
+      "5": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=hV27aZjrA6PSkPIPzZ_C8QQ&start=40&sa=N&sstk=Af77f_f9U-Z9k0t8STlAKoxFItEPWkEA97CduBklableytHQvyGhTd5zYivq0RlLxOU90wD5qOdSZrtELNJvkzUW2dbjBs2fQLhcmA&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4Q8tMDegQIDhAK",
+      "6": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=hV27aZjrA6PSkPIPzZ_C8QQ&start=50&sa=N&sstk=Af77f_f9U-Z9k0t8STlAKoxFItEPWkEA97CduBklableytHQvyGhTd5zYivq0RlLxOU90wD5qOdSZrtELNJvkzUW2dbjBs2fQLhcmA&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4Q8tMDegQIDhAM",
+      "7": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=hV27aZjrA6PSkPIPzZ_C8QQ&start=60&sa=N&sstk=Af77f_f9U-Z9k0t8STlAKoxFItEPWkEA97CduBklableytHQvyGhTd5zYivq0RlLxOU90wD5qOdSZrtELNJvkzUW2dbjBs2fQLhcmA&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4Q8tMDegQIDhAO",
+      "8": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=hV27aZjrA6PSkPIPzZ_C8QQ&start=70&sa=N&sstk=Af77f_f9U-Z9k0t8STlAKoxFItEPWkEA97CduBklableytHQvyGhTd5zYivq0RlLxOU90wD5qOdSZrtELNJvkzUW2dbjBs2fQLhcmA&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4Q8tMDegQIDhAQ",
+      "9": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=hV27aZjrA6PSkPIPzZ_C8QQ&start=80&sa=N&sstk=Af77f_f9U-Z9k0t8STlAKoxFItEPWkEA97CduBklableytHQvyGhTd5zYivq0RlLxOU90wD5qOdSZrtELNJvkzUW2dbjBs2fQLhcmA&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4Q8tMDegQIDhAS",
+      "10": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=hV27aZjrA6PSkPIPzZ_C8QQ&start=90&sa=N&sstk=Af77f_f9U-Z9k0t8STlAKoxFItEPWkEA97CduBklableytHQvyGhTd5zYivq0RlLxOU90wD5qOdSZrtELNJvkzUW2dbjBs2fQLhcmA&ved=2ahUKEwjYwf6986qTAxUjKUQIHc2PME4Q8tMDegQIDhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Instagram&start=90"
+    }
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "search_metadata": {
+    "id": "69bb5cfd4fa3ba4587610c19",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rOvjnp9bTWaAU5ggjulI2w/69bb5cfd4fa3ba4587610c19.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/rOvjnp9bTWaAU5ggjulI2w/69bb5cfd4fa3ba4587610c19.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:37 UTC",
+    "processed_at": "2026-03-19 02:18:37 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/rOvjnp9bTWaAU5ggjulI2w/69bb5cfd4fa3ba4587610c19.html",
+    "total_time_taken": 3.33
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Justin Early for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Justin Early for US House TX-31? Include who that supporter works for.",
+    "total_results": 2920000,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Who are the biggest donors to Texas' U.S. Senate race ...",
+      "link": "https://www.houstonchronicle.com/politics/election/2026/article/texas-senate-campaign-donors-21345627.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.houstonchronicle.com/politics/election/2026/article/texas-senate-campaign-donors-21345627.php&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQFnoECB8QAQ",
+      "displayed_link": "https://www.houstonchronicle.com › ... › Election 2026",
+      "favicon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-shnrv2TbLeVenOyA0KQ5Bg.png",
+      "date": "Feb 12, 2026",
+      "snippet": "John Cornyn, Ken Paxton and Wesley Hunt are the Republicans vying for the job. Jasmine Crockett and James Talarico are the Democrats ...",
+      "about_this_result": {
+        "source": {
+          "description": "John Cornyn, Ken Paxton and Wesley Hunt are the Republicans vying for the job. Jasmine Crockett and James Talarico are the Democrats ...",
+          "source_info_link": "https://www.houstonchronicle.com/politics/election/2026/article/texas-senate-campaign-donors-21345627.php",
+          "icon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-itAiGyr1q50FST9hn1rPXo4xAJmTQO5zED9rFt8focc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.houstonchronicle.com/politics/election/2026/article/texas-senate-campaign-donors-21345627.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.houstonchronicle.com%2Fpolitics%2Felection%2F2026%2Farticle%2Ftexas-senate-campaign-donors-21345627.php",
+      "missing": [
+        "Justin"
+      ],
+      "must_include": {
+        "word": "Justin",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+%22Justin%22+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ5t4CegQIMhAB"
+      },
+      "source": "Houston Chronicle"
+    },
+    {
+      "position": 2,
+      "title": "My name is Justin Early, Democratic Candidate for ...",
+      "link": "https://www.facebook.com/groups/583055919002022/posts/1773569213284014/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/583055919002022/posts/1773569213284014/&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQFnoECC0QAQ",
+      "displayed_link": "7 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-oeUXUQ2RAHdEGo4NfIltCU.png",
+      "snippet": "Progress Texas identified young voters as the way forward for Texas Democrats (http: //progresstexas.org/blog/special-report-flipping- texas- ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Texas",
+        "texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Progress Texas identified young voters as the way forward for Texas Democrats (http: //progresstexas.org/blog/special-report-flipping- texas\n- ...",
+          "source_info_link": "https://www.facebook.com/groups/583055919002022/posts/1773569213284014/",
+          "icon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-jQPtyQwI5A7r5cZbjtM0_iLoYuwKXRRL5uXcVe-EYIJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/583055919002022/posts/1773569213284014/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F583055919002022%2Fposts%2F1773569213284014%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ5t4CegQIMxAB"
+      },
+      "source": "Facebook · Democrats of Woodway and Hewitt"
+    },
+    {
+      "position": 3,
+      "title": "EARLY, JUSTIN - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H6TX31094/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H6TX31094/&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQFnoECCIQAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H6TX31094",
+      "favicon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-vxzd7tPd92rV5vLNRMWi5U.png",
+      "snippet": "EARLY, JUSTIN, Candidate for House Texas - 31, ID: H6TX31094, DEMOCRATIC PARTY, Financial summary, Election 2026, Time period: 2025–2026.",
+      "snippet_highlighted_words": [
+        "EARLY",
+        "JUSTIN",
+        "House",
+        "Texas",
+        "31",
+        "Financial"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "EARLY, JUSTIN, Candidate for House Texas - 31, ID: H6TX31094, DEMOCRATIC PARTY, Financial summary, Election 2026, Time period: 2025–2026.",
+          "source_info_link": "https://www.fec.gov/data/candidate/H6TX31094/",
+          "icon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-nRBJlhn_MED0L5Nki7uQ-hi8P1o6uuk3Z6Oz7IkNlgQ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H6TX31094/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH6TX31094%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ5t4CegQIMRAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 4,
+      "title": "Steven Dowell (Texas)",
+      "link": "https://ballotpedia.org/Steven_Dowell_(Texas)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Steven_Dowell_(Texas)&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQFnoECB4QAQ",
+      "displayed_link": "https://ballotpedia.org › Steven_Dowell_(Texas)",
+      "favicon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-uvcBXhAj--0BrdxAju4LOg.png",
+      "snippet": "His career experience includes working as a military officer and business strategist. Texas' 31st Congressional District election, 2026 (March 3 Republican ...",
+      "snippet_highlighted_words": [
+        "includes working",
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "His career experience includes working as a military officer and business strategist. Texas' 31st Congressional District election, 2026 (March 3 Republican ...",
+          "source_info_link": "https://ballotpedia.org/Steven_Dowell_(Texas)",
+          "icon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-ozH9-Iqe6aIbhfbWd1LVePM_0OG-hpfMCWsqw8OMHfr.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Steven_Dowell_(Texas)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FSteven_Dowell_%28Texas%29",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 5,
+      "title": "Fundraising in Texas' 31st Congressional District",
+      "link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quiverquant.com/election-fundraising/house/TX/31&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQFnoECCAQAQ",
+      "displayed_link": "https://www.quiverquant.com › house",
+      "favicon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-gnYWqlz9PPXsnLEmKuELAU.png",
+      "snippet": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+          "source_info_link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+          "icon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-jEmtt6424pgDyLryuJHGNjL6omzr3JW3g42FtzEUT6Q.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quiverquant.com/election-fundraising/house/TX/31&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quiverquant.com%2Felection-fundraising%2Fhouse%2FTX%2F31",
+      "missing": [
+        "financial"
+      ],
+      "must_include": {
+        "word": "financial",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+%22financial%22+supporter+of+Justin+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ5t4CegQINBAB"
+      },
+      "source": "Quiver Quantitative"
+    },
+    {
+      "position": 6,
+      "title": "Jeff Yass",
+      "link": "https://en.wikipedia.org/wiki/Jeff_Yass",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Jeff_Yass&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQFnoECB0QAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Jeff_Yass",
+      "favicon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-oFN7-DudqQNSvQ4UuBprvM.png",
+      "snippet": "Jeffrey Steven Yass (born July 1958) is an American billionaire businessman. According to Forbes, Yass has a net worth of US$65 billion as of December 2025, ...",
+      "snippet_highlighted_words": [
+        "US"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jeffrey Steven Yass (born July 1958) is an American billionaire businessman. According to Forbes, Yass has a net worth of US$65 billion as of December 2025, ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Jeff_Yass",
+          "icon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-pNdnwtdG1DyUxLfWaFmlHT31N-Mx_nq8n8HaJYwMGYh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Jeff_Yass&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJeff_Yass",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 7,
+      "title": "March 2026 Primary Election Endorsements for the Austin ...",
+      "link": "https://www.austinchronicle.com/news/march-2026-primary-election-endorsements/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.austinchronicle.com/news/march-2026-primary-election-endorsements/&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQFnoECCEQAQ",
+      "displayed_link": "https://www.austinchronicle.com › news › march-2026-...",
+      "favicon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-mn6Kf-M_DqP17YVx8uNTEU.png",
+      "date": "Feb 12, 2026",
+      "snippet": "The Chronicle Editorial Board provides the following endorsements to Democrats in advance of early voting (Feb. 17 through Feb.",
+      "snippet_highlighted_words": [
+        "early"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Chronicle Editorial Board provides the following endorsements to Democrats in advance of early voting (Feb. 17 through Feb.",
+          "source_info_link": "https://www.austinchronicle.com/news/march-2026-primary-election-endorsements/",
+          "icon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-loYYYkalmNMZikYlOmQCGsNxFGK2oVIoJ3h3EQapV_d.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.austinchronicle.com/news/march-2026-primary-election-endorsements/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.austinchronicle.com%2Fnews%2Fmarch-2026-primary-election-endorsements%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ5t4CegQIMBAB"
+      },
+      "source": "The Austin Chronicle"
+    },
+    {
+      "position": 8,
+      "title": "Donors and Members",
+      "link": "https://support.texastribune.org/members",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.texastribune.org/members&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQFnoECD4QAQ",
+      "displayed_link": "https://support.texastribune.org › members",
+      "favicon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-jzfW_hsBU4h7n2O19LZ674.png",
+      "snippet": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+      "snippet_highlighted_words": [
+        "donations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+          "source_info_link": "https://support.texastribune.org/members",
+          "icon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-pfyvoStlER1ZkbL5JZ6DV60Egw8cuW5waabx5oOnPT-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://support.texastribune.org/members&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsupport.texastribune.org%2Fmembers",
+      "missing": [
+        "31?"
+      ],
+      "must_include": {
+        "word": "31?",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-+%2231?%22+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ5t4CegQIRhAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 9,
+      "title": "I am proud to be running for Congress in Texas's 31st ...",
+      "link": "https://www.tiktok.com/@votejustinearly/video/7607612606400007454",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40votejustinearly/video/7607612606400007454&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQFnoECD8QAQ",
+      "displayed_link": "1.2K+ views · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-n9El6UWWorRe9IQQWUa_jY.png",
+      "snippet": "Learn More about Me: www.VoteJustinEarly.com #JustinEarlyForCongress #TexasDistrict31 #ProgressiveLeadership #VoteTexas #TX31 #CommunityFirst ...",
+      "snippet_highlighted_words": [
+        "VoteJustinEarly",
+        "JustinEarlyForCongress",
+        "TX31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Learn More about Me: www.VoteJustinEarly.com #JustinEarlyForCongress #TexasDistrict31 #ProgressiveLeadership #VoteTexas #TX31 #CommunityFirst ...",
+          "source_info_link": "https://www.tiktok.com/@votejustinearly/video/7607612606400007454",
+          "icon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-sE99l8GFPia32UOmvxW29_dVTXslUK_cugTpDFQiZud.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tiktok.com/@votejustinearly/video/7607612606400007454&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tiktok.com%2F%40votejustinearly%2Fvideo%2F7607612606400007454",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ5t4CegQISBAB"
+      },
+      "source": "TikTok · Justin Early"
+    },
+    {
+      "position": 10,
+      "title": "Meet The Candidates: Justin Early For Texas ...",
+      "link": "https://www.lonestarleft.com/p/meet-the-candidates-justin-early",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lonestarleft.com/p/meet-the-candidates-justin-early&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQFnoECEEQAQ",
+      "displayed_link": "https://www.lonestarleft.com › meet-the-candidates-justi...",
+      "favicon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-meTXjq_fPlky7jYbtSfDas.jpeg",
+      "date": "Jan 25, 2026",
+      "snippet": "If you're a Democratic candidate in a competitive primary and haven't already reached out, feel free to do so. Who is Justin Early? Justin Early ...",
+      "snippet_highlighted_words": [
+        "Justin Early",
+        "Justin Early"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you're a Democratic candidate in a competitive primary and haven't already reached out, feel free to do so. Who is Justin Early? Justin Early\n ...",
+          "source_info_link": "https://www.lonestarleft.com/p/meet-the-candidates-justin-early",
+          "icon": "https://serpapi.com/searches/69bb5cfd4fa3ba4587610c19/images/NvMYuhfecTPmvcN7r5FH-g6VFf2WtP8Sx9E67LkjOyjXYWlEZlIW1OwYPG-j30_t.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.lonestarleft.com/p/meet-the-candidates-justin-early&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.lonestarleft.com%2Fp%2Fmeet-the-candidates-justin-early",
+      "missing": [
+        "donor",
+        "financial"
+      ],
+      "source": "Lone Star Left"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "James Talarico donors",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=James+Talarico+donors&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+Talarico+donors"
+    },
+    {
+      "block_position": 1,
+      "query": "31st Congressional District candidates",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=31st+Congressional+District+candidates&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=31st+Congressional+District+candidates"
+    },
+    {
+      "block_position": 1,
+      "query": "Talarico vs Crockett polls",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Talarico+vs+Crockett+polls&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Talarico+vs+Crockett+polls"
+    },
+    {
+      "block_position": 1,
+      "query": "Abhiram Garapati",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Abhiram+Garapati&sa=X&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=AF27aaLYJ8eCp84PzuW1mQk&start=10&sa=N&sstk=Af77f_droTuuD1r_EWa5Kb_Ri8yGdlC-OWOm9GVuXEEfGiUQM_XiBHTSSJ3v1k-3ISzuhAIfjwX09jok98gZ36lcF2H-dzTb0d9_Ng&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ8NMDegQIEBAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=AF27aaLYJ8eCp84PzuW1mQk&start=10&sa=N&sstk=Af77f_droTuuD1r_EWa5Kb_Ri8yGdlC-OWOm9GVuXEEfGiUQM_XiBHTSSJ3v1k-3ISzuhAIfjwX09jok98gZ36lcF2H-dzTb0d9_Ng&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ8tMDegQIEBAE",
+      "3": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=AF27aaLYJ8eCp84PzuW1mQk&start=20&sa=N&sstk=Af77f_droTuuD1r_EWa5Kb_Ri8yGdlC-OWOm9GVuXEEfGiUQM_XiBHTSSJ3v1k-3ISzuhAIfjwX09jok98gZ36lcF2H-dzTb0d9_Ng&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ8tMDegQIEBAG",
+      "4": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=AF27aaLYJ8eCp84PzuW1mQk&start=30&sa=N&sstk=Af77f_droTuuD1r_EWa5Kb_Ri8yGdlC-OWOm9GVuXEEfGiUQM_XiBHTSSJ3v1k-3ISzuhAIfjwX09jok98gZ36lcF2H-dzTb0d9_Ng&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ8tMDegQIEBAI",
+      "5": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=AF27aaLYJ8eCp84PzuW1mQk&start=40&sa=N&sstk=Af77f_droTuuD1r_EWa5Kb_Ri8yGdlC-OWOm9GVuXEEfGiUQM_XiBHTSSJ3v1k-3ISzuhAIfjwX09jok98gZ36lcF2H-dzTb0d9_Ng&ved=2ahUKEwii2Oz-8qqTAxVHwckDHc5yLZMQ8tMDegQIEBAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Justin+Early+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=40"
+    }
+  }
+}

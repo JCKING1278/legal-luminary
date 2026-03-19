@@ -1,0 +1,63 @@
+{
+  "search_metadata": {
+    "id": "69bb5e7fd3982c3c261a5108",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/26xzRcoqqevKxY6XLK0yPA/69bb5e7fd3982c3c261a5108.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/26xzRcoqqevKxY6XLK0yPA/69bb5e7fd3982c3c261a5108.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:03 UTC",
+    "processed_at": "2026-03-19 02:25:03 UTC",
+    "google_url": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Instagram&oq=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/26xzRcoqqevKxY6XLK0yPA/69bb5e7fd3982c3c261a5108.html",
+    "total_time_taken": 1.06
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Riakos Adams \"Killeen Council At-Large\" \"Killeen\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Riakos Adams \"Killeen Council At-Large\" \"Killeen\" Instagram",
+    "total_results": 1,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Mobile lemonade and coffee bar to host grand-opening ...",
+      "link": "https://kdhnews.com/news/local/mobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday/article_174d55fb-3d0a-4eb1-a262-5fba192fec21.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/mobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday/article_174d55fb-3d0a-4eb1-a262-5fba192fec21.html&ved=2ahUKEwjQjMy19KqTAxVrEVkFHbXiCPQQFnoECBgQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › mobile-lemonade...",
+      "favicon": "https://serpapi.com/searches/69bb5e7fd3982c3c261a5108/images/-WA2f09KcLGTRFQJsuBPXYVLgiS26pBhNTpMdNkuXtU.png",
+      "date": "Jan 14, 2026",
+      "snippet": "Beverly Williams files for Killeen council at-large election ... Killeen Mayor Pro Tem Riakos Adams sat down with Inside Killeen last ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen",
+        "Riakos Adams",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Beverly Williams files for Killeen council at-large election ... Killeen Mayor Pro Tem Riakos Adams sat down with Inside Killeen last ...",
+          "source_info_link": "https://kdhnews.com/news/local/mobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday/article_174d55fb-3d0a-4eb1-a262-5fba192fec21.html",
+          "icon": "https://serpapi.com/searches/69bb5e7fd3982c3c261a5108/images/-WA2f09KcLGTRFQJsuBPXXFc71ZfsNWFIHSD-Z4lBVuYaKX8qOKRJQcblogd9Rrh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/mobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday/article_174d55fb-3d0a-4eb1-a262-5fba192fec21.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fmobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday%2Farticle_174d55fb-3d0a-4eb1-a262-5fba192fec21.html",
+      "source": "The Killeen Daily Herald"
+    }
+  ]
+}

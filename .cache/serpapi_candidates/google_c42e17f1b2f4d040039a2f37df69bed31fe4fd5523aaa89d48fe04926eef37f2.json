@@ -1,0 +1,378 @@
+{
+  "search_metadata": {
+    "id": "69bb5e2fcbcccfa247702cbc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-a-FRxJgUb0fyvEvlZx9YQ/69bb5e2fcbcccfa247702cbc.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-a-FRxJgUb0fyvEvlZx9YQ/69bb5e2fcbcccfa247702cbc.json_with_pixel_position",
+    "created_at": "2026-03-19 02:23:43 UTC",
+    "processed_at": "2026-03-19 02:23:43 UTC",
+    "google_url": "https://www.google.com/search?q=Jack+McConnell+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Jack+McConnell+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-a-FRxJgUb0fyvEvlZx9YQ/69bb5e2fcbcccfa247702cbc.html",
+    "total_time_taken": 2.55
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Jack McConnell \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Jack McConnell \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 105000,
+    "time_taken_displayed": 0.84,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Jack McConnell US House TX-31 Central Texas Facebook",
+    "spelling_fix": "Jack McConnell US House TX-31 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Jack McConnell for Chief of Staff, TX-31 (@jackfortexas)",
+      "link": "https://www.facebook.com/jackfortexas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jackfortexas/&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQFnoECB8QAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc7Q6qjEqbGhl2gBc0aOpxgw.png",
+      "snippet": "Jack McConnell for Chief of Staff, TX-31. 1844 likes. Serving as Campaign Manager and Prospective Chief of Staff for Abhiram Garapati for Congress,...",
+      "snippet_highlighted_words": [
+        "Jack McConnell",
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jack McConnell for Chief of Staff, TX-31. 1844 likes. Serving as Campaign Manager and Prospective Chief of Staff for Abhiram Garapati for Congress,...",
+          "source_info_link": "https://www.facebook.com/jackfortexas/",
+          "icon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc1nKHKT4sjyiXBqx3TqGhbVe5LdwmceLQIuLFdcz7huW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jackfortexas/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjackfortexas%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jack+McConnell+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ5t4CegQIMBAB"
+      },
+      "source": "Facebook · Jack McConnell for Chief of Staff, TX-31"
+    },
+    {
+      "position": 2,
+      "title": "Trooper and now Special Agent DJ Daniel is truly an ...",
+      "link": "https://www.facebook.com/jackfortexas/posts/trooper-and-now-special-agent-dj-daniel-is-truly-an-inspiration-i-never-was-and-/954778796837652/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jackfortexas/posts/trooper-and-now-special-agent-dj-daniel-is-truly-an-inspiration-i-never-was-and-/954778796837652/&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQFnoECCAQAQ",
+      "displayed_link": "120+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffncyceFNNGLit6gqbxkMbfdYc.png",
+      "snippet": "Trooper and now Special Agent DJ Daniel is truly an inspiration! I never was, and I have never seen, such a well-spoken and brave young man ...",
+      "about_this_result": {
+        "source": {
+          "description": "Trooper and now Special Agent DJ Daniel is truly an inspiration! I never was, and I have never seen, such a well-spoken and brave young man ...",
+          "source_info_link": "https://www.facebook.com/jackfortexas/posts/trooper-and-now-special-agent-dj-daniel-is-truly-an-inspiration-i-never-was-and-/954778796837652/",
+          "icon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc1wjQVuT2wdIZBv9WKXccJxKBjO6Smj-SwsQto-rAOOY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jackfortexas/posts/trooper-and-now-special-agent-dj-daniel-is-truly-an-inspiration-i-never-was-and-/954778796837652/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjackfortexas%2Fposts%2Ftrooper-and-now-special-agent-dj-daniel-is-truly-an-inspiration-i-never-was-and-%2F954778796837652%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jack+McConnell+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ5t4CegQINBAB"
+      },
+      "source": "Facebook · Jack McConnell for Chief of Staff, TX-31"
+    },
+    {
+      "position": 3,
+      "title": "More than a dozen candidates have indicated they may run to ...",
+      "link": "https://www.facebook.com/kdhnews/posts/more-than-a-dozen-candidates-have-indicated-they-may-run-to-represent-killeen-in/1386083510132466/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/more-than-a-dozen-candidates-have-indicated-they-may-run-to-represent-killeen-in/1386083510132466/&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQFnoECB0QAQ",
+      "displayed_link": "https://www.facebook.com › kdhnews › posts › more-t...",
+      "favicon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc6bKGHuzJcLgjyZtKLJSxxQ.png",
+      "snippet": "Jack McConnell for Chief of Staff, TX-31. Since suspending my campaign, I have endorsed Mr. Abhiram Garapati, and I will have the privilege of serving this ...",
+      "snippet_highlighted_words": [
+        "Jack McConnell",
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jack McConnell for Chief of Staff, TX-31. Since suspending my campaign, I have endorsed Mr. Abhiram Garapati, and I will have the privilege of serving this ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/more-than-a-dozen-candidates-have-indicated-they-may-run-to-represent-killeen-in/1386083510132466/",
+          "icon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnczWeWxuopjnUs8s3C6teIAdp8NWYDpTV0VqZ9YecTk4U.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/more-than-a-dozen-candidates-have-indicated-they-may-run-to-represent-killeen-in/1386083510132466/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fmore-than-a-dozen-candidates-have-indicated-they-may-run-to-represent-killeen-in%2F1386083510132466%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 4,
+      "title": "Jack McConnell",
+      "link": "https://ballotpedia.org/Jack_McConnell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Jack_McConnell&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQFnoECB4QAQ",
+      "displayed_link": "https://ballotpedia.org › Jack_McConnell",
+      "favicon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc7mlQ0f369lNJWUnTek088Y.png",
+      "snippet": "General election. The candidate list in this election may not be complete. General election for U.S. House Texas District 31. Incumbent John ...",
+      "snippet_highlighted_words": [
+        "U.S. House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "General election. The candidate list in this election may not be complete. General election for U.S. House Texas District 31. Incumbent John ...",
+          "source_info_link": "https://ballotpedia.org/Jack_McConnell",
+          "icon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc72QYmGnacm8IA8oO73xeAKXck0kHb-nHYnnyG0QDH7g.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Jack_McConnell&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FJack_McConnell",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jack+McConnell+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ5t4CegQILhAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 5,
+      "title": "Round Rock, Texas",
+      "link": "https://www.facebook.com/roundrock/posts/putting-in-the-work-recently-round-rock-hosted-a-regional-fire-training-exercise/1031574749015728/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/roundrock/posts/putting-in-the-work-recently-round-rock-hosted-a-regional-fire-training-exercise/1031574749015728/&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQFnoECBwQAQ",
+      "displayed_link": "https://www.facebook.com › roundrock › posts › puttin...",
+      "favicon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc8a0y0hLEl55kwcQLX4dTr8.png",
+      "snippet": "Jack McConnell for Chief of Staff, TX-31. Thank you all for serving Central Texas communities!. 10 mos. Profile photo of Thomas. Thomas Stcin. Thank you ...",
+      "snippet_highlighted_words": [
+        "Jack McConnell",
+        "TX",
+        "31",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jack McConnell for Chief of Staff, TX-31. Thank you all for serving Central Texas communities!. 10 mos. Profile photo of Thomas. Thomas Stcin. Thank you ...",
+          "source_info_link": "https://www.facebook.com/roundrock/posts/putting-in-the-work-recently-round-rock-hosted-a-regional-fire-training-exercise/1031574749015728/",
+          "icon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc1ev9Difcj4wj7pwFscV4czrUmcVXHibMpijm672fdEP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/roundrock/posts/putting-in-the-work-recently-round-rock-hosted-a-regional-fire-training-exercise/1031574749015728/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Froundrock%2Fposts%2Fputting-in-the-work-recently-round-rock-hosted-a-regional-fire-training-exercise%2F1031574749015728%2F",
+      "missing": [
+        "House"
+      ],
+      "must_include": {
+        "word": "House",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jack+McConnell+US+%22House%22+TX-31+Central+Texas+Facebook&sa=X&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ5t4CegQILxAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 6,
+      "title": "have announced they will not seek re-election to their ...",
+      "link": "https://www.facebook.com/Ballotpedia/posts/65-members-of-the-us-congress-ten-us-senate-members-and-55-us-house-members-have/1391513816351457/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Ballotpedia/posts/65-members-of-the-us-congress-ten-us-senate-members-and-55-us-house-members-have/1391513816351457/&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQFnoECCoQAQ",
+      "displayed_link": "20+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc0T515WWm4fo4yMvqzYBeI4.png",
+      "snippet": "65 members of the U.S. Congress — ten U.S. Senate members and 55 U.S. House members — have announced they will not seek re-election to their ...",
+      "snippet_highlighted_words": [
+        "U.S.",
+        "U.S.",
+        "U.S. House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "65 members of the U.S. Congress — ten U.S. Senate members and 55 U.S. House members — have announced they will not seek re-election to their ...",
+          "source_info_link": "https://www.facebook.com/Ballotpedia/posts/65-members-of-the-us-congress-ten-us-senate-members-and-55-us-house-members-have/1391513816351457/",
+          "icon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc8YKYYEVpAXBMuAHNED7h12HHq-kagGUVwRUcvynyVFm.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Ballotpedia/posts/65-members-of-the-us-congress-ten-us-senate-members-and-55-us-house-members-have/1391513816351457/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBallotpedia%2Fposts%2F65-members-of-the-us-congress-ten-us-senate-members-and-55-us-house-members-have%2F1391513816351457%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jack+McConnell+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ5t4CegQINRAB"
+      },
+      "source": "Facebook · Ballotpedia"
+    },
+    {
+      "position": 7,
+      "title": "House Judiciary Recorded Stream: 02/11/2026 at 5:00 a.m. ...",
+      "link": "https://www.congress.gov/committees/video/house-judiciary/hsju00/y-a21mymUrE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/committees/video/house-judiciary/hsju00/y-a21mymUrE&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQFnoECDEQAQ",
+      "displayed_link": "https://www.congress.gov › house-judiciary › hsju00",
+      "favicon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc5aMnQ2Cx-EDlv3c7oaV5hs.png",
+      "snippet": "House Judiciary Committee Hearings and Meetings Video. « Back to Committee Video. Oversight of the U.S. Department of Justice. 02/11/2026 at 5:00 a.m.",
+      "snippet_highlighted_words": [
+        "House",
+        "U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "House Judiciary Committee Hearings and Meetings Video. « Back to Committee Video. Oversight of the U.S. Department of Justice. 02/11/2026 at 5:00 a.m.",
+          "source_info_link": "https://www.congress.gov/committees/video/house-judiciary/hsju00/y-a21mymUrE",
+          "icon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffncx3NKfuH1QM5RhjNy5kh37YsJLRTX6wpTmiiC4QcW9cB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/committees/video/house-judiciary/hsju00/y-a21mymUrE&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2Fcommittees%2Fvideo%2Fhouse-judiciary%2Fhsju00%2Fy-a21mymUrE",
+      "source": "Congress.gov"
+    },
+    {
+      "position": 8,
+      "title": "Democrat enters Texas' 31st Congressional District race",
+      "link": "https://www.wilcosun.com/news-georgetown/democrat-enters-texas-31st-congressional-district-race",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wilcosun.com/news-georgetown/democrat-enters-texas-31st-congressional-district-race&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQFnoECEAQAQ",
+      "displayed_link": "https://www.wilcosun.com › news-georgetown",
+      "favicon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc2ojQG9SnTnrSJvFbocE31s.png",
+      "date": "Jul 28, 2025",
+      "snippet": "He is joined by candidate Caitlin McClay Rourk on the Democratic primary ballot. The election will take place March 3, 2026. The seat is ...",
+      "about_this_result": {
+        "source": {
+          "description": "He is joined by candidate Caitlin McClay Rourk on the Democratic primary ballot. The election will take place March 3, 2026. The seat is ...",
+          "source_info_link": "https://www.wilcosun.com/news-georgetown/democrat-enters-texas-31st-congressional-district-race",
+          "icon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffncwqJkDbNAW8e7BRbx6UtXJVH-Y63uOjapNDZDYmdqw4f.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.wilcosun.com/news-georgetown/democrat-enters-texas-31st-congressional-district-race&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.wilcosun.com%2Fnews-georgetown%2Fdemocrat-enters-texas-31st-congressional-district-race",
+      "source": "Williamson County Sun"
+    },
+    {
+      "position": 9,
+      "title": "Lennox: Air Conditioning and Heating Solutions",
+      "link": "https://www.lennox.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lennox.com/&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQFnoECDoQAQ",
+      "displayed_link": "https://www.lennox.com",
+      "favicon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc4QSQy8rbOewF_mChDkpKHg.png",
+      "snippet": "Explore Lennox comfort and energy-efficient solutions for heating and cooling your space. Upgrade your home's HVAC system with industry-leading solutions.",
+      "snippet_highlighted_words": [
+        "home's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Explore Lennox comfort and energy-efficient solutions for heating and cooling your space. Upgrade your home's HVAC system with industry-leading solutions.",
+          "source_info_link": "https://www.lennox.com/",
+          "icon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc9p8JMJKiXOyAnogw0pFCe2lQcPyQDw5TBwc9gotkemq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.lennox.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.lennox.com%2F",
+      "source": "Lennox"
+    },
+    {
+      "position": 10,
+      "title": "Rep. Greg Casar had some questions for John Cornyn",
+      "link": "https://www.facebook.com/democrats/posts/rep-greg-casar-had-some-questions-for-john-cornyn/1559237452229859/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/democrats/posts/rep-greg-casar-had-some-questions-for-john-cornyn/1559237452229859/&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQFnoECDsQAQ",
+      "displayed_link": "3.2K+ reactions · 2 days ago",
+      "favicon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc0b063QmqgaUkIX0-PN2nHY.png",
+      "snippet": "A party has proposed to fund all areas but ICE so reform can be discussed. The other party says no as scared to address the serious ICE reforms ...",
+      "about_this_result": {
+        "source": {
+          "description": "A party has proposed to fund all areas but ICE so reform can be discussed. The other party says no as scared to address the serious ICE reforms ...",
+          "source_info_link": "https://www.facebook.com/democrats/posts/rep-greg-casar-had-some-questions-for-john-cornyn/1559237452229859/",
+          "icon": "https://serpapi.com/searches/69bb5e2fcbcccfa247702cbc/images/s2mxCK3lSOb_cy1xuffnc-XR1gWm81NokChs0TFYVNdfKFfZarsbvCusmNJwLQIi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/democrats/posts/rep-greg-casar-had-some-questions-for-john-cornyn/1559237452229859/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fdemocrats%2Fposts%2Frep-greg-casar-had-some-questions-for-john-cornyn%2F1559237452229859%2F",
+      "source": "Facebook · Democrats"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=MF67abGpMPK2wN4PrsCVmAU&start=10&sa=N&sstk=Af77f_e9q1tkShtdBfL1l4xdwHqJOOLlLbd9hrgVtQJ1d6JXuJmfNZzNuUf_vdghwQ2r-1feVHuDoeTuhBMRpA6shXPvX8na7fxFWA&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ8NMDegQIDhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=MF67abGpMPK2wN4PrsCVmAU&start=10&sa=N&sstk=Af77f_e9q1tkShtdBfL1l4xdwHqJOOLlLbd9hrgVtQJ1d6JXuJmfNZzNuUf_vdghwQ2r-1feVHuDoeTuhBMRpA6shXPvX8na7fxFWA&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ8tMDegQIDhAE",
+      "3": "https://www.google.com/search?q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=MF67abGpMPK2wN4PrsCVmAU&start=20&sa=N&sstk=Af77f_e9q1tkShtdBfL1l4xdwHqJOOLlLbd9hrgVtQJ1d6JXuJmfNZzNuUf_vdghwQ2r-1feVHuDoeTuhBMRpA6shXPvX8na7fxFWA&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ8tMDegQIDhAG",
+      "4": "https://www.google.com/search?q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=MF67abGpMPK2wN4PrsCVmAU&start=30&sa=N&sstk=Af77f_e9q1tkShtdBfL1l4xdwHqJOOLlLbd9hrgVtQJ1d6JXuJmfNZzNuUf_vdghwQ2r-1feVHuDoeTuhBMRpA6shXPvX8na7fxFWA&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ8tMDegQIDhAI",
+      "5": "https://www.google.com/search?q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=MF67abGpMPK2wN4PrsCVmAU&start=40&sa=N&sstk=Af77f_e9q1tkShtdBfL1l4xdwHqJOOLlLbd9hrgVtQJ1d6JXuJmfNZzNuUf_vdghwQ2r-1feVHuDoeTuhBMRpA6shXPvX8na7fxFWA&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ8tMDegQIDhAK",
+      "6": "https://www.google.com/search?q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=MF67abGpMPK2wN4PrsCVmAU&start=50&sa=N&sstk=Af77f_e9q1tkShtdBfL1l4xdwHqJOOLlLbd9hrgVtQJ1d6JXuJmfNZzNuUf_vdghwQ2r-1feVHuDoeTuhBMRpA6shXPvX8na7fxFWA&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ8tMDegQIDhAM",
+      "7": "https://www.google.com/search?q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=MF67abGpMPK2wN4PrsCVmAU&start=60&sa=N&sstk=Af77f_e9q1tkShtdBfL1l4xdwHqJOOLlLbd9hrgVtQJ1d6JXuJmfNZzNuUf_vdghwQ2r-1feVHuDoeTuhBMRpA6shXPvX8na7fxFWA&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ8tMDegQIDhAO",
+      "8": "https://www.google.com/search?q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=MF67abGpMPK2wN4PrsCVmAU&start=70&sa=N&sstk=Af77f_e9q1tkShtdBfL1l4xdwHqJOOLlLbd9hrgVtQJ1d6JXuJmfNZzNuUf_vdghwQ2r-1feVHuDoeTuhBMRpA6shXPvX8na7fxFWA&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ8tMDegQIDhAQ",
+      "9": "https://www.google.com/search?q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=MF67abGpMPK2wN4PrsCVmAU&start=80&sa=N&sstk=Af77f_e9q1tkShtdBfL1l4xdwHqJOOLlLbd9hrgVtQJ1d6JXuJmfNZzNuUf_vdghwQ2r-1feVHuDoeTuhBMRpA6shXPvX8na7fxFWA&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ8tMDegQIDhAS",
+      "10": "https://www.google.com/search?q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=MF67abGpMPK2wN4PrsCVmAU&start=90&sa=N&sstk=Af77f_e9q1tkShtdBfL1l4xdwHqJOOLlLbd9hrgVtQJ1d6JXuJmfNZzNuUf_vdghwQ2r-1feVHuDoeTuhBMRpA6shXPvX8na7fxFWA&ved=2ahUKEwixgfCP9KqTAxVyG9AFHS5gBVMQ8tMDegQIDhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jack+McConnell+US+House+TX-31+Central+Texas+Facebook&start=90"
+    }
+  }
+}

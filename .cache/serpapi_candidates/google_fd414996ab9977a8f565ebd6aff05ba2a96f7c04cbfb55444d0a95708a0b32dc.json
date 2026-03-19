@@ -1,0 +1,355 @@
+{
+  "search_metadata": {
+    "id": "69bb5d58132583fbe0624529",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/J0i_B7S85_RJgzVm8ISiyQ/69bb5d58132583fbe0624529.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/J0i_B7S85_RJgzVm8ISiyQ/69bb5d58132583fbe0624529.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:08 UTC",
+    "processed_at": "2026-03-19 02:20:08 UTC",
+    "google_url": "https://www.google.com/search?q=Ernest+Wilkerson+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+Facebook&oq=Ernest+Wilkerson+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/J0i_B7S85_RJgzVm8ISiyQ/69bb5d58132583fbe0624529.html",
+    "total_time_taken": 2.57
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Ernest Wilkerson \"Bell County Commissioner P4\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Ernest Wilkerson \"Bell County Commissioner P4\" \"Central Texas\" Facebook",
+    "total_results": 25300,
+    "time_taken_displayed": 0.46,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Ernest Wilkerson Bell County Commissioner P4 Central Texas Facebook",
+    "spelling_fix": "Ernest Wilkerson Bell County Commissioner P4 Central Texas Facebook"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Proud to support my friend, Stuart Whitlow for Congress in the ...",
+      "link": "https://www.facebook.com/VoteErnest/videos/proud-to-support-my-friend-stuart-whitlow-for-congress-in-the-democratic-primary/937852525456907/",
+      "thumbnail": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/3UC7Asl8L-aNmHMwcqr4djLKI2lrbpNilcw7dsKlQ_I.jpeg",
+      "channel": "Ernest Wilkerson",
+      "platform": "Facebook"
+    },
+    {
+      "position": 2,
+      "title": "Early Voting starts today, #BellCounty! I'm here at the Lion's ...",
+      "link": "https://www.facebook.com/VoteErnest/videos/early-voting-reminder/1433027988482429/",
+      "thumbnail": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/9ukvTYTqkI6oBEN20JEpZaw81EucM5DJ6CeIe9xL8N0.jpeg",
+      "channel": "Ernest Wilkerson",
+      "platform": "Facebook"
+    },
+    {
+      "position": 3,
+      "title": "Here’s your quick Killeen–Fort Hood area news update for ...",
+      "link": "https://www.facebook.com/kdhnews/videos/heres-your-quick-killeenfort-hood-area-news-update-for-mar4-2026-read-more-at-kd/2402255240290228/",
+      "thumbnail": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/2HsRFNIIp7Wo0icIKQbDnIckPZf1x7ilVkZHDh2Foss.jpeg",
+      "channel": "Killeen Daily Herald",
+      "platform": "Facebook"
+    },
+    {
+      "position": 4,
+      "title": "Ernest Wilkerson, current CTC board member and former ...",
+      "link": "https://www.facebook.com/kdhnews/videos/ernest-wilkerson-current-ctc-board-member-and-former-killeen-councilman-makes-hi/1232675145660569/",
+      "thumbnail": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/lUyDdZ0D1mSGZcI643SrGVnNOVtVyK3N5I40mdhlG5Y.jpeg",
+      "channel": "Killeen Daily Herald",
+      "platform": "Facebook"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Ernest Wilkerson (@VoteErnest)",
+      "link": "https://www.facebook.com/VoteErnest/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/VoteErnest/&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4QFnoECCEQAQ",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEcNiFobg5_36KjvLiwRwsBA.png",
+      "snippet": "Ernest Wilkerson, Killeen. 732 likes · 51 talking about this. Central Texas College Trustee for Place 7, former Killeen City Councilmember, and Democrat...",
+      "snippet_highlighted_words": [
+        "Ernest Wilkerson",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ernest Wilkerson, Killeen. 732 likes · 51 talking about this. Central Texas College Trustee for Place 7, former Killeen City Councilmember, and Democrat...",
+          "source_info_link": "https://www.facebook.com/VoteErnest/",
+          "icon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEbxVpSDyzep8f-HSlpqwxczJQVh6grTA17G_XT2lz6nj.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/VoteErnest/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVoteErnest%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Ernest+Wilkerson+Bell+County+Commissioner+%22P4%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q5t4CegQIJhAB"
+      },
+      "source": "Facebook · Ernest Wilkerson"
+    },
+    {
+      "position": 2,
+      "title": "Ernest Wilkerson, a Central Texas College board member ...",
+      "link": "https://www.facebook.com/kdhnews/posts/ernest-wilkerson-a-central-texas-college-board-member-and-former-killeen-council/1473614201379396/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/ernest-wilkerson-a-central-texas-college-board-member-and-former-killeen-council/1473614201379396/&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4QFnoECCIQAQ",
+      "displayed_link": "440+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEf5N5CzGvHKsk4Z7B5IRaEs.png",
+      "snippet": "Ernest Wilkerson, a Central Texas College board member and former Killeen councilman, has unseated the incumbent to win the Democratic ...",
+      "snippet_highlighted_words": [
+        "Ernest Wilkerson",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ernest Wilkerson, a Central Texas College board member and former Killeen councilman, has unseated the incumbent to win the Democratic ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/ernest-wilkerson-a-central-texas-college-board-member-and-former-killeen-council/1473614201379396/",
+          "icon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEePl393KsUE-Ry8g4Fd59TEhNhM-9cYYIg7oMGoT0yZZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/ernest-wilkerson-a-central-texas-college-board-member-and-former-killeen-council/1473614201379396/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fernest-wilkerson-a-central-texas-college-board-member-and-former-killeen-council%2F1473614201379396%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Ernest+Wilkerson+Bell+County+Commissioner+%22P4%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q5t4CegQIKBAB"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Democratic Primary vote for Ernest Wilkerson Precinct 4 ...",
+      "link": "https://www.facebook.com/groups/338327592915100/posts/26596165656704602/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/338327592915100/posts/26596165656704602/&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4QFnoECB4QAQ",
+      "displayed_link": "2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEQwO1QMO1pG-T7-wOir7aL4.png",
+      "snippet": "Today's the day! Remember how Louie Minor handled Prairie Haynes in the road expansions plans. Hedge your bets - Democratic Primary vote for ...",
+      "about_this_result": {
+        "source": {
+          "description": "Today's the day! Remember how Louie Minor handled Prairie Haynes in the road expansions plans. Hedge your bets - Democratic Primary vote for ...",
+          "source_info_link": "https://www.facebook.com/groups/338327592915100/posts/26596165656704602/",
+          "icon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQES1liDRBbAM3vsygAJg-sx-yf7lkvWb69hAo-KzUXXfE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/338327592915100/posts/26596165656704602/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F338327592915100%2Fposts%2F26596165656704602%2F",
+      "source": "Facebook · Parrie Haynes Equestrian Center"
+    },
+    {
+      "position": 4,
+      "title": "Ernest Wilkerson",
+      "link": "https://www.facebook.com/VoteErnest/posts/885363694489859/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/VoteErnest/posts/885363694489859/&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4QFnoECDAQAQ",
+      "displayed_link": "2 reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEfn5RfbhdADF6Iocw5b8xn8.png",
+      "snippet": "Thank you all for your support, trust, and hard work in helping our campaign the Democratic nominee for Bell County Commissioner, Pct. 4.",
+      "snippet_highlighted_words": [
+        "Bell County Commissioner",
+        "4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Thank you all for your support, trust, and hard work in helping our campaign the Democratic nominee for Bell County Commissioner, Pct. 4.",
+          "source_info_link": "https://www.facebook.com/VoteErnest/posts/885363694489859/",
+          "icon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEfp3MXtrMTJ5xLOpDQ6L28PdbQdfbnL-G-4gotV2hXtW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/VoteErnest/posts/885363694489859/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVoteErnest%2Fposts%2F885363694489859%2F",
+      "missing": [
+        "P4",
+        "Central"
+      ],
+      "source": "Facebook · Ernest Wilkerson"
+    },
+    {
+      "position": 5,
+      "title": "and I'm proud to support him as he runs for Bell County ...",
+      "link": "https://www.facebook.com/WhitlowForCongress/videos/ernest_stuart_endorsement_2026_full_aspect_ratio_v1/923460836740689/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/WhitlowForCongress/videos/ernest_stuart_endorsement_2026_full_aspect_ratio_v1/923460836740689/&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4QFnoECDEQAQ",
+      "displayed_link": "10+ reactions · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEUjJeRC1wWUICgKyAuHgP28.png",
+      "snippet": "... Bell County Commissioner Precinct 4. I am running to flip TX-31 and fight for Central Texas families, and I know Ernest is ready to do the same.",
+      "snippet_highlighted_words": [
+        "Bell County Commissioner",
+        "4",
+        "Central Texas",
+        "Ernest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Bell County Commissioner Precinct 4. I am running to flip TX-31 and fight for Central Texas families, and I know Ernest is ready to do the same.",
+          "source_info_link": "https://www.facebook.com/WhitlowForCongress/videos/ernest_stuart_endorsement_2026_full_aspect_ratio_v1/923460836740689/",
+          "icon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQES60yxPEkXwspKTXXTY6z_wITPZZt9E7XIZQ5Bt6ZB6t.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/WhitlowForCongress/videos/ernest_stuart_endorsement_2026_full_aspect_ratio_v1/923460836740689/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FWhitlowForCongress%2Fvideos%2Fernest_stuart_endorsement_2026_full_aspect_ratio_v1%2F923460836740689%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Ernest+Wilkerson+Bell+County+Commissioner+%22P4%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q5t4CegQIOhAB"
+      },
+      "source": "Facebook · Stuart Whitlow for Congress"
+    },
+    {
+      "position": 6,
+      "title": "Ernest Wilkerson",
+      "link": "https://www.facebook.com/VoteErnest/posts/883954927964069/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/VoteErnest/posts/883954927964069/&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4QFnoECC8QAQ",
+      "displayed_link": "2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEZhSUQklB-l9tpNg16QGtC8.png",
+      "snippet": "Today is the day, #BellCounty! Get out and vote! Polls are open 7 AM - 7 PM! Find your polling location at: iwillvote.com.",
+      "about_this_result": {
+        "source": {
+          "description": "Today is the day, #BellCounty! Get out and vote! Polls are open 7 AM - 7 PM! Find your polling location at: iwillvote.com.",
+          "source_info_link": "https://www.facebook.com/VoteErnest/posts/883954927964069/",
+          "icon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQESIfbDGv3efjj-D51De7IMT4yXkDrV9GpStN-GC20XcR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/VoteErnest/posts/883954927964069/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVoteErnest%2Fposts%2F883954927964069%2F",
+      "missing": [
+        "Bell",
+        "Central"
+      ],
+      "source": "Facebook · Ernest Wilkerson"
+    },
+    {
+      "position": 7,
+      "title": "A message of gratitude from our newly nominated Bell ...",
+      "link": "https://www.facebook.com/bellcodems/posts/a-message-of-gratitude-from-our-newly-nominated-bell-county-commissioner-candida/1352326780270807/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/a-message-of-gratitude-from-our-newly-nominated-bell-county-commissioner-candida/1352326780270807/&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4QFnoECDcQAQ",
+      "displayed_link": "9 reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEZJTf1WehYhy3PREeIAzoYE.png",
+      "snippet": "Thank you all for your support, trust, and hard work in helping our campaign the Democratic nominee for Bell County Commissioner, Pct. 4.",
+      "snippet_highlighted_words": [
+        "Bell County Commissioner",
+        "4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Thank you all for your support, trust, and hard work in helping our campaign the Democratic nominee for Bell County Commissioner, Pct. 4.",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/a-message-of-gratitude-from-our-newly-nominated-bell-county-commissioner-candida/1352326780270807/",
+          "icon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEWRkzwLauCGwHeqwWCtFkbZrfIscnbsj4W7QlDIlJgHI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/a-message-of-gratitude-from-our-newly-nominated-bell-county-commissioner-candida/1352326780270807/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2Fa-message-of-gratitude-from-our-newly-nominated-bell-county-commissioner-candida%2F1352326780270807%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Ernest+Wilkerson+Bell+County+Commissioner+%22P4%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q5t4CegQIQRAB"
+      },
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 8,
+      "title": "Ernest - It's official: I'm running for County Commissioner ...",
+      "link": "https://www.facebook.com/VoteErnest/photos/its-official-im-running-for-county-commissioner-ive-lived-in-killeen-for-more-th/614320971594134/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/VoteErnest/photos/its-official-im-running-for-county-commissioner-ive-lived-in-killeen-for-more-th/614320971594134/&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4QFnoECDgQAQ",
+      "displayed_link": "40+ reactions · 11 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEc9KJBWU5JkTHuIJ5kPoMIo.png",
+      "snippet": "It's official: I'm running for County Commissioner! I've lived in #Killeen for more than 25 years and have a proven track record of getting ...",
+      "snippet_highlighted_words": [
+        "County Commissioner"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "It's official: I'm running for County Commissioner! I've lived in #Killeen for more than 25 years and have a proven track record of getting ...",
+          "source_info_link": "https://www.facebook.com/VoteErnest/photos/its-official-im-running-for-county-commissioner-ive-lived-in-killeen-for-more-th/614320971594134/",
+          "icon": "https://serpapi.com/searches/69bb5d58132583fbe0624529/images/IypX7-dQlVu1XQw881pQEVQZM2zgqVbbvC4dJ0x7JjSWt_1_6z7S8VGsyZB5XVuz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/VoteErnest/photos/its-official-im-running-for-county-commissioner-ive-lived-in-killeen-for-more-th/614320971594134/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVoteErnest%2Fphotos%2Fits-official-im-running-for-county-commissioner-ive-lived-in-killeen-for-more-th%2F614320971594134%2F",
+      "missing": [
+        "P4",
+        "Central"
+      ],
+      "source": "Facebook · Ernest Wilkerson"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Wl27ae6_BvncwN4Pmvux8QQ&start=10&sa=N&sstk=Af77f_dRQDAVgXaAdy5nIXIFC_OnOs58cVBNJd0Nfx5eguCyZx9v_5oHULvMvopfw5Ce6T_0bIzsktJAG89zykunbeiTVcyq_ifdWA&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q8NMDegQIChAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Wl27ae6_BvncwN4Pmvux8QQ&start=10&sa=N&sstk=Af77f_dRQDAVgXaAdy5nIXIFC_OnOs58cVBNJd0Nfx5eguCyZx9v_5oHULvMvopfw5Ce6T_0bIzsktJAG89zykunbeiTVcyq_ifdWA&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Wl27ae6_BvncwN4Pmvux8QQ&start=20&sa=N&sstk=Af77f_dRQDAVgXaAdy5nIXIFC_OnOs58cVBNJd0Nfx5eguCyZx9v_5oHULvMvopfw5Ce6T_0bIzsktJAG89zykunbeiTVcyq_ifdWA&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Wl27ae6_BvncwN4Pmvux8QQ&start=30&sa=N&sstk=Af77f_dRQDAVgXaAdy5nIXIFC_OnOs58cVBNJd0Nfx5eguCyZx9v_5oHULvMvopfw5Ce6T_0bIzsktJAG89zykunbeiTVcyq_ifdWA&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Wl27ae6_BvncwN4Pmvux8QQ&start=40&sa=N&sstk=Af77f_dRQDAVgXaAdy5nIXIFC_OnOs58cVBNJd0Nfx5eguCyZx9v_5oHULvMvopfw5Ce6T_0bIzsktJAG89zykunbeiTVcyq_ifdWA&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Wl27ae6_BvncwN4Pmvux8QQ&start=50&sa=N&sstk=Af77f_dRQDAVgXaAdy5nIXIFC_OnOs58cVBNJd0Nfx5eguCyZx9v_5oHULvMvopfw5Ce6T_0bIzsktJAG89zykunbeiTVcyq_ifdWA&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Wl27ae6_BvncwN4Pmvux8QQ&start=60&sa=N&sstk=Af77f_dRQDAVgXaAdy5nIXIFC_OnOs58cVBNJd0Nfx5eguCyZx9v_5oHULvMvopfw5Ce6T_0bIzsktJAG89zykunbeiTVcyq_ifdWA&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Wl27ae6_BvncwN4Pmvux8QQ&start=70&sa=N&sstk=Af77f_dRQDAVgXaAdy5nIXIFC_OnOs58cVBNJd0Nfx5eguCyZx9v_5oHULvMvopfw5Ce6T_0bIzsktJAG89zykunbeiTVcyq_ifdWA&ved=2ahUKEwju1MCp86qTAxV5LtAFHZp9LE4Q8tMDegQIChAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ernest+Wilkerson+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=70"
+    }
+  }
+}

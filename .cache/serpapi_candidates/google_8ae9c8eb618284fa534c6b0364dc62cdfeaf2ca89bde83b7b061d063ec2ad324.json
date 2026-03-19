@@ -1,0 +1,409 @@
+{
+  "search_metadata": {
+    "id": "69bb5dc65e34940aef1bd9a9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UTY0rrt4T9EPaGyT6FY8nQ/69bb5dc65e34940aef1bd9a9.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/UTY0rrt4T9EPaGyT6FY8nQ/69bb5dc65e34940aef1bd9a9.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:58 UTC",
+    "processed_at": "2026-03-19 02:21:58 UTC",
+    "google_url": "https://www.google.com/search?q=Dawn+Richardson+%22State+House+TX-54%22+%22Central+Texas%22+LinkedIn&oq=Dawn+Richardson+%22State+House+TX-54%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/UTY0rrt4T9EPaGyT6FY8nQ/69bb5dc65e34940aef1bd9a9.html",
+    "total_time_taken": 4.91
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Dawn Richardson \"State House TX-54\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Dawn Richardson \"State House TX-54\" \"Central Texas\" LinkedIn",
+    "total_results": 11300,
+    "time_taken_displayed": 0.45,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Dawn Richardson State House TX-54 Central Texas LinkedIn",
+    "spelling_fix": "Dawn Richardson State House TX-54 Central Texas LinkedIn"
+  },
+  "related_questions": [
+    {
+      "question": "Who is Dawn Richardson?",
+      "type": "featured_snippet",
+      "snippet": "Dawn Richardson (born April 19, 1964) is an American rock drummer, teacher, and writer of instructional books on percussion.",
+      "title": "Dawn Richardson - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Dawn_Richardson#:~:text=Dawn%20Richardson%20(born%20April%2019,of%20instructional%20books%20on%20percussion.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Dawn_Richardson",
+      "source_logo": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/SThWasssyWcXfVS2WoJ7AL9kWgDmn-XvE7ND_EBphbY.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUVzR6TFhsU09ERkdOMDFCY25wclZsQnZjMHBVYkhnMVJWRTVkRjloV0VGdE5VMHRVVTlrVW5oSFZYUnhUazU2Wmxod1QzZFpibGxaVVY5M2RERnNaRkF0ZFhSMkxYSnhlVWxwUzB4NlFsZEljVlZTU0habFpXOWhTRXhoTjBGdFVSSVdlV3d5TjJGaGVqaElaRTlSZFhJNFVITm1XSGxWUVJvaVFVcExURVp0VEZOWFdGZFRkWGxwYlhoWU1WTTNNVE42U0c1VFEwZEJiR2xsZHciLCJmY3YiOiIzIiwiZWkiOiJ5bDI3YWF6OEhkT1F1cjhQc2ZYeVVBIiwicWMiOiJDamhrWVhkdUlISnBZMmhoY21SemIyNGdjM1JoZEdVZ2FHOTFjMlVnZEhnZ05UUWdZMlZ1ZEhKaGJDQjBaWGhoY3lCc2FXNXJaV1JwYmhBQVlBRjlTbXNSUHciLCJxdWVzdGlvbiI6IldobyBpcyBEYXduIFJpY2hhcmRzb24/IiwibGsiOiJHaFozYUc4Z2FYTWdaR0YzYmlCeWFXTm9ZWEprYzI5dSIsImJzIjoiYy1NeTR4SVB6OGhYeUN4V2NFa3N6MU1JeWt6T1NDeEtLYzdQczVmWWJHZ2tJU1ZXRHBGTkFja1d3V1VGR0FFIiwiaWQiOiJmY195bDI3YWF6OEhkT1F1cjhQc2ZYeVVBXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUVzR6TFhsU09ERkdOMDFCY25wclZsQnZjMHBVYkhnMVJWRTVkRjloV0VGdE5VMHRVVTlrVW5oSFZYUnhUazU2Wmxod1QzZFpibGxaVVY5M2RERnNaRkF0ZFhSMkxYSnhlVWxwUzB4NlFsZEljVlZTU0habFpXOWhTRXhoTjBGdFVSSVdlV3d5TjJGaGVqaElaRTlSZFhJNFVITm1XSGxWUVJvaVFVcExURVp0VEZOWFdGZFRkWGxwYlhoWU1WTTNNVE42U0c1VFEwZEJiR2xsZHciLCJmY3YiOiIzIiwiZWkiOiJ5bDI3YWF6OEhkT1F1cjhQc2ZYeVVBIiwicWMiOiJDamhrWVhkdUlISnBZMmhoY21SemIyNGdjM1JoZEdVZ2FHOTFjMlVnZEhnZ05UUWdZMlZ1ZEhKaGJDQjBaWGhoY3lCc2FXNXJaV1JwYmhBQVlBRjlTbXNSUHciLCJxdWVzdGlvbiI6IldobyBpcyBEYXduIFJpY2hhcmRzb24%2FIiwibGsiOiJHaFozYUc4Z2FYTWdaR0YzYmlCeWFXTm9ZWEprYzI5dSIsImJzIjoiYy1NeTR4SVB6OGhYeUN4V2NFa3N6MU1JeWt6T1NDeEtLYzdQczVmWWJHZ2tJU1ZXRHBGTkFja1d3V1VGR0FFIiwiaWQiOiJmY195bDI3YWF6OEhkT1F1cjhQc2ZYeVVBXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Dawn Richardson - State Representive",
+      "link": "https://www.linkedin.com/in/dawn-richardson-a3ba5214",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dawn-richardson-a3ba5214&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQFnoECBsQAQ",
+      "displayed_link": "460+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6ehLcA2931anIc8H8YGOjBo.png",
+      "snippet": "Noon Exchange Club of Killeen. Immediate Past President · Bell County TX Democratic Women. Vice President · TSTA-Retired/Capitol Area Retired Educators. Director ...",
+      "snippet_highlighted_words": [
+        "TX",
+        "Capitol"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Killeen, Texas, United States",
+            "State Representive"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Noon Exchange Club of Killeen. Immediate Past President · Bell County TX Democratic Women. Vice President · TSTA-Retired/Capitol Area Retired Educators. Director ...",
+          "source_info_link": "https://www.linkedin.com/in/dawn-richardson-a3ba5214",
+          "icon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6dicb4beYirnSNLgttAJi0j_okdBDZ6WCmm33AKl-XMG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/dawn-richardson-a3ba5214&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdawn-richardson-a3ba5214",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Dawn+Richardson+State+House+TX-54+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ5t4CegQIHxAB"
+      },
+      "source": "LinkedIn · Dawn Richardson"
+    },
+    {
+      "position": 2,
+      "title": "300+ \"Dawn Richardson\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Dawn/Richardson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Dawn/Richardson&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQFnoECBkQAQ",
+      "displayed_link": "https://www.linkedin.com › pub › dir › Richardson",
+      "favicon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6cW857sL0aPWKXXHYpjow9E.png",
+      "snippet": "View the profiles of professionals named \"Dawn Richardson\" on LinkedIn. There are 300+ professionals named \"Dawn Richardson\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "Dawn Richardson",
+        "LinkedIn",
+        "Dawn Richardson",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Dawn Richardson\" on LinkedIn. There are 300+ professionals named \"Dawn Richardson\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Dawn/Richardson",
+          "icon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6YUmygv3kIQVM5qdD2wyVSPexxhyM4rYp3GEqkJfqd0s.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Dawn/Richardson&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FDawn%2FRichardson",
+      "source": "LinkedIn"
+    },
+    {
+      "position": 3,
+      "title": "200+ \"Dawn Richardson\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Dawn/Richardson/us-0-United-States?trk=public_profile_samename-see-all-local",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Dawn/Richardson/us-0-United-States%3Ftrk%3Dpublic_profile_samename-see-all-local&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQFnoECCYQAQ",
+      "displayed_link": "https://www.linkedin.com › Dawn › us-0-United-States",
+      "favicon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6fdMYOCU5Es-YyX5YuPf4sQ.png",
+      "snippet": "View the profiles of professionals named \"Dawn Richardson\" on LinkedIn. There are 200+ professionals named \"Dawn Richardson\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "Dawn Richardson",
+        "LinkedIn",
+        "Dawn Richardson",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Dawn Richardson\" on LinkedIn. There are 200+ professionals named \"Dawn Richardson\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Dawn/Richardson/us-0-United-States?trk=public_profile_samename-see-all-local",
+          "icon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6fd6rdANasiiRdX1LSuFhWDR-n0hr6bREX7FmhyajeoS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Dawn/Richardson/us-0-United-States?trk=public_profile_samename-see-all-local&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FDawn%2FRichardson%2Fus-0-United-States%3Ftrk%3Dpublic_profile_samename-see-all-local",
+      "source": "LinkedIn"
+    },
+    {
+      "position": 4,
+      "title": "Dawn Richardson",
+      "link": "https://ballotpedia.org/Dawn_Richardson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Dawn_Richardson&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQFnoECCcQAQ",
+      "displayed_link": "https://ballotpedia.org › Dawn_Richardson",
+      "favicon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6YUEcuEYnknAeWOfnt0yi-g.png",
+      "date": "Oct 10, 2023",
+      "snippet": "Republican primary. The candidate list in this election may not be complete. Republican primary for Texas House of Representatives District 54.",
+      "snippet_highlighted_words": [
+        "Texas House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Republican primary. The candidate list in this election may not be complete. Republican primary for Texas House of Representatives District 54.",
+          "source_info_link": "https://ballotpedia.org/Dawn_Richardson",
+          "icon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6Te2RlRIDMsyiQ1ZA87kBYG545ntIMw1dLj7-f6Q9vvS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Dawn_Richardson&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FDawn_Richardson",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Dawn+Richardson+State+House+TX-54+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ5t4CegQIPxAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 5,
+      "title": "Dawn Richardson - Springtown, Texas, United States",
+      "link": "https://www.linkedin.com/in/dawn-richardson-7811182",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dawn-richardson-7811182&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQFnoECCIQAQ",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6dYNNE_6hGnqWUv3SPabu1Q.png",
+      "snippet": "Location: Springtown · 439 connections on LinkedIn. View Dawn Richardson's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "LinkedIn",
+        "Dawn Richardson's",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Location: Springtown · 439 connections on LinkedIn. View Dawn Richardson's profile on LinkedIn, a professional community of 1 billion members.",
+          "source_info_link": "https://www.linkedin.com/in/dawn-richardson-7811182",
+          "icon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6WJzcV9UJLq35zqoqKr82aZt3xykfqsaizjkgtRP2TAC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/dawn-richardson-7811182&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdawn-richardson-7811182",
+      "missing": [
+        "House",
+        "54",
+        "Central"
+      ],
+      "source": "LinkedIn · Dawn Richardson"
+    },
+    {
+      "position": 6,
+      "title": "Retired educator announces candidacy for Texas House ...",
+      "link": "https://kdhnews.com/news/local/retired-educator-announces-candidacy-for-texas-house-district-54/article_d3af300a-6470-11ee-b102-8722bf8373c5.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/retired-educator-announces-candidacy-for-texas-house-district-54/article_d3af300a-6470-11ee-b102-8722bf8373c5.html&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQFnoECCEQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › retired-educator-a...",
+      "favicon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6YrrNXiG1iSWVxrFeE4tW2Y.png",
+      "date": "Oct 6, 2023",
+      "snippet": "Dawn Richardson, a 31-year Killeen resident and retired educator, announced her candidacy for Texas House District 54 on Friday — an attempt ...",
+      "snippet_highlighted_words": [
+        "Dawn Richardson",
+        "Texas House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dawn Richardson, a 31-year Killeen resident and retired educator, announced her candidacy for Texas House District 54 on Friday — an attempt ...",
+          "source_info_link": "https://kdhnews.com/news/local/retired-educator-announces-candidacy-for-texas-house-district-54/article_d3af300a-6470-11ee-b102-8722bf8373c5.html",
+          "icon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6SLwDKt1SuzjGhGJ8DCieD0pOMOiwEv9ypaHX0M3O8hU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/retired-educator-announces-candidacy-for-texas-house-district-54/article_d3af300a-6470-11ee-b102-8722bf8373c5.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fretired-educator-announces-candidacy-for-texas-house-district-54%2Farticle_d3af300a-6470-11ee-b102-8722bf8373c5.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 7,
+      "title": "Dawn Richardson - Cloud Real Estate",
+      "link": "https://www.linkedin.com/in/dawn-richardson-b0a67112a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dawn-richardson-b0a67112a&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQFnoECCMQAQ",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6XcuTlDk87HvfYmc4BINblI.png",
+      "snippet": "Experience: Cloud Real Estate · Education: Champions school of Real estate · Location: Killeen-Temple Area · 169 connections on LinkedIn. View Dawn ...",
+      "snippet_highlighted_words": [
+        "LinkedIn",
+        "Dawn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Experience: Cloud Real Estate · Education: Champions school of Real estate · Location: Killeen-Temple Area · 169 connections on LinkedIn. View Dawn ...",
+          "source_info_link": "https://www.linkedin.com/in/dawn-richardson-b0a67112a",
+          "icon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6WVlSzK40U3sRkA03-8QEHxoPE6mVOeklnT6-VROv8J9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/dawn-richardson-b0a67112a&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdawn-richardson-b0a67112a",
+      "missing": [
+        "State",
+        "54",
+        "Central"
+      ],
+      "source": "LinkedIn · Dawn Richardson"
+    },
+    {
+      "position": 8,
+      "title": "Dawn Richardson - Verified Credentials, Inc.",
+      "link": "https://www.linkedin.com/in/dawn-richardson-1924b992",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dawn-richardson-1924b992&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQFnoECCQQAQ",
+      "displayed_link": "5 followers",
+      "favicon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6VhEigs3v3X4vqVYciisyuw.png",
+      "snippet": "Experienced Insurance Specialist with a demonstrated history of working in the health… · Experience: Verified Credentials, Inc. · Location: Spring · 5 ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Spring, Texas, United States",
+            "Verified Credentials, Inc."
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experienced Insurance Specialist with a demonstrated history of working in the health… · Experience: Verified Credentials, Inc. · Location: Spring · 5 ...",
+          "source_info_link": "https://www.linkedin.com/in/dawn-richardson-1924b992",
+          "icon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6aQnexSAB6L4vXcuOBkjV8GzvHcHmbWLZax2o7LyC0xJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/dawn-richardson-1924b992&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdawn-richardson-1924b992",
+      "missing": [
+        "House",
+        "54",
+        "Central"
+      ],
+      "source": "LinkedIn · Dawn Richardson"
+    },
+    {
+      "position": 9,
+      "title": "Political Action Committee/TPACE",
+      "link": "https://www.naswtx.org/page/PubPol_TPACE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.naswtx.org/page/PubPol_TPACE&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQFnoECCUQAQ",
+      "displayed_link": "https://www.naswtx.org › page › PubPol_TPACE",
+      "favicon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6d6uXQbhgACrBzOrHD8ftdg.png",
+      "snippet": "TPACE, as a nonpartisan committee, works to promote political education and participation in the electoral process among members of the social work profession.",
+      "about_this_result": {
+        "source": {
+          "description": "TPACE, as a nonpartisan committee, works to promote political education and participation in the electoral process among members of the social work profession.",
+          "source_info_link": "https://www.naswtx.org/page/PubPol_TPACE",
+          "icon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6bkm-gDPTmWU9CjYhhDr4pJaAYa-0tjqTfy0iHI_fCrq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.naswtx.org/page/PubPol_TPACE&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.naswtx.org%2Fpage%2FPubPol_TPACE",
+      "source": "National Association of Social Workers Texas"
+    },
+    {
+      "position": 10,
+      "title": "300+ perfiles de «Dawn Richardson»",
+      "link": "https://pr.linkedin.com/pub/dir/Dawn/Richardson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pr.linkedin.com/pub/dir/Dawn/Richardson&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQFnoECCAQAQ",
+      "displayed_link": "https://pr.linkedin.com › pub › dir",
+      "favicon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6ZbA3cOHYNdqpjb97kVriLA.png",
+      "snippet": "Boerne, TX. Flodesk y 8 más. Texas Tech University - Rawls College of Business y 2 más. Dawn Richardson. Director at Patient-Centered Outcomes ...",
+      "snippet_highlighted_words": [
+        "TX",
+        "Texas",
+        "Dawn Richardson"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Boerne, TX. Flodesk y 8 más. Texas Tech University - Rawls College of Business y 2 más. Dawn Richardson. Director at Patient-Centered Outcomes ...",
+          "source_info_link": "https://pr.linkedin.com/pub/dir/Dawn/Richardson",
+          "icon": "https://serpapi.com/searches/69bb5dc65e34940aef1bd9a9/images/Uc_jxlli414M6gfy1AyM6d6i_B8XS3JVFnfRZ2oR6IO6tLAi8zLkOyZdsRmf3iKE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pr.linkedin.com/pub/dir/Dawn/Richardson&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpr.linkedin.com%2Fpub%2Fdir%2FDawn%2FRichardson",
+      "source": "LinkedIn Puerto Rico"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=yl27aaz8HdOQur8PsfXyUA&start=10&sa=N&sstk=Af77f_cnkV4grH6Xc6FJPn6rphlCzCk0WnMRYz8z1GEiIHCfF6AYsgbHSFwi-pzfjLMUkTI75wctR7izI_is6lM-ZN11y9Cm3ZrSjg&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ8NMDegQIDhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=yl27aaz8HdOQur8PsfXyUA&start=10&sa=N&sstk=Af77f_cnkV4grH6Xc6FJPn6rphlCzCk0WnMRYz8z1GEiIHCfF6AYsgbHSFwi-pzfjLMUkTI75wctR7izI_is6lM-ZN11y9Cm3ZrSjg&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ8tMDegQIDhAE",
+      "3": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=yl27aaz8HdOQur8PsfXyUA&start=20&sa=N&sstk=Af77f_cnkV4grH6Xc6FJPn6rphlCzCk0WnMRYz8z1GEiIHCfF6AYsgbHSFwi-pzfjLMUkTI75wctR7izI_is6lM-ZN11y9Cm3ZrSjg&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ8tMDegQIDhAG",
+      "4": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=yl27aaz8HdOQur8PsfXyUA&start=30&sa=N&sstk=Af77f_cnkV4grH6Xc6FJPn6rphlCzCk0WnMRYz8z1GEiIHCfF6AYsgbHSFwi-pzfjLMUkTI75wctR7izI_is6lM-ZN11y9Cm3ZrSjg&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ8tMDegQIDhAI",
+      "5": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=yl27aaz8HdOQur8PsfXyUA&start=40&sa=N&sstk=Af77f_cnkV4grH6Xc6FJPn6rphlCzCk0WnMRYz8z1GEiIHCfF6AYsgbHSFwi-pzfjLMUkTI75wctR7izI_is6lM-ZN11y9Cm3ZrSjg&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ8tMDegQIDhAK",
+      "6": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=yl27aaz8HdOQur8PsfXyUA&start=50&sa=N&sstk=Af77f_cnkV4grH6Xc6FJPn6rphlCzCk0WnMRYz8z1GEiIHCfF6AYsgbHSFwi-pzfjLMUkTI75wctR7izI_is6lM-ZN11y9Cm3ZrSjg&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ8tMDegQIDhAM",
+      "7": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=yl27aaz8HdOQur8PsfXyUA&start=60&sa=N&sstk=Af77f_cnkV4grH6Xc6FJPn6rphlCzCk0WnMRYz8z1GEiIHCfF6AYsgbHSFwi-pzfjLMUkTI75wctR7izI_is6lM-ZN11y9Cm3ZrSjg&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ8tMDegQIDhAO",
+      "8": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=yl27aaz8HdOQur8PsfXyUA&start=70&sa=N&sstk=Af77f_cnkV4grH6Xc6FJPn6rphlCzCk0WnMRYz8z1GEiIHCfF6AYsgbHSFwi-pzfjLMUkTI75wctR7izI_is6lM-ZN11y9Cm3ZrSjg&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ8tMDegQIDhAQ",
+      "9": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=yl27aaz8HdOQur8PsfXyUA&start=80&sa=N&sstk=Af77f_cnkV4grH6Xc6FJPn6rphlCzCk0WnMRYz8z1GEiIHCfF6AYsgbHSFwi-pzfjLMUkTI75wctR7izI_is6lM-ZN11y9Cm3ZrSjg&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ8tMDegQIDhAS",
+      "10": "https://www.google.com/search?q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=yl27aaz8HdOQur8PsfXyUA&start=90&sa=N&sstk=Af77f_cnkV4grH6Xc6FJPn6rphlCzCk0WnMRYz8z1GEiIHCfF6AYsgbHSFwi-pzfjLMUkTI75wctR7izI_is6lM-ZN11y9Cm3ZrSjg&ved=2ahUKEwisiYzf86qTAxVTiO4BHbG6HAoQ8tMDegQIDhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dawn+Richardson+State+House+TX-54+Central+Texas+LinkedIn&start=90"
+    }
+  }
+}

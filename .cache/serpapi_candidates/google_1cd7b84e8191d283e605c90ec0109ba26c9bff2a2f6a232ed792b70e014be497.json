@@ -1,0 +1,389 @@
+{
+  "search_metadata": {
+    "id": "69bb5c97a3882d9749243c5c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/yTp3UHJttV3xlJYJjrKM6g/69bb5c97a3882d9749243c5c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/yTp3UHJttV3xlJYJjrKM6g/69bb5c97a3882d9749243c5c.json_with_pixel_position",
+    "created_at": "2026-03-19 02:16:55 UTC",
+    "processed_at": "2026-03-19 02:16:55 UTC",
+    "google_url": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/yTp3UHJttV3xlJYJjrKM6g/69bb5c97a3882d9749243c5c.html",
+    "total_time_taken": 1.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "CTC Trustee Place 2 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "CTC Trustee Place 2 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 10500,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "CP-6-26 FAQs About Candidate Platform Review",
+      "link": "https://texasgop.org/wp-content/uploads/2025/10/CP-4-26-FAQs-About-Candidate-Platform-Review.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://texasgop.org/wp-content/uploads/2025/10/CP-4-26-FAQs-About-Candidate-Platform-Review.pdf&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQFnoECBwQAQ",
+      "displayed_link": "https://texasgop.org › uploads › 2025/10 › CP-4-2...",
+      "favicon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS6XHTkd8OgJIpxFn37PTJ4g.png",
+      "snippet": "A: The Platform Review is NOT required by state law or the Republican Party to file for a place on the ballot. Q: Which candidates should not complete the ...",
+      "snippet_highlighted_words": [
+        "Platform",
+        "place",
+        "candidates"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "page": 1
+          },
+          "extensions": [
+            "1 page"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "A: The Platform Review is NOT required by state law or the Republican Party to file for a place on the ballot. Q: Which candidates should not complete the ...",
+          "source_info_link": "https://texasgop.org/wp-content/uploads/2025/10/CP-4-26-FAQs-About-Candidate-Platform-Review.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS2_UPnZ4wv1vfY7X7RlTz3jPAfu3Y4HeNsxA_E5L7epX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://texasgop.org/wp-content/uploads/2025/10/CP-4-26-FAQs-About-Candidate-Platform-Review.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftexasgop.org%2Fwp-content%2Fuploads%2F2025%2F10%2FCP-4-26-FAQs-About-Candidate-Platform-Review.pdf",
+      "missing": [
+        "CTC",
+        "Trustee",
+        "election.",
+        "Key",
+        "issues",
+        "opponents.",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "Republican Party of Texas"
+    },
+    {
+      "position": 2,
+      "title": "Chapter 8 Study Guide Flashcards",
+      "link": "https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQFnoECBkQAQ",
+      "displayed_link": "https://quizlet.com › ... › Politics of the United States",
+      "favicon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS14wb98a85_lffr6dkCWM4Y.png",
+      "snippet": "Study with Quizlet and memorize flashcards containing terms like Platform, Precinct, Political Party and more.",
+      "snippet_highlighted_words": [
+        "Platform"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Study with Quizlet and memorize flashcards containing terms like Platform, Precinct, Political Party and more.",
+          "source_info_link": "https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/",
+          "icon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS1ymowHuWZ03c3GgmSWQ8GM8W2jBHb5LjL01Bcwl2Sty.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fquizlet.com%2F317579268%2Fchapter-8-study-guide-flash-cards%2F",
+      "missing": [
+        "CTC",
+        "Trustee",
+        "opponents.",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 3,
+      "title": "legislation committee - Contra Costa County",
+      "link": "https://www.contracosta.ca.gov/DocumentCenter/View/3896/Legislation-Committee-Packet-11-2-09",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.contracosta.ca.gov/DocumentCenter/View/3896/Legislation-Committee-Packet-11-2-09&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQFnoECB0QAQ",
+      "displayed_link": "https://www.contracosta.ca.gov › View › Legislati...",
+      "favicon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS2GF24MSqz1rLOgCSm5NyAg.png",
+      "snippet": "Adjourn to the next regular meeting scheduled for Monday, December 7 at 10:30 a.m. ☺ The Legislation Committee will provide reasonable accommodations for ...",
+      "snippet_highlighted_words": [
+        "provide"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Adjourn to the next regular meeting scheduled for Monday, December 7 at 10:30 a.m. ☺ The Legislation Committee will provide reasonable accommodations for ...",
+          "source_info_link": "https://www.contracosta.ca.gov/DocumentCenter/View/3896/Legislation-Committee-Packet-11-2-09",
+          "icon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS0TDVjLxysb4OfoPigEARjpd6jntMiXgCpNmW0fGrv5S.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.contracosta.ca.gov/DocumentCenter/View/3896/Legislation-Committee-Packet-11-2-09&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.contracosta.ca.gov%2FDocumentCenter%2FView%2F3896%2FLegislation-Committee-Packet-11-2-09",
+      "missing": [
+        "opponents."
+      ],
+      "must_include": {
+        "word": "opponents.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+%22opponents.%22+Provide+a+short+factual+summary.&sa=X&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ5t4CegQIJBAB"
+      },
+      "source": "Contra Costa County Website (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Understanding STRS Ohio Voting and Bonus System",
+      "link": "https://www.facebook.com/groups/STRSOhioWatchdogs/posts/1662271721143550/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/STRSOhioWatchdogs/posts/1662271721143550/&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQFnoECDYQAQ",
+      "displayed_link": "30+ comments · 9 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS064aAFI2PWE7nGL5umkuWk.png",
+      "snippet": "Jason Smith even when we've had the majority of our board represented by teacher advocates that WE (the teachers have voted in), the government…",
+      "about_this_result": {
+        "source": {
+          "description": "Jason Smith even when we've had the majority of our board represented by teacher advocates that WE (the teachers have voted in), the government…",
+          "source_info_link": "https://www.facebook.com/groups/STRSOhioWatchdogs/posts/1662271721143550/",
+          "icon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHSx0UkQ7qHZ1QcKDAiqae_cBgYGNTimqEMOVZ3MYqfkC9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/STRSOhioWatchdogs/posts/1662271721143550/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2FSTRSOhioWatchdogs%2Fposts%2F1662271721143550%2F",
+      "source": "Facebook · STRS Ohio Watchdogs"
+    },
+    {
+      "position": 5,
+      "title": "Texas Register December 26, 2025 Issue",
+      "link": "https://www.sos.state.tx.us/texreg/pdf/backview/1226/1226adop.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sos.state.tx.us/texreg/pdf/backview/1226/1226adop.pdf&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQFnoECDMQAQ",
+      "displayed_link": "https://www.sos.state.tx.us › pdf › backview",
+      "favicon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS23vKvFcQCtcppYK83NetFg.png",
+      "date": "Dec 26, 2025",
+      "snippet": "PART 2. TEXAS ETHICS COMMISSION. CHAPTER 22. RESTRICTIONS ON. CONTRIBUTIONS AND EXPENDITURES. 1 TAC §§22.1, 22.7, 22.9, 22.17, 22.19, 22.23, ...",
+      "snippet_highlighted_words": [
+        "2"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 92
+          },
+          "extensions": [
+            "92 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "PART 2. TEXAS ETHICS COMMISSION. CHAPTER 22. RESTRICTIONS ON. CONTRIBUTIONS AND EXPENDITURES. 1 TAC §§22.1, 22.7, 22.9, 22.17, 22.19, 22.23, ...",
+          "source_info_link": "https://www.sos.state.tx.us/texreg/pdf/backview/1226/1226adop.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS56ykgFuhhLmzgyJjNy1yOKnlHdwOjce4ZfMMoJqgEoi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sos.state.tx.us/texreg/pdf/backview/1226/1226adop.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sos.state.tx.us%2Ftexreg%2Fpdf%2Fbackview%2F1226%2F1226adop.pdf",
+      "source": "the Texas Secretary of State"
+    },
+    {
+      "position": 6,
+      "title": "- U.S. NATIONAL SECURITY CHALLENGES AND ...",
+      "link": "https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQFnoECC8QAQ",
+      "displayed_link": "https://www.govinfo.gov › content › pkg › html",
+      "favicon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHSyMz9E4ouEGZvZb0WMth3RQ.png",
+      "snippet": "[Senate Hearing 114-687] [From the U.S. Government Publishing Office] S. Hrg. 114-687 U.S. NATIONAL SECURITY CHALLENGES AND ONGOING MILITARY OPERATIONS ...",
+      "snippet_highlighted_words": [
+        "CHALLENGES"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "[Senate Hearing 114-687] [From the U.S. Government Publishing Office] S. Hrg. 114-687 U.S. NATIONAL SECURITY CHALLENGES AND ONGOING MILITARY OPERATIONS ...",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm",
+          "icon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHSwtA55LGWqTGEEJxbI-9U9xEa3HTHqH6I8o4ot11HgyI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FCHRG-114shrg26841%2Fhtml%2FCHRG-114shrg26841.htm",
+      "source": "GovInfo (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "MILWAUKEE COUNTY 2011 ADOPTED BUDGET",
+      "link": "https://county.milwaukee.gov/ImageLibrary/User/bpariseau/2011AdoptedOperating/COMPLETE2011AdoptedBudget.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://county.milwaukee.gov/ImageLibrary/User/bpariseau/2011AdoptedOperating/COMPLETE2011AdoptedBudget.pdf&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQFnoECC4QAQ",
+      "displayed_link": "https://county.milwaukee.gov › User › bpariseau",
+      "favicon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHSxQTX-ZrebPyReecVNaxJe4.png",
+      "snippet": "Milwaukee County Government will provide high-quality, responsive services that enhance self-sufficiency, personal safety, economic opportunity and quality of ...",
+      "snippet_highlighted_words": [
+        "provide"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Milwaukee County Government will provide high-quality, responsive services that enhance self-sufficiency, personal safety, economic opportunity and quality of ...",
+          "source_info_link": "https://county.milwaukee.gov/ImageLibrary/User/bpariseau/2011AdoptedOperating/COMPLETE2011AdoptedBudget.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHSyj-4wqYa5WHq1_u7vXNZ6bX5RNOlwqHJh6aF0632qBH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://county.milwaukee.gov/ImageLibrary/User/bpariseau/2011AdoptedOperating/COMPLETE2011AdoptedBudget.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcounty.milwaukee.gov%2FImageLibrary%2FUser%2Fbpariseau%2F2011AdoptedOperating%2FCOMPLETE2011AdoptedBudget.pdf",
+      "source": "Milwaukee County (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "August 24, 2018",
+      "link": "https://www.wvhepc.edu/wp-content/uploads/2018/08/HEPC-Agenda-8-24-2018.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wvhepc.edu/wp-content/uploads/2018/08/HEPC-Agenda-8-24-2018.pdf&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQFnoECDIQAQ",
+      "displayed_link": "https://www.wvhepc.edu › uploads › 2018/08",
+      "favicon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS8ILCY--EbzNIqM0khB4w64.png",
+      "date": "Aug 24, 2018",
+      "snippet": "Commission staff will present to Commissioners a summary and analysis ... provide information about the names or backgrounds of any candidates, ...",
+      "snippet_highlighted_words": [
+        "present",
+        "summary",
+        "analysis",
+        "provide",
+        "candidates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Commission staff will present to Commissioners a summary and analysis ... provide information about the names or backgrounds of any candidates, ...",
+          "source_info_link": "https://www.wvhepc.edu/wp-content/uploads/2018/08/HEPC-Agenda-8-24-2018.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS-wVpk6MxMeI8aM0OAHOSMA0zTJW1i8OZmNWjGT3Yfv-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.wvhepc.edu/wp-content/uploads/2018/08/HEPC-Agenda-8-24-2018.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.wvhepc.edu%2Fwp-content%2Fuploads%2F2018%2F08%2FHEPC-Agenda-8-24-2018.pdf",
+      "source": "West Virginia Higher Education Policy Commission"
+    },
+    {
+      "position": 9,
+      "title": "Consideration of a City Election/Referendum on the Bond ...",
+      "link": "https://weblink.cityofdubuque.org/WebLink/DocView.aspx?id=2181006&dbid=0&repo=City-of-DBQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://weblink.cityofdubuque.org/WebLink/DocView.aspx%3Fid%3D2181006%26dbid%3D0%26repo%3DCity-of-DBQ&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQFnoECDEQAQ",
+      "displayed_link": "https://weblink.cityofdubuque.org › WebLink › DocView",
+      "snippet": "Consideration of a City Election/Referendum on the Bond Issuance for Five Flags Civic Center/Theater/Ballot Language Kevin Firnstahl From:Denise Dolan ...",
+      "snippet_highlighted_words": [
+        "Election"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Consideration of a City Election/Referendum on the Bond Issuance for Five Flags Civic Center/Theater/Ballot Language Kevin Firnstahl From:Denise Dolan ...",
+          "source_info_link": "https://weblink.cityofdubuque.org/WebLink/DocView.aspx?id=2181006&dbid=0&repo=City-of-DBQ"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://weblink.cityofdubuque.org/WebLink/DocView.aspx?id=2181006&dbid=0&repo=City-of-DBQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fweblink.cityofdubuque.org%2FWebLink%2FDocView.aspx%3Fid%3D2181006%26dbid%3D0%26repo%3DCity-of-DBQ",
+      "source": "City of Dubuque"
+    },
+    {
+      "position": 10,
+      "title": "ANTICIPATED NOMINATION OF JANET L. YELLEN ...",
+      "link": "https://www.finance.senate.gov/download/anticipated-nomination-of-janet-l-yellen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.finance.senate.gov/download/anticipated-nomination-of-janet-l-yellen&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQFnoECC0QAQ",
+      "displayed_link": "https://www.finance.senate.gov › download › ant...",
+      "favicon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS23ru4Ibk-qSxxHcO7CPCIY.png",
+      "date": "Jan 19, 2021",
+      "snippet": "Page 3. C O N T E N T S. OPENING STATEMENTS. Page. Grassley, Hon. Chuck, a U.S. Senator from Iowa, chairman, Committee on. Finance .",
+      "about_this_result": {
+        "source": {
+          "description": "Page 3. C O N T E N T S. OPENING STATEMENTS. Page. Grassley, Hon. Chuck, a U.S. Senator from Iowa, chairman, Committee on. Finance .",
+          "source_info_link": "https://www.finance.senate.gov/download/anticipated-nomination-of-janet-l-yellen",
+          "icon": "https://serpapi.com/searches/69bb5c97a3882d9749243c5c/images/wgJZ4P5UVfArUZmvHjSHS6--vYdlUOduViS2qVnPgx8VkE63cX7qR6Yvm7dFM4YZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.finance.senate.gov/download/anticipated-nomination-of-janet-l-yellen&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.finance.senate.gov%2Fdownload%2Fanticipated-nomination-of-janet-l-yellen",
+      "source": "Senate Committee on Finance (.gov)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mFy7aYaaIoqJhbIP8IfxoAY&start=10&sa=N&sstk=Af77f_f7Fw5eI0u9lh3N_VTrNl0FDMpY_DJ2BadpSyVo51fv5soPVVnHxkEyAzhBuPnHxvvI94HIPaW3LJY92VpJblx8cjv_ENu_vg&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ8NMDegQIDRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mFy7aYaaIoqJhbIP8IfxoAY&start=10&sa=N&sstk=Af77f_f7Fw5eI0u9lh3N_VTrNl0FDMpY_DJ2BadpSyVo51fv5soPVVnHxkEyAzhBuPnHxvvI94HIPaW3LJY92VpJblx8cjv_ENu_vg&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mFy7aYaaIoqJhbIP8IfxoAY&start=20&sa=N&sstk=Af77f_f7Fw5eI0u9lh3N_VTrNl0FDMpY_DJ2BadpSyVo51fv5soPVVnHxkEyAzhBuPnHxvvI94HIPaW3LJY92VpJblx8cjv_ENu_vg&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mFy7aYaaIoqJhbIP8IfxoAY&start=30&sa=N&sstk=Af77f_f7Fw5eI0u9lh3N_VTrNl0FDMpY_DJ2BadpSyVo51fv5soPVVnHxkEyAzhBuPnHxvvI94HIPaW3LJY92VpJblx8cjv_ENu_vg&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mFy7aYaaIoqJhbIP8IfxoAY&start=40&sa=N&sstk=Af77f_f7Fw5eI0u9lh3N_VTrNl0FDMpY_DJ2BadpSyVo51fv5soPVVnHxkEyAzhBuPnHxvvI94HIPaW3LJY92VpJblx8cjv_ENu_vg&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mFy7aYaaIoqJhbIP8IfxoAY&start=50&sa=N&sstk=Af77f_f7Fw5eI0u9lh3N_VTrNl0FDMpY_DJ2BadpSyVo51fv5soPVVnHxkEyAzhBuPnHxvvI94HIPaW3LJY92VpJblx8cjv_ENu_vg&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mFy7aYaaIoqJhbIP8IfxoAY&start=60&sa=N&sstk=Af77f_f7Fw5eI0u9lh3N_VTrNl0FDMpY_DJ2BadpSyVo51fv5soPVVnHxkEyAzhBuPnHxvvI94HIPaW3LJY92VpJblx8cjv_ENu_vg&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mFy7aYaaIoqJhbIP8IfxoAY&start=70&sa=N&sstk=Af77f_f7Fw5eI0u9lh3N_VTrNl0FDMpY_DJ2BadpSyVo51fv5soPVVnHxkEyAzhBuPnHxvvI94HIPaW3LJY92VpJblx8cjv_ENu_vg&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mFy7aYaaIoqJhbIP8IfxoAY&start=80&sa=N&sstk=Af77f_f7Fw5eI0u9lh3N_VTrNl0FDMpY_DJ2BadpSyVo51fv5soPVVnHxkEyAzhBuPnHxvvI94HIPaW3LJY92VpJblx8cjv_ENu_vg&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ8tMDegQIDRAS",
+      "10": "https://www.google.com/search?q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=mFy7aYaaIoqJhbIP8IfxoAY&start=90&sa=N&sstk=Af77f_f7Fw5eI0u9lh3N_VTrNl0FDMpY_DJ2BadpSyVo51fv5soPVVnHxkEyAzhBuPnHxvvI94HIPaW3LJY92VpJblx8cjv_ENu_vg&ved=2ahUKEwiGxpvN8qqTAxWKREEAHfBDHGQQ8tMDegQIDRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CTC+Trustee+Place+2+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

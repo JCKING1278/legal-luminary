@@ -1,0 +1,351 @@
+{
+  "search_metadata": {
+    "id": "69bb5d8771b492bc418e36bc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BKZtmbMXd2woZTAK9_qhEA/69bb5d8771b492bc418e36bc.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/BKZtmbMXd2woZTAK9_qhEA/69bb5d8771b492bc418e36bc.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:55 UTC",
+    "processed_at": "2026-03-19 02:20:55 UTC",
+    "google_url": "https://www.google.com/search?q=Tom+Maynard+%22SBOE+TX-10%22+%22Central+Texas%22+Facebook&oq=Tom+Maynard+%22SBOE+TX-10%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/BKZtmbMXd2woZTAK9_qhEA/69bb5d8771b492bc418e36bc.html",
+    "total_time_taken": 3.44
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Tom Maynard \"SBOE TX-10\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Tom Maynard \"SBOE TX-10\" \"Central Texas\" Facebook",
+    "total_results": 919,
+    "time_taken_displayed": 0.63,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Tom Maynard SBOE TX-10 Central Texas Facebook",
+    "spelling_fix": "Tom Maynard SBOE TX-10 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Maynard for Texas (@maynardfortexas)",
+      "link": "https://www.facebook.com/maynardfortexas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/maynardfortexas/&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQFnoECB4QAQ",
+      "displayed_link": "350+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyqnYtmNM0wvIDv9JpG8JItk.png",
+      "snippet": "\"woke\" political agendas. Tom needs your support starting May 20th-24th for early voting and on runoff election day May 28th. Learn more at TexasParentsUnited.",
+      "snippet_highlighted_words": [
+        "Tom"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "\"woke\" political agendas. Tom needs your support starting May 20th-24th for early voting and on runoff election day May 28th. Learn more at TexasParentsUnited.",
+          "source_info_link": "https://www.facebook.com/maynardfortexas/",
+          "icon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyjZqIKLZ_vol9DPcZ_s0MoO8WBbRyhfrM5flCTelBQec.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/maynardfortexas/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fmaynardfortexas%2F",
+      "missing": [
+        "TX-",
+        "Central"
+      ],
+      "source": "Facebook · Maynard for Texas"
+    },
+    {
+      "position": 2,
+      "title": "Hoping I can post here. I am not finding out via google if ...",
+      "link": "https://www.facebook.com/groups/TexansforPublicEd/posts/8816226871767487/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/TexansforPublicEd/posts/8816226871767487/&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQFnoECCkQAQ",
+      "displayed_link": "1 comment · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyuneMa4-mIa15Ysp_lmiMvU.png",
+      "snippet": "Hoping I can post here. I am not finding out via google if Tom Maynard is against or for vouchers as well as his opponent Raquel Ortiz same ...",
+      "snippet_highlighted_words": [
+        "Tom Maynard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Hoping I can post here. I am not finding out via google if Tom Maynard is against or for vouchers as well as his opponent Raquel Ortiz same ...",
+          "source_info_link": "https://www.facebook.com/groups/TexansforPublicEd/posts/8816226871767487/",
+          "icon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyruhYFAyq64yMVB6AM5BEOKS76ZRCsrIcAhWPb93yDHn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/TexansforPublicEd/posts/8816226871767487/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2FTexansforPublicEd%2Fposts%2F8816226871767487%2F",
+      "source": "Facebook · Texans for Public Education (Texans4PublicEd @Texans4E)"
+    },
+    {
+      "position": 3,
+      "title": "Texas State Board of Education",
+      "link": "https://www.facebook.com/TXSBOE/posts/registration-for-public-testimony-for-the-sboe-regular-meeting-closes-tomorrow-j/1306013861553067/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/TXSBOE/posts/registration-for-public-testimony-for-the-sboe-regular-meeting-closes-tomorrow-j/1306013861553067/&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQFnoECCQQAQ",
+      "displayed_link": "9 reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUylPZvicpcJw27Dqk8AdN4zs.png",
+      "snippet": "Registration for public testimony for the SBOE Regular Meeting closes tomorrow, January 23, at 5 p.m. CST. To register, visit...",
+      "snippet_highlighted_words": [
+        "SBOE"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Registration for public testimony for the SBOE Regular Meeting closes tomorrow, January 23, at 5 p.m. CST. To register, visit...",
+          "source_info_link": "https://www.facebook.com/TXSBOE/posts/registration-for-public-testimony-for-the-sboe-regular-meeting-closes-tomorrow-j/1306013861553067/",
+          "icon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyhV-DqPdpGGJSPoNT5e30yhXZalWIzPZYDB7vvxZefzK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/TXSBOE/posts/registration-for-public-testimony-for-the-sboe-regular-meeting-closes-tomorrow-j/1306013861553067/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FTXSBOE%2Fposts%2Fregistration-for-public-testimony-for-the-sboe-regular-meeting-closes-tomorrow-j%2F1306013861553067%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Tom+Maynard+SBOE+TX-10+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQ5t4CegQINRAB"
+      },
+      "source": "Facebook · Texas State Board of Education"
+    },
+    {
+      "position": 4,
+      "title": "Tom Maynard",
+      "link": "https://www.facebook.com/tom.maynard.16/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/tom.maynard.16/&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQFnoECCMQAQ",
+      "displayed_link": "6.2K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUygdPW4LKhNcEzMSXo0P4FUo.png",
+      "snippet": "Tom Maynard. 6202 likes · 7 talking about this. State Board of Education, District 10; Christ follower, husband, dad, papaw, rancher.",
+      "snippet_highlighted_words": [
+        "Tom Maynard",
+        "10"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tom Maynard. 6202 likes · 7 talking about this. State Board of Education, District 10; Christ follower, husband, dad, papaw, rancher.",
+          "source_info_link": "https://www.facebook.com/tom.maynard.16/",
+          "icon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUykLNzX0ec--0ez8rR9EoQ3vQvRJzgMWGv8pGhHn-bylU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/tom.maynard.16/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Ftom.maynard.16%2F",
+      "missing": [
+        "SBOE"
+      ],
+      "must_include": {
+        "word": "SBOE",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Tom+Maynard+%22SBOE%22+TX-10+Central+Texas+Facebook&sa=X&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQ5t4CegQIMRAB"
+      },
+      "source": "Facebook · Tom Maynard"
+    },
+    {
+      "position": 5,
+      "title": "Member Maynard is under the mistaken impression ...",
+      "link": "https://www.facebook.com/61586913452257/videos/member-maynard-is-under-the-mistaken-impression-that-teachers-are-not-passionate/981459147676935/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/61586913452257/videos/member-maynard-is-under-the-mistaken-impression-that-teachers-are-not-passionate/981459147676935/&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQFnoECB0QAQ",
+      "displayed_link": "2 reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyssEEO_calxqTSaYw_mcpAs.png",
+      "snippet": "Teachers have been taking time off work, driving for hours to testify at the SBOE, participating in work groups and focus groups, only to have ...",
+      "snippet_highlighted_words": [
+        "SBOE"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Teachers have been taking time off work, driving for hours to testify at the SBOE, participating in work groups and focus groups, only to have ...",
+          "source_info_link": "https://www.facebook.com/61586913452257/videos/member-maynard-is-under-the-mistaken-impression-that-teachers-are-not-passionate/981459147676935/",
+          "icon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUytLbdqEwKcmZb_pmvIg1o8eWPPH3iPaxVHuSw1eLVcn7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/61586913452257/videos/member-maynard-is-under-the-mistaken-impression-that-teachers-are-not-passionate/981459147676935/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F61586913452257%2Fvideos%2Fmember-maynard-is-under-the-mistaken-impression-that-teachers-are-not-passionate%2F981459147676935%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 6,
+      "title": "Tom Maynard: Homepage",
+      "link": "https://maynardfortexas.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://maynardfortexas.com/&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQFnoECBwQAQ",
+      "displayed_link": "https://maynardfortexas.com",
+      "favicon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyk60kFkcNOVsGBY06rUxBa0.png",
+      "snippet": "About endorsements priorities Donate A Fighter For Our Students Demand accountability, support local control, prepare students for the future, ...",
+      "about_this_result": {
+        "source": {
+          "description": "About endorsements priorities Donate A Fighter For Our Students Demand accountability, support local control, prepare students for the future, ...",
+          "source_info_link": "https://maynardfortexas.com/",
+          "icon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyjWjhGm6wce77-acUUttvHBzhAKkq7tYQ77t6DSM61My.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://maynardfortexas.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmaynardfortexas.com%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Tom+Maynard+SBOE+TX-10+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQ5t4CegQINBAB"
+      },
+      "source": "maynardfortexas.com"
+    },
+    {
+      "position": 7,
+      "title": "serving students, strengthening our workforce, and meeting ...",
+      "link": "https://www.facebook.com/GlennHegarTX/posts/i-appreciate-the-boards-leadership-and-guidance-as-we-work-through-issues-that-w/1472579164232559/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/GlennHegarTX/posts/i-appreciate-the-boards-leadership-and-guidance-as-we-work-through-issues-that-w/1472579164232559/&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQFnoECCIQAQ",
+      "displayed_link": "30+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyjwRCxZq0Ha1tZcv7RTCITo.png",
+      "snippet": "Jorge L. Alvarado On creating Board level committees for the A&M System regarding Healthcare Education and Static Planning? 1mo.",
+      "about_this_result": {
+        "source": {
+          "description": "Jorge L. Alvarado On creating Board level committees for the A&M System regarding Healthcare Education and Static Planning? 1mo.",
+          "source_info_link": "https://www.facebook.com/GlennHegarTX/posts/i-appreciate-the-boards-leadership-and-guidance-as-we-work-through-issues-that-w/1472579164232559/",
+          "icon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyns2xaStFUvzIEXSPW5UiUmKrDS9ky-JzSzgO7hG3SiM.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/GlennHegarTX/posts/i-appreciate-the-boards-leadership-and-guidance-as-we-work-through-issues-that-w/1472579164232559/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FGlennHegarTX%2Fposts%2Fi-appreciate-the-boards-leadership-and-guidance-as-we-work-through-issues-that-w%2F1472579164232559%2F",
+      "source": "Facebook · Glenn Hegar"
+    },
+    {
+      "position": 8,
+      "title": "Tom Maynard in people",
+      "link": "https://www.facebook.com/public/Tom-Maynard/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/public/Tom-Maynard/&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQFnoECD0QAQ",
+      "displayed_link": "https://www.facebook.com › public › Tom-Maynard",
+      "favicon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyoQKTBo2aunjWE5Kx88QPiU.png",
+      "snippet": "View the profiles of people named Tom Maynard. Join Facebook to connect with Tom Maynard and others you may know. Facebook gives people the power to...",
+      "snippet_highlighted_words": [
+        "Tom Maynard",
+        "Facebook",
+        "Tom Maynard",
+        "Facebook"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of people named Tom Maynard. Join Facebook to connect with Tom Maynard and others you may know. Facebook gives people the power to...",
+          "source_info_link": "https://www.facebook.com/public/Tom-Maynard/",
+          "icon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUykeAQHGJFhmZKeyW07etjHv39EwTHf8rsPm3-d_K2oNB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/public/Tom-Maynard/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fpublic%2FTom-Maynard%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 9,
+      "title": "Texas Alliance for Life proudly endorses Tom Maynard for ...",
+      "link": "https://www.facebook.com/TexasAllianceForLife/videos/tom-maynard-primary-runoff-video-twomp4/1390250451684254/",
+      "displayed_link": "5 reactions · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyogrD4368BAUhZaG9CZaIEg.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyjAXKusgv0PLpMwYntCfG5U.png",
+      "snippet": "Texas Alliance for Life proudly endorses Tom Maynard for State Board of Education District 10 in the Primary Runoff Election.",
+      "duration": "1:43",
+      "about_this_result": {
+        "source": {
+          "description": "Texas Alliance for Life proudly endorses Tom Maynard for State Board of Education District 10 in the Primary Runoff Election.",
+          "source_info_link": "https://www.facebook.com/TexasAllianceForLife/videos/tom-maynard-primary-runoff-video-twomp4/1390250451684254/",
+          "icon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUyq8tZHtuvVkZ4pvkdNghltZaJwPlzSH_6qs3FXXhJBFx.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/TexasAllianceForLife/videos/tom-maynard-primary-runoff-video-twomp4/1390250451684254/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FTexasAllianceForLife%2Fvideos%2Ftom-maynard-primary-runoff-video-twomp4%2F1390250451684254%2F",
+      "missing": [
+        "SBOE",
+        "TX-",
+        "Central"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRTCj2b8SqUzG3pIDO2nJt3AC9RxDksQyjbXw",
+      "source": "Facebook · Texas Alliance for Life"
+    },
+    {
+      "position": 10,
+      "title": "SBOE primary election information for parents",
+      "link": "https://www.facebook.com/groups/335153916655739/posts/3254157608088674/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/335153916655739/posts/3254157608088674/&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQFnoECDoQAQ",
+      "displayed_link": "7 comments · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUysIYPWfqF_hVcvZDW5zfUSM.png",
+      "snippet": "Kimberly Brown to be clear the purpose of the training SBOE is reviewing is to remind Trustees of just that, that Parents NOT the districts ...",
+      "snippet_highlighted_words": [
+        "SBOE"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Kimberly Brown to be clear the purpose of the training SBOE is reviewing is to remind Trustees of just that, that Parents NOT the districts ...",
+          "source_info_link": "https://www.facebook.com/groups/335153916655739/posts/3254157608088674/",
+          "icon": "https://serpapi.com/searches/69bb5d8771b492bc418e36bc/images/cXwYqbzF52gwYwuve1mUymMAN8VOqQcn5HjS0j-xGVXYoXopZ-JwQERbjngI0mhq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/335153916655739/posts/3254157608088674/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F335153916655739%2Fposts%2F3254157608088674%2F",
+      "source": "Facebook · Tomball ISD Concerned Parents"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=il27aen1G42Y0PEPi5nRiAE&start=10&sa=N&sstk=Af77f_fIGyiYiQoMNAueBmQTZK7vUl-cMxmxCJF-mDGX4ejjmZTddI1J95VBXNF_uQmPl0eC9Vtt-ZUVDNbMWdq2ZK4EkQlQsm4_0Q&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQ8NMDegQIChAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=il27aen1G42Y0PEPi5nRiAE&start=10&sa=N&sstk=Af77f_fIGyiYiQoMNAueBmQTZK7vUl-cMxmxCJF-mDGX4ejjmZTddI1J95VBXNF_uQmPl0eC9Vtt-ZUVDNbMWdq2ZK4EkQlQsm4_0Q&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=il27aen1G42Y0PEPi5nRiAE&start=20&sa=N&sstk=Af77f_fIGyiYiQoMNAueBmQTZK7vUl-cMxmxCJF-mDGX4ejjmZTddI1J95VBXNF_uQmPl0eC9Vtt-ZUVDNbMWdq2ZK4EkQlQsm4_0Q&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=il27aen1G42Y0PEPi5nRiAE&start=30&sa=N&sstk=Af77f_fIGyiYiQoMNAueBmQTZK7vUl-cMxmxCJF-mDGX4ejjmZTddI1J95VBXNF_uQmPl0eC9Vtt-ZUVDNbMWdq2ZK4EkQlQsm4_0Q&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=il27aen1G42Y0PEPi5nRiAE&start=40&sa=N&sstk=Af77f_fIGyiYiQoMNAueBmQTZK7vUl-cMxmxCJF-mDGX4ejjmZTddI1J95VBXNF_uQmPl0eC9Vtt-ZUVDNbMWdq2ZK4EkQlQsm4_0Q&ved=2ahUKEwjp4sfA86qTAxUNDDQIHYtMFBEQ8tMDegQIChAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+SBOE+TX-10+Central+Texas+Facebook&start=40"
+    }
+  }
+}

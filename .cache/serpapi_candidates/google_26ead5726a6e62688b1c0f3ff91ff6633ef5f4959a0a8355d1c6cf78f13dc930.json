@@ -1,0 +1,257 @@
+{
+  "search_metadata": {
+    "id": "69bb5ef0bb48ad370079937b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_ed23anRp8zxTiCl5N2C6g/69bb5ef0bb48ad370079937b.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_ed23anRp8zxTiCl5N2C6g/69bb5ef0bb48ad370079937b.json_with_pixel_position",
+    "created_at": "2026-03-19 02:26:56 UTC",
+    "processed_at": "2026-03-19 02:26:56 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Aopensecrets.org+%27William+P.+Abel%27+top+donors+US+House+TX-31&oq=site%3Aopensecrets.org+%27William+P.+Abel%27+top+donors+US+House+TX-31&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_ed23anRp8zxTiCl5N2C6g/69bb5ef0bb48ad370079937b.html",
+    "total_time_taken": 1.12
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:opensecrets.org 'William P. Abel' top donors US House TX-31",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:opensecrets.org 'William P. Abel' top donors US House TX-31",
+    "total_results": 8,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Candidates Search Results",
+      "link": "https://www.opensecrets.org/races/candidate_search_results",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/candidate_search_results&ved=2ahUKEwiC8tXr9KqTAxUL1RoGHS5fDo4QFnoECCEQAQ",
+      "displayed_link": "https://www.opensecrets.org › candidate_search_results",
+      "favicon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWFdqvXwINyD5viZKll4R20w.png",
+      "snippet": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+          "source_info_link": "https://www.opensecrets.org/races/candidate_search_results",
+          "icon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWDkgLPCGBS-D7jdrzPiebOj3J-sevH1qwu_96-J40vYR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/candidate_search_results&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Fcandidate_search_results",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 2,
+      "title": "161523 results for",
+      "link": "https://www.opensecrets.org/search?q=%EC%9D%B8%EC%B2%9C%EC%B6%9C%EC%9E%A5%EC%95%88%EB%A7%88&type=indiv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/search%3Fq%3D%25EC%259D%25B8%25EC%25B2%259C%25EC%25B6%259C%25EC%259E%25A5%25EC%2595%2588%25EB%25A7%2588%26type%3Dindiv&ved=2ahUKEwiC8tXr9KqTAxUL1RoGHS5fDo4QFnoECB4QAQ",
+      "displayed_link": "https://www.opensecrets.org › search",
+      "favicon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWPDDXQs4zuvCV1mp7BiBpWU.png",
+      "snippet": "$1 for transparency. Our work depends on donors like you. Just $1 from each visitor would sustain us for a year. Will you give in 2026? Donate Now.",
+      "snippet_highlighted_words": [
+        "donors",
+        "us"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "$1 for transparency. Our work depends on donors like you. Just $1 from each visitor would sustain us for a year. Will you give in 2026? Donate Now.",
+          "source_info_link": "https://www.opensecrets.org/search?q=%EC%9D%B8%EC%B2%9C%EC%B6%9C%EC%9E%A5%EC%95%88%EB%A7%88&type=indiv",
+          "icon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWC_dD9xCDuXOdUNxmujIw4yPGyxEzqExZn-4m_dI6lhP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/search?q=%EC%9D%B8%EC%B2%9C%EC%B6%9C%EC%9E%A5%EC%95%88%EB%A7%88&type=indiv&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fsearch%3Fq%3D%25EC%259D%25B8%25EC%25B2%259C%25EC%25B6%259C%25EC%259E%25A5%25EC%2595%2588%25EB%25A7%2588%26type%3Dindiv",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 3,
+      "title": "Building Trade Unions Recipients",
+      "link": "https://www.opensecrets.org/industries/summary?code=P01&cycle=All&ind=P01&mem=N&recipdetail=H",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/industries/summary%3Fcode%3DP01%26cycle%3DAll%26ind%3DP01%26mem%3DN%26recipdetail%3DH&ved=2ahUKEwiC8tXr9KqTAxUL1RoGHS5fDo4QFnoECB8QAQ",
+      "displayed_link": "https://www.opensecrets.org › industries › summary",
+      "favicon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWMYE9V0OmcOVA7Zty36ksVg.png",
+      "snippet": "Smith, Chris (R-NJ), New Jersey, $712,749 ; DeLauro, Rosa (D-CT), Connecticut, $709,300 ; Levin, Sander (D-MI), Michigan, $680,015 ; Langevin, Jim (D-RI), Rhode ...",
+      "about_this_result": {
+        "source": {
+          "description": "Smith, Chris (R-NJ), New Jersey, $712,749 ; DeLauro, Rosa (D-CT), Connecticut, $709,300 ; Levin, Sander (D-MI), Michigan, $680,015 ; Langevin, Jim (D-RI), Rhode ...",
+          "source_info_link": "https://www.opensecrets.org/industries/summary?code=P01&cycle=All&ind=P01&mem=N&recipdetail=H",
+          "icon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWCFkFaAf-jlsQ8EvdBZMsFyra0xxjBU4G3rLk6jvOFDq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/industries/summary?code=P01&cycle=All&ind=P01&mem=N&recipdetail=H&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Findustries%2Fsummary%3Fcode%3DP01%26cycle%3DAll%26ind%3DP01%26mem%3DN%26recipdetail%3DH",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 4,
+      "title": "3175 results for",
+      "link": "https://www.opensecrets.org/search?field=recip&q=chris&type=indiv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/search%3Ffield%3Drecip%26q%3Dchris%26type%3Dindiv&ved=2ahUKEwiC8tXr9KqTAxUL1RoGHS5fDo4QFnoECBsQAQ",
+      "displayed_link": "https://www.opensecrets.org › search",
+      "favicon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWDgU3pImjmSw63A5QWfFjIo.png",
+      "snippet": "Search results ; Candidate, Hansen, Christopher H (3) - 2000 for NV01 ; Candidate, Hardin, Chris (R) - 2016 for NC06 ; Candidate, Hartman, Christina (D) - 2018 for ...",
+      "about_this_result": {
+        "source": {
+          "description": "Search results ; Candidate, Hansen, Christopher H (3) - 2000 for NV01 ; Candidate, Hardin, Chris (R) - 2016 for NC06 ; Candidate, Hartman, Christina (D) - 2018 for ...",
+          "source_info_link": "https://www.opensecrets.org/search?field=recip&q=chris&type=indiv",
+          "icon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWEX-rNf-nSp1UJOWJ92nv97MZZz_E369ECQuJhf5WOPK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/search?field=recip&q=chris&type=indiv&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fsearch%3Ffield%3Drecip%26q%3Dchris%26type%3Dindiv",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 5,
+      "title": "Wells Fargo Profile: Recipients",
+      "link": "https://www.opensecrets.org/orgs/wells-fargo/recipients?cycle=2018&id=D000019743",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/orgs/wells-fargo/recipients%3Fcycle%3D2018%26id%3DD000019743&ved=2ahUKEwiC8tXr9KqTAxUL1RoGHS5fDo4QFnoECCIQAQ",
+      "displayed_link": "https://www.opensecrets.org › orgs › recipients",
+      "favicon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWGMInU-Uuar10sCWy7iSWcw.png",
+      "snippet": "All Recipients ; Lewis, Jason, $10,191, $9,191 ; Democratic Party of Montana, $10,000, $10,000 ; Hoyer, Steny H · $10,000, $0 ; Luetkemeyer, Blaine, $10,000, $0 ...",
+      "about_this_result": {
+        "source": {
+          "description": "All Recipients ; Lewis, Jason, $10,191, $9,191 ; Democratic Party of Montana, $10,000, $10,000 ; Hoyer, Steny H · $10,000, $0 ; Luetkemeyer, Blaine, $10,000, $0 ...",
+          "source_info_link": "https://www.opensecrets.org/orgs/wells-fargo/recipients?cycle=2018&id=D000019743",
+          "icon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWHHZhHPEX4tIour2z9re0oOmcHmiYtLLM1CIvA0PFsRu.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/orgs/wells-fargo/recipients?cycle=2018&id=D000019743&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Forgs%2Fwells-fargo%2Frecipients%3Fcycle%3D2018%26id%3DD000019743",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 6,
+      "title": "Chevron Profile: Recipients",
+      "link": "https://www.opensecrets.org/orgs/recipients?id=D000000015&cycle=2012",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/orgs/recipients%3Fid%3DD000000015%26cycle%3D2012&ved=2ahUKEwiC8tXr9KqTAxUL1RoGHS5fDo4QFnoECB0QAQ",
+      "displayed_link": "https://www.opensecrets.org › orgs › recipients",
+      "favicon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWKqN2woRBxFfxeAmNkiY60I.png",
+      "snippet": "View top contributors ... The US House of Representatives has 435 members ... Maldonado, Abel, $13,300, $3,300, $10,000, Candidate (R-CA24), Republican, Cand, House.",
+      "snippet_highlighted_words": [
+        "top contributors",
+        "US House",
+        "Abel",
+        "House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View top contributors ... The US House of Representatives has 435 members ... Maldonado, Abel, $13,300, $3,300, $10,000, Candidate (R-CA24), Republican, Cand, House.",
+          "source_info_link": "https://www.opensecrets.org/orgs/recipients?id=D000000015&cycle=2012",
+          "icon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWGmzRthih-PAazTYCNfghpsFTxPcpQS4c2c1nAQ1RDax.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/orgs/recipients?id=D000000015&cycle=2012&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Forgs%2Frecipients%3Fid%3DD000000015%26cycle%3D2012",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 7,
+      "title": "Republican National Cmte Expenditures • OpenSecrets",
+      "link": "https://www.opensecrets.org/political-parties/RNC/2012/expenditures?name=republican-national-cmte",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/political-parties/RNC/2012/expenditures%3Fname%3Drepublican-national-cmte&ved=2ahUKEwiC8tXr9KqTAxUL1RoGHS5fDo4QFnoECBwQAQ",
+      "displayed_link": "https://www.opensecrets.org › political-parties › RNC",
+      "favicon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWG-GYMZ0wuJ5cyVzI90-lsY.png",
+      "snippet": "See where Republican National Cmte spent its money in 2012.",
+      "about_this_result": {
+        "source": {
+          "description": "See where Republican National Cmte spent its money in 2012.",
+          "source_info_link": "https://www.opensecrets.org/political-parties/RNC/2012/expenditures?name=republican-national-cmte",
+          "icon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWD-RUSuAs4kJDVngIK5TTQLotjYqZNvIBf8RBcRpRtfl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/political-parties/RNC/2012/expenditures?name=republican-national-cmte&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fpolitical-parties%2FRNC%2F2012%2Fexpenditures%3Fname%3Drepublican-national-cmte",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 8,
+      "title": "Organizations Disclosing Donations to Human Rights ...",
+      "link": "https://www.opensecrets.org/outside-spending/detail/2024?cmte=Human+Rights+Campaign&tab=donors_all",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/outside-spending/detail/2024%3Fcmte%3DHuman%2BRights%2BCampaign%26tab%3Ddonors_all&ved=2ahUKEwiC8tXr9KqTAxUL1RoGHS5fDo4QFnoECDIQAQ",
+      "displayed_link": "https://www.opensecrets.org › outside-spending › detail",
+      "favicon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWHod08VUkPXmEdVrcr99C_s.png",
+      "snippet": "This table lists top donors to this group in the 2023-2024 election cycle, and may include contributions from the organization itself, its PAC, ...",
+      "snippet_highlighted_words": [
+        "top donors"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This table lists top donors to this group in the 2023-2024 election cycle, and may include contributions from the organization itself, its PAC, ...",
+          "source_info_link": "https://www.opensecrets.org/outside-spending/detail/2024?cmte=Human+Rights+Campaign&tab=donors_all",
+          "icon": "https://serpapi.com/searches/69bb5ef0bb48ad370079937b/images/2IzvpbiC9k1xQ_vsTn-eWHBy9DRoNFYZy2pXM9A-NmZl05H98rh0Fzq_B7qUZwzw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/outside-spending/detail/2024?cmte=Human+Rights+Campaign&tab=donors_all&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Foutside-spending%2Fdetail%2F2024%3Fcmte%3DHuman%2BRights%2BCampaign%26tab%3Ddonors_all",
+      "source": "OpenSecrets"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 8 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=site:opensecrets.org+%27William+P.+Abel%27+top+donors+US+House+TX-31&sca_esv=c2ca9e7198039ef3&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

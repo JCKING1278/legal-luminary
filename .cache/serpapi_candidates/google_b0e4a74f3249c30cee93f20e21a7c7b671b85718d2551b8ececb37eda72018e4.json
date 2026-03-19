@@ -1,0 +1,369 @@
+{
+  "search_metadata": {
+    "id": "69bb5d2c80a078222bcbada8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/SfjGChQysFbLgiBx-wwBmA/69bb5d2c80a078222bcbada8.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/SfjGChQysFbLgiBx-wwBmA/69bb5d2c80a078222bcbada8.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:24 UTC",
+    "processed_at": "2026-03-19 02:19:24 UTC",
+    "google_url": "https://www.google.com/search?q=Stacey+L.+Wilson+%22Bell+County+Commissioner+P2%22+%22Central+Texas%22+Facebook&oq=Stacey+L.+Wilson+%22Bell+County+Commissioner+P2%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/SfjGChQysFbLgiBx-wwBmA/69bb5d2c80a078222bcbada8.html",
+    "total_time_taken": 4.01
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Stacey L. Wilson \"Bell County Commissioner P2\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Stacey L. Wilson \"Bell County Commissioner P2\" \"Central Texas\" Facebook",
+    "total_results": 2560,
+    "time_taken_displayed": 0.99,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Stacey L. Wilson Bell County Commissioner P2 Central Texas Facebook",
+    "spelling_fix": "Stacey L. Wilson Bell County Commissioner P2 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "💙🌊 Stacey Wilson for County Commissioner — Precinct 2!! ...",
+      "link": "https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQFnoECCUQAQ",
+      "displayed_link": "20+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yfx9a7PEZiTmDM080slCNxYM.png",
+      "snippet": "Stacey Wilson for County Commissioner — Precinct 2!! Stacey L Wilson instagram.com/staceywilsoncampaign Donate: DonateToStacey.com.",
+      "snippet_highlighted_words": [
+        "County Commissioner",
+        "Stacey L Wilson"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Stacey Wilson for County Commissioner — Precinct 2!! Stacey L Wilson instagram.com/staceywilsoncampaign Donate: DonateToStacey.com.",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/",
+          "icon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yfw1mwbtpn7_N6pJaq9Mbxt140U1bKQK66dErUM6CHdoM.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2F-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst%2F1281821050654714%2F",
+      "missing": [
+        "P2",
+        "Central"
+      ],
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 2,
+      "title": "Bell County Democratic Party",
+      "link": "https://www.facebook.com/bellcodems/posts/come-out-today-and-support-stacey-wilson-as-she-kicks-off-her-campaign-for-bell-/1196167332553420/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/come-out-today-and-support-stacey-wilson-as-she-kicks-off-her-campaign-for-bell-/1196167332553420/&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQFnoECCQQAQ",
+      "displayed_link": "10+ reactions · 6 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf5_TJwX0VoY4QQH6Dj_0VK8.png",
+      "snippet": "Come out TODAY and support Stacey Wilson as she kicks off her campaign for Bell County Commissioner Precinct 2!",
+      "snippet_highlighted_words": [
+        "Stacey Wilson",
+        "Bell County Commissioner"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Come out TODAY and support Stacey Wilson as she kicks off her campaign for Bell County Commissioner Precinct 2!",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/come-out-today-and-support-stacey-wilson-as-she-kicks-off-her-campaign-for-bell-/1196167332553420/",
+          "icon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf_tr9yi8zNkd4OJ_HbqpYD-n9tMviijrpxnU0CwTfw5S.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/come-out-today-and-support-stacey-wilson-as-she-kicks-off-her-campaign-for-bell-/1196167332553420/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2Fcome-out-today-and-support-stacey-wilson-as-she-kicks-off-her-campaign-for-bell-%2F1196167332553420%2F",
+      "missing": [
+        "L.",
+        "P2",
+        "Central"
+      ],
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 3,
+      "title": "Bell County Democratic Party",
+      "link": "https://www.facebook.com/bellcodems/posts/1280421440794675/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/1280421440794675/&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQFnoECBwQAQ",
+      "displayed_link": "https://www.facebook.com › bellcodems › posts",
+      "favicon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf9nIQIjztDY6eBPlebETLO8.png",
+      "date": "Dec 7, 2025",
+      "snippet": "Killeen City Council Vote 🗳️ Proposal to move city elections to November Friday, Dec. 19 | 1:00PM Killeen City Hall — 101 N College St.",
+      "about_this_result": {
+        "source": {
+          "description": "Killeen City Council Vote 🗳️ Proposal to move city elections to November Friday, Dec. 19 | 1:00PM Killeen City Hall — 101 N College St.",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/1280421440794675/",
+          "icon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf91PksmbRWCtl_d1xE_O9HwczbetPnzL5awsxX1mYjoR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/1280421440794675/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2F1280421440794675%2F",
+      "missing": [
+        "P2",
+        "Central"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 4,
+      "title": "Candidates for Bell County Commissioner in Precinct 2 ...",
+      "link": "https://www.facebook.com/kdhnews/videos/candidates-for-bell-county-commissioner-in-precinct-2-bobby-whitson-and-stacey-w/492112459460119/",
+      "displayed_link": "1 reaction · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf6ECdTMdlapavfA7tS-l-k0.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4YfzVTf1huv0yPVSeC0G4xKW0.png",
+      "snippet": "Candidates for Bell County Commissioner in Precinct 2: Bobby Whitson and Stacey Wilson; and for Precinct 4: Chris Bray and Louie Minor on ...",
+      "duration": "4:33",
+      "about_this_result": {
+        "source": {
+          "description": "Candidates for Bell County Commissioner in Precinct 2: Bobby Whitson and Stacey Wilson; and for Precinct 4: Chris Bray and Louie Minor on ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/candidates-for-bell-county-commissioner-in-precinct-2-bobby-whitson-and-stacey-w/492112459460119/",
+          "icon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf-rffsDx2U2azII4wUkJrV8tlzEFwghUuA2czxD0nIBl.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/candidates-for-bell-county-commissioner-in-precinct-2-bobby-whitson-and-stacey-w/492112459460119/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fcandidates-for-bell-county-commissioner-in-precinct-2-bobby-whitson-and-stacey-w%2F492112459460119%2F",
+      "missing": [
+        "L.",
+        "P2"
+      ],
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "Bell County Democratic Party",
+      "link": "https://www.facebook.com/bellcodems/posts/today-i-want-to-congratulate-every-candidate-who-stepped-forward-to-run-in-the-d/1351349917035160/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/today-i-want-to-congratulate-every-candidate-who-stepped-forward-to-run-in-the-d/1351349917035160/&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQFnoECCIQAQ",
+      "displayed_link": "10+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf44EJAL96K05j-WO3xAzlHM.png",
+      "snippet": "Today I want to congratulate every candidate who stepped forward to run in the Democratic Primary here in Bell County.",
+      "snippet_highlighted_words": [
+        "Bell County"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Today I want to congratulate every candidate who stepped forward to run in the Democratic Primary here in Bell County.",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/today-i-want-to-congratulate-every-candidate-who-stepped-forward-to-run-in-the-d/1351349917035160/",
+          "icon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf7Pn8vu1tnJvbQ7p0nzmDinAmbIiUaM0jGqgZEaZqKZu.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/today-i-want-to-congratulate-every-candidate-who-stepped-forward-to-run-in-the-d/1351349917035160/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2Ftoday-i-want-to-congratulate-every-candidate-who-stepped-forward-to-run-in-the-d%2F1351349917035160%2F",
+      "missing": [
+        "L.",
+        "P2"
+      ],
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 6,
+      "title": "The Republican primary race for County Commissioner in ...",
+      "link": "https://www.facebook.com/libertyhillindependent/posts/the-republican-primary-race-for-county-commissioner-in-precinct-2-delivered-a-cl/1539397134855327/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/libertyhillindependent/posts/the-republican-primary-race-for-county-commissioner-in-precinct-2-delivered-a-cl/1539397134855327/&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQFnoECCAQAQ",
+      "displayed_link": "20+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf3z2RNyl6J-mSFpn44yMTP4.png",
+      "snippet": "Very well written to bring attention to voter apathy and the runoff candidates. Sounds like a public forum would be well received Thank you ...",
+      "about_this_result": {
+        "source": {
+          "description": "Very well written to bring attention to voter apathy and the runoff candidates. Sounds like a public forum would be well received Thank you ...",
+          "source_info_link": "https://www.facebook.com/libertyhillindependent/posts/the-republican-primary-race-for-county-commissioner-in-precinct-2-delivered-a-cl/1539397134855327/",
+          "icon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf4yRiKstscmwEVvyqcl8cXx0qOT1-bB5EzVySuMWk4M5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/libertyhillindependent/posts/the-republican-primary-race-for-county-commissioner-in-precinct-2-delivered-a-cl/1539397134855327/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Flibertyhillindependent%2Fposts%2Fthe-republican-primary-race-for-county-commissioner-in-precinct-2-delivered-a-cl%2F1539397134855327%2F",
+      "source": "Facebook · The Liberty Hill Independent"
+    },
+    {
+      "position": 7,
+      "title": "💡🏛️ 𝐖𝐡𝐚𝐭 𝐈𝐬 𝐚 𝐂𝐨𝐮𝐧𝐭𝐲 𝐂𝐨𝐦𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐞𝐫? Bell ...",
+      "link": "https://www.facebook.com/bellcodems/posts/%EF%B8%8F-%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%9A-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%ABbell-county-is-divided-into-4-precincts-each-repr/1270377408465745/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/%25EF%25B8%258F-%25F0%259D%2590%2596%25F0%259D%2590%25A1%25F0%259D%2590%259A%25F0%259D%2590%25AD-%25F0%259D%2590%2588%25F0%259D%2590%25AC-%25F0%259D%2590%259A-%25F0%259D%2590%2582%25F0%259D%2590%25A8%25F0%259D%2590%25AE%25F0%259D%2590%25A7%25F0%259D%2590%25AD%25F0%259D%2590%25B2-%25F0%259D%2590%2582%25F0%259D%2590%25A8%25F0%259D%2590%25A6%25F0%259D%2590%25A6%25F0%259D%2590%25A2%25F0%259D%2590%25AC%25F0%259D%2590%25AC%25F0%259D%2590%25A2%25F0%259D%2590%25A8%25F0%259D%2590%25A7%25F0%259D%2590%259E%25F0%259D%2590%25ABbell-county-is-divided-into-4-precincts-each-repr/1270377408465745/&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQFnoECB8QAQ",
+      "displayed_link": "8 reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf3Z9v8aHaJq6FdlAc9A8Op8.png",
+      "snippet": "What Is a County Commissioner? Bell County is divided into 4 precincts, each represented by an elected Commissioner.",
+      "snippet_highlighted_words": [
+        "Commissioner",
+        "Bell County",
+        "Commissioner"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What Is a County Commissioner? Bell County is divided into 4 precincts, each represented by an elected Commissioner.",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/%EF%B8%8F-%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%9A-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%ABbell-county-is-divided-into-4-precincts-each-repr/1270377408465745/",
+          "icon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf2SShkexpJd5qcGa45nR1LMsv-s3OAA3hc2WYLDvdPQ7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/%EF%B8%8F-%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%9A-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%ABbell-county-is-divided-into-4-precincts-each-repr/1270377408465745/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2F%25EF%25B8%258F-%25F0%259D%2590%2596%25F0%259D%2590%25A1%25F0%259D%2590%259A%25F0%259D%2590%25AD-%25F0%259D%2590%2588%25F0%259D%2590%25AC-%25F0%259D%2590%259A-%25F0%259D%2590%2582%25F0%259D%2590%25A8%25F0%259D%2590%25AE%25F0%259D%2590%25A7%25F0%259D%2590%25AD%25F0%259D%2590%25B2-%25F0%259D%2590%2582%25F0%259D%2590%25A8%25F0%259D%2590%25A6%25F0%259D%2590%25A6%25F0%259D%2590%25A2%25F0%259D%2590%25AC%25F0%259D%2590%25AC%25F0%259D%2590%25A2%25F0%259D%2590%25A8%25F0%259D%2590%25A7%25F0%259D%2590%259E%25F0%259D%2590%25ABbell-county-is-divided-into-4-precincts-each-repr%2F1270377408465745%2F",
+      "missing": [
+        "L.",
+        "P2",
+        "Central"
+      ],
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 8,
+      "title": "Stacey L. Wilson (Bell County Commissioner Precinct 2, ...",
+      "link": "https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQFnoECD8QAQ",
+      "displayed_link": "https://ballotpedia.org › Stacey_L._Wilson_(Bell_County...",
+      "favicon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4YfwXVxrRxszQBwsn2xXJxzfQ.png",
+      "snippet": "Completing the survey will update the candidate's Ballotpedia profile, letting voters know who they are and what they stand for. More than 26,000 candidates ...",
+      "about_this_result": {
+        "source": {
+          "description": "Completing the survey will update the candidate's Ballotpedia profile, letting voters know who they are and what they stand for. More than 26,000 candidates ...",
+          "source_info_link": "https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4YfwXAt5YHFIuhtBz4ijARcVCvOx9qdZJkVm-yQNLf0Yxi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Stacey_L._Wilson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FStacey_L._Wilson_%28Bell_County_Commissioner_Precinct_2%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "P2",
+        "Central"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 9,
+      "title": "HAPPENING NOW! 💙",
+      "link": "https://www.facebook.com/bellcodems/posts/happening-now-/1263311665838986/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/happening-now-/1263311665838986/&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQFnoECDkQAQ",
+      "displayed_link": "2 reactions · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf5uCIWufAcGoLx2CCPdVQco.png",
+      "snippet": "Today I want to congratulate every candidate who stepped forward to run in the Democratic Primary here in Bell County.",
+      "snippet_highlighted_words": [
+        "Bell County"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Today I want to congratulate every candidate who stepped forward to run in the Democratic Primary here in Bell County.",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/happening-now-/1263311665838986/",
+          "icon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf9i2eQOmZJxRYcPiFxwTqftqvZBI2djaqWxlGD6MbykC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/happening-now-/1263311665838986/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2Fhappening-now-%2F1263311665838986%2F",
+      "missing": [
+        "L.",
+        "P2",
+        "Central"
+      ],
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 10,
+      "title": "Bell County Democratic Party",
+      "link": "https://www.facebook.com/bellcodems/posts/1004518825051606/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/1004518825051606/&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQFnoECDcQAQ",
+      "displayed_link": "https://www.facebook.com › bellcodems › posts",
+      "favicon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4YfyabF3mR6yrOUs-Npq7yeQw.png",
+      "snippet": "What Is a County Commissioner? Bell County is divided into 4 precincts, each represented by an elected Commissioner. Together with the County Judge, ...",
+      "snippet_highlighted_words": [
+        "Commissioner",
+        "Bell County",
+        "Commissioner"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What Is a County Commissioner? Bell County is divided into 4 precincts, each represented by an elected Commissioner. Together with the County Judge, ...",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/1004518825051606/",
+          "icon": "https://serpapi.com/searches/69bb5d2c80a078222bcbada8/images/lp3rhnn0jhQbTEFlEN4Yf4C0Q2-SBVtyTuTKBPOIMpyPUt284qetGd8rJdJnyrTS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/1004518825051606/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2F1004518825051606%2F",
+      "missing": [
+        "P2",
+        "Central"
+      ],
+      "source": "Facebook"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=LV27aaCYGtmyqtsP5q-7kAs&start=10&sa=N&sstk=Af77f_e1ZVIkJQaoOJRZT6PpKG1E70U80qAor_nXukSIYok6mzdQwbXaKKfB58OLXAsa1utktwPs5CjmyBgnWumS1rQUN9PVk0CRbw&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQ8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=LV27aaCYGtmyqtsP5q-7kAs&start=10&sa=N&sstk=Af77f_e1ZVIkJQaoOJRZT6PpKG1E70U80qAor_nXukSIYok6mzdQwbXaKKfB58OLXAsa1utktwPs5CjmyBgnWumS1rQUN9PVk0CRbw&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=LV27aaCYGtmyqtsP5q-7kAs&start=20&sa=N&sstk=Af77f_e1ZVIkJQaoOJRZT6PpKG1E70U80qAor_nXukSIYok6mzdQwbXaKKfB58OLXAsa1utktwPs5CjmyBgnWumS1rQUN9PVk0CRbw&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=LV27aaCYGtmyqtsP5q-7kAs&start=30&sa=N&sstk=Af77f_e1ZVIkJQaoOJRZT6PpKG1E70U80qAor_nXukSIYok6mzdQwbXaKKfB58OLXAsa1utktwPs5CjmyBgnWumS1rQUN9PVk0CRbw&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=LV27aaCYGtmyqtsP5q-7kAs&start=40&sa=N&sstk=Af77f_e1ZVIkJQaoOJRZT6PpKG1E70U80qAor_nXukSIYok6mzdQwbXaKKfB58OLXAsa1utktwPs5CjmyBgnWumS1rQUN9PVk0CRbw&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQ8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=LV27aaCYGtmyqtsP5q-7kAs&start=50&sa=N&sstk=Af77f_e1ZVIkJQaoOJRZT6PpKG1E70U80qAor_nXukSIYok6mzdQwbXaKKfB58OLXAsa1utktwPs5CjmyBgnWumS1rQUN9PVk0CRbw&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQ8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=LV27aaCYGtmyqtsP5q-7kAs&start=60&sa=N&sstk=Af77f_e1ZVIkJQaoOJRZT6PpKG1E70U80qAor_nXukSIYok6mzdQwbXaKKfB58OLXAsa1utktwPs5CjmyBgnWumS1rQUN9PVk0CRbw&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQ8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=LV27aaCYGtmyqtsP5q-7kAs&start=70&sa=N&sstk=Af77f_e1ZVIkJQaoOJRZT6PpKG1E70U80qAor_nXukSIYok6mzdQwbXaKKfB58OLXAsa1utktwPs5CjmyBgnWumS1rQUN9PVk0CRbw&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQ8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=LV27aaCYGtmyqtsP5q-7kAs&start=80&sa=N&sstk=Af77f_e1ZVIkJQaoOJRZT6PpKG1E70U80qAor_nXukSIYok6mzdQwbXaKKfB58OLXAsa1utktwPs5CjmyBgnWumS1rQUN9PVk0CRbw&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQ8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=LV27aaCYGtmyqtsP5q-7kAs&start=90&sa=N&sstk=Af77f_e1ZVIkJQaoOJRZT6PpKG1E70U80qAor_nXukSIYok6mzdQwbXaKKfB58OLXAsa1utktwPs5CjmyBgnWumS1rQUN9PVk0CRbw&ved=2ahUKEwjg4pmU86qTAxVZmWoFHebXDrIQ8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stacey+L.+Wilson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=90"
+    }
+  }
+}

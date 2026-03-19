@@ -1,0 +1,388 @@
+{
+  "search_metadata": {
+    "id": "69bb5e0bb333eef84847011d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8VX2JV7wyPWdklhB_KVnCw/69bb5e0bb333eef84847011d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8VX2JV7wyPWdklhB_KVnCw/69bb5e0bb333eef84847011d.json_with_pixel_position",
+    "created_at": "2026-03-19 02:23:07 UTC",
+    "processed_at": "2026-03-19 02:23:07 UTC",
+    "google_url": "https://www.google.com/search?q=Valentina+Gomez+Noriega+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Valentina+Gomez+Noriega+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8VX2JV7wyPWdklhB_KVnCw/69bb5e0bb333eef84847011d.html",
+    "total_time_taken": 2.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Valentina Gomez Noriega \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Valentina Gomez Noriega \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 26,
+    "time_taken_displayed": 0.42,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Valentina Gomez Noriega US House TX-31 Central Texas Facebook",
+    "spelling_fix": "Valentina Gomez Noriega US House TX-31 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Valentina Gomez Noriega (Republican Party) is running for ...",
+      "link": "https://www.facebook.com/groups/950642862921772/posts/1618133492839369/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/950642862921772/posts/1618133492839369/&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQFnoECBUQAQ",
+      "displayed_link": "6 comments · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyPCAz9MN_RyLJNoJBdykopo.png",
+      "snippet": "Valentina Gomez Noriega (Republican Party) is running for election to the U.S. House to represent Texas' 31st Congressional District.",
+      "snippet_highlighted_words": [
+        "Valentina Gomez Noriega",
+        "U.S. House",
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Valentina Gomez Noriega (Republican Party) is running for election to the U.S. House to represent Texas' 31st Congressional District.",
+          "source_info_link": "https://www.facebook.com/groups/950642862921772/posts/1618133492839369/",
+          "icon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyP9yc164XETJYDUH314gb4PB0V36YL2NhmgKqE7hBkUv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/950642862921772/posts/1618133492839369/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F950642862921772%2Fposts%2F1618133492839369%2F",
+      "source": "Facebook · Political Debate"
+    },
+    {
+      "position": 2,
+      "title": "Valentina Gomez announced her run for Texas' 31st ...",
+      "link": "https://www.facebook.com/nationscoops/posts/valentina-gomez-announced-her-run-for-texas-31st-congressional-district-and-vows/828479773146275/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/nationscoops/posts/valentina-gomez-announced-her-run-for-texas-31st-congressional-district-and-vows/828479773146275/&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQFnoECBYQAQ",
+      "displayed_link": "50+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyDZswTiUgueQkwCwoC5_9Vw.png",
+      "snippet": "Valentina Gomez announced her run for Texas' 31st Congressional District and vows to kick out all “dirty Muslims” out #usa #republican ...",
+      "snippet_highlighted_words": [
+        "Valentina Gomez",
+        "Texas",
+        "31st Congressional",
+        "usa"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Valentina Gomez announced her run for Texas' 31st Congressional District and vows to kick out all “dirty Muslims” out #usa #republican ...",
+          "source_info_link": "https://www.facebook.com/nationscoops/posts/valentina-gomez-announced-her-run-for-texas-31st-congressional-district-and-vows/828479773146275/",
+          "icon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyHUMHkcqvGhI0jOPp6Lf4US6mUMhyXTb2TtA8Owe-Eld.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/nationscoops/posts/valentina-gomez-announced-her-run-for-texas-31st-congressional-district-and-vows/828479773146275/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fnationscoops%2Fposts%2Fvalentina-gomez-announced-her-run-for-texas-31st-congressional-district-and-vows%2F828479773146275%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Noriega+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQ5t4CegQIJRAB"
+      },
+      "source": "Facebook · Nation Scoops"
+    },
+    {
+      "position": 3,
+      "title": "Texas Congressional Candidate Valentina Gomez Has ...",
+      "link": "https://www.facebook.com/corpuschristicronica/posts/texas-congressional-candidate-valentina-gomez-has-voter-registration-suspendedva/1362977839177310/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/corpuschristicronica/posts/texas-congressional-candidate-valentina-gomez-has-voter-registration-suspendedva/1362977839177310/&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQFnoECBwQAQ",
+      "displayed_link": "9.7K+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyBDClqMGmHftfD_A-KPA5wI.png",
+      "snippet": "Texas Congressional Candidate Valentina Gomez Has Voter Registration Suspended Valentina Noriega-Gomez, a social media influencer running ...",
+      "snippet_highlighted_words": [
+        "Texas Congressional",
+        "Valentina Gomez",
+        "Valentina Noriega",
+        "Gomez"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Texas Congressional Candidate Valentina Gomez Has Voter Registration Suspended Valentina Noriega-Gomez, a social media influencer running ...",
+          "source_info_link": "https://www.facebook.com/corpuschristicronica/posts/texas-congressional-candidate-valentina-gomez-has-voter-registration-suspendedva/1362977839177310/",
+          "icon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyBaxJWyauNXBS9Wd1Tis-87NLk7XaC_eHXQR1gQ-OYIK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/corpuschristicronica/posts/texas-congressional-candidate-valentina-gomez-has-voter-registration-suspendedva/1362977839177310/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fcorpuschristicronica%2Fposts%2Ftexas-congressional-candidate-valentina-gomez-has-voter-registration-suspendedva%2F1362977839177310%2F",
+      "source": "Facebook · Corpus Christi Crónica"
+    },
+    {
+      "position": 4,
+      "title": "Republican candidate Valentina Gomez launched her ...",
+      "link": "https://www.facebook.com/britishmuslimtv/posts/republican-candidate-valentina-gomez-launched-her-congressional-campaign-with-a-/1285851190237106/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/britishmuslimtv/posts/republican-candidate-valentina-gomez-launched-her-congressional-campaign-with-a-/1285851190237106/&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQFnoECDIQAQ",
+      "displayed_link": "140+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyO30kypKXb9fwOEM-7bXWj8.png",
+      "snippet": "Republican candidate Valentina Gomez launched her congressional campaign with a video in which she uses anti-Islam language and refers to ...",
+      "snippet_highlighted_words": [
+        "Valentina Gomez",
+        "congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Republican candidate Valentina Gomez launched her congressional campaign with a video in which she uses anti-Islam language and refers to ...",
+          "source_info_link": "https://www.facebook.com/britishmuslimtv/posts/republican-candidate-valentina-gomez-launched-her-congressional-campaign-with-a-/1285851190237106/",
+          "icon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyDm7gXdjI6nggTeRTWdfwlgyL53tkjdgDFtT0iBNNrm3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/britishmuslimtv/posts/republican-candidate-valentina-gomez-launched-her-congressional-campaign-with-a-/1285851190237106/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbritishmuslimtv%2Fposts%2Frepublican-candidate-valentina-gomez-launched-her-congressional-campaign-with-a-%2F1285851190237106%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Noriega+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQ5t4CegQINRAB"
+      },
+      "source": "Facebook · BritishMuslimTV"
+    },
+    {
+      "position": 5,
+      "title": "A former Missouri GOP candidate is now running for ...",
+      "link": "https://www.facebook.com/gubridgeinit/posts/a-former-missouri-gop-candidate-is-now-running-for-congress-in-texass-31st-distr/1186703870261532/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/gubridgeinit/posts/a-former-missouri-gop-candidate-is-now-running-for-congress-in-texass-31st-distr/1186703870261532/&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQFnoECB0QAQ",
+      "displayed_link": "4 reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyEvaceNNoLH6KMZ7oxQ86Mk.png",
+      "snippet": "Failed Missouri Candidate Launches Texas Congressional Bid With Anti-Muslim Platform. Former Missouri candidate Valentina Gomez Norieg.",
+      "snippet_highlighted_words": [
+        "Texas Congressional",
+        "Valentina Gomez"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Failed Missouri Candidate Launches Texas Congressional Bid With Anti-Muslim Platform. Former Missouri candidate Valentina Gomez Norieg.",
+          "source_info_link": "https://www.facebook.com/gubridgeinit/posts/a-former-missouri-gop-candidate-is-now-running-for-congress-in-texass-31st-distr/1186703870261532/",
+          "icon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyIyj6k4l7XY3U7kEW4J7sT8kAUhPqqRZ1iy8g8AOYFSl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/gubridgeinit/posts/a-former-missouri-gop-candidate-is-now-running-for-congress-in-texass-31st-distr/1186703870261532/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgubridgeinit%2Fposts%2Fa-former-missouri-gop-candidate-is-now-running-for-congress-in-texass-31st-distr%2F1186703870261532%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Noriega+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQ5t4CegQIJxAB"
+      },
+      "source": "Facebook · The Bridge Initiative"
+    },
+    {
+      "position": 6,
+      "title": "This is Valentina Gomez, who is running for Texas' 31st ...",
+      "link": "https://www.facebook.com/seth.andrews.31/posts/this-is-valentina-gomez-who-is-running-for-texas-31st-district-in-2026-as-a-repu/24562420873407662/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/seth.andrews.31/posts/this-is-valentina-gomez-who-is-running-for-texas-31st-district-in-2026-as-a-repu/24562420873407662/&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQFnoECBoQAQ",
+      "displayed_link": "240+ reactions · 5 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyPUbURDvD6Cdug28ToVO0dU.png",
+      "snippet": "This is Valentina Gomez, who is running for Texas' 31st District in 2026 as a Republican.",
+      "snippet_highlighted_words": [
+        "Valentina Gomez",
+        "Texas",
+        "31st"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This is Valentina Gomez, who is running for Texas' 31st District in 2026 as a Republican.",
+          "source_info_link": "https://www.facebook.com/seth.andrews.31/posts/this-is-valentina-gomez-who-is-running-for-texas-31st-district-in-2026-as-a-repu/24562420873407662/",
+          "icon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyATb9dSyU2pTqs9qIp2IFOc04BMilbx_j-qEglKWKJqI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/seth.andrews.31/posts/this-is-valentina-gomez-who-is-running-for-texas-31st-district-in-2026-as-a-repu/24562420873407662/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fseth.andrews.31%2Fposts%2Fthis-is-valentina-gomez-who-is-running-for-texas-31st-district-in-2026-as-a-repu%2F24562420873407662%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Noriega+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQ5t4CegQIJhAB"
+      },
+      "source": "Facebook · Seth Andrews"
+    },
+    {
+      "position": 7,
+      "title": "Election signs for Valentina Gomez, a candidate for the ...",
+      "link": "https://www.facebook.com/kdhnews/posts/election-signs-for-valentina-gomez-a-candidate-for-the-31st-congressional-distri/1396501045757379/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/election-signs-for-valentina-gomez-a-candidate-for-the-31st-congressional-distri/1396501045757379/&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQFnoECCgQAQ",
+      "displayed_link": "20+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyMAEKPb7X1Zvr8Qm6pSgfOk.png",
+      "snippet": "Election signs for Valentina Gomez, a candidate for the 31st congressional district of Texas, are popping up in illegal places across Harker ...",
+      "snippet_highlighted_words": [
+        "Valentina Gomez",
+        "31st congressional",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Election signs for Valentina Gomez, a candidate for the 31st congressional district of Texas, are popping up in illegal places across Harker ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/election-signs-for-valentina-gomez-a-candidate-for-the-31st-congressional-distri/1396501045757379/",
+          "icon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyAA4dEoYITGwnFKV_letOIGuTtwjDxlrj54Sp22ixFFP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/election-signs-for-valentina-gomez-a-candidate-for-the-31st-congressional-distri/1396501045757379/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Felection-signs-for-valentina-gomez-a-candidate-for-the-31st-congressional-distri%2F1396501045757379%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Noriega+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQ5t4CegQILRAB"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 8,
+      "title": "Valentina Gomez Noriega",
+      "link": "https://ballotpedia.org/Valentina_Gomez_Noriega",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Valentina_Gomez_Noriega&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQFnoECDoQAQ",
+      "displayed_link": "https://ballotpedia.org › Valentina_Gomez_Noriega",
+      "favicon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyML52cjGRo25UTiy6TvLBYI.png",
+      "snippet": "Freeman School of Business in 2020. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Freeman School of Business in 2020. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+          "source_info_link": "https://ballotpedia.org/Valentina_Gomez_Noriega",
+          "icon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyOIBoz_GOEKqGiyMkaFWINtXLZs0Mhsqnq0vS3U-Pkxx.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Valentina_Gomez_Noriega&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FValentina_Gomez_Noriega",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 9,
+      "title": "So Valentina Gomez Noriega, who ran for Secretary ...",
+      "link": "https://www.facebook.com/eapenthampy/photos/so-valentina-gomez-noriega-who-ran-for-secretary-of-state-in-missouri-two-years-/10116951511766490/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/eapenthampy/photos/so-valentina-gomez-noriega-who-ran-for-secretary-of-state-in-missouri-two-years-/10116951511766490/&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQFnoECD0QAQ",
+      "displayed_link": "40+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyL7hDbcNIlNhB4tsB0TSwD8.png",
+      "snippet": "If you know Valentina you know she's someone any American can have a good chuckle at, regardless of partisan affiliation. Personally I am amused ...",
+      "snippet_highlighted_words": [
+        "Valentina",
+        "American"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you know Valentina you know she's someone any American can have a good chuckle at, regardless of partisan affiliation. Personally I am amused ...",
+          "source_info_link": "https://www.facebook.com/eapenthampy/photos/so-valentina-gomez-noriega-who-ran-for-secretary-of-state-in-missouri-two-years-/10116951511766490/",
+          "icon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyDgGXz2iBawASDJHIKkYUnC2at3T8DXfZTWeKvDcfgee.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/eapenthampy/photos/so-valentina-gomez-noriega-who-ran-for-secretary-of-state-in-missouri-two-years-/10116951511766490/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Feapenthampy%2Fphotos%2Fso-valentina-gomez-noriega-who-ran-for-secretary-of-state-in-missouri-two-years-%2F10116951511766490%2F",
+      "missing": [
+        "TX-",
+        "31",
+        "Central"
+      ],
+      "source": "Facebook · Eapen Thampy"
+    },
+    {
+      "position": 10,
+      "title": "🔥📖Valentina Gómez Noriega, candidata republicana en ...",
+      "link": "https://www.facebook.com/LaJornadadeOrientePuebla/videos/valentina-g%C3%B3mez-noriega-candidata-republicana-en-texas-quema-un-cor%C3%A1n-y-lanza-am/2054169618448205/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/LaJornadadeOrientePuebla/videos/valentina-g%25C3%25B3mez-noriega-candidata-republicana-en-texas-quema-un-cor%25C3%25A1n-y-lanza-am/2054169618448205/&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQFnoECEEQAQ",
+      "displayed_link": "6 reactions · 6 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyOaNyBtiX1LK9jA3Njxn0Zw.png",
+      "snippet": "Valentina Gómez Noriega, candidata republicana en Texas, quema un Corán y lanza amenazas contra musulmanes.",
+      "snippet_highlighted_words": [
+        "Valentina Gómez Noriega",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Valentina Gómez Noriega, candidata republicana en Texas, quema un Corán y lanza amenazas contra musulmanes.",
+          "source_info_link": "https://www.facebook.com/LaJornadadeOrientePuebla/videos/valentina-g%C3%B3mez-noriega-candidata-republicana-en-texas-quema-un-cor%C3%A1n-y-lanza-am/2054169618448205/",
+          "icon": "https://serpapi.com/searches/69bb5e0bb333eef84847011d/images/av3GbIL6JbOEkJ8_Xh5yyHy-Xbqctds9T_L7o6ljzfn0vCpbsje-jpn9R3WvhAaW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/LaJornadadeOrientePuebla/videos/valentina-g%C3%B3mez-noriega-candidata-republicana-en-texas-quema-un-cor%C3%A1n-y-lanza-am/2054169618448205/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FLaJornadadeOrientePuebla%2Fvideos%2Fvalentina-g%25C3%25B3mez-noriega-candidata-republicana-en-texas-quema-un-cor%25C3%25A1n-y-lanza-am%2F2054169618448205%2F",
+      "missing": [
+        "US",
+        "House",
+        "TX-",
+        "Central"
+      ],
+      "source": "Facebook · La Jornada de Oriente"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Dl67acPhCIyoptQPmffEyAo&start=10&sa=N&sstk=Af77f_ei-lsKIBV-KBC661Vuzx6IUSJuULbMbc14tC1g2w9SlYksDwOLXTtY-pTRGHLIyc4kbMYTd8lWgC6rKTloVcVqtEloyBs80w&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQ8NMDegQIChAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Dl67acPhCIyoptQPmffEyAo&start=10&sa=N&sstk=Af77f_ei-lsKIBV-KBC661Vuzx6IUSJuULbMbc14tC1g2w9SlYksDwOLXTtY-pTRGHLIyc4kbMYTd8lWgC6rKTloVcVqtEloyBs80w&ved=2ahUKEwjDoK3_86qTAxUMlIkEHZk7EakQ8tMDegQIChAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+Facebook&start=10"
+    }
+  }
+}

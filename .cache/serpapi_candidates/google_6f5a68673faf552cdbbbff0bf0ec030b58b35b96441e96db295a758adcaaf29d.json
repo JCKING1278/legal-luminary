@@ -1,0 +1,407 @@
+{
+  "search_metadata": {
+    "id": "69bb5d78974bbb4e80d29e4e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dPrnXB3kCGkTsUI5Qv9p8g/69bb5d78974bbb4e80d29e4e.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/dPrnXB3kCGkTsUI5Qv9p8g/69bb5d78974bbb4e80d29e4e.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:40 UTC",
+    "processed_at": "2026-03-19 02:20:40 UTC",
+    "google_url": "https://www.google.com/search?q=Charles+Hollinger+%22CTC+Trustee+Place+2%22+%22Central+Texas%22+LinkedIn&oq=Charles+Hollinger+%22CTC+Trustee+Place+2%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/dPrnXB3kCGkTsUI5Qv9p8g/69bb5d78974bbb4e80d29e4e.html",
+    "total_time_taken": 2.96
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Charles Hollinger \"CTC Trustee Place 2\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Charles Hollinger \"CTC Trustee Place 2\" \"Central Texas\" LinkedIn",
+    "total_results": 325,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Charles Hollinger CTC Trustee Place 2 Central Texas LinkedIn",
+    "spelling_fix": "Charles Hollinger CTC Trustee Place 2 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "10+ \"Charles Hollinger\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Charles/Hollinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Charles/Hollinger&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0QFnoECBwQAQ",
+      "displayed_link": "https://www.linkedin.com › pub › dir › Hollinger",
+      "favicon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt1w3O1GKEbq4X14leapOjfs.png",
+      "snippet": "View the profiles of professionals named \"Charles Hollinger\" on LinkedIn. There are 10+ professionals named \"Charles Hollinger\", who use LinkedIn to ...",
+      "snippet_highlighted_words": [
+        "Charles Hollinger",
+        "LinkedIn",
+        "Charles Hollinger",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Charles Hollinger\" on LinkedIn. There are 10+ professionals named \"Charles Hollinger\", who use LinkedIn to ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Charles/Hollinger",
+          "icon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-YtxnnHmfxMovI9V_B4ouoTvtO8x-ofq0fYgdxRH5RRpmX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Charles/Hollinger&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FCharles%2FHollinger",
+      "missing": [
+        "CTC",
+        "Trustee",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 2,
+      "title": "Charles Hollinger (Central Texas College District Trustee ...",
+      "link": "https://ballotpedia.org/Charles_Hollinger_(Central_Texas_College_District_Trustee_Board_Place_2,_Texas,_candidate_2025)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Charles_Hollinger_(Central_Texas_College_District_Trustee_Board_Place_2,_Texas,_candidate_2025)&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0QFnoECBsQAQ",
+      "displayed_link": "https://ballotpedia.org › Charles_Hollinger_(Central_Tex...",
+      "favicon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt3UizdQa5lxAL-OVkxf9Wak.png",
+      "snippet": "Charles Hollinger ran for election to the Central Texas College District Trustee Board Place 2. Hollinger was on the ballot in the general election on May 3, ...",
+      "snippet_highlighted_words": [
+        "Charles Hollinger",
+        "Central Texas",
+        "Trustee",
+        "Place 2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Charles Hollinger ran for election to the Central Texas College District Trustee Board Place 2. Hollinger was on the ballot in the general election on May 3, ...",
+          "source_info_link": "https://ballotpedia.org/Charles_Hollinger_(Central_Texas_College_District_Trustee_Board_Place_2,_Texas,_candidate_2025)",
+          "icon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt4uI5QY3oQI3ejmn2gMPVXRl0xELwXITGGlIQW-Hl9L4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Charles_Hollinger_(Central_Texas_College_District_Trustee_Board_Place_2,_Texas,_candidate_2025)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FCharles_Hollinger_%28Central_Texas_College_District_Trustee_Board_Place_2%2C_Texas%2C_candidate_2025%29",
+      "missing": [
+        "LinkedIn"
+      ],
+      "must_include": {
+        "word": "LinkedIn",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+%22LinkedIn%22&sa=X&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0Q5t4CegQIIBAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 3,
+      "title": "Candidate Video: Charles Hollinger CTC Board of Trustees ...",
+      "link": "https://kdhnews.com/centerforpolitics/candidates/candidate-video-charles-hollinger-ctc-board-of-trustees-candidate/youtube_56aa6e72-5713-11e9-80d0-1b14845c7d80.html",
+      "displayed_link": "https://kdhnews.com · Apr 4, 2019",
+      "thumbnail": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-YtwCAXWV-k6STkbPFr4XnI6U.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt0pyWrYoSkXQGI-KtK6GO2U.png",
+      "snippet": "I would like to have a seat at the board so that as the next series of decisions gets made I can bring to bear the experience and training a CTC board member.",
+      "duration": "1:49",
+      "about_this_result": {
+        "source": {
+          "description": "I would like to have a seat at the board so that as the next series of decisions gets made I can bring to bear the experience and training a CTC board member.",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/candidates/candidate-video-charles-hollinger-ctc-board-of-trustees-candidate/youtube_56aa6e72-5713-11e9-80d0-1b14845c7d80.html",
+          "icon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt9lCxlS36D5GuxCQtk9DQxlEhGBybnftZrTRyN8wm38s.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/candidates/candidate-video-charles-hollinger-ctc-board-of-trustees-candidate/youtube_56aa6e72-5713-11e9-80d0-1b14845c7d80.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fcandidates%2Fcandidate-video-charles-hollinger-ctc-board-of-trustees-candidate%2Fyoutube_56aa6e72-5713-11e9-80d0-1b14845c7d80.html",
+      "missing": [
+        "Trustee",
+        "2",
+        "LinkedIn"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTArcDDfVyXaa-BiRzeb1S1F5XGRrKiMtexlQ",
+      "source": "The Killeen Daily Herald · Killeen Daily Herald"
+    },
+    {
+      "position": 4,
+      "title": "Charles Hollinger - Achieva I.T. Inc.",
+      "link": "https://www.linkedin.com/in/charles-hollinger-25028714",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/charles-hollinger-25028714&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0QFnoECCEQAQ",
+      "displayed_link": "7 followers",
+      "favicon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-YtxlAx98oAkZvAwh63AYZRAc.png",
+      "snippet": "Experience: Achieva I.T. Inc. · Location: Killeen · 5 connections on LinkedIn. View Charles Hollinger's profile on LinkedIn, a professional community of 1 ...",
+      "snippet_highlighted_words": [
+        "Location",
+        "LinkedIn",
+        "Charles Hollinger's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Killeen, Texas, United States",
+            "Achieva I.T. Inc."
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: Achieva I.T. Inc. · Location: Killeen · 5 connections on LinkedIn. View Charles Hollinger's profile on LinkedIn, a professional community of 1 ...",
+          "source_info_link": "https://www.linkedin.com/in/charles-hollinger-25028714",
+          "icon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt5HXmcINqCHzR7o8XEt0kA9FB1DmdhNTVwGloYq4C4_J.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/charles-hollinger-25028714&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcharles-hollinger-25028714",
+      "missing": [
+        "CTC"
+      ],
+      "must_include": {
+        "word": "CTC",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Charles+Hollinger+%22CTC%22+Trustee+Place+2+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0Q5t4CegQILRAB"
+      },
+      "source": "LinkedIn · Charles Hollinger"
+    },
+    {
+      "position": 5,
+      "title": "Chuck Hollinger - BizCreditReports",
+      "link": "https://www.linkedin.com/in/chuck-hollinger-6b6a25a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chuck-hollinger-6b6a25a&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0QFnoECB8QAQ",
+      "displayed_link": "90+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt3khmUisChelWYOqDv7iTSI.png",
+      "snippet": "Specialties: National Reseller, Experian Business Information Solutions · Experience: BizCreditReports · Education: Texas State University-San Marcos ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Killeen, Texas, United States",
+            "BizCreditReports"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Specialties: National Reseller, Experian Business Information Solutions · Experience: BizCreditReports · Education: Texas State University-San Marcos ...",
+          "source_info_link": "https://www.linkedin.com/in/chuck-hollinger-6b6a25a",
+          "icon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt47wA2dDpDhxO5JP7dh4w836UOt2KeMzeh28EpLt_Iqd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/chuck-hollinger-6b6a25a&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchuck-hollinger-6b6a25a",
+      "missing": [
+        "Charles",
+        "CTC",
+        "Trustee",
+        "2"
+      ],
+      "source": "LinkedIn · Chuck Hollinger"
+    },
+    {
+      "position": 6,
+      "title": "10+ \"Charlie Hollinger\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/charlie/hollinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/charlie/hollinger&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0QFnoECCQQAQ",
+      "displayed_link": "https://www.linkedin.com › pub › dir › charlie › hollinger",
+      "favicon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt6gBcZQ-3ukk37dbMGnHW0o.png",
+      "snippet": "View the profiles of professionals named \"Charlie Hollinger\" on LinkedIn. There are 10+ professionals named \"Charlie Hollinger\", who use LinkedIn to ...",
+      "snippet_highlighted_words": [
+        "Charlie Hollinger",
+        "LinkedIn",
+        "Charlie Hollinger",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Charlie Hollinger\" on LinkedIn. There are 10+ professionals named \"Charlie Hollinger\", who use LinkedIn to ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/charlie/hollinger",
+          "icon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-YtxmJoiSUhqAdfY60kujBnQXvbGjLsyZ4zkmDDCVH5IEi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/charlie/hollinger&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2Fcharlie%2Fhollinger",
+      "missing": [
+        "CTC",
+        "Trustee",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 7,
+      "title": "10+ \"Chuck Hollinger\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Chuck/Hollinger/us-0-United-States",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Chuck/Hollinger/us-0-United-States&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0QFnoECDcQAQ",
+      "displayed_link": "https://www.linkedin.com › Hollinger › us-0-United-States",
+      "favicon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-YtzT4YtVuqOm9pm_2er5nH1g.png",
+      "snippet": "View the profiles of professionals named \"Chuck Hollinger\" on LinkedIn. There are 10+ professionals named \"Chuck Hollinger\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "Hollinger",
+        "LinkedIn",
+        "Hollinger",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Chuck Hollinger\" on LinkedIn. There are 10+ professionals named \"Chuck Hollinger\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Chuck/Hollinger/us-0-United-States",
+          "icon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt7A2fJ__ScI518ASjyXR3cfAfNW-xaKjtIDgT3rft37V.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Chuck/Hollinger/us-0-United-States&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FChuck%2FHollinger%2Fus-0-United-States",
+      "missing": [
+        "CTC",
+        "Trustee"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 8,
+      "title": "Case 17-12450 Doc 1 Filed 11/15/17 Page 1 of 502",
+      "link": "https://dr201.s3.amazonaws.com/vhc/VoluntaryPetitions/17-12450.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dr201.s3.amazonaws.com/vhc/VoluntaryPetitions/17-12450.pdf&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0QFnoECDsQAQ",
+      "displayed_link": "https://dr201.s3.amazonaws.com › vhc › Volunta...",
+      "favicon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt7ZavFS5TTcAM9Av6TccDEA.jpeg",
+      "date": "Nov 15, 2017",
+      "snippet": "... 2 CLEAN. PO BOX 161. HEISSON WA 98622. 2 WHEELS HEAVENLLC. 2555 N FORSYTH RD STE A. ORLANDO FL 32807. 2 X MOTORSPORTS. 1059 S COUNTRY CLUB ...",
+      "snippet_highlighted_words": [
+        "2",
+        "2",
+        "2"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 502
+          },
+          "extensions": [
+            "502 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... 2 CLEAN. PO BOX 161. HEISSON WA 98622. 2 WHEELS HEAVENLLC. 2555 N FORSYTH RD STE A. ORLANDO FL 32807. 2 X MOTORSPORTS. 1059 S COUNTRY CLUB ...",
+          "source_info_link": "https://dr201.s3.amazonaws.com/vhc/VoluntaryPetitions/17-12450.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt2f4AQ2VzMJVEWWgC_Nw-AwqoSF_pDdFzWhVTx1Az3jB.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://dr201.s3.amazonaws.com/vhc/VoluntaryPetitions/17-12450.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdr201.s3.amazonaws.com%2Fvhc%2FVoluntaryPetitions%2F17-12450.pdf",
+      "source": "Amazon Web Services (AWS)"
+    },
+    {
+      "position": 9,
+      "title": "Candidate Video: Charles Hollinger CTC Board of Trustees ...",
+      "link": "https://www.youtube.com/watch?v=e3EN3odubMA",
+      "displayed_link": "120+ views · 6 years ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt2Pq1Volgz-ekTnI1WaJrok.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt-wKSZSiit6gNb4RLIklDjI.png",
+      "snippet": "Charles Hollinger answers questions provided by The Killeen Daily Herald.",
+      "duration": "1:49",
+      "about_this_result": {
+        "source": {
+          "description": "Charles Hollinger answers questions provided by The Killeen Daily Herald.",
+          "source_info_link": "https://www.youtube.com/watch?v=e3EN3odubMA",
+          "icon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt5w9RLAR5qnCX8S-O0hntOxan6yT0AB4WH9O0r1kR_es.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=e3EN3odubMA&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De3EN3odubMA",
+      "missing": [
+        "Trustee",
+        "Central",
+        "Texas",
+        "LinkedIn"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTArcDDfVyXaa-BiRzeb1S1F5XGRrKiMtexlQ",
+      "source": "YouTube · Killeen Daily Herald"
+    },
+    {
+      "position": 10,
+      "title": "https://snap.berkeley.edu/project/10970484",
+      "link": "https://snap.berkeley.edu/project/10970484",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://snap.berkeley.edu/project/10970484&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0QFnoECDQQAQ",
+      "displayed_link": "https://snap.berkeley.edu › project",
+      "favicon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-YtzQYHVXT1A9f5W1XeLpi6KQ.png",
+      "snippet": "... 2\"></list></costumes><sounds><list struct=\"atomic\" id=\"3\"></list></sounds><variables></variables><blocks></blocks><scripts></scripts><sprites><sprite name ...",
+      "snippet_highlighted_words": [
+        "2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... 2\"></list></costumes><sounds><list struct=\"atomic\" id=\"3\"></list></sounds><variables></variables><blocks></blocks><scripts></scripts><sprites><sprite name ...",
+          "source_info_link": "https://snap.berkeley.edu/project/10970484",
+          "icon": "https://serpapi.com/searches/69bb5d78974bbb4e80d29e4e/images/0oUYiul6D-LIZ3pcNq-Yt93Z3uNrQXU4DtW1w87eUFaG_niDnPOqtwwENhFdWuE0.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://snap.berkeley.edu/project/10970484&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsnap.berkeley.edu%2Fproject%2F10970484",
+      "source": "University of California, Berkeley"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=el27adTaDKPL1sQPiYaF6As&start=10&sa=N&sstk=Af77f_eCcBKS6oqSTuheOpWCJt3rPQd2YIqC9PMIllqnr3TLqxG8YmksJAPxzVwha21erpfLa2snGKkKAdIJ1XVKJuWvYqj14bXbFg&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0Q8NMDegQICxAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=el27adTaDKPL1sQPiYaF6As&start=10&sa=N&sstk=Af77f_eCcBKS6oqSTuheOpWCJt3rPQd2YIqC9PMIllqnr3TLqxG8YmksJAPxzVwha21erpfLa2snGKkKAdIJ1XVKJuWvYqj14bXbFg&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0Q8tMDegQICxAE",
+      "3": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=el27adTaDKPL1sQPiYaF6As&start=20&sa=N&sstk=Af77f_eCcBKS6oqSTuheOpWCJt3rPQd2YIqC9PMIllqnr3TLqxG8YmksJAPxzVwha21erpfLa2snGKkKAdIJ1XVKJuWvYqj14bXbFg&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0Q8tMDegQICxAG",
+      "4": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=el27adTaDKPL1sQPiYaF6As&start=30&sa=N&sstk=Af77f_eCcBKS6oqSTuheOpWCJt3rPQd2YIqC9PMIllqnr3TLqxG8YmksJAPxzVwha21erpfLa2snGKkKAdIJ1XVKJuWvYqj14bXbFg&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0Q8tMDegQICxAI",
+      "5": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=el27adTaDKPL1sQPiYaF6As&start=40&sa=N&sstk=Af77f_eCcBKS6oqSTuheOpWCJt3rPQd2YIqC9PMIllqnr3TLqxG8YmksJAPxzVwha21erpfLa2snGKkKAdIJ1XVKJuWvYqj14bXbFg&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0Q8tMDegQICxAK",
+      "6": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=el27adTaDKPL1sQPiYaF6As&start=50&sa=N&sstk=Af77f_eCcBKS6oqSTuheOpWCJt3rPQd2YIqC9PMIllqnr3TLqxG8YmksJAPxzVwha21erpfLa2snGKkKAdIJ1XVKJuWvYqj14bXbFg&ved=2ahUKEwjU_-e486qTAxWjpZUCHQlDAb0Q8tMDegQICxAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+LinkedIn&start=50"
+    }
+  }
+}

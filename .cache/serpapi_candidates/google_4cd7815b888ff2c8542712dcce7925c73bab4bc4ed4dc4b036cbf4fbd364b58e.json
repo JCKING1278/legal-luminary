@@ -1,0 +1,436 @@
+{
+  "search_metadata": {
+    "id": "69bb5d23ad9ecf2ec70a92eb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1g27p2pjp5T6KrGflcMhkw/69bb5d23ad9ecf2ec70a92eb.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/1g27p2pjp5T6KrGflcMhkw/69bb5d23ad9ecf2ec70a92eb.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:15 UTC",
+    "processed_at": "2026-03-19 02:19:15 UTC",
+    "google_url": "https://www.google.com/search?q=Bobby+Whitson+%22Bell+County+Commissioner+P2%22+%22Central+Texas%22+Facebook&oq=Bobby+Whitson+%22Bell+County+Commissioner+P2%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/1g27p2pjp5T6KrGflcMhkw/69bb5d23ad9ecf2ec70a92eb.html",
+    "total_time_taken": 5.98
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bobby Whitson \"Bell County Commissioner P2\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bobby Whitson \"Bell County Commissioner P2\" \"Central Texas\" Facebook",
+    "total_results": 420,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Bobby Whitson Bell County Commissioner P2 Central Texas Facebook",
+    "spelling_fix": "Bobby Whitson Bell County Commissioner P2 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2 | Belton TX",
+      "link": "https://www.facebook.com/Vote4BobbyWhitson/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Vote4BobbyWhitson/&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQFnoECCMQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxL-1wPU7HCUiiejLvRSG0wY.png",
+      "snippet": "Bobby Whitson Bell County Commissioner Pct. 2, Belton. 2642 likes · 53 talking about this. – Committed to the Prosperity of Bell County – Available and...",
+      "snippet_highlighted_words": [
+        "Bobby Whitson Bell County Commissioner",
+        "Bell County"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 1
+          },
+          "extensions": [
+            "5.0(1)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Bobby Whitson Bell County Commissioner Pct. 2, Belton. 2642 likes · 53 talking about this. – Committed to the Prosperity of Bell County – Available and...",
+          "source_info_link": "https://www.facebook.com/Vote4BobbyWhitson/",
+          "icon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxMycPkgF1agyZBLsFfOlofR7dFENcZY1_itl_U4QauWP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Vote4BobbyWhitson/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVote4BobbyWhitson%2F",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ5t4CegQIMBAB"
+      },
+      "source": "Facebook · Bobby Whitson Bell County Commissioner Pct. 2"
+    },
+    {
+      "position": 2,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2 | Belton TX",
+      "link": "https://www.facebook.com/Vote4BobbyWhitson/mentions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Vote4BobbyWhitson/mentions/&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQFnoECBsQAQ",
+      "displayed_link": "https://www.facebook.com › mentions",
+      "favicon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxF1vmB-TGDEtY0l0YfaZiOo.png",
+      "snippet": "Reginald Hodges — CEO, Training Center of Central Texas • Commissioner Bobby Whitson From the very beginning — when we partnered with Leeward Renewable ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Commissioner Bobby Whitson"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 1
+          },
+          "extensions": [
+            "5.0(1)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Reginald Hodges — CEO, Training Center of Central Texas • Commissioner Bobby Whitson From the very beginning — when we partnered with Leeward Renewable ...",
+          "source_info_link": "https://www.facebook.com/Vote4BobbyWhitson/mentions/",
+          "icon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxGd_BZVAYfnUp51EJ8CZbC7a7Y7oKmQ4NPyX8G_47ba3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Vote4BobbyWhitson/mentions/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVote4BobbyWhitson%2Fmentions%2F",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ5t4CegQIHhAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 3,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2 | Belton TX",
+      "link": "https://www.facebook.com/Vote4BobbyWhitson/about/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Vote4BobbyWhitson/about/&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQFnoECCIQAQ",
+      "displayed_link": "https://www.facebook.com › about",
+      "favicon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxNO8RJID281ySGcdYkw1pYU.png",
+      "snippet": "2. – Committed to the Prosperity of Bell County – Available and Accessible – Inclusive Leadership – Diversity of Experience.",
+      "snippet_highlighted_words": [
+        "Bell County"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 1
+          },
+          "extensions": [
+            "5.0(1)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "2. – Committed to the Prosperity of Bell County – Available and Accessible – Inclusive Leadership – Diversity of Experience.",
+          "source_info_link": "https://www.facebook.com/Vote4BobbyWhitson/about/",
+          "icon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxErey2cVlsam9Hmu-grDrTN8ba-xGsPki0i9_cfmuVkD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Vote4BobbyWhitson/about/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVote4BobbyWhitson%2Fabout%2F",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ5t4CegQILxAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 4,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2",
+      "link": "https://www.facebook.com/Vote4BobbyWhitson/posts/1216579410660257/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Vote4BobbyWhitson/posts/1216579410660257/&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQFnoECCQQAQ",
+      "displayed_link": "1 reaction · 4 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxNYZCpj27KoM42pkUVF_Unw.png",
+      "snippet": "Texas Pizza Festival at Barrow Brewery! Come out to try the best Pizza in Texas! - in Salado, TX. June Bakutis and 14 others.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Texas",
+        "TX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Texas Pizza Festival at Barrow Brewery! Come out to try the best Pizza in Texas! - in Salado, TX. June Bakutis and 14 others.",
+          "source_info_link": "https://www.facebook.com/Vote4BobbyWhitson/posts/1216579410660257/",
+          "icon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxFq6TVu2zVZZ34XNe17dtV-yL0y29B7F-Ih4gFqiMYWk.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Vote4BobbyWhitson/posts/1216579410660257/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVote4BobbyWhitson%2Fposts%2F1216579410660257%2F",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ5t4CegQIMRAB"
+      },
+      "source": "Facebook · Bobby Whitson Bell County Commissioner Pct. 2"
+    },
+    {
+      "position": 5,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2 on Reels",
+      "link": "https://www.facebook.com/Vote4BobbyWhitson/videos/1377384610221648/",
+      "displayed_link": "8 months ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxMFuD78w3GmrWbLiM6IwNVs.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxIdV_kJLXWSy_sylsS5YYXU.png",
+      "snippet": "More videos you may like. 01:31. We must see through the rhetoric. Find the truth. Christ ... Sep 13, 2025 · 218 views. 02:55 ...",
+      "duration": "1:35",
+      "about_this_result": {
+        "source": {
+          "description": "More videos you may like. 01:31. We must see through the rhetoric. Find the truth. Christ ... Sep 13, 2025 · 218 views. 02:55 ...",
+          "source_info_link": "https://www.facebook.com/Vote4BobbyWhitson/videos/1377384610221648/",
+          "icon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxKMQRcgsTvdk_2R6Ov_0c0qw07Nm2ky-TtbArG0_ZbaD.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Vote4BobbyWhitson/videos/1377384610221648/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVote4BobbyWhitson%2Fvideos%2F1377384610221648%2F",
+      "missing": [
+        "P2",
+        "Central"
+      ],
+      "source": "Facebook · Bobby Whitson Bell County Commissioner Pct. 2"
+    },
+    {
+      "position": 6,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2",
+      "link": "https://www.facebook.com/Vote4BobbyWhitson/posts/1199054055746126/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Vote4BobbyWhitson/posts/1199054055746126/&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQFnoECB8QAQ",
+      "displayed_link": "1 reaction · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxIgqnnQtDNy31DD6e1y5As0.png",
+      "snippet": "The cabins are open for viewing on the first Saturday of every month from September to May. Come and visit us anytime from 9am to noon.",
+      "about_this_result": {
+        "source": {
+          "description": "The cabins are open for viewing on the first Saturday of every month from September to May. Come and visit us anytime from 9am to noon.",
+          "source_info_link": "https://www.facebook.com/Vote4BobbyWhitson/posts/1199054055746126/",
+          "icon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxCEAGRry4HuUyWDZnDRjTws3lLVyp7M8BBw8KISsfB9Y.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Vote4BobbyWhitson/posts/1199054055746126/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVote4BobbyWhitson%2Fposts%2F1199054055746126%2F",
+      "missing": [
+        "P2",
+        "Central",
+        "Texas"
+      ],
+      "source": "Facebook · Bobby Whitson Bell County Commissioner Pct. 2"
+    },
+    {
+      "position": 7,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2",
+      "link": "https://www.facebook.com/Vote4BobbyWhitson/posts/1198086519176213/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Vote4BobbyWhitson/posts/1198086519176213/&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQFnoECDcQAQ",
+      "displayed_link": "3 reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxHaVahTSsp4NMj8grEq1AUw.png",
+      "snippet": "UPDATE: Due to the continued risk of icy roads, the decision has been made to close county offices Tuesday, January 27.",
+      "snippet_highlighted_words": [
+        "county"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "UPDATE: Due to the continued risk of icy roads, the decision has been made to close county offices Tuesday, January 27.",
+          "source_info_link": "https://www.facebook.com/Vote4BobbyWhitson/posts/1198086519176213/",
+          "icon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxNs7qBJJG6M2mukWKgMh3UqZ0HPKpZzrYuxhrnJqMnfX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Vote4BobbyWhitson/posts/1198086519176213/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVote4BobbyWhitson%2Fposts%2F1198086519176213%2F",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ5t4CegQIRRAB"
+      },
+      "source": "Facebook · Bobby Whitson Bell County Commissioner Pct. 2"
+    },
+    {
+      "position": 8,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2",
+      "link": "https://www.facebook.com/photo.php?fbid=1139280931723439&set=a.238742265110648&id=100069246278153",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/photo.php%3Ffbid%3D1139280931723439%26set%3Da.238742265110648%26id%3D100069246278153&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQFnoECD8QAQ",
+      "displayed_link": "https://www.facebook.com › photo",
+      "favicon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxJl_-b2Qfwga9vsQlS-RWw0.png",
+      "date": "Nov 8, 2025",
+      "snippet": "Bell County Tire Rececle Event at the Cadence Bank Center. - at Cadence Bank Center. Stephanie Eishen and 7 others.",
+      "snippet_highlighted_words": [
+        "Bell County",
+        "Center",
+        "Center"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bell County Tire Rececle Event at the Cadence Bank Center. - at Cadence Bank Center. Stephanie Eishen and 7 others.",
+          "source_info_link": "https://www.facebook.com/photo.php?fbid=1139280931723439&set=a.238742265110648&id=100069246278153",
+          "icon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxEjjPmU7EhDsXbf5o1GnxcQqD8jgbj3Z5hFwoDV8qbds.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/photo.php?fbid=1139280931723439&set=a.238742265110648&id=100069246278153&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1139280931723439%26set%3Da.238742265110648%26id%3D100069246278153",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ5t4CegQIRhAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 9,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2",
+      "link": "https://www.facebook.com/Vote4BobbyWhitson/posts/1205582071759991/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Vote4BobbyWhitson/posts/1205582071759991/&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQFnoECDgQAQ",
+      "displayed_link": "1 reaction · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxI-ZeUGVnJ5SQjayjtplVhc.png",
+      "snippet": "Texas Pizza Festival at Barrow Brewery! Come out to try the best Pizza in Texas! - in Salado, TX. Theresa Neimeth and 11 others.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Texas",
+        "TX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Texas Pizza Festival at Barrow Brewery! Come out to try the best Pizza in Texas! - in Salado, TX. Theresa Neimeth and 11 others.",
+          "source_info_link": "https://www.facebook.com/Vote4BobbyWhitson/posts/1205582071759991/",
+          "icon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxB01FXU7xZf2Gu0oRVSNFeNmR4W3kblI9jDSbAljdJxK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Vote4BobbyWhitson/posts/1205582071759991/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVote4BobbyWhitson%2Fposts%2F1205582071759991%2F",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ5t4CegQIRBAB"
+      },
+      "source": "Facebook · Bobby Whitson Bell County Commissioner Pct. 2"
+    },
+    {
+      "position": 10,
+      "title": "Bobby Whitson Bell County Commissioner Pct. 2",
+      "link": "https://www.facebook.com/Vote4BobbyWhitson/posts/1187254770259388/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Vote4BobbyWhitson/posts/1187254770259388/&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQFnoECDkQAQ",
+      "displayed_link": "1 reaction · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxLCrtp7uQAiRR2lEFwHSVF0.png",
+      "snippet": "Applications are Now Closed ⚠️ Apply now to be a part of the Bell County First Responder Team as a 9-1-1 Telecommunicator!",
+      "snippet_highlighted_words": [
+        "Bell County"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Applications are Now Closed ⚠️ Apply now to be a part of the Bell County First Responder Team as a 9-1-1 Telecommunicator!",
+          "source_info_link": "https://www.facebook.com/Vote4BobbyWhitson/posts/1187254770259388/",
+          "icon": "https://serpapi.com/searches/69bb5d23ad9ecf2ec70a92eb/images/eY-6X5cOQvhGlMFhRpWkxCmwZD1gA13BNfR_UWiHpqbKndIuEQzAjQtQTkDtzO7N.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Vote4BobbyWhitson/posts/1187254770259388/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVote4BobbyWhitson%2Fposts%2F1187254770259388%2F",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ5t4CegQIQxAB"
+      },
+      "source": "Facebook · Bobby Whitson Bell County Commissioner Pct. 2"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=KV27acGcB77ekPIPoZ7HqAg&start=10&sa=N&sstk=Af77f_fu2XlsPlLnNha-jz78LJTvrbm2QCJ1ovw6sliaPPK3Fcf4YU336Tmxh2XTuEL8D1xjyq9_Dsd3q6SaUJBUAtGahUPsBJgNrg&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ8NMDegQICxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=KV27acGcB77ekPIPoZ7HqAg&start=10&sa=N&sstk=Af77f_fu2XlsPlLnNha-jz78LJTvrbm2QCJ1ovw6sliaPPK3Fcf4YU336Tmxh2XTuEL8D1xjyq9_Dsd3q6SaUJBUAtGahUPsBJgNrg&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ8tMDegQICxAE",
+      "3": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=KV27acGcB77ekPIPoZ7HqAg&start=20&sa=N&sstk=Af77f_fu2XlsPlLnNha-jz78LJTvrbm2QCJ1ovw6sliaPPK3Fcf4YU336Tmxh2XTuEL8D1xjyq9_Dsd3q6SaUJBUAtGahUPsBJgNrg&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ8tMDegQICxAG",
+      "4": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=KV27acGcB77ekPIPoZ7HqAg&start=30&sa=N&sstk=Af77f_fu2XlsPlLnNha-jz78LJTvrbm2QCJ1ovw6sliaPPK3Fcf4YU336Tmxh2XTuEL8D1xjyq9_Dsd3q6SaUJBUAtGahUPsBJgNrg&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ8tMDegQICxAI",
+      "5": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=KV27acGcB77ekPIPoZ7HqAg&start=40&sa=N&sstk=Af77f_fu2XlsPlLnNha-jz78LJTvrbm2QCJ1ovw6sliaPPK3Fcf4YU336Tmxh2XTuEL8D1xjyq9_Dsd3q6SaUJBUAtGahUPsBJgNrg&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ8tMDegQICxAK",
+      "6": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=KV27acGcB77ekPIPoZ7HqAg&start=50&sa=N&sstk=Af77f_fu2XlsPlLnNha-jz78LJTvrbm2QCJ1ovw6sliaPPK3Fcf4YU336Tmxh2XTuEL8D1xjyq9_Dsd3q6SaUJBUAtGahUPsBJgNrg&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ8tMDegQICxAM",
+      "7": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=KV27acGcB77ekPIPoZ7HqAg&start=60&sa=N&sstk=Af77f_fu2XlsPlLnNha-jz78LJTvrbm2QCJ1ovw6sliaPPK3Fcf4YU336Tmxh2XTuEL8D1xjyq9_Dsd3q6SaUJBUAtGahUPsBJgNrg&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ8tMDegQICxAO",
+      "8": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=KV27acGcB77ekPIPoZ7HqAg&start=70&sa=N&sstk=Af77f_fu2XlsPlLnNha-jz78LJTvrbm2QCJ1ovw6sliaPPK3Fcf4YU336Tmxh2XTuEL8D1xjyq9_Dsd3q6SaUJBUAtGahUPsBJgNrg&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ8tMDegQICxAQ",
+      "9": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=KV27acGcB77ekPIPoZ7HqAg&start=80&sa=N&sstk=Af77f_fu2XlsPlLnNha-jz78LJTvrbm2QCJ1ovw6sliaPPK3Fcf4YU336Tmxh2XTuEL8D1xjyq9_Dsd3q6SaUJBUAtGahUPsBJgNrg&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ8tMDegQICxAS",
+      "10": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=KV27acGcB77ekPIPoZ7HqAg&start=90&sa=N&sstk=Af77f_fu2XlsPlLnNha-jz78LJTvrbm2QCJ1ovw6sliaPPK3Fcf4YU336Tmxh2XTuEL8D1xjyq9_Dsd3q6SaUJBUAtGahUPsBJgNrg&ved=2ahUKEwiB1ZKS86qTAxU-L0QIHSHPEYUQ8tMDegQICxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+Facebook&start=90"
+    }
+  }
+}

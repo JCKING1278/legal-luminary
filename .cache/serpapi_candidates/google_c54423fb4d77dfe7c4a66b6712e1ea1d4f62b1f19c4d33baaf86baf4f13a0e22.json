@@ -1,0 +1,453 @@
+{
+  "search_metadata": {
+    "id": "69bb5cc8526c48b23a90b4d1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dPY9e2ohQi0rrbKwPLj1tw/69bb5cc8526c48b23a90b4d1.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/dPY9e2ohQi0rrbKwPLj1tw/69bb5cc8526c48b23a90b4d1.json_with_pixel_position",
+    "created_at": "2026-03-19 02:17:44 UTC",
+    "processed_at": "2026-03-19 02:17:44 UTC",
+    "google_url": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/dPY9e2ohQi0rrbKwPLj1tw/69bb5cc8526c48b23a90b4d1.html",
+    "total_time_taken": 3.13
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "State Senate TX-24 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "State Senate TX-24 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 986000,
+    "time_taken_displayed": 0.49,
+    "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "spelling_fix": "State Senate TEXAS-24 election. Key platform issues for candidates: opponents. Provide a short factual summary."
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Abortion, private school vouchers and legislative control ...",
+      "link": "https://www.texastribune.org/2024/10/03/texas-2024-election-issues-to-watch/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.texastribune.org/2024/10/03/texas-2024-election-issues-to-watch/&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4QFnoECCsQAQ",
+      "displayed_link": "https://www.texastribune.org › 2024/10/03 › texas-202...",
+      "favicon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoRyXUpCKsBItYw4lI0ILCFQ.png",
+      "date": "Oct 3, 2024",
+      "snippet": "... key issues in Texas' 2024 election. Texan voters will have ... Will pro-school voucher candidates gain power of the Texas Legislature?",
+      "snippet_highlighted_words": [
+        "key issues",
+        "Texas",
+        "election",
+        "candidates",
+        "Texas Legislature"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... key issues in Texas' 2024 election. Texan voters will have ... Will pro-school voucher candidates gain power of the Texas Legislature?",
+          "source_info_link": "https://www.texastribune.org/2024/10/03/texas-2024-election-issues-to-watch/",
+          "icon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSodbre2QGdGgBhXh3KVujhOaX_hPrqDbe5c4v_wi1iQV_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.texastribune.org/2024/10/03/texas-2024-election-issues-to-watch/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.texastribune.org%2F2024%2F10%2F03%2Ftexas-2024-election-issues-to-watch%2F",
+      "missing": [
+        "short"
+      ],
+      "must_include": {
+        "word": "short",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+%22short%22+factual+summary.&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q5t4CegQILRAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 2,
+      "title": "What's at stake for Democrats and Republicans in the ...",
+      "link": "https://www.pbs.org/newshour/show/whats-at-stake-for-democrats-and-republicans-in-the-texas-senate-primaries",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pbs.org/newshour/show/whats-at-stake-for-democrats-and-republicans-in-the-texas-senate-primaries&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4QFnoECBsQAQ",
+      "displayed_link": "https://www.pbs.org › newshour › show › whats-at-stak...",
+      "favicon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoeV2XAS3inF-T1JznsgSpps.png",
+      "date": "Mar 2, 2026",
+      "snippet": "Voters head to the polls on Tuesday in Arkansas, North Carolina and Texas. It's in the Lone Star State where competitive races on both sides ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "State"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Voters head to the polls on Tuesday in Arkansas, North Carolina and Texas. It's in the Lone Star State where competitive races on both sides ...",
+          "source_info_link": "https://www.pbs.org/newshour/show/whats-at-stake-for-democrats-and-republicans-in-the-texas-senate-primaries",
+          "icon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoWgjr4XzMkGOq0uTFvp84TufrIu48DNjyDA9bKrRzEXU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pbs.org/newshour/show/whats-at-stake-for-democrats-and-republicans-in-the-texas-senate-primaries&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pbs.org%2Fnewshour%2Fshow%2Fwhats-at-stake-for-democrats-and-republicans-in-the-texas-senate-primaries",
+      "missing": [
+        "Key",
+        "platform",
+        "factual"
+      ],
+      "source": "PBS"
+    },
+    {
+      "position": 3,
+      "title": "Here's a look at Texas senate candidate's platforms",
+      "link": "https://www.youtube.com/watch?v=7POFZvefUEQ",
+      "displayed_link": "630+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoa40CPq3IJLZ9viOxiMGzVE.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSofGs8d8F0ytvqgVqmZPUfXU.png",
+      "snippet": "Senior reporter Teresa Woodard takes a look at the candidates positions on Reproductive Rights.",
+      "duration": "1:33",
+      "about_this_result": {
+        "source": {
+          "description": "Senior reporter Teresa Woodard takes a look at the candidates positions on Reproductive Rights.",
+          "source_info_link": "https://www.youtube.com/watch?v=7POFZvefUEQ",
+          "icon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSofdwRd9ZT7DeloPKHNqMtVQQN304xz8W8KaznS6pG4km.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=7POFZvefUEQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7POFZvefUEQ",
+      "missing": [
+        "24",
+        "election.",
+        "issues",
+        "opponents.",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQlCDZ7MrxnFcVCxBFgn7kCaNH1IcpF-_a0nA",
+      "source": "YouTube · WFAA"
+    },
+    {
+      "position": 4,
+      "title": "Austin voter guide 2026: What's on the ballot on March 3?",
+      "link": "https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4QFnoECBgQAQ",
+      "displayed_link": "https://www.statesman.com › projects › texas-election-a...",
+      "favicon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSodRC0XrXb-U5f0GOYb-NCBU.png",
+      "date": "Mar 3, 2026",
+      "snippet": "Austin-area voters will head to the polls on March 3 to decide key Texas primary races, including U.S. Senate, governor, and state offices.",
+      "snippet_highlighted_words": [
+        "key Texas",
+        "Senate",
+        "state"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Austin-area voters will head to the polls on March 3 to decide key Texas primary races, including U.S. Senate, governor, and state offices.",
+          "source_info_link": "https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/",
+          "icon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoaN8skoO-HMyLknlxgw_l1rFiTZQ-bVdzUQU6eCwWZTG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.statesman.com%2Fprojects%2F2026%2Ftexas-election-austin-primary-voting-guide%2F",
+      "source": "Austin American-Statesman"
+    },
+    {
+      "position": 5,
+      "title": "Candidate's Guide to Nomination and General Election for ...",
+      "link": "https://www.sos.state.tx.us/elections/candidates/guide/2024/index.shtml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sos.state.tx.us/elections/candidates/guide/2024/index.shtml&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4QFnoECCEQAQ",
+      "displayed_link": "https://www.sos.state.tx.us › elections › candidates › guide",
+      "favicon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSocyqGD5-AnN5_7CWHD-RUYU.png",
+      "snippet": "The Texas Election Code designates the Secretary of State as the chief election officer of the State of Texas.",
+      "snippet_highlighted_words": [
+        "Texas Election",
+        "State",
+        "election",
+        "State",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Texas Election Code designates the Secretary of State as the chief election officer of the State of Texas.",
+          "source_info_link": "https://www.sos.state.tx.us/elections/candidates/guide/2024/index.shtml",
+          "icon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoUU-mmTal02U_Ix3LBx5ZKduOFJV_9z_dkgCVQu0Oosr.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sos.state.tx.us/elections/candidates/guide/2024/index.shtml&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sos.state.tx.us%2Felections%2Fcandidates%2Fguide%2F2024%2Findex.shtml",
+      "missing": [
+        "24",
+        "platform",
+        "opponents.",
+        "factual",
+        "summary."
+      ],
+      "source": "the Texas Secretary of State"
+    },
+    {
+      "position": 6,
+      "title": "Texas US Senate Democratic primary race overview",
+      "link": "https://www.facebook.com/groups/reformdallas/posts/3928917727407986/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/reformdallas/posts/3928917727407986/&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4QFnoECBoQAQ",
+      "displayed_link": "70+ comments · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoeswdGiGp3LH7zrANVoWYFc.png",
+      "snippet": "I love both candidates. I voted for Talarico because he is the more progressive candidate that I feel he has a better chance of flipping ...",
+      "snippet_highlighted_words": [
+        "candidates",
+        "candidate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I love both candidates. I voted for Talarico because he is the more progressive candidate that I feel he has a better chance of flipping ...",
+          "source_info_link": "https://www.facebook.com/groups/reformdallas/posts/3928917727407986/",
+          "icon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoTXIU5y1ycl5lnzMNqbVLtVSpm9mzMwXuYnyf4HxwMsx.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/reformdallas/posts/3928917727407986/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Freformdallas%2Fposts%2F3928917727407986%2F",
+      "missing": [
+        "short"
+      ],
+      "must_include": {
+        "word": "short",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+%22short%22+factual+summary.&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q5t4CegQIJhAB"
+      },
+      "source": "Facebook · Reform Dallas"
+    },
+    {
+      "position": 7,
+      "title": "Texas GOP comptroller candidates campaign on culture wars",
+      "link": "https://www.texastribune.org/2026/02/25/texas-comptroller-gop-primary-2026-culture-wars-huffines-craddick-hancock/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.texastribune.org/2026/02/25/texas-comptroller-gop-primary-2026-culture-wars-huffines-craddick-hancock/&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4QFnoECCAQAQ",
+      "displayed_link": "https://www.texastribune.org › 2026/02/25 › texas-com...",
+      "favicon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoT3cq0mLyrVeLzBLpAAH1Uw.png",
+      "date": "Feb 25, 2026",
+      "snippet": "Don Huffines, Christi Craddick and Kelly Hancock are talking more about fighting DEI, trans athletes and illegal immigration than the ...",
+      "about_this_result": {
+        "source": {
+          "description": "Don Huffines, Christi Craddick and Kelly Hancock are talking more about fighting DEI, trans athletes and illegal immigration than the ...",
+          "source_info_link": "https://www.texastribune.org/2026/02/25/texas-comptroller-gop-primary-2026-culture-wars-huffines-craddick-hancock/",
+          "icon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSofBXypVY7W1zlg6d6dSCdbPSGWy5nEZa_NJVYBNh7lXj.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.texastribune.org/2026/02/25/texas-comptroller-gop-primary-2026-culture-wars-huffines-craddick-hancock/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.texastribune.org%2F2026%2F02%2F25%2Ftexas-comptroller-gop-primary-2026-culture-wars-huffines-craddick-hancock%2F",
+      "missing": [
+        "short",
+        "summary."
+      ],
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 8,
+      "title": "James Talarico Wins Democratic Senate Primary in Texas",
+      "link": "https://www.nytimes.com/live/2026/03/03/us/election-midterms-tx-nc-ar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/live/2026/03/03/us/election-midterms-tx-nc-ar&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4QFnoECDwQAQ",
+      "displayed_link": "https://www.nytimes.com › U.S. › Elections",
+      "favicon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoUWaWCj57Qny-6w1c0Gapno.png",
+      "date": "Mar 3, 2026",
+      "snippet": "His race against Jasmine Crockett was called early Wednesday after confusion over legal challenges about voting in Dallas County.",
+      "snippet_highlighted_words": [
+        "challenges"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "His race against Jasmine Crockett was called early Wednesday after confusion over legal challenges about voting in Dallas County.",
+          "source_info_link": "https://www.nytimes.com/live/2026/03/03/us/election-midterms-tx-nc-ar",
+          "icon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoal3ips1ZtEyoK_tzY8VElSksTIa2x8nqIUo09TLHDyK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nytimes.com/live/2026/03/03/us/election-midterms-tx-nc-ar&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F03%2F03%2Fus%2Felection-midterms-tx-nc-ar",
+      "missing": [
+        "summary."
+      ],
+      "must_include": {
+        "word": "summary.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+%22summary.%22&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q5t4CegQIPRAB"
+      },
+      "source": "The New York Times"
+    },
+    {
+      "position": 9,
+      "title": "Texas State Senate elections, 2024",
+      "link": "https://ballotpedia.org/Texas_State_Senate_elections,_2024",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Texas_State_Senate_elections,_2024&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4QFnoECDgQAQ",
+      "displayed_link": "https://ballotpedia.org › Texas_State_Senate_elections,_2...",
+      "favicon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSofxi7YDjA1Hj7nsTJILSaAc.png",
+      "snippet": "Following the election, Republicans maintained a 20-11 majority. The Texas State Senate was one of 85 state legislative chambers with elections in 2024. There ...",
+      "snippet_highlighted_words": [
+        "election",
+        "Texas State Senate",
+        "elections"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Following the election, Republicans maintained a 20-11 majority. The Texas State Senate was one of 85 state legislative chambers with elections in 2024. There ...",
+          "source_info_link": "https://ballotpedia.org/Texas_State_Senate_elections,_2024",
+          "icon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoQj4CqqV4ZwggqMCbyyUfKlgHooHfQ1uWFMcm2eY0hDw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Texas_State_Senate_elections,_2024&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FTexas_State_Senate_elections%2C_2024",
+      "missing": [
+        "platform",
+        "opponents.",
+        "short",
+        "factual"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 10,
+      "title": "John Cornyn's Texas-sized primary challenge",
+      "link": "https://www.washingtonpost.com/ripple/2026/01/27/article/john-cornyn-texas-primary-ken-paxton-wesley-hunt/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.washingtonpost.com/ripple/2026/01/27/article/john-cornyn-texas-primary-ken-paxton-wesley-hunt/&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4QFnoECEAQAQ",
+      "displayed_link": "https://www.washingtonpost.com › 2026/01/27 › article",
+      "favicon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSoVEe1OBPCW-COifo55csLbI.png",
+      "date": "Jan 28, 2026",
+      "snippet": "... Senate candidate in either the primary or general election since his inaugural 2002 bid. Republican insiders in the Lone Star State predict ...",
+      "snippet_highlighted_words": [
+        "Senate candidate",
+        "election",
+        "State"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Senate candidate in either the primary or general election since his inaugural 2002 bid. Republican insiders in the Lone Star State predict ...",
+          "source_info_link": "https://www.washingtonpost.com/ripple/2026/01/27/article/john-cornyn-texas-primary-ken-paxton-wesley-hunt/",
+          "icon": "https://serpapi.com/searches/69bb5cc8526c48b23a90b4d1/images/XuULPFCZOK5_8B1NPnSSofmfTOUsmEZt9TmcfIkLJ37NtFMdDmwx766NM0BhpyW0.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.washingtonpost.com/ripple/2026/01/27/article/john-cornyn-texas-primary-ken-paxton-wesley-hunt/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.washingtonpost.com%2Fripple%2F2026%2F01%2F27%2Farticle%2Fjohn-cornyn-texas-primary-ken-paxton-wesley-hunt%2F",
+      "source": "The Washington Post"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Political issues in Texas today",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Political+issues+in+Texas+today&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Political+issues+in+Texas+today"
+    },
+    {
+      "block_position": 1,
+      "query": "Texas political trends",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas+political+trends&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas+political+trends"
+    },
+    {
+      "block_position": 1,
+      "query": "State political issues",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=State+political+issues&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+political+issues"
+    },
+    {
+      "block_position": 1,
+      "query": "Texas legislative issues",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas+legislative+issues&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas+legislative+issues"
+    },
+    {
+      "block_position": 1,
+      "query": "Current Texas legislative issues",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Current+Texas+legislative+issues&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Current+Texas+legislative+issues"
+    },
+    {
+      "block_position": 1,
+      "query": "Current issues in Austin Texas",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Current+issues+in+Austin+Texas&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Current+issues+in+Austin+Texas"
+    },
+    {
+      "block_position": 1,
+      "query": "Texas political environment",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas+political+environment&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas+political+environment"
+    },
+    {
+      "block_position": 1,
+      "query": "Public policy in Texas",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Public+policy+in+Texas&sa=X&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Public+policy+in+Texas"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=yly7aYW3FeuzqtsPzLSl8Ac&start=10&sa=N&sstk=Af77f_fmEDRibX7N9ukP9rq9_PFx4-rM9rl9JpmIKnrJLzttG4EcPZFWKiSzYuxnztqn2542nMYMSurPxSPpcMHfQFKrUADZ9-NIdQ&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q8NMDegQIFBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=yly7aYW3FeuzqtsPzLSl8Ac&start=10&sa=N&sstk=Af77f_fmEDRibX7N9ukP9rq9_PFx4-rM9rl9JpmIKnrJLzttG4EcPZFWKiSzYuxnztqn2542nMYMSurPxSPpcMHfQFKrUADZ9-NIdQ&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q8tMDegQIFBAE",
+      "3": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=yly7aYW3FeuzqtsPzLSl8Ac&start=20&sa=N&sstk=Af77f_fmEDRibX7N9ukP9rq9_PFx4-rM9rl9JpmIKnrJLzttG4EcPZFWKiSzYuxnztqn2542nMYMSurPxSPpcMHfQFKrUADZ9-NIdQ&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q8tMDegQIFBAG",
+      "4": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=yly7aYW3FeuzqtsPzLSl8Ac&start=30&sa=N&sstk=Af77f_fmEDRibX7N9ukP9rq9_PFx4-rM9rl9JpmIKnrJLzttG4EcPZFWKiSzYuxnztqn2542nMYMSurPxSPpcMHfQFKrUADZ9-NIdQ&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q8tMDegQIFBAI",
+      "5": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=yly7aYW3FeuzqtsPzLSl8Ac&start=40&sa=N&sstk=Af77f_fmEDRibX7N9ukP9rq9_PFx4-rM9rl9JpmIKnrJLzttG4EcPZFWKiSzYuxnztqn2542nMYMSurPxSPpcMHfQFKrUADZ9-NIdQ&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q8tMDegQIFBAK",
+      "6": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=yly7aYW3FeuzqtsPzLSl8Ac&start=50&sa=N&sstk=Af77f_fmEDRibX7N9ukP9rq9_PFx4-rM9rl9JpmIKnrJLzttG4EcPZFWKiSzYuxnztqn2542nMYMSurPxSPpcMHfQFKrUADZ9-NIdQ&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q8tMDegQIFBAM",
+      "7": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=yly7aYW3FeuzqtsPzLSl8Ac&start=60&sa=N&sstk=Af77f_fmEDRibX7N9ukP9rq9_PFx4-rM9rl9JpmIKnrJLzttG4EcPZFWKiSzYuxnztqn2542nMYMSurPxSPpcMHfQFKrUADZ9-NIdQ&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q8tMDegQIFBAO",
+      "8": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=yly7aYW3FeuzqtsPzLSl8Ac&start=70&sa=N&sstk=Af77f_fmEDRibX7N9ukP9rq9_PFx4-rM9rl9JpmIKnrJLzttG4EcPZFWKiSzYuxnztqn2542nMYMSurPxSPpcMHfQFKrUADZ9-NIdQ&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q8tMDegQIFBAQ",
+      "9": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=yly7aYW3FeuzqtsPzLSl8Ac&start=80&sa=N&sstk=Af77f_fmEDRibX7N9ukP9rq9_PFx4-rM9rl9JpmIKnrJLzttG4EcPZFWKiSzYuxnztqn2542nMYMSurPxSPpcMHfQFKrUADZ9-NIdQ&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q8tMDegQIFBAS",
+      "10": "https://www.google.com/search?q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=yly7aYW3FeuzqtsPzLSl8Ac&start=90&sa=N&sstk=Af77f_fmEDRibX7N9ukP9rq9_PFx4-rM9rl9JpmIKnrJLzttG4EcPZFWKiSzYuxnztqn2542nMYMSurPxSPpcMHfQFKrUADZ9-NIdQ&ved=2ahUKEwiFxPrk8qqTAxXrmWoFHUxaCX4Q8tMDegQIFBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=State+Senate+TX-24+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

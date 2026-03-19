@@ -1,0 +1,357 @@
+{
+  "search_metadata": {
+    "id": "69bb5df5d3982c3fd36a81e4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aRnFGbnaqTaVp9Jmr7NKeA/69bb5df5d3982c3fd36a81e4.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/aRnFGbnaqTaVp9Jmr7NKeA/69bb5df5d3982c3fd36a81e4.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:45 UTC",
+    "processed_at": "2026-03-19 02:22:45 UTC",
+    "google_url": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&oq=Steven+Clay+Dowell+Jr.+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/aRnFGbnaqTaVp9Jmr7NKeA/69bb5df5d3982c3fd36a81e4.html",
+    "total_time_taken": 1.18
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Steven Clay Dowell Jr. \"US House TX-31\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Steven Clay Dowell Jr. \"US House TX-31\" \"Central Texas\" Instagram",
+    "total_results": 4260,
+    "time_taken_displayed": 0.53,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Steven Clay Dowell Jr. US House TX-31 Central Texas Instagram",
+    "spelling_fix": "Steven Clay Dowell Jr. US House TX-31 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Home - Steve Dowell | TX-31 | Next Generation Conservative ...",
+      "link": "https://stevendowell.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stevendowell.com/&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQFnoECB8QAQ",
+      "displayed_link": "https://stevendowell.com",
+      "favicon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iyaFbDejxjPFhoLh2sPXFjNM.png",
+      "snippet": "Steve Dowell | TX-31 | 5th-Generation Central Texan & Conservative Veteran. Reduce Government Spending. Pro Term Limits. Fixing the VA.",
+      "snippet_highlighted_words": [
+        "Steve Dowell",
+        "TX",
+        "31",
+        "Central"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Steve Dowell | TX-31 | 5th-Generation Central Texan & Conservative Veteran. Reduce Government Spending. Pro Term Limits. Fixing the VA.",
+          "source_info_link": "https://stevendowell.com/",
+          "icon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iyfHRzyNRc951Km3tmhErSYmuzbII1buE5pkb9oOScvtO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://stevendowell.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fstevendowell.com%2F",
+      "source": "Steve Dowell"
+    },
+    {
+      "position": 2,
+      "title": "March 2026 Hereford World",
+      "link": "https://issuu.com/buyhereford/docs/march_2026_hereford_world",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://issuu.com/buyhereford/docs/march_2026_hereford_world&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQFnoECB4QAQ",
+      "displayed_link": "https://issuu.com › buyhereford › docs › march_2026_...",
+      "favicon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iyYpTGVamndhbsle-7pYjXPY.png",
+      "date": "Feb 27, 2026",
+      "snippet": "The voice of the American Hereford Association | March 2026. FINAL CHURCHILL BULL SALE. HC Herefords, Double L/4C Cattle,. Dennis Lee,.",
+      "snippet_highlighted_words": [
+        "American"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The voice of the American Hereford Association | March 2026. FINAL CHURCHILL BULL SALE. HC Herefords, Double L/4C Cattle,. Dennis Lee,.",
+          "source_info_link": "https://issuu.com/buyhereford/docs/march_2026_hereford_world",
+          "icon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iycNVuWMjcwa-EoS0vuI1yY4T6rWyARXZ6uY7l1G-VPmQ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://issuu.com/buyhereford/docs/march_2026_hereford_world&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fissuu.com%2Fbuyhereford%2Fdocs%2Fmarch_2026_hereford_world",
+      "source": "Issuu"
+    },
+    {
+      "position": 3,
+      "title": "Yemisi Agbebi",
+      "link": "https://artsandmuseums.utah.gov/wp-content/uploads/2022/03/Teaching-Artist-Roster-CURRENT-1.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://artsandmuseums.utah.gov/wp-content/uploads/2022/03/Teaching-Artist-Roster-CURRENT-1.pdf&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQFnoECB0QAQ",
+      "displayed_link": "https://artsandmuseums.utah.gov › 2022/03 › Te...",
+      "favicon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iyemGKi2M0a8UPUbVKNSt44w.png",
+      "snippet": "In the USA Zinse joined the Arts In Education program of the Arkansas Arts Council as a storyteller and African drum rhythms teacher. Zinse composed and ...",
+      "snippet_highlighted_words": [
+        "USA"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 166
+          },
+          "extensions": [
+            "166 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "In the USA Zinse joined the Arts In Education program of the Arkansas Arts Council as a storyteller and African drum rhythms teacher. Zinse composed and ...",
+          "source_info_link": "https://artsandmuseums.utah.gov/wp-content/uploads/2022/03/Teaching-Artist-Roster-CURRENT-1.pdf",
+          "icon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iyb9hLIzpQ2u6du3-1aDcjuc4ZeVSzuCyrjvlaEb7Wohz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://artsandmuseums.utah.gov/wp-content/uploads/2022/03/Teaching-Artist-Roster-CURRENT-1.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fartsandmuseums.utah.gov%2Fwp-content%2Fuploads%2F2022%2F03%2FTeaching-Artist-Roster-CURRENT-1.pdf",
+      "source": "Utah Division of Arts & Museums (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Worldclass - Automotive Service Excellence",
+      "link": "https://www.ase.com/worldclass",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ase.com/worldclass&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQFnoECCAQAQ",
+      "displayed_link": "https://www.ase.com › worldclass",
+      "snippet": "ASE Testing is computer based at a Prometric center (available all over the country) · Must attain 22 specific ASE certifications to receive World Class ...",
+      "snippet_highlighted_words": [
+        "center"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ASE Testing is computer based at a Prometric center (available all over the country) · Must attain 22 specific ASE certifications to receive World Class ...",
+          "source_info_link": "https://www.ase.com/worldclass"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ase.com/worldclass&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ase.com%2Fworldclass",
+      "source": "ASE"
+    },
+    {
+      "position": 5,
+      "title": "New South",
+      "link": "https://www.facebook.com/NewSouthprowrestling/posts/tomorrow-night-in-arabsouthern-hosstility-will-set-us-up-for-the-2026-hoss-tourn/1544759743747409/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/NewSouthprowrestling/posts/tomorrow-night-in-arabsouthern-hosstility-will-set-us-up-for-the-2026-hoss-tourn/1544759743747409/&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQFnoECCEQAQ",
+      "displayed_link": "10+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iyWly5XPW16KMl0Duh0H3tcA.png",
+      "snippet": "TOMORROW NIGHT in ARAB!!!! Southern HOSStility will set us up for the 2026 HOSS Tournament! ALL REMAINING TICKETS WT THE DOOR!",
+      "snippet_highlighted_words": [
+        "us"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "TOMORROW NIGHT in ARAB!!!! Southern HOSStility will set us up for the 2026 HOSS Tournament! ALL REMAINING TICKETS WT THE DOOR!",
+          "source_info_link": "https://www.facebook.com/NewSouthprowrestling/posts/tomorrow-night-in-arabsouthern-hosstility-will-set-us-up-for-the-2026-hoss-tourn/1544759743747409/",
+          "icon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iycUS5XpzMn-lVoCnqtWvOtzC7Sb3HhbgU7Pz6Dy0M16D.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/NewSouthprowrestling/posts/tomorrow-night-in-arabsouthern-hosstility-will-set-us-up-for-the-2026-hoss-tourn/1544759743747409/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FNewSouthprowrestling%2Fposts%2Ftomorrow-night-in-arabsouthern-hosstility-will-set-us-up-for-the-2026-hoss-tourn%2F1544759743747409%2F",
+      "source": "Facebook · New South Pro Wrestling"
+    },
+    {
+      "position": 6,
+      "title": "March 1, 2026 - List of Electors - NY.Gov",
+      "link": "https://www.health.ny.gov/regulations/hcra/elector/elect_r3.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.ny.gov/regulations/hcra/elector/elect_r3.htm&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQFnoECBwQAQ",
+      "displayed_link": "https://www.health.ny.gov › hcra › elector › elect_r3",
+      "favicon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iyQ_-fNsJ4WXPp-8wGCTaies.jpeg",
+      "date": "Mar 1, 2026",
+      "snippet": "RGM ENTERPRISES, INC. 005, A, M, SCARBORUGH, ME, DIANE KIROUAC, (207)784-1571, ELECTOR PLAN TERMINATED. APRIL 1, 2002, JUNE 30, ...",
+      "about_this_result": {
+        "source": {
+          "description": "RGM ENTERPRISES, INC. 005, A, M, SCARBORUGH, ME, DIANE KIROUAC, (207)784-1571, ELECTOR PLAN TERMINATED. APRIL 1, 2002, JUNE 30, ...",
+          "source_info_link": "https://www.health.ny.gov/regulations/hcra/elector/elect_r3.htm",
+          "icon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iyXWYBSKHZx80d4fZS-6ydBJGzj7L3Z4G7yaicppwkf5_.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.health.ny.gov/regulations/hcra/elector/elect_r3.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.health.ny.gov%2Fregulations%2Fhcra%2Felector%2Felect_r3.htm",
+      "source": "New York State Department of Health (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Arthur Miller: An Inventory of His Papers at the Harry ...",
+      "link": "https://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00786",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://norman.hrc.utexas.edu/fasearch/findingAid.cfm%3Feadid%3D00786&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQFnoECCIQAQ",
+      "displayed_link": "https://norman.hrc.utexas.edu › fasearch › findingAid",
+      "favicon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iyZ_w5nK6a3GRiDffMaqOM8M.png",
+      "snippet": "Harry Ransom Center, The University of Texas at Austin. Arthur Miller Papers (Manuscripts Collection MS-02831). Acquisition: Purchases and Gifts, 1962-2017 (62- ...",
+      "snippet_highlighted_words": [
+        "Center",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Harry Ransom Center, The University of Texas at Austin. Arthur Miller Papers (Manuscripts Collection MS-02831). Acquisition: Purchases and Gifts, 1962-2017 (62- ...",
+          "source_info_link": "https://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00786",
+          "icon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iydQ5rgu-hrZT9atq1Qye_pOUtR5Lo3MEn1WkpeTuRe_1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00786&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnorman.hrc.utexas.edu%2Ffasearch%2FfindingAid.cfm%3Feadid%3D00786",
+      "source": "The University of Texas at Austin"
+    },
+    {
+      "position": 8,
+      "title": "2020 Report of the Species Survival Commission and the ...",
+      "link": "https://portals.iucn.org/library/sites/library/files/documents/Species%20no.61.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://portals.iucn.org/library/sites/library/files/documents/Species%2520no.61.pdf&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQFnoECDkQAQ",
+      "displayed_link": "https://portals.iucn.org › library › files › documents",
+      "snippet": "Jon Paul Rodríguez, Chair. He holds a degree in biology from Universidad Central de Venezuela, and a Ph.D. in ecology and evolutionary biology from Princeton ...",
+      "snippet_highlighted_words": [
+        "Central"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 458
+          },
+          "extensions": [
+            "458 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Jon Paul Rodríguez, Chair. He holds a degree in biology from Universidad Central de Venezuela, and a Ph.D. in ecology and evolutionary biology from Princeton ...",
+          "source_info_link": "https://portals.iucn.org/library/sites/library/files/documents/Species%20no.61.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://portals.iucn.org/library/sites/library/files/documents/Species%20no.61.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fportals.iucn.org%2Flibrary%2Fsites%2Flibrary%2Ffiles%2Fdocuments%2FSpecies%2520no.61.pdf",
+      "source": "IUCN Portals"
+    },
+    {
+      "position": 9,
+      "title": "APPLICATION FOR GRANTS UNDER THE",
+      "link": "https://www.ed.gov/media/document/s165a230005-st-martin-parish-schools-application-finalpdf-15971.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ed.gov/media/document/s165a230005-st-martin-parish-schools-application-finalpdf-15971.pdf&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQFnoECDUQAQ",
+      "displayed_link": "https://www.ed.gov › media › document",
+      "favicon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iySCkNeeuiqIhmyQoygYflFw.png",
+      "date": "Jan 1, 2016",
+      "snippet": "... (U.S. Code, Title 18, Section 1001). ** The list of certifications and assurances, or an internet site where you may obtain this list, is ...",
+      "snippet_highlighted_words": [
+        "U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... (U.S. Code, Title 18, Section 1001). ** The list of certifications and assurances, or an internet site where you may obtain this list, is ...",
+          "source_info_link": "https://www.ed.gov/media/document/s165a230005-st-martin-parish-schools-application-finalpdf-15971.pdf",
+          "icon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iydJmmuWeqj_UI_a0K7-vWwg68aY6jDyBaf10s491vt64.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ed.gov/media/document/s165a230005-st-martin-parish-schools-application-finalpdf-15971.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ed.gov%2Fmedia%2Fdocument%2Fs165a230005-st-martin-parish-schools-application-finalpdf-15971.pdf",
+      "source": "U.S. Department of Education (.gov)"
+    },
+    {
+      "position": 10,
+      "title": "91st American Meteorological Society Annual Meeting",
+      "link": "https://ams.confex.com/ams/91Annual/webprogram/meeting.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ams.confex.com/ams/91Annual/webprogram/meeting.html&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQFnoECDsQAQ",
+      "displayed_link": "https://ams.confex.com › ams › webprogram › meeting",
+      "favicon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iySDJR0xC4tsjyrLY5EMKMBc.png",
+      "snippet": "Hosts: (Joint between the Events; the 15th Symposium on Integrated Observing and Assimilation Systems for the Atmosphere, Oceans and Land Surface ...",
+      "about_this_result": {
+        "source": {
+          "description": "Hosts: (Joint between the Events; the 15th Symposium on Integrated Observing and Assimilation Systems for the Atmosphere, Oceans and Land Surface ...",
+          "source_info_link": "https://ams.confex.com/ams/91Annual/webprogram/meeting.html",
+          "icon": "https://serpapi.com/searches/69bb5df5d3982c3fd36a81e4/images/ExvgzsCtexSsOckyJx7iybpbZGR8maNRsIJdjix_Dad7X4q3IgDd8UIKV0Egnzed.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ams.confex.com/ams/91Annual/webprogram/meeting.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fams.confex.com%2Fams%2F91Annual%2Fwebprogram%2Fmeeting.html",
+      "source": "The Conference Exchange"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=9V27aaPmNt7W5NoPweyzqA4&start=10&sa=N&sstk=Af77f_eXo-oT2toRY5AXG7koKkUlWjvdNcOpqmnNfi7ORRDnJ4BtvePTAgVax2XukY4xdIR3W3s4Sf_nqZ_SfZKghvQTEJh7XrCalg&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQ8NMDegQIERAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=9V27aaPmNt7W5NoPweyzqA4&start=10&sa=N&sstk=Af77f_eXo-oT2toRY5AXG7koKkUlWjvdNcOpqmnNfi7ORRDnJ4BtvePTAgVax2XukY4xdIR3W3s4Sf_nqZ_SfZKghvQTEJh7XrCalg&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQ8tMDegQIERAE",
+      "3": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=9V27aaPmNt7W5NoPweyzqA4&start=20&sa=N&sstk=Af77f_eXo-oT2toRY5AXG7koKkUlWjvdNcOpqmnNfi7ORRDnJ4BtvePTAgVax2XukY4xdIR3W3s4Sf_nqZ_SfZKghvQTEJh7XrCalg&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQ8tMDegQIERAG",
+      "4": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=9V27aaPmNt7W5NoPweyzqA4&start=30&sa=N&sstk=Af77f_eXo-oT2toRY5AXG7koKkUlWjvdNcOpqmnNfi7ORRDnJ4BtvePTAgVax2XukY4xdIR3W3s4Sf_nqZ_SfZKghvQTEJh7XrCalg&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQ8tMDegQIERAI",
+      "5": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=9V27aaPmNt7W5NoPweyzqA4&start=40&sa=N&sstk=Af77f_eXo-oT2toRY5AXG7koKkUlWjvdNcOpqmnNfi7ORRDnJ4BtvePTAgVax2XukY4xdIR3W3s4Sf_nqZ_SfZKghvQTEJh7XrCalg&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQ8tMDegQIERAK",
+      "6": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=9V27aaPmNt7W5NoPweyzqA4&start=50&sa=N&sstk=Af77f_eXo-oT2toRY5AXG7koKkUlWjvdNcOpqmnNfi7ORRDnJ4BtvePTAgVax2XukY4xdIR3W3s4Sf_nqZ_SfZKghvQTEJh7XrCalg&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQ8tMDegQIERAM",
+      "7": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=9V27aaPmNt7W5NoPweyzqA4&start=60&sa=N&sstk=Af77f_eXo-oT2toRY5AXG7koKkUlWjvdNcOpqmnNfi7ORRDnJ4BtvePTAgVax2XukY4xdIR3W3s4Sf_nqZ_SfZKghvQTEJh7XrCalg&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQ8tMDegQIERAO",
+      "8": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=9V27aaPmNt7W5NoPweyzqA4&start=70&sa=N&sstk=Af77f_eXo-oT2toRY5AXG7koKkUlWjvdNcOpqmnNfi7ORRDnJ4BtvePTAgVax2XukY4xdIR3W3s4Sf_nqZ_SfZKghvQTEJh7XrCalg&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQ8tMDegQIERAQ",
+      "9": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=9V27aaPmNt7W5NoPweyzqA4&start=80&sa=N&sstk=Af77f_eXo-oT2toRY5AXG7koKkUlWjvdNcOpqmnNfi7ORRDnJ4BtvePTAgVax2XukY4xdIR3W3s4Sf_nqZ_SfZKghvQTEJh7XrCalg&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQ8tMDegQIERAS",
+      "10": "https://www.google.com/search?q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=9V27aaPmNt7W5NoPweyzqA4&start=90&sa=N&sstk=Af77f_eXo-oT2toRY5AXG7koKkUlWjvdNcOpqmnNfi7ORRDnJ4BtvePTAgVax2XukY4xdIR3W3s4Sf_nqZ_SfZKghvQTEJh7XrCalg&ved=2ahUKEwjjtOXz86qTAxVeK1kFHUH2DOUQ8tMDegQIERAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steven+Clay+Dowell+Jr.+US+House+TX-31+Central+Texas+Instagram&start=90"
+    }
+  }
+}
