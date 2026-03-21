@@ -6,6 +6,21 @@
       "section": "main"
     },
     {
+      "title": "Fort Hood",
+      "url": "/fort-cavazos/",
+      "section": "main"
+    },
+    {
+      "title": "Texas Law",
+      "url": "/texas-law/",
+      "section": "resources"
+    },
+    {
+      "title": "Bell County",
+      "url": "/bell-county/",
+      "section": "resources"
+    },
+    {
       "title": "Criminal Defense",
       "url": "/defense/",
       "section": "services"
@@ -16,13 +31,8 @@
       "section": "services"
     },
     {
-      "title": "Bell County",
-      "url": "/bell-county/",
-      "section": "resources"
-    },
-    {
-      "title": "Texas Law",
-      "url": "/texas-law/",
+      "title": "Court Directory",
+      "url": "/court-directory/",
       "section": "resources"
     },
     {
@@ -33,11 +43,6 @@
     {
       "title": "Legal News",
       "url": "/legal-news/",
-      "section": "news"
-    },
-    {
-      "title": "News Feeds",
-      "url": "/news-feeds/",
       "section": "news"
     },
     {
@@ -60,5 +65,5 @@
       "url": "/contact/"
     }
   ],
-  "generated_at": "2026-02-19T00:00:00Z"
+  "generated_at": "2026-03-21T00:00:00Z"
 }

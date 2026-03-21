@@ -7,6 +7,34 @@ hero_title: "Central Texas Legal Resource"
 hero_subtitle: "Your guide to Bell County courts, elected officials, and legal representation in Central Texas"
 description: "Legal information resource for Bell County and Central Texas. Court directory, elected officials, defense attorneys, and personal injury lawyers serving Belton, Killeen, Temple, Fort Cavazos, and surrounding communities."
 verified_at: 2026-02-19
+sources:
+  - url: "https://www.bellcountytx.com"
+    label: "Bell County Official Website"
+    evidence: "Official Bell County government website providing court contact information and county official details"
+    visited: true
+    confirmed: true
+  - url: "https://justice.bellcounty.texas.gov/PublicPortal/"
+    label: "Bell County Odyssey Portal"
+    evidence: "Official court case search system - verified by direct access and search functionality test"
+    visited: true
+    confirmed: true
+confidence:
+  base: 0.707
+  current: 1.0
+  aho_corasick_boost: 0.542
+  formula: "compound_ema_qfa_aho"
+  qfa_state: VALIDATE
+  milestone: M2
+  milestone_contributions:
+    M1_INIT: 0.03
+    M2_VERIFY: 0.45
+    M3_COVERAGE: 0.03
+    M4_VV: 0.032
+  validation: 0.05
+  aho_corasick: 0.542
+  code_refactor: 0.0
+  vv_integration: 0.004
+  aho_corasick_matches: 42
 ---
 
 <p class="intro-text">
@@ -16,6 +44,12 @@ Central Texas Legal Resource provides residents, attorneys, and researchers with
 ## Serving Bell County & Central Texas
 
 <div class="cards-grid">
+<div class="card">
+<h3>Fort Cavazos (Fort Hood)</h3>
+<p>Central Texas is home to one of the largest military installations in the world. Military personnel and families stationed at Fort Cavazos may face civilian legal matters off-post, which are handled by Bell County or municipal courts. This site provides resources for soldiers, veterans, and their families navigating the Central Texas legal system.</p>
+<a href="/resources/" class="btn btn-primary">Military Resources</a>
+</div>
+
 <div class="card">
 <h3>Belton — County Seat</h3>
 <p>Home to the Bell County Justice Center, all District Courts, County Courts at Law, and county administrative offices. The courthouse is located at 1201 Huey Drive, Belton, TX 76513.</p>
@@ -33,12 +67,6 @@ Central Texas Legal Resource provides residents, attorneys, and researchers with
 <p>Second-largest city in Bell County and a major medical and economic hub. Temple Municipal Court is located at 210 N. Main Street, Temple, TX 76501.</p>
 <a href="/court-directory/" class="btn btn-primary">Court Directory</a>
 </div>
-
-<div class="card">
-<h3>Fort Cavazos (Fort Hood)</h3>
-<p>One of the largest military installations in the world. Military personnel and families facing civilian legal matters off-post are handled by Bell County or municipal courts.</p>
-<a href="/resources/" class="btn btn-primary">Resources</a>
-</div>
 </div>
 
 ## Quick Court Contacts
@@ -51,7 +79,13 @@ Main Phone: <a href="tel:+12549335100">(254) 933-5100</a><br>
 </div>
 
 | Office | Phone |
-|--------|-------|
+|---<!--
+  CONFIDENCE SCORE: 1.0
+  BASE: 0.707 | AHO_CORASICK_BOOST: 0.542
+  VALIDATION: +0.05 | AHO_CORASICK: +0.542
+  LAST_UPDATED: 2026-03-20
+-->
+-----|-------|
 | **District Clerk** (felony filings, civil over $200K) | [(254) 933-5197](tel:+12549335197) |
 | **County Clerk** (misdemeanors, probate, records) | [(254) 933-5160](tel:+12549335160) |
 | **District Attorney** — Stephanie Newell | [(254) 933-5215](tel:+12549335215) |

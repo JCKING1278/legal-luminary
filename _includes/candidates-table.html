@@ -1,8 +1,9 @@
-<p class="intro-text">Candidates for Texas - House District 11. Cash-on-hand as reported. To change this content, edit <code>candidates.h</code> and <code>candidates.c</code> in <code>candidates_c/</code> and recompile.</p>
-<table class="candidates-table" aria-label="Candidates and cash on hand">
-<thead><tr><th>Candidate</th><th>Cash on hand</th></tr></thead>
+<p class="intro-text">Sample rows from <code>_data/candidates.yml</code> (for includes; the main <a href="{{ '/candidates/' | relative_url }}">candidates page</a> uses the full interactive list).</p>
+<table class="candidates-table" aria-label="Candidates (sample)">
+<thead><tr><th>Candidate</th><th>Office</th><th>Status</th></tr></thead>
 <tbody>
-<tr><td>August Lee II Pfluger</td><td>$2,691,075.95</td></tr>
-<tr><td>Claire Anne Reynolds</td><td>$10,494.74</td></tr>
-<tr><td>Pedro Ruiz</td><td>$0.00</td></tr>
-</tbody></table>
+{% for candidate in site.data.candidates.candidates limit:15 %}
+<tr><td>{{ candidate.name | escape }}</td><td>{{ candidate.office | escape }}</td><td>{{ candidate.status | escape }}</td></tr>
+{% endfor %}
+</tbody>
+</table>

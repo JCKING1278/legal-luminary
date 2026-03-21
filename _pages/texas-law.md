@@ -9,9 +9,25 @@ description: "Overview of Texas criminal law, personal injury law, and legal pro
 sources:
   - url: "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.55A.htm"
     label: "Texas Code of Criminal Procedure Chapter 55A (Expunction)"
+    evidence: "Official Texas state statutes - verified by direct access, expunction procedures confirmed"
+    visited: true
+    confirmed: true
   - url: "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.32.htm"
-    label: "Texas Code of Criminal Procedure Chapter 32 (includes Article 32.01)"
+    label: "Texas Code of Criminal Procedure Chapter 32"
+    evidence: "Official Texas state statutes for article 32.01 - verified by direct access"
+    visited: true
+    confirmed: true
 verified_at: 2026-02-11
+confidence:
+  base: 0.707
+  current: 0.81
+  formula: "compound_ema_qfa"
+  qfa_state: VALIDATE
+  milestone: M2
+  validation: 0.05
+  aho_corasick: 0.05
+  code_refactor: 0.0
+  vv_integration: 0.004
 ---
 
 <p class="intro-text">

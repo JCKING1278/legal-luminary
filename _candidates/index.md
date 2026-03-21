@@ -1,16 +1,14 @@
 ---
-layout: default
+layout: candidates
 title: Candidates
 permalink: /candidates/
 hero: true
 hero_title: "Candidates"
-hero_subtitle: "Texas House District 11 – candidate names and cash on hand"
-description: "Candidates for Texas House District 11 with cash-on-hand. Content is generated from compiled C source; recompile to update."
+hero_subtitle: "Texas House District 11, Senate District 22, "
+description: "Central Texas candidates and elected offices. Interactive list is generated from _data/candidates.yml."
 ---
 
-{% include candidates-table.html %}
-
-<p class="legal-notice" style="margin-top: 1.5rem;"><strong>Source:</strong> Candidate names and cash-on-hand are hard-coded in the <code>candidates_c/</code> C library. To change the table, edit <code>candidates.h</code> and <code>candidates.c</code>, then run <code>make install</code> in <code>candidates_c/</code> to regenerate the HTML.</p>
+<p class="intro-text">The candidate list and detail panel above are built from <code>_data/candidates.yml</code> (metadata, offices, social links, and research notes). Update that file to change who appears and what shows when you click a name.</p>
 
 ## Elected Officials
 
@@ -30,6 +28,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [bellcountytx.com](https://www.bellcountytx.com)
 
 ### Belton
+
 | Position | Name | Term Expires |
 |----------|------|--------------|
 | Mayor | David K. Leigh | May 2027 |
@@ -43,6 +42,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [beltontexas.gov](https://www.beltontexas.gov/government/city_council/index.php)
 
 ### Harker Heights
+
 | Position | Name | Term Expires |
 |----------|------|--------------|
 | Mayor | Michael Blomquist | May 2026 |
@@ -55,6 +55,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [harkerheights.gov](https://www.harkerheights.gov/mayor-city-council)
 
 ### Temple
+
 | Position | Name | District |
 |---------|------|----------|
 | Mayor | Tim Davis | At-Large |
@@ -66,6 +67,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [templetx.gov](https://www.templetx.gov/departments/city_council/meet_the_council.php)
 
 ### Killeen
+
 | Position | Name |
 |----------|------|
 | Mayor | Riakos Adams |
@@ -76,6 +78,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [killeentexas.gov](https://www.killeentexas.gov/city-council)
 
 ### Nolanville
+
 | Position | Name |
 |----------|------|
 | Mayor | Andy Williams |
@@ -88,6 +91,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [nolanvilletx.gov](https://www.nolanvilletx.gov/)
 
 ### Salado
+
 | Position | Name |
 |----------|------|
 | Mayor | (vacant) |
@@ -100,6 +104,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [saladotx.gov](https://www.saladotx.gov/board-aldermen)
 
 ### Moody
+
 | Position | Name |
 |----------|------|
 | Mayor | Charleen Dowell |
@@ -112,6 +117,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [moodytx.gov](https://moodytx.gov/city/)
 
 ### Troy
+
 | Position | Name |
 |----------|------|
 | Mayor | Michael Morgan |
@@ -124,6 +130,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [cityoftroy.us](https://www.cityoftroy.us/10878/city-council)
 
 ### Bartlett
+
 | Position | Name | Term Expires |
 |----------|------|-------------|
 | Mayor | Chad Mees | 2026 |
@@ -136,6 +143,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [bartlett-tx.us](https://www.bartlett-tx.us/citycouncil)
 
 ### Holland
+
 | Position | Name | Term |
 |----------|------|------|
 | Mayor | Johnny Kallus | 2023-2025 |
@@ -148,6 +156,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [cityofholland.org](https://cityofholland.org/mayor-and-city-council)
 
 ### Little River-Academy
+
 | Position | Name |
 |----------|------|
 | Mayor | Domingo Montalbo |
@@ -160,6 +169,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [littleriveracademy.us](https://www.littleriveracademy.us/city-council/)
 
 ### Rogers
+
 | Position | Name |
 |----------|------|
 | Mayor | Jeff Watson |
@@ -172,6 +182,7 @@ County and city governments in Bell County, starting with county officials then 
 **Website**: [cityofrogerstx.gov](https://www.cityofrogerstx.gov/)
 
 ### Morgan's Point Resort
+
 | Position | Name |
 |----------|------|
 | Mayor | James Snyder |
