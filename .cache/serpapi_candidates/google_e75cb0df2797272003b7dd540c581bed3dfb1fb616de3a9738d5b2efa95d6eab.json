@@ -1,0 +1,59 @@
+{
+  "search_metadata": {
+    "id": "69bb5df01290d9adae73f343",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BLkY-u_i17HY1-bdIonH5w/69bb5df01290d9adae73f343.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/BLkY-u_i17HY1-bdIonH5w/69bb5df01290d9adae73f343.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:40 UTC",
+    "processed_at": "2026-03-19 02:22:40 UTC",
+    "google_url": "https://www.google.com/search?q=John+R.+Carter+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&oq=John+R.+Carter+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/BLkY-u_i17HY1-bdIonH5w/69bb5df01290d9adae73f343.html",
+    "total_time_taken": 1.43
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "John R. Carter \"US House TX-31\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "John R. Carter \"US House TX-31\" \"Central Texas\" Instagram",
+    "total_results": 1,
+    "time_taken_displayed": 0.57,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "N-ulm3icxZTdkqo4EIDv9x328nDjERQclamiTiURR3RE0FHHubEQMP6AKEHRudt32afap9kE_9AZ5uzZqq3ti5B0dzqh-0v_8ac3Xy3_-u33WRStyaMgxHHM4yDAnsvbgS9Y5LCyhWngkdCe_cCesiXczFPcFXfYKRJnE6XAuXOlOhAr1tv0va5vOg-dvrFu13q-aXPJdmU8sYi7oNH3CyKMBTosv0k1uuAJ7674pVyB2tjXe4c2LxaKMt8RLJ86gP9IVNClI9TohAq-NaJEpWbvNtXE2kypjiFgSjM6KjFWgcnW9c8voiY7e4juNeAuH7etzFOBllrBUXJsnZ0DEIaJw71oHzTXK7ZOQTPO-hjouLN2TRYEmaJpZys0AUKgEaOr8RQCnw4pgWeELuEgNSMDSkgLssPTnQPcUGd5E3xVJ-qldfXYGdFKCA6mPBWESUg_RWFuz-xkEhKGGXqRC0G9arwPOuYElD15OTgU9T6wR-ZSBEYMBHtC_bzAclxnPBsXvidA2-RCNEkTvV1owNnDg6Hb_DMPiymcWSYxurkkK2xGHT4RlG06ljQATwzuC9UGm8D-2akKIAZIvRZPPcX8iHMi2o0S46MNsSW-c2WxlqfZOb6dNsPLH9A70Epfz4jTbiiNlqZpKjttdIyA0250DekTYrNW8swa6TBAS-UKsmdL82xe_4mNtfN9WRpYcBXgmovazA3RjCDmxBYQJUmFpnoPPsTXdRugEjri_OsCM5_jWUxw5vcOxzTGasUhqqgXXyeVvZ7H4XMrGh6Gg7ncrMUnbAN_8gud2P7_wD716VbyygP8EWz8Fdimir7o0yewr306aUio_jnYagJKqk-7aXMabBNqKbD3mX06Bbb2U7Bfb9JyAdv8BGx4DzbMBpv16QvYCMG7Pp38VpKWFNj_qk-b_7xPJ3y7x89t094ucGbzVhuNhi-hhiOXBovmaON5IaW4Isqaij8276kfPVqO9308dx6h2IwODrdRmsFslevyOWSFkRvmvoliv5drBFvi5l5e81KRKpgSuasotLzci7u3CNNpKxJZOLR8zvfCQClYD7C1bc13i7kxfH0oN9_nT2_7cgE0pu7WWOSL45JnzVrjcLoXo0qn3sw_OT52ul51UUNPcF3udnS0XRjPo1nvbTJc-zhfrQOpOy3XZvIoxBLYTJoL4vZK8F2PK_pg4m0G_Y3kttYNwzWJ3W_2hsTeJLchijHYzTfdtjR_sDk_tBVawhIGugmGmDVnjtjW2CU7xRZtS3YrRblakGR3KnE-jg5rRS5wZBUqxb8BqCbhbw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=N-ulm3icxZTdkqo4EIDv9x328nDjERQclamiTiURR3RE0FHHubEQMP6AKEHRudt32afap9kE_9AZ5uzZqq3ti5B0dzqh-0v_8ac3Xy3_-u33WRStyaMgxHHM4yDAnsvbgS9Y5LCyhWngkdCe_cCesiXczFPcFXfYKRJnE6XAuXOlOhAr1tv0va5vOg-dvrFu13q-aXPJdmU8sYi7oNH3CyKMBTosv0k1uuAJ7674pVyB2tjXe4c2LxaKMt8RLJ86gP9IVNClI9TohAq-NaJEpWbvNtXE2kypjiFgSjM6KjFWgcnW9c8voiY7e4juNeAuH7etzFOBllrBUXJsnZ0DEIaJw71oHzTXK7ZOQTPO-hjouLN2TRYEmaJpZys0AUKgEaOr8RQCnw4pgWeELuEgNSMDSkgLssPTnQPcUGd5E3xVJ-qldfXYGdFKCA6mPBWESUg_RWFuz-xkEhKGGXqRC0G9arwPOuYElD15OTgU9T6wR-ZSBEYMBHtC_bzAclxnPBsXvidA2-RCNEkTvV1owNnDg6Hb_DMPiymcWSYxurkkK2xGHT4RlG06ljQATwzuC9UGm8D-2akKIAZIvRZPPcX8iHMi2o0S46MNsSW-c2WxlqfZOb6dNsPLH9A70Epfz4jTbiiNlqZpKjttdIyA0250DekTYrNW8swa6TBAS-UKsmdL82xe_4mNtfN9WRpYcBXgmovazA3RjCDmxBYQJUmFpnoPPsTXdRugEjri_OsCM5_jWUxw5vcOxzTGasUhqqgXXyeVvZ7H4XMrGh6Gg7ncrMUnbAN_8gud2P7_wD716VbyygP8EWz8Fdimir7o0yewr306aUio_jnYagJKqk-7aXMabBNqKbD3mX06Bbb2U7Bfb9JyAdv8BGx4DzbMBpv16QvYCMG7Pp38VpKWFNj_qk-b_7xPJ3y7x89t094ucGbzVhuNhi-hhiOXBovmaON5IaW4Isqaij8276kfPVqO9308dx6h2IwODrdRmsFslevyOWSFkRvmvoliv5drBFvi5l5e81KRKpgSuasotLzci7u3CNNpKxJZOLR8zvfCQClYD7C1bc13i7kxfH0oN9_nT2_7cgE0pu7WWOSL45JnzVrjcLoXo0qn3sw_OT52ul51UUNPcF3udnS0XRjPo1nvbTJc-zhfrQOpOy3XZvIoxBLYTJoL4vZK8F2PK_pg4m0G_Y3kttYNwzWJ3W_2hsTeJLchijHYzTfdtjR_sDk_tBVawhIGugmGmDVnjtjW2CU7xRZtS3YrRblakGR3KnE-jg5rRS5wZBUqxb8BqCbhbw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Home | Save Parrie Haynes R",
+      "link": "https://www.savephr.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.savephr.org/&ved=2ahUKEwjXr8_x86qTAxVaB7kGHSSgNHMQFnoECBkQAQ",
+      "displayed_link": "https://www.savephr.org",
+      "snippet": "... Central Texas's natural beauty. The ranch supports diverse wildlife ... Carter (U.S. House, TX-31). Bell County Office: (254) 933-1392. As the federal ...",
+      "snippet_highlighted_words": [
+        "Central Texas's",
+        "Carter",
+        "U.S. House, TX-31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Central Texas's natural beauty. The ranch supports diverse wildlife ... Carter (U.S. House, TX-31). Bell County Office: (254) 933-1392. As the federal ...",
+          "source_info_link": "https://www.savephr.org/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.savephr.org/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.savephr.org%2F",
+      "source": "savephr.org"
+    }
+  ]
+}

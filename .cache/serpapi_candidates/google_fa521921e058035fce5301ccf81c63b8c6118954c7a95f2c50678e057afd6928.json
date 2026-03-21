@@ -1,0 +1,175 @@
+{
+  "search_metadata": {
+    "id": "69bb5df8d99612e48b546a0c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hNBOG-ue3qOBSgsDyDbRiw/69bb5df8d99612e48b546a0c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/hNBOG-ue3qOBSgsDyDbRiw/69bb5df8d99612e48b546a0c.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:48 UTC",
+    "processed_at": "2026-03-19 02:22:48 UTC",
+    "google_url": "https://www.google.com/search?q=Justin+Early+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Justin+Early+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/hNBOG-ue3qOBSgsDyDbRiw/69bb5df8d99612e48b546a0c.html",
+    "total_time_taken": 1.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Justin Early \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Justin Early \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 4,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Stuart Whitlow for Congress is our pick for US House (TX ...",
+      "link": "https://www.facebook.com/wearemarchon/posts/stuart-whitlow-for-congress-is-our-pick-for-us-house-tx-31stuart-whitlow-is-a-fi/1341895734645553/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/wearemarchon/posts/stuart-whitlow-for-congress-is-our-pick-for-us-house-tx-31stuart-whitlow-is-a-fi/1341895734645553/&ved=2ahUKEwjyuav186qTAxW4hIkEHcIhFjoQFnoECCIQAQ",
+      "displayed_link": "3 reactions · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5df8d99612e48b546a0c/images/FzJgzlKNXimQg-vanglg7Mb0Gj5nhrnwBDryxXJOuoM.png",
+      "snippet": "Stuart Whitlow for Congress is our pick for US House (TX-31). ... Justin Early ▻ TDW of Central Texas. 29w · Public · Hello! My name is ...",
+      "snippet_highlighted_words": [
+        "US House (TX-31",
+        "Justin Early",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Stuart Whitlow for Congress is our pick for US House (TX-31). ... Justin Early ▻ TDW of Central Texas. 29w · Public · Hello! My name is ...",
+          "source_info_link": "https://www.facebook.com/wearemarchon/posts/stuart-whitlow-for-congress-is-our-pick-for-us-house-tx-31stuart-whitlow-is-a-fi/1341895734645553/",
+          "icon": "https://serpapi.com/searches/69bb5df8d99612e48b546a0c/images/FzJgzlKNXimQg-vanglg7H6tmzUHoO0TmAWfU0llRAdAquiKm83eNpinklc3G8OK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/wearemarchon/posts/stuart-whitlow-for-congress-is-our-pick-for-us-house-tx-31stuart-whitlow-is-a-fi/1341895734645553/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fwearemarchon%2Fposts%2Fstuart-whitlow-for-congress-is-our-pick-for-us-house-tx-31stuart-whitlow-is-a-fi%2F1341895734645553%2F",
+      "source": "Facebook · March On PAC"
+    },
+    {
+      "position": 2,
+      "title": "If you're in US House District 31, we've got 2 confirmed ...",
+      "link": "https://www.facebook.com/groups/1627499834129884/posts/4350245168521990/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1627499834129884/posts/4350245168521990/&ved=2ahUKEwjyuav186qTAxW4hIkEHcIhFjoQFnoECCgQAQ",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/searches/69bb5df8d99612e48b546a0c/images/FzJgzlKNXimQg-vanglg7PMz6T-UkkrW5fMkU3mndaU.png",
+      "snippet": "✓ Confirmed candidates so far: • Justin Early – U.S. House (TX-31) ... Message us on Facebook to ... Central Texas, right here at Neighbors on 7th!",
+      "snippet_highlighted_words": [
+        "Justin Early",
+        "U.S. House (TX-31",
+        "Facebook",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "✓ Confirmed candidates so far: • Justin Early – U.S. House (TX-31) ... Message us on Facebook to ... Central Texas, right here at Neighbors on 7th!",
+          "source_info_link": "https://www.facebook.com/groups/1627499834129884/posts/4350245168521990/",
+          "icon": "https://serpapi.com/searches/69bb5df8d99612e48b546a0c/images/FzJgzlKNXimQg-vanglg7JmpbJMC3yujvUVWU8m350E0qsdoPEw8jIoosNneoi7o.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1627499834129884/posts/4350245168521990/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1627499834129884%2Fposts%2F4350245168521990%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 3,
+      "title": "Stuart Whitlow for Congress (@WhitlowForCongress)",
+      "link": "https://www.facebook.com/WhitlowForCongress/mentions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/WhitlowForCongress/mentions/&ved=2ahUKEwjyuav186qTAxW4hIkEHcIhFjoQFnoECB4QAQ",
+      "displayed_link": "https://www.facebook.com › mentions",
+      "favicon": "https://serpapi.com/searches/69bb5df8d99612e48b546a0c/images/FzJgzlKNXimQg-vanglg7Gdld1dLL2qgS6_9QvRa62w.png",
+      "snippet": "Central Texas deserves leadership better than John Carter. ... Stuart Whitlow for Congress is our pick for US House (TX-31). ... Justin Early ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "US House (TX-31",
+        "Justin Early"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Central Texas deserves leadership better than John Carter. ... Stuart Whitlow for Congress is our pick for US House (TX-31). ... Justin Early ...",
+          "source_info_link": "https://www.facebook.com/WhitlowForCongress/mentions/",
+          "icon": "https://serpapi.com/searches/69bb5df8d99612e48b546a0c/images/FzJgzlKNXimQg-vanglg7GVaGXUkMWsU6_-H_UNdkI3NeMYfC7nEFE1yTUvlubEL.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/WhitlowForCongress/mentions/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FWhitlowForCongress%2Fmentions%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 4,
+      "title": "Central Texas Events and Happenings",
+      "link": "https://www.facebook.com/groups/1627499834129884/posts/4334356736777500/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1627499834129884/posts/4334356736777500/&ved=2ahUKEwjyuav186qTAxW4hIkEHcIhFjoQFnoECB8QAQ",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/searches/69bb5df8d99612e48b546a0c/images/FzJgzlKNXimQg-vanglg7MlJawO2NJyvCXFmBpJeaqk.png",
+      "snippet": "✓ Confirmed candidates so far: • Justin Early – U.S. House (TX-31) ... facebook.com/events/s/she ... Sunday fun day event in central Texas. Summarized ...",
+      "snippet_highlighted_words": [
+        "Justin Early",
+        "U.S. House (TX-31",
+        "facebook",
+        "central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "✓ Confirmed candidates so far: • Justin Early – U.S. House (TX-31) ... facebook.com/events/s/she ... Sunday fun day event in central Texas. Summarized ...",
+          "source_info_link": "https://www.facebook.com/groups/1627499834129884/posts/4334356736777500/",
+          "icon": "https://serpapi.com/searches/69bb5df8d99612e48b546a0c/images/FzJgzlKNXimQg-vanglg7JXn2f1OBEhyhJidN4gO9DxROVz_ttQQeiCJlYgDQa2x.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1627499834129884/posts/4334356736777500/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1627499834129884%2Fposts%2F4334356736777500%2F",
+      "source": "Facebook"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Vikki Goodwin",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Vikki+Goodwin&sa=X&ved=2ahUKEwjyuav186qTAxW4hIkEHcIhFjoQ1QJ6BAgTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Vikki+Goodwin"
+    },
+    {
+      "block_position": 1,
+      "query": "Gina Hinojosa",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Gina+Hinojosa&sa=X&ved=2ahUKEwjyuav186qTAxW4hIkEHcIhFjoQ1QJ6BAgXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gina+Hinojosa"
+    },
+    {
+      "block_position": 1,
+      "query": "Zach Vance",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Zach+Vance&sa=X&ved=2ahUKEwjyuav186qTAxW4hIkEHcIhFjoQ1QJ6BAgWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Zach+Vance"
+    },
+    {
+      "block_position": 1,
+      "query": "Patricia Abrego",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Patricia+Abrego&sa=X&ved=2ahUKEwjyuav186qTAxW4hIkEHcIhFjoQ1QJ6BAgUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Patricia+Abrego"
+    }
+  ]
+}

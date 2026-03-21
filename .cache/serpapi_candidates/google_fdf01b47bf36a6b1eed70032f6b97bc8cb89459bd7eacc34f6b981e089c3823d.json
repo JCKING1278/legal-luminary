@@ -1,0 +1,379 @@
+{
+  "search_metadata": {
+    "id": "69bb5d195c018fd35f591e42",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/IZovy7Zc-bA7hHRLaRoDMw/69bb5d195c018fd35f591e42.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/IZovy7Zc-bA7hHRLaRoDMw/69bb5d195c018fd35f591e42.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:05 UTC",
+    "processed_at": "2026-03-19 02:19:05 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Stuart+Norman+Whitlow+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Stuart+Norman+Whitlow+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/IZovy7Zc-bA7hHRLaRoDMw/69bb5d195c018fd35f591e42.html",
+    "total_time_taken": 1.27
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Stuart Norman Whitlow for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Stuart Norman Whitlow for US House TX-31? Include who that supporter works for.",
+    "total_results": 10,
+    "time_taken_displayed": 0.47,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "EaaU5XicxZTbkqI4GIDv9z3GG6YF1LG1q6ipJKLiGbU9zI2FHIJySAso6t28yz7VPs0meKK16Z3Zqq39i4Ik_yn8-fL__NNd-c5ffwztKHoLX3g-juM8JgS7Zl4nHq-FB1_nLeKGgW5_P-ykYk4PJSFnrqTGpPCsabVOu1zG33pkcOiOmw5wcomLtFhqobmmEffrkF_w9OV8KdboJB_mTT_vVJ-hsvB6o0M3XxDEar7Pax41AP-RyGBI31ChAyr4vRIlS3K2tyon2lZq6RQCplbmp0WMZaCyef3jjciJ5whR3wHcPcVdLTMrUFIzOE_S1lkegDBMDO5FeVi5bbF9DpqR6zHQybN2KxYEmaIoFy1UAUKgGaOb8hwCn5OUQAehazhI1WgAi0gh2eGp5wQ3ZftJBZ-dE7VShr3YmNOT4A1MeRL4ZUA_Ir_SbT0ZBCHDDI2rAqlXBsdJX12Cslt1Jgex9wr0ueoUwCAGvL6kdi7RDNNY2AvhawK0Hl6JDtNEb9cKMPbwMOjp-U4eiimcWSUxerdJdrAZ5_CBoGzV6UgJkBncV6oHbABfL0YVADFA8u3w5HPMR5wTUd4tYnzSITbFd6YslnMeXeLraTW8_gHdAz3pW444bYbSaCmKIrNs81MEnDajc0ivEBu1k2vWTIcBSqpWkF1bWmf19k_sXbvsl5WBBZcBrpmoy8wQrQhiRmwCUVJUqMr34EN8m3cBKqETzr8vMPM6XkQFF37vcExj3KiJC_FZWO_HlqJ528q-c1St9nG9q9fxGVviLX-jE-v_H9jnPt1ObjnBj2Djz8BWZfRJnz6DfevTSUNC9Y_BlhNQUn3aTKvTYKtQSYG9z-zTKbCVfwR79q4sV7DVD8CG92DDbLBZn76CjRC869PJbyVlSYH9r_q0-ut9OuHbPH3eN-3tGmc3b7VEqtY2Fmeb6W5z0IrBdLSGeDLr9NXH5m150YtmuF8XK-MFFlrRwchtpKlNuFXIRbbJuVqAzTDiDOKTgKOPtfI1X19pLhdu395IEJl02eJG0VYLIq5HAk_zuam9ilwScxZ1eB1xTbINTW48eyqK3znF192tYXIxTRLZWpSKE5PACZlTPue5AZEErdyx-9Wh19RbnaW_mgiuPFW_uYbpkPZRdEr9ZmOsYbs1r-zlSV1ZHGd9uT3aFZpGwS_NR4Noc5y1i0u0J-GiLkdtu9Lyl89PO3VemvaHw8J0PK055emPcs_Xf5SXjXJb6I9ana5a1mNhZW6sxgZaIEh2E0qF3sgqlpWovyM5L9AlykAJg54Kpph191yoawsz3El6Qdeq5rNYrQjFqmkVcx6ODm9SVciFfiCJfwNH1vj0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EaaU5XicxZTbkqI4GIDv9z3GG6YF1LG1q6ipJKLiGbU9zI2FHIJySAso6t28yz7VPs0meKK16Z3Zqq39i4Ik_yn8-fL__NNd-c5ffwztKHoLX3g-juM8JgS7Zl4nHq-FB1_nLeKGgW5_P-ykYk4PJSFnrqTGpPCsabVOu1zG33pkcOiOmw5wcomLtFhqobmmEffrkF_w9OV8KdboJB_mTT_vVJ-hsvB6o0M3XxDEar7Pax41AP-RyGBI31ChAyr4vRIlS3K2tyon2lZq6RQCplbmp0WMZaCyef3jjciJ5whR3wHcPcVdLTMrUFIzOE_S1lkegDBMDO5FeVi5bbF9DpqR6zHQybN2KxYEmaIoFy1UAUKgGaOb8hwCn5OUQAehazhI1WgAi0gh2eGp5wQ3ZftJBZ-dE7VShr3YmNOT4A1MeRL4ZUA_Ir_SbT0ZBCHDDI2rAqlXBsdJX12Cslt1Jgex9wr0ueoUwCAGvL6kdi7RDNNY2AvhawK0Hl6JDtNEb9cKMPbwMOjp-U4eiimcWSUxerdJdrAZ5_CBoGzV6UgJkBncV6oHbABfL0YVADFA8u3w5HPMR5wTUd4tYnzSITbFd6YslnMeXeLraTW8_gHdAz3pW444bYbSaCmKIrNs81MEnDajc0ivEBu1k2vWTIcBSqpWkF1bWmf19k_sXbvsl5WBBZcBrpmoy8wQrQhiRmwCUVJUqMr34EN8m3cBKqETzr8vMPM6XkQFF37vcExj3KiJC_FZWO_HlqJ528q-c1St9nG9q9fxGVviLX-jE-v_H9jnPt1ObjnBj2Djz8BWZfRJnz6DfevTSUNC9Y_BlhNQUn3aTKvTYKtQSYG9z-zTKbCVfwR79q4sV7DVD8CG92DDbLBZn76CjRC869PJbyVlSYH9r_q0-ut9OuHbPH3eN-3tGmc3b7VEqtY2Fmeb6W5z0IrBdLSGeDLr9NXH5m150YtmuF8XK-MFFlrRwchtpKlNuFXIRbbJuVqAzTDiDOKTgKOPtfI1X19pLhdu395IEJl02eJG0VYLIq5HAk_zuam9ilwScxZ1eB1xTbINTW48eyqK3znF192tYXIxTRLZWpSKE5PACZlTPue5AZEErdyx-9Wh19RbnaW_mgiuPFW_uYbpkPZRdEr9ZmOsYbs1r-zlSV1ZHGd9uT3aFZpGwS_NR4Noc5y1i0u0J-GiLkdtu9Lyl89PO3VemvaHw8J0PK055emPcs_Xf5SXjXJb6I9ana5a1mNhZW6sxgZaIEh2E0qF3sgqlpWovyM5L9AlykAJg54Kpph191yoawsz3El6Qdeq5rNYrQjFqmkVcx6ODm9SVciFfiCJfwNH1vj0"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Texas District 31 2024 Race",
+      "link": "https://www.opensecrets.org/races/geography?cycle=2024&id=TX31&spec=N",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/geography%3Fcycle%3D2024%26id%3DTX31%26spec%3DN&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQFnoECCAQAQ",
+      "displayed_link": "https://www.opensecrets.org › races › geography › id=...",
+      "favicon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRvslAnPm4gVRQVOezPSXQy8.png",
+      "snippet": "OpenSecrets.org geographical data of contributions to candidates running in the Texas congressional race in 2024. Contributions for candidates are broken ...",
+      "snippet_highlighted_words": [
+        "Texas congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "OpenSecrets.org geographical data of contributions to candidates running in the Texas congressional race in 2024. Contributions for candidates are broken ...",
+          "source_info_link": "https://www.opensecrets.org/races/geography?cycle=2024&id=TX31&spec=N",
+          "icon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRjwKeYw0-viPUnqP_Hq9qODRamcc6Th0Q6vggQ4Jo-sV.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/geography?cycle=2024&id=TX31&spec=N&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Fgeography%3Fcycle%3D2024%26id%3DTX31%26spec%3DN",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 2,
+      "title": "Fundraising in Texas' 31st Congressional District",
+      "link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quiverquant.com/election-fundraising/house/TX/31&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQFnoECC0QAQ",
+      "displayed_link": "https://www.quiverquant.com › house",
+      "favicon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRtQ3Mkb1NCUak2sueR-Fq-U.png",
+      "snippet": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+          "source_info_link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+          "icon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRrZ3ODUHRXEje8LZrK8YILeOk0E2y8chlzLZ62XzBqCP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quiverquant.com/election-fundraising/house/TX/31&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quiverquant.com%2Felection-fundraising%2Fhouse%2FTX%2F31",
+      "missing": [
+        "financial"
+      ],
+      "must_include": {
+        "word": "financial",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+%22financial%22+supporter+of+Stuart+Norman+Whitlow+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQ5t4CegQIKhAB"
+      },
+      "source": "Quiver Quantitative"
+    },
+    {
+      "position": 3,
+      "title": "WHITLOW, STUART NORMAN MR. - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H4TX31081/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H4TX31081/&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQFnoECB0QAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H4TX31081",
+      "favicon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRtTWdC5hJqYrYom44n3EKbg.png",
+      "snippet": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+      "snippet_highlighted_words": [
+        "federal",
+        "finance"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+          "source_info_link": "https://www.fec.gov/data/candidate/H4TX31081/",
+          "icon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRtpuPFO5PlthfNzfz_zyjj6y0rPgUo6VVWMdIhzI3W5o.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H4TX31081/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH4TX31081%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Stuart+Norman+Whitlow+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQ5t4CegQIIRAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 4,
+      "title": "Texas District 31 2024 Race",
+      "link": "https://www.opensecrets.org/races/summary?cycle=2024&id=TX31&spec=N",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/summary%3Fcycle%3D2024%26id%3DTX31%26spec%3DN&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQFnoECCIQAQ",
+      "displayed_link": "https://www.opensecrets.org › races › summary › id=T...",
+      "favicon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRkNrFV1c7-CcNgCcJ6N0lPM.png",
+      "snippet": "NOTE: All the numbers on this page are for the 2023-2024 House election cycle and based on Federal Election Commission data available electronically.",
+      "snippet_highlighted_words": [
+        "House",
+        "Federal"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NOTE: All the numbers on this page are for the 2023-2024 House election cycle and based on Federal Election Commission data available electronically.",
+          "source_info_link": "https://www.opensecrets.org/races/summary?cycle=2024&id=TX31&spec=N",
+          "icon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRu61uG4YTVX5IHxezXnxn1CeMp7NTAh9m4Mb_nEIf6-e.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/summary?cycle=2024&id=TX31&spec=N&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Fsummary%3Fcycle%3D2024%26id%3DTX31%26spec%3DN",
+      "missing": [
+        "largest",
+        "Include"
+      ],
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 5,
+      "title": "Donors and Members",
+      "link": "https://support.texastribune.org/members",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.texastribune.org/members&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQFnoECBwQAQ",
+      "displayed_link": "https://support.texastribune.org › members",
+      "favicon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRkz2liy1TBSpGNnmBXY2Mr0.png",
+      "snippet": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+      "snippet_highlighted_words": [
+        "donations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+          "source_info_link": "https://support.texastribune.org/members",
+          "icon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRijCMkzdEisjw_ht1e5ZWRRALg-7I03PCgte42YYecFX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://support.texastribune.org/members&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsupport.texastribune.org%2Fmembers",
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 6,
+      "title": "TX-31 deserves a representative who works as hard as its ...",
+      "link": "https://www.instagram.com/p/DTOACDoCcjw/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DTOACDoCcjw/&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQFnoECDkQAQ",
+      "displayed_link": "3 likes · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRu3BDnO9mKTPC8jxYRrxB6I.png",
+      "snippet": "stuartwhitlow31. I'm Stuart Whitlow, and I'm running for Congress in Texas' 31st District because our country needs one simple promise ...",
+      "snippet_highlighted_words": [
+        "Stuart Whitlow",
+        "Congress",
+        "Texas",
+        "31st"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "stuartwhitlow31. I'm Stuart Whitlow, and I'm running for Congress in Texas' 31st District because our country needs one simple promise ...",
+          "source_info_link": "https://www.instagram.com/p/DTOACDoCcjw/",
+          "icon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRp0QO35qYNG59VRlNCvT8pSqsc8Ez0WKMmax6jqbAcjZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DTOACDoCcjw/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDTOACDoCcjw%2F",
+      "missing": [
+        "donor",
+        "financial",
+        "Norman"
+      ],
+      "source": "Instagram · stuartwhitlow31"
+    },
+    {
+      "position": 7,
+      "title": "Whitlow focuses on affordability in US House 31 ...",
+      "link": "https://www.statesman.com/opinion/editorials/article/whitlow-focuses-affordability-us-house-31-21338421.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.statesman.com/opinion/editorials/article/whitlow-focuses-affordability-us-house-31-21338421.php&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQFnoECDUQAQ",
+      "displayed_link": "https://www.statesman.com › Opinion › Editorials",
+      "favicon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRiJ7wJYj414INBSzrnIUWSk.png",
+      "date": "Feb 11, 2026",
+      "snippet": "Of the candidates in the March 3 Democratic primary for U.S. House District 31, the seat held by longtime GOP incumbent Rep. John Carter, we ...",
+      "snippet_highlighted_words": [
+        "U.S. House",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Of the candidates in the March 3 Democratic primary for U.S. House District 31, the seat held by longtime GOP incumbent Rep. John Carter, we ...",
+          "source_info_link": "https://www.statesman.com/opinion/editorials/article/whitlow-focuses-affordability-us-house-31-21338421.php",
+          "icon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRuMfwqsxm3o1lsgb7g3cU9xudjIx9vB4eC_9QoagXwI4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.statesman.com/opinion/editorials/article/whitlow-focuses-affordability-us-house-31-21338421.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.statesman.com%2Fopinion%2Feditorials%2Farticle%2Fwhitlow-focuses-affordability-us-house-31-21338421.php",
+      "missing": [
+        "donor",
+        "financial",
+        "Norman",
+        "supporter"
+      ],
+      "source": "Austin American-Statesman"
+    },
+    {
+      "position": 8,
+      "title": "Texas District 31 2024 Race",
+      "link": "https://www.opensecrets.org/races/industries?cycle=2024&id=TX31&spec=N",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/industries%3Fcycle%3D2024%26id%3DTX31%26spec%3DN&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQFnoECDwQAQ",
+      "displayed_link": "https://www.opensecrets.org › races › industries › id=T...",
+      "favicon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRmeBwZcLe07zDtKxyV8lMm8.png",
+      "snippet": "Most members of Congress get the bulk of their campaign contributions from two main sources: the industries that make up the economic base of their home ...",
+      "snippet_highlighted_words": [
+        "Most",
+        "Congress",
+        "home"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Most members of Congress get the bulk of their campaign contributions from two main sources: the industries that make up the economic base of their home ...",
+          "source_info_link": "https://www.opensecrets.org/races/industries?cycle=2024&id=TX31&spec=N",
+          "icon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRqtbqCy5XUcJcd6ZwbKIiCVyebWstX_8WE6A5DS3LoVl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/industries?cycle=2024&id=TX31&spec=N&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Findustries%3Fcycle%3D2024%26id%3DTX31%26spec%3DN",
+      "missing": [
+        "largest",
+        "Include"
+      ],
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 9,
+      "title": "Texas Democratic Party Candidate - Stuart Whitlow",
+      "link": "https://bluevoterguide.org/TX/candidate_Stuart_Whitlow/525858",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bluevoterguide.org/TX/candidate_Stuart_Whitlow/525858&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQFnoECDoQAQ",
+      "displayed_link": "https://bluevoterguide.org › candidate_Stuart_Whitlow",
+      "favicon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRkqwd_u5u-G2MGM8H_TvG4Q.png",
+      "snippet": "Endorsements for Stuart Whitlow running as Democratic Party candidate for U.S. House Texas District 31. All the candidate information you need to make quick ...",
+      "snippet_highlighted_words": [
+        "Stuart Whitlow",
+        "U.S. House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Endorsements for Stuart Whitlow running as Democratic Party candidate for U.S. House Texas District 31. All the candidate information you need to make quick ...",
+          "source_info_link": "https://bluevoterguide.org/TX/candidate_Stuart_Whitlow/525858",
+          "icon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRrGMWD1KAWQKbtZMrHKk0_TYw1flWFK7o2hvju-E-CeY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bluevoterguide.org/TX/candidate_Stuart_Whitlow/525858&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbluevoterguide.org%2FTX%2Fcandidate_Stuart_Whitlow%2F525858",
+      "source": "Blue Voter Guide"
+    },
+    {
+      "position": 10,
+      "title": "Whitlow focuses on affordability in US House 31 ...",
+      "link": "https://nationaltoday.com/us/tx/round-rock/news/2026/02/11/whitlow-focuses-on-affordability-in-us-house-31-democratic-primary",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nationaltoday.com/us/tx/round-rock/news/2026/02/11/whitlow-focuses-on-affordability-in-us-house-31-democratic-primary&ved=2ahUKEwjgu-aK86qTAxUuEFkFHUjiEZIQFnoECDQQAQ",
+      "displayed_link": "https://nationaltoday.com › us › news › 2026/02/11 › w...",
+      "favicon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRq7UVsN3VBeM4YV5l5sggCE.png",
+      "date": "Feb 11, 2026",
+      "snippet": "The Statesman's Editorial Board is recommending Stuart Whitlow in the Democratic primary for Texas's 31st Congressional District, ...",
+      "snippet_highlighted_words": [
+        "Stuart Whitlow",
+        "Texas's 31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Statesman's Editorial Board is recommending Stuart Whitlow in the Democratic primary for Texas's 31st Congressional District, ...",
+          "source_info_link": "https://nationaltoday.com/us/tx/round-rock/news/2026/02/11/whitlow-focuses-on-affordability-in-us-house-31-democratic-primary",
+          "icon": "https://serpapi.com/searches/69bb5d195c018fd35f591e42/images/axwkEaCDf-caFzqqnbgiRm1zggtxjmLV3XsvB_TS2Jz3r8G0MITI1uYMm4ott2TP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://nationaltoday.com/us/tx/round-rock/news/2026/02/11/whitlow-focuses-on-affordability-in-us-house-31-democratic-primary&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnationaltoday.com%2Fus%2Ftx%2Fround-rock%2Fnews%2F2026%2F02%2F11%2Fwhitlow-focuses-on-affordability-in-us-house-31-democratic-primary",
+      "missing": [
+        "donor",
+        "financial",
+        "Norman",
+        "Include",
+        "supporter"
+      ],
+      "source": "National Today"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Stuart+Norman+Whitlow+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

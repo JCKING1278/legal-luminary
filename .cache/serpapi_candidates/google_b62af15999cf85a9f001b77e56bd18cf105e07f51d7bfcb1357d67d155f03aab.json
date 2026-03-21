@@ -1,0 +1,384 @@
+{
+  "search_metadata": {
+    "id": "69bb5d95550cc404243173e4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5PXCnDUio8uXXwCyIpAMQw/69bb5d95550cc404243173e4.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/5PXCnDUio8uXXwCyIpAMQw/69bb5d95550cc404243173e4.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:09 UTC",
+    "processed_at": "2026-03-19 02:21:09 UTC",
+    "google_url": "https://www.google.com/search?q=Beatrice+Cox+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+LinkedIn&oq=Beatrice+Cox+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5PXCnDUio8uXXwCyIpAMQw/69bb5d95550cc404243173e4.html",
+    "total_time_taken": 5.61
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Beatrice Cox \"Bell JP P4 Place 2\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Beatrice Cox \"Bell JP P4 Place 2\" \"Central Texas\" LinkedIn",
+    "total_results": 16900,
+    "time_taken_displayed": 0.68,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Beatrice Cox Bell JP P4 Place 2 Central Texas LinkedIn",
+    "spelling_fix": "Beatrice Cox Bell JP P4 Place 2 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bea Cox - Clerk at Bell County",
+      "link": "https://www.linkedin.com/in/bea-cox-a19b6176",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bea-cox-a19b6176&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQFnoECCQQAQ",
+      "displayed_link": "1 follower",
+      "favicon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JnCSIeT42afazToctM_s8YM.png",
+      "snippet": "Clerk at Bell County · Experience: Bell County · Location: Killeen · 1 connection on LinkedIn. View Bea Cox's profile on LinkedIn, a professional community ...",
+      "snippet_highlighted_words": [
+        "Bell",
+        "Bell",
+        "Location",
+        "LinkedIn",
+        "Cox's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Killeen, Texas, United States",
+            "Truancy Master",
+            "Bell County"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Clerk at Bell County · Experience: Bell County · Location: Killeen · 1 connection on LinkedIn. View Bea Cox's profile on LinkedIn, a professional community ...",
+          "source_info_link": "https://www.linkedin.com/in/bea-cox-a19b6176",
+          "icon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JklqqaPOtG8tYHEtHZUvhB2aOVCcjXjMfA-biWIm_eYV.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/bea-cox-a19b6176&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbea-cox-a19b6176",
+      "missing": [
+        "Beatrice",
+        "JP"
+      ],
+      "source": "LinkedIn · Bea Cox"
+    },
+    {
+      "position": 2,
+      "title": "Beatriz Cox",
+      "link": "https://www.linkedin.com/in/beatriz-cox-785974142",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/beatriz-cox-785974142&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQFnoECB4QAQ",
+      "displayed_link": "1 follower",
+      "favicon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JuNKfpZ6D0GYIj-R98iRFqI.png",
+      "snippet": "Experience: United States Air Force · Education: South Texas College · Location: Mission · 1 connection on LinkedIn. View Beatriz Cox's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Location",
+        "LinkedIn",
+        "Beatriz Cox's",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Experience: United States Air Force · Education: South Texas College · Location: Mission · 1 connection on LinkedIn. View Beatriz Cox's profile on LinkedIn, ...",
+          "source_info_link": "https://www.linkedin.com/in/beatriz-cox-785974142",
+          "icon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9Jssah-JJ1QS1zLgY__hAXvy5Op5eZBt88z4wVkX6_-dt.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/beatriz-cox-785974142&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbeatriz-cox-785974142",
+      "missing": [
+        "JP",
+        "P4"
+      ],
+      "source": "LinkedIn · Beatriz Cox"
+    },
+    {
+      "position": 3,
+      "title": "Beatrice Cox (Bell County Justice of the Peace Precinct 4, ...",
+      "link": "https://ballotpedia.org/Beatrice_Cox_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Beatrice_Cox_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQFnoECCcQAQ",
+      "displayed_link": "https://ballotpedia.org › Beatrice_Cox_(Bell_County_Just...",
+      "favicon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9Jo29xr_pFwULo3r7I6mkNEw.png",
+      "snippet": "Beatrice Cox has not yet completed Ballotpedia's 2026 Candidate Connection survey. If you are Beatrice Cox, click here to fill out the survey. Elections ...",
+      "snippet_highlighted_words": [
+        "Beatrice Cox",
+        "Beatrice Cox"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Beatrice Cox has not yet completed Ballotpedia's 2026 Candidate Connection survey. If you are Beatrice Cox, click here to fill out the survey. Elections ...",
+          "source_info_link": "https://ballotpedia.org/Beatrice_Cox_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9Jif35deQ_5SqjgDmCWFHaG4CuZHa3-sajfV7BJ7RMoHH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Beatrice_Cox_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FBeatrice_Cox_%28Bell_County_Justice_of_the_Peace_Precinct_4%2C_Place_2%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "Central",
+        "LinkedIn"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 4,
+      "title": "30+ \"Beatrice Cox\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Beatrice+/Cox/us-0-United-States",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Beatrice%2B/Cox/us-0-United-States&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQFnoECB8QAQ",
+      "displayed_link": "https://www.linkedin.com › dir › Cox › us-0-United-States",
+      "favicon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JgasGMqjVVlL87PS9aH0jsY.png",
+      "snippet": "View the profiles of professionals named \"Beatrice Cox\" on LinkedIn. There are 30+ professionals named \"Beatrice Cox\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "Beatrice Cox",
+        "LinkedIn",
+        "Beatrice Cox",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Beatrice Cox\" on LinkedIn. There are 30+ professionals named \"Beatrice Cox\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Beatrice+/Cox/us-0-United-States",
+          "icon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JrMiwa2PMaPYqzTzTgQt8h77pGOvX8Wr5EnUkmPqWuUC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Beatrice+/Cox/us-0-United-States&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FBeatrice%2B%2FCox%2Fus-0-United-States",
+      "missing": [
+        "JP",
+        "P4"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 5,
+      "title": "Bea Cox for Justice of the Peace, Precinct 4 Place 2",
+      "link": "https://www.facebook.com/BeaForJP/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BeaForJP/&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQFnoECCEQAQ",
+      "displayed_link": "400+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JuPSWGO6SmOFntxI2vh7umg.png",
+      "snippet": "Bea Cox for Justice of the Peace, Precinct 4 Place 2. 403 likes · 169 talking about this. Over 20 years of dedicated service to Bell County. Chief Clerk...",
+      "snippet_highlighted_words": [
+        "Cox",
+        "Justice of the Peace",
+        "4 Place 2",
+        "Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bea Cox for Justice of the Peace, Precinct 4 Place 2. 403 likes · 169 talking about this. Over 20 years of dedicated service to Bell County. Chief Clerk...",
+          "source_info_link": "https://www.facebook.com/BeaForJP/",
+          "icon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9Jq1nraIUcCuAG5kqLbLFQO27qtjaLUmhsdbSK6NO6OwM.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BeaForJP/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBeaForJP%2F",
+      "missing": [
+        "Central",
+        "LinkedIn"
+      ],
+      "source": "Facebook · Bea Cox for Justice of the Peace, Precinct 4 Place 2"
+    },
+    {
+      "position": 6,
+      "title": "80+ \"Beatrice Bell\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Beatrice/Bell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Beatrice/Bell&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQFnoECDUQAQ",
+      "displayed_link": "https://www.linkedin.com › pub › dir › Beatrice › Bell",
+      "favicon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JiK4YNYsjDDf2hyOAaxh4JU.png",
+      "snippet": "View the profiles of professionals named \"Beatrice Bell\" on LinkedIn. There are 80+ professionals named \"Beatrice Bell\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "Beatrice Bell",
+        "LinkedIn",
+        "Beatrice Bell",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Beatrice Bell\" on LinkedIn. There are 80+ professionals named \"Beatrice Bell\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Beatrice/Bell",
+          "icon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9Jtms7ngZt2ww2duxTG9JJD0Gw2n2zORq_s6t4XqXJqRN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Beatrice/Bell&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FBeatrice%2FBell",
+      "missing": [
+        "Cox",
+        "JP",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 7,
+      "title": "Global Transport Networks and Infectious Disease Spread",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3145127/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC3145127/&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQFnoECDQQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC3145127",
+      "favicon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9Jge94RlSt4u5PNLsSxxBBbU.png",
+      "author": "by AJ Tatem",
+      "snippet": "Three important consequences of global transport network expansion are infectious disease pandemics, vector invasion events and vector-borne pathogen ...",
+      "about_this_result": {
+        "source": {
+          "description": "Three important consequences of global transport network expansion are infectious disease pandemics, vector invasion events and vector-borne pathogen ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3145127/",
+          "icon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9Ji3pEZ82d1VAKe9Wy2zIAHjArZhpg5eVysbx_FX5Udkk.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pmc.ncbi.nlm.nih.gov/articles/PMC3145127/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC3145127%2F",
+      "source": "National Institutes of Health (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "Phylotranscriptomic analysis of the origin and early ...",
+      "link": "https://www.pnas.org/doi/10.1073/pnas.1323926111",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pnas.org/doi/10.1073/pnas.1323926111&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQFnoECD0QAQ",
+      "displayed_link": "https://www.pnas.org › doi › pnas.1323926111",
+      "favicon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JpCnakNcd722_5mVmKMjczg.png",
+      "snippet": "We investigated relationships among streptophyte algae and land plants using the largest set of nuclear genes that has been applied to this problem to date.",
+      "about_this_result": {
+        "source": {
+          "description": "We investigated relationships among streptophyte algae and land plants using the largest set of nuclear genes that has been applied to this problem to date.",
+          "source_info_link": "https://www.pnas.org/doi/10.1073/pnas.1323926111",
+          "icon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JuiaZFHq-zeXGVYW_l8bGhjUmvyLDZsTej8KRWCB1D6C.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pnas.org/doi/10.1073/pnas.1323926111&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pnas.org%2Fdoi%2F10.1073%2Fpnas.1323926111",
+      "source": "PNAS"
+    },
+    {
+      "position": 9,
+      "title": "Survival and ice nucleation activity of bacteria as aerosols ...",
+      "link": "https://acp.copernicus.org/articles/15/6455/2015/acp-15-6455-2015-relations.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://acp.copernicus.org/articles/15/6455/2015/acp-15-6455-2015-relations.html&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQFnoECEMQAQ",
+      "displayed_link": "https://acp.copernicus.org › acp-15-6455-2015-relations",
+      "favicon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9Jr6km92TRLrrLdMPGOcB6iI.png",
+      "date": "Jun 12, 2015",
+      "snippet": "L. Deguillaume, T. Charbouillot, M. Joly, M. Vaïtilingom, M. Parazols, A. Marinoni, P. Amato, A.-M. Delort, V. Vinatier, A. Flossmann, ...",
+      "about_this_result": {
+        "source": {
+          "description": "L. Deguillaume, T. Charbouillot, M. Joly, M. Vaïtilingom, M. Parazols, A. Marinoni, P. Amato, A.-M. Delort, V. Vinatier, A. Flossmann, ...",
+          "source_info_link": "https://acp.copernicus.org/articles/15/6455/2015/acp-15-6455-2015-relations.html",
+          "icon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JhQYChAMJHOI2ZFqdTYKpWcSzs6Sei-d1cV8YKlfxSL-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://acp.copernicus.org/articles/15/6455/2015/acp-15-6455-2015-relations.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Facp.copernicus.org%2Farticles%2F15%2F6455%2F2015%2Facp-15-6455-2015-relations.html",
+      "source": "Copernicus.org"
+    },
+    {
+      "position": 10,
+      "title": "Peri-tumoural lymphocyte neighbourhoods predict longer ...",
+      "link": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1730817/full",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1730817/full&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQFnoECD4QAQ",
+      "displayed_link": "https://www.frontiersin.org › fimmu.2025.1730817 › full",
+      "favicon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9JiOZYiEjzWVOZq6mkg_0yD4.png",
+      "author": "by RJ Arseneau",
+      "snippet": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest cancers and has limited options for treatment. Low immune infiltration, desmoplastic stroma ...",
+      "about_this_result": {
+        "source": {
+          "description": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest cancers and has limited options for treatment. Low immune infiltration, desmoplastic stroma ...",
+          "source_info_link": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1730817/full",
+          "icon": "https://serpapi.com/searches/69bb5d95550cc404243173e4/images/SLHRprp4NoLQClP2-dN9Jo-F713FFbwA7FfCEM42f9W0krm6ry-t5WOJnxTWNDMa.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1730817/full&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.frontiersin.org%2Fjournals%2Fimmunology%2Farticles%2F10.3389%2Ffimmu.2025.1730817%2Ffull",
+      "source": "Frontiers"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ml27advLDLyeptQP4Yz4mAI&start=10&sa=N&sstk=Af77f_cm89lPBHjmRhxh10aWu4mLHxDs-bvtEtJpWOkFTW1Euk4koKSZS70chUh-Zr_7uqS8mm8nCDnY0gouKdFWxZYOLmVIpzKDCw&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQ8NMDegQIERAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ml27advLDLyeptQP4Yz4mAI&start=10&sa=N&sstk=Af77f_cm89lPBHjmRhxh10aWu4mLHxDs-bvtEtJpWOkFTW1Euk4koKSZS70chUh-Zr_7uqS8mm8nCDnY0gouKdFWxZYOLmVIpzKDCw&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQ8tMDegQIERAE",
+      "3": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ml27advLDLyeptQP4Yz4mAI&start=20&sa=N&sstk=Af77f_cm89lPBHjmRhxh10aWu4mLHxDs-bvtEtJpWOkFTW1Euk4koKSZS70chUh-Zr_7uqS8mm8nCDnY0gouKdFWxZYOLmVIpzKDCw&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQ8tMDegQIERAG",
+      "4": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ml27advLDLyeptQP4Yz4mAI&start=30&sa=N&sstk=Af77f_cm89lPBHjmRhxh10aWu4mLHxDs-bvtEtJpWOkFTW1Euk4koKSZS70chUh-Zr_7uqS8mm8nCDnY0gouKdFWxZYOLmVIpzKDCw&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQ8tMDegQIERAI",
+      "5": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ml27advLDLyeptQP4Yz4mAI&start=40&sa=N&sstk=Af77f_cm89lPBHjmRhxh10aWu4mLHxDs-bvtEtJpWOkFTW1Euk4koKSZS70chUh-Zr_7uqS8mm8nCDnY0gouKdFWxZYOLmVIpzKDCw&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQ8tMDegQIERAK",
+      "6": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ml27advLDLyeptQP4Yz4mAI&start=50&sa=N&sstk=Af77f_cm89lPBHjmRhxh10aWu4mLHxDs-bvtEtJpWOkFTW1Euk4koKSZS70chUh-Zr_7uqS8mm8nCDnY0gouKdFWxZYOLmVIpzKDCw&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQ8tMDegQIERAM",
+      "7": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ml27advLDLyeptQP4Yz4mAI&start=60&sa=N&sstk=Af77f_cm89lPBHjmRhxh10aWu4mLHxDs-bvtEtJpWOkFTW1Euk4koKSZS70chUh-Zr_7uqS8mm8nCDnY0gouKdFWxZYOLmVIpzKDCw&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQ8tMDegQIERAO",
+      "8": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ml27advLDLyeptQP4Yz4mAI&start=70&sa=N&sstk=Af77f_cm89lPBHjmRhxh10aWu4mLHxDs-bvtEtJpWOkFTW1Euk4koKSZS70chUh-Zr_7uqS8mm8nCDnY0gouKdFWxZYOLmVIpzKDCw&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQ8tMDegQIERAQ",
+      "9": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ml27advLDLyeptQP4Yz4mAI&start=80&sa=N&sstk=Af77f_cm89lPBHjmRhxh10aWu4mLHxDs-bvtEtJpWOkFTW1Euk4koKSZS70chUh-Zr_7uqS8mm8nCDnY0gouKdFWxZYOLmVIpzKDCw&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQ8tMDegQIERAS",
+      "10": "https://www.google.com/search?q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ml27advLDLyeptQP4Yz4mAI&start=90&sa=N&sstk=Af77f_cm89lPBHjmRhxh10aWu4mLHxDs-bvtEtJpWOkFTW1Euk4koKSZS70chUh-Zr_7uqS8mm8nCDnY0gouKdFWxZYOLmVIpzKDCw&ved=2ahUKEwjbgInI86qTAxU8j4kEHWEGHiMQ8tMDegQIERAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Beatrice+Cox+Bell+JP+P4+Place+2+Central+Texas+LinkedIn&start=90"
+    }
+  }
+}

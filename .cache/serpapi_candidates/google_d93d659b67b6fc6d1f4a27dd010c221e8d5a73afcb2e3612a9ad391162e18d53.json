@@ -1,0 +1,417 @@
+{
+  "search_metadata": {
+    "id": "69bb5cb8a8dce645883416da",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7yCppTpSQgeB0ONH2iFQbQ/69bb5cb8a8dce645883416da.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/7yCppTpSQgeB0ONH2iFQbQ/69bb5cb8a8dce645883416da.json_with_pixel_position",
+    "created_at": "2026-03-19 02:17:28 UTC",
+    "processed_at": "2026-03-19 02:17:28 UTC",
+    "google_url": "https://www.google.com/search?q=Bell+JP+P4+Place+2+election.+Key+platform+issues+for+candidates%3A+Beatrice+Cox%2C+Latasha+Carroway+Quarles%2C+Nicola+J.+James%2C+Jessica+A.+Gonzalez.+Provide+a+short+factual+summary.&oq=Bell+JP+P4+Place+2+election.+Key+platform+issues+for+candidates%3A+Beatrice+Cox%2C+Latasha+Carroway+Quarles%2C+Nicola+J.+James%2C+Jessica+A.+Gonzalez.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7yCppTpSQgeB0ONH2iFQbQ/69bb5cb8a8dce645883416da.html",
+    "total_time_taken": 2.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bell JP P4 Place 2 election. Key platform issues for candidates: Beatrice Cox, Latasha Carroway Quarles, Nicola J. James, Jessica A. Gonzalez. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bell JP P4 Place 2 election. Key platform issues for candidates: Beatrice Cox, Latasha Carroway Quarles, Nicola J. James, Jessica A. Gonzalez. Provide a short factual summary.",
+    "total_results": 149,
+    "time_taken_displayed": 0.44,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Nicola J. James (Bell County Justice of the Peace Precinct ...",
+      "link": "https://ballotpedia.org/Nicola_J._James_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Nicola_J._James_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQFnoECB0QAQ",
+      "displayed_link": "https://ballotpedia.org › Nicola_J._James_(Bell_County_...",
+      "favicon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGXxKGBBKKzqfv_6u2y9ED1A.png",
+      "snippet": "Biography. Ballotpedia did not receive biographical information for this candidate. Elections. Democratic primary. Democratic primary ...",
+      "snippet_highlighted_words": [
+        "candidate",
+        "Elections"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Biography. Ballotpedia did not receive biographical information for this candidate. Elections. Democratic primary. Democratic primary ...",
+          "source_info_link": "https://ballotpedia.org/Nicola_J._James_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGSv2FfTRL1yhOczSUuQqv9A_cFW31Qm-EhomkRdWrK32.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Nicola_J._James_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FNicola_J._James_%28Bell_County_Justice_of_the_Peace_Precinct_4%2C_Place_2%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "platform",
+        "issues",
+        "short",
+        "factual"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 2,
+      "title": "Candidates answer questions as election day nears",
+      "link": "https://kdhnews.com/news/local/killeen-jp-race-candidates-answer-questions-as-election-day-nears/article_fedf2cde-7c43-4a13-aaa1-16473ee5dedc.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/killeen-jp-race-candidates-answer-questions-as-election-day-nears/article_fedf2cde-7c43-4a13-aaa1-16473ee5dedc.html&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQFnoECBkQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › killeen-jp-race-ca...",
+      "favicon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGexftxfCEKckPzVHKTUa-F8.png",
+      "date": "Mar 1, 2026",
+      "snippet": "Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on the Killeen City Council, and LaTasha Quarles, who is a veteran ...",
+      "snippet_highlighted_words": [
+        "Nicola James",
+        "Jessica Gonzalez",
+        "LaTasha Quarles"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on the Killeen City Council, and LaTasha Quarles, who is a veteran ...",
+          "source_info_link": "https://kdhnews.com/news/local/killeen-jp-race-candidates-answer-questions-as-election-day-nears/article_fedf2cde-7c43-4a13-aaa1-16473ee5dedc.html",
+          "icon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGaXrM_SoglunQzPSAQo7aj3oRmUuVtQejtdQixxXSodP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/killeen-jp-race-candidates-answer-questions-as-election-day-nears/article_fedf2cde-7c43-4a13-aaa1-16473ee5dedc.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fkilleen-jp-race-candidates-answer-questions-as-election-day-nears%2Farticle_fedf2cde-7c43-4a13-aaa1-16473ee5dedc.html",
+      "missing": [
+        "platform",
+        "Carroway",
+        "J.",
+        "summary."
+      ],
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Jessica A. Gonzalez (Bell County Justice of the Peace ...",
+      "link": "https://ballotpedia.org/Jessica_A._Gonzalez_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Jessica_A._Gonzalez_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQFnoECBYQAQ",
+      "displayed_link": "https://ballotpedia.org › Jessica_A._Gonzalez_(Bell_Cou...",
+      "favicon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGRY89M3p6AnxWeQixu8XWOg.png",
+      "snippet": "Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas, candidate 2026).",
+      "snippet_highlighted_words": [
+        "Jessica",
+        "Gonzalez",
+        "Bell",
+        "Justice of the Peace",
+        "4",
+        "Place 2",
+        "candidate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas, candidate 2026).",
+          "source_info_link": "https://ballotpedia.org/Jessica_A._Gonzalez_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGdclg1iuSIZeeoMQYoMvua9-HdpYQHRIOs3IU6MVTTf4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Jessica_A._Gonzalez_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FJessica_A._Gonzalez_%28Bell_County_Justice_of_the_Peace_Precinct_4%2C_Place_2%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "platform",
+        "short",
+        "factual"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 4,
+      "title": "JP for Killeen: Quarles, Gonzalez head to runoff election as ...",
+      "link": "https://kdhnews.com/centerforpolitics/jp-for-killeen-quarles-gonzalez-head-to-runoff-election-as-incumbent-finishes-3rd/article_baed7726-ac7b-42e9-bfc8-1a9515ac424c.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/jp-for-killeen-quarles-gonzalez-head-to-runoff-election-as-incumbent-finishes-3rd/article_baed7726-ac7b-42e9-bfc8-1a9515ac424c.html&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › jp-for-killeen-...",
+      "favicon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGdMPIg4WqFFxORy5lGeQ9UQ.png",
+      "date": "Mar 3, 2026",
+      "snippet": "LaTasha Quarles and Jessica Gonzalez appear to be headed to a runoff election in the Democratic primary for Justice of the Peace Precinct 4, ...",
+      "snippet_highlighted_words": [
+        "LaTasha Quarles",
+        "Jessica Gonzalez",
+        "election",
+        "Justice of the Peace",
+        "4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "LaTasha Quarles and Jessica Gonzalez appear to be headed to a runoff election in the Democratic primary for Justice of the Peace Precinct 4, ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/jp-for-killeen-quarles-gonzalez-head-to-runoff-election-as-incumbent-finishes-3rd/article_baed7726-ac7b-42e9-bfc8-1a9515ac424c.html",
+          "icon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGYMYzaA9aDDQaY64wEFw7M4cxrPD_YGkF7mJ-cTa256P.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/jp-for-killeen-quarles-gonzalez-head-to-runoff-election-as-incumbent-finishes-3rd/article_baed7726-ac7b-42e9-bfc8-1a9515ac424c.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fjp-for-killeen-quarles-gonzalez-head-to-runoff-election-as-incumbent-finishes-3rd%2Farticle_baed7726-ac7b-42e9-bfc8-1a9515ac424c.html",
+      "missing": [
+        "platform",
+        "Carroway",
+        "J.",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "Three women vie for Democrat JP nod | Center for Politics",
+      "link": "https://kdhnews.com/centerforpolitics/three-women-vie-for-democrat-jp-nod/article_e8a8c5f2-1605-4fcc-a737-3b6aa493ddd5.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/three-women-vie-for-democrat-jp-nod/article_e8a8c5f2-1605-4fcc-a737-3b6aa493ddd5.html&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQFnoECBcQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › three-women-...",
+      "favicon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGc6DFONKyfGphfM456P1lBk.png",
+      "date": "Feb 15, 2026",
+      "snippet": "Three candidates have filed for justice of the peace Precinct 4, Place 2 in Bell County the Democratic primary — a position that represents ...",
+      "snippet_highlighted_words": [
+        "candidates",
+        "justice of the peace",
+        "4",
+        "Place 2",
+        "Bell",
+        "position"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Three candidates have filed for justice of the peace Precinct 4, Place 2 in Bell County the Democratic primary — a position that represents ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/three-women-vie-for-democrat-jp-nod/article_e8a8c5f2-1605-4fcc-a737-3b6aa493ddd5.html",
+          "icon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGdkv9ojmq3SA73PjBLhUzBTcCAIqEhqMC82gERzcgbg3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/three-women-vie-for-democrat-jp-nod/article_e8a8c5f2-1605-4fcc-a737-3b6aa493ddd5.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fthree-women-vie-for-democrat-jp-nod%2Farticle_e8a8c5f2-1605-4fcc-a737-3b6aa493ddd5.html",
+      "missing": [
+        "platform",
+        "Carroway",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 6,
+      "title": "words.txt",
+      "link": "http://cvsp.cs.ntua.gr/research/software/dngjnksndjgk/exp/tri2a/graph_nosp_tgpr_asr/words.txt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://cvsp.cs.ntua.gr/research/software/dngjnksndjgk/exp/tri2a/graph_nosp_tgpr_asr/words.txt&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQFnoECBgQAQ",
+      "displayed_link": "http://cvsp.cs.ntua.gr › exp › graph_nosp_tgpr_asr › wor...",
+      "favicon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGQx5xodYsjtfPxVTLgbKUDk.png",
+      "snippet": "... BEATRICE 8703 BEATRICE'S 8704 BEATRIX 8705 BEATS 8706 BEATSON 8707 BEATTIE 8708 BEATTY 8709 BEATY 8710 BEAU 8711 BEAUBIEN 8712 BEAUCAGE 8713 BEAUCE 8714 ...",
+      "snippet_highlighted_words": [
+        "BEATRICE",
+        "BEATRICE'S",
+        "BEATRIX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... BEATRICE 8703 BEATRICE'S 8704 BEATRIX 8705 BEATS 8706 BEATSON 8707 BEATTIE 8708 BEATTY 8709 BEATY 8710 BEAU 8711 BEAUBIEN 8712 BEAUCAGE 8713 BEAUCE 8714 ...",
+          "source_info_link": "http://cvsp.cs.ntua.gr/research/software/dngjnksndjgk/exp/tri2a/graph_nosp_tgpr_asr/words.txt",
+          "icon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGRVPzUEy0Dc0Gd5bfGNQ66OINR_5JyzFmYQRxvZhdpd8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://cvsp.cs.ntua.gr/research/software/dngjnksndjgk/exp/tri2a/graph_nosp_tgpr_asr/words.txt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Fcvsp.cs.ntua.gr%2Fresearch%2Fsoftware%2Fdngjnksndjgk%2Fexp%2Ftri2a%2Fgraph_nosp_tgpr_asr%2Fwords.txt",
+      "missing": [
+        "P4",
+        "Carroway",
+        "short",
+        "summary."
+      ],
+      "source": "CVSP - NTUA"
+    },
+    {
+      "position": 7,
+      "title": "powered by Falcon Sandbox - Viewing online file ...",
+      "link": "https://hybrid-analysis.com/sample/2190196517e099ae9c3c7d8e91cdeb5c2df1aa02b7441b6bd7cd9aa5b61fd76c/5cdeab82038838398861ff91",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hybrid-analysis.com/sample/2190196517e099ae9c3c7d8e91cdeb5c2df1aa02b7441b6bd7cd9aa5b61fd76c/5cdeab82038838398861ff91&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQFnoECBoQAQ",
+      "displayed_link": "https://hybrid-analysis.com › sample",
+      "favicon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGQK2bdZPu2pWJPGpIpNPlAU.jpeg",
+      "snippet": "Submit malware for free analysis with Falcon Sandbox and Hybrid Analysis technology. Hybrid Analysis develops and licenses analysis tools to fight malware.",
+      "snippet_highlighted_words": [
+        "Submit",
+        "analysis",
+        "Analysis",
+        "Analysis",
+        "analysis"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Submit malware for free analysis with Falcon Sandbox and Hybrid Analysis technology. Hybrid Analysis develops and licenses analysis tools to fight malware.",
+          "source_info_link": "https://hybrid-analysis.com/sample/2190196517e099ae9c3c7d8e91cdeb5c2df1aa02b7441b6bd7cd9aa5b61fd76c/5cdeab82038838398861ff91",
+          "icon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGScN_Bq9PsOvFqC328kBM77bB6rn0FMGQTWPgjvC99-1.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://hybrid-analysis.com/sample/2190196517e099ae9c3c7d8e91cdeb5c2df1aa02b7441b6bd7cd9aa5b61fd76c/5cdeab82038838398861ff91&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhybrid-analysis.com%2Fsample%2F2190196517e099ae9c3c7d8e91cdeb5c2df1aa02b7441b6bd7cd9aa5b61fd76c%2F5cdeab82038838398861ff91",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bell+JP+%22P4%22+Place+2+election.+Key+platform+issues+for+candidates:+Beatrice+Cox,+Latasha+Carroway+Quarles,+Nicola+J.+James,+Jessica+A.+Gonzalez.+Provide+a+short+factual+summary.&sa=X&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQ5t4CegQILBAB"
+      },
+      "source": "Hybrid Analysis"
+    },
+    {
+      "position": 8,
+      "title": "COURT of CLAIMS",
+      "link": "https://www.ilsos.gov/content/dam/departments/court_of_claims/volumes/volume64.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ilsos.gov/content/dam/departments/court_of_claims/volumes/volume64.pdf&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQFnoECDIQAQ",
+      "displayed_link": "https://www.ilsos.gov › dam › volumes › volume64",
+      "date": "Jan 16, 2012",
+      "snippet": "The categories they fall within include: claims in which orders of awards or orders of dismissal were entered without opinions, claims based on ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 447
+          },
+          "extensions": [
+            "447 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The categories they fall within include: claims in which orders of awards or orders of dismissal were entered without opinions, claims based on ...",
+          "source_info_link": "https://www.ilsos.gov/content/dam/departments/court_of_claims/volumes/volume64.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ilsos.gov/content/dam/departments/court_of_claims/volumes/volume64.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ilsos.gov%2Fcontent%2Fdam%2Fdepartments%2Fcourt_of_claims%2Fvolumes%2Fvolume64.pdf",
+      "missing": [
+        "P4",
+        "Carroway"
+      ],
+      "source": "Illinois Secretary of State (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "Spelman Messenger Spring 2020",
+      "link": "https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-spring-2020.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-spring-2020.pdf&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQFnoECDYQAQ",
+      "displayed_link": "https://www.spelman.edu › _1_Docs-and-Files › s...",
+      "favicon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGfse-ehDE9EiRfFJ7Q4goBM.png",
+      "snippet": "The Spelman Messenger is published twice a year by. Spelman College, 350 Spelman Lane, S.W., Atlanta,. Georgia 30314-4399, free of charge for alumnae,.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 64
+          },
+          "extensions": [
+            "64 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Spelman Messenger is published twice a year by. Spelman College, 350 Spelman Lane, S.W., Atlanta,. Georgia 30314-4399, free of charge for alumnae,.",
+          "source_info_link": "https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-spring-2020.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGby4n2MbWF4vpY1vIUXCq11zS_z4n5VaM_Psbsluz_Qh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.spelman.edu/_1_Docs-and-Files/spelman-messenger/spelman-messenger-spring-2020.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.spelman.edu%2F_1_Docs-and-Files%2Fspelman-messenger%2Fspelman-messenger-spring-2020.pdf",
+      "missing": [
+        "P4",
+        "Carroway",
+        "summary."
+      ],
+      "source": "Spelman College"
+    },
+    {
+      "position": 10,
+      "title": "zxcvbn 3.1.0",
+      "link": "https://docs.rs/crate/zxcvbn/latest/source/src/frequency_lists.rs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.rs/crate/zxcvbn/latest/source/src/frequency_lists.rs&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQFnoECDsQAQ",
+      "displayed_link": "https://docs.rs › latest › source › src › frequency_lists",
+      "favicon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGbfdQyJsAwDG_gIRrYjS-tk.png",
+      "snippet": "Hide files .. matching · adjacency_graphs.rs · feedback.rs · frequency_lists.rs · lib.rs · scoring.rs · time_estimates.rs. use std::collections::HashMap; ...",
+      "about_this_result": {
+        "source": {
+          "description": "Hide files .. matching · adjacency_graphs.rs · feedback.rs · frequency_lists.rs · lib.rs · scoring.rs · time_estimates.rs. use std::collections::HashMap; ...",
+          "source_info_link": "https://docs.rs/crate/zxcvbn/latest/source/src/frequency_lists.rs",
+          "icon": "https://serpapi.com/searches/69bb5cb8a8dce645883416da/images/yhRcOd5Ak99s9K9fi8oGGSXpFhPkV-jPFxCN9LNvqJ0g04gTYVs3eHruVaBf-KcK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://docs.rs/crate/zxcvbn/latest/source/src/frequency_lists.rs&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdocs.rs%2Fcrate%2Fzxcvbn%2Flatest%2Fsource%2Fsrc%2Ffrequency_lists.rs",
+      "missing": [
+        "P4",
+        "Carroway"
+      ],
+      "source": "Docs.rs"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bell+JP+P4+Place+2+election.+Key+platform+issues+for+candidates:+Beatrice+Cox,+Latasha+Carroway+Quarles,+Nicola+J.+James,+Jessica+A.+Gonzalez.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=uly7aa6PEZWnmtkPq9GAiQg&start=10&sa=N&sstk=Af77f_fyBkcSXpqGC-_aJc_LABbnBb3IgzPkwo9-HlqiBbGrAubSYdoGcdRIx1AVJtpbSxi9RAi6vMDDeM5-Ls_ZvsH3zb6VxFHSlw&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQ8NMDegQICRAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bell+JP+P4+Place+2+election.+Key+platform+issues+for+candidates:+Beatrice+Cox,+Latasha+Carroway+Quarles,+Nicola+J.+James,+Jessica+A.+Gonzalez.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=uly7aa6PEZWnmtkPq9GAiQg&start=10&sa=N&sstk=Af77f_fyBkcSXpqGC-_aJc_LABbnBb3IgzPkwo9-HlqiBbGrAubSYdoGcdRIx1AVJtpbSxi9RAi6vMDDeM5-Ls_ZvsH3zb6VxFHSlw&ved=2ahUKEwiu1KXd8qqTAxWVkyYFHasoIIEQ8tMDegQICRAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+JP+P4+Place+2+election.+Key+platform+issues+for+candidates%3A+Beatrice+Cox%2C+Latasha+Carroway+Quarles%2C+Nicola+J.+James%2C+Jessica+A.+Gonzalez.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+JP+P4+Place+2+election.+Key+platform+issues+for+candidates%3A+Beatrice+Cox%2C+Latasha+Carroway+Quarles%2C+Nicola+J.+James%2C+Jessica+A.+Gonzalez.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+JP+P4+Place+2+election.+Key+platform+issues+for+candidates%3A+Beatrice+Cox%2C+Latasha+Carroway+Quarles%2C+Nicola+J.+James%2C+Jessica+A.+Gonzalez.+Provide+a+short+factual+summary.&start=10"
+    }
+  }
+}

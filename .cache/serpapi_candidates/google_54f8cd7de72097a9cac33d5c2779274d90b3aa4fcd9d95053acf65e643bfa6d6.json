@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "69bb5d1d2c2bb41fc56b2527",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3ttGUyealFdJ64K8SHX8Lw/69bb5d1d2c2bb41fc56b2527.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/3ttGUyealFdJ64K8SHX8Lw/69bb5d1d2c2bb41fc56b2527.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:09 UTC",
+    "processed_at": "2026-03-19 02:19:09 UTC",
+    "google_url": "https://www.google.com/search?q=Bill+Schumann+%22Bell+County+Commissioner+P1%22+%22Central+Texas%22+Facebook&oq=Bill+Schumann+%22Bell+County+Commissioner+P1%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3ttGUyealFdJ64K8SHX8Lw/69bb5d1d2c2bb41fc56b2527.html",
+    "total_time_taken": 2.06
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bill Schumann \"Bell County Commissioner P1\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bill Schumann \"Bell County Commissioner P1\" \"Central Texas\" Facebook",
+    "total_results": 0,
+    "time_taken_displayed": 0.57,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

@@ -1,0 +1,47 @@
+/* Candidates explorer — scoped so .container from style.css is unchanged */
+.candidates-explorer {
+  margin-bottom: 2rem;
+}
+
+.candidates-explorer .candidates-columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.candidates-explorer .left-column,
+.candidates-explorer .right-column {
+  flex: 1 1 280px;
+  min-width: 0;
+}
+
+.candidates-explorer #candidates-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.candidates-explorer #candidates-list li {
+  margin: 0.35rem 0;
+}
+
+.candidates-explorer #candidates-list li a {
+  text-decoration: none;
+  color: var(--text-primary, #1a1a1a);
+}
+
+.candidates-explorer #candidates-list li a:hover {
+  text-decoration: underline;
+}
+
+.candidates-explorer .news-results {
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.candidates-explorer .candidates-meta {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,337 @@
+{
+  "search_metadata": {
+    "id": "69bb5d9195e0b3984b02fcea",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/X2ZXIUAcRZq7AL55l_6Yaw/69bb5d9195e0b3984b02fcea.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/X2ZXIUAcRZq7AL55l_6Yaw/69bb5d9195e0b3984b02fcea.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:05 UTC",
+    "processed_at": "2026-03-19 02:21:05 UTC",
+    "google_url": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+LinkedIn&oq=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/X2ZXIUAcRZq7AL55l_6Yaw/69bb5d9195e0b3984b02fcea.html",
+    "total_time_taken": 1.09
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bill Cooke \"Bell County Sheriff\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bill Cooke \"Bell County Sheriff\" \"Central Texas\" LinkedIn",
+    "total_results": 10,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "u3Al6nicxZZJc-o4EIDvc53f8LjkgRdIwKlyvZKECU5YbEzYLi5jG4EXTCzAkNv8l_lV82tGMpvZ8uZN1dT0wZa6Wy25-1OX__gzmM39v377fbpcLsgzxyVJUsBRhAO3YEchZ5Ht3OYmUUBie_pju5aLOZvIfM6dyX5PLFvjF7-xDr3HVqQFWv6D6M1cukQ2xxZxPRpx4xHO5OjD_1as0kmBFNx5wZfKUDXDlrFtFkRekAptzgqpA_iPRAEd-oQqHVDB50aUqpT7q3Ultb5mVLsQMKMZ7pQYK0Bn89rtgyjpSgPRtRpc55OmtTOo17ue6eAw3bbG9gEIw9ThUq6DnI74tg96Uy7V6nFl9ZQsCO6Kqh6sUAcIgXqCTsZ9CLzfpAQaCB3DQWpGGiwiNbofnq7s4boyzevgqzpRL7XTSpwhrQTnYMoTz41j-hK4mT2100FMGGaoK_FR3ZoYUuxJ5uewXKq0G-NOIm3dl0hZe4Czx9QviCzHdcypyX9PgbbJkWiSJXrlqcDZwK3WsguNAhQyOLNMYnR2SFbYO3W4Iei-aVfSCCgM7iPVGhvA94NTBUAMkHIqnrKPeY1zKuqZEuOdDbEpvnBlsfz96BDfzprh8QvoGWilT3skWTeURUtVVYXtNtxFwFk3Oof0CrHRW3rN6tkwQM3kCrJrS_Osn76JPauH87I0sOAKwFUXNZkbohlBzIlNIEqTCnXlEnyIT_MmQCW0w_nXBd69jgfRwYHfCxyzGL9UBVMo896mO1GtcFXZND71ydunt67V8B7bKBz_Qie2_z-w9336Lb3lEb4GG38Ftq6gL_r0HuxTn04bEqrdBltJQcn0aXdnUE8B92DrUM2AvbnbpzNgqz8Fe3CWliPY-g2w4SXY8D7YrE8fwUYIXvTp9LPStGTA_ld9Wv_nfTrl2929zpv2ysN3m7eymaJyXSpF9cemM6iAhAy02mc7WsQDfN28J-Hy2XKC7-bMeYbi63Lr5D5kOAuCBxRFvvvwTRShm85W8-X2wZi68WwyoVpmQe58GVvBQ9fdWITpGvSfyXXUeS4M4kjmrcf1Arr1cLFd8ySoD2E-ADHQOnqn0xtF_XYk8B29QbqmM-s1PHNU4omoz7S20a91BSnUwpWOn_y4_fTed7E4NsR-b-on79Z0LTQ-Hgfhov9Y64xaiUiC5nBkEsPo-UOjjEtq2DVnrXzctF55o_kE0vMQudotj6zVgB9_4FwY2zItYgmDlg76mLXnHLEt0yVr2RZtS3LLglThi5I7KeZCvNwuZInPkXksC38DMHLguQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=u3Al6nicxZZJc-o4EIDvc53f8LjkgRdIwKlyvZKECU5YbEzYLi5jG4EXTCzAkNv8l_lV82tGMpvZ8uZN1dT0wZa6Wy25-1OX__gzmM39v377fbpcLsgzxyVJUsBRhAO3YEchZ5Ht3OYmUUBie_pju5aLOZvIfM6dyX5PLFvjF7-xDr3HVqQFWv6D6M1cukQ2xxZxPRpx4xHO5OjD_1as0kmBFNx5wZfKUDXDlrFtFkRekAptzgqpA_iPRAEd-oQqHVDB50aUqpT7q3Ultb5mVLsQMKMZ7pQYK0Bn89rtgyjpSgPRtRpc55OmtTOo17ue6eAw3bbG9gEIw9ThUq6DnI74tg96Uy7V6nFl9ZQsCO6Kqh6sUAcIgXqCTsZ9CLzfpAQaCB3DQWpGGiwiNbofnq7s4boyzevgqzpRL7XTSpwhrQTnYMoTz41j-hK4mT2100FMGGaoK_FR3ZoYUuxJ5uewXKq0G-NOIm3dl0hZe4Czx9QviCzHdcypyX9PgbbJkWiSJXrlqcDZwK3WsguNAhQyOLNMYnR2SFbYO3W4Iei-aVfSCCgM7iPVGhvA94NTBUAMkHIqnrKPeY1zKuqZEuOdDbEpvnBlsfz96BDfzprh8QvoGWilT3skWTeURUtVVYXtNtxFwFk3Oof0CrHRW3rN6tkwQM3kCrJrS_Osn76JPauH87I0sOAKwFUXNZkbohlBzIlNIEqTCnXlEnyIT_MmQCW0w_nXBd69jgfRwYHfCxyzGL9UBVMo896mO1GtcFXZND71ydunt67V8B7bKBz_Qie2_z-w9336Lb3lEb4GG38Ftq6gL_r0HuxTn04bEqrdBltJQcn0aXdnUE8B92DrUM2AvbnbpzNgqz8Fe3CWliPY-g2w4SXY8D7YrE8fwUYIXvTp9LPStGTA_ld9Wv_nfTrl2929zpv2ysN3m7eymaJyXSpF9cemM6iAhAy02mc7WsQDfN28J-Hy2XKC7-bMeYbi63Lr5D5kOAuCBxRFvvvwTRShm85W8-X2wZi68WwyoVpmQe58GVvBQ9fdWITpGvSfyXXUeS4M4kjmrcf1Arr1cLFd8ySoD2E-ADHQOnqn0xtF_XYk8B29QbqmM-s1PHNU4omoz7S20a91BSnUwpWOn_y4_fTed7E4NsR-b-on79Z0LTQ-Hgfhov9Y64xaiUiC5nBkEsPo-UOjjEtq2DVnrXzctF55o_kE0vMQudotj6zVgB9_4FwY2zItYgmDlg76mLXnHLEt0yVr2RZtS3LLglThi5I7KeZCvNwuZInPkXksC38DMHLguQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Killeen, Texas police say Spc. Corey Grafton, 20, was ...",
+      "link": "https://www.facebook.com/48hours/posts/killeen-texas-police-say-spc-corey-grafton-20-was-arrested-in-the-july-2019-deat/10160353098473496/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/48hours/posts/killeen-texas-police-say-spc-corey-grafton-20-was-arrested-in-the-july-2019-deat/10160353098473496/&ved=2ahUKEwjxsIXE86qTAxX5EVkFHZS_KjYQFnoECBwQAQ",
+      "displayed_link": "370+ reactions · 5 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-EheyzS1pSsrkw1dcdRd8ts.png",
+      "snippet": "... Bell County Sheriff's Department \"Morta was discovered just after ... Central Texas College Police Academy, where he earned the ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff's",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Bell County Sheriff's Department \"Morta was discovered just after ... Central Texas College Police Academy, where he earned the ...",
+          "source_info_link": "https://www.facebook.com/48hours/posts/killeen-texas-police-say-spc-corey-grafton-20-was-arrested-in-the-july-2019-deat/10160353098473496/",
+          "icon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-KeWd33MqT_UR_c7xxXpPxpZ2ujcY1cmise63Zl0e6BD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/48hours/posts/killeen-texas-police-say-spc-corey-grafton-20-was-arrested-in-the-july-2019-deat/10160353098473496/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F48hours%2Fposts%2Fkilleen-texas-police-say-spc-corey-grafton-20-was-arrested-in-the-july-2019-deat%2F10160353098473496%2F",
+      "source": "Facebook · 48 Hours"
+    },
+    {
+      "position": 2,
+      "title": "Harris launches campaign for Bell County Sheriff",
+      "link": "https://kdhnews.com/news/region/harris-launches-campaign-for-bell-county-sheriff/article_f613cdef-00ba-54a1-a026-5759cd9b2c60.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/region/harris-launches-campaign-for-bell-county-sheriff/article_f613cdef-00ba-54a1-a026-5759cd9b2c60.html&ved=2ahUKEwjxsIXE86qTAxX5EVkFHZS_KjYQFnoECCkQAQ",
+      "displayed_link": "https://kdhnews.com › news › region › harris-launches-...",
+      "favicon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-OpRRZkbISxabVNBIRWJLq0.png",
+      "date": "Dec 20, 2023",
+      "snippet": "Harris launches campaign for Bell County Sheriff ; A&M–Central Texas honors employees, announcing housing plan. Jan 16, 2026 ; Milan menswear ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Harris launches campaign for Bell County Sheriff ; A&M–Central Texas honors employees, announcing housing plan. Jan 16, 2026 ; Milan menswear ...",
+          "source_info_link": "https://kdhnews.com/news/region/harris-launches-campaign-for-bell-county-sheriff/article_f613cdef-00ba-54a1-a026-5759cd9b2c60.html",
+          "icon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-HGPpYwNpDz9L_NIpYGvp4lpsUqIDCvZY9ZjqvWXLt5K.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/region/harris-launches-campaign-for-bell-county-sheriff/article_f613cdef-00ba-54a1-a026-5759cd9b2c60.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Fregion%2Fharris-launches-campaign-for-bell-county-sheriff%2Farticle_f613cdef-00ba-54a1-a026-5759cd9b2c60.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Killeen man accused of shooting at deputies is indicted",
+      "link": "https://kdhnews.com/news/crime/killeen-man-accused-of-shooting-at-deputies-is-indicted/article_ed88ee22-e1b9-11e5-9ab4-07dcaf4635e4.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/crime/killeen-man-accused-of-shooting-at-deputies-is-indicted/article_ed88ee22-e1b9-11e5-9ab4-07dcaf4635e4.html&ved=2ahUKEwjxsIXE86qTAxX5EVkFHZS_KjYQFnoECCYQAQ",
+      "displayed_link": "https://kdhnews.com › news › crime › killeen-man-accu...",
+      "favicon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-PEEJaG7eypCfNSvO5Sw_Ns.png",
+      "date": "Mar 3, 2016",
+      "snippet": "... Bell County Sheriff's Office · Bell County Indictments ... Major crash at the intersection of Stan Schlueter and Central Texas Expressway ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff's",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Bell County Sheriff's Office · Bell County Indictments ... Major crash at the intersection of Stan Schlueter and Central Texas Expressway ...",
+          "source_info_link": "https://kdhnews.com/news/crime/killeen-man-accused-of-shooting-at-deputies-is-indicted/article_ed88ee22-e1b9-11e5-9ab4-07dcaf4635e4.html",
+          "icon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-ILp58vOocOdFC_-EctksXpWZzauFFU5oTGCOev8rTJZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/crime/killeen-man-accused-of-shooting-at-deputies-is-indicted/article_ed88ee22-e1b9-11e5-9ab4-07dcaf4635e4.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Fcrime%2Fkilleen-man-accused-of-shooting-at-deputies-is-indicted%2Farticle_ed88ee22-e1b9-11e5-9ab4-07dcaf4635e4.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 4,
+      "title": "Since graduating from Jewell, Alexa (Broyles) Summit, '08 ...",
+      "link": "https://www.facebook.com/WilliamJewellCollege1849/posts/since-graduating-from-jewell-alexa-broyles-summit-08-has-worked-at-the-clay-coun/10156096711176544/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/WilliamJewellCollege1849/posts/since-graduating-from-jewell-alexa-broyles-summit-08-has-worked-at-the-clay-coun/10156096711176544/&ved=2ahUKEwjxsIXE86qTAxX5EVkFHZS_KjYQFnoECB0QAQ",
+      "displayed_link": "90+ reactions · 7 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-NlD_iDK8v32-fxe6ai2Giw.png",
+      "snippet": "... Bell County Sheriff's Department • Carl J. Smith, Prevention ... Central Texas, and has served on many other boards and committees. He ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff's",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Bell County Sheriff's Department • Carl J. Smith, Prevention ... Central Texas, and has served on many other boards and committees. He ...",
+          "source_info_link": "https://www.facebook.com/WilliamJewellCollege1849/posts/since-graduating-from-jewell-alexa-broyles-summit-08-has-worked-at-the-clay-coun/10156096711176544/",
+          "icon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-Lt2w_d0UaY_S5td_z5xnbXRj3UYLWCHUsHid-LTPrPS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/WilliamJewellCollege1849/posts/since-graduating-from-jewell-alexa-broyles-summit-08-has-worked-at-the-clay-coun/10156096711176544/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FWilliamJewellCollege1849%2Fposts%2Fsince-graduating-from-jewell-alexa-broyles-summit-08-has-worked-at-the-clay-coun%2F10156096711176544%2F",
+      "source": "Facebook · William Jewell College"
+    },
+    {
+      "position": 5,
+      "title": "Anyone know who the new animal control is for the county? ...",
+      "link": "https://www.facebook.com/groups/2013444402309745/posts/4211824009138429/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/2013444402309745/posts/4211824009138429/&ved=2ahUKEwjxsIXE86qTAxX5EVkFHZS_KjYQFnoECB8QAQ",
+      "displayed_link": "9 comments · 7 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-HYz6n9NtDlyYoIROSBy1ik.png",
+      "snippet": "Anca Neagu ▻ Central Texas Animal Advocates. 1y · Public · Word is that the new Bell County Sheriff, Bill Cooke had something to do with this ..",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Bell County Sheriff",
+        "Bill Cooke"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Anca Neagu ▻ Central Texas Animal Advocates. 1y · Public · Word is that the new Bell County Sheriff, Bill Cooke had something to do with this ..",
+          "source_info_link": "https://www.facebook.com/groups/2013444402309745/posts/4211824009138429/",
+          "icon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-BuSehpujdJOnsDfWUDvea-vuZ3oTstD08ko-H6_mGRQ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/2013444402309745/posts/4211824009138429/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F2013444402309745%2Fposts%2F4211824009138429%2F",
+      "source": "Facebook · Bennettsville Peeps & Friends"
+    },
+    {
+      "position": 6,
+      "title": "Week in Review | Local News",
+      "link": "https://kdhnews.com/news/local/week-in-review/article_6939f8d4-f17a-11ef-b23d-1bf831d1bf4f.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/week-in-review/article_6939f8d4-f17a-11ef-b23d-1bf831d1bf4f.html&ved=2ahUKEwjxsIXE86qTAxX5EVkFHZS_KjYQFnoECDcQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › week-in-review",
+      "favicon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-EnXJmO8DJnR7fR4FOu8Ze8.png",
+      "snippet": "... Central Texas Winners · Obituaries · Classifieds ... Bell County Sheriff Bill Cooke and Investigator ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Bell County Sheriff Bill Cooke"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Central Texas Winners · Obituaries · Classifieds ... Bell County Sheriff Bill Cooke and Investigator ...",
+          "source_info_link": "https://kdhnews.com/news/local/week-in-review/article_6939f8d4-f17a-11ef-b23d-1bf831d1bf4f.html",
+          "icon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-OockVdko-haCO4HGQETtu6NKASkRPZxq8yz_vvpZlM5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/week-in-review/article_6939f8d4-f17a-11ef-b23d-1bf831d1bf4f.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fweek-in-review%2Farticle_6939f8d4-f17a-11ef-b23d-1bf831d1bf4f.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 7,
+      "title": "Lost pets in central Texas",
+      "link": "https://www.facebook.com/groups/573711993358976/posts/1886788062051356/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/573711993358976/posts/1886788062051356/&ved=2ahUKEwjxsIXE86qTAxX5EVkFHZS_KjYQFnoECDUQAQ",
+      "displayed_link": "3 comments · 5 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-GcVNWSS7cvqQhgmWe4y5zw.png",
+      "snippet": "Joy Bastow-Black ▻ Central Texas Animal Advocates. 1y · Public ... Bell County Sheriff Bill Cooke, Pet Angels Cremation- Temple, Texas ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Bell County Sheriff Bill Cooke"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Joy Bastow-Black ▻ Central Texas Animal Advocates. 1y · Public ... Bell County Sheriff Bill Cooke, Pet Angels Cremation- Temple, Texas ...",
+          "source_info_link": "https://www.facebook.com/groups/573711993358976/posts/1886788062051356/",
+          "icon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-Nj13UEDTwGJ0UfwjuL24Jm3vthkxefy32cKkhy0eEjE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/573711993358976/posts/1886788062051356/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F573711993358976%2Fposts%2F1886788062051356%2F",
+      "source": "Facebook · Central Texas Animal Advocates"
+    },
+    {
+      "position": 8,
+      "title": "Nolanville shooting death 'unheard of,' former police chief ...",
+      "link": "https://kdhnews.com/news/crime/nolanville-shooting-death-unheard-of-former-police-chief-says/article_bcd5910c-d9c2-11e6-a5f5-7fa340856c03.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/crime/nolanville-shooting-death-unheard-of-former-police-chief-says/article_bcd5910c-d9c2-11e6-a5f5-7fa340856c03.html&ved=2ahUKEwjxsIXE86qTAxX5EVkFHZS_KjYQFnoECDsQAQ",
+      "displayed_link": "https://kdhnews.com › news › crime › nolanville-shooti...",
+      "favicon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-IAzFx9HaQrpmJrtKpuNdr8.png",
+      "date": "Jan 13, 2017",
+      "snippet": "On Friday, deputies from the Bell County Sheriff's ... Major crash at the intersection of Stan Schlueter and Central Texas Expressway ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff's",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On Friday, deputies from the Bell County Sheriff's ... Major crash at the intersection of Stan Schlueter and Central Texas Expressway ...",
+          "source_info_link": "https://kdhnews.com/news/crime/nolanville-shooting-death-unheard-of-former-police-chief-says/article_bcd5910c-d9c2-11e6-a5f5-7fa340856c03.html",
+          "icon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-Al1EZHcsj6tnA14OFjmnNtoP6ywqgW4zN-AZbY98Q-E.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/crime/nolanville-shooting-death-unheard-of-former-police-chief-says/article_bcd5910c-d9c2-11e6-a5f5-7fa340856c03.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Fcrime%2Fnolanville-shooting-death-unheard-of-former-police-chief-says%2Farticle_bcd5910c-d9c2-11e6-a5f5-7fa340856c03.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "Salado, Texas",
+      "link": "https://grokipedia.com/page/Salado,_Texas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://grokipedia.com/page/Salado,_Texas&ved=2ahUKEwjxsIXE86qTAxX5EVkFHZS_KjYQFnoECDIQAQ",
+      "displayed_link": "https://grokipedia.com › page › Salado,_Texas",
+      "snippet": "Robertson, the village emerged as an early hub for education, agriculture, and industry in Central Texas ... Bell County Sheriff's Office for non-emergency ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Bell County Sheriff's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Robertson, the village emerged as an early hub for education, agriculture, and industry in Central Texas ... Bell County Sheriff's Office for non-emergency ...",
+          "source_info_link": "https://grokipedia.com/page/Salado,_Texas"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://grokipedia.com/page/Salado,_Texas&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fgrokipedia.com%2Fpage%2FSalado%2C_Texas",
+      "source": "Grokipedia"
+    },
+    {
+      "position": 10,
+      "title": "$3.35 million distributed to Central Texas flood victims",
+      "link": "https://www.facebook.com/foxsanantonio/posts/over-three-million-dollars-is-being-distributed-to-central-texas-families-impact/1251348937040608/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/foxsanantonio/posts/over-three-million-dollars-is-being-distributed-to-central-texas-families-impact/1251348937040608/&ved=2ahUKEwjxsIXE86qTAxX5EVkFHZS_KjYQFnoECD8QAQ",
+      "displayed_link": "1 reaction · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-C_XoypqPhiAVTz1_Oi0Pyg.png",
+      "snippet": "Over three million dollars is being distributed to Central Texas families impacted by the flooding on July 5 ... Bell County Sheriff's Office • ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Bell County Sheriff's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Over three million dollars is being distributed to Central Texas families impacted by the flooding on July 5 ... Bell County Sheriff's Office • ...",
+          "source_info_link": "https://www.facebook.com/foxsanantonio/posts/over-three-million-dollars-is-being-distributed-to-central-texas-families-impact/1251348937040608/",
+          "icon": "https://serpapi.com/searches/69bb5d9195e0b3984b02fcea/images/5rzsMZkN8N5EpttvNIep-OXRZ5BbmgKyonr-ECEX0T4KkKDtiyXtjQZDXgVqTY85.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/foxsanantonio/posts/over-three-million-dollars-is-being-distributed-to-central-texas-families-impact/1251348937040608/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Ffoxsanantonio%2Fposts%2Fover-three-million-dollars-is-being-distributed-to-central-texas-families-impact%2F1251348937040608%2F",
+      "source": "Facebook · KABB FOX 29 News, San Antonio"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+LinkedIn&sca_esv=c2ca9e7198039ef3&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

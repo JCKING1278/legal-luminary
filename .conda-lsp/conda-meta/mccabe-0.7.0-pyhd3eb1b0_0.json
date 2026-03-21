@@ -1,0 +1,121 @@
+{
+  "name": "mccabe",
+  "version": "0.7.0",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "subdir": "noarch",
+  "fn": "mccabe-0.7.0-pyhd3eb1b0_0.conda",
+  "md5": "ca1f9fc150b211c60e802ed1b12ed43c",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/mccabe-0.7.0-pyhd3eb1b0_0.conda",
+  "sha256": "7e37a7ab797cb74ced1f78fd5feee0f4fcb53b4aa02c4537f948b0328021eec4",
+  "depends": [
+    "python >=3.6"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1644221782000,
+  "size": 11005,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/mccabe-0.7.0-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/mccabe-0.7.0-pyhd3eb1b0_0",
+  "files": [
+    "lib/python3.11/site-packages/mccabe-0.7.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/mccabe-0.7.0.dist-info/LICENSE",
+    "lib/python3.11/site-packages/mccabe-0.7.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/mccabe-0.7.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/mccabe-0.7.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/mccabe-0.7.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/mccabe-0.7.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/mccabe-0.7.0.dist-info/entry_points.txt",
+    "lib/python3.11/site-packages/mccabe-0.7.0.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/mccabe.py",
+    "lib/python3.11/site-packages/__pycache__/mccabe.cpython-311.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "site-packages/mccabe-0.7.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "site-packages/mccabe-0.7.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "10fbc003cbaf8a6b3cf7195b80dac96c86daf390039b2abf6e7b6e735afd7d74",
+        "size_in_bytes": 1221,
+        "sha256_in_prefix": "10fbc003cbaf8a6b3cf7195b80dac96c86daf390039b2abf6e7b6e735afd7d74"
+      },
+      {
+        "_path": "site-packages/mccabe-0.7.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a0cc54fdcc387afd90db76132f7351838a5e6c74aa96b6c5fc3492b3e7297c11",
+        "size_in_bytes": 5035,
+        "sha256_in_prefix": "a0cc54fdcc387afd90db76132f7351838a5e6c74aa96b6c5fc3492b3e7297c11"
+      },
+      {
+        "_path": "site-packages/mccabe-0.7.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ec6de21795c451e1744b5e58cc55b83c793d522c9e210d0c744c02f50d44753c",
+        "size_in_bytes": 855,
+        "sha256_in_prefix": "ec6de21795c451e1744b5e58cc55b83c793d522c9e210d0c744c02f50d44753c"
+      },
+      {
+        "_path": "site-packages/mccabe-0.7.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/mccabe-0.7.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "size_in_bytes": 110,
+        "sha256_in_prefix": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478"
+      },
+      {
+        "_path": "site-packages/mccabe-0.7.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "30f38426ae3ad5e731e407f2b12051481249e66b36374ef97ae70858cb308c6a",
+        "size_in_bytes": 80,
+        "sha256_in_prefix": "30f38426ae3ad5e731e407f2b12051481249e66b36374ef97ae70858cb308c6a"
+      },
+      {
+        "_path": "site-packages/mccabe-0.7.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "376347d7cd865d35324e6f2bf1732069d6fd0be0916b9754af593c382f75b861",
+        "size_in_bytes": 47,
+        "sha256_in_prefix": "376347d7cd865d35324e6f2bf1732069d6fd0be0916b9754af593c382f75b861"
+      },
+      {
+        "_path": "site-packages/mccabe-0.7.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "db5717baa644fa5a5c7c0aaa00dbd7f448c8d440f5a7ccdc562bf4eb8bb744a0",
+        "size_in_bytes": 7,
+        "sha256_in_prefix": "db5717baa644fa5a5c7c0aaa00dbd7f448c8d440f5a7ccdc562bf4eb8bb744a0"
+      },
+      {
+        "_path": "site-packages/mccabe.py",
+        "path_type": "hardlink",
+        "sha256": "83f901f283e294d2de99d3a2acf699ca6432ca3a801f4928c2b9dc51069ac34d",
+        "size_in_bytes": 10654,
+        "sha256_in_prefix": "83f901f283e294d2de99d3a2acf699ca6432ca3a801f4928c2b9dc51069ac34d"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/__pycache__/mccabe.cpython-311.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 20514
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/mccabe-0.7.0-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

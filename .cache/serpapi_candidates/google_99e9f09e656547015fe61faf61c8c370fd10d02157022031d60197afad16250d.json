@@ -1,0 +1,379 @@
+{
+  "search_metadata": {
+    "id": "69bb5d5257c44bc33f414d4b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_RgkfmZV-iYBAQpkQhv7MA/69bb5d5257c44bc33f414d4b.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_RgkfmZV-iYBAQpkQhv7MA/69bb5d5257c44bc33f414d4b.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:02 UTC",
+    "processed_at": "2026-03-19 02:20:02 UTC",
+    "google_url": "https://www.google.com/search?q=Curtis+Emmons+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+Facebook&oq=Curtis+Emmons+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_RgkfmZV-iYBAQpkQhv7MA/69bb5d5257c44bc33f414d4b.html",
+    "total_time_taken": 0.68
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Curtis Emmons \"Bell County Commissioner P4\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Curtis Emmons \"Bell County Commissioner P4\" \"Central Texas\" Facebook",
+    "total_results": 8630,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Curtis Emmons Bell County Commissioner P4 Central Texas Facebook",
+    "spelling_fix": "Curtis Emmons Bell County Commissioner P4 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Curtis Emmons for County Commissioner Precinct 4",
+      "link": "https://www.facebook.com/ElectEmmons/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/ElectEmmons/&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQFnoECCIQAQ",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnONFwHy54GrTl0mAAMSpOcU.png",
+      "snippet": "Even when you're running unopposed in the primary, you don't take the day off. Out here making sure the signs are straight and talking to the folks who are ...",
+      "about_this_result": {
+        "source": {
+          "description": "Even when you're running unopposed in the primary, you don't take the day off. Out here making sure the signs are straight and talking to the folks who are ...",
+          "source_info_link": "https://www.facebook.com/ElectEmmons/",
+          "icon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnBwOY6X80D9029Qyou9AvmOZ4G9iMzusDdpPEvdd-nGi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/ElectEmmons/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FElectEmmons%2F",
+      "missing": [
+        "Central",
+        "Texas"
+      ],
+      "source": "Facebook · Curtis Emmons for County Commissioner Precinct 4"
+    },
+    {
+      "position": 2,
+      "title": "Curtis B Emmons",
+      "link": "https://www.facebook.com/curtis.emmons/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/curtis.emmons/&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQFnoECB4QAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnArmqKmtpjYmHW_vvZlXzak.png",
+      "snippet": "Community partners like E Express Car Wash help make events like this possible and allow our chapter to continue supporting Soldiers, Army Families, and ...",
+      "about_this_result": {
+        "source": {
+          "description": "Community partners like E Express Car Wash help make events like this possible and allow our chapter to continue supporting Soldiers, Army Families, and ...",
+          "source_info_link": "https://www.facebook.com/curtis.emmons/",
+          "icon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnO55cvTG5ESQrhGPgrqJvEp181UBxt2dvTk-m3XvZtU4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/curtis.emmons/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fcurtis.emmons%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Curtis+Emmons+Bell+County+Commissioner+%22P4%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ5t4CegQIMhAB"
+      },
+      "source": "Facebook · Curtis B Emmons"
+    },
+    {
+      "position": 3,
+      "title": "Curtis B Emmons",
+      "link": "https://www.facebook.com/curtis.emmons/posts/10214702853080572/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/curtis.emmons/posts/10214702853080572/&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQFnoECCQQAQ",
+      "displayed_link": "https://www.facebook.com › curtis.emmons › posts",
+      "favicon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnF6GErkTWFVDbZqhEI8a5bM.png",
+      "date": "Dec 27, 2025",
+      "snippet": "*This is not an endorsement* More Republican candidates may attend the Town Hall on January 22, 2026. These individuals are seeking county ...",
+      "snippet_highlighted_words": [
+        "county"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "*This is not an endorsement* More Republican candidates may attend the Town Hall on January 22, 2026. These individuals are seeking county ...",
+          "source_info_link": "https://www.facebook.com/curtis.emmons/posts/10214702853080572/",
+          "icon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnHmomiAGFbqFXDpkeWxMZbs8S57Xnmx-eRtiVOokYuXE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/curtis.emmons/posts/10214702853080572/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fcurtis.emmons%2Fposts%2F10214702853080572%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Curtis+Emmons+Bell+County+Commissioner+%22P4%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ5t4CegQIMxAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 4,
+      "title": "Even when you're running unopposed in ...",
+      "link": "https://www.facebook.com/ElectEmmons/photos/even-when-youre-running-unopposed-in-the-primary-you-dont-take-the-day-offout-he/122165820992940922/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/ElectEmmons/photos/even-when-youre-running-unopposed-in-the-primary-you-dont-take-the-day-offout-he/122165820992940922/&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQFnoECCAQAQ",
+      "displayed_link": "60+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnCSe5ayEJGeA2QkA1-2vPH8.png",
+      "snippet": "Even when you're running unopposed in the primary, you don't take the day off. Out here making sure the signs are straight and talking to ...",
+      "about_this_result": {
+        "source": {
+          "description": "Even when you're running unopposed in the primary, you don't take the day off. Out here making sure the signs are straight and talking to ...",
+          "source_info_link": "https://www.facebook.com/ElectEmmons/photos/even-when-youre-running-unopposed-in-the-primary-you-dont-take-the-day-offout-he/122165820992940922/",
+          "icon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnDNi9sVmQo1sFSMlDwtiNKYtJlKyGo0xB3HB326DTZlV.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/ElectEmmons/photos/even-when-youre-running-unopposed-in-the-primary-you-dont-take-the-day-offout-he/122165820992940922/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FElectEmmons%2Fphotos%2Feven-when-youre-running-unopposed-in-the-primary-you-dont-take-the-day-offout-he%2F122165820992940922%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Curtis+Emmons+Bell+County+Commissioner+%22P4%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ5t4CegQINRAB"
+      },
+      "source": "Facebook · Curtis Emmons for County Commissioner Precinct 4"
+    },
+    {
+      "position": 5,
+      "title": "Curtis B Emmons",
+      "link": "https://www.facebook.com/curtis.emmons/posts/10213570269166682/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/curtis.emmons/posts/10213570269166682/&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQFnoECBwQAQ",
+      "displayed_link": "https://www.facebook.com › curtis.emmons › posts",
+      "favicon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnIQu95hup6_-R0W-ow-sSXg.png",
+      "date": "Jun 21, 2025",
+      "snippet": "When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.",
+      "about_this_result": {
+        "source": {
+          "description": "When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.",
+          "source_info_link": "https://www.facebook.com/curtis.emmons/posts/10213570269166682/",
+          "icon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnLE9-vrEhopvp7eL6dDwnKe5BnVsUd3zElzGkD2WoFQB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/curtis.emmons/posts/10213570269166682/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fcurtis.emmons%2Fposts%2F10213570269166682%2F",
+      "missing": [
+        "Central",
+        "Texas"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 6,
+      "title": "Curtis Emmons is running for Bell County commissioner ...",
+      "link": "https://www.facebook.com/kdhnews/posts/curtis-emmons-is-running-for-bell-county-commissioner-precinct-4/1375413781199439/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/curtis-emmons-is-running-for-bell-county-commissioner-precinct-4/1375413781199439/&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQFnoECCEQAQ",
+      "displayed_link": "https://www.facebook.com › kdhnews › posts › curtis-e...",
+      "favicon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnPpz_pv_3zccWRwCyp_ZJf0.png",
+      "date": "Nov 11, 2025",
+      "snippet": "Cindy Jones Mills You know what? I am glad that Patrick keeps bringing up the land deal that he approved because it allows the voters in ...",
+      "about_this_result": {
+        "source": {
+          "description": "Cindy Jones Mills You know what? I am glad that Patrick keeps bringing up the land deal that he approved because it allows the voters in ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/curtis-emmons-is-running-for-bell-county-commissioner-precinct-4/1375413781199439/",
+          "icon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnKUFnjvNCYxkg-N8f7P-puhmoi5U4fb1HDMTxLRGfM5H.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/curtis-emmons-is-running-for-bell-county-commissioner-precinct-4/1375413781199439/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fcurtis-emmons-is-running-for-bell-county-commissioner-precinct-4%2F1375413781199439%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Curtis+Emmons+Bell+County+Commissioner+%22P4%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ5t4CegQINBAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 7,
+      "title": "Curtis B Emmons",
+      "link": "https://www.facebook.com/curtis.emmons/photos/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/curtis.emmons/photos/&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQFnoECB0QAQ",
+      "displayed_link": "https://www.facebook.com › ... › Curtis B Emmons",
+      "favicon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnK_Nhlvb0C7v-Rdesie9G_Q.png",
+      "date": "Nov 30, 2025",
+      "snippet": "Cover photo of Curtis. Curtis B Emmons. 󱞴 Digital creator · 󱘛 Killeen, TX · 󱜆 B. A. Emmons Homes · 󱜂 Eisenberg, Rheinland-Pfalz, Germany.",
+      "snippet_highlighted_words": [
+        "Curtis",
+        "Curtis",
+        "Emmons",
+        "TX",
+        "Emmons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cover photo of Curtis. Curtis B Emmons. 󱞴 Digital creator · 󱘛 Killeen, TX · 󱜆 B. A. Emmons Homes · 󱜂 Eisenberg, Rheinland-Pfalz, Germany.",
+          "source_info_link": "https://www.facebook.com/curtis.emmons/photos/",
+          "icon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnJGQlQGJAMRPDvIhJPCmQ-vjHG50RqMBdTIkOoJP8lnP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/curtis.emmons/photos/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fcurtis.emmons%2Fphotos%2F",
+      "missing": [
+        "Bell",
+        "County",
+        "Commissioner",
+        "P4",
+        "Central"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 8,
+      "title": "I'm humbled to be featured in the Temple Daily Telegram ...",
+      "link": "https://www.facebook.com/ElectEmmons/posts/im-humbled-to-be-featured-in-the-temple-daily-telegram-this-week-as-we-take-the-/122138475224940922/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/ElectEmmons/posts/im-humbled-to-be-featured-in-the-temple-daily-telegram-this-week-as-we-take-the-/122138475224940922/&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQFnoECDwQAQ",
+      "displayed_link": "https://www.facebook.com › ElectEmmons › posts › im...",
+      "favicon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnJrQDOT4we-kPUVMtSp6cHU.png",
+      "date": "Oct 20, 2025",
+      "snippet": "I'm humbled to be featured in the Temple Daily Telegram this week as we take the next step in this campaign for Bell County Commissioner.",
+      "snippet_highlighted_words": [
+        "Bell County Commissioner"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I'm humbled to be featured in the Temple Daily Telegram this week as we take the next step in this campaign for Bell County Commissioner.",
+          "source_info_link": "https://www.facebook.com/ElectEmmons/posts/im-humbled-to-be-featured-in-the-temple-daily-telegram-this-week-as-we-take-the-/122138475224940922/",
+          "icon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnBG3vC_m9BJyMT1OGlVDefGXY-xCtixsjUB-enzbJQu3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/ElectEmmons/posts/im-humbled-to-be-featured-in-the-temple-daily-telegram-this-week-as-we-take-the-/122138475224940922/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FElectEmmons%2Fposts%2Fim-humbled-to-be-featured-in-the-temple-daily-telegram-this-week-as-we-take-the-%2F122138475224940922%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Curtis+Emmons+Bell+County+Commissioner+P4+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ5t4CegQIPRAB"
+      },
+      "source": "Facebook"
+    },
+    {
+      "position": 9,
+      "title": "Here’s your quick Killeen–Fort Hood area news update for ...",
+      "link": "https://www.facebook.com/kdhnews/videos/heres-your-quick-killeenfort-hood-area-news-update-for-mar4-2026-read-more-at-kd/2402255240290228/",
+      "displayed_link": "2 weeks ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnNt-y8jX6fuN1hJQ3tsfqDg.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnFxpzkIEhR0bu5xd-u80r6M.png",
+      "snippet": "4, 2026 Read more at kdhnews.com https://kdhnews.com/centerforpolitics/wilkerson- projected-to-win-the-primary-for-bell-county- commissioner- ...",
+      "duration": "1:09",
+      "about_this_result": {
+        "source": {
+          "description": "4, 2026 Read more at kdhnews.com https://kdhnews.com/centerforpolitics/wilkerson- projected-to-win-the-primary-for-bell-county- commissioner- ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/heres-your-quick-killeenfort-hood-area-news-update-for-mar4-2026-read-more-at-kd/2402255240290228/",
+          "icon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnDV4kJlZQzqgivn44ZE9isg7BCi3CuLCI5-_f6EtJeo0.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/heres-your-quick-killeenfort-hood-area-news-update-for-mar4-2026-read-more-at-kd/2402255240290228/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fheres-your-quick-killeenfort-hood-area-news-update-for-mar4-2026-read-more-at-kd%2F2402255240290228%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Curtis+Emmons+Bell+County+Commissioner+%22P4%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ5t4CegQIOxAR"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 10,
+      "title": "It only takes a few minutes to make your voice heard",
+      "link": "https://www.facebook.com/61572178260882/posts/it-only-takes-a-few-minutes-to-make-your-voice-heard/122163163886739275/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/61572178260882/posts/it-only-takes-a-few-minutes-to-make-your-voice-heard/122163163886739275/&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQFnoECEAQAQ",
+      "displayed_link": "2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnKEtbwpB7Lqx8k8Q5bmOk70.png",
+      "snippet": "Bell County Taxpayers need MORE say in how their tax dollars are spent NOT Less. Natalie Shull and 3 others · 󰤥 4.",
+      "snippet_highlighted_words": [
+        "Bell County",
+        "4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bell County Taxpayers need MORE say in how their tax dollars are spent NOT Less. Natalie Shull and 3 others · 󰤥 4.",
+          "source_info_link": "https://www.facebook.com/61572178260882/posts/it-only-takes-a-few-minutes-to-make-your-voice-heard/122163163886739275/",
+          "icon": "https://serpapi.com/searches/69bb5d5257c44bc33f414d4b/images/dxqxtRDOl_fbv3ELKIzRnDTqpRtSF4wPikPWGCol4AqkKMDPYtZ5sOeos3wd4MRD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/61572178260882/posts/it-only-takes-a-few-minutes-to-make-your-voice-heard/122163163886739275/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F61572178260882%2Fposts%2Fit-only-takes-a-few-minutes-to-make-your-voice-heard%2F122163163886739275%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Curtis+Emmons+Bell+County+Commissioner+%22P4%22+Central+Texas+Facebook&sa=X&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ5t4CegQIQxAB"
+      },
+      "source": "Facebook · Bell County with Clinton Bailey"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Curtis+Emmons+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Ul27adOhCdOT8L0PloeDsQs&start=10&sa=N&sstk=Af77f_cpvnZhvEBVxkThn38RnDlQMiGzOG1WBbOX-jpoo4-9NNd5d6LheKBk1ju_H8woYsiX27LAiMWbJ3NIsH6F-rzGang0dTN4pA&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ8NMDegQIChAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Curtis+Emmons+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Ul27adOhCdOT8L0PloeDsQs&start=10&sa=N&sstk=Af77f_cpvnZhvEBVxkThn38RnDlQMiGzOG1WBbOX-jpoo4-9NNd5d6LheKBk1ju_H8woYsiX27LAiMWbJ3NIsH6F-rzGang0dTN4pA&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=Curtis+Emmons+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Ul27adOhCdOT8L0PloeDsQs&start=20&sa=N&sstk=Af77f_cpvnZhvEBVxkThn38RnDlQMiGzOG1WBbOX-jpoo4-9NNd5d6LheKBk1ju_H8woYsiX27LAiMWbJ3NIsH6F-rzGang0dTN4pA&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=Curtis+Emmons+Bell+County+Commissioner+P4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Ul27adOhCdOT8L0PloeDsQs&start=30&sa=N&sstk=Af77f_cpvnZhvEBVxkThn38RnDlQMiGzOG1WBbOX-jpoo4-9NNd5d6LheKBk1ju_H8woYsiX27LAiMWbJ3NIsH6F-rzGang0dTN4pA&ved=2ahUKEwjTktul86qTAxXTCbwBHZbDILYQ8tMDegQIChAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Curtis+Emmons+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Curtis+Emmons+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Curtis+Emmons+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Curtis+Emmons+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Curtis+Emmons+Bell+County+Commissioner+P4+Central+Texas+Facebook&start=30"
+    }
+  }
+}

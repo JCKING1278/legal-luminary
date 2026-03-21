@@ -1,0 +1,342 @@
+{
+  "search_metadata": {
+    "id": "69bb5de96539a2d7a83145a1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/agPs3nAflPVGlPUDbqTmrA/69bb5de96539a2d7a83145a1.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/agPs3nAflPVGlPUDbqTmrA/69bb5de96539a2d7a83145a1.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:33 UTC",
+    "processed_at": "2026-03-19 02:22:33 UTC",
+    "google_url": "https://www.google.com/search?q=David+Lee+Berry+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=David+Lee+Berry+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/agPs3nAflPVGlPUDbqTmrA/69bb5de96539a2d7a83145a1.html",
+    "total_time_taken": 2.5
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "David Lee Berry \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "David Lee Berry \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 339000,
+    "time_taken_displayed": 0.99,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "David Lee Berry US House TX-31 Central Texas Facebook",
+    "spelling_fix": "David Lee Berry US House TX-31 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "There are seven candidates hoping to earn your vote ...",
+      "link": "https://www.facebook.com/KCBDNewsChannel11/posts/meet-the-candidates-part-two-there-are-seven-candidates-hoping-to-earn-your-vote/1371321371695185/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KCBDNewsChannel11/posts/meet-the-candidates-part-two-there-are-seven-candidates-hoping-to-earn-your-vote/1371321371695185/&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQFnoECB8QAQ",
+      "displayed_link": "10+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxTcUZsl0o1rwGZK5DHH45hw.png",
+      "snippet": "MEET THE CANDIDATES PART TWO: There are seven candidates hoping to earn your vote during the upcoming Republican Primary for Texas' 19th ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "MEET THE CANDIDATES PART TWO: There are seven candidates hoping to earn your vote during the upcoming Republican Primary for Texas' 19th ...",
+          "source_info_link": "https://www.facebook.com/KCBDNewsChannel11/posts/meet-the-candidates-part-two-there-are-seven-candidates-hoping-to-earn-your-vote/1371321371695185/",
+          "icon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxWz_wRYaqCXLE8WXxaMNGoqRchc0kaIUn3pAdMSf6liE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KCBDNewsChannel11/posts/meet-the-candidates-part-two-there-are-seven-candidates-hoping-to-earn-your-vote/1371321371695185/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKCBDNewsChannel11%2Fposts%2Fmeet-the-candidates-part-two-there-are-seven-candidates-hoping-to-earn-your-vote%2F1371321371695185%2F",
+      "source": "Facebook · KCBD NewsChannel 11"
+    },
+    {
+      "position": 2,
+      "title": "Sarah Eckhardt",
+      "link": "https://www.facebook.com/SarahEckhardtTX/posts/what-we-have-in-common-is-so-much-greater-than-what-divides-us-and-last-night-fo/1220513833220683/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/SarahEckhardtTX/posts/what-we-have-in-common-is-so-much-greater-than-what-divides-us-and-last-night-fo/1220513833220683/&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQFnoECBwQAQ",
+      "displayed_link": "200+ reactions · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxdKkXDzI2802tzbIqqKcH6Y.png",
+      "snippet": "What we have in common is so much greater than what divides us, and last night, folks across the country proved it by showing up to vote for ...",
+      "snippet_highlighted_words": [
+        "us"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What we have in common is so much greater than what divides us, and last night, folks across the country proved it by showing up to vote for ...",
+          "source_info_link": "https://www.facebook.com/SarahEckhardtTX/posts/what-we-have-in-common-is-so-much-greater-than-what-divides-us-and-last-night-fo/1220513833220683/",
+          "icon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxUBGV3Z3fzfBA1GVGqZ9p6Zp6FW7BirTDswvwTl757BS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/SarahEckhardtTX/posts/what-we-have-in-common-is-so-much-greater-than-what-divides-us-and-last-night-fo/1220513833220683/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FSarahEckhardtTX%2Fposts%2Fwhat-we-have-in-common-is-so-much-greater-than-what-divides-us-and-last-night-fo%2F1220513833220683%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=David+Lee+Berry+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ5t4CegQIKxAB"
+      },
+      "source": "Facebook · Sarah Eckhardt"
+    },
+    {
+      "position": 3,
+      "title": "TONIGHT is your chance to hear from the candidates ...",
+      "link": "https://www.facebook.com/thelukechurch/posts/tonight-is-your-chance-to-hear-from-the-candidates-before-early-voting-begins-%EF%B8%8Ft/1322588133243480/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/thelukechurch/posts/tonight-is-your-chance-to-hear-from-the-candidates-before-early-voting-begins-%25EF%25B8%258Ft/1322588133243480/&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQFnoECB0QAQ",
+      "displayed_link": "40+ reactions · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxchNyxHKC6KhU8_sl_zxZ_w.png",
+      "snippet": "TONIGHT is your chance to hear from the candidates before early voting begins! 🗳️ TX-18 Congressional Runoff Debate Amanda Edwards vs.",
+      "snippet_highlighted_words": [
+        "TX",
+        "Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "TONIGHT is your chance to hear from the candidates before early voting begins! 🗳️ TX-18 Congressional Runoff Debate Amanda Edwards vs.",
+          "source_info_link": "https://www.facebook.com/thelukechurch/posts/tonight-is-your-chance-to-hear-from-the-candidates-before-early-voting-begins-%EF%B8%8Ft/1322588133243480/",
+          "icon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxeYN6mG0TLRD7WxEv_k77v_eev5Wh-vc2b0YWUoUkNeU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/thelukechurch/posts/tonight-is-your-chance-to-hear-from-the-candidates-before-early-voting-begins-%EF%B8%8Ft/1322588133243480/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fthelukechurch%2Fposts%2Ftonight-is-your-chance-to-hear-from-the-candidates-before-early-voting-begins-%25EF%25B8%258Ft%2F1322588133243480%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=David+Lee+Berry+US+House+TX-31+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ5t4CegQILBAB"
+      },
+      "source": "Facebook · The Luke Church"
+    },
+    {
+      "position": 4,
+      "title": "WATCH LIVE: Morning Y'all continues live on CBS19+ with ...",
+      "link": "https://www.facebook.com/kytxcbs19/videos/watch-live-morning-yall-on-cbs19/1368813055051027/",
+      "displayed_link": "3 reactions · 2 weeks ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxSWal5BxL4t4j0iIQGrdXp0.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxey-GWKMMH7EsxcG2DxUwXc.png",
+      "snippet": "WATCH LIVE: Morning Y'all continues live on CBS19+ with more news, weather, sports and hot topics to jumpstart your day!",
+      "duration": "1:08:56",
+      "about_this_result": {
+        "source": {
+          "description": "WATCH LIVE: Morning Y'all continues live on CBS19+ with more news, weather, sports and hot topics to jumpstart your day!",
+          "source_info_link": "https://www.facebook.com/kytxcbs19/videos/watch-live-morning-yall-on-cbs19/1368813055051027/",
+          "icon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxfpTsRlNNJWbolN5O9lSreXQ8MhLx2d7mm-Hu496GPg9.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kytxcbs19/videos/watch-live-morning-yall-on-cbs19/1368813055051027/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkytxcbs19%2Fvideos%2Fwatch-live-morning-yall-on-cbs19%2F1368813055051027%2F",
+      "source": "WATCH LIVE: Morning Y&#39;all continues live on CBS19+ with ... · KYTX CBS19"
+    },
+    {
+      "position": 5,
+      "title": "Why would Brian Mast vote this down? Why would anyone ...",
+      "link": "https://www.facebook.com/groups/186833845024284/posts/2705112619863048/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/186833845024284/posts/2705112619863048/&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQFnoECBsQAQ",
+      "displayed_link": "50+ comments · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxWjhOA6iOMF2TIBrUEAxmlo.png",
+      "snippet": "You probably need to read the entire bill to know for sure what's in it. Could be other things tied to the bill and if you vote yes you vote ...",
+      "about_this_result": {
+        "source": {
+          "description": "You probably need to read the entire bill to know for sure what's in it. Could be other things tied to the bill and if you vote yes you vote ...",
+          "source_info_link": "https://www.facebook.com/groups/186833845024284/posts/2705112619863048/",
+          "icon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxVGzVFtkJGSkvTC1O5h7Pwfv_IDYpELQ-ta69yocGiI3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/186833845024284/posts/2705112619863048/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F186833845024284%2Fposts%2F2705112619863048%2F",
+      "source": "Facebook · Martin County News"
+    },
+    {
+      "position": 6,
+      "title": "Section 12: Religious Discrimination",
+      "link": "https://www.eeoc.gov/laws/guidance/section-12-religious-discrimination",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eeoc.gov/laws/guidance/section-12-religious-discrimination&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQFnoECBgQAQ",
+      "displayed_link": "https://www.eeoc.gov › laws › guidance › section-12-reli...",
+      "favicon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxZX_C_1cColfNQis3Y7-K_c.png",
+      "date": "Jan 15, 2021",
+      "snippet": "Notice Concerning the Undue Hardship Standard in Title VII Religious Accommodation Cases.This document was issued prior to the Supreme ...",
+      "about_this_result": {
+        "source": {
+          "description": "Notice Concerning the Undue Hardship Standard in Title VII Religious Accommodation Cases.This document was issued prior to the Supreme ...",
+          "source_info_link": "https://www.eeoc.gov/laws/guidance/section-12-religious-discrimination",
+          "icon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxfErAMBcaPnqyDda-QbFetd_ulCS5fQSYiHQAI_V9I6U.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.eeoc.gov/laws/guidance/section-12-religious-discrimination&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.eeoc.gov%2Flaws%2Fguidance%2Fsection-12-religious-discrimination",
+      "source": "U.S. Equal Employment Opportunity Commission (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "HD 97 ☑️ Jamie Kohlmann for Texas",
+      "link": "https://www.facebook.com/dan.patrick.texas/posts/these-candidates-have-my-complete-and-total-endorsement%EF%B8%8F-brent-hagenbuchtx-sd-30/1016729149819819/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/dan.patrick.texas/posts/these-candidates-have-my-complete-and-total-endorsement%25EF%25B8%258F-brent-hagenbuchtx-sd-30/1016729149819819/&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQFnoECB4QAQ",
+      "displayed_link": "50+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxf2uyLRLBupaZQrT0TLQKy8.png",
+      "snippet": "These candidates have my complete and total endorsement: ☑️ Brent HagenbuchTX | SD 30 ☑️ Ben Bius | HD 12 ☑️ David Covey for Texas | HD 21 ...",
+      "snippet_highlighted_words": [
+        "David",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "These candidates have my complete and total endorsement: ☑️ Brent HagenbuchTX | SD 30 ☑️ Ben Bius | HD 12 ☑️ David Covey for Texas | HD 21 ...",
+          "source_info_link": "https://www.facebook.com/dan.patrick.texas/posts/these-candidates-have-my-complete-and-total-endorsement%EF%B8%8F-brent-hagenbuchtx-sd-30/1016729149819819/",
+          "icon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxfbjIXRmzOqFV_OtpZ5_nEMXftaoYnLmZCXvsWqEa3kO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/dan.patrick.texas/posts/these-candidates-have-my-complete-and-total-endorsement%EF%B8%8F-brent-hagenbuchtx-sd-30/1016729149819819/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fdan.patrick.texas%2Fposts%2Fthese-candidates-have-my-complete-and-total-endorsement%25EF%25B8%258F-brent-hagenbuchtx-sd-30%2F1016729149819819%2F",
+      "source": "Facebook · Dan Patrick"
+    },
+    {
+      "position": 8,
+      "title": "2026 Truman Finalists",
+      "link": "https://www.truman.gov/2026-truman-finalists",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.truman.gov/2026-truman-finalists&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQFnoECDQQAQ",
+      "displayed_link": "https://www.truman.gov › 2026-truman-finalists",
+      "snippet": "In 2026, the Foundation received 781 applications from 305 institutions. Alabama Nashville, TN -Wednesday, March 18, 2026. Eli Moore University of Alabama David ...",
+      "snippet_highlighted_words": [
+        "David"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In 2026, the Foundation received 781 applications from 305 institutions. Alabama Nashville, TN -Wednesday, March 18, 2026. Eli Moore University of Alabama David ...",
+          "source_info_link": "https://www.truman.gov/2026-truman-finalists"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.truman.gov/2026-truman-finalists&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.truman.gov%2F2026-truman-finalists",
+      "source": "The Harry S. Truman Scholarship Foundation (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "🙏🕊️CELEBRATION OF LIFE for DAVID BERRY… “view ...",
+      "link": "https://www.facebook.com/groups/nathanhalealumni/posts/2564377147066712/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/nathanhalealumni/posts/2564377147066712/&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQFnoECDgQAQ",
+      "displayed_link": "2 comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxcoHlPuWSCQ9jWgZ58IVuLc.png",
+      "snippet": "My sincere condolences on the loss of your loved one. Losing a Raider always hurts, but even more so when it's someone that was at Hale the ...",
+      "about_this_result": {
+        "source": {
+          "description": "My sincere condolences on the loss of your loved one. Losing a Raider always hurts, but even more so when it's someone that was at Hale the ...",
+          "source_info_link": "https://www.facebook.com/groups/nathanhalealumni/posts/2564377147066712/",
+          "icon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxZEJcKy44R_eWbpGCvtOW-ZoJ_zmC-9jB5Pr3AKz0bVS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/nathanhalealumni/posts/2564377147066712/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fnathanhalealumni%2Fposts%2F2564377147066712%2F",
+      "missing": [
+        "House"
+      ],
+      "must_include": {
+        "word": "House",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=David+Lee+Berry+US+%22House%22+TX-31+Central+Texas+Facebook&sa=X&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ5t4CegQIPRAB"
+      },
+      "source": "Facebook · Nathan Hale Alumni Association"
+    },
+    {
+      "position": 10,
+      "title": "United States Pacific Fleet Organization, 1 May 1945",
+      "link": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-pacific-fleet-organization-1may1945.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-pacific-fleet-organization-1may1945.html&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQFnoECDYQAQ",
+      "displayed_link": "https://www.history.navy.mil › title-list-alphabetically",
+      "favicon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxdgXNs3C7SirXe7j13ULkOk.png",
+      "snippet": "The Navy Department Library ; Commander Fleet Operational Training Command, Pacific, Rear Admiral F. C. Denebrink (191).",
+      "about_this_result": {
+        "source": {
+          "description": "The Navy Department Library ; Commander Fleet Operational Training Command, Pacific, Rear Admiral F. C. Denebrink (191).",
+          "source_info_link": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-pacific-fleet-organization-1may1945.html",
+          "icon": "https://serpapi.com/searches/69bb5de96539a2d7a83145a1/images/rARz6DRjDRsv0xsbTECJxaZedfcl7MtMHiJDled13JmP5fMSaIkcYk3k8tC6ZcNG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-pacific-fleet-organization-1may1945.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.history.navy.mil%2Fresearch%2Flibrary%2Fonline-reading-room%2Ftitle-list-alphabetically%2Fu%2Fus-pacific-fleet-organization-1may1945.html",
+      "source": "NHHC (.mil)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=6l27adO4HeWbwbkPjq7woQI&start=10&sa=N&sstk=Af77f_fNX2Xn7yzXIiVkd6-uhveZoFXOi5frh0vogL80Rvg-RiYt6XDWGv5ygndunpeeDRsgY-d_wHMiNWJONRnrCSO9JV-JUs9_yQ&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=6l27adO4HeWbwbkPjq7woQI&start=10&sa=N&sstk=Af77f_fNX2Xn7yzXIiVkd6-uhveZoFXOi5frh0vogL80Rvg-RiYt6XDWGv5ygndunpeeDRsgY-d_wHMiNWJONRnrCSO9JV-JUs9_yQ&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=6l27adO4HeWbwbkPjq7woQI&start=20&sa=N&sstk=Af77f_fNX2Xn7yzXIiVkd6-uhveZoFXOi5frh0vogL80Rvg-RiYt6XDWGv5ygndunpeeDRsgY-d_wHMiNWJONRnrCSO9JV-JUs9_yQ&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=6l27adO4HeWbwbkPjq7woQI&start=30&sa=N&sstk=Af77f_fNX2Xn7yzXIiVkd6-uhveZoFXOi5frh0vogL80Rvg-RiYt6XDWGv5ygndunpeeDRsgY-d_wHMiNWJONRnrCSO9JV-JUs9_yQ&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=6l27adO4HeWbwbkPjq7woQI&start=40&sa=N&sstk=Af77f_fNX2Xn7yzXIiVkd6-uhveZoFXOi5frh0vogL80Rvg-RiYt6XDWGv5ygndunpeeDRsgY-d_wHMiNWJONRnrCSO9JV-JUs9_yQ&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=6l27adO4HeWbwbkPjq7woQI&start=50&sa=N&sstk=Af77f_fNX2Xn7yzXIiVkd6-uhveZoFXOi5frh0vogL80Rvg-RiYt6XDWGv5ygndunpeeDRsgY-d_wHMiNWJONRnrCSO9JV-JUs9_yQ&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=6l27adO4HeWbwbkPjq7woQI&start=60&sa=N&sstk=Af77f_fNX2Xn7yzXIiVkd6-uhveZoFXOi5frh0vogL80Rvg-RiYt6XDWGv5ygndunpeeDRsgY-d_wHMiNWJONRnrCSO9JV-JUs9_yQ&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=6l27adO4HeWbwbkPjq7woQI&start=70&sa=N&sstk=Af77f_fNX2Xn7yzXIiVkd6-uhveZoFXOi5frh0vogL80Rvg-RiYt6XDWGv5ygndunpeeDRsgY-d_wHMiNWJONRnrCSO9JV-JUs9_yQ&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=6l27adO4HeWbwbkPjq7woQI&start=80&sa=N&sstk=Af77f_fNX2Xn7yzXIiVkd6-uhveZoFXOi5frh0vogL80Rvg-RiYt6XDWGv5ygndunpeeDRsgY-d_wHMiNWJONRnrCSO9JV-JUs9_yQ&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=6l27adO4HeWbwbkPjq7woQI&start=90&sa=N&sstk=Af77f_fNX2Xn7yzXIiVkd6-uhveZoFXOi5frh0vogL80Rvg-RiYt6XDWGv5ygndunpeeDRsgY-d_wHMiNWJONRnrCSO9JV-JUs9_yQ&ved=2ahUKEwjT1azu86qTAxXlTTABHQ4XPCQQ8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Facebook&start=90"
+    }
+  }
+}

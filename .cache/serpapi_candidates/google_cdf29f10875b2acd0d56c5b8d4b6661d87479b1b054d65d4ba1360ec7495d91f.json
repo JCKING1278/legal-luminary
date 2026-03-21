@@ -1,0 +1,351 @@
+{
+  "search_metadata": {
+    "id": "69bb5da8bc3f0b0bd1dc2044",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/N8n6omlt8YZ3d5-t9aqKKA/69bb5da8bc3f0b0bd1dc2044.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/N8n6omlt8YZ3d5-t9aqKKA/69bb5da8bc3f0b0bd1dc2044.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:28 UTC",
+    "processed_at": "2026-03-19 02:21:28 UTC",
+    "google_url": "https://www.google.com/search?q=Nicola+J.+James+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Facebook&oq=Nicola+J.+James+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/N8n6omlt8YZ3d5-t9aqKKA/69bb5da8bc3f0b0bd1dc2044.html",
+    "total_time_taken": 1.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Nicola J. James \"Bell JP P4 Place 2\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Nicola J. James \"Bell JP P4 Place 2\" \"Central Texas\" Facebook",
+    "total_results": 232000,
+    "time_taken_displayed": 0.39,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Nicola J. James Bell JP P4 Place 2 Central Texas Facebook",
+    "spelling_fix": "Nicola J. James Bell JP P4 Place 2 Central Texas Facebook"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Nicola J. James shares her thoughts, plans, and inspirations ...",
+      "link": "https://www.facebook.com/kdhnews/videos/nicola-j-james-bell-county-justice-of-the-peace-elect-for-precinct-4-place-2/1519434705227668/",
+      "thumbnail": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/b0WszLlVP15htLF_5MXJ1UGCmI0GvihgUj01jOFcb3c.jpeg",
+      "channel": "Killeen Daily Herald",
+      "platform": "Facebook"
+    },
+    {
+      "position": 2,
+      "title": "KDH News reporter Erik Walsh speaks with Bell County ...",
+      "link": "https://www.facebook.com/kdhnews/videos/kdh-news-reporter-erik-walsh-speaks-with-bell-county-justice-of-the-peace-nicola/846838231737513/",
+      "thumbnail": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/9FBhEs-_Kd5jnYd09dnvJBbgfwFh4aQWekJiUkdJsOg.jpeg",
+      "channel": "Killeen Daily Herald",
+      "platform": "Facebook"
+    },
+    {
+      "position": 3,
+      "title": "Nicola J. James: Bell County Justice of the Peace- Elect for ...",
+      "link": "https://www.youtube.com/watch?v=sgMsD051Qvc",
+      "thumbnail": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/BsOV0nnqRL9X1LnT6VTwfPZhrgm4sf8Aa2naLWQNsgQ.jpeg",
+      "channel": "Killeen Daily Herald",
+      "platform": "YouTube"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "a position that represents the Killeen-Harker Heights area.",
+      "link": "https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQFnoECB4QAQ",
+      "displayed_link": "110+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY9ZWgN15fY5ZoUMWdSvb0JQ.png",
+      "snippet": "Jessica Gonzalez a native Texan born in Killeen is the right candidate for this job. Knows the landscape and raised by public servants. She will ...",
+      "about_this_result": {
+        "source": {
+          "description": "Jessica Gonzalez a native Texan born in Killeen is the right candidate for this job. Knows the landscape and raised by public servants. She will ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/",
+          "icon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY4aFrVLGeZOwDw1iwXrfRkipcqwV5viuHnAIlBhJt1ZF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fthree-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-%2F1457676362973180%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "Judge Nicola James to run for reelection - Temple",
+      "link": "https://www.facebook.com/TempleTelegram/posts/judge-nicola-j-james-a-democrat-is-running-for-reelection-as-justice-of-the-peac/1473525920869352/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/TempleTelegram/posts/judge-nicola-j-james-a-democrat-is-running-for-reelection-as-justice-of-the-peac/1473525920869352/&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQFnoECCkQAQ",
+      "displayed_link": "1 reaction · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY8LulrTR2IAmRsvlhGgPwtA.png",
+      "snippet": "Judge Nicola J. James, a Democrat, is running for reelection as justice of the peace for Precinct 4, Place 2 in Bell County.",
+      "snippet_highlighted_words": [
+        "Nicola J",
+        "James",
+        "justice of the peace",
+        "4",
+        "Place 2",
+        "Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Judge Nicola J. James, a Democrat, is running for reelection as justice of the peace for Precinct 4, Place 2 in Bell County.",
+          "source_info_link": "https://www.facebook.com/TempleTelegram/posts/judge-nicola-j-james-a-democrat-is-running-for-reelection-as-justice-of-the-peac/1473525920869352/",
+          "icon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY25mQ6Hiq_OQFJKpNYeBx2mSyZ1Ban-ZggT1oVk1ZMDh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/TempleTelegram/posts/judge-nicola-j-james-a-democrat-is-running-for-reelection-as-justice-of-the-peac/1473525920869352/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FTempleTelegram%2Fposts%2Fjudge-nicola-j-james-a-democrat-is-running-for-reelection-as-justice-of-the-peac%2F1473525920869352%2F",
+      "source": "Facebook · Temple Daily Telegram"
+    },
+    {
+      "position": 3,
+      "title": "Bell County Democratic Party",
+      "link": "https://www.facebook.com/bellcodems/posts/-%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%ADincumbent-judge-nicola-j-jamesprecinct-4-place-2-2nd-t/1299078735595612/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/-%25F0%259D%2590%2582%25F0%259D%2590%259A%25F0%259D%2590%25A7%25F0%259D%2590%259D%25F0%259D%2590%25A2%25F0%259D%2590%259D%25F0%259D%2590%259A%25F0%259D%2590%25AD%25F0%259D%2590%259E-%25F0%259D%2590%2582%25F0%259D%2590%25A8%25F0%259D%2590%25A6%25F0%259D%2590%25A6%25F0%259D%2590%25AE%25F0%259D%2590%25A7%25F0%259D%2590%25A2%25F0%259D%2590%25AD%25F0%259D%2590%25B2-%25F0%259D%2590%2584%25F0%259D%2590%25AF%25F0%259D%2590%259E%25F0%259D%2590%25A7%25F0%259D%2590%25ADincumbent-judge-nicola-j-jamesprecinct-4-place-2-2nd-t/1299078735595612/&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQFnoECCIQAQ",
+      "displayed_link": "7 reactions · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY-1u2LPlxAA7R3eZ9D74xZM.png",
+      "snippet": "Candidate Community Event Incumbent Judge Nicola J. James Precinct 4, Place 2 | 2nd Term Saturday, January 3, 2026 ⏰ 11:30 a.m. – 2:00 ...",
+      "snippet_highlighted_words": [
+        "Nicola J",
+        "James",
+        "4",
+        "Place 2",
+        "2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Candidate Community Event Incumbent Judge Nicola J. James Precinct 4, Place 2 | 2nd Term Saturday, January 3, 2026 ⏰ 11:30 a.m. – 2:00 ...",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/-%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%ADincumbent-judge-nicola-j-jamesprecinct-4-place-2-2nd-t/1299078735595612/",
+          "icon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY6bXbn0zzi8sUx5IqAAVATjLTEhfZ9EGUJFLDGipuHyt.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/-%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%ADincumbent-judge-nicola-j-jamesprecinct-4-place-2-2nd-t/1299078735595612/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2F-%25F0%259D%2590%2582%25F0%259D%2590%259A%25F0%259D%2590%25A7%25F0%259D%2590%259D%25F0%259D%2590%25A2%25F0%259D%2590%259D%25F0%259D%2590%259A%25F0%259D%2590%25AD%25F0%259D%2590%259E-%25F0%259D%2590%2582%25F0%259D%2590%25A8%25F0%259D%2590%25A6%25F0%259D%2590%25A6%25F0%259D%2590%25AE%25F0%259D%2590%25A7%25F0%259D%2590%25A2%25F0%259D%2590%25AD%25F0%259D%2590%25B2-%25F0%259D%2590%2584%25F0%259D%2590%25AF%25F0%259D%2590%259E%25F0%259D%2590%25A7%25F0%259D%2590%25ADincumbent-judge-nicola-j-jamesprecinct-4-place-2-2nd-t%2F1299078735595612%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nicola+J.+James+Bell+JP+P4+Place+2+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQ5t4CegQIIRAB"
+      },
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 4,
+      "title": "Bell County has 4 Justice of the Peace Precincts. ...",
+      "link": "https://www.facebook.com/bellcodems/posts/bell-county-has-4-justice-of-the-peace-precincts-precincts-3-and-4-each-have-two/1282628370573982/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/bell-county-has-4-justice-of-the-peace-precincts-precincts-3-and-4-each-have-two/1282628370573982/&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQFnoECCUQAQ",
+      "displayed_link": "20+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY4l8XDslJjBWQEmoaRhVbtI.png",
+      "snippet": "There is a third candidate in this race. I just need to finish the filing upload to SOS this evening!. 3mo. Recent Posts. Bell ...",
+      "snippet_highlighted_words": [
+        "Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "There is a third candidate in this race. I just need to finish the filing upload to SOS this evening!. 3mo. Recent Posts. Bell ...",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/bell-county-has-4-justice-of-the-peace-precincts-precincts-3-and-4-each-have-two/1282628370573982/",
+          "icon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RYz0XfBdlF1VqYDvq1N_B4C4UaaMZZmnVpayhRxfViHmD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/bell-county-has-4-justice-of-the-peace-precincts-precincts-3-and-4-each-have-two/1282628370573982/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2Fbell-county-has-4-justice-of-the-peace-precincts-precincts-3-and-4-each-have-two%2F1282628370573982%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nicola+J.+James+Bell+JP+P4+Place+2+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQ5t4CegQIJxAB"
+      },
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 5,
+      "title": "Bell County Democratic Party",
+      "link": "https://www.facebook.com/bellcodems/posts/-candidate-announcementjudge-nicola-j-james-is-running-for-re-election-as-justic/1252728520230634/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/-candidate-announcementjudge-nicola-j-james-is-running-for-re-election-as-justic/1252728520230634/&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQFnoECDcQAQ",
+      "displayed_link": "10+ reactions · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RYydDM5P5-tqvquPQFZukWuc.png",
+      "snippet": "CANDIDATE ANNOUNCEMENT!! Judge Nicola J. James is running for re-election as Justice of the Peace — Precinct 4, Place 2 in Bell County!",
+      "snippet_highlighted_words": [
+        "Nicola J",
+        "James",
+        "Justice of the Peace",
+        "4",
+        "Place 2",
+        "Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "CANDIDATE ANNOUNCEMENT!! Judge Nicola J. James is running for re-election as Justice of the Peace — Precinct 4, Place 2 in Bell County!",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/-candidate-announcementjudge-nicola-j-james-is-running-for-re-election-as-justic/1252728520230634/",
+          "icon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY6HA3jbNy9hScJXeU20NPraDGN9Q-DdpU7jCdhE_tFcR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/-candidate-announcementjudge-nicola-j-james-is-running-for-re-election-as-justic/1252728520230634/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2F-candidate-announcementjudge-nicola-j-james-is-running-for-re-election-as-justic%2F1252728520230634%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nicola+J.+James+Bell+JP+P4+Place+2+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQ5t4CegQIPRAB"
+      },
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 6,
+      "title": "Justice of the Peace Precinct 4, Place 2 Judge",
+      "link": "https://www.bellcountytx.com/county_government/justice_of_the_peace/precinct_4_place_2/index.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bellcountytx.com/county_government/justice_of_the_peace/precinct_4_place_2/index.php&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQFnoECDIQAQ",
+      "displayed_link": "https://www.bellcountytx.com › county_government",
+      "favicon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY0mxzCGheeHU1drYVjHK5DY.jpeg",
+      "snippet": "Justice of the Peace Precinct 4, Place 2. james_2. Justice of the Peace Precinct 4, Place 2 Judge - Nicola J. James Bell County Killeen Annex 301 Priest Drive",
+      "snippet_highlighted_words": [
+        "Justice of the Peace",
+        "4",
+        "Place 2",
+        "Justice of the Peace",
+        "4",
+        "Place 2",
+        "Nicola J",
+        "James Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Justice of the Peace Precinct 4, Place 2. james_2. Justice of the Peace Precinct 4, Place 2 Judge - Nicola J. James Bell County Killeen Annex 301 Priest Drive",
+          "source_info_link": "https://www.bellcountytx.com/county_government/justice_of_the_peace/precinct_4_place_2/index.php",
+          "icon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY2rVTEslyiPHz6RtkyjTWCcH7VFRLREleU4b0dCWj9BE.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bellcountytx.com/county_government/justice_of_the_peace/precinct_4_place_2/index.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bellcountytx.com%2Fcounty_government%2Fjustice_of_the_peace%2Fprecinct_4_place_2%2Findex.php",
+      "source": "Bell County"
+    },
+    {
+      "position": 7,
+      "title": "Bell County Commissioner Bobby Whitson leveled criticism ...",
+      "link": "https://www.facebook.com/kdhnews/posts/bell-county-commissioner-bobby-whitson-leveled-criticism-last-week-at-killeen-ju/1271297368277748/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/bell-county-commissioner-bobby-whitson-leveled-criticism-last-week-at-killeen-ju/1271297368277748/&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQFnoECDgQAQ",
+      "displayed_link": "30+ reactions · 8 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY18-ynxbFrZIn78g5V2pkCI.png",
+      "snippet": "Bell County Commissioner Bobby Whitson leveled criticism last week at Killeen Justices of the Peace Gregory Johnson and Nicola James ...",
+      "snippet_highlighted_words": [
+        "Bell",
+        "Nicola James"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bell County Commissioner Bobby Whitson leveled criticism last week at Killeen Justices of the Peace Gregory Johnson and Nicola James ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/bell-county-commissioner-bobby-whitson-leveled-criticism-last-week-at-killeen-ju/1271297368277748/",
+          "icon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY3zWdYi0XJuN8w39C2yZpD61FJBzTCdvelykspsv8p_c.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/bell-county-commissioner-bobby-whitson-leveled-criticism-last-week-at-killeen-ju/1271297368277748/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fbell-county-commissioner-bobby-whitson-leveled-criticism-last-week-at-killeen-ju%2F1271297368277748%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 8,
+      "title": "Read and Share.",
+      "link": "https://www.facebook.com/groups/1935070693170186/posts/25682210554696200/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1935070693170186/posts/25682210554696200/&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQFnoECDEQAQ",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RYzhoGhRZytl6Mh-74mJtLhs.png",
+      "date": "Nov 26, 2025",
+      "snippet": "OCR: gllo Justice of the Peace A key role on the 2026 ballot Essential Areas JPs Manage: Class c misdemeanors (traffic tickets & other ...",
+      "snippet_highlighted_words": [
+        "Justice of the Peace"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "OCR: gllo Justice of the Peace A key role on the 2026 ballot Essential Areas JPs Manage: Class c misdemeanors (traffic tickets & other ...",
+          "source_info_link": "https://www.facebook.com/groups/1935070693170186/posts/25682210554696200/",
+          "icon": "https://serpapi.com/searches/69bb5da8bc3f0b0bd1dc2044/images/SXqVemJ9dbxVigl4gc2RY311dtfHbYus7VacdyyyN8y3NYT4XVfS8jC8qrUVCJri.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1935070693170186/posts/25682210554696200/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1935070693170186%2Fposts%2F25682210554696200%2F",
+      "source": "Facebook"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "Some results may have been delisted consistent with local laws. Learn more",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/policies/faq",
+            "text": "Learn more"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=qV27af2wJo7t-LYPpZ7MyQw&start=10&sa=N&sstk=Af77f_fHHjq81t9dZwz5V4p7Je6xHXKAWJub1AXrOKbxOndmW5BU2RjaKqJrmNYkgHJyF9LPddIU3-FkpuaQ15kIikYSZCl2gofrGA&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQ8NMDegQIEBAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=qV27af2wJo7t-LYPpZ7MyQw&start=10&sa=N&sstk=Af77f_fHHjq81t9dZwz5V4p7Je6xHXKAWJub1AXrOKbxOndmW5BU2RjaKqJrmNYkgHJyF9LPddIU3-FkpuaQ15kIikYSZCl2gofrGA&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQ8tMDegQIEBAG",
+      "3": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=qV27af2wJo7t-LYPpZ7MyQw&start=20&sa=N&sstk=Af77f_fHHjq81t9dZwz5V4p7Je6xHXKAWJub1AXrOKbxOndmW5BU2RjaKqJrmNYkgHJyF9LPddIU3-FkpuaQ15kIikYSZCl2gofrGA&ved=2ahUKEwi9qbbP86qTAxWONt4AHSUPM8kQ8tMDegQIEBAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=20"
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "search_metadata": {
+    "id": "69bb5dec231ffe3e74dbb754",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/26HjJDq_7wlKsOX_d6EwBw/69bb5dec231ffe3e74dbb754.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/26HjJDq_7wlKsOX_d6EwBw/69bb5dec231ffe3e74dbb754.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:36 UTC",
+    "processed_at": "2026-03-19 02:22:36 UTC",
+    "google_url": "https://www.google.com/search?q=David+Lee+Berry+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&oq=David+Lee+Berry+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/26HjJDq_7wlKsOX_d6EwBw/69bb5dec231ffe3e74dbb754.html",
+    "total_time_taken": 1.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "David Lee Berry \"US House TX-31\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "David Lee Berry \"US House TX-31\" \"Central Texas\" Instagram",
+    "total_results": 114000,
+    "time_taken_displayed": 0.81,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "David Lee Berry US House TX-31 Central Texas Instagram",
+    "spelling_fix": "David Lee Berry US House TX-31 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "great R&B singers like Percy Sledge ...",
+      "link": "https://www.instagram.com/p/DQupCPKib5S/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DQupCPKib5S/&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQFnoECCMQAQ",
+      "displayed_link": "60+ likes · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloZnLrV0cIEruoFBdfxGifmE.png",
+      "snippet": "This documentary, directed by Gillian Grisman, takes an intimate look at the life and music of Grateful Dead guitarist Jerry Garcia and his ...",
+      "about_this_result": {
+        "source": {
+          "description": "This documentary, directed by Gillian Grisman, takes an intimate look at the life and music of Grateful Dead guitarist Jerry Garcia and his ...",
+          "source_info_link": "https://www.instagram.com/p/DQupCPKib5S/",
+          "icon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloSE4inp2H4Qm8wFDGokFs2bihTBCp3pUDr6jNI_3QA1c.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DQupCPKib5S/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDQupCPKib5S%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=David+Lee+Berry+US+House+TX-31+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ5t4CegQILxAB"
+      },
+      "source": "Instagram · mariamuldaurmusic"
+    },
+    {
+      "position": 2,
+      "title": "Clinical Investigator Inspection List A-D",
+      "link": "https://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQFnoECCAQAQ",
+      "displayed_link": "https://www.fda.gov › compliance-actions-biologics › cli...",
+      "favicon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloXV7UggvHE5WWr4jSnj8KN0.png",
+      "snippet": "This list contains names, addresses, and other information gathered from inspections of clinical investigators (with last names beginning with AD)",
+      "about_this_result": {
+        "source": {
+          "description": "This list contains names, addresses, and other information gathered from inspections of clinical investigators (with last names beginning with AD)",
+          "source_info_link": "https://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
+          "icon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloTreRjivEmBps4Krpt6KG8HeYOincKIZIn9DNFUFEJkG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fda.gov%2Fvaccines-blood-biologics%2Fcompliance-actions-biologics%2Fclinical-investigator-inspection-list-d",
+      "source": "U.S. Food and Drug Administration (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Proud to welcome Command Sergeant Major (Ret.) John L. ...",
+      "link": "https://www.instagram.com/p/DVHdC0zDsED/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DVHdC0zDsED/&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQFnoECBsQAQ",
+      "displayed_link": "https://www.instagram.com › repmonicadlc",
+      "favicon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloTWLW8f3kXd0CJJan4qixuc.png",
+      "snippet": "Proud to welcome Command Sergeant Major (Ret.) John L. Herring of Alice, TX, as my guest for the State of the Union! A Texas Veteran and family man, ...",
+      "snippet_highlighted_words": [
+        "TX",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Proud to welcome Command Sergeant Major (Ret.) John L. Herring of Alice, TX, as my guest for the State of the Union! A Texas Veteran and family man, ...",
+          "source_info_link": "https://www.instagram.com/p/DVHdC0zDsED/",
+          "icon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloWyhQhI5_G0kKjIplgPc0eD3kiUIEHJNSpBrE2TgkYOl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DVHdC0zDsED/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDVHdC0zDsED%2F",
+      "source": "Instagram"
+    },
+    {
+      "position": 4,
+      "title": "Mergers and Acquisitions in Digital Markets",
+      "link": "https://www.congress.gov/crs-product/R46739",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/crs-product/R46739&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQFnoECCEQAQ",
+      "displayed_link": "https://www.congress.gov › crs-product",
+      "favicon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloRGoSlXs_gSskuhzUzZcGXU.png",
+      "date": "Mar 30, 2021",
+      "snippet": "Summary. Some Members of Congress have expressed concern about mergers and acquisitions in digital markets, specifically those involving ...",
+      "about_this_result": {
+        "source": {
+          "description": "Summary. Some Members of Congress have expressed concern about mergers and acquisitions in digital markets, specifically those involving ...",
+          "source_info_link": "https://www.congress.gov/crs-product/R46739",
+          "icon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQlobLh1pT7wQuB0no1soEHxjVwS1Uqw7KAt5OkS3ZBQZox.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/crs-product/R46739&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2Fcrs-product%2FR46739",
+      "source": "Congress.gov | Library of Congress"
+    },
+    {
+      "position": 5,
+      "title": "The Effects of Stand-Your-Ground Laws",
+      "link": "https://www.rand.org/research/gun-policy/analysis/stand-your-ground.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rand.org/research/gun-policy/analysis/stand-your-ground.html&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQFnoECBoQAQ",
+      "displayed_link": "https://www.rand.org › ... › Research Review",
+      "favicon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQlocgZdgQc34A6VQeteHNTWtI.png",
+      "snippet": "Analysis of the impact of lost or stolen firearms reporting requirements on gun-related outcomes in the United States.",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Analysis of the impact of lost or stolen firearms reporting requirements on gun-related outcomes in the United States.",
+          "source_info_link": "https://www.rand.org/research/gun-policy/analysis/stand-your-ground.html",
+          "icon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloa151bWUZFWEkPmYfXGmx4pqaaoohpm4gzZ4ZBzg0VGu.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.rand.org/research/gun-policy/analysis/stand-your-ground.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.rand.org%2Fresearch%2Fgun-policy%2Fanalysis%2Fstand-your-ground.html",
+      "source": "RAND"
+    },
+    {
+      "position": 6,
+      "title": "Music Production Hardware & Software | Akai Professional ...",
+      "link": "https://www.akaipro.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.akaipro.com/&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQFnoECB0QAQ",
+      "displayed_link": "https://www.akaipro.com",
+      "favicon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloe3J5yx7DHw1dCtmq3ghwNs.png",
+      "snippet": "Akai Professional is the home of MPC Drum Machines and best-selling MPK Mini MIDI controller. A proud heritage of music production and beat making ...",
+      "snippet_highlighted_words": [
+        "home"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Akai Professional is the home of MPC Drum Machines and best-selling MPK Mini MIDI controller. A proud heritage of music production and beat making ...",
+          "source_info_link": "https://www.akaipro.com/",
+          "icon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQlocpg-ByAeGY_rPpzIWdVekZtZJRzarZ3oXOROA-uYTo4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.akaipro.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.akaipro.com%2F",
+      "source": "Akai Pro"
+    },
+    {
+      "position": 7,
+      "title": "BeatBox Beverages: BeatBox - The World's Tastiest Party Punch",
+      "link": "https://beatboxbeverages.com/?srsltid=AfmBOopdnDFPft0WvqBPeesN8BBxJI9DWzBuWKzjqz7SaX8IAyFamiD3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://beatboxbeverages.com/%3Fsrsltid%3DAfmBOopdnDFPft0WvqBPeesN8BBxJI9DWzBuWKzjqz7SaX8IAyFamiD3&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQFnoECBwQAQ",
+      "displayed_link": "https://beatboxbeverages.com",
+      "favicon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloeAVe2HlkjRAi4oMDAl2x0E.png",
+      "snippet": "Official website of the World's Tastiest Party Punch; BeatBox. See upcoming events, store locator, merchandise, video content and our Shark Tank episode...",
+      "about_this_result": {
+        "source": {
+          "description": "Official website of the World's Tastiest Party Punch; BeatBox. See upcoming events, store locator, merchandise, video content and our Shark Tank episode...",
+          "source_info_link": "https://beatboxbeverages.com/?srsltid=AfmBOopdnDFPft0WvqBPeesN8BBxJI9DWzBuWKzjqz7SaX8IAyFamiD3",
+          "icon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQlodLY9oeeL757nJPrXiNvo_7z0d-agXctASpgXkB91rx4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://beatboxbeverages.com/?srsltid=AfmBOopdnDFPft0WvqBPeesN8BBxJI9DWzBuWKzjqz7SaX8IAyFamiD3&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbeatboxbeverages.com%2F%3Fsrsltid%3DAfmBOopdnDFPft0WvqBPeesN8BBxJI9DWzBuWKzjqz7SaX8IAyFamiD3",
+      "source": "BeatBox Beverages"
+    },
+    {
+      "position": 8,
+      "title": "Tomorrow at 12 PM Pacific, I'll be sharing a video ...",
+      "link": "https://www.facebook.com/TheAsherHouse/posts/tomorrow-at-12-pm-pacific-ill-be-sharing-a-video-that-i-didnt-make-lightlyits-my/1477265167100757/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/TheAsherHouse/posts/tomorrow-at-12-pm-pacific-ill-be-sharing-a-video-that-i-didnt-make-lightlyits-my/1477265167100757/&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQFnoECDwQAQ",
+      "displayed_link": "46.4K+ reactions · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloVfUbkZjjmaGMLiMj6WGamE.png",
+      "snippet": "Tomorrow at 12 PM Pacific, I'll be sharing a video that I didn't make lightly. It's my response to a deeply traumatic tragedy that occurred ...",
+      "about_this_result": {
+        "source": {
+          "description": "Tomorrow at 12 PM Pacific, I'll be sharing a video that I didn't make lightly. It's my response to a deeply traumatic tragedy that occurred ...",
+          "source_info_link": "https://www.facebook.com/TheAsherHouse/posts/tomorrow-at-12-pm-pacific-ill-be-sharing-a-video-that-i-didnt-make-lightlyits-my/1477265167100757/",
+          "icon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloRMDcZgubj4GWuxknc-WBQiauGfzokdjsspChX-06DL2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/TheAsherHouse/posts/tomorrow-at-12-pm-pacific-ill-be-sharing-a-video-that-i-didnt-make-lightlyits-my/1477265167100757/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FTheAsherHouse%2Fposts%2Ftomorrow-at-12-pm-pacific-ill-be-sharing-a-video-that-i-didnt-make-lightlyits-my%2F1477265167100757%2F",
+      "source": "Facebook · The Asher House"
+    },
+    {
+      "position": 9,
+      "title": "Emmanuel Moody - Football",
+      "link": "https://usctrojans.com/sports/football/roster/emmanuel-moody/1749",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://usctrojans.com/sports/football/roster/emmanuel-moody/1749&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQFnoECDYQAQ",
+      "displayed_link": "https://usctrojans.com › sports › football › roster › emm...",
+      "favicon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQlod4Pftc9D8rKiSMpgLPmYLY.png",
+      "snippet": "2007: Moody looks to continue his fine debut showing of 2006 as a part-time starting tailback with more playing time in 2007 as a sophomore.",
+      "about_this_result": {
+        "source": {
+          "description": "2007: Moody looks to continue his fine debut showing of 2006 as a part-time starting tailback with more playing time in 2007 as a sophomore.",
+          "source_info_link": "https://usctrojans.com/sports/football/roster/emmanuel-moody/1749",
+          "icon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloQoVfrA0xIs7wkW4u-H3BeV9DujthyxkMThS-BIzd71A.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://usctrojans.com/sports/football/roster/emmanuel-moody/1749&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fusctrojans.com%2Fsports%2Ffootball%2Froster%2Femmanuel-moody%2F1749",
+      "source": "USC Athletics"
+    },
+    {
+      "position": 10,
+      "title": "News",
+      "link": "https://www.fbi.gov/news/rss.xml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fbi.gov/news/rss.xml&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQFnoECDkQAQ",
+      "displayed_link": "https://www.fbi.gov › news › rss",
+      "favicon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQloWQRdxk5qGYVoldYHWm18n0.jpeg",
+      "date": "Sep 26, 2024",
+      "snippet": "This round-up is only a partial list of recent FBI violent crime stories—for a full list, read more FBI violent crime news and press releases ...",
+      "about_this_result": {
+        "source": {
+          "description": "This round-up is only a partial list of recent FBI violent crime stories—for a full list, read more FBI violent crime news and press releases ...",
+          "source_info_link": "https://www.fbi.gov/news/rss.xml",
+          "icon": "https://serpapi.com/searches/69bb5dec231ffe3e74dbb754/images/9ZB6uc5-7pU1gQOc0QQlod43f5MgF9EEwa8E_Huk2cxI_VN7Q84J3s73Ov013_a5.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fbi.gov/news/rss.xml&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fbi.gov%2Fnews%2Frss.xml",
+      "source": "Federal Bureau of Investigation (.gov)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=7F27aeLtLMDbkPIPzJud4Q0&start=10&sa=N&sstk=Af77f_eqnKlxfdWr_DFhD5P6pm5sXpX_PzcHrdzQ3nCJJsGT7vE39wkAeTu_5uHlj5rpfSk7tbPLASnR0cbQwwM4K8d2fNERpGe-hg&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ8NMDegQIDBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=7F27aeLtLMDbkPIPzJud4Q0&start=10&sa=N&sstk=Af77f_eqnKlxfdWr_DFhD5P6pm5sXpX_PzcHrdzQ3nCJJsGT7vE39wkAeTu_5uHlj5rpfSk7tbPLASnR0cbQwwM4K8d2fNERpGe-hg&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=7F27aeLtLMDbkPIPzJud4Q0&start=20&sa=N&sstk=Af77f_eqnKlxfdWr_DFhD5P6pm5sXpX_PzcHrdzQ3nCJJsGT7vE39wkAeTu_5uHlj5rpfSk7tbPLASnR0cbQwwM4K8d2fNERpGe-hg&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=7F27aeLtLMDbkPIPzJud4Q0&start=30&sa=N&sstk=Af77f_eqnKlxfdWr_DFhD5P6pm5sXpX_PzcHrdzQ3nCJJsGT7vE39wkAeTu_5uHlj5rpfSk7tbPLASnR0cbQwwM4K8d2fNERpGe-hg&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=7F27aeLtLMDbkPIPzJud4Q0&start=40&sa=N&sstk=Af77f_eqnKlxfdWr_DFhD5P6pm5sXpX_PzcHrdzQ3nCJJsGT7vE39wkAeTu_5uHlj5rpfSk7tbPLASnR0cbQwwM4K8d2fNERpGe-hg&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ8tMDegQIDBAK",
+      "6": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=7F27aeLtLMDbkPIPzJud4Q0&start=50&sa=N&sstk=Af77f_eqnKlxfdWr_DFhD5P6pm5sXpX_PzcHrdzQ3nCJJsGT7vE39wkAeTu_5uHlj5rpfSk7tbPLASnR0cbQwwM4K8d2fNERpGe-hg&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ8tMDegQIDBAM",
+      "7": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=7F27aeLtLMDbkPIPzJud4Q0&start=60&sa=N&sstk=Af77f_eqnKlxfdWr_DFhD5P6pm5sXpX_PzcHrdzQ3nCJJsGT7vE39wkAeTu_5uHlj5rpfSk7tbPLASnR0cbQwwM4K8d2fNERpGe-hg&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ8tMDegQIDBAO",
+      "8": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=7F27aeLtLMDbkPIPzJud4Q0&start=70&sa=N&sstk=Af77f_eqnKlxfdWr_DFhD5P6pm5sXpX_PzcHrdzQ3nCJJsGT7vE39wkAeTu_5uHlj5rpfSk7tbPLASnR0cbQwwM4K8d2fNERpGe-hg&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ8tMDegQIDBAQ",
+      "9": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=7F27aeLtLMDbkPIPzJud4Q0&start=80&sa=N&sstk=Af77f_eqnKlxfdWr_DFhD5P6pm5sXpX_PzcHrdzQ3nCJJsGT7vE39wkAeTu_5uHlj5rpfSk7tbPLASnR0cbQwwM4K8d2fNERpGe-hg&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ8tMDegQIDBAS",
+      "10": "https://www.google.com/search?q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=7F27aeLtLMDbkPIPzJud4Q0&start=90&sa=N&sstk=Af77f_eqnKlxfdWr_DFhD5P6pm5sXpX_PzcHrdzQ3nCJJsGT7vE39wkAeTu_5uHlj5rpfSk7tbPLASnR0cbQwwM4K8d2fNERpGe-hg&ved=2ahUKEwjik7bv86qTAxXALUQIHcxNJ9wQ8tMDegQIDBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Lee+Berry+US+House+TX-31+Central+Texas+Instagram&start=90"
+    }
+  }
+}

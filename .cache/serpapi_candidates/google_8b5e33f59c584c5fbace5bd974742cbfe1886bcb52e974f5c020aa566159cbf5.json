@@ -1,0 +1,85 @@
+{
+  "search_metadata": {
+    "id": "69bb5def03b136d8f5452f38",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OdLs2dmbn6N9YfFzd-xJDw/69bb5def03b136d8f5452f38.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/OdLs2dmbn6N9YfFzd-xJDw/69bb5def03b136d8f5452f38.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:39 UTC",
+    "processed_at": "2026-03-19 02:22:39 UTC",
+    "google_url": "https://www.google.com/search?q=John+R.+Carter+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=John+R.+Carter+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/OdLs2dmbn6N9YfFzd-xJDw/69bb5def03b136d8f5452f38.html",
+    "total_time_taken": 1.26
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "John R. Carter \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "John R. Carter \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 2,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "22 candidates running for Congress have signed our pledge ...",
+      "link": "https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/&ved=2ahUKEwjZgonx86qTAxX-D1kFHaGWFY0QFnoECBcQAQ",
+      "displayed_link": "https://www.facebook.com › posts › 22-candidates-run...",
+      "favicon": "https://serpapi.com/searches/69bb5def03b136d8f5452f38/images/Lg9l2afkVgyXmNHS_0RT0zxk0sQgiXpwO1mx4hwuj9c.png",
+      "snippet": "... John Strand, US House FL-19 @JohnStrandUSA ... US House TX-31 @Abel_tx31 - Jace Yarbrough, US ... Central Texas Local Politics & Events. Thank you ...",
+      "snippet_highlighted_words": [
+        "John",
+        "US House TX-31",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... John Strand, US House FL-19 @JohnStrandUSA ... US House TX-31 @Abel_tx31 - Jace Yarbrough, US ... Central Texas Local Politics & Events. Thank you ...",
+          "source_info_link": "https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/",
+          "icon": "https://serpapi.com/searches/69bb5def03b136d8f5452f38/images/Lg9l2afkVgyXmNHS_0RT01tUXwmg6o-cAEUZbnQFSEXDaZKtYfVELAxYijCSHw9-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FDrMaryTalleyBowden%2Fposts%2F22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-%2F936734028884543%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 2,
+      "title": "Home | Save Parrie Haynes R",
+      "link": "https://www.savephr.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.savephr.org/&ved=2ahUKEwjZgonx86qTAxX-D1kFHaGWFY0QFnoECBoQAQ",
+      "displayed_link": "https://www.savephr.org",
+      "snippet": "... Central Texas's natural beauty. The ranch supports diverse wildlife ... Carter (U.S. House, TX-31). Bell County Office: (254) 933-1392. As the federal ...",
+      "snippet_highlighted_words": [
+        "Central Texas's",
+        "Carter",
+        "U.S. House, TX-31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Central Texas's natural beauty. The ranch supports diverse wildlife ... Carter (U.S. House, TX-31). Bell County Office: (254) 933-1392. As the federal ...",
+          "source_info_link": "https://www.savephr.org/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.savephr.org/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.savephr.org%2F",
+      "source": "savephr.org"
+    }
+  ]
+}

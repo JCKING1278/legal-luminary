@@ -1,0 +1,399 @@
+{
+  "search_metadata": {
+    "id": "69bb5e9586e9fa5e91895309",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6NIqVE5kcVotUBvH7I4gZw/69bb5e9586e9fa5e91895309.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6NIqVE5kcVotUBvH7I4gZw/69bb5e9586e9fa5e91895309.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:25 UTC",
+    "processed_at": "2026-03-19 02:25:25 UTC",
+    "google_url": "https://www.google.com/search?q=Nina+Cobb+%22Killeen+Council+D3%22+%22Killeen%22+LinkedIn&oq=Nina+Cobb+%22Killeen+Council+D3%22+%22Killeen%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6NIqVE5kcVotUBvH7I4gZw/69bb5e9586e9fa5e91895309.html",
+    "total_time_taken": 1.72
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Nina Cobb \"Killeen Council D3\" \"Killeen\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Nina Cobb \"Killeen Council D3\" \"Killeen\" LinkedIn",
+    "total_results": 4780,
+    "time_taken_displayed": 0.69,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Nina Cobb Killeen Council D3 Killeen LinkedIn",
+    "spelling_fix": "Nina Cobb Killeen Council D3 Killeen LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Staff Directory • Nina Cobb",
+      "link": "https://www.killeentexas.gov/directory.aspx?EID=140",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.killeentexas.gov/directory.aspx%3FEID%3D140&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQFnoECB4QAQ",
+      "displayed_link": "https://www.killeentexas.gov › directory",
+      "favicon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5USQwEg7QsF9G2slUreMOmw.png",
+      "snippet": "She currently serves as Councilmember District #3 for the City of Killeen and Past Parliamentarian for the NFL's Professional Football Professional Mother's ...",
+      "snippet_highlighted_words": [
+        "currently serves as Councilmember District #3 for the City of Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "She currently serves as Councilmember District #3 for the City of Killeen and Past Parliamentarian for the NFL's Professional Football Professional Mother's ...",
+          "source_info_link": "https://www.killeentexas.gov/directory.aspx?EID=140",
+          "icon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5QVXhyjDNvL4HfxonWVwqQ_d0wkX7-g46BQB79Ex9rcy.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.killeentexas.gov/directory.aspx?EID=140&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.killeentexas.gov%2Fdirectory.aspx%3FEID%3D140",
+      "missing": [
+        "D3"
+      ],
+      "must_include": {
+        "word": "D3",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nina+Cobb+Killeen+Council+%22D3%22+Killeen+LinkedIn&sa=X&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ5t4CegQILBAB"
+      },
+      "source": "City of Killeen, TX (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "Nina Cobb - Previously held position: Killeen (Texas) City ...",
+      "link": "https://www.legistorm.com/person/bio/503517/Nina_M_Cobb.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.legistorm.com/person/bio/503517/Nina_M_Cobb.html&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQFnoECCEQAQ",
+      "displayed_link": "https://www.legistorm.com › person › bio › Nina_M_Cobb",
+      "snippet": "Employment History. Killeen (Texas) City Council (May 2023-Feb. 2026). Councilmember, District 3. HomeAbout Us About Congressional Salaries Salaries FAQ ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Employment History. Killeen (Texas) City Council (May 2023-Feb. 2026). Councilmember, District 3. HomeAbout Us About Congressional Salaries Salaries FAQ ...",
+          "source_info_link": "https://www.legistorm.com/person/bio/503517/Nina_M_Cobb.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.legistorm.com/person/bio/503517/Nina_M_Cobb.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.legistorm.com%2Fperson%2Fbio%2F503517%2FNina_M_Cobb.html",
+      "missing": [
+        "D3"
+      ],
+      "must_include": {
+        "word": "D3",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nina+Cobb+Killeen+Council+%22D3%22+Killeen+LinkedIn&sa=X&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ5t4CegQILRAB"
+      },
+      "source": "LegiStorm"
+    },
+    {
+      "position": 3,
+      "title": "Nina Cobb resigns from Killeen City Council | Local News",
+      "link": "https://kdhnews.com/news/local/nina-cobb-resigns-from-killeen-city-council/article_a2cb543d-9b60-4e4f-bdbf-eb00dc01e951.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/nina-cobb-resigns-from-killeen-city-council/article_a2cb543d-9b60-4e4f-bdbf-eb00dc01e951.html&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQFnoECDAQAQ",
+      "displayed_link": "https://kdhnews.com › news › nina-cobb-resigns-from-...",
+      "favicon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5ciXOOe4KVy5-ibpxr2w5s8.png",
+      "date": "Feb 21, 2026",
+      "snippet": "Killeen spokeswoman Torrie Bethany confirmed Cobb's resignation Saturday morning. Bethany could not confirm any specifics surrounding Cobb's ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Cobb's",
+        "Cobb's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen spokeswoman Torrie Bethany confirmed Cobb's resignation Saturday morning. Bethany could not confirm any specifics surrounding Cobb's ...",
+          "source_info_link": "https://kdhnews.com/news/local/nina-cobb-resigns-from-killeen-city-council/article_a2cb543d-9b60-4e4f-bdbf-eb00dc01e951.html",
+          "icon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5RPPpG5ZJKwtCs21XWepOCuMBLm5c1CHI-TYRhn-cMwb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/nina-cobb-resigns-from-killeen-city-council/article_a2cb543d-9b60-4e4f-bdbf-eb00dc01e951.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fnina-cobb-resigns-from-killeen-city-council%2Farticle_a2cb543d-9b60-4e4f-bdbf-eb00dc01e951.html",
+      "missing": [
+        "D3",
+        "LinkedIn"
+      ],
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 4,
+      "title": "Nina Cobb - TML City Officials Directory",
+      "link": "https://directory.tml.org/profile/individual/102398",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://directory.tml.org/profile/individual/102398&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQFnoECBwQAQ",
+      "displayed_link": "https://directory.tml.org › profile › individual",
+      "favicon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5Z2YdovKzHlJyU7PoOR3nUA.png",
+      "snippet": "Nina CobbCity of KilleenCouncilmember District 3 ; Member Type: Member Individual ; Region: 09-Heart of Texas-Waco Area ; County: Bell ; Address: PO Box 1329 ...",
+      "snippet_highlighted_words": [
+        "Nina CobbCity of KilleenCouncilmember District 3"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nina CobbCity of KilleenCouncilmember District 3 ; Member Type: Member Individual ; Region: 09-Heart of Texas-Waco Area ; County: Bell ; Address: PO Box 1329 ...",
+          "source_info_link": "https://directory.tml.org/profile/individual/102398",
+          "icon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5espoViIhlWkvKGzHWqy2pWnC_B1ZL_vTot5GJk--J40.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://directory.tml.org/profile/individual/102398&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdirectory.tml.org%2Fprofile%2Findividual%2F102398",
+      "missing": [
+        "Council",
+        "D3",
+        "LinkedIn"
+      ],
+      "source": "Texas Municipal League"
+    },
+    {
+      "position": 5,
+      "title": "Councilwoman Nina Cobb is one of four (4) women on our ...",
+      "link": "https://www.instagram.com/reel/Ca42WLaFXzA/",
+      "displayed_link": "1 like · 4 years ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5a-WaXEIL14g1VEItzsmjNY.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5fKfdpdCTn4vRECSCT5i05E.png",
+      "snippet": "Councilwoman Nina Cobb is one of four (4) women on our Killeen City Council. She shares her thoughts on Women's History Month.",
+      "duration": "0:32",
+      "about_this_result": {
+        "source": {
+          "description": "Councilwoman Nina Cobb is one of four (4) women on our Killeen City Council. She shares her thoughts on Women's History Month.",
+          "source_info_link": "https://www.instagram.com/reel/Ca42WLaFXzA/",
+          "icon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5dEX1_yVZO0YyaHtBQqLobEPAOz5d_qXCR8sTXOGpxwj.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/Ca42WLaFXzA/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FCa42WLaFXzA%2F",
+      "missing": [
+        "D3",
+        "LinkedIn"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTwfS9BYRcH3XFhZ1Dku_xIyKsLPPeiNLT2kA",
+      "source": "Instagram · cityofkilleen"
+    },
+    {
+      "position": 6,
+      "title": "Nina Cobb (Killeen City Council District 3, Texas ...",
+      "link": "https://ballotpedia.org/Nina_Cobb_(Killeen_City_Council_District_3,_Texas,_candidate_2025)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Nina_Cobb_(Killeen_City_Council_District_3,_Texas,_candidate_2025)&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQFnoECCIQAQ",
+      "displayed_link": "https://ballotpedia.org › Nina_Cobb_(Killeen_City_Coun...",
+      "favicon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5ZaZd2K-Xed3G4lrp1HcZOQ.png",
+      "snippet": "Nina Cobb ran for election to the Killeen City Council to represent District 3 in Texas. Cobb was on the ballot in the general election on May 3, 2025.",
+      "snippet_highlighted_words": [
+        "Nina Cobb ran for election to the Killeen City Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nina Cobb ran for election to the Killeen City Council to represent District 3 in Texas. Cobb was on the ballot in the general election on May 3, 2025.",
+          "source_info_link": "https://ballotpedia.org/Nina_Cobb_(Killeen_City_Council_District_3,_Texas,_candidate_2025)",
+          "icon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5Rzdpy20rjcFNCZCwCYklSZ6dqwh3w9BetT-qWDiF5ln.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Nina_Cobb_(Killeen_City_Council_District_3,_Texas,_candidate_2025)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FNina_Cobb_%28Killeen_City_Council_District_3%2C_Texas%2C_candidate_2025%29",
+      "missing": [
+        "D3",
+        "LinkedIn"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 7,
+      "title": "Board of Directors",
+      "link": "https://www.killeenedc.com/board-of-directors",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.killeenedc.com/board-of-directors&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQFnoECB0QAQ",
+      "displayed_link": "https://www.killeenedc.com › board-of-directors",
+      "favicon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5WQCvLtZ9Jyzh-AB-IhnIts.png",
+      "snippet": "Board of Directors · Kelly Brown. President · Todd Fox. Vice President · Nina Cobb. Secretary · Amy Milsap. Treasurer · Debbie Nash-King. Board Member · Anthony ...",
+      "snippet_highlighted_words": [
+        "Nina Cobb. Secretary"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Board of Directors · Kelly Brown. President · Todd Fox. Vice President · Nina Cobb. Secretary · Amy Milsap. Treasurer · Debbie Nash-King. Board Member · Anthony ...",
+          "source_info_link": "https://www.killeenedc.com/board-of-directors",
+          "icon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5elL-M151Jzqo9RVWA3D4ywrQQjw3K9tYL7EkyGXOiFg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.killeenedc.com/board-of-directors&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.killeenedc.com%2Fboard-of-directors",
+      "missing": [
+        "D3"
+      ],
+      "must_include": {
+        "word": "D3",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nina+Cobb+Killeen+Council+%22D3%22+Killeen+LinkedIn&sa=X&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ5t4CegQILxAB"
+      },
+      "source": "Killeen Economic Development Corporation"
+    },
+    {
+      "position": 8,
+      "title": "Staff Directory • City Council",
+      "link": "https://www.killeentexas.gov/Directory.aspx?did=7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.killeentexas.gov/Directory.aspx%3Fdid%3D7&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQFnoECDgQAQ",
+      "displayed_link": "https://www.killeentexas.gov › Directory",
+      "favicon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5e5yNoM5mtM5y0BPRFroCD8.png",
+      "snippet": "Cobb, Nina, Councilmember District #3, Email Nina Cobb · 254-317-1641 · Gonzalez, Jessica, Councilmember District #1, Email Jessica Gonzalez · 254-392-2719.",
+      "snippet_highlighted_words": [
+        "Cobb, Nina, Councilmember District #3"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cobb, Nina, Councilmember District #3, Email Nina Cobb · 254-317-1641 · Gonzalez, Jessica, Councilmember District #1, Email Jessica Gonzalez · 254-392-2719.",
+          "source_info_link": "https://www.killeentexas.gov/Directory.aspx?did=7",
+          "icon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5fe7eljcdcC3ITdMosEIw9uDc3vRI-z8zl4nsptMbEh2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.killeentexas.gov/Directory.aspx?did=7&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.killeentexas.gov%2FDirectory.aspx%3Fdid%3D7",
+      "missing": [
+        "D3"
+      ],
+      "must_include": {
+        "word": "D3",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nina+Cobb+Killeen+Council+%22D3%22+Killeen+LinkedIn&sa=X&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ5t4CegQIOhAB"
+      },
+      "source": "City of Killeen, TX (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "Nina Cobb resigns from Killeen City Council",
+      "link": "https://www.facebook.com/HarkerHeightsHerald/posts/the-killeen-city-council-will-soon-have-a-fifth-member-who-has-resigned-from-its/1504598101669833/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/HarkerHeightsHerald/posts/the-killeen-city-council-will-soon-have-a-fifth-member-who-has-resigned-from-its/1504598101669833/&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQFnoECEAQAQ",
+      "displayed_link": "1 reaction · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5VpXRnUcGJ5HRP2CO3UoSYU.png",
+      "snippet": "Nina Cobb resigns from Killeen City Council. KDHNEWS.COM. Nina Cobb resigns from Killeen City Council. The Killeen City Council will soon ...",
+      "snippet_highlighted_words": [
+        "Nina Cobb resigns from Killeen City Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nina Cobb resigns from Killeen City Council. KDHNEWS.COM. Nina Cobb resigns from Killeen City Council. The Killeen City Council will soon ...",
+          "source_info_link": "https://www.facebook.com/HarkerHeightsHerald/posts/the-killeen-city-council-will-soon-have-a-fifth-member-who-has-resigned-from-its/1504598101669833/",
+          "icon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5SSCqaxchSMOM1t1BQoRdT_LN9RYq03Y2UQBsmy3XCXg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/HarkerHeightsHerald/posts/the-killeen-city-council-will-soon-have-a-fifth-member-who-has-resigned-from-its/1504598101669833/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FHarkerHeightsHerald%2Fposts%2Fthe-killeen-city-council-will-soon-have-a-fifth-member-who-has-resigned-from-its%2F1504598101669833%2F",
+      "missing": [
+        "D3",
+        "LinkedIn"
+      ],
+      "source": "Facebook · Harker Heights Herald"
+    },
+    {
+      "position": 10,
+      "title": "Killeen councilman breaks his silence on recall petition ...",
+      "link": "https://kdhnews.com/centerforpolitics/killeen-councilman-breaks-his-silence-on-recall-petition-filed-against-him/article_86241076-b685-4b25-8eea-9dd4fca82e8a.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/killeen-councilman-breaks-his-silence-on-recall-petition-filed-against-him/article_86241076-b685-4b25-8eea-9dd4fca82e8a.html&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQFnoECDkQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › killeen-counci...",
+      "favicon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5bvUj9haAlIQMZRcnD-4sSM.png",
+      "date": "Nov 30, 2025",
+      "snippet": "... Nina Cobb, who was also the subject of the petition. The recall petition — filed by Killeen resident Beth Wilson — said that Solomon had ...",
+      "snippet_highlighted_words": [
+        "Nina Cobb, who was also the subject of the petition"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Nina Cobb, who was also the subject of the petition. The recall petition — filed by Killeen resident Beth Wilson — said that Solomon had ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/killeen-councilman-breaks-his-silence-on-recall-petition-filed-against-him/article_86241076-b685-4b25-8eea-9dd4fca82e8a.html",
+          "icon": "https://serpapi.com/searches/69bb5e9586e9fa5e91895309/images/swIDkLLTAsCN-rmDjLas5TpBDV-D_BJexZeprdpfdxXMfok50LZOyfwXxH9GMr-q.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/killeen-councilman-breaks-his-silence-on-recall-petition-filed-against-him/article_86241076-b685-4b25-8eea-9dd4fca82e8a.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fkilleen-councilman-breaks-his-silence-on-recall-petition-filed-against-him%2Farticle_86241076-b685-4b25-8eea-9dd4fca82e8a.html",
+      "missing": [
+        "D3",
+        "LinkedIn"
+      ],
+      "source": "The Killeen Daily Herald"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "Some results may have been delisted consistent with local laws. Learn more",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/policies/faq",
+            "text": "Learn more"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ll67ad3PIKXn0PEP06m84AU&start=10&sa=N&sstk=Af77f_eVhEW0K0JfyfVMk9HJBZ6R9QM3iWO1XptGqA7MAb6z71Lj52JvrFHpxbF8_kuGvWTRFbiL5MIk2i_1EG0mNBpSeLsnOu8Gyw&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ8NMDegQIChAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ll67ad3PIKXn0PEP06m84AU&start=10&sa=N&sstk=Af77f_eVhEW0K0JfyfVMk9HJBZ6R9QM3iWO1XptGqA7MAb6z71Lj52JvrFHpxbF8_kuGvWTRFbiL5MIk2i_1EG0mNBpSeLsnOu8Gyw&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ8tMDegQIChAG",
+      "3": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ll67ad3PIKXn0PEP06m84AU&start=20&sa=N&sstk=Af77f_eVhEW0K0JfyfVMk9HJBZ6R9QM3iWO1XptGqA7MAb6z71Lj52JvrFHpxbF8_kuGvWTRFbiL5MIk2i_1EG0mNBpSeLsnOu8Gyw&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ8tMDegQIChAI",
+      "4": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ll67ad3PIKXn0PEP06m84AU&start=30&sa=N&sstk=Af77f_eVhEW0K0JfyfVMk9HJBZ6R9QM3iWO1XptGqA7MAb6z71Lj52JvrFHpxbF8_kuGvWTRFbiL5MIk2i_1EG0mNBpSeLsnOu8Gyw&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ8tMDegQIChAK",
+      "5": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ll67ad3PIKXn0PEP06m84AU&start=40&sa=N&sstk=Af77f_eVhEW0K0JfyfVMk9HJBZ6R9QM3iWO1XptGqA7MAb6z71Lj52JvrFHpxbF8_kuGvWTRFbiL5MIk2i_1EG0mNBpSeLsnOu8Gyw&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ8tMDegQIChAM",
+      "6": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ll67ad3PIKXn0PEP06m84AU&start=50&sa=N&sstk=Af77f_eVhEW0K0JfyfVMk9HJBZ6R9QM3iWO1XptGqA7MAb6z71Lj52JvrFHpxbF8_kuGvWTRFbiL5MIk2i_1EG0mNBpSeLsnOu8Gyw&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ8tMDegQIChAO",
+      "7": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ll67ad3PIKXn0PEP06m84AU&start=60&sa=N&sstk=Af77f_eVhEW0K0JfyfVMk9HJBZ6R9QM3iWO1XptGqA7MAb6z71Lj52JvrFHpxbF8_kuGvWTRFbiL5MIk2i_1EG0mNBpSeLsnOu8Gyw&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ8tMDegQIChAQ",
+      "8": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ll67ad3PIKXn0PEP06m84AU&start=70&sa=N&sstk=Af77f_eVhEW0K0JfyfVMk9HJBZ6R9QM3iWO1XptGqA7MAb6z71Lj52JvrFHpxbF8_kuGvWTRFbiL5MIk2i_1EG0mNBpSeLsnOu8Gyw&ved=2ahUKEwjd8rHA9KqTAxWlMzQIHdMUD1wQ8tMDegQIChAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nina+Cobb+Killeen+Council+D3+Killeen+LinkedIn&start=70"
+    }
+  }
+}

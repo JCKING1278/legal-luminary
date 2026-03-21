@@ -1,0 +1,447 @@
+{
+  "search_metadata": {
+    "id": "69bb5c73ae39f34a22094b55",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7yCWwsaQGXASDCqAAw_K-Q/69bb5c73ae39f34a22094b55.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/7yCWwsaQGXASDCqAAw_K-Q/69bb5c73ae39f34a22094b55.json_with_pixel_position",
+    "created_at": "2026-03-19 02:16:19 UTC",
+    "processed_at": "2026-03-19 02:16:19 UTC",
+    "google_url": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7yCWwsaQGXASDCqAAw_K-Q/69bb5c73ae39f34a22094b55.html",
+    "total_time_taken": 1.25
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bell County Commissioner P3 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bell County Commissioner P3 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 87400,
+    "time_taken_displayed": 0.61,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "- NOMINATION TO THE NATIONAL AERONAUTICS AND ...",
+      "link": "https://www.congress.gov/115/chrg/CHRG-115shrg37226/CHRG-115shrg37226.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/115/chrg/CHRG-115shrg37226/CHRG-115shrg37226.htm&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQFnoECBkQAQ",
+      "displayed_link": "https://www.congress.gov › chrg",
+      "favicon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjryUtXopqVUs3VEr1c78_wag.png",
+      "snippet": "[Senate Hearing 115-643] [From the U.S. Government Publishing Office] S. Hrg. 115-643 NOMINATION TO THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION, ...",
+      "about_this_result": {
+        "source": {
+          "description": "[Senate Hearing 115-643] [From the U.S. Government Publishing Office] S. Hrg. 115-643 NOMINATION TO THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION, ...",
+          "source_info_link": "https://www.congress.gov/115/chrg/CHRG-115shrg37226/CHRG-115shrg37226.htm",
+          "icon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr4ceTklG9v2nbKfDOYVn10UrgOvbV0fCwEuSUho_qmvW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/115/chrg/CHRG-115shrg37226/CHRG-115shrg37226.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2F115%2Fchrg%2FCHRG-115shrg37226%2FCHRG-115shrg37226.htm",
+      "source": "Congress.gov | Library of Congress"
+    },
+    {
+      "position": 2,
+      "title": "Supreme Court of the United States",
+      "link": "https://www.supremecourt.gov/DocketPDF/25/25A914/396158/20260212171402926_Application_Appendix_Vol%209.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.supremecourt.gov/DocketPDF/25/25A914/396158/20260212171402926_Application_Appendix_Vol%25209.pdf&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQFnoECB0QAQ",
+      "displayed_link": "https://www.supremecourt.gov › DocketPDF",
+      "favicon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjrzNOkF4wkPqmyF1UfjP-xgM.png",
+      "date": "Feb 11, 2026",
+      "snippet": "analysis expert in cases unconnected to elections and voting (e.g., for automobile risk analysis), and I have been hired as a data scientist ...",
+      "snippet_highlighted_words": [
+        "analysis",
+        "cases",
+        "elections",
+        "analysis"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "analysis expert in cases unconnected to elections and voting (e.g., for automobile risk analysis), and I have been hired as a data scientist ...",
+          "source_info_link": "https://www.supremecourt.gov/DocketPDF/25/25A914/396158/20260212171402926_Application_Appendix_Vol%209.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjryg8FWbBmXc-4i32nPbBrhCJcGzRx9I_uEKC4vOfe-yH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.supremecourt.gov/DocketPDF/25/25A914/396158/20260212171402926_Application_Appendix_Vol%209.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.supremecourt.gov%2FDocketPDF%2F25%2F25A914%2F396158%2F20260212171402926_Application_Appendix_Vol%25209.pdf",
+      "source": "supremecourt.gov"
+    },
+    {
+      "position": 3,
+      "title": "WYOMING RULES OF CIVIL PROCEDURE",
+      "link": "https://www.wyocourts.gov/app/uploads/2025/01/WY_Civ_Proc_Rules_Feb26.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wyocourts.gov/app/uploads/2025/01/WY_Civ_Proc_Rules_Feb26.pdf&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQFnoECBoQAQ",
+      "displayed_link": "https://www.wyocourts.gov › uploads › 2025/01",
+      "favicon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr6zt4WCxe0svww3nLL-_LUw.png",
+      "author": "by IV Parties",
+      "snippet": "Pleadings Allowed; Form of Motions and Other Papers. 8. General Rules of Pleading. 9. Pleading Special Matters. 10. Form of Pleadings.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 220
+          },
+          "extensions": [
+            "220 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Pleadings Allowed; Form of Motions and Other Papers. 8. General Rules of Pleading. 9. Pleading Special Matters. 10. Form of Pleadings.",
+          "source_info_link": "https://www.wyocourts.gov/app/uploads/2025/01/WY_Civ_Proc_Rules_Feb26.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr_DEG6Dnv98exJlLWTcm5nxUBC12Sybama0tVxOeVGmI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.wyocourts.gov/app/uploads/2025/01/WY_Civ_Proc_Rules_Feb26.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.wyocourts.gov%2Fapp%2Fuploads%2F2025%2F01%2FWY_Civ_Proc_Rules_Feb26.pdf",
+      "source": "Wyoming Judicial Branch (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Not in My Backyard",
+      "link": "https://www.usccr.gov/files/pubs/envjust/ej0104.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usccr.gov/files/pubs/envjust/ej0104.pdf&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQFnoECDMQAQ",
+      "displayed_link": "https://www.usccr.gov › files › pubs › envjust",
+      "favicon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr5hG91_fy1CCyhXe4RobPRo.png",
+      "snippet": "Without more concerted effort on the part of federal agencies to promote and ensure environmental justice, and ap- propriate congressional action, minority and ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 194
+          },
+          "extensions": [
+            "194 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Without more concerted effort on the part of federal agencies to promote and ensure environmental justice, and ap- propriate congressional action, minority and ...",
+          "source_info_link": "https://www.usccr.gov/files/pubs/envjust/ej0104.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjrzKh89diZkViI4csuJ-WK5Bz6UcMcRYTje58F7u6hVuE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.usccr.gov/files/pubs/envjust/ej0104.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.usccr.gov%2Ffiles%2Fpubs%2Fenvjust%2Fej0104.pdf",
+      "source": "U.S. Commission on Civil Rights (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "trademark trial and appeal board manual of procedure (tbmp)",
+      "link": "https://www.uspto.gov/sites/default/files/documents/tbmp-Master-June2025.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uspto.gov/sites/default/files/documents/tbmp-Master-June2025.pdf&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQFnoECDcQAQ",
+      "displayed_link": "https://www.uspto.gov › tbmp-Master-June2025",
+      "favicon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjrwLcADF-0vyJ33ev0vCrAwM.png",
+      "date": "Jun 3, 2025",
+      "snippet": "Citation to newly added court cases is to the Federal Reporter. Citation to newly added TTAB cases is to Lexis. Proceeding numbers have been ...",
+      "snippet_highlighted_words": [
+        "cases",
+        "cases"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 1220
+          },
+          "extensions": [
+            "1,220 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Citation to newly added court cases is to the Federal Reporter. Citation to newly added TTAB cases is to Lexis. Proceeding numbers have been ...",
+          "source_info_link": "https://www.uspto.gov/sites/default/files/documents/tbmp-Master-June2025.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr-RUmIppL55Lk91iNK63Vt3cFAC1767NEdiPdf5QC4GT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.uspto.gov/sites/default/files/documents/tbmp-Master-June2025.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.uspto.gov%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2Ftbmp-Master-June2025.pdf",
+      "source": "United States Patent and Trademark Office (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "CCR Template",
+      "link": "https://www.sos.state.co.us/CCR/Upload/AGORequest/AdoptedRules02014-00893.DOC",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sos.state.co.us/CCR/Upload/AGORequest/AdoptedRules02014-00893.DOC&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQFnoECC8QAQ",
+      "displayed_link": "https://www.sos.state.co.us › Upload › AGORequest",
+      "favicon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr_4Tc_aY7pq60xWK4LtT-hU.png",
+      "snippet": "All sources of air pollutants that have previously obtained an emissions permit (prior to July 1, 1992) or a construction permit, and are subject only to the ...",
+      "about_this_result": {
+        "source": {
+          "description": "All sources of air pollutants that have previously obtained an emissions permit (prior to July 1, 1992) or a construction permit, and are subject only to the ...",
+          "source_info_link": "https://www.sos.state.co.us/CCR/Upload/AGORequest/AdoptedRules02014-00893.DOC",
+          "icon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr6C3FR67jZU0N-HchGL4jGTZ572AFX3IgU5wczGLgjHa.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sos.state.co.us/CCR/Upload/AGORequest/AdoptedRules02014-00893.DOC&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sos.state.co.us%2FCCR%2FUpload%2FAGORequest%2FAdoptedRules02014-00893.DOC",
+      "source": "Colorado Secretary of State"
+    },
+    {
+      "position": 7,
+      "title": "The C",
+      "link": "https://www.epa.gov/system/files/documents/2023-08/CO%20SIP%20Table%20C.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.epa.gov/system/files/documents/2023-08/CO%2520SIP%2520Table%2520C.pdf&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQFnoECDAQAQ",
+      "displayed_link": "https://www.epa.gov › system › files › documents",
+      "favicon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr68PGeLhlameAy6PaDbQIsk.png",
+      "snippet": "Colorado Revised Statutes Section 25-7-109 provides: As promptly as possible, the Commission shall adopt and promulgate, and from time to time modify or repeal ...",
+      "snippet_highlighted_words": [
+        "provides",
+        "Commission"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 737
+          },
+          "extensions": [
+            "737 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Colorado Revised Statutes Section 25-7-109 provides: As promptly as possible, the Commission shall adopt and promulgate, and from time to time modify or repeal ...",
+          "source_info_link": "https://www.epa.gov/system/files/documents/2023-08/CO%20SIP%20Table%20C.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr7iuk0PYlJm6yYcZe6NEpfub6WVeLHPj2tDRuMI3Vm59.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.epa.gov/system/files/documents/2023-08/CO%20SIP%20Table%20C.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.epa.gov%2Fsystem%2Ffiles%2Fdocuments%2F2023-08%2FCO%2520SIP%2520Table%2520C.pdf",
+      "source": "U.S. Environmental Protection Agency (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "California's Housing Future: Challenges and Opportunities",
+      "link": "https://www.hcd.ca.gov/policy-research/plans-reports/docs/sha_final_combined.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hcd.ca.gov/policy-research/plans-reports/docs/sha_final_combined.pdf&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQFnoECDUQAQ",
+      "displayed_link": "https://www.hcd.ca.gov › sha_final_combined",
+      "favicon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr65S0rZA9gqDyAQI4bAvQlQ.png",
+      "date": "Feb 1, 2018",
+      "snippet": "Some of the housing challenges facing California include: • Production averaged less than 80,000 new homes annually over the last 10 years, and.",
+      "snippet_highlighted_words": [
+        "challenges"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 209
+          },
+          "extensions": [
+            "209 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Some of the housing challenges facing California include: • Production averaged less than 80,000 new homes annually over the last 10 years, and.",
+          "source_info_link": "https://www.hcd.ca.gov/policy-research/plans-reports/docs/sha_final_combined.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjrzwbuNKXQ3-HdhUQI6beU06TbZ1-ItL6uxgftzZU8sAA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hcd.ca.gov/policy-research/plans-reports/docs/sha_final_combined.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hcd.ca.gov%2Fpolicy-research%2Fplans-reports%2Fdocs%2Fsha_final_combined.pdf",
+      "source": "California Department of Housing and Community Development (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "Texas Lottery Commission Staff Report with Final Results",
+      "link": "https://www.sunset.texas.gov/public/uploads/2025-07/Texas%20Lottery%20Commission%20Staff%20Report%20with%20Final%20Results_7-8-25.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunset.texas.gov/public/uploads/2025-07/Texas%2520Lottery%2520Commission%2520Staff%2520Report%2520with%2520Final%2520Results_7-8-25.pdf&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQFnoECC0QAQ",
+      "displayed_link": "https://www.sunset.texas.gov › public › uploads",
+      "favicon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr1Z5Hus-O7s3VO8ZMcF0Z6g.png",
+      "date": "Jul 2, 2025",
+      "snippet": "For each agency that undergoes a Sunset review, the Sunset Advisory Commission publishes three versions of its staff report on the agency.",
+      "snippet_highlighted_words": [
+        "Commission"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 75
+          },
+          "extensions": [
+            "75 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "For each agency that undergoes a Sunset review, the Sunset Advisory Commission publishes three versions of its staff report on the agency.",
+          "source_info_link": "https://www.sunset.texas.gov/public/uploads/2025-07/Texas%20Lottery%20Commission%20Staff%20Report%20with%20Final%20Results_7-8-25.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr1u0NiPLZsV05rtbwLr8ttcMx_cPhX-YMxFxuLrlg160.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sunset.texas.gov/public/uploads/2025-07/Texas%20Lottery%20Commission%20Staff%20Report%20with%20Final%20Results_7-8-25.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sunset.texas.gov%2Fpublic%2Fuploads%2F2025-07%2FTexas%2520Lottery%2520Commission%2520Staff%2520Report%2520with%2520Final%2520Results_7-8-25.pdf",
+      "source": "Texas Sunset Advisory Commission (.gov)"
+    },
+    {
+      "position": 10,
+      "title": "U.S. Senate: Senate Stories",
+      "link": "https://www.senate.gov/artandhistory/senate-stories/menu.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.senate.gov/artandhistory/senate-stories/menu.htm&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQFnoECDIQAQ",
+      "displayed_link": "https://www.senate.gov › senate-stories › menu",
+      "favicon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr7OInqPsJdDa1cQng4fEXdM.png",
+      "snippet": "In May 1974, Pulitzer Prize-winning biographer and political historian Arthur Schlesinger, Jr., wrote a letter to Senate Majority Leader Mike Mansfield ...",
+      "about_this_result": {
+        "source": {
+          "description": "In May 1974, Pulitzer Prize-winning biographer and political historian Arthur Schlesinger, Jr., wrote a letter to Senate Majority Leader Mike Mansfield ...",
+          "source_info_link": "https://www.senate.gov/artandhistory/senate-stories/menu.htm",
+          "icon": "https://serpapi.com/searches/69bb5c73ae39f34a22094b55/images/iD7MfNmAj79ronzU2fEjr7N7ROJ7VHWkA7YQfwBjIByEawTPo9FmMNofNnfALlLT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.senate.gov/artandhistory/senate-stories/menu.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.senate.gov%2Fartandhistory%2Fsenate-stories%2Fmenu.htm",
+      "source": "U.S. Senate (.gov)"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Wyoming Rules of Civil Procedure",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Wyoming+Rules+of+Civil+Procedure&sa=X&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ1QJ6BAgoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Wyoming+Rules+of+Civil+Procedure"
+    },
+    {
+      "block_position": 1,
+      "query": "Wyoming Rules of Civil Procedure Rule 4",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Wyoming+Rules+of+Civil+Procedure+Rule+4&sa=X&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ1QJ6BAgqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Wyoming+Rules+of+Civil+Procedure+Rule+4"
+    },
+    {
+      "block_position": 1,
+      "query": "Ttab cases",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Ttab+cases&sa=X&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ttab+cases"
+    },
+    {
+      "block_position": 1,
+      "query": "Uspto notice of opposition",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Uspto+notice+of+opposition&sa=X&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Uspto+notice+of+opposition"
+    },
+    {
+      "block_position": 1,
+      "query": "Wyoming statute of limitations",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Wyoming+statute+of+limitations&sa=X&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Wyoming+statute+of+limitations"
+    },
+    {
+      "block_position": 1,
+      "query": "Wyoming family law",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Wyoming+family+law&sa=X&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ1QJ6BAgsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Wyoming+family+law"
+    },
+    {
+      "block_position": 1,
+      "query": "W.S. 1 3 105",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=W.S.+1+3+105&sa=X&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ1QJ6BAgrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=W.S.+1+3+105"
+    },
+    {
+      "block_position": 1,
+      "query": "Wyoming Rules of Civil Procedure 26",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Wyoming+Rules+of+Civil+Procedure+26&sa=X&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ1QJ6BAgpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Wyoming+Rules+of+Civil+Procedure+26"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=dFy7ab3BCqmv5NoPhaLeuQs&start=10&sa=N&sstk=Af77f_fdR2b8OcAmNpJjIeAIi17D0np_By9gP1p-mOqodckuJWVD3Tnm2qiOBocpBP_lO0WFOkSkYL5LddO-hfDTv0m32PBMGfS0NA&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=dFy7ab3BCqmv5NoPhaLeuQs&start=10&sa=N&sstk=Af77f_fdR2b8OcAmNpJjIeAIi17D0np_By9gP1p-mOqodckuJWVD3Tnm2qiOBocpBP_lO0WFOkSkYL5LddO-hfDTv0m32PBMGfS0NA&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=dFy7ab3BCqmv5NoPhaLeuQs&start=20&sa=N&sstk=Af77f_fdR2b8OcAmNpJjIeAIi17D0np_By9gP1p-mOqodckuJWVD3Tnm2qiOBocpBP_lO0WFOkSkYL5LddO-hfDTv0m32PBMGfS0NA&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=dFy7ab3BCqmv5NoPhaLeuQs&start=30&sa=N&sstk=Af77f_fdR2b8OcAmNpJjIeAIi17D0np_By9gP1p-mOqodckuJWVD3Tnm2qiOBocpBP_lO0WFOkSkYL5LddO-hfDTv0m32PBMGfS0NA&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=dFy7ab3BCqmv5NoPhaLeuQs&start=40&sa=N&sstk=Af77f_fdR2b8OcAmNpJjIeAIi17D0np_By9gP1p-mOqodckuJWVD3Tnm2qiOBocpBP_lO0WFOkSkYL5LddO-hfDTv0m32PBMGfS0NA&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=dFy7ab3BCqmv5NoPhaLeuQs&start=50&sa=N&sstk=Af77f_fdR2b8OcAmNpJjIeAIi17D0np_By9gP1p-mOqodckuJWVD3Tnm2qiOBocpBP_lO0WFOkSkYL5LddO-hfDTv0m32PBMGfS0NA&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=dFy7ab3BCqmv5NoPhaLeuQs&start=60&sa=N&sstk=Af77f_fdR2b8OcAmNpJjIeAIi17D0np_By9gP1p-mOqodckuJWVD3Tnm2qiOBocpBP_lO0WFOkSkYL5LddO-hfDTv0m32PBMGfS0NA&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=dFy7ab3BCqmv5NoPhaLeuQs&start=70&sa=N&sstk=Af77f_fdR2b8OcAmNpJjIeAIi17D0np_By9gP1p-mOqodckuJWVD3Tnm2qiOBocpBP_lO0WFOkSkYL5LddO-hfDTv0m32PBMGfS0NA&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=dFy7ab3BCqmv5NoPhaLeuQs&start=80&sa=N&sstk=Af77f_fdR2b8OcAmNpJjIeAIi17D0np_By9gP1p-mOqodckuJWVD3Tnm2qiOBocpBP_lO0WFOkSkYL5LddO-hfDTv0m32PBMGfS0NA&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=dFy7ab3BCqmv5NoPhaLeuQs&start=90&sa=N&sstk=Af77f_fdR2b8OcAmNpJjIeAIi17D0np_By9gP1p-mOqodckuJWVD3Tnm2qiOBocpBP_lO0WFOkSkYL5LddO-hfDTv0m32PBMGfS0NA&ved=2ahUKEwi9y-678qqTAxWpF1kFHQWRN7cQ8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "search_metadata": {
+    "id": "69bb5d11079a2bc85edf5a26",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/EVxGyYVbXPfiwrdM9o9ykQ/69bb5d11079a2bc85edf5a26.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/EVxGyYVbXPfiwrdM9o9ykQ/69bb5d11079a2bc85edf5a26.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:57 UTC",
+    "processed_at": "2026-03-19 02:18:57 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Gregory+James+Stoker+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Gregory+James+Stoker+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/EVxGyYVbXPfiwrdM9o9ykQ/69bb5d11079a2bc85edf5a26.html",
+    "total_time_taken": 3.86
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Gregory James Stoker for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Gregory James Stoker for US House TX-31? Include who that supporter works for.",
+    "total_results": 48200,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "MXYJOnicxZRbb-o4EIDf938sLzkl4VLaVIqOYuOUlLYQroUXZBLHhCSYEwfS9G3_y_6q_TXrhEsDhaM9K612hHwZj2fGk4_548_AW_l__dZfxPGaP8hykiRlyhgNSNlmoYx5urJllwU8shff061WK9lcU0rE0wyjeoen2_glGt8rXdSNzdCt6sNSfkWbzTEnS-HxfcnlmSwG__daU2zKvExW5U7q1lltslSRXq4qFbXckXEoDPT_SJDeEyMwxUIIPT2EuQpdv22h_PSpoNq5AAXNZKekFOlWtjcuJ4Lym30o7nbB9iZ5wdeimqcp8TwTSF-yuJbuXfR-QXd4rLF76GWxvsQ-PK75WSygXxXTPJyK1CDUW0kh1t4F3Qep688QHt0BcQy7oAZNdt29uDmiLbS4sS6_8Sgjs_eaOBPxaNmhgidFnkdiqsievbDzRcQzzOBAVVjrFa_wbdRcT5K79t3EMIeDVYfMBnY8pLI9F3YBww5xZouZ8i0H2uZHonmR6HtqDFoMpSSl5ecyqBRwzipJTwtvCeV5wa_L9Y-mt_OR6o-93byTbrYAw4PRvQ6oDtHnx0N7n19xzsU8UVK6O4PZlp6ZZr78_erg3z7JkB6PEt2k4KBDaFK0AkWvCCEoFNbLbpucmJkiIZivDJhl2jzNBpwYW0jU2fp8UzY2_aOxnhVGTLRJ4EtmBkVFYGaUbQDMiwosdA4-oMVawjrc4fzrAr7-787E0g_8nuFYxPjRoDd4PPT7ijeNHMf3dEeNeTBd9rrJHlsWzn-hE9v_H9j7Pt3O_-WUfgWb_gxsC8Gf9Ok92J99Om9I0LgMNspBKfRpcpJoAWzT9ItgX-3TBbCzLH8Cdvsq2NYFsME52OA62FmfPoINITjr03mYvCwFsP9Vn7b-eZ_O-Sa76bRpb5b0avNGYxfavrLsVQfu9onjysQNbz82Y7-XJl-btxvGD9gJvs085wFUn-LUKf3QxgsmeVyKF0QKcEQJjyWHrVgkiZ_rrfDK9nAg8c16zaKYCLUrPUaEsiiVnnBIuNSPmS_0rrAf9qUW23AiDd5uapXvkrmyg41DpETEiBc4LrhJWOTz7FK5FAYR0xTcoG1W7awrS7V1uxiS-eP75HWDK3yj1FEN9vxx2lJctet-bBVSX1YGjh71ph-N8KndIf7b7LadPlts8WNct_3Uc9aNQe2tiedUnT1jgFK18e6NrOW4G4KpUZ8ai-UoaI1Yc_ThJ34_DjohDjuBg5Ukz4drjbu3xq3eJZOJXwojWxMQ1Kn-auljmrX3ErfxjPCtZldtrJK7inqv1FTi1kohjdO1piolvoq0yt-Qcvzm",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MXYJOnicxZRbb-o4EIDf938sLzkl4VLaVIqOYuOUlLYQroUXZBLHhCSYEwfS9G3_y_6q_TXrhEsDhaM9K612hHwZj2fGk4_548_AW_l__dZfxPGaP8hykiRlyhgNSNlmoYx5urJllwU8shff061WK9lcU0rE0wyjeoen2_glGt8rXdSNzdCt6sNSfkWbzTEnS-HxfcnlmSwG__daU2zKvExW5U7q1lltslSRXq4qFbXckXEoDPT_SJDeEyMwxUIIPT2EuQpdv22h_PSpoNq5AAXNZKekFOlWtjcuJ4Lym30o7nbB9iZ5wdeimqcp8TwTSF-yuJbuXfR-QXd4rLF76GWxvsQ-PK75WSygXxXTPJyK1CDUW0kh1t4F3Qep688QHt0BcQy7oAZNdt29uDmiLbS4sS6_8Sgjs_eaOBPxaNmhgidFnkdiqsievbDzRcQzzOBAVVjrFa_wbdRcT5K79t3EMIeDVYfMBnY8pLI9F3YBww5xZouZ8i0H2uZHonmR6HtqDFoMpSSl5ecyqBRwzipJTwtvCeV5wa_L9Y-mt_OR6o-93byTbrYAw4PRvQ6oDtHnx0N7n19xzsU8UVK6O4PZlp6ZZr78_erg3z7JkB6PEt2k4KBDaFK0AkWvCCEoFNbLbpucmJkiIZivDJhl2jzNBpwYW0jU2fp8UzY2_aOxnhVGTLRJ4EtmBkVFYGaUbQDMiwosdA4-oMVawjrc4fzrAr7-787E0g_8nuFYxPjRoDd4PPT7ijeNHMf3dEeNeTBd9rrJHlsWzn-hE9v_H9j7Pt3O_-WUfgWb_gxsC8Gf9Ok92J99Om9I0LgMNspBKfRpcpJoAWzT9ItgX-3TBbCzLH8Cdvsq2NYFsME52OA62FmfPoINITjr03mYvCwFsP9Vn7b-eZ_O-Sa76bRpb5b0avNGYxfavrLsVQfu9onjysQNbz82Y7-XJl-btxvGD9gJvs085wFUn-LUKf3QxgsmeVyKF0QKcEQJjyWHrVgkiZ_rrfDK9nAg8c16zaKYCLUrPUaEsiiVnnBIuNSPmS_0rrAf9qUW23AiDd5uapXvkrmyg41DpETEiBc4LrhJWOTz7FK5FAYR0xTcoG1W7awrS7V1uxiS-eP75HWDK3yj1FEN9vxx2lJctet-bBVSX1YGjh71ph-N8KndIf7b7LadPlts8WNct_3Uc9aNQe2tiedUnT1jgFK18e6NrOW4G4KpUZ8ai-UoaI1Yc_ThJ34_DjohDjuBg5Ukz4drjbu3xq3eJZOJXwojWxMQ1Kn-auljmrX3ErfxjPCtZldtrJK7inqv1FTi1kohjdO1piolvoq0yt-Qcvzm"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "# Greg Stoker for Texas, district 31. # A former U.S. Army ...",
+      "link": "https://www.facebook.com/groups/powertothepeeps/posts/1840505399953864/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/powertothepeeps/posts/1840505399953864/&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQFnoECCoQAQ",
+      "displayed_link": "1 comment · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiubsAeAPYI2_Np3IwK0EZ6x0.png",
+      "snippet": "Greg Stoker for Texas, district 31. # A former U.S. Army Ranger and neighbor who refuses corporate and foreign-influenced money. #VoteGreen.",
+      "snippet_highlighted_words": [
+        "Greg Stoker",
+        "Texas",
+        "31",
+        "U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Greg Stoker for Texas, district 31. # A former U.S. Army Ranger and neighbor who refuses corporate and foreign-influenced money. #VoteGreen.",
+          "source_info_link": "https://www.facebook.com/groups/powertothepeeps/posts/1840505399953864/",
+          "icon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuSt9nrL_H33nuDp73hRGDBZmXbkrl3v9SQN75VxVhT30.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/powertothepeeps/posts/1840505399953864/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fpowertothepeeps%2Fposts%2F1840505399953864%2F",
+      "source": "Facebook · Power To The People"
+    },
+    {
+      "position": 2,
+      "title": "Greg Stoker for Congress",
+      "link": "https://www.zeffy.com/en-US/donation-form/greg-stoker-for-texas--31",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zeffy.com/en-US/donation-form/greg-stoker-for-texas--31&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQFnoECB8QAQ",
+      "displayed_link": "https://www.zeffy.com › greg-stoker-for-texas--31",
+      "favicon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuSJpmZk2vr8R4-4IbRXA4Fc.png",
+      "snippet": "To minimize processing fees, we encourage donors contributing $1,000 or more to use Zeffy. For smaller amounts, you're welcome to donate securely through our ...",
+      "snippet_highlighted_words": [
+        "donors"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "To minimize processing fees, we encourage donors contributing $1,000 or more to use Zeffy. For smaller amounts, you're welcome to donate securely through our ...",
+          "source_info_link": "https://www.zeffy.com/en-US/donation-form/greg-stoker-for-texas--31",
+          "icon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiufZl_dNZqtpWdao-qLyvchtgGPJ0j9zEW0KOS58kwFQa.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.zeffy.com/en-US/donation-form/greg-stoker-for-texas--31&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.zeffy.com%2Fen-US%2Fdonation-form%2Fgreg-stoker-for-texas--31",
+      "missing": [
+        "financial",
+        "Include"
+      ],
+      "source": "Zeffy"
+    },
+    {
+      "position": 3,
+      "title": "Stoker for TX-31 | Home",
+      "link": "https://www.stokerfortexas.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stokerfortexas.com/&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQFnoECBwQAQ",
+      "displayed_link": "https://www.stokerfortexas.com",
+      "favicon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiufFJBfslwjf8df2jtP8MtjU.png",
+      "snippet": "A former U.S. Army Ranger and neighbor who refuses corporate and foreign-influenced money. Stoker in action. DONATE VOLUNTEER. Greg Stoker ...",
+      "snippet_highlighted_words": [
+        "U.S.",
+        "Greg Stoker"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A former U.S. Army Ranger and neighbor who refuses corporate and foreign-influenced money. Stoker in action. DONATE VOLUNTEER. Greg Stoker\n ...",
+          "source_info_link": "https://www.stokerfortexas.com/",
+          "icon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuevU9rgkTYFfwShaGqORFZfFt-p7IT-dJH21uj5ohFdz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.stokerfortexas.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.stokerfortexas.com%2F",
+      "missing": [
+        "largest",
+        "donor",
+        "financial",
+        "Include",
+        "supporter"
+      ],
+      "source": "stokerfortexas.com"
+    },
+    {
+      "position": 4,
+      "title": "Greg Stoker is running for Congress, and his opponent ...",
+      "link": "https://www.reddit.com/r/behindthebastards/comments/1rkzajd/greg_stoker_is_running_for_congress_and_his/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/behindthebastards/comments/1rkzajd/greg_stoker_is_running_for_congress_and_his/&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQFnoECCcQAQ",
+      "displayed_link": "10+ comments · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuZr0nAY8ocu60jPQXbaaYBc.png",
+      "snippet": "89 votes, 19 comments. Congressman John Carter secured the Republican nomination for TX 31. Carter, 85, has been the district's Rep since ...",
+      "snippet_highlighted_words": [
+        "TX 31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "89 votes, 19 comments. Congressman John Carter secured the Republican nomination for TX 31. Carter, 85, has been the district's Rep since ...",
+          "source_info_link": "https://www.reddit.com/r/behindthebastards/comments/1rkzajd/greg_stoker_is_running_for_congress_and_his/",
+          "icon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuSH7MBuAEIkOlxU6XDihTUCvgRW-9FAVPRmYSliryrkN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/behindthebastards/comments/1rkzajd/greg_stoker_is_running_for_congress_and_his/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbehindthebastards%2Fcomments%2F1rkzajd%2Fgreg_stoker_is_running_for_congress_and_his%2F",
+      "missing": [
+        "donor",
+        "financial",
+        "supporter"
+      ],
+      "source": "Reddit · r/behindthebastards"
+    },
+    {
+      "position": 5,
+      "title": "My dude Greg Stoker is running for Congress. You may ...",
+      "link": "https://www.facebook.com/jomanmusic/posts/my-dude-greg-stoker-is-running-for-congress-you-may-recognize-his-name-through-h/1480229923669646/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jomanmusic/posts/my-dude-greg-stoker-is-running-for-congress-you-may-recognize-his-name-through-h/1480229923669646/&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQFnoECCQQAQ",
+      "displayed_link": "170+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuXjcLWEOhHkcnihvNw8GJJU.png",
+      "snippet": "My dude Greg Stoker is running for Congress. You may recognize his name through his activism and advocacy. Support his candidacy in any way ...",
+      "snippet_highlighted_words": [
+        "Greg Stoker",
+        "Congress",
+        "Support"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "My dude Greg Stoker is running for Congress. You may recognize his name through his activism and advocacy. Support his candidacy in any way ...",
+          "source_info_link": "https://www.facebook.com/jomanmusic/posts/my-dude-greg-stoker-is-running-for-congress-you-may-recognize-his-name-through-h/1480229923669646/",
+          "icon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiufJNvyvUHxr7bNEOAPjJ2s28YPhXEB6G0gNTcDjSwfLc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jomanmusic/posts/my-dude-greg-stoker-is-running-for-congress-you-may-recognize-his-name-through-h/1480229923669646/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjomanmusic%2Fposts%2Fmy-dude-greg-stoker-is-running-for-congress-you-may-recognize-his-name-through-h%2F1480229923669646%2F",
+      "source": "Facebook · Joman"
+    },
+    {
+      "position": 6,
+      "title": "Texas' 31st Congressional District election, 2026",
+      "link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Texas%2527_31st_Congressional_District_election,_2026&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQFnoECDQQAQ",
+      "displayed_link": "https://ballotpedia.org › ...",
+      "favicon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuVMdIkikYriRSOKwrg2X5mQ.png",
+      "snippet": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+      "snippet_highlighted_words": [
+        "U.S. House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+          "source_info_link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026",
+          "icon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuUa4s3EoXMksBKOAl1ncaV3hflGq4wn5iZBg07Svcrd7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FTexas%2527_31st_Congressional_District_election%2C_2026",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 7,
+      "title": "STOKER, GREGORY JAMES - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H6TX31169/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H6TX31169/&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQFnoECDUQAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H6TX31169",
+      "favicon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuWoNDKwBgMdN8SH1Za2Co_I.png",
+      "snippet": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+      "snippet_highlighted_words": [
+        "finance"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+          "source_info_link": "https://www.fec.gov/data/candidate/H6TX31169/",
+          "icon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuTXF52lzYgrxXMcBM7YwD1y6mdQkkPCPIOkuv46KdLVv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H6TX31169/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH6TX31169%2F",
+      "source": "FEC.gov"
+    },
+    {
+      "position": 8,
+      "title": "🎉 ENDORSEMENT ALERT! 🎉 We are ...",
+      "link": "https://www.instagram.com/p/DU9AYUUAWN8/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DU9AYUUAWN8/&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQFnoECDwQAQ",
+      "displayed_link": "3.2K+ likes · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuRk5w9RC60hErffMTHktgQM.png",
+      "snippet": "I want to commend my friend Greg, who came with the large flotilla to support Gaza. He has always stood with the oppressed against genocide.",
+      "snippet_highlighted_words": [
+        "Greg",
+        "large",
+        "support"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I want to commend my friend Greg, who came with the large flotilla to support Gaza. He has always stood with the oppressed against genocide.",
+          "source_info_link": "https://www.instagram.com/p/DU9AYUUAWN8/",
+          "icon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuX_1DbD2jwJGATc8DgK13flFxE_MGTX7iO6mtqr4T99F.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DU9AYUUAWN8/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDU9AYUUAWN8%2F",
+      "missing": [
+        "Include"
+      ],
+      "must_include": {
+        "word": "Include",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+Gregory+James+Stoker+for+US+House+TX-31?+%22Include%22+who+that+supporter+works+for.&sa=X&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQ5t4CegQIRBAB"
+      },
+      "source": "Instagram · trackaipac"
+    },
+    {
+      "position": 9,
+      "title": "Pro-Palestinian activist, veteran Greg Stoker running ...",
+      "link": "https://www.sacurrent.com/news/texas-news/pro-palestinian-activist-veteran-greg-stoker-running-against-shamwow-guy-for-congress-in-austin/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sacurrent.com/news/texas-news/pro-palestinian-activist-veteran-greg-stoker-running-against-shamwow-guy-for-congress-in-austin/&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQFnoECDsQAQ",
+      "displayed_link": "https://www.sacurrent.com › Archives",
+      "favicon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuVHeVQv1MARSu6BkSZ48TFs.png",
+      "date": "Jan 15, 2026",
+      "snippet": "Anti-war activist and two-time combat veteran Greg Stoker is running as a Green Party candidate in Texas' 31st Congressional District.",
+      "snippet_highlighted_words": [
+        "Greg Stoker",
+        "Texas",
+        "31st"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Anti-war activist and two-time combat veteran Greg Stoker is running as a Green Party candidate in Texas' 31st Congressional District.",
+          "source_info_link": "https://www.sacurrent.com/news/texas-news/pro-palestinian-activist-veteran-greg-stoker-running-against-shamwow-guy-for-congress-in-austin/",
+          "icon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuUpfWwb3DjCesEtgI9MntqMAPyWK6QR9JYi__XNlEkha.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sacurrent.com/news/texas-news/pro-palestinian-activist-veteran-greg-stoker-running-against-shamwow-guy-for-congress-in-austin/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sacurrent.com%2Fnews%2Ftexas-news%2Fpro-palestinian-activist-veteran-greg-stoker-running-against-shamwow-guy-for-congress-in-austin%2F",
+      "missing": [
+        "donor",
+        "financial"
+      ],
+      "source": "San Antonio Current"
+    },
+    {
+      "position": 10,
+      "title": "Veteran Anti-War Activist Greg Stoker Running For ...",
+      "link": "https://www.gp.org/veteran_anti_war_activist_greg_stoker_running_for_congress_in_texas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gp.org/veteran_anti_war_activist_greg_stoker_running_for_congress_in_texas&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQFnoECDcQAQ",
+      "displayed_link": "https://www.gp.org › veteran_anti_war_activist_greg_st...",
+      "favicon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuXE9YVO9MA1qWl67scxZqq4.png",
+      "date": "Jan 29, 2026",
+      "snippet": "\"Texas is not a blue state. Texas is not a red state. Texas is a non-voting state,\" he said. \"Because really, what does historically our ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Texas",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "\"Texas is not a blue state. Texas is not a red state. Texas is a non-voting state,\" he said. \"Because really, what does historically our ...",
+          "source_info_link": "https://www.gp.org/veteran_anti_war_activist_greg_stoker_running_for_congress_in_texas",
+          "icon": "https://serpapi.com/searches/69bb5d11079a2bc85edf5a26/images/t8YEiWvh7y4evLUb48NiuSwPuTbXFQfQpSMh2sBv2vwUXTINX0_WAtO8snMc6jwg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gp.org/veteran_anti_war_activist_greg_stoker_running_for_congress_in_texas&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gp.org%2Fveteran_anti_war_activist_greg_stoker_running_for_congress_in_texas",
+      "missing": [
+        "donor",
+        "financial"
+      ],
+      "source": "www.gp.org"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "Some results may have been delisted consistent with local laws. Learn more",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/policies/faq",
+            "text": "Learn more"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Gregory+James+Stoker+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=FF27aZvtMrW80PEPtImf2AU&start=10&sa=N&sstk=Af77f_ecTt3jYJek6hitYyZkfn7lE2neEpzgEcFsCBAkmx9iBCZV4BmiP_WQOyJ2R5EXcYu51pi8CerzLfDbaHmGD73cyqMTF7jA9Q&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQ8NMDegQIERAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Gregory+James+Stoker+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=FF27aZvtMrW80PEPtImf2AU&start=10&sa=N&sstk=Af77f_ecTt3jYJek6hitYyZkfn7lE2neEpzgEcFsCBAkmx9iBCZV4BmiP_WQOyJ2R5EXcYu51pi8CerzLfDbaHmGD73cyqMTF7jA9Q&ved=2ahUKEwibx7yI86qTAxU1HjQIHbTEB1sQ8tMDegQIERAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Gregory+James+Stoker+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Gregory+James+Stoker+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Gregory+James+Stoker+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10"
+    }
+  }
+}

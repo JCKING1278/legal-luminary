@@ -1,0 +1,284 @@
+{
+  "name": "pydocstyle",
+  "version": "6.3.0",
+  "build": "py311hca03da5_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "pydocstyle-6.3.0-py311hca03da5_1.conda",
+  "md5": "2eb4447a093a910ab8808336ae9b41e3",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/pydocstyle-6.3.0-py311hca03da5_1.conda",
+  "sha256": "9df13a0abad733b599dd5d0ac861b77d41cceba22533215f4f5e88983b53927c",
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "snowballstemmer >=2.2.0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1767955805000,
+  "size": 91382,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/pydocstyle-6.3.0-py311hca03da5_1.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/pydocstyle-6.3.0-py311hca03da5_1",
+  "files": [
+    "bin/pydocstyle",
+    "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/entry_points.txt",
+    "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/licenses/LICENSE-MIT",
+    "lib/python3.11/site-packages/pydocstyle/__init__.py",
+    "lib/python3.11/site-packages/pydocstyle/__main__.py",
+    "lib/python3.11/site-packages/pydocstyle/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/pydocstyle/__pycache__/__main__.cpython-311.pyc",
+    "lib/python3.11/site-packages/pydocstyle/__pycache__/_version.cpython-311.pyc",
+    "lib/python3.11/site-packages/pydocstyle/__pycache__/checker.cpython-311.pyc",
+    "lib/python3.11/site-packages/pydocstyle/__pycache__/cli.cpython-311.pyc",
+    "lib/python3.11/site-packages/pydocstyle/__pycache__/config.cpython-311.pyc",
+    "lib/python3.11/site-packages/pydocstyle/__pycache__/parser.cpython-311.pyc",
+    "lib/python3.11/site-packages/pydocstyle/__pycache__/utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/pydocstyle/__pycache__/violations.cpython-311.pyc",
+    "lib/python3.11/site-packages/pydocstyle/__pycache__/wordlists.cpython-311.pyc",
+    "lib/python3.11/site-packages/pydocstyle/_version.py",
+    "lib/python3.11/site-packages/pydocstyle/checker.py",
+    "lib/python3.11/site-packages/pydocstyle/cli.py",
+    "lib/python3.11/site-packages/pydocstyle/config.py",
+    "lib/python3.11/site-packages/pydocstyle/data/imperatives.txt",
+    "lib/python3.11/site-packages/pydocstyle/data/imperatives_blacklist.txt",
+    "lib/python3.11/site-packages/pydocstyle/parser.py",
+    "lib/python3.11/site-packages/pydocstyle/utils.py",
+    "lib/python3.11/site-packages/pydocstyle/violations.py",
+    "lib/python3.11/site-packages/pydocstyle/wordlists.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "bin/pydocstyle",
+        "prefix_placeholder": "/Users/ec2-user/croot/pydocstyle_1767955783453/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "0885d27136d8bcd1895681970db2d1dcb954ad8e21fa251438867edccef5aefe",
+        "size_in_bytes": 467,
+        "sha256_in_prefix": "3853e3a1ef64bd1e519db84aaf483005b51022dfba3506ce561955e4c68a50a4"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "612f9bb15a809f849016086a0506b4b589ab80516cb1f55977415bd92a480a88",
+        "size_in_bytes": 3865,
+        "sha256_in_prefix": "612f9bb15a809f849016086a0506b4b589ab80516cb1f55977415bd92a480a88"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2e7b000905067cdff4e2f3054c75dc4cf8056b93e295d0d4b085d4583d57fbdf",
+        "size_in_bytes": 2261,
+        "sha256_in_prefix": "2e7b000905067cdff4e2f3054c75dc4cf8056b93e295d0d4b085d4583d57fbdf"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ce9d029fb26c1685f6013b4e86d685608884dab985003e0e70c86d5248bc5b75",
+        "size_in_bytes": 88,
+        "sha256_in_prefix": "ce9d029fb26c1685f6013b4e86d685608884dab985003e0e70c86d5248bc5b75"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7d2684595b33e2cee15ac904a53895020fc3381eb71ebc01f97364b61c48f139",
+        "size_in_bytes": 85,
+        "sha256_in_prefix": "7d2684595b33e2cee15ac904a53895020fc3381eb71ebc01f97364b61c48f139"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "c4331b75aca7e8c60ce748aa1fa43baeccf51964df2aa0f42cfe165205abbf1f",
+        "size_in_bytes": 50,
+        "sha256_in_prefix": "c4331b75aca7e8c60ce748aa1fa43baeccf51964df2aa0f42cfe165205abbf1f"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle-6.3.0.dist-info/licenses/LICENSE-MIT",
+        "path_type": "hardlink",
+        "sha256": "2449878c93af4d10bbdb6618ac26d18877e0b893ecff597532b3867c4458aa93",
+        "size_in_bytes": 1210,
+        "sha256_in_prefix": "2449878c93af4d10bbdb6618ac26d18877e0b893ecff597532b3867c4458aa93"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "521dac54c717c81c9c0b67cf09eca74fd3bafea2c1388369d66cde79b1b86fc6",
+        "size_in_bytes": 194,
+        "sha256_in_prefix": "521dac54c717c81c9c0b67cf09eca74fd3bafea2c1388369d66cde79b1b86fc6"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "1c04efcf230b39c4e0b6799aa5cb343d851a506069b9e3d38f76005b6fa97c94",
+        "size_in_bytes": 288,
+        "sha256_in_prefix": "1c04efcf230b39c4e0b6799aa5cb343d851a506069b9e3d38f76005b6fa97c94"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4dceb69ff95a4893086d52aeb47a908f9e744d5d208caa02f934a1470b4c49a7",
+        "size_in_bytes": 446,
+        "sha256_in_prefix": "4dceb69ff95a4893086d52aeb47a908f9e744d5d208caa02f934a1470b4c49a7"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "772b5d95c6de44662821fbdaf8da7e6a73b6a0204b5abe5e7560584faa638b86",
+        "size_in_bytes": 673,
+        "sha256_in_prefix": "772b5d95c6de44662821fbdaf8da7e6a73b6a0204b5abe5e7560584faa638b86"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__pycache__/_version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "75efe37f28574e2fa906ff1b7aa0d4ca6c60ac33d41a7a429afecbf3d2fcb243",
+        "size_in_bytes": 588,
+        "sha256_in_prefix": "75efe37f28574e2fa906ff1b7aa0d4ca6c60ac33d41a7a429afecbf3d2fcb243"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__pycache__/checker.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5684ad4784be8cf58ea1c036c3476ebbaa76f5f65a6a8d539983aba963ed8300",
+        "size_in_bytes": 56912,
+        "sha256_in_prefix": "5684ad4784be8cf58ea1c036c3476ebbaa76f5f65a6a8d539983aba963ed8300"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__pycache__/cli.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ab5ecf4d66cecceeb44044dab43cd6dee87de0c274e0507cb483e6f004f698fc",
+        "size_in_bytes": 5275,
+        "sha256_in_prefix": "ab5ecf4d66cecceeb44044dab43cd6dee87de0c274e0507cb483e6f004f698fc"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__pycache__/config.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "02a3126070b3fd5b798045de75ad297685eee20f662466ed188fba483a937c72",
+        "size_in_bytes": 39700,
+        "sha256_in_prefix": "02a3126070b3fd5b798045de75ad297685eee20f662466ed188fba483a937c72"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__pycache__/parser.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4bb96e26019950b853fa470f23e7bb3e87e47e6882c0ef4d535e43e519d5bcd2",
+        "size_in_bytes": 44952,
+        "sha256_in_prefix": "4bb96e26019950b853fa470f23e7bb3e87e47e6882c0ef4d535e43e519d5bcd2"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d81e3b93087d400e14bf743a7eefaf47b17276dbba83946ea81789924d816bed",
+        "size_in_bytes": 2332,
+        "sha256_in_prefix": "d81e3b93087d400e14bf743a7eefaf47b17276dbba83946ea81789924d816bed"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__pycache__/violations.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "87cc19391a52876c4018bc3fc1f74a2ec56fb0a5f7cd10306b6eb847fad04843",
+        "size_in_bytes": 17827,
+        "sha256_in_prefix": "87cc19391a52876c4018bc3fc1f74a2ec56fb0a5f7cd10306b6eb847fad04843"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/__pycache__/wordlists.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "501a8124bbc2b5fa7b9fcb4bdbe2a9a461b2aef56942ae9cdf1fbcb65584ec11",
+        "size_in_bytes": 2395,
+        "sha256_in_prefix": "501a8124bbc2b5fa7b9fcb4bdbe2a9a461b2aef56942ae9cdf1fbcb65584ec11"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/_version.py",
+        "path_type": "hardlink",
+        "sha256": "a3708fd51253bad0ba911004abb529bf1b2df20032a80c7e94315ee2a5000f2e",
+        "size_in_bytes": 400,
+        "sha256_in_prefix": "a3708fd51253bad0ba911004abb529bf1b2df20032a80c7e94315ee2a5000f2e"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/checker.py",
+        "path_type": "hardlink",
+        "sha256": "b49e7b5e9cbe6b02246ff5e6b6154a6851772abbe6870305ad715af9bb2f1bfe",
+        "size_in_bytes": 44884,
+        "sha256_in_prefix": "b49e7b5e9cbe6b02246ff5e6b6154a6851772abbe6870305ad715af9bb2f1bfe"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/cli.py",
+        "path_type": "hardlink",
+        "sha256": "d24c72298a15ea13366a3133b93da2454ed0639041d35e3068bb5451ebb827a2",
+        "size_in_bytes": 2993,
+        "sha256_in_prefix": "d24c72298a15ea13366a3133b93da2454ed0639041d35e3068bb5451ebb827a2"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/config.py",
+        "path_type": "hardlink",
+        "sha256": "8b8da83e65c1582762b373d15f2bf0b07819ec65e45e80a4b2afdeb7f43e666d",
+        "size_in_bytes": 33488,
+        "sha256_in_prefix": "8b8da83e65c1582762b373d15f2bf0b07819ec65e45e80a4b2afdeb7f43e666d"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/data/imperatives.txt",
+        "path_type": "hardlink",
+        "sha256": "4e36122cdc06748fb6fe9f19e90a4e2c95a8629a246bc4d6e14a1084213d6d8e",
+        "size_in_bytes": 1821,
+        "sha256_in_prefix": "4e36122cdc06748fb6fe9f19e90a4e2c95a8629a246bc4d6e14a1084213d6d8e"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/data/imperatives_blacklist.txt",
+        "path_type": "hardlink",
+        "sha256": "02c78121c377e598b14ae2a1873ec7dc68d4b260af49ec88713041bfe0e314e3",
+        "size_in_bytes": 1443,
+        "sha256_in_prefix": "02c78121c377e598b14ae2a1873ec7dc68d4b260af49ec88713041bfe0e314e3"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/parser.py",
+        "path_type": "hardlink",
+        "sha256": "7c6da901768ce2bcc9ceec1beaa2593cfcb79746643c8d82d2cec612a953e47f",
+        "size_in_bytes": 28291,
+        "sha256_in_prefix": "7c6da901768ce2bcc9ceec1beaa2593cfcb79746643c8d82d2cec612a953e47f"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/utils.py",
+        "path_type": "hardlink",
+        "sha256": "17706840d232836bf005882f86c77880149636a8a4239ea508e250fe0840f250",
+        "size_in_bytes": 1291,
+        "sha256_in_prefix": "17706840d232836bf005882f86c77880149636a8a4239ea508e250fe0840f250"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/violations.py",
+        "path_type": "hardlink",
+        "sha256": "d4bcf8d0e942e9286ffd397ea3c0c2cee5bbf9ac8df589c18a053d2427114eec",
+        "size_in_bytes": 12411,
+        "sha256_in_prefix": "d4bcf8d0e942e9286ffd397ea3c0c2cee5bbf9ac8df589c18a053d2427114eec"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pydocstyle/wordlists.py",
+        "path_type": "hardlink",
+        "sha256": "ee5b494a398772912c9242174940fc5c121b9bfc95063a87f4c811f9e3220b08",
+        "size_in_bytes": 1548,
+        "sha256_in_prefix": "ee5b494a398772912c9242174940fc5c121b9bfc95063a87f4c811f9e3220b08"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/pydocstyle-6.3.0-py311hca03da5_1",
+    "type": 1
+  }
+}

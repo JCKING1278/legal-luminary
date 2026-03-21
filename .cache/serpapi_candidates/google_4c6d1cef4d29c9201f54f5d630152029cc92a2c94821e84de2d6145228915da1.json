@@ -1,0 +1,420 @@
+{
+  "search_metadata": {
+    "id": "69bb5e10759dbc28eb4ba8aa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LYUTtlPNfp49vK6VdqDJcw/69bb5e10759dbc28eb4ba8aa.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/LYUTtlPNfp49vK6VdqDJcw/69bb5e10759dbc28eb4ba8aa.json_with_pixel_position",
+    "created_at": "2026-03-19 02:23:12 UTC",
+    "processed_at": "2026-03-19 02:23:12 UTC",
+    "google_url": "https://www.google.com/search?q=Valentina+Gomez+Noriega+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&oq=Valentina+Gomez+Noriega+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/LYUTtlPNfp49vK6VdqDJcw/69bb5e10759dbc28eb4ba8aa.html",
+    "total_time_taken": 8.29
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Valentina Gomez Noriega \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Valentina Gomez Noriega \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "total_results": 269,
+    "time_taken_displayed": 0.57,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Valentina Gomez Noriega US House TX-31 Central Texas LinkedIn",
+    "spelling_fix": "Valentina Gomez Noriega US House TX-31 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Valentina Gomez Noriega",
+      "link": "https://ballotpedia.org/Valentina_Gomez_Noriega",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Valentina_Gomez_Noriega&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQFnoECB4QAQ",
+      "displayed_link": "https://ballotpedia.org › Valentina_Gomez_Noriega",
+      "favicon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f0-w-kylyY2myPujuviUHMuo.png",
+      "snippet": "Freeman School of Business in 2020. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Freeman School of Business in 2020. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+          "source_info_link": "https://ballotpedia.org/Valentina_Gomez_Noriega",
+          "icon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f05HD7NmgUveakOLtvT04QfjyYkuESvm-2KugGKCKoHay.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Valentina_Gomez_Noriega&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FValentina_Gomez_Noriega",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 2,
+      "title": "Congressman John Carter Faces Valentina Gomez ...",
+      "link": "https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQFnoECBwQAQ",
+      "displayed_link": "https://thetexan.news › Elections › 2026",
+      "favicon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f090PoNWNYYFAnU-3B4pX8jQ.png",
+      "date": "Feb 23, 2026",
+      "snippet": "Congressman John Carter (R-TX-31) is facing nine Republican challengers in the 2026 primary election for his seat, which he has held for 23 ...",
+      "snippet_highlighted_words": [
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Congressman John Carter (R-TX-31) is facing nine Republican challengers in the 2026 primary election for his seat, which he has held for 23 ...",
+          "source_info_link": "https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html",
+          "icon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f06CZM1C7XPS8pwAXG5MfCSHmVfdmNPvtrw1J3PmY2l4A.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthetexan.news%2Felections%2F2026%2Fcongressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary%2Farticle_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html",
+      "source": "thetexan.news"
+    },
+    {
+      "position": 3,
+      "title": "Olis Bahari's Post",
+      "link": "https://www.linkedin.com/posts/olisbahari_valentina-gomez-noriega-holds-an-mba-from-activity-7371187986836893698-lSEb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/olisbahari_valentina-gomez-noriega-holds-an-mba-from-activity-7371187986836893698-lSEb&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQFnoECCAQAQ",
+      "displayed_link": "1 reaction · 6 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f01zIF8bEvA0OONLMQ3tri4M.png",
+      "snippet": "Valentina Gomez Noriega holds an MBA from Tulane University, a private institution located in Louisiana. Valentina Gomez needs to clearly ...",
+      "snippet_highlighted_words": [
+        "Valentina Gomez Noriega"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Valentina Gomez Noriega holds an MBA from Tulane University, a private institution located in Louisiana. Valentina Gomez needs to clearly ...",
+          "source_info_link": "https://www.linkedin.com/posts/olisbahari_valentina-gomez-noriega-holds-an-mba-from-activity-7371187986836893698-lSEb",
+          "icon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f0xtiQs8p3HpQ3XLlar1yLEng17Xu5DqBMnWt45nUazg6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/olisbahari_valentina-gomez-noriega-holds-an-mba-from-activity-7371187986836893698-lSEb&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Folisbahari_valentina-gomez-noriega-holds-an-mba-from-activity-7371187986836893698-lSEb",
+      "source": "LinkedIn · Olis Bahari"
+    },
+    {
+      "position": 4,
+      "title": "Valentina Gómez",
+      "link": "https://www.wikidata.org/wiki/Q135983734",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wikidata.org/wiki/Q135983734&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQFnoECB8QAQ",
+      "displayed_link": "https://www.wikidata.org › wiki",
+      "favicon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f0-CUTXeLMn9cuwOjlK9HqWE.png",
+      "snippet": "0 references. congressional campaign · start time. 18 December 2024. electoral district · Texas's 31st congressional district. 0 references. Texas Muslim ...",
+      "snippet_highlighted_words": [
+        "congressional",
+        "Texas's 31st congressional",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "0 references. congressional campaign · start time. 18 December 2024. electoral district · Texas's 31st congressional district. 0 references. Texas Muslim ...",
+          "source_info_link": "https://www.wikidata.org/wiki/Q135983734",
+          "icon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f06_oAAf7Tv9dfVRH6B9Hl9tnekyfkfgrUfWaiqm6FjWF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.wikidata.org/wiki/Q135983734&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.wikidata.org%2Fwiki%2FQ135983734",
+      "missing": [
+        "TX-",
+        "Central"
+      ],
+      "source": "Wikidata"
+    },
+    {
+      "position": 5,
+      "title": "Congressman John Carter Secures Nomination for Re ...",
+      "link": "https://thetexan.news/elections/2026/congressman-john-carter-secures-nomination-for-re-election-in-crowded-gop-primary/article_214ea93d-1c92-43ac-93c6-cd7158fea343.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thetexan.news/elections/2026/congressman-john-carter-secures-nomination-for-re-election-in-crowded-gop-primary/article_214ea93d-1c92-43ac-93c6-cd7158fea343.html&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQFnoECB0QAQ",
+      "displayed_link": "https://thetexan.news › Elections › 2026",
+      "favicon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f0-im-MZrP_fV6lRWLiq7jvg.png",
+      "date": "Mar 4, 2026",
+      "snippet": "Congressman John Carter (R-TX-31) won outright his Republican primary for re-election in a crowded field of challengers on Tuesday night, ...",
+      "snippet_highlighted_words": [
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Congressman John Carter (R-TX-31) won outright his Republican primary for re-election in a crowded field of challengers on Tuesday night, ...",
+          "source_info_link": "https://thetexan.news/elections/2026/congressman-john-carter-secures-nomination-for-re-election-in-crowded-gop-primary/article_214ea93d-1c92-43ac-93c6-cd7158fea343.html",
+          "icon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f03A2LiWmjr2s5xzqQ-SqJEZjSE5Mr08rjuzCwxYPpQRn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thetexan.news/elections/2026/congressman-john-carter-secures-nomination-for-re-election-in-crowded-gop-primary/article_214ea93d-1c92-43ac-93c6-cd7158fea343.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthetexan.news%2Felections%2F2026%2Fcongressman-john-carter-secures-nomination-for-re-election-in-crowded-gop-primary%2Farticle_214ea93d-1c92-43ac-93c6-cd7158fea343.html",
+      "source": "thetexan.news"
+    },
+    {
+      "position": 6,
+      "title": "🗣️Valentina Gomez! YOU are our #PendejaOfTheWeek!🫵 ...",
+      "link": "https://www.instagram.com/p/DULzPYJE9JI/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DULzPYJE9JI/&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQFnoECCYQAQ",
+      "displayed_link": "77.4K+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f04TAjVMXoVfgEp5kwOlpQ9w.png",
+      "snippet": "Former Missouri Republican candidate Valentina Gomez Noriega is running to be elected to the U.S. House to represent Texas' 31st Congressional ...",
+      "snippet_highlighted_words": [
+        "Valentina Gomez Noriega",
+        "U.S. House",
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Former Missouri Republican candidate Valentina Gomez Noriega is running to be elected to the U.S. House to represent Texas' 31st Congressional ...",
+          "source_info_link": "https://www.instagram.com/p/DULzPYJE9JI/",
+          "icon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f0xD4iODPCREXoO_HPkzS1V-1e-0rVNxqWG-_wByW6VbH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DULzPYJE9JI/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDULzPYJE9JI%2F",
+      "missing": [
+        "LinkedIn"
+      ],
+      "must_include": {
+        "word": "LinkedIn",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+%22LinkedIn%22&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ5t4CegQIMhAB"
+      },
+      "source": "Instagram · wearemitu"
+    },
+    {
+      "position": 7,
+      "title": "Texas' 31st Congressional District election, 2026 (March 3 ...",
+      "link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026_(March_3_Republican_primary)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Texas%2527_31st_Congressional_District_election,_2026_(March_3_Republican_primary)&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQFnoECCEQAQ",
+      "displayed_link": "https://ballotpedia.org › ...",
+      "favicon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f0-DonIyrbVotcQYDyjYWNFs.png",
+      "snippet": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+      "snippet_highlighted_words": [
+        "U.S. House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+          "source_info_link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026_(March_3_Republican_primary)",
+          "icon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f0-lIhrDujmZB8KQpzG5LaAkTru3KUS7xJv-gLcALYuFR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026_(March_3_Republican_primary)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FTexas%2527_31st_Congressional_District_election%2C_2026_%28March_3_Republican_primary%29",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 8,
+      "title": "Valentina Gomez Noriega (Republican Party) is running for ...",
+      "link": "https://www.facebook.com/groups/950642862921772/posts/1618133492839369/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/950642862921772/posts/1618133492839369/&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQFnoECEcQAQ",
+      "displayed_link": "6 comments · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f0_hXvQd5USwgPMYJA--yY4E.png",
+      "snippet": "Valentina Gomez Noriega (Republican Party) is running for election to the U.S. House to represent Texas' 31st Congressional District.",
+      "snippet_highlighted_words": [
+        "Valentina Gomez Noriega",
+        "U.S. House",
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Valentina Gomez Noriega (Republican Party) is running for election to the U.S. House to represent Texas' 31st Congressional District.",
+          "source_info_link": "https://www.facebook.com/groups/950642862921772/posts/1618133492839369/",
+          "icon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f0--5-LJRvTT24-tI3ZtV7So6EBf1ldgVMEFrewaX1nnS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/950642862921772/posts/1618133492839369/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F950642862921772%2Fposts%2F1618133492839369%2F",
+      "missing": [
+        "LinkedIn"
+      ],
+      "must_include": {
+        "word": "LinkedIn",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+%22LinkedIn%22&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ5t4CegQIShAB"
+      },
+      "source": "Facebook · Political Debate"
+    },
+    {
+      "position": 9,
+      "title": "Self-administered Versus Directly Observed Once-Weekly ...",
+      "link": "https://www.acpjournals.org/doi/10.7326/M17-1150",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.acpjournals.org/doi/10.7326/M17-1150&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQFnoECEEQAQ",
+      "displayed_link": "https://www.acpjournals.org › doi",
+      "favicon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f02_oym0AfKkze3RhR3j3lSc.png",
+      "author": "by R Belknap",
+      "snippet": "These results support using self-administered, once-weekly isoniazid and rifapentine to treat latent tuberculosis infection in the United States.",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "These results support using self-administered, once-weekly isoniazid and rifapentine to treat latent tuberculosis infection in the United States.",
+          "source_info_link": "https://www.acpjournals.org/doi/10.7326/M17-1150",
+          "icon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f04Jve34tv7t4gEyyAsEtmp1IwnE_2kQdlqvGzxBSDW2a.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.acpjournals.org/doi/10.7326/M17-1150&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.acpjournals.org%2Fdoi%2F10.7326%2FM17-1150",
+      "source": "ACP Journals"
+    },
+    {
+      "position": 10,
+      "title": "10 Photos of Valentina Gomez: MAGA Candidate Only ...",
+      "link": "https://www.ibtimes.co.uk/valentina-gomez-viral-campaign-fails-texas-primary-1783228",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ibtimes.co.uk/valentina-gomez-viral-campaign-fails-texas-primary-1783228&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQFnoECEAQAQ",
+      "displayed_link": "https://www.ibtimes.co.uk › valentina-gomez-viral-cam...",
+      "favicon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f00nuIo2ssH-yAXszZpbyJvY.png",
+      "date": "Mar 5, 2026",
+      "snippet": "Valentina Gomez, known for her provocative online presence, faced a significant defeat in the Texas 31st District primary, highlighting the ...",
+      "snippet_highlighted_words": [
+        "Valentina Gomez",
+        "Texas 31st"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Valentina Gomez, known for her provocative online presence, faced a significant defeat in the Texas 31st District primary, highlighting the ...",
+          "source_info_link": "https://www.ibtimes.co.uk/valentina-gomez-viral-campaign-fails-texas-primary-1783228",
+          "icon": "https://serpapi.com/searches/69bb5e10759dbc28eb4ba8aa/images/2pLQg0rt8SDyWsd9nE8f00Xsoscfkc6o08GesBvE7vtKRdtcPtX62AHq0jdhqGXA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ibtimes.co.uk/valentina-gomez-viral-campaign-fails-texas-primary-1783228&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ibtimes.co.uk%2Fvalentina-gomez-viral-campaign-fails-texas-primary-1783228",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Noriega+US+House+%22TX-%22+31+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ5t4CegQIQhAB"
+      },
+      "source": "International Business Times UK"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez Noriega nationality",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Noriega+nationality&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Noriega+nationality"
+    },
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez net worth",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+net+worth&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+net+worth"
+    },
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez Noriega birthplace",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Noriega+birthplace&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Noriega+birthplace"
+    },
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez swimmer",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+swimmer&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+swimmer"
+    },
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez college",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+college&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+college"
+    },
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez height",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+height&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+height"
+    },
+    {
+      "block_position": 1,
+      "query": "Valentina Gomez Tulane",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Valentina+Gomez+Tulane&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Tulane"
+    },
+    {
+      "block_position": 1,
+      "query": "2026 U.S. House Texas district 31 general election",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=2026+U.S.+House+Texas+district+31+general+election&sa=X&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=2026+U.S.+House+Texas+district+31+general+election"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=F167aYnQMJKHxc8Pp43LmAo&start=10&sa=N&sstk=Af77f_dLl_swSTMOffPTmo9rgf1qBSAKhFWOZ67xksik9EREzXma9P6kJbaMEKgFPZM9b57_E4AhaEGmjcM68wROXhuXwkp1MX2xJQ&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ8NMDegQIDBAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=F167aYnQMJKHxc8Pp43LmAo&start=10&sa=N&sstk=Af77f_dLl_swSTMOffPTmo9rgf1qBSAKhFWOZ67xksik9EREzXma9P6kJbaMEKgFPZM9b57_E4AhaEGmjcM68wROXhuXwkp1MX2xJQ&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=F167aYnQMJKHxc8Pp43LmAo&start=20&sa=N&sstk=Af77f_dLl_swSTMOffPTmo9rgf1qBSAKhFWOZ67xksik9EREzXma9P6kJbaMEKgFPZM9b57_E4AhaEGmjcM68wROXhuXwkp1MX2xJQ&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=F167aYnQMJKHxc8Pp43LmAo&start=30&sa=N&sstk=Af77f_dLl_swSTMOffPTmo9rgf1qBSAKhFWOZ67xksik9EREzXma9P6kJbaMEKgFPZM9b57_E4AhaEGmjcM68wROXhuXwkp1MX2xJQ&ved=2ahUKEwjJt_qD9KqTAxWSQ_EDHafGEqMQ8tMDegQIDBAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Valentina+Gomez+Noriega+US+House+TX-31+Central+Texas+LinkedIn&start=30"
+    }
+  }
+}

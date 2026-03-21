@@ -1,13 +1,13 @@
 {%- comment -%}
-Sidebar Important Articles
+Sidebar Top Stories
 Displays top articles from important_articles.json ranked by relevance score.
 Guards when site.data.important_articles or by_relevance is missing.
 {%- endcomment -%}
 
 {%- assign data = site.data.important_articles -%}
 
-<section class="sidebar-feed" aria-labelledby="sidebar-important-title">
-  <h3 id="sidebar-important-title">Important Articles</h3>
+<section class="sidebar-feed" aria-labelledby="sidebar-top-stories-title">
+  <h3 id="sidebar-top-stories-title">Top Stories</h3>
 
   {%- if data and data.by_relevance -%}
   {%- if data.by_relevance.critical.size > 0 or data.by_relevance.high.size > 0 -%}

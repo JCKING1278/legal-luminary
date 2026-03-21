@@ -1,0 +1,379 @@
+{
+  "search_metadata": {
+    "id": "69bb5de7bde9793559c0c060",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JLqOOmZnheobK_qH7aU1jg/69bb5de7bde9793559c0c060.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/JLqOOmZnheobK_qH7aU1jg/69bb5de7bde9793559c0c060.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:31 UTC",
+    "processed_at": "2026-03-19 02:22:31 UTC",
+    "google_url": "https://www.google.com/search?q=William+P.+Abel+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&oq=William+P.+Abel+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/JLqOOmZnheobK_qH7aU1jg/69bb5de7bde9793559c0c060.html",
+    "total_time_taken": 1.29
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "William P. Abel \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "William P. Abel \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "total_results": 22000,
+    "time_taken_displayed": 0.47,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "William P. Abel US House TX-31 Central Texas LinkedIn",
+    "spelling_fix": "William P. Abel US House TX-31 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Will Abel - Tekplan Solutions TX LLC",
+      "link": "https://www.linkedin.com/in/will-abel-055a1010",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/will-abel-055a1010&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14QFnoECCUQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdctxAjoYtRzIR9A32PLK5JJKs.png",
+      "snippet": "Serving the security integration industry for over 31 years. Exceptional experience… · Experience: Tekplan Solutions TX LLC · Location: Sugar Land · 500+ ...",
+      "snippet_highlighted_words": [
+        "31",
+        "TX"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sugar Land, Texas, United States",
+            "Tekplan Solutions TX LLC"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Serving the security integration industry for over 31 years. Exceptional experience… · Experience: Tekplan Solutions TX LLC · Location: Sugar Land · 500+ ...",
+          "source_info_link": "https://www.linkedin.com/in/will-abel-055a1010",
+          "icon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdctwRHY6FKMaUkfHkS8Co7rqEqqJZ2Rg3Zvcxxu6uHWE0g.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/will-abel-055a1010&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwill-abel-055a1010",
+      "missing": [
+        "William",
+        "House"
+      ],
+      "source": "LinkedIn · Will Abel"
+    },
+    {
+      "position": 2,
+      "title": "100+ \"William Abel\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/William/Abel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/William/Abel&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14QFnoECB4QAQ",
+      "displayed_link": "https://www.linkedin.com › pub › dir › William › Abel",
+      "favicon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct7ZI6-NdIs8wozaG2Eds-V0.png",
+      "snippet": "View the profiles of professionals named \"William Abel\" on LinkedIn. There are 100+ professionals named \"William Abel\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "William Abel",
+        "LinkedIn",
+        "William Abel",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"William Abel\" on LinkedIn. There are 100+ professionals named \"William Abel\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/William/Abel",
+          "icon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct90P7Qjh7W9vOD5oA-7eykPjwYOTTERQbocTGcBoRVX4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/William/Abel&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FWilliam%2FAbel",
+      "missing": [
+        "P.",
+        "House",
+        "31"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 3,
+      "title": "Assessing Metal Exposures Among Children Living in ... - PMC",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12302942/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC12302942/&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14QFnoECCIQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC12302942",
+      "favicon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct6Gwicqa-Z6TYak7z9SXLMI.png",
+      "author": "by E Symanski",
+      "snippet": "Children living in environmental justice (EJ) neighborhoods may be vulnerable to metal exposure from industrial facilities that are located near their homes ...",
+      "about_this_result": {
+        "source": {
+          "description": "Children living in environmental justice (EJ) neighborhoods may be vulnerable to metal exposure from industrial facilities that are located near their homes ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12302942/",
+          "icon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct7R3Vim4CtOsM-K_zeW-CHwmfaKhjuKiStRaNfM7YoCV.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pmc.ncbi.nlm.nih.gov/articles/PMC12302942/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC12302942%2F",
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Will Abel - Abel Sales",
+      "link": "https://www.linkedin.com/in/will-abel-1824b242?trk=pub-pbmap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/will-abel-1824b242%3Ftrk%3Dpub-pbmap&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14QFnoECCcQAQ",
+      "displayed_link": "100+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct5yuksgHwIq_rDNwRIrx-WE.png",
+      "snippet": "Experience: Abel Sales · Location: Anderson · 94 connections on LinkedIn. View Will Abel's profile on LinkedIn, a professional community of 1 billion ...",
+      "snippet_highlighted_words": [
+        "Abel",
+        "LinkedIn",
+        "Abel's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Anderson, Texas, United States",
+            "Abel Sales"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: Abel Sales · Location: Anderson · 94 connections on LinkedIn. View Will Abel's profile on LinkedIn, a professional community of 1 billion ...",
+          "source_info_link": "https://www.linkedin.com/in/will-abel-1824b242?trk=pub-pbmap",
+          "icon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct5ACeXR2Dvl2HenkVinOuV4cikDFa0JBdmRz0oPvMzOl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/will-abel-1824b242?trk=pub-pbmap&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwill-abel-1824b242%3Ftrk%3Dpub-pbmap",
+      "missing": [
+        "William",
+        "P.",
+        "House",
+        "31",
+        "Central"
+      ],
+      "source": "LinkedIn · Will Abel"
+    },
+    {
+      "position": 5,
+      "title": "LCA Decisions -- \"Labor Condition Applications\" (H-1B)",
+      "link": "https://www.dol.gov/agencies/oalj/PUBLIC/INA/REFERENCES/CASELISTS/LCA_DECISIONS",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dol.gov/agencies/oalj/PUBLIC/INA/REFERENCES/CASELISTS/LCA_DECISIONS&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14QFnoECBwQAQ",
+      "displayed_link": "https://www.dol.gov › oalj › REFERENCES › CASELISTS",
+      "favicon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct5X-LbARkv5sijEiTs6KNXQ.png",
+      "snippet": "1996-LCA-3 ADMINISTRATOR v. LEVITHON MANUFACTURING CO., INC. Decision & Order Approving Settlement Agreement & Consent Findings(ALJ July 18, 1996)(Joel F.",
+      "about_this_result": {
+        "source": {
+          "description": "1996-LCA-3 ADMINISTRATOR v. LEVITHON MANUFACTURING CO., INC. Decision & Order Approving Settlement Agreement & Consent Findings(ALJ July 18, 1996)(Joel F.",
+          "source_info_link": "https://www.dol.gov/agencies/oalj/PUBLIC/INA/REFERENCES/CASELISTS/LCA_DECISIONS",
+          "icon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdctyZKdIj5rzN2AtyPJjpaqGY-Vb7r69P1aLgP1ga0CVn4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dol.gov/agencies/oalj/PUBLIC/INA/REFERENCES/CASELISTS/LCA_DECISIONS&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dol.gov%2Fagencies%2Foalj%2FPUBLIC%2FINA%2FREFERENCES%2FCASELISTS%2FLCA_DECISIONS",
+      "source": "U.S. Department of Labor (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "American Heart Association and Nonprofit Advocacy: Past ...",
+      "link": "https://www.ahajournals.org/doi/10.1161/cir.0b013e31820a5528",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ahajournals.org/doi/10.1161/cir.0b013e31820a5528&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14QFnoECCEQAQ",
+      "displayed_link": "https://www.ahajournals.org › doi",
+      "favicon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct9S7VRNivxe3lXLqH5qT8qY.png",
+      "snippet": "Influencing public policy through advocacy is an essential strategy used by the American Heart Association/American Stroke Association (AHA/ASA) to achieve its ...",
+      "snippet_highlighted_words": [
+        "American",
+        "American"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Influencing public policy through advocacy is an essential strategy used by the American Heart Association/American Stroke Association (AHA/ASA) to achieve its ...",
+          "source_info_link": "https://www.ahajournals.org/doi/10.1161/cir.0b013e31820a5528",
+          "icon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct_6ZvHunQqoFbPUfC0ANYVBRjMRwUGg8XoAdC3_JrfOR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ahajournals.org/doi/10.1161/cir.0b013e31820a5528&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2F10.1161%2Fcir.0b013e31820a5528",
+      "source": "American Heart Association Journals"
+    },
+    {
+      "position": 7,
+      "title": "Sustaining Lifetime & Lifetime Members - Baylor Law School",
+      "link": "https://law.baylor.edu/alumni-giving/get-engaged/baylor-law-alumni-association/sustaining-lifetime-lifetime-members",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://law.baylor.edu/alumni-giving/get-engaged/baylor-law-alumni-association/sustaining-lifetime-lifetime-members&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14QFnoECB0QAQ",
+      "displayed_link": "https://law.baylor.edu › baylor-law-alumni-association",
+      "favicon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct2JI4Wawf3562elUszyw57M.png",
+      "snippet": "We extend a special thank you to our Baylor Law Alumni Association Sustaining Lifetime Members, Lifetime Members, and Sustaining Fellows. Your continued support ...",
+      "about_this_result": {
+        "source": {
+          "description": "We extend a special thank you to our Baylor Law Alumni Association Sustaining Lifetime Members, Lifetime Members, and Sustaining Fellows. Your continued support ...",
+          "source_info_link": "https://law.baylor.edu/alumni-giving/get-engaged/baylor-law-alumni-association/sustaining-lifetime-lifetime-members",
+          "icon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct_bhu9sWavHbdIm5Bw7SODeM1xAzJngfg9MJ9VJRuSEi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://law.baylor.edu/alumni-giving/get-engaged/baylor-law-alumni-association/sustaining-lifetime-lifetime-members&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flaw.baylor.edu%2Falumni-giving%2Fget-engaged%2Fbaylor-law-alumni-association%2Fsustaining-lifetime-lifetime-members",
+      "source": "Baylor University"
+    },
+    {
+      "position": 8,
+      "title": "[Type here]",
+      "link": "https://sbur.org/wp-content/uploads/2022/09/SBUR-2019-Annual-Meeting-Program-Book.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sbur.org/wp-content/uploads/2022/09/SBUR-2019-Annual-Meeting-Program-Book.pdf&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14QFnoECDwQAQ",
+      "displayed_link": "https://sbur.org › wp-content › uploads › 2022/09",
+      "favicon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdctwfL1rIgBueKN9Zpb51MXm8.png",
+      "snippet": "D. is a Howard Hughes Medical Institute Investigator, American Cancer. Society Research Professor, and S.P. Hicks Endowed Professor of Pathology and Urology at ...",
+      "snippet_highlighted_words": [
+        "American"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 57
+          },
+          "extensions": [
+            "57 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "D. is a Howard Hughes Medical Institute Investigator, American Cancer. Society Research Professor, and S.P. Hicks Endowed Professor of Pathology and Urology at ...",
+          "source_info_link": "https://sbur.org/wp-content/uploads/2022/09/SBUR-2019-Annual-Meeting-Program-Book.pdf",
+          "icon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct0Zsc2YtWjqtrVn2n51i3okGZKtSs3gF7U9X-USlaMFe.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://sbur.org/wp-content/uploads/2022/09/SBUR-2019-Annual-Meeting-Program-Book.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsbur.org%2Fwp-content%2Fuploads%2F2022%2F09%2FSBUR-2019-Annual-Meeting-Program-Book.pdf",
+      "source": "Society for Basic Urologic Research | SBUR"
+    },
+    {
+      "position": 9,
+      "title": "TWIA Board Meeting Public Comments",
+      "link": "https://www.twia.org/wp-content/uploads/August-4-2020-Board-of-Directors-Meeting-Public-Comments-Redacted.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.twia.org/wp-content/uploads/August-4-2020-Board-of-Directors-Meeting-Public-Comments-Redacted.pdf&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14QFnoECDgQAQ",
+      "displayed_link": "https://www.twia.org › wp-content › uploads › A...",
+      "favicon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct-tXtX18AwTFWpwxQz5sXjY.png",
+      "date": "Aug 4, 2020",
+      "snippet": "As members of the Texas coastal legislative delegation, the undersigned legislators respectfully request that the Texas Windstorm Insurance ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "As members of the Texas coastal legislative delegation, the undersigned legislators respectfully request that the Texas Windstorm Insurance ...",
+          "source_info_link": "https://www.twia.org/wp-content/uploads/August-4-2020-Board-of-Directors-Meeting-Public-Comments-Redacted.pdf",
+          "icon": "https://serpapi.com/searches/69bb5de7bde9793559c0c060/images/N06WKI8_rDVAVOLpRRdct7ox9fkXcudMnjjsE7D5P10n38ZazmRhGpZgXUcDF_GZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.twia.org/wp-content/uploads/August-4-2020-Board-of-Directors-Meeting-Public-Comments-Redacted.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.twia.org%2Fwp-content%2Fuploads%2FAugust-4-2020-Board-of-Directors-Meeting-Public-Comments-Redacted.pdf",
+      "source": "TWIA"
+    },
+    {
+      "position": 10,
+      "title": "Publications Highlights - Material Science Engineering",
+      "link": "https://mse.utdallas.edu/research/spring-2025-publications-highlights/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mse.utdallas.edu/research/spring-2025-publications-highlights/&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14QFnoECDsQAQ",
+      "displayed_link": "https://mse.utdallas.edu › research › spring-2025-publica...",
+      "snippet": "List of Publications for 2025 Dr. Matthew S. Wong “Developments toward monolithic III-N microLEDs: red InGaN active region and tunnel junctions gr...",
+      "about_this_result": {
+        "source": {
+          "description": "List of Publications for 2025 Dr. Matthew S. Wong “Developments toward monolithic III-N microLEDs: red InGaN active region and tunnel junctions gr...",
+          "source_info_link": "https://mse.utdallas.edu/research/spring-2025-publications-highlights/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mse.utdallas.edu/research/spring-2025-publications-highlights/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmse.utdallas.edu%2Fresearch%2Fspring-2025-publications-highlights%2F",
+      "source": "The University of Texas at Dallas"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=6F27aeeWDrq7wN4P_aDP8AU&start=10&sa=N&sstk=Af77f_dNn6yEUjk4oSwrMg7gI-06l_G2F2ROqrOO7-w3SgIwiFLC6cR4HTRp5hFxOEIqgC1wIhCd8nExaeuoG18i0bWMe0H3we5B8g&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14Q8NMDegQIBRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=6F27aeeWDrq7wN4P_aDP8AU&start=10&sa=N&sstk=Af77f_dNn6yEUjk4oSwrMg7gI-06l_G2F2ROqrOO7-w3SgIwiFLC6cR4HTRp5hFxOEIqgC1wIhCd8nExaeuoG18i0bWMe0H3we5B8g&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14Q8tMDegQIBRAE",
+      "3": "https://www.google.com/search?q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=6F27aeeWDrq7wN4P_aDP8AU&start=20&sa=N&sstk=Af77f_dNn6yEUjk4oSwrMg7gI-06l_G2F2ROqrOO7-w3SgIwiFLC6cR4HTRp5hFxOEIqgC1wIhCd8nExaeuoG18i0bWMe0H3we5B8g&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14Q8tMDegQIBRAG",
+      "4": "https://www.google.com/search?q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=6F27aeeWDrq7wN4P_aDP8AU&start=30&sa=N&sstk=Af77f_dNn6yEUjk4oSwrMg7gI-06l_G2F2ROqrOO7-w3SgIwiFLC6cR4HTRp5hFxOEIqgC1wIhCd8nExaeuoG18i0bWMe0H3we5B8g&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14Q8tMDegQIBRAI",
+      "5": "https://www.google.com/search?q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=6F27aeeWDrq7wN4P_aDP8AU&start=40&sa=N&sstk=Af77f_dNn6yEUjk4oSwrMg7gI-06l_G2F2ROqrOO7-w3SgIwiFLC6cR4HTRp5hFxOEIqgC1wIhCd8nExaeuoG18i0bWMe0H3we5B8g&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14Q8tMDegQIBRAK",
+      "6": "https://www.google.com/search?q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=6F27aeeWDrq7wN4P_aDP8AU&start=50&sa=N&sstk=Af77f_dNn6yEUjk4oSwrMg7gI-06l_G2F2ROqrOO7-w3SgIwiFLC6cR4HTRp5hFxOEIqgC1wIhCd8nExaeuoG18i0bWMe0H3we5B8g&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14Q8tMDegQIBRAM",
+      "7": "https://www.google.com/search?q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=6F27aeeWDrq7wN4P_aDP8AU&start=60&sa=N&sstk=Af77f_dNn6yEUjk4oSwrMg7gI-06l_G2F2ROqrOO7-w3SgIwiFLC6cR4HTRp5hFxOEIqgC1wIhCd8nExaeuoG18i0bWMe0H3we5B8g&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14Q8tMDegQIBRAO",
+      "8": "https://www.google.com/search?q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=6F27aeeWDrq7wN4P_aDP8AU&start=70&sa=N&sstk=Af77f_dNn6yEUjk4oSwrMg7gI-06l_G2F2ROqrOO7-w3SgIwiFLC6cR4HTRp5hFxOEIqgC1wIhCd8nExaeuoG18i0bWMe0H3we5B8g&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14Q8tMDegQIBRAQ",
+      "9": "https://www.google.com/search?q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=6F27aeeWDrq7wN4P_aDP8AU&start=80&sa=N&sstk=Af77f_dNn6yEUjk4oSwrMg7gI-06l_G2F2ROqrOO7-w3SgIwiFLC6cR4HTRp5hFxOEIqgC1wIhCd8nExaeuoG18i0bWMe0H3we5B8g&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14Q8tMDegQIBRAS",
+      "10": "https://www.google.com/search?q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=6F27aeeWDrq7wN4P_aDP8AU&start=90&sa=N&sstk=Af77f_dNn6yEUjk4oSwrMg7gI-06l_G2F2ROqrOO7-w3SgIwiFLC6cR4HTRp5hFxOEIqgC1wIhCd8nExaeuoG18i0bWMe0H3we5B8g&ved=2ahUKEwjnqqPt86qTAxW6HdAFHX3QE14Q8tMDegQIBRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+P.+Abel+US+House+TX-31+Central+Texas+LinkedIn&start=90"
+    }
+  }
+}

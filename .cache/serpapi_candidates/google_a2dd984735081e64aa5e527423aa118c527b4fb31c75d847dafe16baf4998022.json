@@ -1,0 +1,409 @@
+{
+  "search_metadata": {
+    "id": "69bb5ef1f6d5ee92d77b7f19",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-QJvqamIq5AMouJRo0D_Dg/69bb5ef1f6d5ee92d77b7f19.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-QJvqamIq5AMouJRo0D_Dg/69bb5ef1f6d5ee92d77b7f19.json_with_pixel_position",
+    "created_at": "2026-03-19 02:26:57 UTC",
+    "processed_at": "2026-03-19 02:26:57 UTC",
+    "google_url": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&oq=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-QJvqamIq5AMouJRo0D_Dg/69bb5ef1f6d5ee92d77b7f19.html",
+    "total_time_taken": 2.0
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "largest campaign contributor to William P. Abel US House TX-31 works for",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "largest campaign contributor to William P. Abel US House TX-31 works for",
+    "total_results": 456000,
+    "time_taken_displayed": 0.52,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "9mVhXHicxZTdcuI2FMfv-xytb7zBBvKBM-PpSMIOChtAIXz1hrFlI4xtBJYJ0Lu-yz7VPk1l8-WQkO52ptNzIUs6R0fy0U__v75FwTz8_suv0zRdiHtNW6_XJcY5i_wS5bHmiO2cahMeiYROf2eRuRLKNDL9ubJ9NasKFaau-IFZi27vHHfSbxtL46bd62zGK2tFhJIvN8euI_yZzL6ZCW2sySb8rVqXg5Io-fNSaNxBPI5b3e1TqaKXjVJbc2IZAP4js8CzbCGWHWnsrRPlU9bl1cTKvY-FqV0KWJgZ7SYZswDJxvbHB7HylV0k13bg69X6ybm4K8CFERzl29rZPgAxmAecG343czpic5_0wl7vE-1W1k_FguCiYXzwQgIQAo01Ojn3Kdh-k2vwFaFjOijdqAOrCPPL6eXKPmtY0ysCPrsnGYWfW2tvJG9C85jkSdfcRH7KWkCnNO8kIsMMvRg6t2udP_tt4oLbyAj723KrB-iIhBXQWQONujIu4o7ne-PpWP-SA03FkWhRJHo1w8DbwG2nRUtfS7BcwBnLwzP05pAkn_xRQ5dduyvl4CGD-0h1J-vA3iGoBiADyDpdnrXP-R7n3PCbScZ2PpQN2Vlolivc9w75adENj38gzyBv-rTHuhiGimhhjK1st9EuAyuGyTGUTyjrNfNn1iimAbhQK5g9W1lncvqnrK0fzpuVIUtuAVb30VMWhmRFUBaUDSDKiwqJdQ4-ZKfxE0DXaIfzzxu8-BwPRsCB3zMcixg_ODpmtfQhHBDAo2t7aT_F2OWR34vJHlseuz-hxPT_A3uv0838lXP2Hmz2GdjEQp_o9B7sk07ngoTsj8G2clAKOu0X3UWwCcQFsDcXdboANv5HsIdvynIEm3wANjwHG14GO9PpI9gIwTOdzn8rL0sB7H-l0-THdTrn29993or2asYuizdtJcbS24xH5MobEPvF6gZOuVu7Wk3Ye_GexOm940VfxoF3DyuP6dZTlmbkJMwXqUqdeOEEbK5SPk-TwF2lPFFTrg6CKAqcWO2UVOD6kdrrqg2-Er76MryqltU1T0KhTniixFHCTd25C6plNq-SoC1wZeK-LG00a7ivXXvUbY7wwwOr3lYGlNl4E_aTYY_EdTy6ufNjvza8GaQhecT9enMr39vNIFzUZnz5ijcJIo57g3QrdStLhzkRT-LB8JYvWpMZdHz00hNt3Xum4fp5sNgYkVXJTyPM4R_P17WGvYVNS4kTasqbvGagRcCAZRqtCOqMffFq0gp1DP-ubNT0quFPqkrM0u3CNHRFzBOz_Ddqwugp",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9mVhXHicxZTdcuI2FMfv-xytb7zBBvKBM-PpSMIOChtAIXz1hrFlI4xtBJYJ0Lu-yz7VPk1l8-WQkO52ptNzIUs6R0fy0U__v75FwTz8_suv0zRdiHtNW6_XJcY5i_wS5bHmiO2cahMeiYROf2eRuRLKNDL9ubJ9NasKFaau-IFZi27vHHfSbxtL46bd62zGK2tFhJIvN8euI_yZzL6ZCW2sySb8rVqXg5Io-fNSaNxBPI5b3e1TqaKXjVJbc2IZAP4js8CzbCGWHWnsrRPlU9bl1cTKvY-FqV0KWJgZ7SYZswDJxvbHB7HylV0k13bg69X6ybm4K8CFERzl29rZPgAxmAecG343czpic5_0wl7vE-1W1k_FguCiYXzwQgIQAo01Ojn3Kdh-k2vwFaFjOijdqAOrCPPL6eXKPmtY0ysCPrsnGYWfW2tvJG9C85jkSdfcRH7KWkCnNO8kIsMMvRg6t2udP_tt4oLbyAj723KrB-iIhBXQWQONujIu4o7ne-PpWP-SA03FkWhRJHo1w8DbwG2nRUtfS7BcwBnLwzP05pAkn_xRQ5dduyvl4CGD-0h1J-vA3iGoBiADyDpdnrXP-R7n3PCbScZ2PpQN2Vlolivc9w75adENj38gzyBv-rTHuhiGimhhjK1st9EuAyuGyTGUTyjrNfNn1iimAbhQK5g9W1lncvqnrK0fzpuVIUtuAVb30VMWhmRFUBaUDSDKiwqJdQ4-ZKfxE0DXaIfzzxu8-BwPRsCB3zMcixg_ODpmtfQhHBDAo2t7aT_F2OWR34vJHlseuz-hxPT_A3uv0838lXP2Hmz2GdjEQp_o9B7sk07ngoTsj8G2clAKOu0X3UWwCcQFsDcXdboANv5HsIdvynIEm3wANjwHG14GO9PpI9gIwTOdzn8rL0sB7H-l0-THdTrn29993or2asYuizdtJcbS24xH5MobEPvF6gZOuVu7Wk3Ye_GexOm940VfxoF3DyuP6dZTlmbkJMwXqUqdeOEEbK5SPk-TwF2lPFFTrg6CKAqcWO2UVOD6kdrrqg2-Er76MryqltU1T0KhTniixFHCTd25C6plNq-SoC1wZeK-LG00a7ivXXvUbY7wwwOr3lYGlNl4E_aTYY_EdTy6ufNjvza8GaQhecT9enMr39vNIFzUZnz5ijcJIo57g3QrdStLhzkRT-LB8JYvWpMZdHz00hNt3Xum4fp5sNgYkVXJTyPM4R_P17WGvYVNS4kTasqbvGagRcCAZRqtCOqMffFq0gp1DP-ubNT0quFPqkrM0u3CNHRFzBOz_Ddqwugp"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "William Abel",
+      "link": "https://ballotpedia.org/William_Abel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/William_Abel&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQFnoECBkQAQ",
+      "displayed_link": "https://ballotpedia.org › William_Abel",
+      "favicon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkMNrPLameQfRkPslgsl2q00.png",
+      "snippet": "He has been affiliated with the Veterans of Foreign Wars and the American Legion. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st",
+        "election"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "He has been affiliated with the Veterans of Foreign Wars and the American Legion. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+          "source_info_link": "https://ballotpedia.org/William_Abel",
+          "icon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkF4nRBYKiFPowUm_GZkzh6YavSAxleIe5s6wKEogIpfz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/William_Abel&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FWilliam_Abel",
+      "missing": [
+        "P."
+      ],
+      "must_include": {
+        "word": "P.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=largest+campaign+contributor+to+William+%22P.%22+Abel+US+House+TX-31+works+for&sa=X&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ5t4CegQIHhAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 2,
+      "title": "AMA with William Abel running for Federal House Seat TX- ...",
+      "link": "https://www.reddit.com/r/georgetowntx/comments/1rc2dlv/ama_with_william_abel_running_for_federal_house/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/georgetowntx/comments/1rc2dlv/ama_with_william_abel_running_for_federal_house/&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQFnoECCIQAQ",
+      "displayed_link": "7 comments · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkD19exmCo5Qoq_QYEL0I274.png",
+      "snippet": "Edit: lol at the instant downvotes. I've seen what makes you cheer, your boos mean nothing. How does this candidate stand on the issue of ...",
+      "about_this_result": {
+        "source": {
+          "description": "Edit: lol at the instant downvotes. I've seen what makes you cheer, your boos mean nothing. How does this candidate stand on the issue of ...",
+          "source_info_link": "https://www.reddit.com/r/georgetowntx/comments/1rc2dlv/ama_with_william_abel_running_for_federal_house/",
+          "icon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkCDglzuJLxSh-ml4KPphbe7urTKzSLVAmy-xzi90NghX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/georgetowntx/comments/1rc2dlv/ama_with_william_abel_running_for_federal_house/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fgeorgetowntx%2Fcomments%2F1rc2dlv%2Fama_with_william_abel_running_for_federal_house%2F",
+      "missing": [
+        "contributor",
+        "P."
+      ],
+      "source": "Reddit · r/georgetowntx"
+    },
+    {
+      "position": 3,
+      "title": "Here are the five Texas incumbents who did not win their re ...",
+      "link": "https://www.facebook.com/wfaa.jason.whitely/posts/here-are-the-five-texas-incumbents-who-did-not-win-their-re-election-campaigns-o/1447298083461491/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/wfaa.jason.whitely/posts/here-are-the-five-texas-incumbents-who-did-not-win-their-re-election-campaigns-o/1447298083461491/&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQFnoECCMQAQ",
+      "displayed_link": "440+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkJEnkDudTqrTL1a7L-LxL_Y.png",
+      "snippet": "Here are the five Texas incumbents who did not win their re-election campaigns on Tuesday. #texas #dallas #politics #houston #austin.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "election campaigns",
+        "texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Here are the five Texas incumbents who did not win their re-election campaigns on Tuesday. #texas #dallas #politics #houston #austin.",
+          "source_info_link": "https://www.facebook.com/wfaa.jason.whitely/posts/here-are-the-five-texas-incumbents-who-did-not-win-their-re-election-campaigns-o/1447298083461491/",
+          "icon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkOm1e8CRro1krfcSvbTvKDfmbaI6j1jJo5TUtghs2yBp.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/wfaa.jason.whitely/posts/here-are-the-five-texas-incumbents-who-did-not-win-their-re-election-campaigns-o/1447298083461491/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fwfaa.jason.whitely%2Fposts%2Fhere-are-the-five-texas-incumbents-who-did-not-win-their-re-election-campaigns-o%2F1447298083461491%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=%22largest%22+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sa=X&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ5t4CegQIKxAB"
+      },
+      "source": "Facebook · Jason Whitely"
+    },
+    {
+      "position": 4,
+      "title": "Army Veteran William Abel for US House District 31 is ...",
+      "link": "https://www.facebook.com/groups/2125130754445638/posts/3969478830010812/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/2125130754445638/posts/3969478830010812/&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQFnoECBsQAQ",
+      "displayed_link": "3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkPeCs98kDelxLtVU5anYFyY.png",
+      "snippet": "Army Veteran William Abel for US House District 31 is working everyday to earn your TRUST! Let's vote William Abel For Congress Bell ...",
+      "snippet_highlighted_words": [
+        "William Abel",
+        "US House",
+        "31",
+        "working",
+        "William Abel"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Army Veteran William Abel for US House District 31 is working everyday to earn your TRUST! Let's vote William Abel For Congress Bell ...",
+          "source_info_link": "https://www.facebook.com/groups/2125130754445638/posts/3969478830010812/",
+          "icon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkNS-V_Yu6N90oOkZxT-f2o0TGH4xTQ7P18ojoi-0noAu.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/2125130754445638/posts/3969478830010812/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F2125130754445638%2Fposts%2F3969478830010812%2F",
+      "missing": [
+        "campaign",
+        "contributor",
+        "P."
+      ],
+      "source": "Facebook · Little River Academy Community"
+    },
+    {
+      "position": 5,
+      "title": "Election results: Texans are voting in the 2026 primary",
+      "link": "https://apps.texastribune.org/features/2026/primary-election-results-2026/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.texastribune.org/features/2026/primary-election-results-2026/&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQFnoECBgQAQ",
+      "displayed_link": "https://apps.texastribune.org › features › primary-electio...",
+      "favicon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkFshYr_NS0P8e2V2d7UjhXo.png",
+      "date": "Mar 2, 2026",
+      "snippet": "Follow The Texas Tribune's coverage of election results for the 2026 primaries for U.S. Senate, U.S. House, the Texas Legislature and more.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "election",
+        "U.S.",
+        "U.S. House",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Follow The Texas Tribune's coverage of election results for the 2026 primaries for U.S. Senate, U.S. House, the Texas Legislature and more.",
+          "source_info_link": "https://apps.texastribune.org/features/2026/primary-election-results-2026/",
+          "icon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkNPmrystWrphL4i10omaHjtumv3Hc0OIEcd20svb6UFJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://apps.texastribune.org/features/2026/primary-election-results-2026/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fapps.texastribune.org%2Ffeatures%2F2026%2Fprimary-election-results-2026%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=%22largest%22+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sa=X&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ5t4CegQIKhAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 6,
+      "title": "William Abel For Congress",
+      "link": "https://abel4congress.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://abel4congress.com/&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQFnoECD8QAQ",
+      "displayed_link": "https://abel4congress.com",
+      "favicon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkDrkp_wPHwOgso4ryfWq_Ak.png",
+      "snippet": "By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from William Abel For ...",
+      "snippet_highlighted_words": [
+        "William Abel"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from William Abel For ...",
+          "source_info_link": "https://abel4congress.com/",
+          "icon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkJhP44-rq_CwEtqvde6HvWeGSrST-xhfPY-Z7F9YUKKx.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://abel4congress.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fabel4congress.com%2F",
+      "missing": [
+        "largest",
+        "campaign",
+        "P."
+      ],
+      "source": "abel4congress.com"
+    },
+    {
+      "position": 7,
+      "title": "ABEL, WILLIAM P - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H6TX31136/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H6TX31136/&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQFnoECEEQAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H6TX31136",
+      "favicon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkAHrd3z0f1LT3NkD59hE3cg.png",
+      "snippet": "ABEL, WILLIAM P. Candidate for House Texas - 31 ID: H6TX31136 REPUBLICAN PARTY. Financial Summary.",
+      "snippet_highlighted_words": [
+        "ABEL",
+        "WILLIAM P",
+        "House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ABEL, WILLIAM P. Candidate for House Texas - 31 ID: H6TX31136 REPUBLICAN PARTY. Financial Summary.",
+          "source_info_link": "https://www.fec.gov/data/candidate/H6TX31136/",
+          "icon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkDNmTIaepuvdMbUKFLihMrH9Oq5UG-OiNevilrYACGfI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H6TX31136/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH6TX31136%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=%22largest%22+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sa=X&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ5t4CegQITRAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 8,
+      "title": "Nine candidates seek to unseat Rep. Carter in District 31 ...",
+      "link": "https://kdhnews.com/centerforpolitics/nine-candidates-seek-to-unseat-rep-carter-in-district-31-gop-primary/article_b03ec25f-e93c-42be-809a-cf4f29e8ccd2.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/nine-candidates-seek-to-unseat-rep-carter-in-district-31-gop-primary/article_b03ec25f-e93c-42be-809a-cf4f29e8ccd2.html&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQFnoECEYQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › nine-candidat...",
+      "favicon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkIAR_u0CGJKEYeh1_mgssDM.png",
+      "date": "Feb 16, 2026",
+      "snippet": "The Republican Primary on March 3 for the Congressional District 31 race is extremely crowded as candidates attempt to end John Carter's ...",
+      "snippet_highlighted_words": [
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Republican Primary on March 3 for the Congressional District 31 race is extremely crowded as candidates attempt to end John Carter's ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/nine-candidates-seek-to-unseat-rep-carter-in-district-31-gop-primary/article_b03ec25f-e93c-42be-809a-cf4f29e8ccd2.html",
+          "icon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkHVeor_0G6TB-72jcudmrR31UqtsM1paQJ8rr3YQ6bvY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/nine-candidates-seek-to-unseat-rep-carter-in-district-31-gop-primary/article_b03ec25f-e93c-42be-809a-cf4f29e8ccd2.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fnine-candidates-seek-to-unseat-rep-carter-in-district-31-gop-primary%2Farticle_b03ec25f-e93c-42be-809a-cf4f29e8ccd2.html",
+      "missing": [
+        "contributor",
+        "P."
+      ],
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "Candidates Search Results",
+      "link": "https://www.opensecrets.org/races/candidate_search_results",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/candidate_search_results&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQFnoECEIQAQ",
+      "displayed_link": "https://www.opensecrets.org › candidate_search_results",
+      "favicon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkMS_ykppq7TdXn9iJk39T7c.png",
+      "snippet": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+          "source_info_link": "https://www.opensecrets.org/races/candidate_search_results",
+          "icon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkOOK-x2uZm1Wf9alIIfywGthETPm-GXdXfDQQBM5PCqm.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/candidate_search_results&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Fcandidate_search_results",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=%22largest%22+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sa=X&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ5t4CegQITxAB"
+      },
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 10,
+      "title": "WILLIAM ABEL FOR CONGRESS - Fundraising",
+      "link": "https://www.quiverquant.com/committees/C00919480",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quiverquant.com/committees/C00919480&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQFnoECD4QAQ",
+      "displayed_link": "https://www.quiverquant.com › committees",
+      "favicon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkKpyCoJtS6VB7YLS3-CgkM4.png",
+      "snippet": "Note: This data may contain refunds given to the committee. Names are hidden for individual donations below $250,000.",
+      "snippet_highlighted_words": [
+        "donations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Note: This data may contain refunds given to the committee. Names are hidden for individual donations below $250,000.",
+          "source_info_link": "https://www.quiverquant.com/committees/C00919480",
+          "icon": "https://serpapi.com/searches/69bb5ef1f6d5ee92d77b7f19/images/SGZfZFGJjXC4MFqZcafHkFj_Z8Q6piJzFBj9vZa3p71FL08Kh-hV3s29ucwLn43X.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quiverquant.com/committees/C00919480&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quiverquant.com%2Fcommittees%2FC00919480",
+      "source": "Quiver Quantitative"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=8l67abfVO9q95OUPx_uEuQs&start=10&sa=N&sstk=Af77f_cQTDEBACu72jRgetkJWUrYVy3SyoHb5GUbDvuqRFj8IBm_dIb7DtU5y1ENOpgJyhth0pxuVRW0iajXimUC6ED31MVAHPCKjg&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ8NMDegQIDBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=8l67abfVO9q95OUPx_uEuQs&start=10&sa=N&sstk=Af77f_cQTDEBACu72jRgetkJWUrYVy3SyoHb5GUbDvuqRFj8IBm_dIb7DtU5y1ENOpgJyhth0pxuVRW0iajXimUC6ED31MVAHPCKjg&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=8l67abfVO9q95OUPx_uEuQs&start=20&sa=N&sstk=Af77f_cQTDEBACu72jRgetkJWUrYVy3SyoHb5GUbDvuqRFj8IBm_dIb7DtU5y1ENOpgJyhth0pxuVRW0iajXimUC6ED31MVAHPCKjg&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=8l67abfVO9q95OUPx_uEuQs&start=30&sa=N&sstk=Af77f_cQTDEBACu72jRgetkJWUrYVy3SyoHb5GUbDvuqRFj8IBm_dIb7DtU5y1ENOpgJyhth0pxuVRW0iajXimUC6ED31MVAHPCKjg&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=8l67abfVO9q95OUPx_uEuQs&start=40&sa=N&sstk=Af77f_cQTDEBACu72jRgetkJWUrYVy3SyoHb5GUbDvuqRFj8IBm_dIb7DtU5y1ENOpgJyhth0pxuVRW0iajXimUC6ED31MVAHPCKjg&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ8tMDegQIDBAK",
+      "6": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=8l67abfVO9q95OUPx_uEuQs&start=50&sa=N&sstk=Af77f_cQTDEBACu72jRgetkJWUrYVy3SyoHb5GUbDvuqRFj8IBm_dIb7DtU5y1ENOpgJyhth0pxuVRW0iajXimUC6ED31MVAHPCKjg&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ8tMDegQIDBAM",
+      "7": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=8l67abfVO9q95OUPx_uEuQs&start=60&sa=N&sstk=Af77f_cQTDEBACu72jRgetkJWUrYVy3SyoHb5GUbDvuqRFj8IBm_dIb7DtU5y1ENOpgJyhth0pxuVRW0iajXimUC6ED31MVAHPCKjg&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ8tMDegQIDBAO",
+      "8": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=8l67abfVO9q95OUPx_uEuQs&start=70&sa=N&sstk=Af77f_cQTDEBACu72jRgetkJWUrYVy3SyoHb5GUbDvuqRFj8IBm_dIb7DtU5y1ENOpgJyhth0pxuVRW0iajXimUC6ED31MVAHPCKjg&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ8tMDegQIDBAQ",
+      "9": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=8l67abfVO9q95OUPx_uEuQs&start=80&sa=N&sstk=Af77f_cQTDEBACu72jRgetkJWUrYVy3SyoHb5GUbDvuqRFj8IBm_dIb7DtU5y1ENOpgJyhth0pxuVRW0iajXimUC6ED31MVAHPCKjg&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ8tMDegQIDBAS",
+      "10": "https://www.google.com/search?q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=8l67abfVO9q95OUPx_uEuQs&start=90&sa=N&sstk=Af77f_cQTDEBACu72jRgetkJWUrYVy3SyoHb5GUbDvuqRFj8IBm_dIb7DtU5y1ENOpgJyhth0pxuVRW0iajXimUC6ED31MVAHPCKjg&ved=2ahUKEwi3lrzs9KqTAxXaHrkGHcc9IbcQ8tMDegQIDBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=largest+campaign+contributor+to+William+P.+Abel+US+House+TX-31+works+for&start=90"
+    }
+  }
+}

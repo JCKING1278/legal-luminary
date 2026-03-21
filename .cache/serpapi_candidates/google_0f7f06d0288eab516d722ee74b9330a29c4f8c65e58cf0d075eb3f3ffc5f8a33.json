@@ -1,0 +1,61 @@
+{
+  "search_metadata": {
+    "id": "69bb5dd70558c03d2b373fdd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fvRrlHVOsKFmhusPLpQdJw/69bb5dd70558c03d2b373fdd.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/fvRrlHVOsKFmhusPLpQdJw/69bb5dd70558c03d2b373fdd.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:15 UTC",
+    "processed_at": "2026-03-19 02:22:15 UTC",
+    "google_url": "https://www.google.com/search?q=Roger+Williams+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Roger+Williams+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/fvRrlHVOsKFmhusPLpQdJw/69bb5dd70558c03d2b373fdd.html",
+    "total_time_taken": 2.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Roger Williams \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Roger Williams \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 1,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "f5r3inicxZTdkqo4EIDv93Lf4XgzZwTUM8pUUaeSCEf8Z1TUuaEQIaJgFFTEu32Xfap9mk3wD3WYs2ertrYvQtLd6YTuL_3Hn567XPz12--zzWYVvnJcFEV5TAj27LxFfM4M46XFOcQLA2v2Pd5JxZwVSnzOdqWCXiibph90W8--v1l0PadX4kEll2yRjIkZ2nMacT8POYOjw-JLsUoX-TBvL_MLsQxVw2_34la-wAtivsOZPnUA_5HI4I2OUKUTKvjWiBKVnL1bkxNrPaU6hoApzfioxFgGGlsrH19ETnb2EN3bhbvnqGVmngrU1AqOk2MVdg5AGCYO96I-aK5XbJyCZpz1GOi4s3pNFgSZoqpnK9QAQqAWoavxFAKfDimBJkKXcJCaURcWkUqyw9OdOq7Js2cNfFYn6qW-taPpmFaCm2LKE89NAvoRONeaWckkCBlmqC_yRKl0D3pHm4AXT1zosdAeAGusLQqgGwHOmlA_j5hTe2rMDP5rArQVXogO00Rv5yqY7mHcbVv5Zh4KKZxZJjG6uSQrbEYdPhCUbTqWlACZwX2hussmcHB2qgCIAZKvxZNPMR9xTkS9UWJ8tCG2xHeuLNbiNDvHt9JmePkDegda6esZUdoNpdFSVVVmp42PEXDaja4hfUJs1kieWS0dBqipXEH2bGmetes_sbF6vi9LAwsuA1y1UYu5IZoRxJzYAqIkqVCT78GH-LpuAVRCR5x_XWDmczyLBs783uGYxvhHVTCEMj_f9x3V9LeVffOgOY3DfKco-IQt8Se_0Imt_w_sU59uJK-c4Eew8WdgazL6pE-fwL726aQhIeVjsOUElFSfttPmNNgaVFNg7zP7dAps9adgj27ScgFb-wBseA82zAab9ekL2AjBuz6d_FaSlhTY_6pPa_-8Tyd828fPbdPeznF289ZKRHS2kTBaD3fr2CwGw94cYn3U7GiPzdvxN6_m1PtquNNXWKhv4mluLb0RbAdPQ9fzXNMPn74UCoPeU41sQ_upP3ouClTBlMhebgLTe-rbezNkOsW07Akhi5zvBUTizVIfaGj0rbM8-BNfWK3W8w7GNbO39nfOplT_UZa1g-KMqo0J5ldiTMj7e-w2TMAPZsR4G9X9Lu44Nbdvl3F9vp9V4-H-Xa-USn5TUcbxEtfVzqCsGwv3Rai3y-86_62DljqoVH19V9YDVFwPWdmj5D6hpA7AzHXrL1GdagJLojUsYdDWwBCz7pwLLdOww51kFSxTtMuCWOGLou0Ucz7exCtJ5HPhMpCEvwG-Lt9R",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=f5r3inicxZTdkqo4EIDv93Lf4XgzZwTUM8pUUaeSCEf8Z1TUuaEQIaJgFFTEu32Xfap9mk3wD3WYs2ertrYvQtLd6YTuL_3Hn567XPz12--zzWYVvnJcFEV5TAj27LxFfM4M46XFOcQLA2v2Pd5JxZwVSnzOdqWCXiibph90W8--v1l0PadX4kEll2yRjIkZ2nMacT8POYOjw-JLsUoX-TBvL_MLsQxVw2_34la-wAtivsOZPnUA_5HI4I2OUKUTKvjWiBKVnL1bkxNrPaU6hoApzfioxFgGGlsrH19ETnb2EN3bhbvnqGVmngrU1AqOk2MVdg5AGCYO96I-aK5XbJyCZpz1GOi4s3pNFgSZoqpnK9QAQqAWoavxFAKfDimBJkKXcJCaURcWkUqyw9OdOq7Js2cNfFYn6qW-taPpmFaCm2LKE89NAvoRONeaWckkCBlmqC_yRKl0D3pHm4AXT1zosdAeAGusLQqgGwHOmlA_j5hTe2rMDP5rArQVXogO00Rv5yqY7mHcbVv5Zh4KKZxZJjG6uSQrbEYdPhCUbTqWlACZwX2hussmcHB2qgCIAZKvxZNPMR9xTkS9UWJ8tCG2xHeuLNbiNDvHt9JmePkDegda6esZUdoNpdFSVVVmp42PEXDaja4hfUJs1kieWS0dBqipXEH2bGmetes_sbF6vi9LAwsuA1y1UYu5IZoRxJzYAqIkqVCT78GH-LpuAVRCR5x_XWDmczyLBs783uGYxvhHVTCEMj_f9x3V9LeVffOgOY3DfKco-IQt8Se_0Imt_w_sU59uJK-c4Eew8WdgazL6pE-fwL726aQhIeVjsOUElFSfttPmNNgaVFNg7zP7dAps9adgj27ScgFb-wBseA82zAab9ekL2AjBuz6d_FaSlhTY_6pPa_-8Tyd828fPbdPeznF289ZKRHS2kTBaD3fr2CwGw94cYn3U7GiPzdvxN6_m1PtquNNXWKhv4mluLb0RbAdPQ9fzXNMPn74UCoPeU41sQ_upP3ouClTBlMhebgLTe-rbezNkOsW07Akhi5zvBUTizVIfaGj0rbM8-BNfWK3W8w7GNbO39nfOplT_UZa1g-KMqo0J5ldiTMj7e-w2TMAPZsR4G9X9Lu44Nbdvl3F9vp9V4-H-Xa-USn5TUcbxEtfVzqCsGwv3Rai3y-86_62DljqoVH19V9YDVFwPWdmj5D6hpA7AzHXrL1GdagJLojUsYdDWwBCz7pwLLdOww51kFSxTtMuCWOGLou0Ucz7exCtJ5HPhMpCEvwG-Lt9R"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "22 candidates running for Congress have signed our pledge ...",
+      "link": "https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/&ved=2ahUKEwjp-73m86qTAxVPkyYFHRU6DvoQFnoECBkQAQ",
+      "displayed_link": "https://www.facebook.com › posts › 22-candidates-run...",
+      "favicon": "https://serpapi.com/searches/69bb5dd70558c03d2b373fdd/images/eR8QRc6r63dqmN9njWw_AEekY5EcTMx1CRd0lzCR_zE.png",
+      "snippet": "... US House TX-31 @Abel_tx31 - Jace Yarbrough, US ... Central Texas Local Politics & Events. Thank you ... Roger Williams of Texas's 25th Congressional District Rep.",
+      "snippet_highlighted_words": [
+        "US House TX-31",
+        "Central Texas",
+        "Roger Williams"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... US House TX-31 @Abel_tx31 - Jace Yarbrough, US ... Central Texas Local Politics & Events. Thank you ... Roger Williams of Texas's 25th Congressional District Rep.",
+          "source_info_link": "https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/",
+          "icon": "https://serpapi.com/searches/69bb5dd70558c03d2b373fdd/images/eR8QRc6r63dqmN9njWw_ABfwFs3jBw6rsCQ4vhXHp9WWcMZmCsegFE2U3L0x2snl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FDrMaryTalleyBowden%2Fposts%2F22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-%2F936734028884543%2F",
+      "source": "Facebook"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "search_metadata": {
+    "id": "69bb5e80868180f376a4e574",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/THnSnj33-h6XQ8EXVjCEgw/69bb5e80868180f376a4e574.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/THnSnj33-h6XQ8EXVjCEgw/69bb5e80868180f376a4e574.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:04 UTC",
+    "processed_at": "2026-03-19 02:25:04 UTC",
+    "google_url": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&oq=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/THnSnj33-h6XQ8EXVjCEgw/69bb5e80868180f376a4e574.html",
+    "total_time_taken": 0.72
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Riakos Adams \"Killeen Council At-Large\" \"Killeen\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Riakos Adams \"Killeen Council At-Large\" \"Killeen\" LinkedIn",
+    "total_results": 121,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Two people file for Killeen Council at-large seat",
+      "link": "https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQFnoECCcQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › two-people-fil...",
+      "favicon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPIzrBd0mmZS-f5jRRcYedPyA.png",
+      "date": "Feb 15, 2024",
+      "snippet": "Two people file for Killeen Council at-large seat ... Camron Cochran has filed for the May 4 election for the Killeen City Council's at-large seat ...",
+      "snippet_highlighted_words": [
+        "Killeen Council at-large",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Two people file for Killeen Council at-large seat ... Camron Cochran has filed for the May 4 election for the Killeen City Council's at-large seat ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html",
+          "icon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI1pMSJyrOwKSAFPvvaaiCuqKleEh-4e9Z7rG58PT3Mij.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Ftwo-people-file-for-killeen-council-at-large-seat%2Farticle_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "Business owner trades tattoos for toys | News",
+      "link": "https://kdhnews.com/news/business-owner-trades-tattoos-for-toys/article_016f0822-8ca7-11e4-a05c-b3dd1791021c.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/business-owner-trades-tattoos-for-toys/article_016f0822-8ca7-11e4-a05c-b3dd1791021c.html&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQFnoECCoQAQ",
+      "displayed_link": "https://kdhnews.com › news › business-owner-trades-tat...",
+      "favicon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI5wGyRex50gGcEfAKhV5Xp4.png",
+      "snippet": "Japan's Takaichi to dissolve parliament for snap election · Jan 15, 2026 ; Beverly Williams files for Killeen council at-large election. 22 hrs ago ; Sharks are ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Japan's Takaichi to dissolve parliament for snap election · Jan 15, 2026 ; Beverly Williams files for Killeen council at-large election. 22 hrs ago ; Sharks are ...",
+          "source_info_link": "https://kdhnews.com/news/business-owner-trades-tattoos-for-toys/article_016f0822-8ca7-11e4-a05c-b3dd1791021c.html",
+          "icon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI9xWqNHdBSccNE9N_Rbe9ZBSULiJlM4ZA6lEl1Uf4zr4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/business-owner-trades-tattoos-for-toys/article_016f0822-8ca7-11e4-a05c-b3dd1791021c.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Fbusiness-owner-trades-tattoos-for-toys%2Farticle_016f0822-8ca7-11e4-a05c-b3dd1791021c.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "KISD incumbent reelected, Adams and Mintz join board",
+      "link": "https://kdhnews.com/centerforpolitics/kisd-incumbent-reelected-adams-and-mintz-join-board/article_0b8c4e36-ce86-11ec-9618-a72ad3180e1c.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/kisd-incumbent-reelected-adams-and-mintz-join-board/article_0b8c4e36-ce86-11ec-9618-a72ad3180e1c.html&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQFnoECCIQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › kisd-incumbe...",
+      "favicon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI1M5L6trjilW1qwh8ZQ98dg.png",
+      "date": "May 7, 2022",
+      "snippet": "Killeen ISD school board Place 1 candidate Brenda Adams. A total of ... Beverly Williams files for Killeen council at-large election. 22 ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Adams",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen ISD school board Place 1 candidate Brenda Adams. A total of ... Beverly Williams files for Killeen council at-large election. 22 ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/kisd-incumbent-reelected-adams-and-mintz-join-board/article_0b8c4e36-ce86-11ec-9618-a72ad3180e1c.html",
+          "icon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPIwgm_woLL2iHQY0mNsBTHtF2NMC9MeeLiwEZWS7xUdDA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/kisd-incumbent-reelected-adams-and-mintz-join-board/article_0b8c4e36-ce86-11ec-9618-a72ad3180e1c.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fkisd-incumbent-reelected-adams-and-mintz-join-board%2Farticle_0b8c4e36-ce86-11ec-9618-a72ad3180e1c.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 4,
+      "title": "Dog that gained international support euthanized by city",
+      "link": "https://kdhnews.com/news/local/dog-that-gained-international-support-euthanized-by-city/article_c9ab8f0e-7be7-11e7-83dc-3795297ba6a3.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/dog-that-gained-international-support-euthanized-by-city/article_c9ab8f0e-7be7-11e7-83dc-3795297ba6a3.html&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › dog-that-gained-i...",
+      "favicon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI_aEQsHxSHzprStsLLSVXDg.png",
+      "date": "Aug 8, 2017",
+      "snippet": "Beverly Williams files for Killeen council at-large election. 9 hrs ago ... Killeen Chess Club. Inside Killeen. Audio Player. 00:00. 00:00 | ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Beverly Williams files for Killeen council at-large election. 9 hrs ago ... Killeen Chess Club. Inside Killeen. Audio Player. 00:00. 00:00 | ...",
+          "source_info_link": "https://kdhnews.com/news/local/dog-that-gained-international-support-euthanized-by-city/article_c9ab8f0e-7be7-11e7-83dc-3795297ba6a3.html",
+          "icon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI5q8fh2A8llGimVZJf5GOtaSijhvZo-jIkFVOo_fZhc5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/dog-that-gained-international-support-euthanized-by-city/article_c9ab8f0e-7be7-11e7-83dc-3795297ba6a3.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fdog-that-gained-international-support-euthanized-by-city%2Farticle_c9ab8f0e-7be7-11e7-83dc-3795297ba6a3.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "Political group pushing $155M Killeen hall bond funded by ...",
+      "link": "https://kdhnews.com/centerforpolitics/political-group-pushing-155m-killeen-hall-bond-funded-by-architect-hired-by-city/article_33b2e745-6109-4b63-9362-bcf52e2228fe.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/political-group-pushing-155m-killeen-hall-bond-funded-by-architect-hired-by-city/article_33b2e745-6109-4b63-9362-bcf52e2228fe.html&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQFnoECBsQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › political-grou...",
+      "favicon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI9OnGfQtvmVvZJTPre5MjxA.png",
+      "date": "Apr 26, 2025",
+      "snippet": "Jan 14, 2026. Beverly Williams files for Killeen council at-large election · Center for Politics · Beverly Williams files for Killeen council at ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen council at"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jan 14, 2026. Beverly Williams files for Killeen council at-large election · Center for Politics · Beverly Williams files for Killeen council at ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/political-group-pushing-155m-killeen-hall-bond-funded-by-architect-hired-by-city/article_33b2e745-6109-4b63-9362-bcf52e2228fe.html",
+          "icon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI3SqPzQi5YBgGiFJFfWCApNhEWIA_qbSgpKw4IFk438X.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/political-group-pushing-155m-killeen-hall-bond-funded-by-architect-hired-by-city/article_33b2e745-6109-4b63-9362-bcf52e2228fe.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fpolitical-group-pushing-155m-killeen-hall-bond-funded-by-architect-hired-by-city%2Farticle_33b2e745-6109-4b63-9362-bcf52e2228fe.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 6,
+      "title": "Rough awakening | Local News",
+      "link": "https://kdhnews.com/news/local/rough-awakening/article_7c04108c-1131-11ef-9e46-ff4ca477947d.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/rough-awakening/article_7c04108c-1131-11ef-9e46-ff4ca477947d.html&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQFnoECB8QAQ",
+      "displayed_link": "https://kdhnews.com › news › local › rough-awakening",
+      "favicon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI6CnoKUNlQSOJRp3EFSkvoE.png",
+      "date": "May 13, 2024",
+      "snippet": "Jan 15, 2026. Beverly Williams files for Killeen council at-large election · Center for Politics · Beverly Williams files for Killeen council at ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen council at"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jan 15, 2026. Beverly Williams files for Killeen council at-large election · Center for Politics · Beverly Williams files for Killeen council at ...",
+          "source_info_link": "https://kdhnews.com/news/local/rough-awakening/article_7c04108c-1131-11ef-9e46-ff4ca477947d.html",
+          "icon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI7lVxux-pA5C1gHPmErFZaht-kCqcHc9vlrLYomdm867.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/rough-awakening/article_7c04108c-1131-11ef-9e46-ff4ca477947d.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Frough-awakening%2Farticle_7c04108c-1131-11ef-9e46-ff4ca477947d.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 7,
+      "title": "MOSS Foundation hosts Killeen school board election forum",
+      "link": "https://kdhnews.com/centerforpolitics/moss-foundation-hosts-killeen-school-board-election-forum/article_a697e1e0-2053-4af7-b5b3-edb0360132b1.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/moss-foundation-hosts-killeen-school-board-election-forum/article_a697e1e0-2053-4af7-b5b3-edb0360132b1.html&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQFnoECC8QAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › moss-foundati...",
+      "favicon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI8DAYn49dQ1Wi2aPRjGY1Es.png",
+      "date": "May 2, 2025",
+      "snippet": "... Killeen council at-large election · Center for Politics · Beverly ... Killeen Area 30:35 Episode Artwork Killeen and the Legislature 37:37 ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Killeen council at-large election · Center for Politics · Beverly ... Killeen Area 30:35 Episode Artwork Killeen and the Legislature 37:37 ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/moss-foundation-hosts-killeen-school-board-election-forum/article_a697e1e0-2053-4af7-b5b3-edb0360132b1.html",
+          "icon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI7fGAHJN7aYoE2FKYVHKrgZdLABL7hXLLeIWdnG7IhjH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/moss-foundation-hosts-killeen-school-board-election-forum/article_a697e1e0-2053-4af7-b5b3-edb0360132b1.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fmoss-foundation-hosts-killeen-school-board-election-forum%2Farticle_a697e1e0-2053-4af7-b5b3-edb0360132b1.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 8,
+      "title": "Killeen City Council to go over tax swap, and maybe vote on it ...",
+      "link": "https://kdhnews.com/news/local/killeen-city-council-to-go-over-tax-swap-and-maybe-vote-on-it-tuesday/article_d459941a-3fa2-11ea-92f8-b7bf9a1aa3cd.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/killeen-city-council-to-go-over-tax-swap-and-maybe-vote-on-it-tuesday/article_d459941a-3fa2-11ea-92f8-b7bf9a1aa3cd.html&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQFnoECDQQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › killeen-city-counc...",
+      "favicon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPIwRbUU4X602QqMEP0FrxdLc.png",
+      "snippet": "Jan 14, 2026. Beverly Williams files for Killeen council at-large election · Center for Politics · Beverly Williams files for Killeen council at-large election.",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jan 14, 2026. Beverly Williams files for Killeen council at-large election · Center for Politics · Beverly Williams files for Killeen council at-large election.",
+          "source_info_link": "https://kdhnews.com/news/local/killeen-city-council-to-go-over-tax-swap-and-maybe-vote-on-it-tuesday/article_d459941a-3fa2-11ea-92f8-b7bf9a1aa3cd.html",
+          "icon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPIy7cnGi2EHhUvhplGDtmi92vjXHa7sVvVeerpJxP9bXd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/killeen-city-council-to-go-over-tax-swap-and-maybe-vote-on-it-tuesday/article_d459941a-3fa2-11ea-92f8-b7bf9a1aa3cd.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fkilleen-city-council-to-go-over-tax-swap-and-maybe-vote-on-it-tuesday%2Farticle_d459941a-3fa2-11ea-92f8-b7bf9a1aa3cd.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "Killeen City Council to vote on zoning changes with ...",
+      "link": "https://kdhnews.com/centerforpolitics/killeen-city-council-to-vote-on-zoning-changes-with-potential-to-expand-north-killeen/article_337a15e8-045d-11ec-8f5a-c3fddd23eb47.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/killeen-city-council-to-vote-on-zoning-changes-with-potential-to-expand-north-killeen/article_337a15e8-045d-11ec-8f5a-c3fddd23eb47.html&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQFnoECDUQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › killeen-city-c...",
+      "favicon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPIx_J51Ce_n0hPx6vt80RWRk.png",
+      "date": "Aug 23, 2021",
+      "snippet": "Killeen City Council to vote on zoning changes with potential to expand North Killeen ... Killeen council at-large election · Center for Politics ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen City Council to vote on zoning changes with potential to expand North Killeen ... Killeen council at-large election · Center for Politics ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/killeen-city-council-to-vote-on-zoning-changes-with-potential-to-expand-north-killeen/article_337a15e8-045d-11ec-8f5a-c3fddd23eb47.html",
+          "icon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPI1MzvW9CTeCZw-YQ-83zIOjG1tuLJMTh4RM8LMTA0oJ_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/killeen-city-council-to-vote-on-zoning-changes-with-potential-to-expand-north-killeen/article_337a15e8-045d-11ec-8f5a-c3fddd23eb47.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fkilleen-city-council-to-vote-on-zoning-changes-with-potential-to-expand-north-killeen%2Farticle_337a15e8-045d-11ec-8f5a-c3fddd23eb47.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 10,
+      "title": "New Harker Heights councilman and CTC trustee remark ...",
+      "link": "https://kdhnews.com/centerforpolitics/new-harker-heights-councilman-and-ctc-trustee-remark-on-saturday-s-election/article_2f3b42fd-caa7-4b74-9c3f-345d51ca8a3b.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/new-harker-heights-councilman-and-ctc-trustee-remark-on-saturday-s-election/article_2f3b42fd-caa7-4b74-9c3f-345d51ca8a3b.html&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQFnoECDoQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › new-harker-h...",
+      "favicon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPIwx-ym8uSqAJzImyUTKkdrw.png",
+      "date": "May 5, 2025",
+      "snippet": "... Killeen council at-large election · Center for Politics · Beverly ... 47:52 Episode Artwork Killeen Social Media 50:04 Episode Artwork Killeen ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Killeen council at-large election · Center for Politics · Beverly ... 47:52 Episode Artwork Killeen Social Media 50:04 Episode Artwork Killeen ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/new-harker-heights-councilman-and-ctc-trustee-remark-on-saturday-s-election/article_2f3b42fd-caa7-4b74-9c3f-345d51ca8a3b.html",
+          "icon": "https://serpapi.com/searches/69bb5e80868180f376a4e574/images/cZeCLCgOosa4tOMbWDDPIxs45M_Y8SjXXRA8Cn9T9K0skaiCpcaVPW76jbQhlWws.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/new-harker-heights-councilman-and-ctc-trustee-remark-on-saturday-s-election/article_2f3b42fd-caa7-4b74-9c3f-345d51ca8a3b.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fnew-harker-heights-councilman-and-ctc-trustee-remark-on-saturday-s-election%2Farticle_2f3b42fd-caa7-4b74-9c3f-345d51ca8a3b.html",
+      "source": "The Killeen Daily Herald"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF67abfXK7udptQP8PbPiA0&start=10&sa=N&sstk=Af77f_fvHjKzAHed-tGb0SiM76YkBnjbI-7GfV5aKemyZlogLAnY-g-oRYNTsHi4LHoE-9LsEfBdFqiWXnrDpQIbc9j8ksZ7VfZcrA&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQ8NMDegQIERAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF67abfXK7udptQP8PbPiA0&start=10&sa=N&sstk=Af77f_fvHjKzAHed-tGb0SiM76YkBnjbI-7GfV5aKemyZlogLAnY-g-oRYNTsHi4LHoE-9LsEfBdFqiWXnrDpQIbc9j8ksZ7VfZcrA&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQ8tMDegQIERAE",
+      "3": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF67abfXK7udptQP8PbPiA0&start=20&sa=N&sstk=Af77f_fvHjKzAHed-tGb0SiM76YkBnjbI-7GfV5aKemyZlogLAnY-g-oRYNTsHi4LHoE-9LsEfBdFqiWXnrDpQIbc9j8ksZ7VfZcrA&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQ8tMDegQIERAG",
+      "4": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF67abfXK7udptQP8PbPiA0&start=30&sa=N&sstk=Af77f_fvHjKzAHed-tGb0SiM76YkBnjbI-7GfV5aKemyZlogLAnY-g-oRYNTsHi4LHoE-9LsEfBdFqiWXnrDpQIbc9j8ksZ7VfZcrA&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQ8tMDegQIERAI",
+      "5": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF67abfXK7udptQP8PbPiA0&start=40&sa=N&sstk=Af77f_fvHjKzAHed-tGb0SiM76YkBnjbI-7GfV5aKemyZlogLAnY-g-oRYNTsHi4LHoE-9LsEfBdFqiWXnrDpQIbc9j8ksZ7VfZcrA&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQ8tMDegQIERAK",
+      "6": "https://www.google.com/search?q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF67abfXK7udptQP8PbPiA0&start=50&sa=N&sstk=Af77f_fvHjKzAHed-tGb0SiM76YkBnjbI-7GfV5aKemyZlogLAnY-g-oRYNTsHi4LHoE-9LsEfBdFqiWXnrDpQIbc9j8ksZ7VfZcrA&ved=2ahUKEwi3l_619KqTAxW7jokEHXD7E9EQ8tMDegQIERAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Riakos+Adams+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&start=50"
+    }
+  }
+}

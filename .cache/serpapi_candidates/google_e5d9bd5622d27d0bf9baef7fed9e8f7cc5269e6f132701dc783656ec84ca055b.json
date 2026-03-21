@@ -1,0 +1,392 @@
+{
+  "search_metadata": {
+    "id": "69bb5cae31a60129509578b8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VWXhTCg52fwTx7WJoQYHYw/69bb5cae31a60129509578b8.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/VWXhTCg52fwTx7WJoQYHYw/69bb5cae31a60129509578b8.json_with_pixel_position",
+    "created_at": "2026-03-19 02:17:18 UTC",
+    "processed_at": "2026-03-19 02:17:18 UTC",
+    "google_url": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/VWXhTCg52fwTx7WJoQYHYw/69bb5cae31a60129509578b8.html",
+    "total_time_taken": 3.84
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "SBOE TX-10 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "SBOE TX-10 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 808000,
+    "time_taken_displayed": 0.48,
+    "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    },
+    "spelling_fix": "SBOE TEXAS-10 election. Key platform issues for candidates: opponents. Provide a short factual summary."
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Agenda | State Board of Education January 30, 2026",
+      "link": "https://sboe.texas.gov/state-board-of-education/sboe-2026/sboe-2026-january/jan2026-sboe-agenda.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sboe.texas.gov/state-board-of-education/sboe-2026/sboe-2026-january/jan2026-sboe-agenda.pdf&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQFnoECBkQAQ",
+      "displayed_link": "https://sboe.texas.gov › jan2026-sboe-agenda",
+      "favicon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy_87QgoOa-qpJM_7BcKJqq4.png",
+      "date": "Jan 30, 2026",
+      "snippet": "The procedures for public testimony at State Board of Education committee meetings and general board meetings are provided in SBOE Operating ...",
+      "snippet_highlighted_words": [
+        "State Board of Education",
+        "provided",
+        "SBOE"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 613
+          },
+          "extensions": [
+            "613 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The procedures for public testimony at State Board of Education committee meetings and general board meetings are provided in SBOE Operating ...",
+          "source_info_link": "https://sboe.texas.gov/state-board-of-education/sboe-2026/sboe-2026-january/jan2026-sboe-agenda.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy-1jlI2EujmiX629pKbNv_iX4sn7jW-sbVtXaEv5AOTR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://sboe.texas.gov/state-board-of-education/sboe-2026/sboe-2026-january/jan2026-sboe-agenda.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsboe.texas.gov%2Fstate-board-of-education%2Fsboe-2026%2Fsboe-2026-january%2Fjan2026-sboe-agenda.pdf",
+      "source": "sboe.texas.gov"
+    },
+    {
+      "position": 2,
+      "title": "Texas Democratic and Republican nominees discuss key ...",
+      "link": "https://www.youtube.com/watch?v=OZvv513i4BE",
+      "displayed_link": "580+ views · 3 days ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy4ELQJZbO1sQ7G0JZZ5DmMw.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy4tbw8U7Ux9rBOGYZu5TbA8.png",
+      "snippet": "The clash between Sen. John Cornyn and Attorney General Ken Paxton in the Texas GOP is heating up. And Texas Democrats Sarah Eckhardt and ...",
+      "duration": "21:00",
+      "about_this_result": {
+        "source": {
+          "description": "The clash between Sen. John Cornyn and Attorney General Ken Paxton in the Texas GOP is heating up. And Texas Democrats Sarah Eckhardt and ...",
+          "source_info_link": "https://www.youtube.com/watch?v=OZvv513i4BE",
+          "icon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy3a2p6OH9P1wHxa4P3RE7ojIn039MNwBugWLrHroewfp.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=OZvv513i4BE&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOZvv513i4BE",
+      "missing": [
+        "SBOE",
+        "platform",
+        "candidates:",
+        "opponents.",
+        "short",
+        "factual"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSk8HSKY6tLKTsxEr9N-wlF8IBdFJeuK1pSsA",
+      "source": "YouTube · CBS TEXAS"
+    },
+    {
+      "position": 3,
+      "title": "Candidates once too right-wing to win have found that the ...",
+      "link": "https://www.facebook.com/texas.monthly.magazine/posts/candidates-once-too-right-wing-to-win-have-found-that-the-new-republican-party-h/1363370215827777/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/texas.monthly.magazine/posts/candidates-once-too-right-wing-to-win-have-found-that-the-new-republican-party-h/1363370215827777/&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQFnoECCEQAQ",
+      "displayed_link": "20+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy4tmelNI9zp341j2J7tdru0.png",
+      "snippet": "Candidates once too right-wing to win have found that the new Republican Party has a place for them.",
+      "snippet_highlighted_words": [
+        "Candidates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Candidates once too right-wing to win have found that the new Republican Party has a place for them.",
+          "source_info_link": "https://www.facebook.com/texas.monthly.magazine/posts/candidates-once-too-right-wing-to-win-have-found-that-the-new-republican-party-h/1363370215827777/",
+          "icon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICyxku65bknRShp4J4VYbarALQODU8UOk-9YnRmdB_YKXh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/texas.monthly.magazine/posts/candidates-once-too-right-wing-to-win-have-found-that-the-new-republican-party-h/1363370215827777/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Ftexas.monthly.magazine%2Fposts%2Fcandidates-once-too-right-wing-to-win-have-found-that-the-new-republican-party-h%2F1363370215827777%2F",
+      "source": "Facebook · Texas Monthly"
+    },
+    {
+      "position": 4,
+      "title": "There's no denying reality anymore. This is our race to win, ...",
+      "link": "https://www.facebook.com/WesleyHuntTX/posts/theres-no-denying-reality-anymore-this-is-our-race-to-win-and-i-am-the-strongest/1418496823401687/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/WesleyHuntTX/posts/theres-no-denying-reality-anymore-this-is-our-race-to-win-and-i-am-the-strongest/1418496823401687/&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQFnoECCIQAQ",
+      "displayed_link": "1.4K+ reactions · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy30p_3j3xEvVrXu07VkiI0E.png",
+      "snippet": "There's no denying reality anymore. This is our race to win, and I am the strongest general election candidate to keep this Texas Senate ...",
+      "snippet_highlighted_words": [
+        "election candidate",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "There's no denying reality anymore. This is our race to win, and I am the strongest general election candidate to keep this Texas Senate ...",
+          "source_info_link": "https://www.facebook.com/WesleyHuntTX/posts/theres-no-denying-reality-anymore-this-is-our-race-to-win-and-i-am-the-strongest/1418496823401687/",
+          "icon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy0G06UOy7p4s-k3N1KFYkodAerwMEMig0wT3vcf-phYX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/WesleyHuntTX/posts/theres-no-denying-reality-anymore-this-is-our-race-to-win-and-i-am-the-strongest/1418496823401687/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FWesleyHuntTX%2Fposts%2Ftheres-no-denying-reality-anymore-this-is-our-race-to-win-and-i-am-the-strongest%2F1418496823401687%2F",
+      "source": "Facebook · Wesley Hunt"
+    },
+    {
+      "position": 5,
+      "title": "Austin voter guide 2026: What's on the ballot on March 3?",
+      "link": "https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQFnoECCAQAQ",
+      "displayed_link": "https://www.statesman.com › projects › texas-election-a...",
+      "favicon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy8b8EsC-ZXX7S--RVgSEKDk.png",
+      "date": "Mar 3, 2026",
+      "snippet": "Austin-area voters will head to the polls on March 3 to decide key Texas primary races, including U.S. Senate, governor, and state offices.",
+      "snippet_highlighted_words": [
+        "key Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Austin-area voters will head to the polls on March 3 to decide key Texas primary races, including U.S. Senate, governor, and state offices.",
+          "source_info_link": "https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/",
+          "icon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICywawgm0zjQa59hPeD64QxzMJLcLIS23I1QjmOeeriXj0.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.statesman.com/projects/2026/texas-election-austin-primary-voting-guide/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.statesman.com%2Fprojects%2F2026%2Ftexas-election-austin-primary-voting-guide%2F",
+      "missing": [
+        "short"
+      ],
+      "must_include": {
+        "word": "short",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+%22short%22+factual+summary.&sa=X&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ5t4CegQIMxAB"
+      },
+      "source": "Austin American-Statesman"
+    },
+    {
+      "position": 6,
+      "title": "Proposed Texas GOP platform would lock Democrats out of ...",
+      "link": "https://www.texastribune.org/2024/05/25/texas-republican-party-convention-platform/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.texastribune.org/2024/05/25/texas-republican-party-convention-platform/&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQFnoECB8QAQ",
+      "displayed_link": "https://www.texastribune.org › 2024/05/25 › texas-repu...",
+      "favicon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy4HMQWfgZMJtE23ywBgvboI.png",
+      "date": "May 25, 2024",
+      "snippet": "Republican Party of Texas delegates voted Saturday on a platform that called for new laws to require the Bible to be taught in public schools ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "platform"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Republican Party of Texas delegates voted Saturday on a platform that called for new laws to require the Bible to be taught in public schools ...",
+          "source_info_link": "https://www.texastribune.org/2024/05/25/texas-republican-party-convention-platform/",
+          "icon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy_Qwg0MCJLfRKy150pUKSp8yw_JoMyQd8YhZWR6FJ07R.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.texastribune.org/2024/05/25/texas-republican-party-convention-platform/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.texastribune.org%2F2024%2F05%2F25%2Ftexas-republican-party-convention-platform%2F",
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 7,
+      "title": "Could Texas decide who controls the U.S. Senate in 2027 ...",
+      "link": "https://www.facebook.com/brookings/posts/could-texas-decide-who-controls-the-us-senate-in-2027bill-galston-examines-why-t/1353772393456502/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/brookings/posts/could-texas-decide-who-controls-the-us-senate-in-2027bill-galston-examines-why-t/1353772393456502/&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQFnoECB4QAQ",
+      "displayed_link": "20+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy8bHWerqGuxUmrTb6wrLMqI.png",
+      "snippet": "Could Texas decide who controls the U.S. Senate in 2027? Bill Galston examines why the results of the March 3rd Texas primaries—and the ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Could Texas decide who controls the U.S. Senate in 2027? Bill Galston examines why the results of the March 3rd Texas primaries—and the ...",
+          "source_info_link": "https://www.facebook.com/brookings/posts/could-texas-decide-who-controls-the-us-senate-in-2027bill-galston-examines-why-t/1353772393456502/",
+          "icon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICyzuvx3RcyRlnCEzd5gpPo0yQNZyNwb2zcmvtHuv2ni2A.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/brookings/posts/could-texas-decide-who-controls-the-us-senate-in-2027bill-galston-examines-why-t/1353772393456502/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbrookings%2Fposts%2Fcould-texas-decide-who-controls-the-us-senate-in-2027bill-galston-examines-why-t%2F1353772393456502%2F",
+      "source": "Facebook · The Brookings Institution"
+    },
+    {
+      "position": 8,
+      "title": "AGENDA",
+      "link": "https://sboe.texas.gov/state-board-of-education/sboe-2026/sboe-2026-january/february2026-sboe-special-called-meeting-agenda.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sboe.texas.gov/state-board-of-education/sboe-2026/sboe-2026-january/february2026-sboe-special-called-meeting-agenda.pdf&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQFnoECBwQAQ",
+      "displayed_link": "https://sboe.texas.gov › sboe-2026-january › febr...",
+      "favicon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICyxzGcWUOFbJ1NK-ob1M4hZg.png",
+      "date": "Jan 30, 2026",
+      "snippet": "The SBOE or a committee of the SBOE may conduct a closed meeting on any agenda item in accordance with Texas Open Meetings Act, Chapter 551, ...",
+      "snippet_highlighted_words": [
+        "SBOE",
+        "SBOE",
+        "Texas"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 658
+          },
+          "extensions": [
+            "658 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The SBOE or a committee of the SBOE may conduct a closed meeting on any agenda item in accordance with Texas Open Meetings Act, Chapter 551, ...",
+          "source_info_link": "https://sboe.texas.gov/state-board-of-education/sboe-2026/sboe-2026-january/february2026-sboe-special-called-meeting-agenda.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy-Edffqin4qQu49OhpciL2kLdDBjubv5C24SSj-td7oz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://sboe.texas.gov/state-board-of-education/sboe-2026/sboe-2026-january/february2026-sboe-special-called-meeting-agenda.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsboe.texas.gov%2Fstate-board-of-education%2Fsboe-2026%2Fsboe-2026-january%2Ffebruary2026-sboe-special-called-meeting-agenda.pdf",
+      "source": "sboe.texas.gov"
+    },
+    {
+      "position": 9,
+      "title": "Texas Primary Candidates! Part 8",
+      "link": "https://www.facebook.com/TasharaParkerOnAir/posts/texas-primary-candidates-part-8/1455092105978798/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/TasharaParkerOnAir/posts/texas-primary-candidates-part-8/1455092105978798/&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQFnoECCQQAQ",
+      "displayed_link": "20+ reactions · 4 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICyzGn-m4_Tb_3prhP6_hFib8.png",
+      "snippet": "I have not had the time to analyze those races, but it is up to the grassroots to determine who is the best grassroots candidate in each race ...",
+      "snippet_highlighted_words": [
+        "candidate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I have not had the time to analyze those races, but it is up to the grassroots to determine who is the best grassroots candidate in each race ...",
+          "source_info_link": "https://www.facebook.com/TasharaParkerOnAir/posts/texas-primary-candidates-part-8/1455092105978798/",
+          "icon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy2V8lQgDhjFsfzNMj67sh3gTjyHlPHswL3uJPfqw1Y3X.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/TasharaParkerOnAir/posts/texas-primary-candidates-part-8/1455092105978798/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FTasharaParkerOnAir%2Fposts%2Ftexas-primary-candidates-part-8%2F1455092105978798%2F",
+      "source": "Facebook · Tashara Parker"
+    },
+    {
+      "position": 10,
+      "title": "Election Tuesday - California Courts",
+      "link": "https://courts.ca.gov/system/files/opinion-citing/s256978-link1.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://courts.ca.gov/system/files/opinion-citing/s256978-link1.pdf&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQFnoECB0QAQ",
+      "displayed_link": "https://courts.ca.gov › files › s256978-link1",
+      "favicon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICy97wW9X3iTEI09ouqTEXgwM.png",
+      "snippet": "even if your name is not on the list. You will vote using a provisional ballot. Your vote will be counted if elections officials determine that you are eligible ...",
+      "snippet_highlighted_words": [
+        "elections"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 224
+          },
+          "extensions": [
+            "224 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "even if your name is not on the list. You will vote using a provisional ballot. Your vote will be counted if elections officials determine that you are eligible ...",
+          "source_info_link": "https://courts.ca.gov/system/files/opinion-citing/s256978-link1.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cae31a60129509578b8/images/Cdd9c4m2EaW0Bw0U2yICyw3yqHLn1Bn5sUWBNz-GltmWsmvh4ZnW54Z7E3y27P1M.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://courts.ca.gov/system/files/opinion-citing/s256978-link1.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcourts.ca.gov%2Fsystem%2Ffiles%2Fopinion-citing%2Fs256978-link1.pdf",
+      "source": "California Courts Judicial Branch of California (.gov)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=sVy7abqWOvDJkPIPkaXVUQ&start=10&sa=N&sstk=Af77f_fl8oy3acH3gP6CqCVop7ytwYJebb7QEeQscuVBDlUcQnYp7k93SWU1IEqblz_YY1wSKUxiwsRALZs9SzUIAyvpn72UAF2oCQ&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ8NMDegQICxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=sVy7abqWOvDJkPIPkaXVUQ&start=10&sa=N&sstk=Af77f_fl8oy3acH3gP6CqCVop7ytwYJebb7QEeQscuVBDlUcQnYp7k93SWU1IEqblz_YY1wSKUxiwsRALZs9SzUIAyvpn72UAF2oCQ&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ8tMDegQICxAE",
+      "3": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=sVy7abqWOvDJkPIPkaXVUQ&start=20&sa=N&sstk=Af77f_fl8oy3acH3gP6CqCVop7ytwYJebb7QEeQscuVBDlUcQnYp7k93SWU1IEqblz_YY1wSKUxiwsRALZs9SzUIAyvpn72UAF2oCQ&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ8tMDegQICxAG",
+      "4": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=sVy7abqWOvDJkPIPkaXVUQ&start=30&sa=N&sstk=Af77f_fl8oy3acH3gP6CqCVop7ytwYJebb7QEeQscuVBDlUcQnYp7k93SWU1IEqblz_YY1wSKUxiwsRALZs9SzUIAyvpn72UAF2oCQ&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ8tMDegQICxAI",
+      "5": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=sVy7abqWOvDJkPIPkaXVUQ&start=40&sa=N&sstk=Af77f_fl8oy3acH3gP6CqCVop7ytwYJebb7QEeQscuVBDlUcQnYp7k93SWU1IEqblz_YY1wSKUxiwsRALZs9SzUIAyvpn72UAF2oCQ&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ8tMDegQICxAK",
+      "6": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=sVy7abqWOvDJkPIPkaXVUQ&start=50&sa=N&sstk=Af77f_fl8oy3acH3gP6CqCVop7ytwYJebb7QEeQscuVBDlUcQnYp7k93SWU1IEqblz_YY1wSKUxiwsRALZs9SzUIAyvpn72UAF2oCQ&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ8tMDegQICxAM",
+      "7": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=sVy7abqWOvDJkPIPkaXVUQ&start=60&sa=N&sstk=Af77f_fl8oy3acH3gP6CqCVop7ytwYJebb7QEeQscuVBDlUcQnYp7k93SWU1IEqblz_YY1wSKUxiwsRALZs9SzUIAyvpn72UAF2oCQ&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ8tMDegQICxAO",
+      "8": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=sVy7abqWOvDJkPIPkaXVUQ&start=70&sa=N&sstk=Af77f_fl8oy3acH3gP6CqCVop7ytwYJebb7QEeQscuVBDlUcQnYp7k93SWU1IEqblz_YY1wSKUxiwsRALZs9SzUIAyvpn72UAF2oCQ&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ8tMDegQICxAQ",
+      "9": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=sVy7abqWOvDJkPIPkaXVUQ&start=80&sa=N&sstk=Af77f_fl8oy3acH3gP6CqCVop7ytwYJebb7QEeQscuVBDlUcQnYp7k93SWU1IEqblz_YY1wSKUxiwsRALZs9SzUIAyvpn72UAF2oCQ&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ8tMDegQICxAS",
+      "10": "https://www.google.com/search?q=SBOE+TX-10+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=sVy7abqWOvDJkPIPkaXVUQ&start=90&sa=N&sstk=Af77f_fl8oy3acH3gP6CqCVop7ytwYJebb7QEeQscuVBDlUcQnYp7k93SWU1IEqblz_YY1wSKUxiwsRALZs9SzUIAyvpn72UAF2oCQ&ved=2ahUKEwj6sqnZ8qqTAxXwJEQIHZFSNQoQ8tMDegQICxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SBOE+TX-10+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

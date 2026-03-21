@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "69bb5dbb22abf70c16331717",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ykWMviiQ2lmSSRCa050hqA/69bb5dbb22abf70c16331717.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ykWMviiQ2lmSSRCa050hqA/69bb5dbb22abf70c16331717.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:47 UTC",
+    "processed_at": "2026-03-19 02:21:47 UTC",
+    "google_url": "https://www.google.com/search?q=Brad+Buckley+%22State+House+TX-54%22+%22Central+Texas%22+Instagram&oq=Brad+Buckley+%22State+House+TX-54%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ykWMviiQ2lmSSRCa050hqA/69bb5dbb22abf70c16331717.html",
+    "total_time_taken": 5.14
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Brad Buckley \"State House TX-54\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Brad Buckley \"State House TX-54\" \"Central Texas\" Instagram",
+    "total_results": 0,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

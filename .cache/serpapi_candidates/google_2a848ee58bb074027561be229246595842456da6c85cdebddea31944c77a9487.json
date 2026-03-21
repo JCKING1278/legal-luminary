@@ -1,0 +1,289 @@
+{
+  "search_metadata": {
+    "id": "69bb5d095604337d03960003",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/IXSO44m8agTd8AY1VhP9nw/69bb5d095604337d03960003.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/IXSO44m8agTd8AY1VhP9nw/69bb5d095604337d03960003.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:49 UTC",
+    "processed_at": "2026-03-19 02:18:49 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Raymond+H.+Hamden+II+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Raymond+H.+Hamden+II+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/IXSO44m8agTd8AY1VhP9nw/69bb5d095604337d03960003.html",
+    "total_time_taken": 1.14
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Raymond H. Hamden II for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Raymond H. Hamden II for US House TX-31? Include who that supporter works for.",
+    "total_results": 7,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "pd9v4nicxZTrbqs4EID_73ssfziFkERNqISObIc0bi4NSZs0R1pFhIu5k3IJof_2Xfap9mnWkBtNS3fPSqsdIbA94xkz83l-_8OzA_fPX36zkmQb3_F8lmUcCUPiGZwW-rwa54HGm6EXR5r1nXhSGjOWJxkBk--kFqPFUoMxbAktmh3VQPpIN4Zi2p2K6dwOFcyU26X1Ro0Nh3rfOzG_5unL_bXVoxMu5oyAc8UOxGt_Ms_HXLMhiNwjr_rUAPxHIoMZfUNMB1TIeyUql-T63Ypcah8qSwcXsLKyOiwSIgOlmPc_P4hc7pwjuncKdzfZWK2NCnBlBldl2H4RByACS4NrwR9WLkccHp3WxPro6LCzd0kWBLWC8UkLFYAQGGToojy6IMcgbTBC6OwOUjWawhbCYb17unNBBrJ1o4Cv6kSt8GyS6StaCV4nlKcGv4noR-BtzdLKQRQXmKEnsRH2u9O3xaOyAbee6C5yYfIMtJXiNsE0A7y2oXZeqOqGvrbWjW8l0Fp8JjquEp06GOh7mE8nGjfioFDBucgkQe8OWRS2pg6fCKpXHUoaArmA-0z1tBjA55NRF0ACkHwpnnz0-RHnUvC7RUIOOlRMyZVp4cs9jk7-taoanv-AnoFW-hIjq5qhKloYY7mItjp4IFUzOof0ChWjYXnNBlU3AFdyBYtrS_OsXP6pePdO5y3SUDiXAekZaFyYIZoRVBgVE4jKpEJFvgYfkst8DFAbHXD-eYG11_EkCjjxe4VjFeP7nrAWOg1n_2Ri1U-7-9GbYg7fnF2_T47Yhv7mJzqx9v-BfezTw_KWh-Qj2OQrsBUZfdGnj2Bf-nTZkFD_c7DlEpRKnzaq6irYCsQVsPe1fboCNv5bsF_epeUMtvIJ2PAabFgPdtGnz2AjBK_6dPlbZVoqYP-rPq388z5d8m0cPu-bduqQ-uattEPRTDPh5XW5e83VVrScO5AsXkaPysfmbfrJnap739a2fgebD0muM6_S0gpZO2YTy2A9NSJGnLB6GIQRSx_TDtRAs1WPjdPtNowSgy6b7EzN_TDQ2QHHDlRfNwIWY9ak9s9zdhCmscE-vdy0hO8sDjQv1Q02ozESS00qbrIwcuNiE8f4XhRKDbWT3Ks_JnCLRFHueO3bMYazm9ZDO5m9DZzMbj-GPUfouVje34_W_hz00mH85vRVPdgJO9uc9LoRilJizLCwhZ6VtofzfXOvdHM3tx79jnrbF3Jk_3A3GvRnOh66S2WZ33fM1yRB0-xmMNZUZ2qVp4mlJzD2rEEOFs6K8SNNogi0CZgoYEmK5s7Emro24p2kNTVVNDqC2G20RMNsMT5J8q0kNpg4iCThL-Ut_W4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pd9v4nicxZTrbqs4EID_73ssfziFkERNqISObIc0bi4NSZs0R1pFhIu5k3IJof_2Xfap9mnWkBtNS3fPSqsdIbA94xkz83l-_8OzA_fPX36zkmQb3_F8lmUcCUPiGZwW-rwa54HGm6EXR5r1nXhSGjOWJxkBk--kFqPFUoMxbAktmh3VQPpIN4Zi2p2K6dwOFcyU26X1Ro0Nh3rfOzG_5unL_bXVoxMu5oyAc8UOxGt_Ms_HXLMhiNwjr_rUAPxHIoMZfUNMB1TIeyUql-T63Ypcah8qSwcXsLKyOiwSIgOlmPc_P4hc7pwjuncKdzfZWK2NCnBlBldl2H4RByACS4NrwR9WLkccHp3WxPro6LCzd0kWBLWC8UkLFYAQGGToojy6IMcgbTBC6OwOUjWawhbCYb17unNBBrJ1o4Cv6kSt8GyS6StaCV4nlKcGv4noR-BtzdLKQRQXmKEnsRH2u9O3xaOyAbee6C5yYfIMtJXiNsE0A7y2oXZeqOqGvrbWjW8l0Fp8JjquEp06GOh7mE8nGjfioFDBucgkQe8OWRS2pg6fCKpXHUoaArmA-0z1tBjA55NRF0ACkHwpnnz0-RHnUvC7RUIOOlRMyZVp4cs9jk7-taoanv-AnoFW-hIjq5qhKloYY7mItjp4IFUzOof0ChWjYXnNBlU3AFdyBYtrS_OsXP6pePdO5y3SUDiXAekZaFyYIZoRVBgVE4jKpEJFvgYfkst8DFAbHXD-eYG11_EkCjjxe4VjFeP7nrAWOg1n_2Ri1U-7-9GbYg7fnF2_T47Yhv7mJzqx9v-BfezTw_KWh-Qj2OQrsBUZfdGnj2Bf-nTZkFD_c7DlEpRKnzaq6irYCsQVsPe1fboCNv5bsF_epeUMtvIJ2PAabFgPdtGnz2AjBK_6dPlbZVoqYP-rPq388z5d8m0cPu-bduqQ-uattEPRTDPh5XW5e83VVrScO5AsXkaPysfmbfrJnap739a2fgebD0muM6_S0gpZO2YTy2A9NSJGnLB6GIQRSx_TDtRAs1WPjdPtNowSgy6b7EzN_TDQ2QHHDlRfNwIWY9ak9s9zdhCmscE-vdy0hO8sDjQv1Q02ozESS00qbrIwcuNiE8f4XhRKDbWT3Ks_JnCLRFHueO3bMYazm9ZDO5m9DZzMbj-GPUfouVje34_W_hz00mH85vRVPdgJO9uc9LoRilJizLCwhZ6VtofzfXOvdHM3tx79jnrbF3Jk_3A3GvRnOh66S2WZ33fM1yRB0-xmMNZUZ2qVp4mlJzD2rEEOFs6K8SNNogi0CZgoYEmK5s7Emro24p2kNTVVNDqC2G20RMNsMT5J8q0kNpg4iCThL-Ut_W4"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "HAMDEN, RAYMOND H II - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H6TX31086/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H6TX31086/&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQFnoECB0QAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H6TX31086",
+      "favicon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs7g70beMr9Oi3CRxN3FsQFs.png",
+      "snippet": "HAMDEN, RAYMOND H II, Candidate for House Texas - 31, ID: H6TX31086, REPUBLICAN PARTY, Financial summary, Election 2026, Time period: 2025–2026.",
+      "snippet_highlighted_words": [
+        "HAMDEN",
+        "RAYMOND H II",
+        "House",
+        "Texas",
+        "31",
+        "Financial"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "HAMDEN, RAYMOND H II, Candidate for House Texas - 31, ID: H6TX31086, REPUBLICAN PARTY, Financial summary, Election 2026, Time period: 2025–2026.",
+          "source_info_link": "https://www.fec.gov/data/candidate/H6TX31086/",
+          "icon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs0OYnCoBi76K0O6GMDDhzdNsDeW_cEhvgmnn_g12qJnO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H6TX31086/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH6TX31086%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Raymond+H.+Hamden+II+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQ5t4CegQILRAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 2,
+      "title": "Raymond Hamden - Texas Contributor",
+      "link": "https://www.transparencyusa.org/tx/contributor/5762390/contributions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.transparencyusa.org/tx/contributor/5762390/contributions&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQFnoECB8QAQ",
+      "displayed_link": "https://www.transparencyusa.org › contributions",
+      "favicon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs9EuvVxuMnIcSulaOUZeGcg.png",
+      "snippet": "THE ANSWERS YOU NEED ABOUT THE MONEY IN STATE POLITICS.",
+      "about_this_result": {
+        "source": {
+          "description": "THE ANSWERS YOU NEED ABOUT THE MONEY IN STATE POLITICS.",
+          "source_info_link": "https://www.transparencyusa.org/tx/contributor/5762390/contributions",
+          "icon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs4SR968YeZm_KWgtfMXxxMajpHN1el9KiS9cqkDVADS1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.transparencyusa.org/tx/contributor/5762390/contributions&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.transparencyusa.org%2Ftx%2Fcontributor%2F5762390%2Fcontributions",
+      "missing": [
+        "H.",
+        "House",
+        "31?"
+      ],
+      "source": "Transparency USA"
+    },
+    {
+      "position": 3,
+      "title": "Raymond Hamden",
+      "link": "https://ballotpedia.org/Raymond_Hamden",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Raymond_Hamden&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQFnoECCEQAQ",
+      "displayed_link": "https://ballotpedia.org › Raymond_Hamden",
+      "favicon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs68pp1SdgZmixpLtxXiQtZk.png",
+      "snippet": "Raymond Hamden (Republican Party) ran for election to the U.S. House to represent Texas' 31st Congressional District. He lost in the Republican primary on ...",
+      "snippet_highlighted_words": [
+        "Raymond Hamden",
+        "U.S. House",
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Raymond Hamden (Republican Party) ran for election to the U.S. House to represent Texas' 31st Congressional District. He lost in the Republican primary on ...",
+          "source_info_link": "https://ballotpedia.org/Raymond_Hamden",
+          "icon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs2nqOLY92xQ_W6UIp8TVk8Y_TdzvDO4F-6K2fONHNMYL.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Raymond_Hamden&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FRaymond_Hamden",
+      "missing": [
+        "H."
+      ],
+      "must_include": {
+        "word": "H.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Who+is+the+largest+donor+or+financial+supporter+of+Raymond+%22H.%22+Hamden+II+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQ5t4CegQIKxAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 4,
+      "title": "Follow the Money: Defense PACs and a 10-Way Primary ...",
+      "link": "http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQFnoECCIQAQ",
+      "displayed_link": "http://legis1.com › Legis1 Newsroom",
+      "favicon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs2NWHWpcvPVMCMkRdEU8e7Y.png",
+      "date": "Feb 21, 2026",
+      "snippet": "Rep. John Carter, the 84-year-old Republican who has held Texas's 31st Congressional District since 2003, is facing the most crowded primary ...",
+      "snippet_highlighted_words": [
+        "Texas's 31st Congressional",
+        "most"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Rep. John Carter, the 84-year-old Republican who has held Texas's 31st Congressional District since 2003, is facing the most crowded primary ...",
+          "source_info_link": "http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/",
+          "icon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs90bj7ibVBR8Ail_GIAVpGuJkzqd2jlYFddrOMt5sRdf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Flegis1.com%2Fnews%2Ffollow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat%2F",
+      "missing": [
+        "H."
+      ],
+      "must_include": {
+        "word": "H.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Who+is+the+largest+donor+or+financial+supporter+of+Raymond+%22H.%22+Hamden+II+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQ5t4CegQILBAB"
+      },
+      "source": "Legis1"
+    },
+    {
+      "position": 5,
+      "title": "John Carter (Texas)",
+      "link": "https://ballotpedia.org/John_Carter_(Texas)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/John_Carter_(Texas)&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQFnoECBwQAQ",
+      "displayed_link": "https://ballotpedia.org › John_Carter_(Texas)",
+      "favicon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIszEBl6zuWuSQzgdk_CmpiCE.png",
+      "snippet": "John Carter (Republican Party) is a member of the US House, representing Texas' 31st Congressional District. He assumed office on January 3, 2003.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "John Carter (Republican Party) is a member of the US House, representing Texas' 31st Congressional District. He assumed office on January 3, 2003.",
+          "source_info_link": "https://ballotpedia.org/John_Carter_(Texas)",
+          "icon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs6F4okOS1wG8DoNXLHeNJkNIjJ8_KLGWtJOqodOFM0nP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/John_Carter_(Texas)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FJohn_Carter_%28Texas%29",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 6,
+      "title": "Gates Foundation Committed Grants Database",
+      "link": "https://www.gatesfoundation.org/about/committed-grants",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gatesfoundation.org/about/committed-grants&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQFnoECDIQAQ",
+      "displayed_link": "https://www.gatesfoundation.org › about › committed-g...",
+      "favicon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs7b_58Pxm5btsoEkNls0p5Y.png",
+      "snippet": "Search the Gates Foundation's committed grants database and explore funding details, annual reports, and downloadable data.",
+      "about_this_result": {
+        "source": {
+          "description": "Search the Gates Foundation's committed grants database and explore funding details, annual reports, and downloadable data.",
+          "source_info_link": "https://www.gatesfoundation.org/about/committed-grants",
+          "icon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs5tQF3cQ0KmoN0Cfa9gUjG3Jk6uO9Hx9GVg2mms9b-pL.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gatesfoundation.org/about/committed-grants&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gatesfoundation.org%2Fabout%2Fcommitted-grants",
+      "source": "Gates Foundation"
+    },
+    {
+      "position": 7,
+      "title": "Valentina Gomez Noriega",
+      "link": "https://ballotpedia.org/Valentina_Gomez_Noriega",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Valentina_Gomez_Noriega&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQFnoECDMQAQ",
+      "displayed_link": "https://ballotpedia.org › Valentina_Gomez_Noriega",
+      "favicon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIs7hnAym227f1LFjQ-Q4amVk.png",
+      "snippet": "Freeman School of Business in 2020. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Freeman School of Business in 2020. Texas' 31st Congressional District election, 2026 (March 3 Republican primary).",
+          "source_info_link": "https://ballotpedia.org/Valentina_Gomez_Noriega",
+          "icon": "https://serpapi.com/searches/69bb5d095604337d03960003/images/JclJG8IndlTndMITVoGIszeRAZaQcnLJu4wUh3Prjckao-mjywNMC7ZQ1Kj59d8p.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Valentina_Gomez_Noriega&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FValentina_Gomez_Noriega",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Raymond+H.+Hamden+II+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwigxpeD86qTAxVXhf0HHXayKCQQ5t4CegQIOBAB"
+      },
+      "source": "Ballotpedia"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 7 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Raymond+H.+Hamden+II+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      },
+      {
+        "content": "Some results may have been removed under data protection law in Europe. Learn more",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/policies/faq",
+            "text": "Learn more"
+          }
+        ]
+      }
+    ]
+  }
+}

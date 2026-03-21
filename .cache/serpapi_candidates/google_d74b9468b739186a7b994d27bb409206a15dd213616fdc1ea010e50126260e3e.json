@@ -1,0 +1,364 @@
+{
+  "search_metadata": {
+    "id": "69bb5dccb7942fa3182173eb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jrKb_2OcsvnKjgj-wfkBKA/69bb5dccb7942fa3182173eb.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/jrKb_2OcsvnKjgj-wfkBKA/69bb5dccb7942fa3182173eb.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:04 UTC",
+    "processed_at": "2026-03-19 02:22:04 UTC",
+    "google_url": "https://www.google.com/search?q=Pete+Flores+%22State+Senate+TX-24%22+%22Central+Texas%22+Instagram&oq=Pete+Flores+%22State+Senate+TX-24%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/jrKb_2OcsvnKjgj-wfkBKA/69bb5dccb7942fa3182173eb.html",
+    "total_time_taken": 6.98
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Pete Flores \"State Senate TX-24\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Pete Flores \"State Senate TX-24\" \"Central Texas\" Instagram",
+    "total_results": 22100,
+    "time_taken_displayed": 0.58,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Pete Flores State Senate TX-24 Central Texas Instagram",
+    "spelling_fix": "Pete Flores State Senate TX-24 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Senator Pete Flores (@peteflores_tx)",
+      "link": "https://www.instagram.com/peteflores_tx/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/peteflores_tx/&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQFnoECB8QAQ",
+      "displayed_link": "230+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviIPdntgjLohuEs0r8dYcA40.png",
+      "snippet": "232 followers · 36 following · 73 posts · @peteflores_tx: “Re-elect Senator Peter Flores for Texas Senate District 19.”",
+      "snippet_highlighted_words": [
+        "Senator Peter Flores for Texas Senate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "232 followers · 36 following · 73 posts · @peteflores_tx: “Re-elect Senator Peter Flores for Texas Senate District 19.”",
+          "source_info_link": "https://www.instagram.com/peteflores_tx/",
+          "icon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviLj0kymYgmKU145bgAKRksEaB0RAH4hTP8g4a50nhZyS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/peteflores_tx/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fpeteflores_tx%2F",
+      "missing": [
+        "TX-",
+        "Central"
+      ],
+      "source": "Instagram · peteflores_tx"
+    },
+    {
+      "position": 2,
+      "title": "I was proud to speak with my colleague Senator Pete ...",
+      "link": "https://www.instagram.com/p/DUtJabOESN2/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUtJabOESN2/&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQFnoECCAQAQ",
+      "displayed_link": "10+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviFKQPibf0Rv8O4XjZSkcH8Q.png",
+      "snippet": "Moderated by Bell County Judge David Blackburn, we had a fantastic conversation about the political landscape of water legislation, the benefits ...",
+      "about_this_result": {
+        "source": {
+          "description": "Moderated by Bell County Judge David Blackburn, we had a fantastic conversation about the political landscape of water legislation, the benefits ...",
+          "source_info_link": "https://www.instagram.com/p/DUtJabOESN2/",
+          "icon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviOq8sBcSkC_XMD7jENUS1gPAiwTM68WBPO1_ptL_KF7s.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUtJabOESN2/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUtJabOESN2%2F",
+      "source": "Instagram · bradbuckleyfortexas"
+    },
+    {
+      "position": 3,
+      "title": "Today I had the privilege of attending the Bell County ...",
+      "link": "https://www.instagram.com/p/DUrWx3oFspt/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUrWx3oFspt/&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQFnoECBsQAQ",
+      "displayed_link": "20+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviBZ8_9CjUDtC74-CrpDV7YY.png",
+      "snippet": "for our community! A big thank you to Bell County Judge David Blackburn for moderating an insightful panel featuring Senator Pete Flores and ...",
+      "snippet_highlighted_words": [
+        "for",
+        "for",
+        "Senator Pete Flores"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "for our community! A big thank you to Bell County Judge David Blackburn for moderating an insightful panel featuring Senator Pete Flores and ...",
+          "source_info_link": "https://www.instagram.com/p/DUrWx3oFspt/",
+          "icon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviHegWbgGZnyNnHXYeLtRm22ZFIhiZJq5wZJaHqPTY1aa.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUrWx3oFspt/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUrWx3oFspt%2F",
+      "source": "Instagram · hickland4texas"
+    },
+    {
+      "position": 4,
+      "title": "RSVP for Central Texas RW September Networking Speaker",
+      "link": "https://www.instagram.com/p/DOULgopj1Ft/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DOULgopj1Ft/&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQFnoECB4QAQ",
+      "displayed_link": "6 likes · 6 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviAc-gY9MP-r8ndnjnVgD87k.png",
+      "snippet": "That's why Texas Alliance for Life PAC is proud to endorse Sen. Pete Flores for Texas State Senate District 24. Early voting begins Tuesday ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Pete Flores",
+        "Texas State Senate",
+        "24"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "That's why Texas Alliance for Life PAC is proud to endorse Sen. Pete Flores for Texas State Senate District 24. Early voting begins Tuesday ...",
+          "source_info_link": "https://www.instagram.com/p/DOULgopj1Ft/",
+          "icon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviI_Uq7V-mDniw3ox8mS7AseOmAOClC4E6TZiGIaX0DiT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DOULgopj1Ft/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDOULgopj1Ft%2F",
+      "source": "Instagram · ctrw_pac"
+    },
+    {
+      "position": 5,
+      "title": "Star Republican Women crushed the TFRW Leadership ...",
+      "link": "https://www.instagram.com/p/DGTBVI7s83p/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DGTBVI7s83p/&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQFnoECB0QAQ",
+      "displayed_link": "10+ likes · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviLTMF3GtuCIb9-4t28VNPek.png",
+      "snippet": "President, Zenia Warren with the Texas Federation Republican Women, made a splash by announcing that recruitment this past election exceeded ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "President, Zenia Warren with the Texas Federation Republican Women, made a splash by announcing that recruitment this past election exceeded ...",
+          "source_info_link": "https://www.instagram.com/p/DGTBVI7s83p/",
+          "icon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviLvNgGqTyRFUxAbSKLUxNKtd_FMx3tDqNw-IyCSidqpI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DGTBVI7s83p/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDGTBVI7s83p%2F",
+      "source": "Instagram · txfrw"
+    },
+    {
+      "position": 6,
+      "title": "Senator Pete Flores: District 24",
+      "link": "https://senate.texas.gov/member.php?d=24",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://senate.texas.gov/member.php%3Fd%3D24&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQFnoECC0QAQ",
+      "displayed_link": "https://senate.texas.gov › member",
+      "favicon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviKQN0GVf36ay7yhbbf4wotI.png",
+      "snippet": "Senator Flores was first elected in a special election in 2018, becoming the first Hispanic Republican in the Texas Senate, and again elected in 2022 to serve ...",
+      "snippet_highlighted_words": [
+        "Senator Flores",
+        "Texas Senate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Senator Flores was first elected in a special election in 2018, becoming the first Hispanic Republican in the Texas Senate, and again elected in 2022 to serve ...",
+          "source_info_link": "https://senate.texas.gov/member.php?d=24",
+          "icon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviEbtmSsQLhQGgPfN23DcupQO4qAgkM-cFZQeDMmbR7-a.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://senate.texas.gov/member.php?d=24&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsenate.texas.gov%2Fmember.php%3Fd%3D24",
+      "missing": [
+        "Instagram"
+      ],
+      "must_include": {
+        "word": "Instagram",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+%22Instagram%22&sa=X&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ5t4CegQIMBAB"
+      },
+      "source": "The Texas State Senate (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Protecting the vital Edwards Aquifer and public health ...",
+      "link": "https://www.instagram.com/p/DRM02C4DQAk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DRM02C4DQAk/&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQFnoECBwQAQ",
+      "displayed_link": "9 likes · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviEzYdYd3Gwa-WF3WNY4jemc.png",
+      "snippet": "I will fight to protect Fayette County's water rights, keep our rivers clean and clear, and resist efforts to ship our groundwater to other ...",
+      "about_this_result": {
+        "source": {
+          "description": "I will fight to protect Fayette County's water rights, keep our rivers clean and clear, and resist efforts to ship our groundwater to other ...",
+          "source_info_link": "https://www.instagram.com/p/DRM02C4DQAk/",
+          "icon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviCdf9i_nqvUZFV6UXeQWB5zdjEyqw52HcEoin5l6eXdC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DRM02C4DQAk/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDRM02C4DQAk%2F",
+      "source": "Instagram · donnacampbelltx"
+    },
+    {
+      "position": 8,
+      "title": "From 10 in the morning to 6 at night, Powered by People ...",
+      "link": "https://www.instagram.com/p/DRBdWBnjaKR/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DRBdWBnjaKR/&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQFnoECDcQAQ",
+      "displayed_link": "9.7K+ likes · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviNrdtAjBvOSC4EiQ6cnektI.png",
+      "snippet": "Registering voters, recruiting volunteers, answering questions, and asking to stay in touch with our fellow Texans ahead of the next elections.",
+      "snippet_highlighted_words": [
+        "Texans"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Registering voters, recruiting volunteers, answering questions, and asking to stay in touch with our fellow Texans ahead of the next elections.",
+          "source_info_link": "https://www.instagram.com/p/DRBdWBnjaKR/",
+          "icon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviHV-WdmII-Vv7jl3t3bn_flD8omb6rYYz_SUGh_Ntfye.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DRBdWBnjaKR/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDRBdWBnjaKR%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Pete+Flores+State+Senate+TX-24+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ5t4CegQIQRAB"
+      },
+      "source": "Instagram · betoorourke"
+    },
+    {
+      "position": 9,
+      "title": "I appointed Senator Pete Flores, District 24 as Chair ...",
+      "link": "https://www.facebook.com/dan.patrick.texas/posts/i-appointed-senator-pete-flores-district-24-as-chair-of-criminal-justice-because/1273828897443175/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/dan.patrick.texas/posts/i-appointed-senator-pete-flores-district-24-as-chair-of-criminal-justice-because/1273828897443175/&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQFnoECDgQAQ",
+      "displayed_link": "160+ reactions · 9 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviDXVZYwMLsCot149jXyl5bg.png",
+      "snippet": "I appointed Senator Pete Flores, District 24 as Chair of Criminal Justice because I knew he would stand strong for law and order.",
+      "snippet_highlighted_words": [
+        "Senator Pete Flores",
+        "24",
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I appointed Senator Pete Flores, District 24 as Chair of Criminal Justice because I knew he would stand strong for law and order.",
+          "source_info_link": "https://www.facebook.com/dan.patrick.texas/posts/i-appointed-senator-pete-flores-district-24-as-chair-of-criminal-justice-because/1273828897443175/",
+          "icon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviD54fDO_fkmiqAgFAzoGeoJHZvxgJLo6mYuItwPS4uAj.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/dan.patrick.texas/posts/i-appointed-senator-pete-flores-district-24-as-chair-of-criminal-justice-because/1273828897443175/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fdan.patrick.texas%2Fposts%2Fi-appointed-senator-pete-flores-district-24-as-chair-of-criminal-justice-because%2F1273828897443175%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Pete+Flores+State+Senate+TX-24+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ5t4CegQIQBAB"
+      },
+      "source": "Facebook · Dan Patrick"
+    },
+    {
+      "position": 10,
+      "title": "It's day three of early voting in Texas! I'm at the Cinco ...",
+      "link": "https://www.instagram.com/reel/DU8Ub_ekWJO/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DU8Ub_ekWJO/&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQFnoECDkQAQ",
+      "displayed_link": "20+ likes · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviCWQt3qvtfNEd68BUURM-I0.png",
+      "snippet": "I'm here at the Cinco Ranch Library. To all my America First Patriots, come out and see us. Come and vote. God bless Donald J Trump and god ...",
+      "about_this_result": {
+        "source": {
+          "description": "I'm here at the Cinco Ranch Library. To all my America First Patriots, come out and see us. Come and vote. God bless Donald J Trump and god ...",
+          "source_info_link": "https://www.instagram.com/reel/DU8Ub_ekWJO/",
+          "icon": "https://serpapi.com/searches/69bb5dccb7942fa3182173eb/images/WvAuW0aRCwhde4sy-hfviH06fdV34LqHc3mpJoh1C3Y6s3DBf9HSWpGHpQ04A_K_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DU8Ub_ekWJO/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDU8Ub_ekWJO%2F",
+      "source": "Instagram · trevernehlsforcongress"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=0l27acifO-mV5OMPwKP1kQw&start=10&sa=N&sstk=Af77f_elqPG_iVJ6byxN9RiAiOHACfdtiq1__BsQ2VgNlx-Paxesn422WjGlrmd3UAKMg5CEbBlNRQKrBTNWRnA35CGTOcxwWzDpKQ&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ8NMDegQIDBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=0l27acifO-mV5OMPwKP1kQw&start=10&sa=N&sstk=Af77f_elqPG_iVJ6byxN9RiAiOHACfdtiq1__BsQ2VgNlx-Paxesn422WjGlrmd3UAKMg5CEbBlNRQKrBTNWRnA35CGTOcxwWzDpKQ&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=0l27acifO-mV5OMPwKP1kQw&start=20&sa=N&sstk=Af77f_elqPG_iVJ6byxN9RiAiOHACfdtiq1__BsQ2VgNlx-Paxesn422WjGlrmd3UAKMg5CEbBlNRQKrBTNWRnA35CGTOcxwWzDpKQ&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=0l27acifO-mV5OMPwKP1kQw&start=30&sa=N&sstk=Af77f_elqPG_iVJ6byxN9RiAiOHACfdtiq1__BsQ2VgNlx-Paxesn422WjGlrmd3UAKMg5CEbBlNRQKrBTNWRnA35CGTOcxwWzDpKQ&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=0l27acifO-mV5OMPwKP1kQw&start=40&sa=N&sstk=Af77f_elqPG_iVJ6byxN9RiAiOHACfdtiq1__BsQ2VgNlx-Paxesn422WjGlrmd3UAKMg5CEbBlNRQKrBTNWRnA35CGTOcxwWzDpKQ&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ8tMDegQIDBAK",
+      "6": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=0l27acifO-mV5OMPwKP1kQw&start=50&sa=N&sstk=Af77f_elqPG_iVJ6byxN9RiAiOHACfdtiq1__BsQ2VgNlx-Paxesn422WjGlrmd3UAKMg5CEbBlNRQKrBTNWRnA35CGTOcxwWzDpKQ&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ8tMDegQIDBAM",
+      "7": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=0l27acifO-mV5OMPwKP1kQw&start=60&sa=N&sstk=Af77f_elqPG_iVJ6byxN9RiAiOHACfdtiq1__BsQ2VgNlx-Paxesn422WjGlrmd3UAKMg5CEbBlNRQKrBTNWRnA35CGTOcxwWzDpKQ&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ8tMDegQIDBAO",
+      "8": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=0l27acifO-mV5OMPwKP1kQw&start=70&sa=N&sstk=Af77f_elqPG_iVJ6byxN9RiAiOHACfdtiq1__BsQ2VgNlx-Paxesn422WjGlrmd3UAKMg5CEbBlNRQKrBTNWRnA35CGTOcxwWzDpKQ&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ8tMDegQIDBAQ",
+      "9": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=0l27acifO-mV5OMPwKP1kQw&start=80&sa=N&sstk=Af77f_elqPG_iVJ6byxN9RiAiOHACfdtiq1__BsQ2VgNlx-Paxesn422WjGlrmd3UAKMg5CEbBlNRQKrBTNWRnA35CGTOcxwWzDpKQ&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ8tMDegQIDBAS",
+      "10": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=0l27acifO-mV5OMPwKP1kQw&start=90&sa=N&sstk=Af77f_elqPG_iVJ6byxN9RiAiOHACfdtiq1__BsQ2VgNlx-Paxesn422WjGlrmd3UAKMg5CEbBlNRQKrBTNWRnA35CGTOcxwWzDpKQ&ved=2ahUKEwjI0JHj86qTAxXpCnkGHcBRPcIQ8tMDegQIDBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pete+Flores+State+Senate+TX-24+Central+Texas+Instagram&start=90"
+    }
+  }
+}

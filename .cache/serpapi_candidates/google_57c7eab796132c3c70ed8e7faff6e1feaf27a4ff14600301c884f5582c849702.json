@@ -1,0 +1,408 @@
+{
+  "search_metadata": {
+    "id": "69bb5dd4cbcccfcc7269ae2d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2aWykdjULaAccQJYU88MRQ/69bb5dd4cbcccfcc7269ae2d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/2aWykdjULaAccQJYU88MRQ/69bb5dd4cbcccfcc7269ae2d.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:12 UTC",
+    "processed_at": "2026-03-19 02:22:12 UTC",
+    "google_url": "https://www.google.com/search?q=Pete+Flores+%22State+Senate+TX-24%22+%22Central+Texas%22+LinkedIn&oq=Pete+Flores+%22State+Senate+TX-24%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2aWykdjULaAccQJYU88MRQ/69bb5dd4cbcccfcc7269ae2d.html",
+    "total_time_taken": 3.51
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Pete Flores \"State Senate TX-24\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Pete Flores \"State Senate TX-24\" \"Central Texas\" LinkedIn",
+    "total_results": 16200,
+    "time_taken_displayed": 0.75,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Pete Flores State Senate TX-24 Central Texas LinkedIn",
+    "spelling_fix": "Pete Flores State Senate TX-24 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Senator Pete Flores: District 24",
+      "link": "https://senate.texas.gov/member.php?d=24",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://senate.texas.gov/member.php%3Fd%3D24&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQFnoECCcQAQ",
+      "displayed_link": "https://senate.texas.gov › member",
+      "favicon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLM3N1tRVFYicYl8S5cF5aKE.png",
+      "snippet": "Senator Flores was first elected in a special election in 2018, becoming the first Hispanic Republican in the Texas Senate, and again elected in 2022 to serve ...",
+      "snippet_highlighted_words": [
+        "Senator Flores",
+        "Texas Senate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Senator Flores was first elected in a special election in 2018, becoming the first Hispanic Republican in the Texas Senate, and again elected in 2022 to serve ...",
+          "source_info_link": "https://senate.texas.gov/member.php?d=24",
+          "icon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLL7zpKYB__aYuETpbeTsX4w_OL_V3OvbT5-Zp84QfNtD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://senate.texas.gov/member.php?d=24&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsenate.texas.gov%2Fmember.php%3Fd%3D24",
+      "missing": [
+        "LinkedIn"
+      ],
+      "must_include": {
+        "word": "LinkedIn",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Pete+Flores+State+Senate+TX-24+Central+Texas+%22LinkedIn%22&sa=X&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ5t4CegQIMRAB"
+      },
+      "source": "The Texas State Senate (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "Benjamin Miranda, M.Ed., GCBA, PMC, RBLP-T, CMSgt ...",
+      "link": "https://www.linkedin.com/posts/benjamin-miranda_thank-you-texas-senator-peter-p-flores-activity-7226392176094568451-lzQ4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/benjamin-miranda_thank-you-texas-senator-peter-p-flores-activity-7226392176094568451-lzQ4&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQFnoECCYQAQ",
+      "displayed_link": "https://www.linkedin.com › posts › benjamin-miranda_th...",
+      "favicon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLKMGte_c3HsSxNSkrTe68tM.png",
+      "date": "Aug 5, 2024",
+      "snippet": "Thank you Texas Senator Peter P. Flores for visiting Endeavors and learning about our 55-year history in serving vulnerable populations ...",
+      "snippet_highlighted_words": [
+        "Texas Senator Peter",
+        "Flores for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Thank you Texas Senator Peter P. Flores for visiting Endeavors and learning about our 55-year history in serving vulnerable populations ...",
+          "source_info_link": "https://www.linkedin.com/posts/benjamin-miranda_thank-you-texas-senator-peter-p-flores-activity-7226392176094568451-lzQ4",
+          "icon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLIW1HDUNzoddagJDGw7jWEuhCYzdH4qjOC3RLIkabsSC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/benjamin-miranda_thank-you-texas-senator-peter-p-flores-activity-7226392176094568451-lzQ4&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbenjamin-miranda_thank-you-texas-senator-peter-p-flores-activity-7226392176094568451-lzQ4",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Pete+Flores+State+Senate+TX-24+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ5t4CegQINBAB"
+      },
+      "source": "LinkedIn"
+    },
+    {
+      "position": 3,
+      "title": "Texas Sen. Pete Flores",
+      "link": "https://www.texastribune.org/directory/pete-flores/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.texastribune.org/directory/pete-flores/&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQFnoECB0QAQ",
+      "displayed_link": "https://www.texastribune.org › directory › pete-flores",
+      "favicon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLMY-tssBKbWJ-_gKGWCbgaE.png",
+      "snippet": "Address, 2180 North Main Street, H1 & H2 Belton, TX 76513 500 W. Young Suite D Llano, TX 78643. Schreiner One Center 819 Water St., Suite 164",
+      "snippet_highlighted_words": [
+        "Main",
+        "TX",
+        "TX",
+        "Center"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Address, 2180 North Main Street, H1 & H2 Belton, TX 76513 500 W. Young Suite D Llano, TX 78643. Schreiner One Center 819 Water St., Suite 164",
+          "source_info_link": "https://www.texastribune.org/directory/pete-flores/",
+          "icon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLGhwmLEkB1l0pCKZNkUB8Syxpb4at5TQvgBBL774NG5a.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.texastribune.org/directory/pete-flores/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.texastribune.org%2Fdirectory%2Fpete-flores%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Pete+Flores+State+Senate+TX-24+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ5t4CegQIMhAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 4,
+      "title": "Chip Howell - State Sen. Pete Flores (R-TX) (Nov. 2023-), ...",
+      "link": "https://www.legistorm.com/person/bio/495503/Larry_Charles_Howell.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.legistorm.com/person/bio/495503/Larry_Charles_Howell.html&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQFnoECBwQAQ",
+      "displayed_link": "https://www.legistorm.com › bio › Larry_Charles_Howell",
+      "snippet": "Biographical · Full Name: Larry Charles Howell · Pronouns: Masculine Male · Religion: Anglican · Hometown: Temple, Texas · Place of Residence: Morgan's Point Resort, ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Biographical · Full Name: Larry Charles Howell · Pronouns: Masculine Male · Religion: Anglican · Hometown: Temple, Texas · Place of Residence: Morgan's Point Resort, ...",
+          "source_info_link": "https://www.legistorm.com/person/bio/495503/Larry_Charles_Howell.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.legistorm.com/person/bio/495503/Larry_Charles_Howell.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.legistorm.com%2Fperson%2Fbio%2F495503%2FLarry_Charles_Howell.html",
+      "source": "LegiStorm"
+    },
+    {
+      "position": 5,
+      "title": "Peter flores - Austin, Texas, United States",
+      "link": "https://www.linkedin.com/in/peter-flores-6789493a0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/peter-flores-6789493a0&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQFnoECB4QAQ",
+      "displayed_link": "https://www.linkedin.com › peter-flores-6789493a0",
+      "favicon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLDA-3fOazP8Sp8sCLDZgW7E.png",
+      "snippet": "Education: Texas A&M University · Location: Austin. View Peter flores' profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Peter flores",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Education: Texas A&M University · Location: Austin. View Peter flores' profile on LinkedIn, a professional community of 1 billion members.",
+          "source_info_link": "https://www.linkedin.com/in/peter-flores-6789493a0",
+          "icon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLIoQIhcDcs9arLSVWiOqovN3Tk1EqcYDpHAlrV_96bEN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/peter-flores-6789493a0&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpeter-flores-6789493a0",
+      "missing": [
+        "Senate",
+        "TX-",
+        "24",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 6,
+      "title": "Archived Congressional Testimony",
+      "link": "https://www.cbp.gov/about/congressional-resources/testimony/archive",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbp.gov/about/congressional-resources/testimony/archive&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQFnoECCAQAQ",
+      "displayed_link": "https://www.cbp.gov › about › testimony › archive",
+      "favicon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLK_gWhYaSd81Ryn3EGyco1k.png",
+      "snippet": "Written testimony of CBP Office of Intelligence Deputy Assistant Commissioner James Mandryck for a hearing before the House Committee on Homeland Security, ...",
+      "snippet_highlighted_words": [
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Written testimony of CBP Office of Intelligence Deputy Assistant Commissioner James Mandryck for a hearing before the House Committee on Homeland Security, ...",
+          "source_info_link": "https://www.cbp.gov/about/congressional-resources/testimony/archive",
+          "icon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLI_ZUgRSuSTm1aXE05qCnZXVGq0QOa8V9IWUyVzzIwgw.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cbp.gov/about/congressional-resources/testimony/archive&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cbp.gov%2Fabout%2Fcongressional-resources%2Ftestimony%2Farchive",
+      "source": "U.S. Customs and Border Protection (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "The impact of removing Planned Parenthood from Texas ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5129844/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC5129844/&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQFnoECB8QAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC5129844",
+      "favicon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLEEZbx6DjRW4XgJVECKeNts.png",
+      "author": "by AJ Stevenson",
+      "snippet": "Fifteen states bar or propose to bar Planned Parenthood affiliates from providing health care services with public funds. After courts blocked exclusion ...",
+      "snippet_highlighted_words": [
+        "states"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Fifteen states bar or propose to bar Planned Parenthood affiliates from providing health care services with public funds. After courts blocked exclusion ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5129844/",
+          "icon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLHRLz0PB23kAhA-KkF-RWS3AlmIDOyWywFuZe0FjSneJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pmc.ncbi.nlm.nih.gov/articles/PMC5129844/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC5129844%2F",
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "It's your duty to demand justice for Epstein's victims.",
+      "link": "https://actionnetwork.org/letters/demand-justice-for-epsteins-victims-letter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://actionnetwork.org/letters/demand-justice-for-epsteins-victims-letter&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQFnoECD4QAQ",
+      "displayed_link": "https://actionnetwork.org › letters › demand-justice-for-e...",
+      "snippet": "Our Republican representatives and senators have been loudly campaigning — for years — on protecting children from abuse, cracking down on sex trafficking, ...",
+      "snippet_highlighted_words": [
+        "senators",
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our Republican representatives and senators have been loudly campaigning — for years — on protecting children from abuse, cracking down on sex trafficking, ...",
+          "source_info_link": "https://actionnetwork.org/letters/demand-justice-for-epsteins-victims-letter"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://actionnetwork.org/letters/demand-justice-for-epsteins-victims-letter&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Factionnetwork.org%2Fletters%2Fdemand-justice-for-epsteins-victims-letter",
+      "source": "actionnetwork.org"
+    },
+    {
+      "position": 9,
+      "title": "Williamson County, Texas - Government",
+      "link": "https://www.facebook.com/wilcotxgov/posts/in-response-to-the-july-5-flood-the-williamson-county-commissioners-court-receiv/1174739428020977/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/wilcotxgov/posts/in-response-to-the-july-5-flood-the-williamson-county-commissioners-court-receiv/1174739428020977/&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQFnoECD8QAQ",
+      "displayed_link": "20+ reactions · 7 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLNmXE5jM6TTssfl7hP_RIO4.png",
+      "snippet": "In response to the July 5 flood, the Williamson County Commissioners Court received an update from WilCo Cares, the Central Texas Community ...",
+      "snippet_highlighted_words": [
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In response to the July 5 flood, the Williamson County Commissioners Court received an update from WilCo Cares, the Central Texas Community ...",
+          "source_info_link": "https://www.facebook.com/wilcotxgov/posts/in-response-to-the-july-5-flood-the-williamson-county-commissioners-court-receiv/1174739428020977/",
+          "icon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLHFyeDeoY7mA7asoSDJs1LuefHi0Am7_XxB_HaTBvdND.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/wilcotxgov/posts/in-response-to-the-july-5-flood-the-williamson-county-commissioners-court-receiv/1174739428020977/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fwilcotxgov%2Fposts%2Fin-response-to-the-july-5-flood-the-williamson-county-commissioners-court-receiv%2F1174739428020977%2F",
+      "source": "Facebook · Williamson County, Texas - Government"
+    },
+    {
+      "position": 10,
+      "title": "Meaghan Crump - charity: water",
+      "link": "https://www.linkedin.com/in/meaghancrump",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/meaghancrump&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQFnoECEQQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLEeUhD8Yme2rtTpXnFySVqc.png",
+      "snippet": "Experience: charity: water · Education: Anderson University · Location: Orlando · 500+ connections on LinkedIn. View Meaghan Crump's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "LinkedIn",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Orlando, Florida, United States",
+            "charity: water"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: charity: water · Education: Anderson University · Location: Orlando · 500+ connections on LinkedIn. View Meaghan Crump's profile on LinkedIn, ...",
+          "source_info_link": "https://www.linkedin.com/in/meaghancrump",
+          "icon": "https://serpapi.com/searches/69bb5dd4cbcccfcc7269ae2d/images/iVoZGQWZRZuCq7FiNWPiLL6QxzgJCv5VQE70p_WqSmoDUkHVecX8K-kSmzgwm1fl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/meaghancrump&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmeaghancrump",
+      "source": "LinkedIn · Meaghan Crump"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Texas Senate District 24 map",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Texas+Senate+District+24+map&sa=X&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Texas+Senate+District+24+map"
+    },
+    {
+      "block_position": 1,
+      "query": "Pete Flores Texas",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Pete+Flores+Texas&sa=X&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+Texas"
+    },
+    {
+      "block_position": 1,
+      "query": "Pete Flores CBP",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Pete+Flores+CBP&sa=X&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+CBP"
+    },
+    {
+      "block_position": 1,
+      "query": "Pete flores born",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Pete+flores+born&sa=X&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+flores+born"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=1l27ae_lIa65wN4P7Z6PkQc&start=10&sa=N&sstk=Af77f_esawdFMj64AeLVbq43laZIhVSEp9ccBST6YH8q_6zLMGios756Q8NcPhT9FClc205BXb2CSixtKOmFwTm3KbJjh6UTe0M11A&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=1l27ae_lIa65wN4P7Z6PkQc&start=10&sa=N&sstk=Af77f_esawdFMj64AeLVbq43laZIhVSEp9ccBST6YH8q_6zLMGios756Q8NcPhT9FClc205BXb2CSixtKOmFwTm3KbJjh6UTe0M11A&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=1l27ae_lIa65wN4P7Z6PkQc&start=20&sa=N&sstk=Af77f_esawdFMj64AeLVbq43laZIhVSEp9ccBST6YH8q_6zLMGios756Q8NcPhT9FClc205BXb2CSixtKOmFwTm3KbJjh6UTe0M11A&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=1l27ae_lIa65wN4P7Z6PkQc&start=30&sa=N&sstk=Af77f_esawdFMj64AeLVbq43laZIhVSEp9ccBST6YH8q_6zLMGios756Q8NcPhT9FClc205BXb2CSixtKOmFwTm3KbJjh6UTe0M11A&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=1l27ae_lIa65wN4P7Z6PkQc&start=40&sa=N&sstk=Af77f_esawdFMj64AeLVbq43laZIhVSEp9ccBST6YH8q_6zLMGios756Q8NcPhT9FClc205BXb2CSixtKOmFwTm3KbJjh6UTe0M11A&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=1l27ae_lIa65wN4P7Z6PkQc&start=50&sa=N&sstk=Af77f_esawdFMj64AeLVbq43laZIhVSEp9ccBST6YH8q_6zLMGios756Q8NcPhT9FClc205BXb2CSixtKOmFwTm3KbJjh6UTe0M11A&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=1l27ae_lIa65wN4P7Z6PkQc&start=60&sa=N&sstk=Af77f_esawdFMj64AeLVbq43laZIhVSEp9ccBST6YH8q_6zLMGios756Q8NcPhT9FClc205BXb2CSixtKOmFwTm3KbJjh6UTe0M11A&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=1l27ae_lIa65wN4P7Z6PkQc&start=70&sa=N&sstk=Af77f_esawdFMj64AeLVbq43laZIhVSEp9ccBST6YH8q_6zLMGios756Q8NcPhT9FClc205BXb2CSixtKOmFwTm3KbJjh6UTe0M11A&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=1l27ae_lIa65wN4P7Z6PkQc&start=80&sa=N&sstk=Af77f_esawdFMj64AeLVbq43laZIhVSEp9ccBST6YH8q_6zLMGios756Q8NcPhT9FClc205BXb2CSixtKOmFwTm3KbJjh6UTe0M11A&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=1l27ae_lIa65wN4P7Z6PkQc&start=90&sa=N&sstk=Af77f_esawdFMj64AeLVbq43laZIhVSEp9ccBST6YH8q_6zLMGios756Q8NcPhT9FClc205BXb2CSixtKOmFwTm3KbJjh6UTe0M11A&ved=2ahUKEwjvqOzk86qTAxWuHNAFHW3PI3IQ8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pete+Flores+State+Senate+TX-24+Central+Texas+LinkedIn&start=90"
+    }
+  }
+}

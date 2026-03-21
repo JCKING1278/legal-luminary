@@ -1,0 +1,473 @@
+{
+  "search_metadata": {
+    "id": "69bb5e4e5c4bf468be9fe9dd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cx6noGU_lnyRnLlzVwcJeA/69bb5e4e5c4bf468be9fe9dd.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/cx6noGU_lnyRnLlzVwcJeA/69bb5e4e5c4bf468be9fe9dd.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:14 UTC",
+    "processed_at": "2026-03-19 02:24:14 UTC",
+    "google_url": "https://www.google.com/search?q=Stuart+Norman+Whitlow+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&oq=Stuart+Norman+Whitlow+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/cx6noGU_lnyRnLlzVwcJeA/69bb5e4e5c4bf468be9fe9dd.html",
+    "total_time_taken": 2.03
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Stuart Norman Whitlow \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Stuart Norman Whitlow \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "total_results": 391,
+    "time_taken_displayed": 0.82,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Stuart Norman Whitlow US House TX-31 Central Texas LinkedIn",
+    "spelling_fix": "Stuart Norman Whitlow US House TX-31 Central Texas LinkedIn"
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Attorney at Law Offices of Stuart Whitlow",
+      "link": "https://www.linkedin.com/in/stuart-whitlow-18887a10",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stuart-whitlow-18887a10&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQFnoECB8QAQ",
+      "displayed_link": "100+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlL-0wOROnMj_lFr3G3scItw.png",
+      "snippet": "Attorney at Law Offices of Stuart Whitlow · Experience: Whitlow for Congress 2026 · Education: University of Texas at Austin School of Law · Location: Round ...",
+      "snippet_highlighted_words": [
+        "Stuart Whitlow",
+        "Whitlow",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Attorney at Law Offices of Stuart Whitlow · Experience: Whitlow for Congress 2026 · Education: University of Texas at Austin School of Law · Location: Round ...",
+          "source_info_link": "https://www.linkedin.com/in/stuart-whitlow-18887a10",
+          "icon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlCNOvEk898dka4IAjZH70UEH8JjURLQbBU4ci5OZzmZU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/stuart-whitlow-18887a10&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fstuart-whitlow-18887a10",
+      "missing": [
+        "Norman"
+      ],
+      "must_include": {
+        "word": "Norman",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Stuart+%22Norman%22+Whitlow+US+House+TX-31+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ5t4CegQIKRAB"
+      },
+      "source": "LinkedIn · Stuart Whitlow"
+    },
+    {
+      "position": 2,
+      "title": "Stuart Whitlow - Texas Legal Services Center, Inc.",
+      "link": "https://www.linkedin.com/in/stuart-whitlow-18197917b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stuart-whitlow-18197917b&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQFnoECBwQAQ",
+      "displayed_link": "https://www.linkedin.com › stuart-whitlow-18197917b",
+      "favicon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlOI4EE73uM7MeFkiq62HIHA.png",
+      "snippet": "Experience: Texas Legal Services Center, Inc. · Location: Wichita, Kansas Metropolitan Area. View Stuart Whitlow's profile on LinkedIn, a professional ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "Center",
+        "Stuart Whitlow's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wichita, Kansas Metropolitan Area",
+            "Texas Legal Services Center, Inc."
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: Texas Legal Services Center, Inc. · Location: Wichita, Kansas Metropolitan Area. View Stuart Whitlow's profile on LinkedIn, a professional ...",
+          "source_info_link": "https://www.linkedin.com/in/stuart-whitlow-18197917b",
+          "icon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlPyQq4egCOz5n7dv9woGfzhxMjowFisdbRj-upiWXeVe.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/stuart-whitlow-18197917b&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fstuart-whitlow-18197917b",
+      "missing": [
+        "Norman",
+        "House",
+        "31"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 3,
+      "title": "7 \"Stuart Whitlow\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Stuart/Whitlow",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Stuart/Whitlow&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQFnoECB0QAQ",
+      "displayed_link": "https://www.linkedin.com › pub › dir › Stuart › Whitlow",
+      "favicon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlAH0m8PkUt46ZT4mX-HHSRk.png",
+      "snippet": "View the profiles of professionals named \"Stuart Whitlow\" on LinkedIn. There are 7 professionals named \"Stuart Whitlow\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "Stuart Whitlow",
+        "LinkedIn",
+        "Stuart Whitlow",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Stuart Whitlow\" on LinkedIn. There are 7 professionals named \"Stuart Whitlow\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Stuart/Whitlow",
+          "icon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlKT1NeQbwUKgiH6dtb1fGxFyOVamXFs6j7N1aVK8-5aR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Stuart/Whitlow&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FStuart%2FWhitlow",
+      "missing": [
+        "Norman",
+        "US",
+        "House",
+        "31"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 4,
+      "title": "Stuart Whitlow - owner at Law Offices of ...",
+      "link": "https://www.linkedin.com/in/stuart-whitlow-58610416",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stuart-whitlow-58610416&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQFnoECB4QAQ",
+      "displayed_link": "https://www.linkedin.com › stuart-whitlow-58610416",
+      "favicon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlH7fG72YWIr_M0i5sj2AHCY.png",
+      "snippet": "owner at Law Offices of Stuart Whitlow · Experience: Law Offices of Stuart Whitlow · Location: Round Rock. View Stuart Whitlow's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "Stuart Whitlow",
+        "Stuart Whitlow",
+        "Stuart Whitlow's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Round Rock, Texas, United States",
+            "owner",
+            "Law Offices of Stuart Whitlow"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "owner at Law Offices of Stuart Whitlow · Experience: Law Offices of Stuart Whitlow · Location: Round Rock. View Stuart Whitlow's profile on LinkedIn\n, ...",
+          "source_info_link": "https://www.linkedin.com/in/stuart-whitlow-58610416",
+          "icon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlExtE-ASWi15kYUlLjwZiFaZprvG__L2oo0A7emz44Uy.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/stuart-whitlow-58610416&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fstuart-whitlow-58610416",
+      "missing": [
+        "Norman",
+        "31",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 5,
+      "title": "Stuart Whitlow",
+      "link": "https://ballotpedia.org/Stuart_Whitlow",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Stuart_Whitlow&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQFnoECCwQAQ",
+      "displayed_link": "https://ballotpedia.org › Stuart_Whitlow",
+      "favicon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlMzn0f2mvDDS4gbHgj3cmvY.png",
+      "snippet": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+      "snippet_highlighted_words": [
+        "U.S. House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+          "source_info_link": "https://ballotpedia.org/Stuart_Whitlow",
+          "icon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlIMygXiYfuQxrUPthMR5Djs3dVgVJx2dfPFBOTNSI02c.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Stuart_Whitlow&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FStuart_Whitlow",
+      "missing": [
+        "Norman"
+      ],
+      "must_include": {
+        "word": "Norman",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Stuart+%22Norman%22+Whitlow+US+House+TX-31+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ5t4CegQILxAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 6,
+      "title": "I'm Stuart Whitlow, and I'm running for Congress in Texas' ...",
+      "link": "https://www.instagram.com/reel/DUD29iplYJg/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DUD29iplYJg/&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQFnoECDcQAQ",
+      "displayed_link": "10+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlOPkS5r233V3bRsb4AF9Rj4.png",
+      "snippet": "Ladies and gentlemen, I want to bring up to the stage right now our next congressman for District thirty-one. Stuart Whitlow.",
+      "snippet_highlighted_words": [
+        "Stuart Whitlow"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ladies and gentlemen, I want to bring up to the stage right now our next congressman for District thirty-one. Stuart Whitlow.",
+          "source_info_link": "https://www.instagram.com/reel/DUD29iplYJg/",
+          "icon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlHiZ7Oeb1FsUCfviG6MaSm56zJoOKD-cfhLpyUuX5uwl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DUD29iplYJg/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDUD29iplYJg%2F",
+      "missing": [
+        "Norman",
+        "LinkedIn"
+      ],
+      "source": "Instagram · stuartwhitlow31"
+    },
+    {
+      "position": 7,
+      "title": "Stuart Whitlow (@stuartwhitlow31)",
+      "link": "https://www.instagram.com/stuartwhitlow31/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/stuartwhitlow31/&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQFnoECDwQAQ",
+      "displayed_link": "290+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlAoDun3wkPH63Tz3Qb3fYok.png",
+      "snippet": "290 followers · 307 following · 157 posts · @stuartwhitlow31: “The #Democrat with the experience to beat John Carter. Fifth generation Texan running for ...",
+      "about_this_result": {
+        "source": {
+          "description": "290 followers · 307 following · 157 posts · @stuartwhitlow31: “The #Democrat with the experience to beat John Carter. Fifth generation Texan running for ...",
+          "source_info_link": "https://www.instagram.com/stuartwhitlow31/",
+          "icon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlOK_-K2ZcLyDfHPjImYAqvnPekjO6rVlt-oKKQAQqAk5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/stuartwhitlow31/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fstuartwhitlow31%2F",
+      "missing": [
+        "Norman",
+        "US",
+        "House",
+        "LinkedIn"
+      ],
+      "source": "Instagram · stuartwhitlow31"
+    },
+    {
+      "position": 8,
+      "title": "Stuart Whitlow for Congress | TX-31 | A New Voice for Central ...",
+      "link": "https://whitlowtx31.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://whitlowtx31.com/&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQFnoECEMQAQ",
+      "displayed_link": "https://whitlowtx31.com",
+      "favicon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlGn1W2L1eDzprKRmrlrWptQ.png",
+      "snippet": "Stuart Whitlow is running for Congress in TX-31 to put people before politics—fighting for jobs, veterans, rural healthcare, and affordable living.",
+      "snippet_highlighted_words": [
+        "Stuart Whitlow",
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Stuart Whitlow is running for Congress in TX-31 to put people before politics—fighting for jobs, veterans, rural healthcare, and affordable living.",
+          "source_info_link": "https://whitlowtx31.com/",
+          "icon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlPqFek96OrRiXYColBdwk73Axd3u0cL3f_ZFiQanbq_N.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://whitlowtx31.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwhitlowtx31.com%2F",
+      "missing": [
+        "Norman",
+        "LinkedIn"
+      ],
+      "source": "whitlowtx31.com"
+    },
+    {
+      "position": 9,
+      "title": "Stuart Whitlow @stuartwhitlow31 is running for Texas ...",
+      "link": "https://www.instagram.com/reel/DVZVLXJCIlG/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DVZVLXJCIlG/&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQFnoECEIQAQ",
+      "displayed_link": "20+ likes · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlMwb4XdQXrd9sgHLEhS59rE.png",
+      "snippet": "25 likes, 1 comments - momsagabbott on March 2, 2026: \"Stuart Whitlow @stuartwhitlow31 is running for Texas Congressional District 31 ...",
+      "snippet_highlighted_words": [
+        "Stuart Whitlow",
+        "Texas Congressional",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "25 likes, 1 comments - momsagabbott on March 2, 2026: \"Stuart Whitlow @stuartwhitlow31 is running for Texas Congressional District 31 ...",
+          "source_info_link": "https://www.instagram.com/reel/DVZVLXJCIlG/",
+          "icon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlHW-F-ganzT4tzvg_-jO3KqcqzYV7vA0tM0kKJGSJ-sY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DVZVLXJCIlG/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDVZVLXJCIlG%2F",
+      "missing": [
+        "Norman",
+        "Central",
+        "LinkedIn"
+      ],
+      "source": "Instagram · momsagabbott"
+    },
+    {
+      "position": 10,
+      "title": "Norman Whitlow - AGM Home Depot Distribution Center",
+      "link": "https://www.linkedin.com/in/norman-whitlow-b4869a178",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/norman-whitlow-b4869a178&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQFnoECEEQAQ",
+      "displayed_link": "10+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlPwBZ8x8aI7ykHwIOlqbgIk.png",
+      "snippet": "... Texas Metropolitan Area · 14 connections on LinkedIn. View Norman Whitlow's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "LinkedIn",
+        "Norman Whitlow's",
+        "LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Antonio, Texas Metropolitan Area",
+            "Supply Chain AGM",
+            "The Home Depot"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... Texas Metropolitan Area · 14 connections on LinkedIn. View Norman Whitlow's profile on LinkedIn, a professional community of 1 billion members.",
+          "source_info_link": "https://www.linkedin.com/in/norman-whitlow-b4869a178",
+          "icon": "https://serpapi.com/searches/69bb5e4e5c4bf468be9fe9dd/images/MVriEhHHjWQQ2M9u1GtZlCrErLQRrT2j-crkE5qGi_OssjE0T-GgDvqZlUT6E5Rt.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/norman-whitlow-b4869a178&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnorman-whitlow-b4869a178",
+      "missing": [
+        "Stuart",
+        "TX-",
+        "31"
+      ],
+      "source": "LinkedIn · Norman Whitlow"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Stuart whitlow endorsements",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Stuart+whitlow+endorsements&sa=X&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stuart+whitlow+endorsements"
+    },
+    {
+      "block_position": 1,
+      "query": "How old is stuart whitlow",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=How+old+is+stuart+whitlow&sa=X&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+old+is+stuart+whitlow"
+    },
+    {
+      "block_position": 1,
+      "query": "Stuart whitlow aipac",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Stuart+whitlow+aipac&sa=X&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stuart+whitlow+aipac"
+    },
+    {
+      "block_position": 1,
+      "query": "Vikki Goodwin",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Vikki+Goodwin&sa=X&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vikki+Goodwin"
+    },
+    {
+      "block_position": 1,
+      "query": "Gina Hinojosa",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Gina+Hinojosa&sa=X&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gina+Hinojosa"
+    },
+    {
+      "block_position": 1,
+      "query": "Joe Jaworski",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Joe+Jaworski&sa=X&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Joe+Jaworski"
+    },
+    {
+      "block_position": 1,
+      "query": "Zach Vance",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Zach+Vance&sa=X&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Zach+Vance"
+    },
+    {
+      "block_position": 1,
+      "query": "Bobby Cole",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Bobby+Cole&sa=X&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bobby+Cole"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Stuart+Norman+Whitlow+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=T167ad7sKJm_5OUPw-OPqQw&start=10&sa=N&sstk=Af77f_cAqZ8tejT98fj1U8DrambqkLqJLOxUUnA_8cdb9Ns-VqDaayLmEXQv28v2fe8sEcGxZHjLR8eEyTXct2zZ6vOBpgmFOESqrA&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ8NMDegQIDxAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Stuart+Norman+Whitlow+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=T167ad7sKJm_5OUPw-OPqQw&start=10&sa=N&sstk=Af77f_cAqZ8tejT98fj1U8DrambqkLqJLOxUUnA_8cdb9Ns-VqDaayLmEXQv28v2fe8sEcGxZHjLR8eEyTXct2zZ6vOBpgmFOESqrA&ved=2ahUKEwie0Mye9KqTAxWZH7kGHcPxI8UQ8tMDegQIDxAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stuart+Norman+Whitlow+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stuart+Norman+Whitlow+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stuart+Norman+Whitlow+US+House+TX-31+Central+Texas+LinkedIn&start=10"
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "search_metadata": {
+    "id": "69bb5e5a132583f58761cb93",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/QEfmH7yubKBeyNTuSDH9Ag/69bb5e5a132583f58761cb93.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/QEfmH7yubKBeyNTuSDH9Ag/69bb5e5a132583f58761cb93.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:26 UTC",
+    "processed_at": "2026-03-19 02:24:26 UTC",
+    "google_url": "https://www.google.com/search?q=Ramon+Alvarez+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&oq=Ramon+Alvarez+%22Killeen+Council+At-Large%22+%22Killeen%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/QEfmH7yubKBeyNTuSDH9Ag/69bb5e5a132583f58761cb93.html",
+    "total_time_taken": 2.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Ramon Alvarez \"Killeen Council At-Large\" \"Killeen\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Ramon Alvarez \"Killeen Council At-Large\" \"Killeen\" LinkedIn",
+    "total_results": 5,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Killeen candidate to host meet and greet event March 27",
+      "link": "https://kdhnews.com/news/local/killeen-candidate-to-host-meet-and-greet-event-march-27/article_5821dcf8-883b-11eb-8c61-2bf5a1dc7bff.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/killeen-candidate-to-host-meet-and-greet-event-march-27/article_5821dcf8-883b-11eb-8c61-2bf5a1dc7bff.html&ved=2ahUKEwjFmsek9KqTAxWqFVkFHVS4LoMQFnoECBoQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › killeen-candidate-...",
+      "favicon": "https://serpapi.com/searches/69bb5e5a132583f58761cb93/images/cCKeeOeUSklXLK4sHR5nEmRSglZayxyjv09kllZ5taE.png",
+      "snippet": "Killeen City Council District 3 candidate Ramon Alvarez ... Beverly Williams files for Killeen council at-large election ... LinkedIn Download. Support ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Ramon Alvarez",
+        "Killeen council at-large",
+        "LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen City Council District 3 candidate Ramon Alvarez ... Beverly Williams files for Killeen council at-large election ... LinkedIn Download. Support ...",
+          "source_info_link": "https://kdhnews.com/news/local/killeen-candidate-to-host-meet-and-greet-event-march-27/article_5821dcf8-883b-11eb-8c61-2bf5a1dc7bff.html",
+          "icon": "https://serpapi.com/searches/69bb5e5a132583f58761cb93/images/cCKeeOeUSklXLK4sHR5nEu0FN6ef9p-ac9_bMMMQ-X3Syi1UeHOdI4a8nmSGRwEs.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/killeen-candidate-to-host-meet-and-greet-event-march-27/article_5821dcf8-883b-11eb-8c61-2bf5a1dc7bff.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fkilleen-candidate-to-host-meet-and-greet-event-march-27%2Farticle_5821dcf8-883b-11eb-8c61-2bf5a1dc7bff.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "Downtown business owner says council candidate ...",
+      "link": "https://kdhnews.com/centerforpolitics/downtown-business-owner-says-council-candidate-cochran-trespassed-at-several-businesses/article_ded7c660-0a45-11ef-a3b1-cf454b2d82a2.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/downtown-business-owner-says-council-candidate-cochran-trespassed-at-several-businesses/article_ded7c660-0a45-11ef-a3b1-cf454b2d82a2.html&ved=2ahUKEwjFmsek9KqTAxWqFVkFHVS4LoMQFnoECB0QAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › downtown-bu...",
+      "favicon": "https://serpapi.com/searches/69bb5e5a132583f58761cb93/images/cCKeeOeUSklXLK4sHR5nEjMqEF6j7fQPFxXaLBzvOBk.png",
+      "date": "May 4, 2024",
+      "snippet": "A still from a Facebook video shows Killeen council at-large candidate Camron Cochran apparently being issued citation for criminal trespass in ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A still from a Facebook video shows Killeen council at-large candidate Camron Cochran apparently being issued citation for criminal trespass in ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/downtown-business-owner-says-council-candidate-cochran-trespassed-at-several-businesses/article_ded7c660-0a45-11ef-a3b1-cf454b2d82a2.html",
+          "icon": "https://serpapi.com/searches/69bb5e5a132583f58761cb93/images/cCKeeOeUSklXLK4sHR5nEpAsGLCymUbxaJot0oFwPp3V9AWrzwX5lZ_pfjWCI-Ox.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/downtown-business-owner-says-council-candidate-cochran-trespassed-at-several-businesses/article_ded7c660-0a45-11ef-a3b1-cf454b2d82a2.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fdowntown-business-owner-says-council-candidate-cochran-trespassed-at-several-businesses%2Farticle_ded7c660-0a45-11ef-a3b1-cf454b2d82a2.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Candidates respond to rezoning near Featherline Road",
+      "link": "https://kdhnews.com/centerforpolitics/candidates-respond-to-rezoning-near-featherline-road/article_ecff641c-04de-11ef-b252-f32ffcca2387.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/candidates-respond-to-rezoning-near-featherline-road/article_ecff641c-04de-11ef-b252-f32ffcca2387.html&ved=2ahUKEwjFmsek9KqTAxWqFVkFHVS4LoMQFnoECBsQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › candidates-res...",
+      "favicon": "https://serpapi.com/searches/69bb5e5a132583f58761cb93/images/cCKeeOeUSklXLK4sHR5nEk_fM1Bjgh3Q8ios7XVUp-s.png",
+      "date": "Apr 28, 2024",
+      "snippet": "Segarra files for Killeen mayor in upcoming May election. Jan 14, 2026. Killeen ... Killeen council at-large election · Center for Politics ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Segarra files for Killeen mayor in upcoming May election. Jan 14, 2026. Killeen ... Killeen council at-large election · Center for Politics ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/candidates-respond-to-rezoning-near-featherline-road/article_ecff641c-04de-11ef-b252-f32ffcca2387.html",
+          "icon": "https://serpapi.com/searches/69bb5e5a132583f58761cb93/images/cCKeeOeUSklXLK4sHR5nEk57whKpYidRqYTbTJitshbK2IrQOGo-OihVnJybRLrn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/candidates-respond-to-rezoning-near-featherline-road/article_ecff641c-04de-11ef-b252-f32ffcca2387.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fcandidates-respond-to-rezoning-near-featherline-road%2Farticle_ecff641c-04de-11ef-b252-f32ffcca2387.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 4,
+      "title": "Focus on Featherline: Question 6 | Local News",
+      "link": "https://kdhnews.com/news/local/focus-on-featherline-question-6/article_db2a7866-ac2d-11ef-8ccb-c7ff5303d90d.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/focus-on-featherline-question-6/article_db2a7866-ac2d-11ef-8ccb-c7ff5303d90d.html&ved=2ahUKEwjFmsek9KqTAxWqFVkFHVS4LoMQFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › news › focus-on-featherline-que...",
+      "favicon": "https://serpapi.com/searches/69bb5e5a132583f58761cb93/images/cCKeeOeUSklXLK4sHR5nEksHCzvOxgGUM6Y4k0tBlko.png",
+      "snippet": "The Killeen City Council and residents in south Killeen ... Ramon Alvarez: Did not answer ... Beverly Williams files for Killeen council at-large election.",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen",
+        "Ramon Alvarez",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Killeen City Council and residents in south Killeen ... Ramon Alvarez: Did not answer ... Beverly Williams files for Killeen council at-large election.",
+          "source_info_link": "https://kdhnews.com/news/local/focus-on-featherline-question-6/article_db2a7866-ac2d-11ef-8ccb-c7ff5303d90d.html",
+          "icon": "https://serpapi.com/searches/69bb5e5a132583f58761cb93/images/cCKeeOeUSklXLK4sHR5nEvG3t84pf9PX0aqPF4DvGpbhQmoX6UVO9bHjFc1IGGPZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/focus-on-featherline-question-6/article_db2a7866-ac2d-11ef-8ccb-c7ff5303d90d.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Ffocus-on-featherline-question-6%2Farticle_db2a7866-ac2d-11ef-8ccb-c7ff5303d90d.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "Week in review: Potterhood, water changes and Fort Hood ...",
+      "link": "https://kdhnews.com/news/local/week-in-review-potterhood-water-changes-and-fort-hood-street-name-change/article_4009066a-8ee1-11ed-add9-9b1fca20ec34.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/week-in-review-potterhood-water-changes-and-fort-hood-street-name-change/article_4009066a-8ee1-11ed-add9-9b1fca20ec34.html&ved=2ahUKEwjFmsek9KqTAxWqFVkFHVS4LoMQFnoECB4QAQ",
+      "displayed_link": "https://kdhnews.com › news › local › week-in-review-p...",
+      "favicon": "https://serpapi.com/searches/69bb5e5a132583f58761cb93/images/cCKeeOeUSklXLK4sHR5nEsjOU2BXq3Og1fRFCgXa6YE.png",
+      "date": "Jan 7, 2023",
+      "snippet": "... Killeen council at-large election. 6 hrs ago. Inside Killeen Podcast. Top KDH stories of 2025. Inside Killeen. Audio Player. 00:00. 00:00 | ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Killeen council at-large election. 6 hrs ago. Inside Killeen Podcast. Top KDH stories of 2025. Inside Killeen. Audio Player. 00:00. 00:00 | ...",
+          "source_info_link": "https://kdhnews.com/news/local/week-in-review-potterhood-water-changes-and-fort-hood-street-name-change/article_4009066a-8ee1-11ed-add9-9b1fca20ec34.html",
+          "icon": "https://serpapi.com/searches/69bb5e5a132583f58761cb93/images/cCKeeOeUSklXLK4sHR5nEklKY3aLcyUPeXKUE9fU3rFTEMrXZW6S62ASrP2H3OXO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/week-in-review-potterhood-water-changes-and-fort-hood-street-name-change/article_4009066a-8ee1-11ed-add9-9b1fca20ec34.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fweek-in-review-potterhood-water-changes-and-fort-hood-street-name-change%2Farticle_4009066a-8ee1-11ed-add9-9b1fca20ec34.html",
+      "source": "The Killeen Daily Herald"
+    }
+  ]
+}

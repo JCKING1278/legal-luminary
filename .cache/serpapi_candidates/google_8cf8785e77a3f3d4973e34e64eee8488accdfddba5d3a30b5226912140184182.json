@@ -1,0 +1,129 @@
+{
+  "search_metadata": {
+    "id": "69bb5eedb4ab72a6277cb259",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0PLoarvvHa7ReI2UIFlc2Q/69bb5eedb4ab72a6277cb259.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0PLoarvvHa7ReI2UIFlc2Q/69bb5eedb4ab72a6277cb259.json_with_pixel_position",
+    "created_at": "2026-03-19 02:26:53 UTC",
+    "processed_at": "2026-03-19 02:26:53 UTC",
+    "google_url": "https://www.google.com/search?q=OpenSecrets+top+donors+for+William+P.+Abel+US+House+TX-31+largest+contributor+works+for&oq=OpenSecrets+top+donors+for+William+P.+Abel+US+House+TX-31+largest+contributor+works+for&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0PLoarvvHa7ReI2UIFlc2Q/69bb5eedb4ab72a6277cb259.html",
+    "total_time_taken": 3.22
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "OpenSecrets top donors for William P. Abel US House TX-31 largest contributor works for",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "OpenSecrets top donors for William P. Abel US House TX-31 largest contributor works for",
+    "total_results": 2,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "Td4KzHicxZTbkqo4FEDf5z_GqimOAmJ76SrqVBKxxSs03V76xcKIaRWMEhT17fzLfNV8zQS80dr0mTNVU7MfQpJ9Sdh7Zf_4050tF3_99sd7EKzYoyiGYZgjlBLXyWHqiTbbL7E4pS7z8fv3_VZVMpipUsaZqeVasWTjJwJKa7YOmLErWE95IGViF3U0tpkz5xF3cyaORD4sfleqfJFjOWeZW1RKUB95HWvfzuUluZLrirbHDcB_JBp45iPU-YQL-ahE8ZaW7m1qsbaR2DqGgImd4XGTEA2Y0br2-UW02NNC3NeA22zYtlNPBXpiBYfxsbXoHIAIjA1uRb_buV6xeQqactZ9oKNn9ZosCFJF189aaAKEQD1EV-UpBDkdUgAthC7hIFcjAypIp-nhuWeP1LX3rAm-qhO30p874WTIKyFOCOdJEsc-_8jiDL_jeOKzCDP0UpForWwcel1zDIpuZdHby51XgIfmIg-MEIh4zO1cak-cyeh9JH2LgcbsQjRLEr2Z62Cyg3ujg3OtHJQTOEeZJOjDJaPCptThE0HpqmNJKdAiuC9UG9EEvp6NygASgLRr8bRTzHucY9E_bBJy1KFoSW5Mo1iL0-wcHyfV8PIH_A680tczwqQZSqKl67oWnTY8RiBJM76G_AlFs2b8zOrJMEBP5ApGz5bn2bz-UzRWz_eN0hAF1wCpOqgdmSGeERQZRQuI4qRCU7sFH5Lrug1QAR1x_nWBqc_xLCY483uDYxLjp6o8kkvSfPcy1W1vU961Dua0eZhvazVywpZ641_oxPj_A_vUp5vxK6fkHmzyFdimhr7o0yewr306bkio9jnYWgxKok87SXUSbBPqCbB3qX06Abb-U7AHH9JyAdv8BGx4CzZMBzvq0xewEYI3fTr-rTgtCbD_VZ82_3mfjvl2jp-PTXszJ-nN2yzQynQTyoN1f7ve24rft-aQ9AatrnnfvKde8GhP3G-j2eQR5hvBfpJZq92Vs7Qc7DsBEwK6EiZ0SX0mTKkv9GeuO7M9wcgJYOy4wqsl1OmGOcLLIKvIgmv7xGGBgOky8GfjTcBdQuovYueM5_pUlezSTFHaUqH0cHBpnoA3BWYLD8--52erbbx4aQ_nAW11plbdqjcLxcG4nW34PjM6AzPblIftmTHtlwrOQ7ZCu0170DWs16pTtjaHvmYhhjcuPUia1gkfSnXZ2FYao1XrufMW7IubJ0hGXV86KGu5inphfB-mNl4ab53lsP9ULWQ8H6u8tAUCOibok6hpZxi2Rw7bqjiP7YpTkitlSak4UyXjkWC_UosPGbb0VflvwHzn4Q",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Td4KzHicxZTbkqo4FEDf5z_GqimOAmJ76SrqVBKxxSs03V76xcKIaRWMEhT17fzLfNV8zQS80dr0mTNVU7MfQpJ9Sdh7Zf_4050tF3_99sd7EKzYoyiGYZgjlBLXyWHqiTbbL7E4pS7z8fv3_VZVMpipUsaZqeVasWTjJwJKa7YOmLErWE95IGViF3U0tpkz5xF3cyaORD4sfleqfJFjOWeZW1RKUB95HWvfzuUluZLrirbHDcB_JBp45iPU-YQL-ahE8ZaW7m1qsbaR2DqGgImd4XGTEA2Y0br2-UW02NNC3NeA22zYtlNPBXpiBYfxsbXoHIAIjA1uRb_buV6xeQqactZ9oKNn9ZosCFJF189aaAKEQD1EV-UpBDkdUgAthC7hIFcjAypIp-nhuWeP1LX3rAm-qhO30p874WTIKyFOCOdJEsc-_8jiDL_jeOKzCDP0UpForWwcel1zDIpuZdHby51XgIfmIg-MEIh4zO1cak-cyeh9JH2LgcbsQjRLEr2Z62Cyg3ujg3OtHJQTOEeZJOjDJaPCptThE0HpqmNJKdAiuC9UG9EEvp6NygASgLRr8bRTzHucY9E_bBJy1KFoSW5Mo1iL0-wcHyfV8PIH_A680tczwqQZSqKl67oWnTY8RiBJM76G_AlFs2b8zOrJMEBP5ApGz5bn2bz-UzRWz_eN0hAF1wCpOqgdmSGeERQZRQuI4qRCU7sFH5Lrug1QAR1x_nWBqc_xLCY483uDYxLjp6o8kkvSfPcy1W1vU961Dua0eZhvazVywpZ641_oxPj_A_vUp5vxK6fkHmzyFdimhr7o0yewr306bkio9jnYWgxKok87SXUSbBPqCbB3qX06Abb-U7AHH9JyAdv8BGx4CzZMBzvq0xewEYI3fTr-rTgtCbD_VZ82_3mfjvl2jp-PTXszJ-nN2yzQynQTyoN1f7ve24rft-aQ9AatrnnfvKde8GhP3G-j2eQR5hvBfpJZq92Vs7Qc7DsBEwK6EiZ0SX0mTKkv9GeuO7M9wcgJYOy4wqsl1OmGOcLLIKvIgmv7xGGBgOky8GfjTcBdQuovYueM5_pUlezSTFHaUqH0cHBpnoA3BWYLD8--52erbbx4aQ_nAW11plbdqjcLxcG4nW34PjM6AzPblIftmTHtlwrOQ7ZCu0170DWs16pTtjaHvmYhhjcuPUia1gkfSnXZ2FYao1XrufMW7IubJ0hGXV86KGu5inphfB-mNl4ab53lsP9ULWQ8H6u8tAUCOibok6hpZxi2Rw7bqjiP7YpTkitlSak4UyXjkWC_UosPGbb0VflvwHzn4Q"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Candidates Search Results",
+      "link": "https://www.opensecrets.org/races/candidate_search_results",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/candidate_search_results&ved=2ahUKEwjB2Inr9KqTAxU6lmoFHUeCAdsQFnoECB8QAQ",
+      "displayed_link": "https://www.opensecrets.org › candidate_search_results",
+      "favicon": "https://serpapi.com/searches/69bb5eedb4ab72a6277cb259/images/IaMMfPiJ5gHgvgwwz4rkBhqzNjaeIAIr_UQy2ddJUq0.png",
+      "snippet": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+          "source_info_link": "https://www.opensecrets.org/races/candidate_search_results",
+          "icon": "https://serpapi.com/searches/69bb5eedb4ab72a6277cb259/images/IaMMfPiJ5gHgvgwwz4rkBiZDZJf4BSSj6b7NSW9BsijUAcknm1r4LvcSdBCeOaym.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/candidate_search_results&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Fcandidate_search_results",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=OpenSecrets+top+donors+for+William+P.+Abel+US+House+TX-31+%22largest%22+contributor+works+for&sa=X&ved=2ahUKEwjB2Inr9KqTAxU6lmoFHUeCAdsQ5t4CegQIIBAB"
+      },
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 2,
+      "title": "161523 results for",
+      "link": "https://www.opensecrets.org/search?q=%EC%9D%B8%EC%B2%9C%EC%B6%9C%EC%9E%A5%EC%95%88%EB%A7%88&type=indiv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/search%3Fq%3D%25EC%259D%25B8%25EC%25B2%259C%25EC%25B6%259C%25EC%259E%25A5%25EC%2595%2588%25EB%25A7%2588%26type%3Dindiv&ved=2ahUKEwjB2Inr9KqTAxU6lmoFHUeCAdsQFnoECCIQAQ",
+      "displayed_link": "https://www.opensecrets.org › search",
+      "favicon": "https://serpapi.com/searches/69bb5eedb4ab72a6277cb259/images/IaMMfPiJ5gHgvgwwz4rkBlEuFOWo_k96904yOBnJN_0.png",
+      "snippet": "$1 for transparency. Our work depends on donors like you. Just $1 from each visitor would sustain us for a year. Will you give in 2026? Donate Now.",
+      "snippet_highlighted_words": [
+        "work",
+        "donors",
+        "us"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "$1 for transparency. Our work depends on donors like you. Just $1 from each visitor would sustain us for a year. Will you give in 2026? Donate Now.",
+          "source_info_link": "https://www.opensecrets.org/search?q=%EC%9D%B8%EC%B2%9C%EC%B6%9C%EC%9E%A5%EC%95%88%EB%A7%88&type=indiv",
+          "icon": "https://serpapi.com/searches/69bb5eedb4ab72a6277cb259/images/IaMMfPiJ5gHgvgwwz4rkBvQ6SzlxEfEOW-pfcFjamVdAmmuOHqxmg8ytyX6Wf-hv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/search?q=%EC%9D%B8%EC%B2%9C%EC%B6%9C%EC%9E%A5%EC%95%88%EB%A7%88&type=indiv&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fsearch%3Fq%3D%25EC%259D%25B8%25EC%25B2%259C%25EC%25B6%259C%25EC%259E%25A5%25EC%2595%2588%25EB%25A7%2588%26type%3Dindiv",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=OpenSecrets+top+donors+for+William+P.+Abel+US+House+TX-31+%22largest%22+contributor+works+for&sa=X&ved=2ahUKEwjB2Inr9KqTAxU6lmoFHUeCAdsQ5t4CegQIJBAB"
+      },
+      "source": "OpenSecrets"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Political contributions search by name",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Political+contributions+search+by+name&sa=X&ved=2ahUKEwjB2Inr9KqTAxU6lmoFHUeCAdsQ1QJ6BAgYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Political+contributions+search+by+name"
+    },
+    {
+      "block_position": 1,
+      "query": "How to find out if someone is a registered Democrat or Republican",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=How+to+find+out+if+someone+is+a+registered+Democrat+or+Republican&sa=X&ved=2ahUKEwjB2Inr9KqTAxU6lmoFHUeCAdsQ1QJ6BAgVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+find+out+if+someone+is+a+registered+Democrat+or+Republican"
+    },
+    {
+      "block_position": 1,
+      "query": "AIPAC Tracker",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=AIPAC+Tracker&sa=X&ved=2ahUKEwjB2Inr9KqTAxU6lmoFHUeCAdsQ1QJ6BAgWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AIPAC+Tracker"
+    },
+    {
+      "block_position": 1,
+      "query": "Voter records search by Name",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Voter+records+search+by+Name&sa=X&ved=2ahUKEwjB2Inr9KqTAxU6lmoFHUeCAdsQ1QJ6BAgUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Voter+records+search+by+Name"
+    }
+  ]
+}

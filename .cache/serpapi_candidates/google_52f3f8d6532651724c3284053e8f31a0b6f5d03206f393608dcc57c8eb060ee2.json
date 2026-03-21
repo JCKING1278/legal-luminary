@@ -1,0 +1,377 @@
+{
+  "search_metadata": {
+    "id": "69bb5d7f18dc9339afe38977",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aK6as_5j0l5S_aP1SBDtCg/69bb5d7f18dc9339afe38977.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/aK6as_5j0l5S_aP1SBDtCg/69bb5d7f18dc9339afe38977.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:47 UTC",
+    "processed_at": "2026-03-19 02:20:47 UTC",
+    "google_url": "https://www.google.com/search?q=James+A.+Pierce+Jr.+%22CTC+Trustee+Place+3%22+%22Central+Texas%22+LinkedIn&oq=James+A.+Pierce+Jr.+%22CTC+Trustee+Place+3%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/aK6as_5j0l5S_aP1SBDtCg/69bb5d7f18dc9339afe38977.html",
+    "total_time_taken": 1.34
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "James A. Pierce Jr. \"CTC Trustee Place 3\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "James A. Pierce Jr. \"CTC Trustee Place 3\" \"Central Texas\" LinkedIn",
+    "total_results": 1070,
+    "time_taken_displayed": 0.48,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "James A. Pierce Jr. CTC Trustee Place 3 Central Texas LinkedIn",
+    "spelling_fix": "James A. Pierce Jr. CTC Trustee Place 3 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "James Pierce for CTC Trustee Place 3",
+      "link": "https://www.facebook.com/jamespierceforctctrusteeplace3/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jamespierceforctctrusteeplace3/&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQFnoECCIQAQ",
+      "displayed_link": "590+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKGAh-BW0zhUr79NgtW3og9s.png",
+      "snippet": "I am running for CTC Trustee because, as a veteran, I feel we need more representation at all levels.",
+      "snippet_highlighted_words": [
+        "CTC Trustee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I am running for CTC Trustee because, as a veteran, I feel we need more representation at all levels.",
+          "source_info_link": "https://www.facebook.com/jamespierceforctctrusteeplace3/",
+          "icon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKDgOgi_3KUpYT2ESt0HxP4bC-bCpyrO75zEsh6Bd3Oa7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jamespierceforctctrusteeplace3/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjamespierceforctctrusteeplace3%2F",
+      "missing": [
+        "LinkedIn"
+      ],
+      "must_include": {
+        "word": "LinkedIn",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+%22LinkedIn%22&sa=X&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ5t4CegQIKxAB"
+      },
+      "source": "Facebook · James Pierce for CTC Trustee Place 3"
+    },
+    {
+      "position": 2,
+      "title": "New Harker Heights councilman and CTC trustee remark ...",
+      "link": "https://kdhnews.com/centerforpolitics/new-harker-heights-councilman-and-ctc-trustee-remark-on-saturday-s-election/article_2f3b42fd-caa7-4b74-9c3f-345d51ca8a3b.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/new-harker-heights-councilman-and-ctc-trustee-remark-on-saturday-s-election/article_2f3b42fd-caa7-4b74-9c3f-345d51ca8a3b.html&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQFnoECB0QAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › new-harker-h...",
+      "favicon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKAQ79znnnD2Cq9hNBD9yyts.png",
+      "date": "May 5, 2025",
+      "snippet": "The Herald spoke to two of the newly elected officials: Brian Burt for Harker Heights City Council, and Mark Manning for a seat on the Central Texas College ...",
+      "snippet_highlighted_words": [
+        "Central"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Herald spoke to two of the newly elected officials: Brian Burt for Harker Heights City Council, and Mark Manning for a seat on the Central Texas College ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/new-harker-heights-councilman-and-ctc-trustee-remark-on-saturday-s-election/article_2f3b42fd-caa7-4b74-9c3f-345d51ca8a3b.html",
+          "icon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKIYsaWzo5Lq4XG4_aeLHDpd2RPE1k0rrbm7bp7cR1CPU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/new-harker-heights-councilman-and-ctc-trustee-remark-on-saturday-s-election/article_2f3b42fd-caa7-4b74-9c3f-345d51ca8a3b.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fnew-harker-heights-councilman-and-ctc-trustee-remark-on-saturday-s-election%2Farticle_2f3b42fd-caa7-4b74-9c3f-345d51ca8a3b.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Stanford Technology Law Review - Ed Egan",
+      "link": "https://www.edegan.com/pdfs/CooperFeldman%20Ewing%20(2011)%20-%20The%20Giants%20Among%20Us.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.edegan.com/pdfs/CooperFeldman%2520Ewing%2520(2011)%2520-%2520The%2520Giants%2520Among%2520Us.pdf&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQFnoECBwQAQ",
+      "displayed_link": "https://www.edegan.com › pdfs",
+      "favicon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKKjhbUY1n151RcfGDls9rxQ.png",
+      "author": "by TOM EWING",
+      "snippet": "We suspect that some of the larger transactions also arise in conjunction with an investment in Intellectual Ventures by the party supplying the patents. The ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 63
+          },
+          "extensions": [
+            "63 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "We suspect that some of the larger transactions also arise in conjunction with an investment in Intellectual Ventures by the party supplying the patents. The ...",
+          "source_info_link": "https://www.edegan.com/pdfs/CooperFeldman%20Ewing%20(2011)%20-%20The%20Giants%20Among%20Us.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKKjp8YReUCQimrVTyCC-2JmiL3icIOn9kDNbGVxOlzCo.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.edegan.com/pdfs/CooperFeldman%20Ewing%20(2011)%20-%20The%20Giants%20Among%20Us.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.edegan.com%2Fpdfs%2FCooperFeldman%2520Ewing%2520%282011%29%2520-%2520The%2520Giants%2520Among%2520Us.pdf",
+      "source": "edegan.com"
+    },
+    {
+      "position": 4,
+      "title": "2025-ISGAP-Oxford-Summer-Institute- ...",
+      "link": "https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQFnoECCMQAQ",
+      "displayed_link": "https://isgap.org › wp-content › uploads › 2025/08",
+      "favicon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKALD6o2ml7FQIecdL_e1VVc.png",
+      "date": "Aug 7, 2025",
+      "snippet": "3. Ellman, Dame Louise, David Hirsh, and Izabella Tabarovsky. Antisemitic Anti-Zionism: The Origins and Character of an Ideology. Labour ...",
+      "snippet_highlighted_words": [
+        "3"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 67
+          },
+          "extensions": [
+            "67 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "3. Ellman, Dame Louise, David Hirsh, and Izabella Tabarovsky. Antisemitic Anti-Zionism: The Origins and Character of an Ideology. Labour ...",
+          "source_info_link": "https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKMvfWnQJ_DKkD-hhUIrvTGqcoqSTznZfXrmTPPcxasID.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fisgap.org%2Fwp-content%2Fuploads%2F2025%2F08%2F2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+      "source": "ISGAP"
+    },
+    {
+      "position": 5,
+      "title": "how islamist extremists exploit the uk charitable sector",
+      "link": "https://henryjacksonsociety.org/wp-content/uploads/2018/02/HJS-Islamist-Charity-Report.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://henryjacksonsociety.org/wp-content/uploads/2018/02/HJS-Islamist-Charity-Report.pdf&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQFnoECB8QAQ",
+      "displayed_link": "https://henryjacksonsociety.org › 2018/02 › HJS-...",
+      "favicon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKN53fTDfBQjN3_TUdHd_Z_8.png",
+      "author": "by E Webb",
+      "snippet": "HHUGS is an example of an institutionally problematic charity, with extreme and illiberal individuals involved at all levels, from trustees, to supporters, ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 172
+          },
+          "extensions": [
+            "172 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "HHUGS is an example of an institutionally problematic charity, with extreme and illiberal individuals involved at all levels, from trustees, to supporters, ...",
+          "source_info_link": "https://henryjacksonsociety.org/wp-content/uploads/2018/02/HJS-Islamist-Charity-Report.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKEmZlPqiNUtmnURTsYDXpd6Jhg9Riq8jswv0m5zc73ho.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://henryjacksonsociety.org/wp-content/uploads/2018/02/HJS-Islamist-Charity-Report.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhenryjacksonsociety.org%2Fwp-content%2Fuploads%2F2018%2F02%2FHJS-Islamist-Charity-Report.pdf",
+      "source": "Henry Jackson Society"
+    },
+    {
+      "position": 6,
+      "title": "2022 ANNual Report",
+      "link": "https://nul.org/sites/default/files/2023-09/23.64.NUL_.AR_.Book_.MEC%5B90%5D.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nul.org/sites/default/files/2023-09/23.64.NUL_.AR_.Book_.MEC%255B90%255D.pdf&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQFnoECDQQAQ",
+      "displayed_link": "https://nul.org › sites › default › files",
+      "favicon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKGSrJgKMDMMVP9R-6ie4HLE.png",
+      "snippet": "The disparities have worsened in the health status experienced by the Black community. According to a. 2022 report from The State of Black America, Black.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 44
+          },
+          "extensions": [
+            "44 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The disparities have worsened in the health status experienced by the Black community. According to a. 2022 report from The State of Black America, Black.",
+          "source_info_link": "https://nul.org/sites/default/files/2023-09/23.64.NUL_.AR_.Book_.MEC%5B90%5D.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKMk9IwgASrRGokEexe4IWVFUOLpPY6yUJAMAuwNNgB5c.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://nul.org/sites/default/files/2023-09/23.64.NUL_.AR_.Book_.MEC%5B90%5D.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnul.org%2Fsites%2Fdefault%2Ffiles%2F2023-09%2F23.64.NUL_.AR_.Book_.MEC%255B90%255D.pdf",
+      "source": "National Urban League"
+    },
+    {
+      "position": 7,
+      "title": "Annual Record 2025 by Trinity College Cambridge",
+      "link": "https://issuu.com/trinityalumni/docs/annual_record_2025",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://issuu.com/trinityalumni/docs/annual_record_2025&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQFnoECDcQAQ",
+      "displayed_link": "https://issuu.com › trinityalumni › docs › annual_recor...",
+      "favicon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKL7SNR2ZsauI7CUasI6dSPc.png",
+      "date": "Dec 12, 2025",
+      "snippet": "My editorial last year began with accounts of anniversary celebrations of two Trinity alumni who have long had prominent public profiles: one of ...",
+      "about_this_result": {
+        "source": {
+          "description": "My editorial last year began with accounts of anniversary celebrations of two Trinity alumni who have long had prominent public profiles: one of ...",
+          "source_info_link": "https://issuu.com/trinityalumni/docs/annual_record_2025",
+          "icon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKFnxULXP_nz3BoroJbCdThe5Rr69QtPZe8gqKd-A6Yjg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://issuu.com/trinityalumni/docs/annual_record_2025&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fissuu.com%2Ftrinityalumni%2Fdocs%2Fannual_record_2025",
+      "source": "Issuu"
+    },
+    {
+      "position": 8,
+      "title": "Speakers - The Molecular Medicine Tri Conference",
+      "link": "https://www.triconference.com/19/speakers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.triconference.com/19/speakers&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQFnoECD4QAQ",
+      "displayed_link": "https://www.triconference.com › speakers",
+      "favicon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKKFIZHUF7EUCgv-41o3e3wc.png",
+      "snippet": "Daniel C. Danila, MD, Memorial Sloan Kettering Cancer Center, C11: Circulating Tumor Cells and Liquid Biopsy.",
+      "snippet_highlighted_words": [
+        "Center"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Daniel C. Danila, MD, Memorial Sloan Kettering Cancer Center, C11: Circulating Tumor Cells and Liquid Biopsy.",
+          "source_info_link": "https://www.triconference.com/19/speakers",
+          "icon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKPVt7yqzu9RGZFDywtJa3QPkhTMGY7SxOK1iqPnyU1fd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.triconference.com/19/speakers&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.triconference.com%2F19%2Fspeakers",
+      "source": "Precision Med Tri-Con"
+    },
+    {
+      "position": 9,
+      "title": "Stanford Technology Law Review",
+      "link": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1992131_code179362.pdf?abstractid=1923449&mirid=1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1992131_code179362.pdf%3Fabstractid%3D1923449%26mirid%3D1&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQFnoECDIQAQ",
+      "displayed_link": "https://papers.ssrn.com › sol3 › Delivery.cfm › S...",
+      "favicon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKOIe9rwzYYDO2HXy9zzsEIk.png",
+      "snippet": "We suspect that some of the larger transactions also arise in conjunction with an investment in Intellectual Ventures by the party supplying the patents. The ...",
+      "about_this_result": {
+        "source": {
+          "description": "We suspect that some of the larger transactions also arise in conjunction with an investment in Intellectual Ventures by the party supplying the patents. The ...",
+          "source_info_link": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1992131_code179362.pdf?abstractid=1923449&mirid=1",
+          "icon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKEDICklOBamhK5PxOJB3CxqRWlwCwZ_ePGICVNH9LCTo.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1992131_code179362.pdf?abstractid=1923449&mirid=1&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpapers.ssrn.com%2Fsol3%2FDelivery.cfm%2FSSRN_ID1992131_code179362.pdf%3Fabstractid%3D1923449%26mirid%3D1",
+      "source": "SSRN eLibrary"
+    },
+    {
+      "position": 10,
+      "title": "PROGRAM BOOK",
+      "link": "https://www.uscap.org/wp-content/uploads/2019/02/USCAP2017AnnualMeetingProgramBook.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uscap.org/wp-content/uploads/2019/02/USCAP2017AnnualMeetingProgramBook.pdf&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQFnoECDMQAQ",
+      "displayed_link": "https://www.uscap.org › uploads › 2019/02",
+      "favicon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKFHTNUetuht8lUIPUADjS1k.png",
+      "snippet": "A novel approach was the broadcast from the. USCAP Interactive Center of a segment of Dr. Jason Hornick's interactive microscopy course on soft tissue tumors on.",
+      "snippet_highlighted_words": [
+        "Center"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A novel approach was the broadcast from the. USCAP Interactive Center of a segment of Dr. Jason Hornick's interactive microscopy course on soft tissue tumors on.",
+          "source_info_link": "https://www.uscap.org/wp-content/uploads/2019/02/USCAP2017AnnualMeetingProgramBook.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d7f18dc9339afe38977/images/FkaamhLBtt2m7bIz9LWUKCpp0u5DdP3OKeRsKAi1-xJL1TOROuzjPp-Z080WL45h.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.uscap.org/wp-content/uploads/2019/02/USCAP2017AnnualMeetingProgramBook.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.uscap.org%2Fwp-content%2Fuploads%2F2019%2F02%2FUSCAP2017AnnualMeetingProgramBook.pdf",
+      "source": "USCAP"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF27abe4A-H-p84Pu4DtmAg&start=10&sa=N&sstk=Af77f_d4GmjrAGG0vJcLJWbxOAH5e0y1c4gB8mM2khYLAKFhb8nA-XHNtkwrHx53F-cORB1BKQPGEj80KEEXUrsoVGUJ7Ukz26p3fQ&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ8NMDegQIDRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF27abe4A-H-p84Pu4DtmAg&start=10&sa=N&sstk=Af77f_d4GmjrAGG0vJcLJWbxOAH5e0y1c4gB8mM2khYLAKFhb8nA-XHNtkwrHx53F-cORB1BKQPGEj80KEEXUrsoVGUJ7Ukz26p3fQ&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF27abe4A-H-p84Pu4DtmAg&start=20&sa=N&sstk=Af77f_d4GmjrAGG0vJcLJWbxOAH5e0y1c4gB8mM2khYLAKFhb8nA-XHNtkwrHx53F-cORB1BKQPGEj80KEEXUrsoVGUJ7Ukz26p3fQ&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF27abe4A-H-p84Pu4DtmAg&start=30&sa=N&sstk=Af77f_d4GmjrAGG0vJcLJWbxOAH5e0y1c4gB8mM2khYLAKFhb8nA-XHNtkwrHx53F-cORB1BKQPGEj80KEEXUrsoVGUJ7Ukz26p3fQ&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF27abe4A-H-p84Pu4DtmAg&start=40&sa=N&sstk=Af77f_d4GmjrAGG0vJcLJWbxOAH5e0y1c4gB8mM2khYLAKFhb8nA-XHNtkwrHx53F-cORB1BKQPGEj80KEEXUrsoVGUJ7Ukz26p3fQ&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF27abe4A-H-p84Pu4DtmAg&start=50&sa=N&sstk=Af77f_d4GmjrAGG0vJcLJWbxOAH5e0y1c4gB8mM2khYLAKFhb8nA-XHNtkwrHx53F-cORB1BKQPGEj80KEEXUrsoVGUJ7Ukz26p3fQ&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF27abe4A-H-p84Pu4DtmAg&start=60&sa=N&sstk=Af77f_d4GmjrAGG0vJcLJWbxOAH5e0y1c4gB8mM2khYLAKFhb8nA-XHNtkwrHx53F-cORB1BKQPGEj80KEEXUrsoVGUJ7Ukz26p3fQ&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF27abe4A-H-p84Pu4DtmAg&start=70&sa=N&sstk=Af77f_d4GmjrAGG0vJcLJWbxOAH5e0y1c4gB8mM2khYLAKFhb8nA-XHNtkwrHx53F-cORB1BKQPGEj80KEEXUrsoVGUJ7Ukz26p3fQ&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF27abe4A-H-p84Pu4DtmAg&start=80&sa=N&sstk=Af77f_d4GmjrAGG0vJcLJWbxOAH5e0y1c4gB8mM2khYLAKFhb8nA-XHNtkwrHx53F-cORB1BKQPGEj80KEEXUrsoVGUJ7Ukz26p3fQ&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ8tMDegQIDRAS",
+      "10": "https://www.google.com/search?q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=gF27abe4A-H-p84Pu4DtmAg&start=90&sa=N&sstk=Af77f_d4GmjrAGG0vJcLJWbxOAH5e0y1c4gB8mM2khYLAKFhb8nA-XHNtkwrHx53F-cORB1BKQPGEj80KEEXUrsoVGUJ7Ukz26p3fQ&ved=2ahUKEwi3-My786qTAxVh_8kDHTtAG4MQ8tMDegQIDRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+A.+Pierce+Jr.+CTC+Trustee+Place+3+Central+Texas+LinkedIn&start=90"
+    }
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "search_metadata": {
+    "id": "69bb5e41f05275f8f49896f9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/v2tGdXvthFszbFmEAM5DCQ/69bb5e41f05275f8f49896f9.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/v2tGdXvthFszbFmEAM5DCQ/69bb5e41f05275f8f49896f9.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:01 UTC",
+    "processed_at": "2026-03-19 02:24:01 UTC",
+    "google_url": "https://www.google.com/search?q=Brian+Trautner+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Brian+Trautner+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/v2tGdXvthFszbFmEAM5DCQ/69bb5e41f05275f8f49896f9.html",
+    "total_time_taken": 3.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Brian Trautner \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Brian Trautner \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 1790,
+    "time_taken_displayed": 0.46,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Brian Trautner US House TX-31 Central Texas Facebook",
+    "spelling_fix": "Brian Trautner US House TX-31 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Brian Trautner, D-Hutto, cannot sit on the sidelines any ...",
+      "link": "https://www.facebook.com/kdhnews/posts/brian-trautner-d-hutto-cannot-sit-on-the-sidelines-any-longer/1288097353264416/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/brian-trautner-d-hutto-cannot-sit-on-the-sidelines-any-longer/1288097353264416/&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQFnoECCgQAQ",
+      "displayed_link": "50+ reactions · 7 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-iChrItlPr5L7Qro0ei31o8.png",
+      "snippet": "Sean Novus. Ah yes, fighting for the 31st... the one which has never in history been held by the Democratic party · Sean Novus ; Steve Born.",
+      "snippet_highlighted_words": [
+        "31st"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Sean Novus. Ah yes, fighting for the 31st... the one which has never in history been held by the Democratic party · Sean Novus ; Steve Born.",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/brian-trautner-d-hutto-cannot-sit-on-the-sidelines-any-longer/1288097353264416/",
+          "icon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-rny9VLuiqnabxEJA2qayAOYGOEajFd8k8vMjHR4a0eI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/brian-trautner-d-hutto-cannot-sit-on-the-sidelines-any-longer/1288097353264416/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fbrian-trautner-d-hutto-cannot-sit-on-the-sidelines-any-longer%2F1288097353264416%2F",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brian+Trautner+US+House+%22TX-%22+31+Central+Texas+Facebook&sa=X&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ5t4CegQIMRAB"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "Brian Trautner, a Democrat, joins U.S. House District 31 race",
+      "link": "https://kdhnews.com/centerforpolitics/brian-trautner-a-democrat-joins-u-s-house-district-31-race/article_9f2263ed-b822-4421-aba2-b087f0f92050.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/brian-trautner-a-democrat-joins-u-s-house-district-31-race/article_9f2263ed-b822-4421-aba2-b087f0f92050.html&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQFnoECDMQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › brian-trautner...",
+      "favicon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-vOLAuzbvrDarWcqDoyAuT4.png",
+      "date": "Aug 8, 2025",
+      "snippet": "Brian Trautner, a candidate for the 31st congressional district in Texas, poses for a photo with his wife and two dogs. Courtesy Photo.",
+      "snippet_highlighted_words": [
+        "Brian Trautner",
+        "31st congressional",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Brian Trautner, a candidate for the 31st congressional district in Texas, poses for a photo with his wife and two dogs. Courtesy Photo.",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/brian-trautner-a-democrat-joins-u-s-house-district-31-race/article_9f2263ed-b822-4421-aba2-b087f0f92050.html",
+          "icon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-jYF0ZIUs3dHA3G0g7E0ZYNTxXDAbuQxX1k-Hs1W7Mkg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/brian-trautner-a-democrat-joins-u-s-house-district-31-race/article_9f2263ed-b822-4421-aba2-b087f0f92050.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fbrian-trautner-a-democrat-joins-u-s-house-district-31-race%2Farticle_9f2263ed-b822-4421-aba2-b087f0f92050.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Brian Trautner for Congress | TX-31",
+      "link": "https://www.votebriant.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.votebriant.com/&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQFnoECB0QAQ",
+      "displayed_link": "https://www.votebriant.com",
+      "favicon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-gWImbZNxOOPiDJk03f2Rjk.jpeg",
+      "snippet": "RUN! Site paused or lapsed. If you're the site owner, please log into your account here. Political campaign websites by RUN!",
+      "about_this_result": {
+        "source": {
+          "description": "RUN! Site paused or lapsed. If you're the site owner, please log into your account here. Political campaign websites by RUN!",
+          "source_info_link": "https://www.votebriant.com/",
+          "icon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-kDDZKFd6wXCRpsXUlThBUwPGelMhk3NTdE7ZJRgtSlx.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.votebriant.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.votebriant.com%2F",
+      "missing": [
+        "Central",
+        "Facebook"
+      ],
+      "source": "votebriant.com"
+    },
+    {
+      "position": 4,
+      "title": "Brian Trautner",
+      "link": "https://ballotpedia.org/Brian_Trautner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Brian_Trautner&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQFnoECCEQAQ",
+      "displayed_link": "https://ballotpedia.org › Brian_Trautner",
+      "favicon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-snVKb2pW31U3eb3pMgLyhw.png",
+      "snippet": "General election. The candidate list in this election may not be complete. General election for U.S. House Texas District 31. Incumbent John ...",
+      "snippet_highlighted_words": [
+        "U.S. House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "General election. The candidate list in this election may not be complete. General election for U.S. House Texas District 31. Incumbent John ...",
+          "source_info_link": "https://ballotpedia.org/Brian_Trautner",
+          "icon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-ljmPn-jJ26ltYVh0YdCK7izLyZXSqjJ2aEq5SKl1s5J.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Brian_Trautner&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FBrian_Trautner",
+      "missing": [
+        "TX-",
+        "Central"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 5,
+      "title": "Has anyone else received similar mail with survey threats?",
+      "link": "https://www.facebook.com/groups/243484109523661/posts/1947735085765213/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/243484109523661/posts/1947735085765213/&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQFnoECCkQAQ",
+      "displayed_link": "30+ comments · 11 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-iUzdi3xZldTmS07UEFlB9I.png",
+      "snippet": "It's legit. The CDC uses a few different metrics to assess general population health|It is not a scam. They are paying you to do the survey.",
+      "about_this_result": {
+        "source": {
+          "description": "It's legit. The CDC uses a few different metrics to assess general population health|It is not a scam. They are paying you to do the survey.",
+          "source_info_link": "https://www.facebook.com/groups/243484109523661/posts/1947735085765213/",
+          "icon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-nseacQ2f0OqLt6XWhHar2Tl1nCbeiKPruj6PYZsAwgR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/243484109523661/posts/1947735085765213/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F243484109523661%2Fposts%2F1947735085765213%2F",
+      "source": "Facebook · Let's Grow Berea"
+    },
+    {
+      "position": 6,
+      "title": "Texas District 31 with Endorsements",
+      "link": "https://bluevoterguide.org/district/TX/Texas_District_31/31784/522",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bluevoterguide.org/district/TX/Texas_District_31/31784/522&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQFnoECBwQAQ",
+      "displayed_link": "https://bluevoterguide.org › district › Texas_District_31",
+      "favicon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-iIzf6lV30XrwCfc_MbuyGY.png",
+      "snippet": "Voter Guide for Texas District 31 TX: Primary Election on March 3, 2026. Actual ballot may show races in a different order.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31 TX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Voter Guide for Texas District 31 TX: Primary Election on March 3, 2026. Actual ballot may show races in a different order.",
+          "source_info_link": "https://bluevoterguide.org/district/TX/Texas_District_31/31784/522",
+          "icon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-pPnaKU7C_jafvAspssNqCLfIHf061b_ieNUoYwsMCh5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bluevoterguide.org/district/TX/Texas_District_31/31784/522&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbluevoterguide.org%2Fdistrict%2FTX%2FTexas_District_31%2F31784%2F522",
+      "source": "Blue Voter Guide"
+    },
+    {
+      "position": 7,
+      "title": "Cancelled Chisos Mountains Lodge reservation due to ...",
+      "link": "https://www.facebook.com/groups/bigbendfriends/posts/10162640018857547/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/bigbendfriends/posts/10162640018857547/&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQFnoECCoQAQ",
+      "displayed_link": "10+ comments · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-uY3HqfRLdOWUEAqUuZnaL8.png",
+      "snippet": "Lodge, mtn, restraunt etc would all be closed to public in April for construction... my understanding?|I called this week as have 3 nites in ...",
+      "about_this_result": {
+        "source": {
+          "description": "Lodge, mtn, restraunt etc would all be closed to public in April for construction... my understanding?|I called this week as have 3 nites in ...",
+          "source_info_link": "https://www.facebook.com/groups/bigbendfriends/posts/10162640018857547/",
+          "icon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-srNXh8PPtQJocZa_Qcx9Lfx35HRkfk3zTLS2K2pvBg2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/bigbendfriends/posts/10162640018857547/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fbigbendfriends%2Fposts%2F10162640018857547%2F",
+      "source": "Facebook · Friends of Big Bend National Park"
+    },
+    {
+      "position": 8,
+      "title": "Nine candidates seek to unseat Rep. Carter in District 31 ...",
+      "link": "https://kdhnews.com/centerforpolitics/nine-candidates-seek-to-unseat-rep-carter-in-district-31-gop-primary/article_b03ec25f-e93c-42be-809a-cf4f29e8ccd2.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/nine-candidates-seek-to-unseat-rep-carter-in-district-31-gop-primary/article_b03ec25f-e93c-42be-809a-cf4f29e8ccd2.html&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQFnoECDwQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › nine-candidat...",
+      "favicon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-vucn0a4lbBCiErJwXVi_4U.png",
+      "date": "Feb 16, 2026",
+      "snippet": "The Republican Primary on March 3 for the Congressional District 31 race is extremely crowded as candidates attempt to end John Carter's ...",
+      "snippet_highlighted_words": [
+        "Congressional",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Republican Primary on March 3 for the Congressional District 31 race is extremely crowded as candidates attempt to end John Carter's ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/nine-candidates-seek-to-unseat-rep-carter-in-district-31-gop-primary/article_b03ec25f-e93c-42be-809a-cf4f29e8ccd2.html",
+          "icon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-uFFQqG-5rugj9-tRTZvWNkkuFwwtPm62hr4-SgrmbaO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/nine-candidates-seek-to-unseat-rep-carter-in-district-31-gop-primary/article_b03ec25f-e93c-42be-809a-cf4f29e8ccd2.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fnine-candidates-seek-to-unseat-rep-carter-in-district-31-gop-primary%2Farticle_b03ec25f-e93c-42be-809a-cf4f29e8ccd2.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "Favorite trails for running without mountain bikers?",
+      "link": "https://www.facebook.com/groups/traversemountaintrails/posts/1420662498297855/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/traversemountaintrails/posts/1420662498297855/&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQFnoECEAQAQ",
+      "displayed_link": "7 comments · 4 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-tnVg5hK76Q-JrKXQFGKu1s.png",
+      "snippet": "I've only seen a few bikers when in Sensai but I usually go pretty early. There are a bunch in Alpine, but I usually go right when it's ...",
+      "about_this_result": {
+        "source": {
+          "description": "I've only seen a few bikers when in Sensai but I usually go pretty early. There are a bunch in Alpine, but I usually go right when it's ...",
+          "source_info_link": "https://www.facebook.com/groups/traversemountaintrails/posts/1420662498297855/",
+          "icon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-own9l4r3UIuGIfLdKpx99EWa9EniIBDnyXjI-F88OPr.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/traversemountaintrails/posts/1420662498297855/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Ftraversemountaintrails%2Fposts%2F1420662498297855%2F",
+      "source": "Facebook · Traverse Mountain Trails Association (TMTA)"
+    },
+    {
+      "position": 10,
+      "title": "Looking for mesquite or pecan logs for smoking?",
+      "link": "https://www.facebook.com/groups/1732492217027431/posts/4221420871467874/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1732492217027431/posts/4221420871467874/&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQFnoECDoQAQ",
+      "displayed_link": "2 comments · 5 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-my39mXTNcmd-BY7kOW-uaU.png",
+      "snippet": "Good morning and now that it is Thursday lol. Open at lunch with burgers and fries on salsa for 8 dollars we will have a full chiken and ...",
+      "about_this_result": {
+        "source": {
+          "description": "Good morning and now that it is Thursday lol. Open at lunch with burgers and fries on salsa for 8 dollars we will have a full chiken and ...",
+          "source_info_link": "https://www.facebook.com/groups/1732492217027431/posts/4221420871467874/",
+          "icon": "https://serpapi.com/searches/69bb5e41f05275f8f49896f9/images/3aPzgBbbQs3O5JTKktxu-s6RJLWTvD3VGWAx69xPz20f-uUwMVW5BXAEHchqrgav.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1732492217027431/posts/4221420871467874/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1732492217027431%2Fposts%2F4221420871467874%2F",
+      "source": "Facebook · Hugoton Chat"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "Some results may have been delisted consistent with local laws. Learn more",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/policies/faq",
+            "text": "Learn more"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Q167aaSUOJvJwN4Pj9rviAQ&start=10&sa=N&sstk=Af77f_eiNvE0o4lkPVCpb_rFFwWivIDChMLCwJxQdAGWqe-yc05vxp57SxSRYGCXFos-RHHHOL3fNjZs2MZb1Uc6BjeXGyZF439RRQ&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ8NMDegQIDxAY",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Q167aaSUOJvJwN4Pj9rviAQ&start=10&sa=N&sstk=Af77f_eiNvE0o4lkPVCpb_rFFwWivIDChMLCwJxQdAGWqe-yc05vxp57SxSRYGCXFos-RHHHOL3fNjZs2MZb1Uc6BjeXGyZF439RRQ&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ8tMDegQIDxAG",
+      "3": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Q167aaSUOJvJwN4Pj9rviAQ&start=20&sa=N&sstk=Af77f_eiNvE0o4lkPVCpb_rFFwWivIDChMLCwJxQdAGWqe-yc05vxp57SxSRYGCXFos-RHHHOL3fNjZs2MZb1Uc6BjeXGyZF439RRQ&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ8tMDegQIDxAI",
+      "4": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Q167aaSUOJvJwN4Pj9rviAQ&start=30&sa=N&sstk=Af77f_eiNvE0o4lkPVCpb_rFFwWivIDChMLCwJxQdAGWqe-yc05vxp57SxSRYGCXFos-RHHHOL3fNjZs2MZb1Uc6BjeXGyZF439RRQ&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ8tMDegQIDxAK",
+      "5": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Q167aaSUOJvJwN4Pj9rviAQ&start=40&sa=N&sstk=Af77f_eiNvE0o4lkPVCpb_rFFwWivIDChMLCwJxQdAGWqe-yc05vxp57SxSRYGCXFos-RHHHOL3fNjZs2MZb1Uc6BjeXGyZF439RRQ&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ8tMDegQIDxAM",
+      "6": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Q167aaSUOJvJwN4Pj9rviAQ&start=50&sa=N&sstk=Af77f_eiNvE0o4lkPVCpb_rFFwWivIDChMLCwJxQdAGWqe-yc05vxp57SxSRYGCXFos-RHHHOL3fNjZs2MZb1Uc6BjeXGyZF439RRQ&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ8tMDegQIDxAO",
+      "7": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Q167aaSUOJvJwN4Pj9rviAQ&start=60&sa=N&sstk=Af77f_eiNvE0o4lkPVCpb_rFFwWivIDChMLCwJxQdAGWqe-yc05vxp57SxSRYGCXFos-RHHHOL3fNjZs2MZb1Uc6BjeXGyZF439RRQ&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ8tMDegQIDxAQ",
+      "8": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Q167aaSUOJvJwN4Pj9rviAQ&start=70&sa=N&sstk=Af77f_eiNvE0o4lkPVCpb_rFFwWivIDChMLCwJxQdAGWqe-yc05vxp57SxSRYGCXFos-RHHHOL3fNjZs2MZb1Uc6BjeXGyZF439RRQ&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ8tMDegQIDxAS",
+      "9": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Q167aaSUOJvJwN4Pj9rviAQ&start=80&sa=N&sstk=Af77f_eiNvE0o4lkPVCpb_rFFwWivIDChMLCwJxQdAGWqe-yc05vxp57SxSRYGCXFos-RHHHOL3fNjZs2MZb1Uc6BjeXGyZF439RRQ&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ8tMDegQIDxAU",
+      "10": "https://www.google.com/search?q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=Q167aaSUOJvJwN4Pj9rviAQ&start=90&sa=N&sstk=Af77f_eiNvE0o4lkPVCpb_rFFwWivIDChMLCwJxQdAGWqe-yc05vxp57SxSRYGCXFos-RHHHOL3fNjZs2MZb1Uc6BjeXGyZF439RRQ&ved=2ahUKEwjkwf-Y9KqTAxWbJNAFHQ_tG0EQ8tMDegQIDxAW"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brian+Trautner+US+House+TX-31+Central+Texas+Facebook&start=90"
+    }
+  }
+}

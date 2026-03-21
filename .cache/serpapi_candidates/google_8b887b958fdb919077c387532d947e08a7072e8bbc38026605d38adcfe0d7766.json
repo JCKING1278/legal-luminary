@@ -1,0 +1,390 @@
+{
+  "search_metadata": {
+    "id": "69bb5db04632b5b2fbc332a4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/AEE7zjHvSMrnXRM6kzWxow/69bb5db04632b5b2fbc332a4.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/AEE7zjHvSMrnXRM6kzWxow/69bb5db04632b5b2fbc332a4.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:36 UTC",
+    "processed_at": "2026-03-19 02:21:36 UTC",
+    "google_url": "https://www.google.com/search?q=Jessica+A.+Gonzalez+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Facebook&oq=Jessica+A.+Gonzalez+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/AEE7zjHvSMrnXRM6kzWxow/69bb5db04632b5b2fbc332a4.html",
+    "total_time_taken": 3.79
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Jessica A. Gonzalez \"Bell JP P4 Place 2\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Jessica A. Gonzalez \"Bell JP P4 Place 2\" \"Central Texas\" Facebook",
+    "total_results": 290000,
+    "time_taken_displayed": 0.45,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Jessica A. Gonzalez Bell JP P4 Place 2 Central Texas Facebook",
+    "spelling_fix": "Jessica A. Gonzalez Bell JP P4 Place 2 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "State Representative Jessica González",
+      "link": "https://www.facebook.com/repjessicagonzalez/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/repjessicagonzalez/&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQFnoECB4QAQ",
+      "displayed_link": "5.7K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHLFkeN60eXkJv06Bf1rzWoE.png",
+      "snippet": "State Representative Jessica González, Dallas. 5699 likes · 254 talking about this. Progressive Democrat serving Dallas, Oak Cliff, Grand Prairie, and...",
+      "snippet_highlighted_words": [
+        "Jessica González"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "State Representative Jessica González, Dallas. 5699 likes · 254 talking about this. Progressive Democrat serving Dallas, Oak Cliff, Grand Prairie, and...",
+          "source_info_link": "https://www.facebook.com/repjessicagonzalez/",
+          "icon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHEzVYF0KsyE3t5wwpZedfmwOfAVm4ZGJyjWPKtY6znY7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/repjessicagonzalez/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Frepjessicagonzalez%2F",
+      "missing": [
+        "Bell",
+        "JP"
+      ],
+      "source": "Facebook · State Representative Jessica González"
+    },
+    {
+      "position": 2,
+      "title": "a position that represents the Killeen-Harker Heights area.",
+      "link": "https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQFnoECB8QAQ",
+      "displayed_link": "110+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHMWBKzRM1YeKM8PT8DLp6a4.png",
+      "snippet": "Jessica Gonzalez a native Texan born in Killeen is the right candidate for this job. Knows the landscape and raised by public servants. She will ...",
+      "snippet_highlighted_words": [
+        "Jessica Gonzalez"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jessica Gonzalez a native Texan born in Killeen is the right candidate for this job. Knows the landscape and raised by public servants. She will ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/",
+          "icon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHLVnYiOy4bR84__1PxNhqDv3ghGpSKNjupns9Y_MUAP0.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fthree-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-%2F1457676362973180%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+A.+Gonzalez+Bell+JP+%22P4%22+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQ5t4CegQIMxAB"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Killeen City Councilwoman Jessica Gonzalez speaks with ...",
+      "link": "https://www.facebook.com/kdhnews/videos/killeen-city-councilwoman-jessica-gonzalez-speaks-with-kdh-news-about-her-qualif/1991498911642085/",
+      "displayed_link": "1 reaction · 2 weeks ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHG2Vq12xsPsHDN_bE_mkr7c.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHDYZ6wwsvddzyF4_MdX_kfI.png",
+      "snippet": "Killeen City Councilwoman Jessica Gonzalez speaks with KDH News about her qualifications for Justice of the Peace and what she plans to do ...",
+      "duration": "9:02",
+      "about_this_result": {
+        "source": {
+          "description": "Killeen City Councilwoman Jessica Gonzalez speaks with KDH News about her qualifications for Justice of the Peace and what she plans to do ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/killeen-city-councilwoman-jessica-gonzalez-speaks-with-kdh-news-about-her-qualif/1991498911642085/",
+          "icon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHD6zIPBKh2AN-VlCUkWlKG1tW5LCgySFZ1MVQ81p87U-.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/killeen-city-councilwoman-jessica-gonzalez-speaks-with-kdh-news-about-her-qualif/1991498911642085/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fkilleen-city-councilwoman-jessica-gonzalez-speaks-with-kdh-news-about-her-qualif%2F1991498911642085%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+A.+Gonzalez+Bell+JP+%22P4%22+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQ5t4CegQIDBAR"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 4,
+      "title": "Jessica A Gonzales for JP, Pct3, Pl 2",
+      "link": "https://www.facebook.com/61578182347843/photos/d41d8cd9/122146687544939411/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/61578182347843/photos/d41d8cd9/122146687544939411/&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQFnoECBwQAQ",
+      "displayed_link": "https://www.facebook.com › photos",
+      "favicon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHB7tldEEDT3VHgL31eZhCWI.png",
+      "date": "Dec 9, 2025",
+      "snippet": "Jessica A Gonzales for JP, Pct3, Pl 2 added a new photo.",
+      "snippet_highlighted_words": [
+        "Jessica A Gonzales",
+        "JP",
+        "2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jessica A Gonzales for JP, Pct3, Pl 2 added a new photo.",
+          "source_info_link": "https://www.facebook.com/61578182347843/photos/d41d8cd9/122146687544939411/",
+          "icon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHMfkM7PTpl9WcxQvvZc1HNrLFr6fdC-doX71j3q8qSOf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/61578182347843/photos/d41d8cd9/122146687544939411/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F61578182347843%2Fphotos%2Fd41d8cd9%2F122146687544939411%2F",
+      "missing": [
+        "Bell",
+        "P4",
+        "Central"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 5,
+      "title": "Jessica Gonzalez, D-Killeen, wants to be your next justice ...",
+      "link": "https://www.facebook.com/kdhnews/posts/jessica-gonzalez-d-killeen-wants-to-be-your-next-justice-of-the-peace/1295396359201182/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/jessica-gonzalez-d-killeen-wants-to-be-your-next-justice-of-the-peace/1295396359201182/&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQFnoECCAQAQ",
+      "displayed_link": "3 reactions · 7 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHMDa3PBzgUMEHuIgPQVVKSQ.png",
+      "snippet": "I am a bowler and been on the high bowling team all 4 years. I'm studying Law Enforcement because I want to join the police K-9 unit.",
+      "snippet_highlighted_words": [
+        "4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I am a bowler and been on the high bowling team all 4 years. I'm studying Law Enforcement because I want to join the police K-9 unit.",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/jessica-gonzalez-d-killeen-wants-to-be-your-next-justice-of-the-peace/1295396359201182/",
+          "icon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHBMEHdJWl0OmZP-zXQeyGymnfe_SUtrX6PHV4KavPuNj.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/jessica-gonzalez-d-killeen-wants-to-be-your-next-justice-of-the-peace/1295396359201182/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fjessica-gonzalez-d-killeen-wants-to-be-your-next-justice-of-the-peace%2F1295396359201182%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+A.+Gonzalez+Bell+JP+P4+Place+2+%22Central%22+Texas+Facebook&sa=X&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQ5t4CegQIMBAB"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 6,
+      "title": "Jessica A Gonzales for JP, Pct3, Pl 2",
+      "link": "https://www.facebook.com/p/Jessica-A-Gonzales-for-JP-Pct3-Pl-2-61578182347843/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/p/Jessica-A-Gonzales-for-JP-Pct3-Pl-2-61578182347843/&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQFnoECB0QAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHJKl3q89HDCsGoLbDYXsufI.png",
+      "snippet": "Jessica A Gonzales for JP, Pct3, Pl 2. 1064 likes · 55 talking about this. Candidate for Justice of the Peace, Pct 3, PL 2.",
+      "snippet_highlighted_words": [
+        "Jessica A Gonzales",
+        "JP",
+        "2",
+        "Justice of the Peace",
+        "2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jessica A Gonzales for JP, Pct3, Pl 2. 1064 likes · 55 talking about this. Candidate for Justice of the Peace, Pct 3, PL 2.",
+          "source_info_link": "https://www.facebook.com/p/Jessica-A-Gonzales-for-JP-Pct3-Pl-2-61578182347843/",
+          "icon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHL-oMacDEcp9Z53L7IqdoRTi6xUHWpICaz-L4BF_tIez.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/p/Jessica-A-Gonzales-for-JP-Pct3-Pl-2-61578182347843/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fp%2FJessica-A-Gonzales-for-JP-Pct3-Pl-2-61578182347843%2F",
+      "missing": [
+        "Bell",
+        "Central"
+      ],
+      "source": "Facebook · Jessica A Gonzales for JP, Pct3, Pl 2"
+    },
+    {
+      "position": 7,
+      "title": "🔵 Bell County Democratic Party – Primary Runoff Election ...",
+      "link": "https://www.facebook.com/bellcodems/posts/-bell-county-democratic-party-primary-runoff-election-%EF%B8%8F-the-democratic-primary-h/1353623300141155/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bellcodems/posts/-bell-county-democratic-party-primary-runoff-election-%25EF%25B8%258F-the-democratic-primary-h/1353623300141155/&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQFnoECCEQAQ",
+      "displayed_link": "20+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHDNAboVnMgv40zUXn7iInVM.png",
+      "snippet": "Bell County Democratic Party – Primary Runoff Election 🗳️ The Democratic Primary has moved to a runoff election, and voters will decide the ...",
+      "snippet_highlighted_words": [
+        "Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bell County Democratic Party – Primary Runoff Election 🗳️ The Democratic Primary has moved to a runoff election, and voters will decide the ...",
+          "source_info_link": "https://www.facebook.com/bellcodems/posts/-bell-county-democratic-party-primary-runoff-election-%EF%B8%8F-the-democratic-primary-h/1353623300141155/",
+          "icon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHLobeMjy1qDzRbi3MQ7jE7n_HB47npSZr_VvR1r-S9YT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bellcodems/posts/-bell-county-democratic-party-primary-runoff-election-%EF%B8%8F-the-democratic-primary-h/1353623300141155/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbellcodems%2Fposts%2F-bell-county-democratic-party-primary-runoff-election-%25EF%25B8%258F-the-democratic-primary-h%2F1353623300141155%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+A.+Gonzalez+Bell+JP+%22P4%22+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQ5t4CegQIMRAB"
+      },
+      "source": "Facebook · Bell County Democratic Party"
+    },
+    {
+      "position": 8,
+      "title": "Jessica A. Gonzalez (Bell County Justice of the Peace ...",
+      "link": "https://ballotpedia.org/Jessica_A._Gonzalez_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Jessica_A._Gonzalez_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQFnoECDgQAQ",
+      "displayed_link": "https://ballotpedia.org › Jessica_A._Gonzalez_(Bell_Cou...",
+      "favicon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHJjXiAKzvDWJzEiM2cIkZMs.png",
+      "snippet": "Gonzalez (Democratic Party) ran for election for Bell County Justice of the Peace Precinct 4, Place 2 in Texas. Gonzalez was on the ballot in the Democratic ...",
+      "snippet_highlighted_words": [
+        "Gonzalez",
+        "Bell",
+        "Justice of the Peace",
+        "4",
+        "Place 2",
+        "Texas",
+        "Gonzalez"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Gonzalez (Democratic Party) ran for election for Bell County Justice of the Peace Precinct 4, Place 2 in Texas. Gonzalez was on the ballot in the Democratic ...",
+          "source_info_link": "https://ballotpedia.org/Jessica_A._Gonzalez_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHNodyJQJAd0tKdZvmllmyCOzEZkWnwaL3cTMb7tAKqPa.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Jessica_A._Gonzalez_(Bell_County_Justice_of_the_Peace_Precinct_4,_Place_2,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FJessica_A._Gonzalez_%28Bell_County_Justice_of_the_Peace_Precinct_4%2C_Place_2%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "P4",
+        "Central"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 9,
+      "title": "Candidate for Justice of the Peace, Pct 3, Pl 2 Justice isn't ...",
+      "link": "https://www.facebook.com/groups/212110171663183/posts/789506430590218/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/212110171663183/posts/789506430590218/&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQFnoECD8QAQ",
+      "displayed_link": "2 comments · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHOlqYP085kNrU46EYrV4F0Y.png",
+      "snippet": "Good morning, my peeps! I'm running to serve with justice, integrity, and compassion.” ‍⚖️ Jessica A. Gonzales — Candidate for Justice of ...",
+      "snippet_highlighted_words": [
+        "Jessica A. Gonzales"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Good morning, my peeps! I'm running to serve with justice, integrity, and compassion.” ‍⚖️ Jessica A. Gonzales — Candidate for Justice of ...",
+          "source_info_link": "https://www.facebook.com/groups/212110171663183/posts/789506430590218/",
+          "icon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHDQGquu6YxeEMC2pVBezP7E1khrS0_APmMDI3tom0Bdk.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/212110171663183/posts/789506430590218/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F212110171663183%2Fposts%2F789506430590218%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+A.+Gonzalez+Bell+JP+%22P4%22+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQ5t4CegQIQRAB"
+      },
+      "source": "Facebook · Harlingen Jobs"
+    },
+    {
+      "position": 10,
+      "title": "State Representative Jessica González",
+      "link": "https://www.facebook.com/repjessicagonzalez/?locale=br_FR",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/repjessicagonzalez/%3Flocale%3Dbr_FR&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQFnoECD0QAQ",
+      "displayed_link": "5.7K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHBuX1nm48-EhQDFyfGiVosk.png",
+      "snippet": "State Representative Jessica González, Dallas. 5 680 den plijet · 187 den a gomz diwar-benn an dra-mañ. Progressive Democrat serving Dallas, Oak Cliff,...",
+      "snippet_highlighted_words": [
+        "Jessica González"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "State Representative Jessica González, Dallas. 5 680 den plijet · 187 den a gomz diwar-benn an dra-mañ. Progressive Democrat serving Dallas, Oak Cliff,...",
+          "source_info_link": "https://www.facebook.com/repjessicagonzalez/?locale=br_FR",
+          "icon": "https://serpapi.com/searches/69bb5db04632b5b2fbc332a4/images/3heJkRQLNLRKPHUtmRfeHKAU_JVk7022uy4Xo40-WkDjgiaW0sYR5DcF6RgNsqlo.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/repjessicagonzalez/?locale=br_FR&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Frepjessicagonzalez%2F%3Flocale%3Dbr_FR",
+      "missing": [
+        "Bell"
+      ],
+      "must_include": {
+        "word": "Bell",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Jessica+A.+Gonzalez+%22Bell%22+JP+P4+Place+2+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQ5t4CegQIQxAB"
+      },
+      "source": "Facebook · State Representative Jessica González"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Jessica+A.+Gonzalez+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=s127abiiCN__p84P4ai5oQs&start=10&sa=N&sstk=Af77f_cgEqKI93Ssf529rYba91xtRKtCiKv-BKaj8_OteJZggD_BMHEFQ66XEWYY1MVpDYylZvaJ68JR3fOWH6Mu_fVhWwUSgaKJ3g&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQ8NMDegQIDRAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Jessica+A.+Gonzalez+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=s127abiiCN__p84P4ai5oQs&start=10&sa=N&sstk=Af77f_cgEqKI93Ssf529rYba91xtRKtCiKv-BKaj8_OteJZggD_BMHEFQ66XEWYY1MVpDYylZvaJ68JR3fOWH6Mu_fVhWwUSgaKJ3g&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=Jessica+A.+Gonzalez+Bell+JP+P4+Place+2+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=s127abiiCN__p84P4ai5oQs&start=20&sa=N&sstk=Af77f_cgEqKI93Ssf529rYba91xtRKtCiKv-BKaj8_OteJZggD_BMHEFQ66XEWYY1MVpDYylZvaJ68JR3fOWH6Mu_fVhWwUSgaKJ3g&ved=2ahUKEwj4x_rT86qTAxXf_8kDHWFULrQQ8tMDegQIDRAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+A.+Gonzalez+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+A.+Gonzalez+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+A.+Gonzalez+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jessica+A.+Gonzalez+Bell+JP+P4+Place+2+Central+Texas+Facebook&start=20"
+    }
+  }
+}

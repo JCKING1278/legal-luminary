@@ -1,0 +1,351 @@
+{
+  "search_metadata": {
+    "id": "69bb5e68e6590ef4a8a44472",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dcr8_KV6t6z--AnGZ3ZeWw/69bb5e68e6590ef4a8a44472.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/dcr8_KV6t6z--AnGZ3ZeWw/69bb5e68e6590ef4a8a44472.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:40 UTC",
+    "processed_at": "2026-03-19 02:24:40 UTC",
+    "google_url": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&oq=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/dcr8_KV6t6z--AnGZ3ZeWw/69bb5e68e6590ef4a8a44472.html",
+    "total_time_taken": 6.83
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Jose Segarra \"Killeen Council At-Large\" \"Killeen\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Jose Segarra \"Killeen Council At-Large\" \"Killeen\" Facebook",
+    "total_results": 383,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Killeen Mayor Debbie Nash-King announced that she has ...",
+      "link": "https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQFnoECCYQAQ",
+      "displayed_link": "170+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxsC1oQ90WJhSPMjJE5vYJUc.png",
+      "snippet": "Nash-King announces run for Killeen council at-large seat, resigns as mayor ... Killeen Mayor Jose Segarra is also a voting member of the board.",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen",
+        "Jose Segarra"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nash-King announces run for Killeen council at-large seat, resigns as mayor ... Killeen Mayor Jose Segarra is also a voting member of the board.",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/",
+          "icon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxlWYzXPs84IJIXbEbgx13waoTmghbbhd64FDtLPBRfyJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fkilleen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th%2F1456150003125816%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "Beverly Williams files for Killeen council at-large election",
+      "link": "https://www.facebook.com/kdhnews/posts/beverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos/1428419932565490/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/beverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos/1428419932565490/&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQFnoECCEQAQ",
+      "displayed_link": "1 reaction · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxqFGjRAHUHEkjjwONzY67x4.png",
+      "snippet": "Beverly Williams files for Killeen council at-large election ... Killeen Mayor Jose Segarra said that even though he'd only met her ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen",
+        "Jose Segarra"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Beverly Williams files for Killeen council at-large election ... Killeen Mayor Jose Segarra said that even though he'd only met her ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/beverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos/1428419932565490/",
+          "icon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxjD8vSXYpb_ftP_KTYhllXIPpEle3pKbF099v1nntwwq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/beverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos/1428419932565490/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fbeverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos%2F1428419932565490%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "JUST IN | Killeen, #Texas Mayor Debbie Nash-King ...",
+      "link": "https://www.facebook.com/micahrwilson/posts/just-in-killeen-texas-mayor-debbie-nash-king-announced-that-she-has-filed-to-run/1514856456890670/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/micahrwilson/posts/just-in-killeen-texas-mayor-debbie-nash-king-announced-that-she-has-filed-to-run/1514856456890670/&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQFnoECCIQAQ",
+      "displayed_link": "120+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxj5ub46YC6cObjRx9zRX6KQ.png",
+      "snippet": "... killeen-council-at-large-seat-resigns-as-mayor/article_ef6251c3-2f0d-4a8e-881f-02420bdf1fa7.html?utm_campaign=blox&utm_source ...",
+      "snippet_highlighted_words": [
+        "killeen-council-at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... killeen-council-at-large\n-seat-resigns-as-mayor/article_ef6251c3-2f0d-4a8e-881f-02420bdf1fa7.html?utm_campaign=blox&utm_source ...",
+          "source_info_link": "https://www.facebook.com/micahrwilson/posts/just-in-killeen-texas-mayor-debbie-nash-king-announced-that-she-has-filed-to-run/1514856456890670/",
+          "icon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxgh3AyoOVFGpCQYybVjPgu_ffyaQgv2S-1Y659mUBeHc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/micahrwilson/posts/just-in-killeen-texas-mayor-debbie-nash-king-announced-that-she-has-filed-to-run/1514856456890670/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fmicahrwilson%2Fposts%2Fjust-in-killeen-texas-mayor-debbie-nash-king-announced-that-she-has-filed-to-run%2F1514856456890670%2F",
+      "source": "Facebook · Micah Wilson"
+    },
+    {
+      "position": 4,
+      "title": "Segarra announces candidacy for mayor of Killeen",
+      "link": "https://kdhnews.com/centerforpolitics/segarra-announces-candidacy-for-mayor-of-killeen/article_845d1e8e-a006-4c69-ac29-605498ab0812.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/segarra-announces-candidacy-for-mayor-of-killeen/article_845d1e8e-a006-4c69-ac29-605498ab0812.html&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQFnoECB4QAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › segarra-annou...",
+      "favicon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxi23LvivrWR85-JwGKv-q9g.png",
+      "date": "Jan 9, 2026",
+      "snippet": "Jose L. Segarra, longtime community leader and current Killeen councilmember at-large, announced his intention to run for Killeen mayor in ...",
+      "snippet_highlighted_words": [
+        "Jose",
+        "Segarra",
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jose L. Segarra, longtime community leader and current Killeen councilmember at-large, announced his intention to run for Killeen mayor in ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/segarra-announces-candidacy-for-mayor-of-killeen/article_845d1e8e-a006-4c69-ac29-605498ab0812.html",
+          "icon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxnrMxPj3VvJjyhJB4h4DS6ngcIb2ut_6kwlwHOlnALCs.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/segarra-announces-candidacy-for-mayor-of-killeen/article_845d1e8e-a006-4c69-ac29-605498ab0812.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fsegarra-announces-candidacy-for-mayor-of-killeen%2Farticle_845d1e8e-a006-4c69-ac29-605498ab0812.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "Here’s your quick Killeen–Fort Hood area news update for Jan ...",
+      "link": "https://www.facebook.com/kdhnews/videos/heres-your-quick-killeenfort-hood-area-news-update-for-jan-10-2026-read-more-at-/1384430646467491/",
+      "displayed_link": "10+ reactions · 2 months ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxthjr3l3C3IGRsqvfzvYIeo.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxpmG59FzIY6hSyZVmwLHLEE.png",
+      "snippet": "... Killeen Daily Herald | Facebook. Log in · Video. 󱡘. Killeen Daily Herald ... Killeen council at-large candidate John \"Crow\" Miller ... 10 hours ...",
+      "duration": "1:03",
+      "about_this_result": {
+        "source": {
+          "description": "... Killeen Daily Herald | Facebook. Log in · Video. 󱡘. Killeen Daily Herald ... Killeen council at-large candidate John \"Crow\" Miller ... 10 hours ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/heres-your-quick-killeenfort-hood-area-news-update-for-jan-10-2026-read-more-at-/1384430646467491/",
+          "icon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxomMh-50eyFCar5fQX3Swk9TQzH25WGgvxctf-uiTDG9.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/heres-your-quick-killeenfort-hood-area-news-update-for-jan-10-2026-read-more-at-/1384430646467491/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fheres-your-quick-killeenfort-hood-area-news-update-for-jan-10-2026-read-more-at-%2F1384430646467491%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 6,
+      "title": "Killeen incumbents retain council at-large seats",
+      "link": "https://kdhnews.com/centerforpolitics/killeen-incumbents-retain-council-at-large-seats/article_09daaaea-0a95-11ef-82e7-435b0922faf1.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/killeen-incumbents-retain-council-at-large-seats/article_09daaaea-0a95-11ef-82e7-435b0922faf1.html&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQFnoECB0QAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › killeen-incum...",
+      "favicon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxnso_srcNY8_8ryhvFKMsX4.png",
+      "date": "May 4, 2024",
+      "snippet": "Killeen Councilman Jose Segarra was reelected to his council seat ... Killeen council at-large seat · Center for Politics · Chet Southworth ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Jose Segarra",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Councilman Jose Segarra was reelected to his council seat ... Killeen council at-large seat · Center for Politics · Chet Southworth ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/killeen-incumbents-retain-council-at-large-seats/article_09daaaea-0a95-11ef-82e7-435b0922faf1.html",
+          "icon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxsTMXTy5_VlmnY5dTBm3oUZ71RNqITlO1LBjYD-2CFzy.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/killeen-incumbents-retain-council-at-large-seats/article_09daaaea-0a95-11ef-82e7-435b0922faf1.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fkilleen-incumbents-retain-council-at-large-seats%2Farticle_09daaaea-0a95-11ef-82e7-435b0922faf1.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 7,
+      "title": "Election Season: Candidate filing starts Wednesday for ...",
+      "link": "https://kdhnews.com/centerforpolitics/election-season-candidate-filing-starts-wednesday-for-may-city-school-elections/article_5da6dc5f-f7a6-442d-b736-e62924f0fe0c.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/election-season-candidate-filing-starts-wednesday-for-may-city-school-elections/article_5da6dc5f-f7a6-442d-b736-e62924f0fe0c.html&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQFnoECCwQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › election-seaso...",
+      "favicon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxvG5lqouiIOzARhbdSGEX0Y.png",
+      "date": "Jan 11, 2026",
+      "snippet": "Segarra previously served three terms as mayor of Killeen from 2016 to 2022. ... Killeen council at-large · Center for Politics · Shavonn Hull ...",
+      "snippet_highlighted_words": [
+        "Segarra",
+        "Killeen",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Segarra previously served three terms as mayor of Killeen from 2016 to 2022. ... Killeen council at-large · Center for Politics · Shavonn Hull ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/election-season-candidate-filing-starts-wednesday-for-may-city-school-elections/article_5da6dc5f-f7a6-442d-b736-e62924f0fe0c.html",
+          "icon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxkseEXi6aBSfY9vqDJ-_lHgGRlgZ149sCOYlFaLWCfQ4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/election-season-candidate-filing-starts-wednesday-for-may-city-school-elections/article_5da6dc5f-f7a6-442d-b736-e62924f0fe0c.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Felection-season-candidate-filing-starts-wednesday-for-may-city-school-elections%2Farticle_5da6dc5f-f7a6-442d-b736-e62924f0fe0c.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 8,
+      "title": "Two people file for Killeen Council at-large seat",
+      "link": "https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQFnoECDYQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › two-people-fil...",
+      "favicon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxundUAn7xJQuHo7DunuU18g.png",
+      "date": "Feb 15, 2024",
+      "snippet": "Two people file for Killeen Council at-large seat ... Camron Cochran has filed for the May 4 election for the Killeen City Council's at-large seat ...",
+      "snippet_highlighted_words": [
+        "Killeen Council at-large",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Two people file for Killeen Council at-large seat ... Camron Cochran has filed for the May 4 election for the Killeen City Council's at-large seat ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html",
+          "icon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxmy4SIc1fCGHqse5IFUJT--vdZHRoqewbK9snrJ7gNpd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Ftwo-people-file-for-killeen-council-at-large-seat%2Farticle_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 9,
+      "title": "Shavonn Hull files for Killeen council at-large",
+      "link": "https://kdhnews.com/centerforpolitics/shavonn-hull-files-for-killeen-council-at-large/article_eacc96a4-dd00-413e-91da-57bd4ec74734.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/shavonn-hull-files-for-killeen-council-at-large/article_eacc96a4-dd00-413e-91da-57bd4ec74734.html&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQFnoECDMQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › shavonn-hull-...",
+      "favicon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxv8ShmFdSdrklXeC_Os5vEI.png",
+      "date": "Jan 29, 2026",
+      "snippet": "Shavonn Hull files for Killeen council at-large ; Killeen chamber to hold an election meet and greet. Feb 17, 2026 ; Adams to be sworn in as ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Shavonn Hull files for Killeen council at-large ; Killeen chamber to hold an election meet and greet. Feb 17, 2026 ; Adams to be sworn in as ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/shavonn-hull-files-for-killeen-council-at-large/article_eacc96a4-dd00-413e-91da-57bd4ec74734.html",
+          "icon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxlmuEOUttaDfgNDcmxf--pJzvfNwuDHT3bmSh43k_EPs.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/shavonn-hull-files-for-killeen-council-at-large/article_eacc96a4-dd00-413e-91da-57bd4ec74734.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fshavonn-hull-files-for-killeen-council-at-large%2Farticle_eacc96a4-dd00-413e-91da-57bd4ec74734.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 10,
+      "title": "Here is a look at the candidates who have filed for city ...",
+      "link": "https://kdhnews.com/centerforpolitics/here-is-a-look-at-the-candidates-who-have-filed-for-city-and-school-board/article_0e8500d4-b7c2-11ee-8741-0be741a7160a.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/here-is-a-look-at-the-candidates-who-have-filed-for-city-and-school-board/article_0e8500d4-b7c2-11ee-8741-0be741a7160a.html&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQFnoECDcQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › here-is-a-look...",
+      "favicon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxh6pVCcHtp5NU7DqOmX68w4.png",
+      "date": "Jan 21, 2024",
+      "snippet": "Jose Segarra is a local real estate broker and a familiar face in Killeen politics. ... Killeen council at-large · Center for Politics ...",
+      "snippet_highlighted_words": [
+        "Jose Segarra",
+        "Killeen",
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jose Segarra is a local real estate broker and a familiar face in Killeen politics. ... Killeen council at-large · Center for Politics ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/here-is-a-look-at-the-candidates-who-have-filed-for-city-and-school-board/article_0e8500d4-b7c2-11ee-8741-0be741a7160a.html",
+          "icon": "https://serpapi.com/searches/69bb5e68e6590ef4a8a44472/images/8M97T7HGlm-UXm4eK6SHxo_f8_ynGlswVb5v_EHSoaRbTta8km6iDIOIRl3Z5Zd3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/here-is-a-look-at-the-candidates-who-have-filed-for-city-and-school-board/article_0e8500d4-b7c2-11ee-8741-0be741a7160a.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fhere-is-a-look-at-the-candidates-who-have-filed-for-city-and-school-board%2Farticle_0e8500d4-b7c2-11ee-8741-0be741a7160a.html",
+      "source": "The Killeen Daily Herald"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=bl67acWfAfPGp84P8Mbh0AI&start=10&sa=N&sstk=Af77f_dC7ApWl7CFR-J3lt2uq8pHuuPd8OwDLlveOb_eHJW-PoH0svX8difbFxCGrDqxjA7WeKK-03pWWUHJQ-ECUoWmwaxGL0mBJw&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQ8NMDegQIEhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=bl67acWfAfPGp84P8Mbh0AI&start=10&sa=N&sstk=Af77f_dC7ApWl7CFR-J3lt2uq8pHuuPd8OwDLlveOb_eHJW-PoH0svX8difbFxCGrDqxjA7WeKK-03pWWUHJQ-ECUoWmwaxGL0mBJw&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQ8tMDegQIEhAE",
+      "3": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=bl67acWfAfPGp84P8Mbh0AI&start=20&sa=N&sstk=Af77f_dC7ApWl7CFR-J3lt2uq8pHuuPd8OwDLlveOb_eHJW-PoH0svX8difbFxCGrDqxjA7WeKK-03pWWUHJQ-ECUoWmwaxGL0mBJw&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQ8tMDegQIEhAG",
+      "4": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=bl67acWfAfPGp84P8Mbh0AI&start=30&sa=N&sstk=Af77f_dC7ApWl7CFR-J3lt2uq8pHuuPd8OwDLlveOb_eHJW-PoH0svX8difbFxCGrDqxjA7WeKK-03pWWUHJQ-ECUoWmwaxGL0mBJw&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQ8tMDegQIEhAI",
+      "5": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=bl67acWfAfPGp84P8Mbh0AI&start=40&sa=N&sstk=Af77f_dC7ApWl7CFR-J3lt2uq8pHuuPd8OwDLlveOb_eHJW-PoH0svX8difbFxCGrDqxjA7WeKK-03pWWUHJQ-ECUoWmwaxGL0mBJw&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQ8tMDegQIEhAK",
+      "6": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=bl67acWfAfPGp84P8Mbh0AI&start=50&sa=N&sstk=Af77f_dC7ApWl7CFR-J3lt2uq8pHuuPd8OwDLlveOb_eHJW-PoH0svX8difbFxCGrDqxjA7WeKK-03pWWUHJQ-ECUoWmwaxGL0mBJw&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQ8tMDegQIEhAM",
+      "7": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=bl67acWfAfPGp84P8Mbh0AI&start=60&sa=N&sstk=Af77f_dC7ApWl7CFR-J3lt2uq8pHuuPd8OwDLlveOb_eHJW-PoH0svX8difbFxCGrDqxjA7WeKK-03pWWUHJQ-ECUoWmwaxGL0mBJw&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQ8tMDegQIEhAO",
+      "8": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=bl67acWfAfPGp84P8Mbh0AI&start=70&sa=N&sstk=Af77f_dC7ApWl7CFR-J3lt2uq8pHuuPd8OwDLlveOb_eHJW-PoH0svX8difbFxCGrDqxjA7WeKK-03pWWUHJQ-ECUoWmwaxGL0mBJw&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQ8tMDegQIEhAQ",
+      "9": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=bl67acWfAfPGp84P8Mbh0AI&start=80&sa=N&sstk=Af77f_dC7ApWl7CFR-J3lt2uq8pHuuPd8OwDLlveOb_eHJW-PoH0svX8difbFxCGrDqxjA7WeKK-03pWWUHJQ-ECUoWmwaxGL0mBJw&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQ8tMDegQIEhAS",
+      "10": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=bl67acWfAfPGp84P8Mbh0AI&start=90&sa=N&sstk=Af77f_dC7ApWl7CFR-J3lt2uq8pHuuPd8OwDLlveOb_eHJW-PoH0svX8difbFxCGrDqxjA7WeKK-03pWWUHJQ-ECUoWmwaxGL0mBJw&ved=2ahUKEwjFjomt9KqTAxVz48kDHXBjGCoQ8tMDegQIEhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Facebook&start=90"
+    }
+  }
+}

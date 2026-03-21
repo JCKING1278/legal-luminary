@@ -1,0 +1,265 @@
+{
+  "search_metadata": {
+    "id": "69bb5d8dcf88707402280e4d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pYIc3a5Dps64qN1HSykAtQ/69bb5d8dcf88707402280e4d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/pYIc3a5Dps64qN1HSykAtQ/69bb5d8dcf88707402280e4d.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:01 UTC",
+    "processed_at": "2026-03-19 02:21:01 UTC",
+    "google_url": "https://www.google.com/search?q=Tom+Maynard+%22SBOE+TX-10%22+%22Central+Texas%22+LinkedIn&oq=Tom+Maynard+%22SBOE+TX-10%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/pYIc3a5Dps64qN1HSykAtQ/69bb5d8dcf88707402280e4d.html",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Tom Maynard \"SBOE TX-10\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Tom Maynard \"SBOE TX-10\" \"Central Texas\" LinkedIn",
+    "total_results": 5,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Tom Maynard SBOE TX-10 Central Texas LinkedIn",
+    "spelling_fix": "Tom Maynard SBOE TX-10 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Tom Maynard - Member at Texas State Board of Education",
+      "link": "https://www.linkedin.com/in/tom-maynard-85720849",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tom-maynard-85720849&ved=2ahUKEwi5kKXC86qTAxWij-4BHe8SB2kQFnoECCgQAQ",
+      "displayed_link": "8 followers",
+      "favicon": "https://serpapi.com/searches/69bb5d8dcf88707402280e4d/images/3T0_QbiAJUAbn5ws7ryb54T86tMmR3sEOzAFHwprd8s.png",
+      "snippet": "Member at Texas State Board of Education · Experience: Texas State Board of Education · Location: Florence · 5 connections on LinkedIn. View Tom Maynard's ...",
+      "snippet_highlighted_words": [
+        "Member at Texas State Board of Education"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Florence, Texas, United States",
+            "Member",
+            "Texas State Board of Education"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Member at Texas State Board of Education · Experience: Texas State Board of Education · Location: Florence · 5 connections on LinkedIn. View Tom Maynard's ...",
+          "source_info_link": "https://www.linkedin.com/in/tom-maynard-85720849",
+          "icon": "https://serpapi.com/searches/69bb5d8dcf88707402280e4d/images/3T0_QbiAJUAbn5ws7ryb535EhQ7l38gvrK-R4EnZYMs7L_rTolefk3usDd07LupD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/tom-maynard-85720849&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftom-maynard-85720849",
+      "missing": [
+        "SBOE",
+        "TX-",
+        "10"
+      ],
+      "source": "LinkedIn · Tom Maynard"
+    },
+    {
+      "position": 2,
+      "title": "Tom Maynard - Texas FFA Association",
+      "link": "https://www.linkedin.com/in/tom-maynard-4a35204a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tom-maynard-4a35204a&ved=2ahUKEwi5kKXC86qTAxWij-4BHe8SB2kQFnoECB8QAQ",
+      "displayed_link": "https://www.linkedin.com › tom-maynard-4a35204a",
+      "favicon": "https://serpapi.com/searches/69bb5d8dcf88707402280e4d/images/3T0_QbiAJUAbn5ws7ryb5_bPiIIPzXX7BWLcrLkGH80.png",
+      "snippet": "Experience: Texas FFA Association · Location: Florence. View Tom Maynard's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "View Tom Maynard's profile on LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Florence, Texas, United States",
+            "Texas FFA Association"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: Texas FFA Association · Location: Florence. View Tom Maynard's profile on LinkedIn, a professional community of 1 billion members.",
+          "source_info_link": "https://www.linkedin.com/in/tom-maynard-4a35204a",
+          "icon": "https://serpapi.com/searches/69bb5d8dcf88707402280e4d/images/3T0_QbiAJUAbn5ws7ryb5_A8o3ADtK4mTQFg6clY4hiurIaoPbdGx49NdDP1Ikpz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/tom-maynard-4a35204a&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftom-maynard-4a35204a",
+      "missing": [
+        "SBOE",
+        "TX-",
+        "10",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 3,
+      "title": "Tom Maynard: Homepage",
+      "link": "https://maynardfortexas.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://maynardfortexas.com/&ved=2ahUKEwi5kKXC86qTAxWij-4BHe8SB2kQFnoECCUQAQ",
+      "displayed_link": "https://maynardfortexas.com",
+      "favicon": "https://serpapi.com/searches/69bb5d8dcf88707402280e4d/images/3T0_QbiAJUAbn5ws7ryb538RYC-yvrEgR_TYyEN4FiA.png",
+      "snippet": "Tom is a member of the State Board of Education (SBOE), representing nearly 1.9 million Texans in District 10. As a member of the SBOE, Maynard has served as ...",
+      "snippet_highlighted_words": [
+        "Tom",
+        "SBOE",
+        "10",
+        "SBOE",
+        "Maynard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tom is a member of the State Board of Education (SBOE), representing nearly 1.9 million Texans in District 10. As a member of the SBOE, Maynard has served as ...",
+          "source_info_link": "https://maynardfortexas.com/",
+          "icon": "https://serpapi.com/searches/69bb5d8dcf88707402280e4d/images/3T0_QbiAJUAbn5ws7ryb5w-XiB65PWQPvjbzU02TwMTbuSTF1Dr8C2KKhYYyhQkh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://maynardfortexas.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmaynardfortexas.com%2F",
+      "missing": [
+        "Central",
+        "LinkedIn"
+      ],
+      "source": "maynardfortexas.com"
+    },
+    {
+      "position": 4,
+      "title": "Tom Maynard - Grimes County",
+      "link": "https://www.linkedin.com/in/tom-maynard-777586a3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tom-maynard-777586a3&ved=2ahUKEwi5kKXC86qTAxWij-4BHe8SB2kQFnoECCYQAQ",
+      "displayed_link": "60+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d8dcf88707402280e4d/images/3T0_QbiAJUAbn5ws7ryb5yvs3Cvz1RbyN8eRKGGQtME.png",
+      "snippet": "Experience: Grimes County · Location: College Station-Bryan Area · 69 connections on LinkedIn. View Tom Maynard's profile on LinkedIn, a professional ...",
+      "snippet_highlighted_words": [
+        "View Tom Maynard's profile on LinkedIn"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "College Station-Bryan Area",
+            "Grimes County"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience: Grimes County · Location: College Station-Bryan Area · 69 connections on LinkedIn. View Tom Maynard's profile on LinkedIn, a professional ...",
+          "source_info_link": "https://www.linkedin.com/in/tom-maynard-777586a3",
+          "icon": "https://serpapi.com/searches/69bb5d8dcf88707402280e4d/images/3T0_QbiAJUAbn5ws7ryb5xiv7FPN1EIdTgVzv95Tl_l-TuWH2tmdRdWruEG_b8Yd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/tom-maynard-777586a3&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftom-maynard-777586a3",
+      "missing": [
+        "SBOE",
+        "10"
+      ],
+      "source": "LinkedIn · Tom Maynard"
+    },
+    {
+      "position": 5,
+      "title": "Tom Maynard - Senior Vice President at Commerce ...",
+      "link": "https://www.linkedin.com/in/tom-maynard-6142399",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tom-maynard-6142399&ved=2ahUKEwi5kKXC86qTAxWij-4BHe8SB2kQFnoECCIQAQ",
+      "displayed_link": "https://www.linkedin.com › tom-maynard-6142399",
+      "favicon": "https://serpapi.com/searches/69bb5d8dcf88707402280e4d/images/3T0_QbiAJUAbn5ws7ryb51ktx1Lz0Berc5CExLjaKsU.png",
+      "snippet": "Tom Maynard. Senior Vice President at Commerce National Bank. Commerce National Bank Texas A&M University. Bryan, Texas, United States.",
+      "snippet_highlighted_words": [
+        "Senior Vice President at Commerce National Bank"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bryan, Texas, United States",
+            "Senior Vice President",
+            "Commerce National Bank"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Tom Maynard. Senior Vice President at Commerce National Bank. Commerce National Bank Texas A&M University. Bryan, Texas, United States.",
+          "source_info_link": "https://www.linkedin.com/in/tom-maynard-6142399",
+          "icon": "https://serpapi.com/searches/69bb5d8dcf88707402280e4d/images/3T0_QbiAJUAbn5ws7ryb5wNsFW4x_Yys-RYi2QqcaQiVXP2XTEZBRf1aqjrgxVTs.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/tom-maynard-6142399&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftom-maynard-6142399",
+      "missing": [
+        "SBOE",
+        "10",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Tom Maynard death",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Tom+Maynard+death&sa=X&ved=2ahUKEwi5kKXC86qTAxWij-4BHe8SB2kQ1QJ6BAgXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+death"
+    },
+    {
+      "block_position": 1,
+      "query": "Tom Maynard table tennis",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Tom+Maynard+table+tennis&sa=X&ved=2ahUKEwi5kKXC86qTAxWij-4BHe8SB2kQ1QJ6BAgWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tom+Maynard+table+tennis"
+    },
+    {
+      "block_position": 1,
+      "query": "Mr tom maynard",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Mr+tom+maynard&sa=X&ved=2ahUKEwi5kKXC86qTAxWij-4BHe8SB2kQ1QJ6BAgYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mr+tom+maynard"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 5 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Tom+Maynard+SBOE+TX-10+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

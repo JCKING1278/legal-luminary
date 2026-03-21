@@ -1,0 +1,372 @@
+{
+  "search_metadata": {
+    "id": "69bb5d2028c7fb174dc401bf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/swujTkMURgAFRu_BbYJeLg/69bb5d2028c7fb174dc401bf.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/swujTkMURgAFRu_BbYJeLg/69bb5d2028c7fb174dc401bf.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:12 UTC",
+    "processed_at": "2026-03-19 02:19:12 UTC",
+    "google_url": "https://www.google.com/search?q=Bill+Schumann+%22Bell+County+Commissioner+P1%22+%22Central+Texas%22+Instagram&oq=Bill+Schumann+%22Bell+County+Commissioner+P1%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/swujTkMURgAFRu_BbYJeLg/69bb5d2028c7fb174dc401bf.html",
+    "total_time_taken": 1.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bill Schumann \"Bell County Commissioner P1\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bill Schumann \"Bell County Commissioner P1\" \"Central Texas\" Instagram",
+    "total_results": 727,
+    "time_taken_displayed": 0.78,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    },
+    "showing_results_for": "Bill Schumann Bell County Commissioner P1 Central Texas Instagram",
+    "spelling_fix": "Bill Schumann Bell County Commissioner P1 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "TOLEDOMAZA, ALEJANDRO Booking Number: ...",
+      "link": "https://www.facebook.com/100090016290561/posts/toledomaza-alejandrobooking-number-2025020262booking-datetime07312025-0847charge/725530657124138/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/100090016290561/posts/toledomaza-alejandrobooking-number-2025020262booking-datetime07312025-0847charge/725530657124138/&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQFnoECCAQAQ",
+      "displayed_link": "10+ reactions · 7 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFnnOLppXehpXRzxlHXUqMIg.png",
+      "snippet": "Age/Race/Sex: 42 / W / F Booking Number: 43738 Booked: 12/05/2024 Released: Arresting Agency: POLK CO SO LIVINGSTON - TX1870000 Arresting Date/ ...",
+      "about_this_result": {
+        "source": {
+          "description": "Age/Race/Sex: 42 / W / F Booking Number: 43738 Booked: 12/05/2024 Released: Arresting Agency: POLK CO SO LIVINGSTON - TX1870000 Arresting Date/ ...",
+          "source_info_link": "https://www.facebook.com/100090016290561/posts/toledomaza-alejandrobooking-number-2025020262booking-datetime07312025-0847charge/725530657124138/",
+          "icon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFu8n_Pv9S5D0Qj8Wyf-gjUdM-Cjh55Voezesa-Sobiv_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/100090016290561/posts/toledomaza-alejandrobooking-number-2025020262booking-datetime07312025-0847charge/725530657124138/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F100090016290561%2Fposts%2Ftoledomaza-alejandrobooking-number-2025020262booking-datetime07312025-0847charge%2F725530657124138%2F",
+      "source": "Facebook · Only Thugs Palm Beach County Mugshots"
+    },
+    {
+      "position": 2,
+      "title": "5Pointz whitewashed overnight - QNS",
+      "link": "https://qns.com/wp-content/uploads/assets/pdf/2013_47tl.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://qns.com/wp-content/uploads/assets/pdf/2013_47tl.pdf&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQFnoECBsQAQ",
+      "displayed_link": "https://qns.com › uploads › assets › pdf",
+      "favicon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFsa5C3pHnpGwLZS52hp4oCo.png",
+      "date": "Nov 26, 2013",
+      "snippet": "Hundreds gathered at 5Pointz after sundown Tuesday for a can- dlelight vigil to mourn the loss of iconic graffiti that was painted.",
+      "about_this_result": {
+        "source": {
+          "description": "Hundreds gathered at 5Pointz after sundown Tuesday for a can- dlelight vigil to mourn the loss of iconic graffiti that was painted.",
+          "source_info_link": "https://qns.com/wp-content/uploads/assets/pdf/2013_47tl.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFkD_AFuUmC_ZVV8hOwhVODeS1wQBuJC3cy8vAAkDXz1w.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://qns.com/wp-content/uploads/assets/pdf/2013_47tl.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fqns.com%2Fwp-content%2Fuploads%2Fassets%2Fpdf%2F2013_47tl.pdf",
+      "source": "qns.com"
+    },
+    {
+      "position": 3,
+      "title": "Carmel Pine Cone, October 10, 2025",
+      "link": "https://carmelpinecone.com/251010PC.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://carmelpinecone.com/251010PC.pdf&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQFnoECBoQAQ",
+      "displayed_link": "https://carmelpinecone.com › ...",
+      "favicon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFjd4-GocdZYrx-PNl8HrDak.png",
+      "date": "Oct 10, 2025",
+      "snippet": "The county board of supervisors later turned down the project after residents rallied against it. Four-legged tenants. The facility that Peace ...",
+      "snippet_highlighted_words": [
+        "county"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The county board of supervisors later turned down the project after residents rallied against it. Four-legged tenants. The facility that Peace ...",
+          "source_info_link": "https://carmelpinecone.com/251010PC.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFqU9ZRfw8bavhSMzvj52RP48QTHv-58WZLhBD5-95r67.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://carmelpinecone.com/251010PC.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcarmelpinecone.com%2F251010PC.pdf",
+      "source": "The Carmel Pine Cone"
+    },
+    {
+      "position": 4,
+      "title": "Public Comments on DNA Mixture Interpretation",
+      "link": "https://www.nist.gov/system/files/documents/2021/12/03/Public-Comments-NISTIR8351draft_0.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nist.gov/system/files/documents/2021/12/03/Public-Comments-NISTIR8351draft_0.pdf&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQFnoECD0QAQ",
+      "displayed_link": "https://www.nist.gov › documents › 2021/12/03",
+      "favicon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFnA79gDChrLB3bRxRVS35FQ.png",
+      "date": "Dec 3, 2021",
+      "snippet": "Public comment periods were held from June 9, 2021 to August 23, 2021 and from October. 22, 2021 to November 19, 2021.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 446
+          },
+          "extensions": [
+            "446 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Public comment periods were held from June 9, 2021 to August 23, 2021 and from October. 22, 2021 to November 19, 2021.",
+          "source_info_link": "https://www.nist.gov/system/files/documents/2021/12/03/Public-Comments-NISTIR8351draft_0.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFrh4K2wxfieU2PWi9UtbPNH2Agdv8AReyqIPsFl7NBMA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nist.gov/system/files/documents/2021/12/03/Public-Comments-NISTIR8351draft_0.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nist.gov%2Fsystem%2Ffiles%2Fdocuments%2F2021%2F12%2F03%2FPublic-Comments-NISTIR8351draft_0.pdf",
+      "source": "National Institute of Standards and Technology (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "IMCIC-II.pdf",
+      "link": "https://elibrary.kubg.edu.ua/id/eprint/36451/1/IMCIC-II.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://elibrary.kubg.edu.ua/id/eprint/36451/1/IMCIC-II.pdf&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQFnoECC0QAQ",
+      "displayed_link": "https://elibrary.kubg.edu.ua › eprint › IMCIC-II",
+      "favicon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFobn9ohsSjoUuWDLytBjOtc.png",
+      "author": "by R Makhachashvili",
+      "snippet": "These collocated events were organized and sponsored by the International Institute of Informatics and Systemics (IIIS, www.iiis.org), member of the ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 195
+          },
+          "extensions": [
+            "195 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "These collocated events were organized and sponsored by the International Institute of Informatics and Systemics (IIIS, www.iiis.org), member of the ...",
+          "source_info_link": "https://elibrary.kubg.edu.ua/id/eprint/36451/1/IMCIC-II.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFn7TkAJ2GqTYhRP9kkhPO28MQW1hlBSXPyKlR-yuEo2-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://elibrary.kubg.edu.ua/id/eprint/36451/1/IMCIC-II.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Felibrary.kubg.edu.ua%2Fid%2Feprint%2F36451%2F1%2FIMCIC-II.pdf",
+      "source": "Київський столичний університет імені Бориса Грінченка"
+    },
+    {
+      "position": 6,
+      "title": "Demand Dynamics of Twinkie-Doodles | PDF | Economics",
+      "link": "https://www.scribd.com/document/637972614/Untitled",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/637972614/Untitled&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQFnoECCsQAQ",
+      "displayed_link": "https://www.scribd.com › document › Untitled",
+      "favicon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFpX50bHl5jkNzs3mgJgx7jc.png",
+      "snippet": "This document provides an overview and introduction to an economics textbook titled \"The Joy of Economics: Making Sense out of Life\" by Robert J. Stonebraker.",
+      "about_this_result": {
+        "source": {
+          "description": "This document provides an overview and introduction to an economics textbook titled \"The Joy of Economics: Making Sense out of Life\" by Robert J. Stonebraker.",
+          "source_info_link": "https://www.scribd.com/document/637972614/Untitled",
+          "icon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFlg-MQwThWhzf4gWNKtlHrRw91_VPtg1_v4kAewf78-N.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.scribd.com/document/637972614/Untitled&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.scribd.com%2Fdocument%2F637972614%2FUntitled",
+      "source": "Scribd"
+    },
+    {
+      "position": 7,
+      "title": "Principles of Macroeconomics 3e",
+      "link": "https://assets.openstax.org/oscms-prodcms/media/documents/Macroeconomics3e-WEB_X69daYk.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://assets.openstax.org/oscms-prodcms/media/documents/Macroeconomics3e-WEB_X69daYk.pdf&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQFnoECDMQAQ",
+      "displayed_link": "https://assets.openstax.org › media › documents",
+      "snippet": "If you redistribute this textbook in a digital format (including but not limited to PDF and HTML), then you must retain on every page the following ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 637
+          },
+          "extensions": [
+            "637 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "If you redistribute this textbook in a digital format (including but not limited to PDF and HTML), then you must retain on every page the following ...",
+          "source_info_link": "https://assets.openstax.org/oscms-prodcms/media/documents/Macroeconomics3e-WEB_X69daYk.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://assets.openstax.org/oscms-prodcms/media/documents/Macroeconomics3e-WEB_X69daYk.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fassets.openstax.org%2Foscms-prodcms%2Fmedia%2Fdocuments%2FMacroeconomics3e-WEB_X69daYk.pdf",
+      "source": "OpenStax"
+    },
+    {
+      "position": 8,
+      "title": "Nues Herald-Spectator",
+      "link": "https://www.nileslibrary.org/research/Newspapers/NilesHerald-Spectator/2013/07_25_2013.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nileslibrary.org/research/Newspapers/NilesHerald-Spectator/2013/07_25_2013.pdf&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQFnoECDEQAQ",
+      "displayed_link": "https://www.nileslibrary.org › Newspapers › Niles...",
+      "favicon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFvUqDVJmmBtC5oJhQs5-Hg4.png",
+      "date": "Jul 25, 2013",
+      "snippet": "Free item is at time of purchase & must be of equal or lesser value than purchased item; returns must include the purchased items and free ...",
+      "about_this_result": {
+        "source": {
+          "description": "Free item is at time of purchase & must be of equal or lesser value than purchased item; returns must include the purchased items and free ...",
+          "source_info_link": "https://www.nileslibrary.org/research/Newspapers/NilesHerald-Spectator/2013/07_25_2013.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFm68L6WBGWVSxxAkBuiP_Pf4w0-TstjI13bOcDM3N8Aa.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nileslibrary.org/research/Newspapers/NilesHerald-Spectator/2013/07_25_2013.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nileslibrary.org%2Fresearch%2FNewspapers%2FNilesHerald-Spectator%2F2013%2F07_25_2013.pdf",
+      "source": "Niles-Maine District Library"
+    },
+    {
+      "position": 9,
+      "title": "Design, Operation and Evaluation of Mobile Communications",
+      "link": "https://www.researchgate.net/profile/Bunakiye-Japheth-2/publication/361336578_Principles_and_Application_of_Mobile_Cloud_Computing_in_Payments_and_Health_Care_Solution/links/62b305231010dc02cc538765/Principles-and-Application-of-Mobile-Cloud-Computing-in-Payments-and-Health-Care-Solution.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/profile/Bunakiye-Japheth-2/publication/361336578_Principles_and_Application_of_Mobile_Cloud_Computing_in_Payments_and_Health_Care_Solution/links/62b305231010dc02cc538765/Principles-and-Application-of-Mobile-Cloud-Computing-in-Payments-and-Health-Care-Solution.pdf&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQFnoECC8QAQ",
+      "displayed_link": "https://www.researchgate.net › publication › links",
+      "favicon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFkMelzqzB-Nv3qCEHXGjtN4.png",
+      "date": "Jun 26, 2022",
+      "snippet": "Human-computer interaction (HCI) is acquiring an ever-increasing scientific and industrial importance, as well as having more impact on ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 504
+          },
+          "extensions": [
+            "504 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Human-computer interaction (HCI) is acquiring an ever-increasing scientific and industrial importance, as well as having more impact on ...",
+          "source_info_link": "https://www.researchgate.net/profile/Bunakiye-Japheth-2/publication/361336578_Principles_and_Application_of_Mobile_Cloud_Computing_in_Payments_and_Health_Care_Solution/links/62b305231010dc02cc538765/Principles-and-Application-of-Mobile-Cloud-Computing-in-Payments-and-Health-Care-Solution.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFgNI7akzHteRm8FUrKXUosxmWe9xJwe33Q4aPWr7p5gv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.researchgate.net/profile/Bunakiye-Japheth-2/publication/361336578_Principles_and_Application_of_Mobile_Cloud_Computing_in_Payments_and_Health_Care_Solution/links/62b305231010dc02cc538765/Principles-and-Application-of-Mobile-Cloud-Computing-in-Payments-and-Health-Care-Solution.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FBunakiye-Japheth-2%2Fpublication%2F361336578_Principles_and_Application_of_Mobile_Cloud_Computing_in_Payments_and_Health_Care_Solution%2Flinks%2F62b305231010dc02cc538765%2FPrinciples-and-Application-of-Mobile-Cloud-Computing-in-Payments-and-Health-Care-Solution.pdf",
+      "source": "ResearchGate"
+    },
+    {
+      "position": 10,
+      "title": "2015.pdf",
+      "link": "https://prixeuropa.squarespace.com/s/2015.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prixeuropa.squarespace.com/s/2015.pdf&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQFnoECCwQAQ",
+      "displayed_link": "https://prixeuropa.squarespace.com › ...",
+      "favicon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFkDh70nHskuRQyE81Ji1-po.png",
+      "date": "Oct 5, 2015",
+      "snippet": "Amid the greatest changes that the media world has seen for a very long time, the PRIX EUROPA emerges not as a mirage, but as an.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 260
+          },
+          "extensions": [
+            "260 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Amid the greatest changes that the media world has seen for a very long time, the PRIX EUROPA emerges not as a mirage, but as an.",
+          "source_info_link": "https://prixeuropa.squarespace.com/s/2015.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2028c7fb174dc401bf/images/YQ4sLy6gsv2mNqvwaLGWFnlRqbAWODTO96RBtSEW935sIdioShZ5DIS1lxXGA0B7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://prixeuropa.squarespace.com/s/2015.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fprixeuropa.squarespace.com%2Fs%2F2015.pdf",
+      "source": "PRIX EUROPA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=IF27acevJv_cwN4PvLi5gAs&start=10&sa=N&sstk=Af77f_caqoIVw1qg7ACI397P7WXrFOb1uqXU0ZkBDK3rACLMdI7MIU_u_rGlK3jT-2phufq8uJllLDl0UXBXneWV_igQJFm5fA-Vpg&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQ8NMDegQIDBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=IF27acevJv_cwN4PvLi5gAs&start=10&sa=N&sstk=Af77f_caqoIVw1qg7ACI397P7WXrFOb1uqXU0ZkBDK3rACLMdI7MIU_u_rGlK3jT-2phufq8uJllLDl0UXBXneWV_igQJFm5fA-Vpg&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=IF27acevJv_cwN4PvLi5gAs&start=20&sa=N&sstk=Af77f_caqoIVw1qg7ACI397P7WXrFOb1uqXU0ZkBDK3rACLMdI7MIU_u_rGlK3jT-2phufq8uJllLDl0UXBXneWV_igQJFm5fA-Vpg&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=IF27acevJv_cwN4PvLi5gAs&start=30&sa=N&sstk=Af77f_caqoIVw1qg7ACI397P7WXrFOb1uqXU0ZkBDK3rACLMdI7MIU_u_rGlK3jT-2phufq8uJllLDl0UXBXneWV_igQJFm5fA-Vpg&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQ8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=IF27acevJv_cwN4PvLi5gAs&start=40&sa=N&sstk=Af77f_caqoIVw1qg7ACI397P7WXrFOb1uqXU0ZkBDK3rACLMdI7MIU_u_rGlK3jT-2phufq8uJllLDl0UXBXneWV_igQJFm5fA-Vpg&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQ8tMDegQIDBAK",
+      "6": "https://www.google.com/search?q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=IF27acevJv_cwN4PvLi5gAs&start=50&sa=N&sstk=Af77f_caqoIVw1qg7ACI397P7WXrFOb1uqXU0ZkBDK3rACLMdI7MIU_u_rGlK3jT-2phufq8uJllLDl0UXBXneWV_igQJFm5fA-Vpg&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQ8tMDegQIDBAM",
+      "7": "https://www.google.com/search?q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=IF27acevJv_cwN4PvLi5gAs&start=60&sa=N&sstk=Af77f_caqoIVw1qg7ACI397P7WXrFOb1uqXU0ZkBDK3rACLMdI7MIU_u_rGlK3jT-2phufq8uJllLDl0UXBXneWV_igQJFm5fA-Vpg&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQ8tMDegQIDBAO",
+      "8": "https://www.google.com/search?q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=IF27acevJv_cwN4PvLi5gAs&start=70&sa=N&sstk=Af77f_caqoIVw1qg7ACI397P7WXrFOb1uqXU0ZkBDK3rACLMdI7MIU_u_rGlK3jT-2phufq8uJllLDl0UXBXneWV_igQJFm5fA-Vpg&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQ8tMDegQIDBAQ",
+      "9": "https://www.google.com/search?q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=IF27acevJv_cwN4PvLi5gAs&start=80&sa=N&sstk=Af77f_caqoIVw1qg7ACI397P7WXrFOb1uqXU0ZkBDK3rACLMdI7MIU_u_rGlK3jT-2phufq8uJllLDl0UXBXneWV_igQJFm5fA-Vpg&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQ8tMDegQIDBAS",
+      "10": "https://www.google.com/search?q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=IF27acevJv_cwN4PvLi5gAs&start=90&sa=N&sstk=Af77f_caqoIVw1qg7ACI397P7WXrFOb1uqXU0ZkBDK3rACLMdI7MIU_u_rGlK3jT-2phufq8uJllLDl0UXBXneWV_igQJFm5fA-Vpg&ved=2ahUKEwjHv4yO86qTAxV_LtAFHTxcDrAQ8tMDegQIDBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Schumann+Bell+County+Commissioner+P1+Central+Texas+Instagram&start=90"
+    }
+  }
+}

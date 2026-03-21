@@ -1,0 +1,330 @@
+{
+  "search_metadata": {
+    "id": "69bb5cfcd3982c1caf7da155",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fzUMNoJII-Ap_HpsGQOGfA/69bb5cfcd3982c1caf7da155.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/fzUMNoJII-Ap_HpsGQOGfA/69bb5cfcd3982c1caf7da155.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:36 UTC",
+    "processed_at": "2026-03-19 02:18:36 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Steven+Clay+Dowell+Jr.+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Steven+Clay+Dowell+Jr.+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/fzUMNoJII-Ap_HpsGQOGfA/69bb5cfcd3982c1caf7da155.html",
+    "total_time_taken": 1.3
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Steven Clay Dowell Jr. for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Steven Clay Dowell Jr. for US House TX-31? Include who that supporter works for.",
+    "total_results": 7,
+    "time_taken_displayed": 0.41,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "WrSz5nicxZTbcqJIGIDv9z3GG0YOaqKmiprqbiHiKRITjbmxsIFWRFpplJi7eZd9qn2abfCEJmRntmpr_6Kgu_9T8_fX_88__Xmw-OuPwSyKVuxOkuI4FgmlxHdETJeSxXYBllzqsxDPfuy2armAmSoXnLk60XdVa_oA-r3OcFWr9IvF9iA2zULqok6mFnM8HvHNY9JE4q_Ft3KDT0QmOoG4qFehMVn2BruuWJKVuvggWUtuAP4j0cAjf0ODD7iQSyVKl7R8b1NLta3M0j4EzKyM94uEaMBM5vrnG9FSzwHivn24LcZdKzcrMDIzOE7T6kkegAhMDa7F-LBy3mL7EDQn18dAe8_GuVgQ5IphHLXQBAiBZozOykMIckhSAR2ETuEgV6M-LCOD5ofnnkPS1GZFE3x1TtzKeOzF9pifhGQTzpMsTUP-UaQ5nuF0ELIEM_RUl6le678PH8wpuPXri-FO6T0DPDYXJdCPgYSn3M6nlu3Yk9lE_p4CjdmJaJYleuMZwH6Du34Pix0RKhmck0oSdLHJ5GBzzuETQfmq_ZFSoCVwn6juJwP4fDSqAUgA0s6Hpx1ifsQ5FeNikZC9DiVTcmWaxFocRsf4OKuGpz_ge-Anfc4RZ81QFi3DMLQk23gfgWTN-BzyK5SM2uk1a2bDACNTK5hcW15n8_xPybtx3G9ShiS4BkjDQd3EDPGKoMQomUCUFhWa2jX4kJznXYAqaI_z7wvMvY5HMcGR3yscsxjfN5SJUpW9tyfXsJab2lvn3XTb795W18kBW7qc_kYnxv8f2Ic-3U5vOSUfwSZfgW1q6Is-fQD73KfThoT0z8HWUlAyfdrJqrNgm9DIgP2W26czYBv_CPbLRVlOYJufgA2vwYb5YCd9-gQ2QvCqT6e_lZYlA_a_6tPmr_fplG9n_7ls2huP5Ddvs0Lr7iZWXtaj7XpnlcPRwINk-NJ5MD82b3cZ3Vm2_30yt-9gqRXt7MJaHc2oMGdCNHME3wqJwyLBpgENBf6488AK8NzyBbZZrWgYOXzZFQaRs3UCAfnWTmjQ2PF9oRWKgss9ngdCk26YIzy9FMvKD8EIsL-xHSHmWaKZFWUCxTRcsMRJLCz9kKqyVbmptkp1-fH1ps2elbUx171Zg9yGgzVZBXavGJVu1sVmtzTSoR8EXliePbkBow2KK70pkVs-Lnpz7_21itBr3FTG1NMVvadNJ2s2embD5s0UdG-r27hxe7NgbVzpl-XH28Gqu625QWthvbzGutzsp7th6v2mU1p1wlI0HxeWIVYRMCoL0DPBPUnae4Fha-KwrYpL2Ko7VaVek8t1xy0XliTardSKUmBBqCp_A8fV-GY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WrSz5nicxZTbcqJIGIDv9z3GG0YOaqKmiprqbiHiKRITjbmxsIFWRFpplJi7eZd9qn2abfCEJmRntmpr_6Kgu_9T8_fX_88__Xmw-OuPwSyKVuxOkuI4FgmlxHdETJeSxXYBllzqsxDPfuy2armAmSoXnLk60XdVa_oA-r3OcFWr9IvF9iA2zULqok6mFnM8HvHNY9JE4q_Ft3KDT0QmOoG4qFehMVn2BruuWJKVuvggWUtuAP4j0cAjf0ODD7iQSyVKl7R8b1NLta3M0j4EzKyM94uEaMBM5vrnG9FSzwHivn24LcZdKzcrMDIzOE7T6kkegAhMDa7F-LBy3mL7EDQn18dAe8_GuVgQ5IphHLXQBAiBZozOykMIckhSAR2ETuEgV6M-LCOD5ofnnkPS1GZFE3x1TtzKeOzF9pifhGQTzpMsTUP-UaQ5nuF0ELIEM_RUl6le678PH8wpuPXri-FO6T0DPDYXJdCPgYSn3M6nlu3Yk9lE_p4CjdmJaJYleuMZwH6Du34Pix0RKhmck0oSdLHJ5GBzzuETQfmq_ZFSoCVwn6juJwP4fDSqAUgA0s6Hpx1ifsQ5FeNikZC9DiVTcmWaxFocRsf4OKuGpz_ge-Anfc4RZ81QFi3DMLQk23gfgWTN-BzyK5SM2uk1a2bDACNTK5hcW15n8_xPybtx3G9ShiS4BkjDQd3EDPGKoMQomUCUFhWa2jX4kJznXYAqaI_z7wvMvY5HMcGR3yscsxjfN5SJUpW9tyfXsJab2lvn3XTb795W18kBW7qc_kYnxv8f2Ic-3U5vOSUfwSZfgW1q6Is-fQD73KfThoT0z8HWUlAyfdrJqrNgm9DIgP2W26czYBv_CPbLRVlOYJufgA2vwYb5YCd9-gQ2QvCqT6e_lZYlA_a_6tPmr_fplG9n_7ls2huP5Ddvs0Lr7iZWXtaj7XpnlcPRwINk-NJ5MD82b3cZ3Vm2_30yt-9gqRXt7MJaHc2oMGdCNHME3wqJwyLBpgENBf6488AK8NzyBbZZrWgYOXzZFQaRs3UCAfnWTmjQ2PF9oRWKgss9ngdCk26YIzy9FMvKD8EIsL-xHSHmWaKZFWUCxTRcsMRJLCz9kKqyVbmptkp1-fH1ps2elbUx171Zg9yGgzVZBXavGJVu1sVmtzTSoR8EXliePbkBow2KK70pkVs-Lnpz7_21itBr3FTG1NMVvadNJ2s2embD5s0UdG-r27hxe7NgbVzpl-XH28Gqu625QWthvbzGutzsp7th6v2mU1p1wlI0HxeWIVYRMCoL0DPBPUnae4Fha-KwrYpL2Ko7VaVek8t1xy0XliTardSKUmBBqCp_A8fV-GY"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Candidates Search Results",
+      "link": "https://www.opensecrets.org/races/candidate_search_results",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/candidate_search_results&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQFnoECA0QAQ",
+      "displayed_link": "https://www.opensecrets.org › candidate_search_results",
+      "favicon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKRBMHm2_R4mdEz19EeewkCI.png",
+      "snippet": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+          "source_info_link": "https://www.opensecrets.org/races/candidate_search_results",
+          "icon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKeGWcKz4ixog4i3tnHPzqdkrG_H8EAekgkxk1w32Kvkq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/candidate_search_results&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Fcandidate_search_results",
+      "missing": [
+        "Include"
+      ],
+      "must_include": {
+        "word": "Include",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+Steven+Clay+Dowell+Jr.+for+US+House+TX-31?+%22Include%22+who+that+supporter+works+for.&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ5t4CegQIFRAB"
+      },
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 2,
+      "title": "DOWELL, STEVEN CLAY JR - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H6TX31128/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H6TX31128/&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQFnoECBkQAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H6TX31128",
+      "favicon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKbkRWnB-CESnO06MXDTqBPQ.png",
+      "snippet": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+      "snippet_highlighted_words": [
+        "federal",
+        "finance"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+          "source_info_link": "https://www.fec.gov/data/candidate/H6TX31128/",
+          "icon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKWrU3dbmO9uf-cCR3W7_5_YU8UkfVj4YajMkj3XSO0IJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H6TX31128/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH6TX31128%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Steven+Clay+Dowell+Jr.+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ5t4CegQIJRAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 3,
+      "title": "Track Your Congressmembers' Connections to the Israel ...",
+      "link": "https://www.trackaipac.com/congress",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.trackaipac.com/congress&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQFnoECBcQAQ",
+      "displayed_link": "https://www.trackaipac.com › congress",
+      "favicon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKc_Efja7cF2jLYXXVVN5ObA.png",
+      "snippet": "This senator rejects AIPAC and champions a foreign policy based on human rights and international law. Next Election: 2028. Sen. Angela Alsobrooks. Angela ...",
+      "about_this_result": {
+        "source": {
+          "description": "This senator rejects AIPAC and champions a foreign policy based on human rights and international law. Next Election: 2028. Sen. Angela Alsobrooks. Angela ...",
+          "source_info_link": "https://www.trackaipac.com/congress",
+          "icon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKe2zGz0TAZGFMUYmWf8La4syFABc2AXCN3pUv_DxLrTa.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.trackaipac.com/congress&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.trackaipac.com%2Fcongress",
+      "missing": [
+        "financial",
+        "Dowell",
+        "Jr.",
+        "Include"
+      ],
+      "source": "Track AIPAC"
+    },
+    {
+      "position": 4,
+      "title": "US sports owners make huge political donations. Which ...",
+      "link": "https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQFnoECBwQAQ",
+      "displayed_link": "https://www.theguardian.com › sport › nov › us-sports-...",
+      "favicon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKTxAL_0hQ4Tus1qo7_yRI_I.png",
+      "date": "Nov 5, 2024",
+      "snippet": "Nearly 95% of total contributions from owners across America's major sports leagues went to Republicans. See how your team fared in our ...",
+      "snippet_highlighted_words": [
+        "major"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nearly 95% of total contributions from owners across America's major sports leagues went to Republicans. See how your team fared in our ...",
+          "source_info_link": "https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database",
+          "icon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKXPZJW9ME1sk4jtMWVXn6fDR8uIRTJ_i8xrcS6bltdJP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.theguardian.com%2Fsport%2F2024%2Fnov%2F05%2Fus-sports-team-political-donations-database",
+      "source": "The Guardian"
+    },
+    {
+      "position": 5,
+      "title": "Donors and Members",
+      "link": "https://support.texastribune.org/members",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.texastribune.org/members&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQFnoECBgQAQ",
+      "displayed_link": "https://support.texastribune.org › members",
+      "favicon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKRD-6XBOKEEcZPH7th8ES3U.png",
+      "snippet": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+      "snippet_highlighted_words": [
+        "donations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+          "source_info_link": "https://support.texastribune.org/members",
+          "icon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKUIB1j4NaYkw8LJoMJWDzpv_2SZGOn6Bnu9o2YHzBilN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://support.texastribune.org/members&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsupport.texastribune.org%2Fmembers",
+      "missing": [
+        "31?"
+      ],
+      "must_include": {
+        "word": "31?",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+Steven+Clay+Dowell+Jr.+for+US+House+TX-+%2231?%22+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ5t4CegQIIRAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 6,
+      "title": "Candidates",
+      "link": "https://www.trackaipac.com/candidates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.trackaipac.com/candidates&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQFnoECC0QAQ",
+      "displayed_link": "https://www.trackaipac.com › candidates",
+      "favicon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKXm9ix1y4MWVG9LENy1PWHQ.png",
+      "snippet": "Esther Kim Varet. Candidate for U.S. House CA-40 [D]. Israel Lobby Total: $60,975. PACs: $0. IE: $0. Lobby ...",
+      "snippet_highlighted_words": [
+        "U.S. House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Esther Kim Varet. Candidate for U.S. House CA-40 [D]. Israel Lobby Total: $60,975. PACs: $0. IE: $0. Lobby ...",
+          "source_info_link": "https://www.trackaipac.com/candidates",
+          "icon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKQrJ1JQoIw2SbxxT4PKj3UB6bu_Sv89lp73NRf4fX1qb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.trackaipac.com/candidates&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.trackaipac.com%2Fcandidates",
+      "missing": [
+        "financial",
+        "Dowell",
+        "Jr.",
+        "31?"
+      ],
+      "source": "Track AIPAC"
+    },
+    {
+      "position": 7,
+      "title": "Who are the Biggest Donors?",
+      "link": "https://www.opensecrets.org/elections-overview/biggest-donors?cycle=2018&view=hi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/elections-overview/biggest-donors%3Fcycle%3D2018%26view%3Dhi&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQFnoECDgQAQ",
+      "displayed_link": "https://www.opensecrets.org › elections-overview › big...",
+      "favicon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKeRP_hnvbVWSfbcssG31iSg.png",
+      "snippet": "Rank, Contributor, Total Contributions, Total to Candidates & Parties, To Democrats, To Republicans, Lean. 1, Sussman S. Donald Sussman Paloma Partners",
+      "snippet_highlighted_words": [
+        "Contributor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Rank, Contributor, Total Contributions, Total to Candidates & Parties, To Democrats, To Republicans, Lean. 1, Sussman S. Donald Sussman Paloma Partners",
+          "source_info_link": "https://www.opensecrets.org/elections-overview/biggest-donors?cycle=2018&view=hi",
+          "icon": "https://serpapi.com/searches/69bb5cfcd3982c1caf7da155/images/QtI8ddmUQHOeVUKHuuJgKQkeBJANlb6kXc0RFC9cMDBmig2O7IxZj-eKhbei3BTE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/elections-overview/biggest-donors?cycle=2018&view=hi&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Felections-overview%2Fbiggest-donors%3Fcycle%3D2018%26view%3Dhi",
+      "missing": [
+        "Dowell"
+      ],
+      "must_include": {
+        "word": "Dowell",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+Steven+Clay+%22Dowell%22+Jr.+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ5t4CegQIQBAB"
+      },
+      "source": "OpenSecrets"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "AIPAC recipients list",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=AIPAC+recipients+list&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AIPAC+recipients+list"
+    },
+    {
+      "block_position": 1,
+      "query": "Political contributions search by name",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Political+contributions+search+by+name&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Political+contributions+search+by+name"
+    },
+    {
+      "block_position": 1,
+      "query": "AIPAC top recipients",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=AIPAC+top+recipients&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AIPAC+top+recipients"
+    },
+    {
+      "block_position": 1,
+      "query": "AIPAC donations to politicians",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=AIPAC+donations+to+politicians&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AIPAC+donations+to+politicians"
+    },
+    {
+      "block_position": 1,
+      "query": "Who has received The most money from AIPAC",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+has+received+The+most+money+from+AIPAC&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+has+received+The+most+money+from+AIPAC"
+    },
+    {
+      "block_position": 1,
+      "query": "AIPAC members in Congress",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=AIPAC+members+in+Congress&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AIPAC+members+in+Congress"
+    },
+    {
+      "block_position": 1,
+      "query": "AIPAC donations to politicians list",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=AIPAC+donations+to+politicians+list&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AIPAC+donations+to+politicians+list"
+    },
+    {
+      "block_position": 1,
+      "query": "AIPAC money recipients",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=AIPAC+money+recipients&sa=X&ved=2ahUKEwiz7oz98qqTAxXS6skDHXuxJEgQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AIPAC+money+recipients"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 7 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Steven+Clay+Dowell+Jr.+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "search_metadata": {
+    "id": "69bb5c55b6a8672345a18f6d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Nx6UxbFZZtSjN-OfedvMfQ/69bb5c55b6a8672345a18f6d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Nx6UxbFZZtSjN-OfedvMfQ/69bb5c55b6a8672345a18f6d.json_with_pixel_position",
+    "created_at": "2026-03-19 02:15:49 UTC",
+    "processed_at": "2026-03-19 02:15:49 UTC",
+    "google_url": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Nx6UxbFZZtSjN-OfedvMfQ/69bb5c55b6a8672345a18f6d.html",
+    "total_time_taken": 3.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bell County Commissioner P1 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bell County Commissioner P1 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 35400,
+    "time_taken_displayed": 0.73,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "A super PAC is spending millions of dollars against me ...",
+      "link": "https://www.facebook.com/jasminefor100/posts/a-super-pac-is-spending-millions-of-dollars-against-me-leading-up-to-the-texas-p/1297359485547415/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jasminefor100/posts/a-super-pac-is-spending-millions-of-dollars-against-me-leading-up-to-the-texas-p/1297359485547415/&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQFnoECCAQAQ",
+      "displayed_link": "23.1K+ reactions · 4 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHSSHa5JLoSjT65hHgchVLjU.png",
+      "snippet": "Love you and your messages. I have and will again donate to your campaign. I'm not a Texan, but do you have foot work on the grounds of ...",
+      "about_this_result": {
+        "source": {
+          "description": "Love you and your messages. I have and will again donate to your campaign. I'm not a Texan, but do you have foot work on the grounds of ...",
+          "source_info_link": "https://www.facebook.com/jasminefor100/posts/a-super-pac-is-spending-millions-of-dollars-against-me-leading-up-to-the-texas-p/1297359485547415/",
+          "icon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHeQsxbtszmUSYO6KqQ5JOi5cKUZzpitSrztsdfD5YHUU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jasminefor100/posts/a-super-pac-is-spending-millions-of-dollars-against-me-leading-up-to-the-texas-p/1297359485547415/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjasminefor100%2Fposts%2Fa-super-pac-is-spending-millions-of-dollars-against-me-leading-up-to-the-texas-p%2F1297359485547415%2F",
+      "source": "Facebook · Jasmine Crockett"
+    },
+    {
+      "position": 2,
+      "title": "Candidates for County Commissioners/Judge",
+      "link": "https://libertyinactiontexas.com/candidates-for-county-commissioners-judge/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://libertyinactiontexas.com/candidates-for-county-commissioners-judge/&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQFnoECBoQAQ",
+      "displayed_link": "https://libertyinactiontexas.com › candidates-for-county...",
+      "favicon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHXiojOQmua9Fnz-ta6pnkzQ.png",
+      "date": "Nov 25, 2025",
+      "snippet": "Liberty in Action sent all Kerr county commissioner and county judge candidates screening questions for the upcoming primary (March 3, 2026).",
+      "snippet_highlighted_words": [
+        "county commissioner",
+        "county",
+        "candidates",
+        "questions"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Liberty in Action sent all Kerr county commissioner and county judge candidates screening questions for the upcoming primary (March 3, 2026).",
+          "source_info_link": "https://libertyinactiontexas.com/candidates-for-county-commissioners-judge/",
+          "icon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHfl7_Pz_lrVyKsrCmCZAMGBMMIQ3R-x-8VhnFAeQwCDM.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://libertyinactiontexas.com/candidates-for-county-commissioners-judge/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flibertyinactiontexas.com%2Fcandidates-for-county-commissioners-judge%2F",
+      "missing": [
+        "summary."
+      ],
+      "must_include": {
+        "word": "summary.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+%22summary.%22&sa=X&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ5t4CegQIHRAB"
+      },
+      "source": "We the People - Liberty In Action"
+    },
+    {
+      "position": 3,
+      "title": "CONGRESSIOXAL RECORD--SEN1\\_TE",
+      "link": "https://www.congress.gov/70/crecb/1927/12/07/GPO-CRECB-1928-pt1-v69-3.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/70/crecb/1927/12/07/GPO-CRECB-1928-pt1-v69-3.pdf&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQFnoECBkQAQ",
+      "displayed_link": "https://www.congress.gov › crecb › 1927/12/07",
+      "favicon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHfQ0liThCgDmlSpiQ4qFqSQ.png",
+      "snippet": "Also, a bill (H. R. 5984) granting a pension to :Kannie A. Bell; to the Committee on Invalid Pensions. .Allio, a bill ...",
+      "snippet_highlighted_words": [
+        "Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Also, a bill (H. R. 5984) granting a pension to :Kannie A. Bell; to the Committee on Invalid Pensions. .Allio, a bill ...",
+          "source_info_link": "https://www.congress.gov/70/crecb/1927/12/07/GPO-CRECB-1928-pt1-v69-3.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHWuc0vSwtlwLgxnG44vPF6qG9Dmx2qHD4DDlisFokwA8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/70/crecb/1927/12/07/GPO-CRECB-1928-pt1-v69-3.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2F70%2Fcrecb%2F1927%2F12%2F07%2FGPO-CRECB-1928-pt1-v69-3.pdf",
+      "source": "Congress.gov"
+    },
+    {
+      "position": 4,
+      "title": "No. 2",
+      "link": "https://www.codot.gov/programs/environmental/assets/copy2_of_assets/colorado-highways_1931.pdf/@@download/file/Colorado%20Highways_1931.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.codot.gov/programs/environmental/assets/copy2_of_assets/colorado-highways_1931.pdf/%40%40download/file/Colorado%2520Highways_1931.pdf&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQFnoECCsQAQ",
+      "displayed_link": "https://www.codot.gov › copy2_of_assets › file",
+      "favicon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHSGk-t3o3quDePfTJy0w1nY.png",
+      "snippet": "GOVEB.l!iOB WILLIAM H. ADAMS, Chief :Executive. CHAS. D, VAIL. State Highway Engineer. MEMBERS OF ADVISORY BOARD peter Seerie, Denver, Chairman .",
+      "about_this_result": {
+        "source": {
+          "description": "GOVEB.l!iOB WILLIAM H. ADAMS, Chief :Executive. CHAS. D, VAIL. State Highway Engineer. MEMBERS OF ADVISORY BOARD peter Seerie, Denver, Chairman .",
+          "source_info_link": "https://www.codot.gov/programs/environmental/assets/copy2_of_assets/colorado-highways_1931.pdf/@@download/file/Colorado%20Highways_1931.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHcVWC9GXhRsS469QPFEkvHNHtsc8m_5UWbqn5b92yMsD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.codot.gov/programs/environmental/assets/copy2_of_assets/colorado-highways_1931.pdf/@@download/file/Colorado%20Highways_1931.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.codot.gov%2Fprograms%2Fenvironmental%2Fassets%2Fcopy2_of_assets%2Fcolorado-highways_1931.pdf%2F%40%40download%2Ffile%2FColorado%2520Highways_1931.pdf",
+      "source": "Colorado Department of Transportation (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "AGENDA - Inyo County California",
+      "link": "https://www.inyocounty.us/sites/default/files/2025-12/20260106AgendaPacket.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inyocounty.us/sites/default/files/2025-12/20260106AgendaPacket.pdf&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQFnoECDEQAQ",
+      "displayed_link": "https://www.inyocounty.us › sites › default › files",
+      "favicon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHYiX8T-smClfmQ25PJTawDk.png",
+      "date": "Dec 22, 2025",
+      "snippet": "al. INYO COUNTY BOARD OF SUPERVISORS. TRINA ORRILL • JEFF GRIFFITHS • SCOTT MARCELLIN • JENNIFER ROESER • WILL WADELTON.",
+      "snippet_highlighted_words": [
+        "COUNTY"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "al. INYO COUNTY BOARD OF SUPERVISORS. TRINA ORRILL • JEFF GRIFFITHS • SCOTT MARCELLIN • JENNIFER ROESER • WILL WADELTON.",
+          "source_info_link": "https://www.inyocounty.us/sites/default/files/2025-12/20260106AgendaPacket.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHeQModPHBBpfAQ7opptu0vCrgp2V1KOawgV7CYFJYvgN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.inyocounty.us/sites/default/files/2025-12/20260106AgendaPacket.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.inyocounty.us%2Fsites%2Fdefault%2Ffiles%2F2025-12%2F20260106AgendaPacket.pdf",
+      "source": "inyocounty.us"
+    },
+    {
+      "position": 6,
+      "title": "recirc - California Water Boards",
+      "link": "https://www.waterboards.ca.gov/waterrights/water_issues/programs/bay_delta/california_waterfix/exhibits/exhibit102/docs/vol2_resptocmmts/RECIRC_Comment_Responses_Letters_2500-2549.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.waterboards.ca.gov/waterrights/water_issues/programs/bay_delta/california_waterfix/exhibits/exhibit102/docs/vol2_resptocmmts/RECIRC_Comment_Responses_Letters_2500-2549.pdf&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQFnoECC8QAQ",
+      "displayed_link": "https://www.waterboards.ca.gov › exhibits › docs",
+      "favicon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHam7IkhRsPz8zOnf6fsy0RQ.png",
+      "snippet": "The precast concrete tunnel lining (PCTL) approach has been used extensively in seismically active. Page 2. Bay Delta Conservation Plan/California WaterFix.",
+      "about_this_result": {
+        "source": {
+          "description": "The precast concrete tunnel lining (PCTL) approach has been used extensively in seismically active. Page 2. Bay Delta Conservation Plan/California WaterFix.",
+          "source_info_link": "https://www.waterboards.ca.gov/waterrights/water_issues/programs/bay_delta/california_waterfix/exhibits/exhibit102/docs/vol2_resptocmmts/RECIRC_Comment_Responses_Letters_2500-2549.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHXIL32bF1HZw2qlKFLzBDYYDEOevhjwowF_A6o1hQlb6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.waterboards.ca.gov/waterrights/water_issues/programs/bay_delta/california_waterfix/exhibits/exhibit102/docs/vol2_resptocmmts/RECIRC_Comment_Responses_Letters_2500-2549.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.waterboards.ca.gov%2Fwaterrights%2Fwater_issues%2Fprograms%2Fbay_delta%2Fcalifornia_waterfix%2Fexhibits%2Fexhibit102%2Fdocs%2Fvol2_resptocmmts%2FRECIRC_Comment_Responses_Letters_2500-2549.pdf",
+      "source": "California State Water Resources Control Board (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Federal Communications Commission FCC 14-5",
+      "link": "https://docs.fcc.gov/public/attachments/FCC-14-5A1.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.fcc.gov/public/attachments/FCC-14-5A1.pdf&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQFnoECC4QAQ",
+      "displayed_link": "https://docs.fcc.gov › public › attachments",
+      "date": "Jan 31, 2014",
+      "snippet": "By the Commission: Chairman Wheeler and Commissioners Clyburn, Rosenworcel and Pai issuing separate statements; Commissioner O'Rielly approving ...",
+      "snippet_highlighted_words": [
+        "Commission",
+        "Commissioners",
+        "Commissioner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 114
+          },
+          "extensions": [
+            "114 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "By the Commission: Chairman Wheeler and Commissioners Clyburn, Rosenworcel and Pai issuing separate statements; Commissioner O'Rielly approving ...",
+          "source_info_link": "https://docs.fcc.gov/public/attachments/FCC-14-5A1.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://docs.fcc.gov/public/attachments/FCC-14-5A1.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdocs.fcc.gov%2Fpublic%2Fattachments%2FFCC-14-5A1.pdf",
+      "source": "Federal Communications Commission (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "FR-2022-10-12.xml",
+      "link": "https://www.govinfo.gov/content/pkg/FR-2022-10-12/xml/FR-2022-10-12.xml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/FR-2022-10-12/xml/FR-2022-10-12.xml&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQFnoECDAQAQ",
+      "displayed_link": "https://www.govinfo.gov › content › pkg › xml",
+      "favicon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHbip-7jDafmLSzT61JNfSGU.png",
+      "date": "Oct 12, 2022",
+      "snippet": "Regulatory Impact Analysis</HD> <P>This section provides a summary of the FAA's regulatory impact analysis (RIA). Please see the RIA ...",
+      "snippet_highlighted_words": [
+        "Analysis",
+        "provides",
+        "summary",
+        "analysis"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Regulatory Impact Analysis</HD> <P>This section provides a summary of the FAA's regulatory impact analysis (RIA). Please see the RIA ...",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/FR-2022-10-12/xml/FR-2022-10-12.xml",
+          "icon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHdPf4OmDhFc5cHchxngT4IItTPH7VowkWlzi03hqgX6F.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/FR-2022-10-12/xml/FR-2022-10-12.xml&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FFR-2022-10-12%2Fxml%2FFR-2022-10-12.xml",
+      "source": "GovInfo (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "DCG Vol 48 June 1969",
+      "link": "https://www.marines.mil/portals/1/Publications/DCG%20Vol%2048%20June%201969.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marines.mil/portals/1/Publications/DCG%2520Vol%252048%2520June%25201969.pdf&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQFnoECCkQAQ",
+      "displayed_link": "https://www.marines.mil › portals › Publications",
+      "favicon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHRH8yGICUkPHoa3zdiTBRYg.png",
+      "snippet": "fraud against the Government and sentenced, and also placed on a debarred bidders' list, imputing the lack of integrity to the corporation was a proper ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 242
+          },
+          "extensions": [
+            "242 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "fraud against the Government and sentenced, and also placed on a debarred bidders' list, imputing the lack of integrity to the corporation was a proper ...",
+          "source_info_link": "https://www.marines.mil/portals/1/Publications/DCG%20Vol%2048%20June%201969.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHRKBkenGERdBkSKzrq18u5jylc5jpW9ANqrtbtFnpL-6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.marines.mil/portals/1/Publications/DCG%20Vol%2048%20June%201969.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.marines.mil%2Fportals%2F1%2FPublications%2FDCG%2520Vol%252048%2520June%25201969.pdf",
+      "source": "Marines.mil"
+    },
+    {
+      "position": 10,
+      "title": "Burdock In-Situ Uranium Recovery Project Permitting ...",
+      "link": "https://www.epa.gov/sites/default/files/2017-09/documents/epadewey-burdockcommentsreceivedfromnamedentities.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.epa.gov/sites/default/files/2017-09/documents/epadewey-burdockcommentsreceivedfromnamedentities.pdf&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQFnoECCoQAQ",
+      "displayed_link": "https://www.epa.gov › default › files › documents",
+      "favicon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHSHzNur_S3fKDWIkj5mEWyw.png",
+      "snippet": "WHEREAS mining activities that occur at the Dewey-Burdock Project will be strictly regulated and overseen by the State of South Dakota, the U.S. Nuclear ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 567
+          },
+          "extensions": [
+            "567 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "WHEREAS mining activities that occur at the Dewey-Burdock Project will be strictly regulated and overseen by the State of South Dakota, the U.S. Nuclear ...",
+          "source_info_link": "https://www.epa.gov/sites/default/files/2017-09/documents/epadewey-burdockcommentsreceivedfromnamedentities.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c55b6a8672345a18f6d/images/rhIIzHnkV7YeuxCFYGeTHd9JCchSF9un8XDFE82yKwUqvs8bP6HFSOKqx4ttHacq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.epa.gov/sites/default/files/2017-09/documents/epadewey-burdockcommentsreceivedfromnamedentities.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.epa.gov%2Fsites%2Fdefault%2Ffiles%2F2017-09%2Fdocuments%2Fepadewey-burdockcommentsreceivedfromnamedentities.pdf",
+      "source": "U.S. Environmental Protection Agency (.gov)"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Kerr County candidates",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Kerr+County+candidates&sa=X&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ1QJ6BAgnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kerr+County+candidates"
+    },
+    {
+      "block_position": 1,
+      "query": "Kerr County elections",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Kerr+County+elections&sa=X&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ1QJ6BAgoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kerr+County+elections"
+    },
+    {
+      "block_position": 1,
+      "query": "Kerr County elections 2026",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Kerr+County+elections+2026&sa=X&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ1QJ6BAgmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kerr+County+elections+2026"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=V1y7aYaVGr2lwbkPt-D0qA8&start=10&sa=N&sstk=Af77f_eEnkmPBz5XJwofjEQZXadvLpXIb2q9afXdq-0CIzH53s8V7YZej44pf20cISezOy9E0GNRxd8ctbdwIml5d87woHMjrIUMxw&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=V1y7aYaVGr2lwbkPt-D0qA8&start=10&sa=N&sstk=Af77f_eEnkmPBz5XJwofjEQZXadvLpXIb2q9afXdq-0CIzH53s8V7YZej44pf20cISezOy9E0GNRxd8ctbdwIml5d87woHMjrIUMxw&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=V1y7aYaVGr2lwbkPt-D0qA8&start=20&sa=N&sstk=Af77f_eEnkmPBz5XJwofjEQZXadvLpXIb2q9afXdq-0CIzH53s8V7YZej44pf20cISezOy9E0GNRxd8ctbdwIml5d87woHMjrIUMxw&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=V1y7aYaVGr2lwbkPt-D0qA8&start=30&sa=N&sstk=Af77f_eEnkmPBz5XJwofjEQZXadvLpXIb2q9afXdq-0CIzH53s8V7YZej44pf20cISezOy9E0GNRxd8ctbdwIml5d87woHMjrIUMxw&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=V1y7aYaVGr2lwbkPt-D0qA8&start=40&sa=N&sstk=Af77f_eEnkmPBz5XJwofjEQZXadvLpXIb2q9afXdq-0CIzH53s8V7YZej44pf20cISezOy9E0GNRxd8ctbdwIml5d87woHMjrIUMxw&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=V1y7aYaVGr2lwbkPt-D0qA8&start=50&sa=N&sstk=Af77f_eEnkmPBz5XJwofjEQZXadvLpXIb2q9afXdq-0CIzH53s8V7YZej44pf20cISezOy9E0GNRxd8ctbdwIml5d87woHMjrIUMxw&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=V1y7aYaVGr2lwbkPt-D0qA8&start=60&sa=N&sstk=Af77f_eEnkmPBz5XJwofjEQZXadvLpXIb2q9afXdq-0CIzH53s8V7YZej44pf20cISezOy9E0GNRxd8ctbdwIml5d87woHMjrIUMxw&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=V1y7aYaVGr2lwbkPt-D0qA8&start=70&sa=N&sstk=Af77f_eEnkmPBz5XJwofjEQZXadvLpXIb2q9afXdq-0CIzH53s8V7YZej44pf20cISezOy9E0GNRxd8ctbdwIml5d87woHMjrIUMxw&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=V1y7aYaVGr2lwbkPt-D0qA8&start=80&sa=N&sstk=Af77f_eEnkmPBz5XJwofjEQZXadvLpXIb2q9afXdq-0CIzH53s8V7YZej44pf20cISezOy9E0GNRxd8ctbdwIml5d87woHMjrIUMxw&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=V1y7aYaVGr2lwbkPt-D0qA8&start=90&sa=N&sstk=Af77f_eEnkmPBz5XJwofjEQZXadvLpXIb2q9afXdq-0CIzH53s8V7YZej44pf20cISezOy9E0GNRxd8ctbdwIml5d87woHMjrIUMxw&ved=2ahUKEwjGnJSu8qqTAxW9UjABHTcwHfUQ8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bell+County+Commissioner+P1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "search_metadata": {
+    "id": "69bb5df9a89e023c8af59a45",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/QMtexm7gZvm34u5gngaNWA/69bb5df9a89e023c8af59a45.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/QMtexm7gZvm34u5gngaNWA/69bb5df9a89e023c8af59a45.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:49 UTC",
+    "processed_at": "2026-03-19 02:22:49 UTC",
+    "google_url": "https://www.google.com/search?q=Justin+Early+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&oq=Justin+Early+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/QMtexm7gZvm34u5gngaNWA/69bb5df9a89e023c8af59a45.html",
+    "total_time_taken": 1.17
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Justin Early \"US House TX-31\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Justin Early \"US House TX-31\" \"Central Texas\" Instagram",
+    "total_results": 1,
+    "time_taken_displayed": 0.44,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Stuart Whitlow for Congress (@WhitlowForCongress)",
+      "link": "https://www.facebook.com/WhitlowForCongress/mentions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/WhitlowForCongress/mentions/&ved=2ahUKEwjzy-v186qTAxVV2MkDHe6qEMQQFnoECBcQAQ",
+      "displayed_link": "https://www.facebook.com › mentions",
+      "favicon": "https://serpapi.com/searches/69bb5df9a89e023c8af59a45/images/_xy2BjX7-h6vjembpeZfIEPriuMJLLQEAALCIs90ado.png",
+      "snippet": "Central Texas deserves leadership better than John Carter. ... Stuart Whitlow for Congress is our pick for US House (TX-31). ... Justin Early ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "US House (TX-31",
+        "Justin Early"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Central Texas deserves leadership better than John Carter. ... Stuart Whitlow for Congress is our pick for US House (TX-31). ... Justin Early ...",
+          "source_info_link": "https://www.facebook.com/WhitlowForCongress/mentions/",
+          "icon": "https://serpapi.com/searches/69bb5df9a89e023c8af59a45/images/_xy2BjX7-h6vjembpeZfIK08ncT_EnIaLgn7MG5frvlLBmcQYw4nm61_Hc3_qnI2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/WhitlowForCongress/mentions/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FWhitlowForCongress%2Fmentions%2F",
+      "source": "Facebook"
+    }
+  ]
+}

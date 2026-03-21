@@ -1,0 +1,115 @@
+{
+  "search_metadata": {
+    "id": "69bb5e6fb2c613a7b37295a2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bJnzclQaI1QQiFBhGIAP_Q/69bb5e6fb2c613a7b37295a2.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/bJnzclQaI1QQiFBhGIAP_Q/69bb5e6fb2c613a7b37295a2.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:47 UTC",
+    "processed_at": "2026-03-19 02:24:47 UTC",
+    "google_url": "https://www.google.com/search?q=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Instagram&oq=Jose+Segarra+%22Killeen+Council+At-Large%22+%22Killeen%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/bJnzclQaI1QQiFBhGIAP_Q/69bb5e6fb2c613a7b37295a2.html",
+    "total_time_taken": 12.09
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Jose Segarra \"Killeen Council At-Large\" \"Killeen\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Jose Segarra \"Killeen Council At-Large\" \"Killeen\" Instagram",
+    "total_results": 3,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Mobile lemonade and coffee bar to host grand-opening ...",
+      "link": "https://kdhnews.com/news/local/mobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday/article_174d55fb-3d0a-4eb1-a262-5fba192fec21.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/mobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday/article_174d55fb-3d0a-4eb1-a262-5fba192fec21.html&ved=2ahUKEwjEmoOz9KqTAxWdj4kEHVCrI-MQFnoECBgQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › mobile-lemonade...",
+      "favicon": "https://serpapi.com/searches/69bb5e6fb2c613a7b37295a2/images/_sj_HG6CS7ombn6Q6nIdR4nMn8VidFzr7L7qGSMd0M4.png",
+      "date": "Jan 14, 2026",
+      "snippet": "Beverly Williams files for Killeen council at-large ... Longtime Killeen Councilman Jose Segarra is an Army veteran, business owner and former ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large",
+        "Killeen",
+        "Jose Segarra"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Beverly Williams files for Killeen council at-large ... Longtime Killeen Councilman Jose Segarra is an Army veteran, business owner and former ...",
+          "source_info_link": "https://kdhnews.com/news/local/mobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday/article_174d55fb-3d0a-4eb1-a262-5fba192fec21.html",
+          "icon": "https://serpapi.com/searches/69bb5e6fb2c613a7b37295a2/images/_sj_HG6CS7ombn6Q6nIdRyLvir1xOPpa9k2k906_MVZRcUAfvq4kp6nMrtjJS38w.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/mobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday/article_174d55fb-3d0a-4eb1-a262-5fba192fec21.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fmobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday%2Farticle_174d55fb-3d0a-4eb1-a262-5fba192fec21.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "Man indicted for allegedly injuring Temple police officer",
+      "link": "https://kdhnews.com/news/region/man-indicted-for-allegedly-injuring-temple-police-officer/article_de47e477-2858-5b9f-9db9-4dfc06c600a5.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/region/man-indicted-for-allegedly-injuring-temple-police-officer/article_de47e477-2858-5b9f-9db9-4dfc06c600a5.html&ved=2ahUKEwjEmoOz9KqTAxWdj4kEHVCrI-MQFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › news › region › man-indicted-fo...",
+      "favicon": "https://serpapi.com/searches/69bb5e6fb2c613a7b37295a2/images/_sj_HG6CS7ombn6Q6nIdR2Z7MhkEjZoTqkiERd1urR4.png",
+      "date": "Apr 24, 2023",
+      "snippet": "Man indicted for allegedly injuring Temple police officer ; Nash-King announces run for Killeen council at-large seat, resigns as mayor. 17 hrs ...",
+      "snippet_highlighted_words": [
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Man indicted for allegedly injuring Temple police officer ; Nash-King announces run for Killeen council at-large seat, resigns as mayor. 17 hrs ...",
+          "source_info_link": "https://kdhnews.com/news/region/man-indicted-for-allegedly-injuring-temple-police-officer/article_de47e477-2858-5b9f-9db9-4dfc06c600a5.html",
+          "icon": "https://serpapi.com/searches/69bb5e6fb2c613a7b37295a2/images/_sj_HG6CS7ombn6Q6nIdR_81a0DWhS-Z1oXQvMlcLd8H-5NjHhxbUTx3FbHc9F03.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/region/man-indicted-for-allegedly-injuring-temple-police-officer/article_de47e477-2858-5b9f-9db9-4dfc06c600a5.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Fregion%2Fman-indicted-for-allegedly-injuring-temple-police-officer%2Farticle_de47e477-2858-5b9f-9db9-4dfc06c600a5.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "No widespread outages, crashes reported as cold snap hits Texas",
+      "link": "https://kdhnews.com/news/region/no-widespread-outages-crashes-reported-as-cold-snap-hits-texas/article_8e16a763-5a52-5e4d-a8cb-ec861e11bc99.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/region/no-widespread-outages-crashes-reported-as-cold-snap-hits-texas/article_8e16a763-5a52-5e4d-a8cb-ec861e11bc99.html&ved=2ahUKEwjEmoOz9KqTAxWdj4kEHVCrI-MQFnoECBkQAQ",
+      "displayed_link": "https://kdhnews.com › news › region › no-widespread-...",
+      "favicon": "https://serpapi.com/searches/69bb5e6fb2c613a7b37295a2/images/_sj_HG6CS7ombn6Q6nIdR301IpqOMSV4IwGo_ZHqkz0.png",
+      "snippet": "No widespread outages, crashes reported as cold snap hits Texas ; Nash-King announces run for Killeen council at-large seat, resigns as mayor. 17 hrs ago.",
+      "snippet_highlighted_words": [
+        "Killeen council at-large"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "No widespread outages, crashes reported as cold snap hits Texas ; Nash-King announces run for Killeen council at-large seat, resigns as mayor. 17 hrs ago.",
+          "source_info_link": "https://kdhnews.com/news/region/no-widespread-outages-crashes-reported-as-cold-snap-hits-texas/article_8e16a763-5a52-5e4d-a8cb-ec861e11bc99.html",
+          "icon": "https://serpapi.com/searches/69bb5e6fb2c613a7b37295a2/images/_sj_HG6CS7ombn6Q6nIdRycmUqg6ngVmxnTlS4tf6ju2vGsjqSNO61aVEQZ2nGeO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/region/no-widespread-outages-crashes-reported-as-cold-snap-hits-texas/article_8e16a763-5a52-5e4d-a8cb-ec861e11bc99.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Fregion%2Fno-widespread-outages-crashes-reported-as-cold-snap-hits-texas%2Farticle_8e16a763-5a52-5e4d-a8cb-ec861e11bc99.html",
+      "source": "The Killeen Daily Herald"
+    }
+  ]
+}

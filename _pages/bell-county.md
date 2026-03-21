@@ -6,7 +6,20 @@ hero: true
 hero_title: "Bell County Legal Information"
 hero_subtitle: "Local courts, procedures, and resources for Central Texas residents"
 description: "Bell County court information, local legal procedures, and resources for Killeen, Temple, and Belton area residents."
-source_url: "https://www.bellcountytx.com/"
+sources:
+  - url: "https://www.bellcountytx.com/"
+    label: "Bell County Official Website"
+    evidence: "Official Bell County government website - verified by direct access"
+    visited: true
+    confirmed: true
+confidence:
+  base: 0.707
+  current: 0.81
+  formula: "compound_ema_qfa"
+  qfa_state: VALIDATE
+  milestone: M2
+  validation: 0.05
+  aho_corasick: 0.05
 verified_at: 2026-02-11
 ---
 
@@ -28,7 +41,7 @@ Three County Courts at Law handle misdemeanor criminal cases (Class A and B), ci
 
 ### Prosecutors & Contacts
 
-- **Bell County Attorney’s Office** — Prosecutes Class A/B misdemeanors. Bell County Courthouse Annex, 550 East 2nd Avenue, Belton, TX 76513. (254) 933-5161
+- **Bell County Attorney's Office** — Prosecutes Class A/B misdemeanors. Bell County Courthouse Annex, 550 East 2nd Avenue, Belton, TX 76513. (254) 933-5161
 - **Bell County District Attorney (Stephanie Newell)** — Prosecutes felonies in District Courts.
 
 

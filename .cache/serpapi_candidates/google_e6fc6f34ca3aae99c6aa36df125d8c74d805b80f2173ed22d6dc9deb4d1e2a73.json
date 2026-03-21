@@ -1,0 +1,356 @@
+{
+  "search_metadata": {
+    "id": "69bb5ca1d99612c6f30c9c34",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ulzoFvZKO-AV1QszcWKQ_Q/69bb5ca1d99612c6f30c9c34.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ulzoFvZKO-AV1QszcWKQ_Q/69bb5ca1d99612c6f30c9c34.json_with_pixel_position",
+    "created_at": "2026-03-19 02:17:05 UTC",
+    "processed_at": "2026-03-19 02:17:05 UTC",
+    "google_url": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ulzoFvZKO-AV1QszcWKQ_Q/69bb5ca1d99612c6f30c9c34.html",
+    "total_time_taken": 6.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "CTC Trustee Place 3 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "CTC Trustee Place 3 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 12100,
+    "time_taken_displayed": 0.45,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Chapter 8 Study Guide Flashcards",
+      "link": "https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0QFnoECCAQAQ",
+      "displayed_link": "https://quizlet.com › ... › Politics of the United States",
+      "favicon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDdrQTPQUCo_top6NQZF2l1o.png",
+      "snippet": "Study with Quizlet and memorize flashcards containing terms like Platform, Precinct, Political Party and more.",
+      "snippet_highlighted_words": [
+        "Platform"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Study with Quizlet and memorize flashcards containing terms like Platform, Precinct, Political Party and more.",
+          "source_info_link": "https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/",
+          "icon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDWK0TFJt_z5HaFu1Mr2SaaWm7tQJhx8Vv7LPGz_kmcoD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://quizlet.com/317579268/chapter-8-study-guide-flash-cards/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fquizlet.com%2F317579268%2Fchapter-8-study-guide-flash-cards%2F",
+      "missing": [
+        "CTC",
+        "Trustee",
+        "opponents.",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 2,
+      "title": "Basic Facts about the United Nations",
+      "link": "https://digitallibrary.un.org/record/705277/files/Basic_facts_UN_2011.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://digitallibrary.un.org/record/705277/files/Basic_facts_UN_2011.pdf&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0QFnoECBsQAQ",
+      "displayed_link": "https://digitallibrary.un.org › Basic_facts_UN_2011",
+      "favicon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDUB_pUKflvMWgvKwcs1j81Y.png",
+      "snippet": "A notable example is the establishment, in 2010, of UN-Women, meant to help advance the benefits of gender equality and women's empowerment across the whole of ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 328
+          },
+          "extensions": [
+            "328 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "A notable example is the establishment, in 2010, of UN-Women, meant to help advance the benefits of gender equality and women's empowerment across the whole of ...",
+          "source_info_link": "https://digitallibrary.un.org/record/705277/files/Basic_facts_UN_2011.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDcnHUHV57wT9H2rfRUaH07ZUbejnQ6sKbglOf6Vso6K9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://digitallibrary.un.org/record/705277/files/Basic_facts_UN_2011.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdigitallibrary.un.org%2Frecord%2F705277%2Ffiles%2FBasic_facts_UN_2011.pdf",
+      "source": "United Nations Digital Library System"
+    },
+    {
+      "position": 3,
+      "title": "- U.S. NATIONAL SECURITY CHALLENGES AND ...",
+      "link": "https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0QFnoECBkQAQ",
+      "displayed_link": "https://www.govinfo.gov › content › pkg › html",
+      "favicon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDT9bebaon_8NWqmPCweTHwE.png",
+      "snippet": "[Senate Hearing 114-687] [From the U.S. Government Publishing Office] S. Hrg. 114-687 U.S. NATIONAL SECURITY CHALLENGES AND ONGOING MILITARY OPERATIONS ...",
+      "snippet_highlighted_words": [
+        "CHALLENGES"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "[Senate Hearing 114-687] [From the U.S. Government Publishing Office] S. Hrg. 114-687 U.S. NATIONAL SECURITY CHALLENGES AND ONGOING MILITARY OPERATIONS ...",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm",
+          "icon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDXLl2xAojtSY-S1hwY0pC3vlLOYcaZp-Pz69F_OW_JMW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/CHRG-114shrg26841/html/CHRG-114shrg26841.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FCHRG-114shrg26841%2Fhtml%2FCHRG-114shrg26841.htm",
+      "source": "GovInfo (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "- NOMINATION OF ALEX MICHAEL AZAR II",
+      "link": "https://www.congress.gov/115/chrg/CHRG-115shrg34341/CHRG-115shrg34341.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/115/chrg/CHRG-115shrg34341/CHRG-115shrg34341.htm&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0QFnoECDMQAQ",
+      "displayed_link": "https://www.congress.gov › chrg",
+      "favicon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDZCAZ0-9s_6zoOLJuldQ9f0.png",
+      "snippet": "The hearing was convened, pursuant to notice, at 10:02 a.m., in room SD-215, Dirksen Senate Office Building, Hon. Orrin G. Hatch (chairman of the committee) ...",
+      "about_this_result": {
+        "source": {
+          "description": "The hearing was convened, pursuant to notice, at 10:02 a.m., in room SD-215, Dirksen Senate Office Building, Hon. Orrin G. Hatch (chairman of the committee) ...",
+          "source_info_link": "https://www.congress.gov/115/chrg/CHRG-115shrg34341/CHRG-115shrg34341.htm",
+          "icon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDSHt6MUYliSthlpT4HN5BUqAgakOWOHcC5jXG4qZ39Fn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/115/chrg/CHRG-115shrg34341/CHRG-115shrg34341.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2F115%2Fchrg%2FCHRG-115shrg34341%2FCHRG-115shrg34341.htm",
+      "source": "Congress.gov"
+    },
+    {
+      "position": 5,
+      "title": "Form S-4/A",
+      "link": "https://www.sec.gov/Archives/edgar/data/1089357/000095012399008852/0000950123-99-008852.txt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sec.gov/Archives/edgar/data/1089357/000095012399008852/0000950123-99-008852.txt&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0QFnoECCsQAQ",
+      "displayed_link": "https://www.sec.gov › Archives › edgar › data",
+      "favicon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDVrSz9m6HlonnxVrzKMTyjA.png",
+      "snippet": "Neither the Securities and Exchange Commission nor any state securities commission has approved or disapproved these securities or determined if this prospectus ...",
+      "about_this_result": {
+        "source": {
+          "description": "Neither the Securities and Exchange Commission nor any state securities commission has approved or disapproved these securities or determined if this prospectus ...",
+          "source_info_link": "https://www.sec.gov/Archives/edgar/data/1089357/000095012399008852/0000950123-99-008852.txt",
+          "icon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDd0Urj46qAX3dx3U3ds3Racm3OFloD0qeQ5YN8nM3sMT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sec.gov/Archives/edgar/data/1089357/000095012399008852/0000950123-99-008852.txt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1089357%2F000095012399008852%2F0000950123-99-008852.txt",
+      "source": "SEC.gov"
+    },
+    {
+      "position": 6,
+      "title": "ANTICIPATED NOMINATION OF JANET L. YELLEN ...",
+      "link": "https://www.finance.senate.gov/download/anticipated-nomination-of-janet-l-yellen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.finance.senate.gov/download/anticipated-nomination-of-janet-l-yellen&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0QFnoECC0QAQ",
+      "displayed_link": "https://www.finance.senate.gov › download › ant...",
+      "favicon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDY11uM_9pJXrLm5CcwjSN4U.png",
+      "date": "Jan 19, 2021",
+      "snippet": "Page 3. C O N T E N T S. OPENING STATEMENTS. Page. Grassley, Hon. Chuck, a U.S. Senator from Iowa, chairman, Committee on. Finance .",
+      "snippet_highlighted_words": [
+        "3"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Page 3. C O N T E N T S. OPENING STATEMENTS. Page. Grassley, Hon. Chuck, a U.S. Senator from Iowa, chairman, Committee on. Finance .",
+          "source_info_link": "https://www.finance.senate.gov/download/anticipated-nomination-of-janet-l-yellen",
+          "icon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDVdgHgtAN1CeuYq9DDmgalacPeAhc6XK3WmUINoJ9no1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.finance.senate.gov/download/anticipated-nomination-of-janet-l-yellen&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.finance.senate.gov%2Fdownload%2Fanticipated-nomination-of-janet-l-yellen",
+      "source": "Senate Committee on Finance (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Universal Service Headline Archives",
+      "link": "https://www.fcc.gov/general/universal-service-headline-archives",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fcc.gov/general/universal-service-headline-archives&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0QFnoECCwQAQ",
+      "displayed_link": "https://www.fcc.gov › Wireline",
+      "favicon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDcvl27ej1OorDAaD0wg4pZA.png",
+      "snippet": "NTCA and USTelecom's Petition for Forbearance Public Notice: WCB seeks comment on a joint petition filed by NTCA and USTelecom requesting that the Commission ...",
+      "about_this_result": {
+        "source": {
+          "description": "NTCA and USTelecom's Petition for Forbearance Public Notice: WCB seeks comment on a joint petition filed by NTCA and USTelecom requesting that the Commission ...",
+          "source_info_link": "https://www.fcc.gov/general/universal-service-headline-archives",
+          "icon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDevtw5el55Tyh6zxaTLpBqFwlXjBZeWROUVdXByOxLfM.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fcc.gov/general/universal-service-headline-archives&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fcc.gov%2Fgeneral%2Funiversal-service-headline-archives",
+      "source": "Federal Communications Commission (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "Meeting Agenda - Metropolitan Transportation Commission",
+      "link": "https://mtc.ca.gov/sites/default/files/documents/2024-05/_05_31_2024%20RM3%20Independent%20Oversight%20Committee%20FULL%20Agenda%20Packet%20Print.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mtc.ca.gov/sites/default/files/documents/2024-05/_05_31_2024%2520RM3%2520Independent%2520Oversight%2520Committee%2520FULL%2520Agenda%2520Packet%2520Print.pdf&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0QFnoECDAQAQ",
+      "displayed_link": "https://mtc.ca.gov › default › files › documents",
+      "favicon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDaJcLk3AJN7-_xuhJsy7oww.png",
+      "date": "May 31, 2024",
+      "snippet": "The VTA Measure B Citizens Oversight. Committee monitors and informs Santa Clara County residents of how Measure B money is being spent. The ...",
+      "about_this_result": {
+        "source": {
+          "description": "The VTA Measure B Citizens Oversight. Committee monitors and informs Santa Clara County residents of how Measure B money is being spent. The ...",
+          "source_info_link": "https://mtc.ca.gov/sites/default/files/documents/2024-05/_05_31_2024%20RM3%20Independent%20Oversight%20Committee%20FULL%20Agenda%20Packet%20Print.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDTR6iy9-eVN8pGYlF2tXCHuzDdapcz2fQndDck0byQqQ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mtc.ca.gov/sites/default/files/documents/2024-05/_05_31_2024%20RM3%20Independent%20Oversight%20Committee%20FULL%20Agenda%20Packet%20Print.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmtc.ca.gov%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2F2024-05%2F_05_31_2024%2520RM3%2520Independent%2520Oversight%2520Committee%2520FULL%2520Agenda%2520Packet%2520Print.pdf",
+      "source": "Metropolitan Transportation Commission (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "Joint Explanatory Statement of the Committee of Conference",
+      "link": "https://docs.house.gov/billsthisweek/20171218/Joint%20Explanatory%20Statement.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.house.gov/billsthisweek/20171218/Joint%2520Explanatory%2520Statement.pdf&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0QFnoECDEQAQ",
+      "displayed_link": "https://docs.house.gov › billsthisweek",
+      "favicon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDVZTGj5EHYlfDPBH5ne2LQ0.png",
+      "date": "Dec 18, 2017",
+      "snippet": "... 3. 3. If taxable income is: Then income tax equals: Over $416,700 but not over $444,550. $117,202.50 plus 35% of the excess over $416,700. Over ...",
+      "snippet_highlighted_words": [
+        "3",
+        "3"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 570
+          },
+          "extensions": [
+            "570 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... 3. 3. If taxable income is: Then income tax equals: Over $416,700 but not over $444,550. $117,202.50 plus 35% of the excess over $416,700. Over ...",
+          "source_info_link": "https://docs.house.gov/billsthisweek/20171218/Joint%20Explanatory%20Statement.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDXlk9fAgGw2nhchUQVlSoGz9hsQ_W4xGZB-AZLjgQEez.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://docs.house.gov/billsthisweek/20171218/Joint%20Explanatory%20Statement.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdocs.house.gov%2Fbillsthisweek%2F20171218%2FJoint%2520Explanatory%2520Statement.pdf",
+      "source": "House.gov"
+    },
+    {
+      "position": 10,
+      "title": "Candidate for York City school board shares experience ...",
+      "link": "https://www.facebook.com/groups/2822123961388403/posts/4273782682889183/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/2822123961388403/posts/4273782682889183/&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0QFnoECDIQAQ",
+      "displayed_link": "6 comments · 5 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDR4FRZ2017i3ybiVdS6KWWQ.png",
+      "snippet": "Today's thoughts. Long message but you won't be sorry for taking a few minutes to read it: Telling my story for why I'm running for the ...",
+      "about_this_result": {
+        "source": {
+          "description": "Today's thoughts. Long message but you won't be sorry for taking a few minutes to read it: Telling my story for why I'm running for the ...",
+          "source_info_link": "https://www.facebook.com/groups/2822123961388403/posts/4273782682889183/",
+          "icon": "https://serpapi.com/searches/69bb5ca1d99612c6f30c9c34/images/7FX9klxTTSRvt2jJm7_mDSRJs9IeAI9NddQnS76JY7L7m6KsJ7OWMks0Z7OJXrhU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/2822123961388403/posts/4273782682889183/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F2822123961388403%2Fposts%2F4273782682889183%2F",
+      "source": "Facebook · Friends of Lisa Kennedy"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=ply7aYr7MMri5NoPuYDH6Ao&start=10&sa=N&sstk=Af77f_f-5cxL8fdJvSN0qgjfl-LcKC3E98cLOTksQO_swi3znVj3RX0Djk0Gqe8cRcKIfZKX5P25CO5uxeR_ynuJ25ZsRj_sN8okvQ&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0Q8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=ply7aYr7MMri5NoPuYDH6Ao&start=10&sa=N&sstk=Af77f_f-5cxL8fdJvSN0qgjfl-LcKC3E98cLOTksQO_swi3znVj3RX0Djk0Gqe8cRcKIfZKX5P25CO5uxeR_ynuJ25ZsRj_sN8okvQ&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0Q8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=ply7aYr7MMri5NoPuYDH6Ao&start=20&sa=N&sstk=Af77f_f-5cxL8fdJvSN0qgjfl-LcKC3E98cLOTksQO_swi3znVj3RX0Djk0Gqe8cRcKIfZKX5P25CO5uxeR_ynuJ25ZsRj_sN8okvQ&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0Q8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=ply7aYr7MMri5NoPuYDH6Ao&start=30&sa=N&sstk=Af77f_f-5cxL8fdJvSN0qgjfl-LcKC3E98cLOTksQO_swi3znVj3RX0Djk0Gqe8cRcKIfZKX5P25CO5uxeR_ynuJ25ZsRj_sN8okvQ&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0Q8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=ply7aYr7MMri5NoPuYDH6Ao&start=40&sa=N&sstk=Af77f_f-5cxL8fdJvSN0qgjfl-LcKC3E98cLOTksQO_swi3znVj3RX0Djk0Gqe8cRcKIfZKX5P25CO5uxeR_ynuJ25ZsRj_sN8okvQ&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0Q8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=ply7aYr7MMri5NoPuYDH6Ao&start=50&sa=N&sstk=Af77f_f-5cxL8fdJvSN0qgjfl-LcKC3E98cLOTksQO_swi3znVj3RX0Djk0Gqe8cRcKIfZKX5P25CO5uxeR_ynuJ25ZsRj_sN8okvQ&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0Q8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=ply7aYr7MMri5NoPuYDH6Ao&start=60&sa=N&sstk=Af77f_f-5cxL8fdJvSN0qgjfl-LcKC3E98cLOTksQO_swi3znVj3RX0Djk0Gqe8cRcKIfZKX5P25CO5uxeR_ynuJ25ZsRj_sN8okvQ&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0Q8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=ply7aYr7MMri5NoPuYDH6Ao&start=70&sa=N&sstk=Af77f_f-5cxL8fdJvSN0qgjfl-LcKC3E98cLOTksQO_swi3znVj3RX0Djk0Gqe8cRcKIfZKX5P25CO5uxeR_ynuJ25ZsRj_sN8okvQ&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0Q8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=ply7aYr7MMri5NoPuYDH6Ao&start=80&sa=N&sstk=Af77f_f-5cxL8fdJvSN0qgjfl-LcKC3E98cLOTksQO_swi3znVj3RX0Djk0Gqe8cRcKIfZKX5P25CO5uxeR_ynuJ25ZsRj_sN8okvQ&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0Q8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=ply7aYr7MMri5NoPuYDH6Ao&start=90&sa=N&sstk=Af77f_f-5cxL8fdJvSN0qgjfl-LcKC3E98cLOTksQO_swi3znVj3RX0Djk0Gqe8cRcKIfZKX5P25CO5uxeR_ynuJ25ZsRj_sN8okvQ&ved=2ahUKEwiK5oDU8qqTAxVKMVkFHTnAEa0Q8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CTC+Trustee+Place+3+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

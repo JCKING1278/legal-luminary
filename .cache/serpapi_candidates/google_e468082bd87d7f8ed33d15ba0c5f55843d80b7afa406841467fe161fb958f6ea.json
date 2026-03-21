@@ -1,0 +1,275 @@
+{
+  "search_metadata": {
+    "id": "69bb5d470fa72ee08d1ce327",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zQUsq6fwknMmfpnl4Nq22g/69bb5d470fa72ee08d1ce327.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/zQUsq6fwknMmfpnl4Nq22g/69bb5d470fa72ee08d1ce327.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:51 UTC",
+    "processed_at": "2026-03-19 02:19:51 UTC",
+    "google_url": "https://www.google.com/search?q=Louie+Minor+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+LinkedIn&oq=Louie+Minor+%22Bell+County+Commissioner+P4%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/zQUsq6fwknMmfpnl4Nq22g/69bb5d470fa72ee08d1ce327.html",
+    "total_time_taken": 10.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Louie Minor \"Bell County Commissioner P4\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Louie Minor \"Bell County Commissioner P4\" \"Central Texas\" LinkedIn",
+    "total_results": 7,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Louie Minor Bell County Commissioner P4 Central Texas LinkedIn",
+    "spelling_fix": "Louie Minor Bell County Commissioner P4 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Louie Minor - Master of Public Administration",
+      "link": "https://www.linkedin.com/in/louie-minor-67a029178",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/louie-minor-67a029178&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQFnoECBwQAQ",
+      "displayed_link": "360+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1L65fi_vh9yg3wAyke8aAf8.png",
+      "snippet": "Master of Public Administration - MPA at Norwich University · Experience: Bell County · Education: Norwich University · Location: Killeen-Temple Area · 360 ...",
+      "snippet_highlighted_words": [
+        "Bell County"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Master of Public Administration - MPA at Norwich University · Experience: Bell County · Education: Norwich University · Location: Killeen-Temple Area · 360 ...",
+          "source_info_link": "https://www.linkedin.com/in/louie-minor-67a029178",
+          "icon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1NvPVYdfcEoAgg_ZY-y47VLzv-IJ0D3Q353hk8uBbfQR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/louie-minor-67a029178&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Flouie-minor-67a029178",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Louie+Minor+Bell+County+Commissioner+P4+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQ5t4CegQINhAB"
+      },
+      "source": "LinkedIn · Louie Minor"
+    },
+    {
+      "position": 2,
+      "title": "Meet Louie Minor",
+      "link": "https://www.outsmartmagazine.com/2023/01/minor-milestone/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.outsmartmagazine.com/2023/01/minor-milestone/&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQFnoECCIQAQ",
+      "displayed_link": "https://www.outsmartmagazine.com › minor-milestone",
+      "date": "Jan 5, 2023",
+      "snippet": "On January 3, Louie Minor was sworn in as Bell County's Precinct 4 Commissioner—the first openly gay county commissioner in the state of ...",
+      "snippet_highlighted_words": [
+        "Louie Minor",
+        "Bell County's",
+        "4 Commissioner",
+        "commissioner"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On January 3, Louie Minor was sworn in as Bell County's Precinct 4 Commissioner—the first openly gay county commissioner in the state of ...",
+          "source_info_link": "https://www.outsmartmagazine.com/2023/01/minor-milestone/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.outsmartmagazine.com/2023/01/minor-milestone/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.outsmartmagazine.com%2F2023%2F01%2Fminor-milestone%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Louie+Minor+Bell+County+Commissioner+%22P4%22+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQ5t4CegQINRAB"
+      },
+      "source": "OutSmart Magazine"
+    },
+    {
+      "position": 3,
+      "title": "Michael (Mike) Odle's Post",
+      "link": "https://www.linkedin.com/posts/michaelodle_reconnecting-with-an-old-friend-and-battle-activity-7302863218949931008-uwyZ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/michaelodle_reconnecting-with-an-old-friend-and-battle-activity-7302863218949931008-uwyZ&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQFnoECCAQAQ",
+      "displayed_link": "30+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1Hk8C-ulZQyvZxh2RVfnB3E.png",
+      "snippet": "Reconnecting with an old friend and battle buddy, Commissioner Louie Minor of Bell County, Texas. Grateful for your friendship and steadfast ...",
+      "snippet_highlighted_words": [
+        "Commissioner Louie Minor",
+        "Bell County",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Reconnecting with an old friend and battle buddy, Commissioner Louie Minor of Bell County, Texas. Grateful for your friendship and steadfast ...",
+          "source_info_link": "https://www.linkedin.com/posts/michaelodle_reconnecting-with-an-old-friend-and-battle-activity-7302863218949931008-uwyZ",
+          "icon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1CBSecjcX5nTCw_tV8SyaCFjRk_JQjiLS_dFXHV9OPhW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/michaelodle_reconnecting-with-an-old-friend-and-battle-activity-7302863218949931008-uwyZ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmichaelodle_reconnecting-with-an-old-friend-and-battle-activity-7302863218949931008-uwyZ",
+      "missing": [
+        "P4",
+        "Central"
+      ],
+      "source": "LinkedIn · Michael (Mike) Odle"
+    },
+    {
+      "position": 4,
+      "title": "Louie Minor (Bell County Commissioner Precinct 4, Texas, ...",
+      "link": "https://ballotpedia.org/Louie_Minor_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Louie_Minor_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQFnoECB8QAQ",
+      "displayed_link": "https://ballotpedia.org › Louie_Minor_(Bell_County_Co...",
+      "favicon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1KjRxMw4yr1VhBXE9nhm-rM.png",
+      "snippet": "Last election. March 3, 2026 ; Education · Associates. Temple College, 2003. Bachelor's. Tarleton State University, 2006. Graduate. Norwich University, 2013 ; High ...",
+      "about_this_result": {
+        "source": {
+          "description": "Last election. March 3, 2026 ; Education · Associates. Temple College, 2003. Bachelor's. Tarleton State University, 2006. Graduate. Norwich University, 2013 ; High ...",
+          "source_info_link": "https://ballotpedia.org/Louie_Minor_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1BictaZLbLXPUp9ck0I_nYeE4D6QVwEl75LDSiiXaoBY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Louie_Minor_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FLouie_Minor_%28Bell_County_Commissioner_Precinct_4%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "LinkedIn"
+      ],
+      "must_include": {
+        "word": "LinkedIn",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Louie+Minor+Bell+County+Commissioner+P4+Central+Texas+%22LinkedIn%22&sa=X&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQ5t4CegQIMhAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 5,
+      "title": "Bell County commissioner candidate joins lawsuit against ...",
+      "link": "https://kdhnews.com/news/local/bell-county-commissioner-candidate-joins-lawsuit-against-texas-governor/article_b4515b1e-ccc5-11ec-96e3-47fd0d64e1ca.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/bell-county-commissioner-candidate-joins-lawsuit-against-texas-governor/article_b4515b1e-ccc5-11ec-96e3-47fd0d64e1ca.html&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQFnoECB4QAQ",
+      "displayed_link": "https://kdhnews.com › news › local › bell-county-com...",
+      "favicon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1FXWE7zFiBac2R504FuAbAs.png",
+      "date": "May 5, 2022",
+      "snippet": "Candidate for Bell County Commissioner Precinct 4 Louie Minor, a Killeen resident, has joined a lawsuit from League of United Latin American ...",
+      "snippet_highlighted_words": [
+        "Bell County Commissioner",
+        "4 Louie Minor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Candidate for Bell County Commissioner Precinct 4 Louie Minor, a Killeen resident, has joined a lawsuit from League of United Latin American ...",
+          "source_info_link": "https://kdhnews.com/news/local/bell-county-commissioner-candidate-joins-lawsuit-against-texas-governor/article_b4515b1e-ccc5-11ec-96e3-47fd0d64e1ca.html",
+          "icon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1PgvmOmzEeKeuXAKXySi4pdwSEOuLpiUjxgGbB5241hj.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/bell-county-commissioner-candidate-joins-lawsuit-against-texas-governor/article_b4515b1e-ccc5-11ec-96e3-47fd0d64e1ca.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fbell-county-commissioner-candidate-joins-lawsuit-against-texas-governor%2Farticle_b4515b1e-ccc5-11ec-96e3-47fd0d64e1ca.html",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Louie+Minor+Bell+County+Commissioner+%22P4%22+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQ5t4CegQINxAB"
+      },
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 6,
+      "title": "Former Killeen city councilman to run for county ...",
+      "link": "https://kdhnews.com/centerforpolitics/former-killeen-city-councilman-to-run-for-county-commissioner/article_eeb86f9d-47f5-4288-aa4e-ada6b993c348.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/former-killeen-city-councilman-to-run-for-county-commissioner/article_eeb86f9d-47f5-4288-aa4e-ada6b993c348.html&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQFnoECCkQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › former-killee...",
+      "favicon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1HfrYIndfcZocLcbmgef4ps.png",
+      "date": "Mar 26, 2025",
+      "snippet": "Ernest Wilkerson, a Central Texas College trustee and a former Killeen city councilman, announced his candidacy for Bell County commissioner this week.",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Bell County commissioner"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ernest Wilkerson, a Central Texas College trustee and a former Killeen city councilman, announced his candidacy for Bell County commissioner this week.",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/former-killeen-city-councilman-to-run-for-county-commissioner/article_eeb86f9d-47f5-4288-aa4e-ada6b993c348.html",
+          "icon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1JyDyqve97NhRs1tWZt6UltC8Ifzbo3zC0_WYIMiodpn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/former-killeen-city-councilman-to-run-for-county-commissioner/article_eeb86f9d-47f5-4288-aa4e-ada6b993c348.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fformer-killeen-city-councilman-to-run-for-county-commissioner%2Farticle_eeb86f9d-47f5-4288-aa4e-ada6b993c348.html",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Louie+Minor+Bell+County+Commissioner+%22P4%22+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQ5t4CegQINBAB"
+      },
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 7,
+      "title": "Ernest Wilkerson (Bell County Commissioner Precinct 4 ...",
+      "link": "https://ballotpedia.org/Ernest_Wilkerson_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Ernest_Wilkerson_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)&ved=2ahUKEwiD2ael86qTAxWwmokEHZjpAzgQFnoECCEQAQ",
+      "displayed_link": "https://ballotpedia.org › Ernest_Wilkerson_(Bell_County...",
+      "favicon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1HdTkxq1lmF9TtXHptF1SAg.png",
+      "snippet": "Ernest Wilkerson (Democratic Party) ran for election for Bell County Commissioner Precinct 4 in Texas. Wilkerson was on the ballot in the Democratic primary on ...",
+      "snippet_highlighted_words": [
+        "Bell County Commissioner",
+        "4",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ernest Wilkerson (Democratic Party) ran for election for Bell County Commissioner Precinct 4 in Texas. Wilkerson was on the ballot in the Democratic primary on ...",
+          "source_info_link": "https://ballotpedia.org/Ernest_Wilkerson_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5d470fa72ee08d1ce327/images/Nejj96Rx7CcORho_mgZS1Af030O5p6RGgccDscU2H21WXAJ_unxPQ1aKxRcaBIWn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Ernest_Wilkerson_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FErnest_Wilkerson_%28Bell_County_Commissioner_Precinct_4%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "P4",
+        "Central"
+      ],
+      "source": "Ballotpedia"
+    }
+  ]
+}

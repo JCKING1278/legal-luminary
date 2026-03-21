@@ -1,21 +1,1340 @@
-/* candidates.c - Emit HTML table from hard-coded candidate data.
- * Recompile and run to regenerate HTML; changing candidates requires editing
- * candidates.h and recompiling.
+/* candidates.c - Emit YML from hard-coded candidate data.
+ * Recompile and run to jekyll build serve to update candidates.
  */
+
+//  metadata:
+//   last_updated: '2026-03-18'
+//   infinite_scroll:
+//     page_size: 20
+//   scope:
+//   - US House TX-31
+//   - Texas Senate 24, House 54
+//   - SBOE District 10 (next election typically 2028)
+//   - Bell County elected offices on 2026 ballot where listed
+//   - Killeen mayor and council (seated until next municipal election)
+//   - Central Texas College trustees (major elections in odd years; confirm with CTC)
+//   fec_note: "US House TX-31 filers below match texas_candidates.csv. Seated Representative\
+//     \ is Roger Williams (house.gov); CSV lists different incumbent flag for one TX-31\
+//     \ row\u2014verify against SOS."
+// candidates:
+// - id: 20
+//   name: Bill Schumann
+//   position: Bell County Commissioner, Precinct 1
+//   office: Bell County Commissioner P1
+//   jurisdiction: Bell County
+//   status: incumbent
+//   party: REP
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: null
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: CountyAdministration
+//   office_group_key: Bell County Commissioner P1
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Bill Schumann
+//   office_opponents_platform_key_facts:
+//   - Love you and your messages. I have and will again donate to your campaign. I'm
+//     not a Texan, but do you have foot work on the grounds of ...
+//   - Liberty in Action sent all Kerr county commissioner and county judge candidates
+//     screening questions for the upcoming primary (March 3, 2026).
+//   - Also, a bill (H. R. 5984) granting a pension to :Kannie A. Bell; to the Committee
+//     on Invalid Pensions. .Allio, a bill ...
+//   headshot_url: http://media.bizj.us/view/img/10239080/bill-schumann-tesoro*1200xx512-385-0-57.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.facebook.com/100090016290561/posts/toledomaza-alejandrobooking-number-2025020262booking-datetime07312025-0847charge/725530657124138/
+//   linkedin_url: https://www.linkedin.com/pub/dir/Bill/Schumann
+// - id: 21
+//   name: Bobby Whitson
+//   position: Bell County Commissioner, Precinct 2
+//   office: Bell County Commissioner P2
+//   jurisdiction: Bell County
+//   status: incumbent
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/Vote4BobbyWhitson/
+//   website_url: null
+//   notes: Incumbent; filed for re-election (R primary).
+//   group_city: ''
+//   group_state: Texas
+//   group_function: CountyAdministration
+//   office_group_key: Bell County Commissioner P2
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Bobby Whitson
+//   office_opponents_platform_key_facts:
+//   - Any candidate running for elected office, at any level, can complete Ballotpedia's
+//     Candidate Survey. Completing the survey will update the candidate's ...
+//   - Amendment, amendments_____amdt., amdts. Appendix______________________________
+//     app. Article, articles_______ . Chapter, chapters_____________________ chap.
+//   - '... election - the three top vote-getters are elected as County Commissioners.
+//     The results were: Dawida(D) 27% Dunn (R) 26% :Cramner(R) 24 % Vuono (0) 23% The
+//     ...'
+//   headshot_url: https://lookaside.fbsbx.com/lookaside/crawler/instagram/bellcountycommish/profile_pic.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/bellcountycommish/
+//   linkedin_url: https://www.linkedin.com/in/bobbywhitson
+// - id: 22
+//   name: Stacey L. Wilson
+//   position: Bell County Commissioner, Precinct 2 (candidate)
+//   office: Bell County Commissioner P2
+//   jurisdiction: Bell County
+//   status: candidate
+//   party: DEM
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: CountyAdministration
+//   office_group_key: Bell County Commissioner P2
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Bobby Whitson
+//   office_opponents_platform_key_facts:
+//   - Any candidate running for elected office, at any level, can complete Ballotpedia's
+//     Candidate Survey. Completing the survey will update the candidate's ...
+//   - Amendment, amendments_____amdt., amdts. Appendix______________________________
+//     app. Article, articles_______ . Chapter, chapters_____________________ chap.
+//   - '... election - the three top vote-getters are elected as County Commissioners.
+//     The results were: Dawida(D) 27% Dunn (R) 26% :Cramner(R) 24 % Vuono (0) 23% The
+//     ...'
+//   headshot_url: https://lookaside.fbsbx.com/lookaside/crawler/instagram/bellcountycommish/profile_pic.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/
+//   linkedin_url: null
+// - id: 23
+//   name: John Driver
+//   position: Bell County Commissioner, Precinct 3
+//   office: Bell County Commissioner P3
+//   jurisdiction: Bell County
+//   status: incumbent
+//   party: REP
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/JohnFisherPct4/posts/yesterday-evening-at-the-bell-county-election-returns-sheena-and-i-went-over-and/1901911589856390/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: CountyAdministration
+//   office_group_key: Bell County Commissioner P3
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: John Driver
+//   office_opponents_platform_key_facts:
+//   - '[Senate Hearing 115-643] [From the U.S. Government Publishing Office] S. Hrg.
+//     115-643 NOMINATION TO THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION, ...'
+//   - analysis expert in cases unconnected to elections and voting (e.g., for automobile
+//     risk analysis), and I have been hired as a data scientist ...
+//   - Pleadings Allowed; Form of Motions and Other Papers. 8. General Rules of Pleading.
+//     9. Pleading Special Matters. 10. Form of Pleadings.
+//   headshot_url: null
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.mintmuseum.org/news/author/taylorsocialdesignhouse-com/
+//   linkedin_url: https://www.linkedin.com/in/john-driver-a3a28026
+// - id: 24
+//   name: Louie Minor
+//   position: Bell County Commissioner, Precinct 4
+//   office: Bell County Commissioner P4
+//   jurisdiction: Bell County
+//   status: incumbent
+//   party: DEM
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: null
+//   website_url: null
+//   notes: Incumbent; D primary with Ernest Wilkerson.
+//   group_city: ''
+//   group_state: Texas
+//   group_function: CountyAdministration
+//   office_group_key: Bell County Commissioner P4
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Louie Minor
+//   office_opponents_platform_key_facts:
+//   - Ernest Wilkerson (Democratic Party) ran for election for Bell County Commissioner
+//     Precinct 4 in Texas. Wilkerson was on the ballot in the Democratic primary on
+//     ...
+//   - Completing the survey will update the candidate's Ballotpedia profile, letting
+//     voters know who they are and what they stand for. More than 25,000 candidates
+//     ...
+//   - The PRESIDENT pro tempore. Sixty-five Senators have an- swered to their names.
+//     A quorum is present. NOMINATION OF NAT GOLDSTEIN,.
+//   headshot_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Louie_Minor_20260203_083721.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/reel/DUZKdQwFHc0/
+//   linkedin_url: https://www.linkedin.com/in/louie-minor-67a029178
+// - id: 25
+//   name: Curtis Emmons
+//   position: Bell County Commissioner, Precinct 4 (candidate)
+//   office: Bell County Commissioner P4
+//   jurisdiction: Bell County
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/ElectEmmons/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: CountyAdministration
+//   office_group_key: Bell County Commissioner P4
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Louie Minor
+//   office_opponents_platform_key_facts:
+//   - Ernest Wilkerson (Democratic Party) ran for election for Bell County Commissioner
+//     Precinct 4 in Texas. Wilkerson was on the ballot in the Democratic primary on
+//     ...
+//   - Completing the survey will update the candidate's Ballotpedia profile, letting
+//     voters know who they are and what they stand for. More than 25,000 candidates
+//     ...
+//   - The PRESIDENT pro tempore. Sixty-five Senators have an- swered to their names.
+//     A quorum is present. NOMINATION OF NAT GOLDSTEIN,.
+//   headshot_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Louie_Minor_20260203_083721.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: null
+//   linkedin_url: null
+// - id: 26
+//   name: Ernest Wilkerson
+//   position: Bell County Commissioner, Precinct 4 (candidate)
+//   office: Bell County Commissioner P4
+//   jurisdiction: Bell County
+//   status: candidate
+//   party: DEM
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/VoteErnest/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: CountyAdministration
+//   office_group_key: Bell County Commissioner P4
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Louie Minor
+//   office_opponents_platform_key_facts:
+//   - Ernest Wilkerson (Democratic Party) ran for election for Bell County Commissioner
+//     Precinct 4 in Texas. Wilkerson was on the ballot in the Democratic primary on
+//     ...
+//   - Completing the survey will update the candidate's Ballotpedia profile, letting
+//     voters know who they are and what they stand for. More than 25,000 candidates
+//     ...
+//   - The PRESIDENT pro tempore. Sixty-five Senators have an- swered to their names.
+//     A quorum is present. NOMINATION OF NAT GOLDSTEIN,.
+//   headshot_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Louie_Minor_20260203_083721.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/votewilkerson/
+//   linkedin_url: null
+// - id: 40
+//   name: Jimmy D. Towers
+//   position: CTC Board of Trustees, Place 1
+//   office: CTC Trustee Place 1
+//   jurisdiction: CTC District
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/CentralTexasCollege/videos/jimmy-towers/185041112582779/
+//   website_url: null
+//   notes: "Board roster per ctcd.edu; last election May 2025 for several places\u2014\
+//     update when 2026/2027 filings post."
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Education
+//   office_group_key: CTC Trustee Place 1
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Jimmy D. Towers
+//   office_opponents_platform_key_facts:
+//   - Study with Quizlet and memorize flashcards containing terms like Platform, Precinct,
+//     Political Party and more.
+//   - '[Senate Hearing 114-687] [From the U.S. Government Publishing Office] S. Hrg.
+//     114-687 U.S. NATIONAL SECURITY CHALLENGES AND ONGOING MILITARY OPERATIONS ...'
+//   - I had the pleasure of asking Chad Smith, candidate for STRS board, a few questions.
+//     I appreciate his time in telling us his position on STRS ...
+//   headshot_url: https://www.psychometricsociety.org/sites/main/files/imagecache/lightbox/main-images/jimmy_de_la_torre_2025.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://thecell.org/about/press/
+//   linkedin_url: https://www.pacermonitor.com/public/filings/DQFBYBEY/The_Robert_Allen_Duralee_Group__nyebke-19-71023__0002.0.pdf
+// - id: 41
+//   name: Charles Hollinger
+//   position: CTC Board of Trustees, Place 2
+//   office: CTC Trustee Place 2
+//   jurisdiction: CTC District
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://kdhnews.com/centerforpolitics/candidates-for-ctc-board-answer-questions-about-their-role/article_0cfd3b1f-2019-41af-ad72-6463852b8d25.html
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Education
+//   office_group_key: CTC Trustee Place 2
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Charles Hollinger
+//   office_opponents_platform_key_facts:
+//   - 'A: The Platform Review is NOT required by state law or the Republican Party to
+//     file for a place on the ballot. Q: Which candidates should not complete the ...'
+//   - Study with Quizlet and memorize flashcards containing terms like Platform, Precinct,
+//     Political Party and more.
+//   - "Adjourn to the next regular meeting scheduled for Monday, December 7 at 10:30\
+//     \ a.m. \u263A The Legislation Committee will provide reasonable accommodations\
+//     \ for ..."
+//   headshot_url: https://www.broeckerfuneralhome.com/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Ftributecenteronline%2FObituaryMedias%2F60910499%2FImage.jpg&w=3840&q=75
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.idcrawl.com/charles-hollinger
+//   linkedin_url: https://www.linkedin.com/pub/dir/Charles/Hollinger
+// - id: 42
+//   name: James A. Pierce Jr.
+//   position: CTC Board of Trustees, Place 3
+//   office: CTC Trustee Place 3
+//   jurisdiction: CTC District
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/jamespierceforctctrusteeplace3/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Education
+//   office_group_key: CTC Trustee Place 3
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: James A. Pierce Jr.
+//   office_opponents_platform_key_facts:
+//   - Study with Quizlet and memorize flashcards containing terms like Platform, Precinct,
+//     Political Party and more.
+//   - A notable example is the establishment, in 2010, of UN-Women, meant to help advance
+//     the benefits of gender equality and women's empowerment across the whole of ...
+//   - '[Senate Hearing 114-687] [From the U.S. Government Publishing Office] S. Hrg.
+//     114-687 U.S. NATIONAL SECURITY CHALLENGES AND ONGOING MILITARY OPERATIONS ...'
+//   headshot_url: null
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://ppdphoto.photoshelter.com/archive/
+//   linkedin_url: https://www.facebook.com/jamespierceforctctrusteeplace3/
+// - id: 43
+//   name: Eric R. Armstrong
+//   position: CTC Board of Trustees, Place 4
+//   office: CTC Trustee Place 4
+//   jurisdiction: CTC District
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/CentralTexasCollege/posts/central-texas-college-swore-in-four-trustees-during-its-may-board-workshop-chair/1122327049921241/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Education
+//   office_group_key: CTC Trustee Place 4
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Eric R. Armstrong
+//   office_opponents_platform_key_facts:
+//   - I strongly support the proposal to eliminate the TPA as a standalone assessment
+//     and instead embed it within teacher preparation coursework. This assessment ...
+//   - 'Please see the attached letter. Comment provided in uploaded document. Meeting:
+//     Commission Meeting - February 2026. Agenda Item ...'
+//   - The University seeks to foster a collegial, Christian environment for the discussion
+//     of issues and resolution of disputes that may arise within the university ...
+//   headshot_url: https://c8.alamy.com/comp/CKY1T1/eric-rick-armstrong-son-of-neil-armstrong-speaks-during-a-memorial-CKY1T1.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/p/DVfOVc_DJ5l/
+//   linkedin_url: https://www.linkedin.com/in/eric-armstrong-ltcol-ret-72635745
+// - id: 19
+//   name: Tom Maynard
+//   position: State Board of Education, District 10
+//   office: SBOE TX-10
+//   jurisdiction: Texas
+//   status: incumbent
+//   party: REP
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/maynardfortexas/
+//   website_url: null
+//   notes: "Four-year term; next SBOE election for this seat typically 2028\u2014confirm\
+//     \ on sos.texas.gov."
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Education
+//   office_group_key: SBOE TX-10
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Tom Maynard
+//   office_opponents_platform_key_facts:
+//   - The procedures for public testimony at State Board of Education committee meetings
+//     and general board meetings are provided in SBOE Operating ...
+//   - The clash between Sen. John Cornyn and Attorney General Ken Paxton in the Texas
+//     GOP is heating up. And Texas Democrats Sarah Eckhardt and ...
+//   - Candidates once too right-wing to win have found that the new Republican Party
+//     has a place for them.
+//   headshot_url: https://maynardfortexas.com/wp-content/uploads/2024/08/IMG-327050-scaled.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/p/C-SgTgbi2kH/
+//   linkedin_url: https://www.linkedin.com/in/tom-maynard-85720849
+// - id: 31
+//   name: Bill Cooke
+//   position: Bell County Sheriff
+//   office: Bell County Sheriff
+//   jurisdiction: Bell County
+//   status: incumbent
+//   party: REP
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/BCSD13/posts/1336213528532414/
+//   website_url: null
+//   notes: Elected 2024; sworn in Jan 2025. Next county election cycle per Bell County.
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Executive
+//   office_group_key: Bell County Sheriff
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Bill Cooke
+//   office_opponents_platform_key_facts:
+//   - No information is available for this page.
+//   - Six candidates with backgrounds ranging from law enforcement and court administration
+//     to public service and private industry are competing ...
+//   - "BELTON \u2014 Patrick \u201CPat\u201D Patterson will follow in his stepfather's\
+//     \ footsteps as Bell County Precinct 1 Justice of the Peace while incumbent ..."
+//   headshot_url: https://www.geosciences.msstate.edu/sites/www.geosciences.msstate.edu/files/styles/msstatedrupal_medium/public/2024-11/Bill_Cooke.jpg?itok=wFFX6nIr
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/p/DQAbB8vEx07/
+//   linkedin_url: https://www.facebook.com/48hours/posts/killeen-texas-police-say-spc-corey-grafton-20-was-arrested-in-the-july-2019-deat/10160353098473496/
+// - id: 27
+//   name: Beatrice Cox
+//   position: Justice of the Peace, Bell County Precinct 4, Place 2 (candidate)
+//   office: Bell JP P4 Place 2
+//   jurisdiction: Bell County
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/BeaForJP/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Judicial
+//   office_group_key: Bell JP P4 Place 2
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Beatrice Cox
+//   office_opponents_platform_key_facts:
+//   - Biography. Ballotpedia did not receive biographical information for this candidate.
+//     Elections. Democratic primary. Democratic primary ...
+//   - Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on
+//     the Killeen City Council, and LaTasha Quarles, who is a veteran ...
+//   - Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas,
+//     candidate 2026).
+//   headshot_url: https://fineartamerica.com/images/artistlogos/beatrice-cox-1714984374-medium.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://bulletin.yale.edu/sites/default/files/yale-law-school-2025-2026.pdf
+//   linkedin_url: https://www.linkedin.com/in/bea-cox-a19b6176
+// - id: 28
+//   name: Latasha Carroway Quarles
+//   position: Justice of the Peace, Bell County Precinct 4, Place 2 (candidate)
+//   office: Bell JP P4 Place 2
+//   jurisdiction: Bell County
+//   status: candidate
+//   party: DEM
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/DrQuarlesforJP4/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Judicial
+//   office_group_key: Bell JP P4 Place 2
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Beatrice Cox
+//   office_opponents_platform_key_facts:
+//   - Biography. Ballotpedia did not receive biographical information for this candidate.
+//     Elections. Democratic primary. Democratic primary ...
+//   - Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on
+//     the Killeen City Council, and LaTasha Quarles, who is a veteran ...
+//   - Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas,
+//     candidate 2026).
+//   headshot_url: https://fineartamerica.com/images/artistlogos/beatrice-cox-1714984374-medium.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.facebook.com/GrizzysHoodNews/posts/court-records-reveal-that-frank-steven-demo-from-spring-branch-has-been-charged-/1333301018156382/
+//   linkedin_url: https://www.linkedin.com/in/latashaquarles
+// - id: 29
+//   name: Nicola J. James
+//   position: Justice of the Peace, Bell County Precinct 4, Place 2 (candidate)
+//   office: Bell JP P4 Place 2
+//   jurisdiction: Bell County
+//   status: candidate
+//   party: DEM
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/kdhnews/posts/three-candidates-have-filed-for-justice-of-the-peace-precinct-4-place-2-in-bell-/1457676362973180/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Judicial
+//   office_group_key: Bell JP P4 Place 2
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Beatrice Cox
+//   office_opponents_platform_key_facts:
+//   - Biography. Ballotpedia did not receive biographical information for this candidate.
+//     Elections. Democratic primary. Democratic primary ...
+//   - Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on
+//     the Killeen City Council, and LaTasha Quarles, who is a veteran ...
+//   - Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas,
+//     candidate 2026).
+//   headshot_url: https://fineartamerica.com/images/artistlogos/beatrice-cox-1714984374-medium.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/james4txjustice/
+//   linkedin_url: https://kdhnews.com/harker_heights_herald/community/judge-nicola-james-to-seek-reelection-to-bell-county-precinct-4-place-2-jp-post/article_568ac374-58ea-4a72-b260-65987c3ee881.html
+// - id: 30
+//   name: Jessica A. Gonzalez
+//   position: Justice of the Peace, Bell County Precinct 4, Place 2 (candidate)
+//   office: Bell JP P4 Place 2
+//   jurisdiction: Bell County
+//   status: candidate
+//   party: DEM
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/repjessicagonzalez/
+//   website_url: null
+//   notes: Not necessarily the same person as Killeen Council D1 Jessica Gonzalez.
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Judicial
+//   office_group_key: Bell JP P4 Place 2
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Beatrice Cox
+//   office_opponents_platform_key_facts:
+//   - Biography. Ballotpedia did not receive biographical information for this candidate.
+//     Elections. Democratic primary. Democratic primary ...
+//   - Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on
+//     the Killeen City Council, and LaTasha Quarles, who is a veteran ...
+//   - Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas,
+//     candidate 2026).
+//   headshot_url: https://fineartamerica.com/images/artistlogos/beatrice-cox-1714984374-medium.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/p/DU6yQ0ckjUF/
+//   linkedin_url: null
+// - id: 17
+//   name: Brad Buckley
+//   position: Texas State Representative, House District 54
+//   office: State House TX-54
+//   jurisdiction: Texas
+//   status: incumbent
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/bradbuckleyfortexas/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: State House TX-54
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Brad Buckley
+//   office_opponents_platform_key_facts:
+//   - I believe campaigns should be grounded in truth. My opponent has repeatedly claimed
+//     she has influenced education-based legislation in Texas.
+//   - I want to help fight for a strong public education system where educators are
+//     not worried about having to buy things out of their own pockets.
+//   - Bell County is one county that has seen a low voter turnout over the last several
+//     years. However, with a strong turnout, they could quickly flip ...
+//   headshot_url: https://house.texas.gov/images/members/3585.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: null
+//   linkedin_url: https://www.linkedin.com/in/cash-rugely-363133285
+// - id: 18
+//   name: Dawn Richardson
+//   position: Texas State Representative, House District 54 (candidate)
+//   office: State House TX-54
+//   jurisdiction: Texas
+//   status: candidate
+//   party: DEM
+//   election_phase: primary_2026
+//   FEC: 'no'
+//   facebook_url: null
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: State House TX-54
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Brad Buckley
+//   office_opponents_platform_key_facts:
+//   - I believe campaigns should be grounded in truth. My opponent has repeatedly claimed
+//     she has influenced education-based legislation in Texas.
+//   - I want to help fight for a strong public education system where educators are
+//     not worried about having to buy things out of their own pockets.
+//   - Bell County is one county that has seen a low voter turnout over the last several
+//     years. However, with a strong turnout, they could quickly flip ...
+//   headshot_url: https://house.texas.gov/images/members/3585.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/anewdawnfortexas/
+//   linkedin_url: https://www.linkedin.com/in/dawn-richardson-a3ba5214
+// - id: 16
+//   name: Pete Flores
+//   position: Texas State Senator, District 24
+//   office: State Senate TX-24
+//   jurisdiction: Texas
+//   status: incumbent
+//   party: REP
+//   election_phase: general_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/PeteFloresTX/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: State Senate TX-24
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Pete Flores
+//   office_opponents_platform_key_facts:
+//   - '... key issues in Texas'' 2024 election. Texan voters will have ... Will pro-school
+//     voucher candidates gain power of the Texas Legislature?'
+//   - Voters head to the polls on Tuesday in Arkansas, North Carolina and Texas. It's
+//     in the Lone Star State where competitive races on both sides ...
+//   - Senior reporter Teresa Woodard takes a look at the candidates positions on Reproductive
+//     Rights.
+//   headshot_url: https://senate.texas.gov/members/d24/img/Flores_86-0634D-001-web.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/peteflores_tx/
+//   linkedin_url: https://senate.texas.gov/member.php?d=24
+// - id: 1
+//   name: Roger Williams
+//   position: US Representative, Texas Congressional District 31
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: incumbent
+//   party: REP
+//   election_phase: general_2026
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/
+//   website_url: null
+//   notes: Incumbent per U.S. House; not listed as TX-31 filer in texas_candidates.csv
+//     export.
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/reprwilliams/
+//   linkedin_url: https://www.linkedin.com/posts/nsbaadvocate_sbc-2025-representative-roger-williams-activity-7293626336168820737-xBYJ
+// - id: 2
+//   name: William P. Abel
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/groups/1722046241675118/posts/2007716099774796/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: The Tribune is committed to full transparency
+//     into our funding. Below you can see total donations from this calendar year and
+//     gifts pledged through the end of ...
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/reel/DVbdXM0iMkO/
+//   linkedin_url: https://www.linkedin.com/in/will-abel-055a1010
+// - id: 3
+//   name: David Lee Berry
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/KCBDNewsChannel11/posts/meet-the-candidates-part-two-there-are-seven-candidates-hoping-to-earn-your-vote/1371321371695185/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: Incumbent John Carter is up for election in Texas'
+//     31st Congressional District in 2026. This race is rated as Solid R. We estimate
+//     that $2.12M has been ...
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/p/DQupCPKib5S/
+//   linkedin_url: null
+// - id: 4
+//   name: John R. Carter
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/
+//   website_url: null
+//   notes: FEC marks INCUMBENT for TX-31 in this CSV; cross-check with current seated
+//     member.
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: 'NOTE: All the numbers on this page are for the
+//     2023 - 2024 election cycle and based on Federal Election Commission data released
+//     electronically on 09/16/25 for ...'
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.savephr.org/
+//   linkedin_url: https://www.linkedin.com/in/matthew-key-460b48a3?trk=pub-pbmap
+// - id: 5
+//   name: Steven Clay Dowell Jr.
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: null
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: "2024 Races \xB7 Princess Vlandamir (Washington\
+//     \ Senate) \xB7 Michael A Brown (District of Columbia District 00) \xB7 Andrew\
+//     \ Aasen (Oregon District 05) \xB7 Chad Abbey (Texas ..."
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://stevendowell.com/
+//   linkedin_url: https://stevendowell.com/
+// - id: 6
+//   name: Justin Early
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: DEM
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/wearemarchon/posts/stuart-whitlow-for-congress-is-our-pick-for-us-house-tx-31stuart-whitlow-is-a-fi/1341895734645553/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: John Cornyn, Ken Paxton and Wesley Hunt are the
+//     Republicans vying for the job. Jasmine Crockett and James Talarico are the Democrats
+//     ...
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.facebook.com/WhitlowForCongress/mentions/
+//   linkedin_url: https://communityimpact.com/austin/georgetown/election/2026/01/28/qa-hear-from-the-democratic-candidates-running-for-us-house-district-31/
+// - id: 7
+//   name: Abhiram Garapati
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/groups/1722046241675118/posts/2007714723108267/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: 'Candidate for House Texas - 31 ID: H0TX31030
+//     REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary.
+//     About this candidate.'
+//   largest_financial_supporter_work_for: null
+//   instagram_url: null
+//   linkedin_url: https://www.linkedin.com/in/abhiram-garapati-58b5b2180
+// - id: 8
+//   name: Valentina Gomez Noriega
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/groups/950642862921772/posts/1618133492839369/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: 'Candidate for House Texas - 31 ID: H6TX31078
+//     REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary.
+//     About this candidate.'
+//   largest_financial_supporter_work_for: null
+//   instagram_url: null
+//   linkedin_url: https://ballotpedia.org/Valentina_Gomez_Noriega
+// - id: 9
+//   name: Raymond H. Hamden II
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/470924206103859/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: "HAMDEN, RAYMOND H II, Candidate for House Texas\
+//     \ - 31, ID: H6TX31086, REPUBLICAN PARTY, Financial summary, Election 2026, Time\
+//     \ period: 2025\u20132026."
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/p/DVOy8F4mipb/
+//   linkedin_url: https://www.linkedin.com/in/raymond-hamden-659a3447
+// - id: 10
+//   name: Elvis Arturo Lossa
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/people/Elvis-Lossa-for-Congress-TX-31/61584903837276/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: 'Candidate for House Texas - 31 ID: H6TX31177
+//     REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary.
+//     About this candidate.'
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/elvisforcongress/
+//   linkedin_url: https://www.linkedin.com/in/elvis-a-lossa
+// - id: 11
+//   name: Jack McConnell
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/jackfortexas/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: 'NOTE: All the numbers on this page are for the
+//     2019 - 2024 election cycle and based on Federal Election Commission data released
+//     electronically on 09/16/25 for ...'
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/p/DQNP5LoCVYm/
+//   linkedin_url: https://www.linkedin.com/in/jackmcconnell
+// - id: 12
+//   name: Gregory James Stoker
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: GRE
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/greg.stoker.7583/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: 'Greg Stoker for Texas, district 31. # A former
+//     U.S. Army Ranger and neighbor who refuses corporate and foreign-influenced money.
+//     #VoteGreen.'
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/greg.j.stoker/
+//   linkedin_url: null
+// - id: 13
+//   name: Brian Trautner
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: DEM
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/kdhnews/posts/brian-trautner-d-hutto-cannot-sit-on-the-sidelines-any-longer/1288097353264416/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: Contributor, Occupation, Date, Amount, Recipient.
+//     BIANCONI, DAVID WESTERVILLE, OH, Retired, 10/18/24, $25,000, Red Senate PAC. COX,
+//     BOBBY
+//   largest_financial_supporter_work_for: null
+//   instagram_url: null
+//   linkedin_url: https://www.linkedin.com/in/brian-trautner-6a609813b
+// - id: 14
+//   name: Stuart Norman Whitlow
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: DEM
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: OpenSecrets.org geographical data of contributions
+//     to candidates running in the Texas congressional race in 2024. Contributions for
+//     candidates are broken ...
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/p/DVYufOLINEX/
+//   linkedin_url: https://www.linkedin.com/in/stuart-whitlow-18887a10
+// - id: 15
+//   name: Michael Howard Williams
+//   position: US Representative, Texas Congressional District 31 (candidate)
+//   office: US House TX-31
+//   jurisdiction: United States
+//   status: candidate
+//   party: REP
+//   election_phase: primary_2026
+//   FEC: 'yes'
+//   facebook_url: https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/
+//   website_url: null
+//   group_city: ''
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: US House TX-31
+//   office_up_for_election_this_year: true
+//   office_incumbent_name: Roger Williams
+//   office_opponents_platform_key_facts:
+//   - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
+//     A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
+//   - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
+//     H Jr 22 Clinton. Williams, J H 89 Atlantic.
+//   - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
+//     137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
+//   headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
+//   largest_financial_supporter_name: Explore current and historic federal campaign
+//     finance data on the new fec.gov. Look at totals and trends, and see how candidates
+//     and committees raise and ...
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.sanmarcostx.gov/4598/Vision-SMTX-Process
+//   linkedin_url: https://www.linkedin.com/in/michael-williams-008998104
+// - id: 34
+//   name: Ramon Alvarez
+//   position: Killeen City Council, At-Large / Mayor Pro Tem
+//   office: Killeen Council At-Large
+//   jurisdiction: Killeen
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://kdhnews.com/news/local/killeen-councilman-alvarez-calls-rezoning-rejection-mob-rule-in-facebook-post/article_93e9af66-f481-11ef-b85e-a720dd8de45f.html
+//   website_url: null
+//   group_city: Killeen
+//   group_state: Texas
+//   group_function: Executive
+//   office_group_key: Killeen Council At-Large
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Ramon Alvarez
+//   office_opponents_platform_key_facts:
+//   - "What are your thoughts on the mayor's decision to step down and the potential\
+//     \ impact on the city council? Dennis Drury \u25BB Killeen TX Citizen ..."
+//   - FALSE AND MISLEADING INFORMATION. (City of Killeen, Texas) The city manager, mayor,
+//     and city council are promoting on social media a ...
+//   - With Early Voting beginning at 8 a.m. on Monday, the Telegram contacted state
+//     and local politicians for their views on the 17 statewide ...
+//   headshot_url: https://boxrec.com/images/thumb/1/1f/Ramon_Alvarez.jpg/200px-Ramon_Alvarez.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: null
+//   linkedin_url: https://kdhnews.com/news/local/killeen-candidate-to-host-meet-and-greet-event-march-27/article_5821dcf8-883b-11eb-8c61-2bf5a1dc7bff.html
+// - id: 32
+//   name: Debbie Nash-King
+//   position: Mayor, City of Killeen
+//   office: Killeen Mayor
+//   jurisdiction: Killeen
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi/1333794652117779/
+//   website_url: null
+//   group_city: Killeen
+//   group_state: Texas
+//   group_function: Executive
+//   office_group_key: Killeen Mayor
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Debbie Nash-King
+//   office_opponents_platform_key_facts:
+//   - The filing period for the May 2 election ended Friday, with races in Killeen looking
+//     especially competitive.
+//   - The Killeen Charter Review Committee, tasked with making recommendations to the
+//     Killeen City Council for changes to the city charter, ...
+//   - "... video series leading up to the May 2, 2026 election. | Killeen Daily Herald\
+//     \ | Facebook. Log in \xB7 Video. \U000F1858. Killeen Daily Herald. Feb 6\U000F078B\
+//     \U000F17E0. \U000F312B ..."
+//   headshot_url: https://killeen.legistar.com/View.ashx?M=P&ID=182954&GUID=6A9498B8-EA7B-450B-B104-B7C79AF9BE2C
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/p/CjYNxkjMv3e/
+//   linkedin_url: https://www.linkedin.com/posts/ericvonfranklin_killeen-mayor-prioritizes-relationship-with-activity-7048617639597772800-eiE0
+// - id: 33
+//   name: Jose Segarra
+//   position: Killeen City Council, At-Large
+//   office: Killeen Council At-Large
+//   jurisdiction: Killeen
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/
+//   website_url: null
+//   group_city: Killeen
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: Killeen Council At-Large
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Ramon Alvarez
+//   office_opponents_platform_key_facts:
+//   - "What are your thoughts on the mayor's decision to step down and the potential\
+//     \ impact on the city council? Dennis Drury \u25BB Killeen TX Citizen ..."
+//   - FALSE AND MISLEADING INFORMATION. (City of Killeen, Texas) The city manager, mayor,
+//     and city council are promoting on social media a ...
+//   - With Early Voting beginning at 8 a.m. on Monday, the Telegram contacted state
+//     and local politicians for their views on the 17 statewide ...
+//   headshot_url: https://boxrec.com/images/thumb/1/1f/Ramon_Alvarez.jpg/200px-Ramon_Alvarez.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://kdhnews.com/news/local/mobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday/article_174d55fb-3d0a-4eb1-a262-5fba192fec21.html
+//   linkedin_url: https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html
+// - id: 35
+//   name: Riakos Adams
+//   position: Killeen City Council, At-Large
+//   office: Killeen Council At-Large
+//   jurisdiction: Killeen
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/kdhnews/posts/beverly-williams-an-army-veteran-filed-for-the-killeen-city-council-at-large-pos/1428419932565490/
+//   website_url: null
+//   group_city: Killeen
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: Killeen Council At-Large
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Ramon Alvarez
+//   office_opponents_platform_key_facts:
+//   - "What are your thoughts on the mayor's decision to step down and the potential\
+//     \ impact on the city council? Dennis Drury \u25BB Killeen TX Citizen ..."
+//   - FALSE AND MISLEADING INFORMATION. (City of Killeen, Texas) The city manager, mayor,
+//     and city council are promoting on social media a ...
+//   - With Early Voting beginning at 8 a.m. on Monday, the Telegram contacted state
+//     and local politicians for their views on the 17 statewide ...
+//   headshot_url: https://boxrec.com/images/thumb/1/1f/Ramon_Alvarez.jpg/200px-Ramon_Alvarez.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://kdhnews.com/news/local/mobile-lemonade-and-coffee-bar-to-host-grand-opening-saturday/article_174d55fb-3d0a-4eb1-a262-5fba192fec21.html
+//   linkedin_url: https://kdhnews.com/centerforpolitics/two-people-file-for-killeen-council-at-large-seat/article_3a259c4a-cc5c-11ee-aa47-7f41d5bacb8c.html
+// - id: 36
+//   name: Jessica Gonzalez
+//   position: Killeen City Council, District 1
+//   office: Killeen Council D1
+//   jurisdiction: Killeen
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/jessicag4mekilleen/
+//   website_url: null
+//   group_city: Killeen
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: Killeen Council D1
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Jessica Gonzalez
+//   office_opponents_platform_key_facts:
+//   - Deb For Long Beach I want to publicly thank you for taking the time to chat with
+//     me in person about the law suit. The FPPC process is in ...
+//   - The purpose of this addendum is to attach a comment letter from the owner of Anthony's.
+//     Fish Grotto, which is the existing restaurant that ...
+//   - 'By Mr. RABAUT: Resolution of the Senate of the State of Michigan requesting the
+//     Fed- eral Government to give consideration to the. Hearst plan ...'
+//   headshot_url: https://assembly.state.ny.us/write/upload/member_files/034/header_headshot/034.png?hhst=1662743506
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.instagram.com/p/DIwdbecTyk8/
+//   linkedin_url: https://www.linkedin.com/in/jessica-gonzalez-1871243a6
+// - id: 37
+//   name: Joseph Solomon
+//   position: Killeen City Council, District 2
+//   office: Killeen Council D2
+//   jurisdiction: Killeen
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/kdhnews/posts/councilman-joseph-solomon-filed-to-run-for-mayor-of-city-of-killeen-friday-in-th/1442592117814938/
+//   website_url: null
+//   group_city: Killeen
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: Killeen Council D2
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Joseph Solomon
+//   office_opponents_platform_key_facts:
+//   - Deb For Long Beach I want to publicly thank you for taking the time to chat with
+//     me in person about the law suit. The FPPC process is in ...
+//   - We ask all federal, state, and local candidates to complete the Candidate Connection
+//     questionnaire and share what motivates them on political and personal ...
+//   - The Legislature acknowledges that certain municipalities may have additional qualifications
+//     for candidates. The Circuit Court judge failed to ...
+//   headshot_url: https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044627340358
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://www.tdtnews.com/news/region/article_dc7edae3-1588-5882-9028-434d1fd0521b.html
+//   linkedin_url: https://www.linkedin.com/in/joe-solomon-solomon-1162b3114
+// - id: 38
+//   name: Nina Cobb
+//   position: Killeen City Council, District 3
+//   office: Killeen Council D3
+//   jurisdiction: Killeen
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/kdhnews/posts/since-the-start-of-the-filing-period-on-march-4-three-people-have-filed-to-run-f/1475216821219134/
+//   website_url: null
+//   group_city: Killeen
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: Killeen Council D3
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Nina Cobb
+//   office_opponents_platform_key_facts:
+//   - Deb For Long Beach I want to publicly thank you for taking the time to chat with
+//     me in person about the law suit. The FPPC process is in ...
+//   - Since the start of the filing period on March 4, three people have filed to run
+//     for former councilwoman Nina Cobb's District 3 seat on the ...
+//   - "3 Killeen City Council seats sit empty ahead of May special election. 57 views\
+//     \ \xB7 6 days ago ...more. 25 News KXXV. 219K. Subscribe. 3. Share."
+//   headshot_url: https://fineartconnoisseur.com/wp-content/uploads/2022/08/1_Walker_WP.jpg
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: null
+//   linkedin_url: https://www.killeentexas.gov/directory.aspx?EID=140
+// - id: 39
+//   name: Anthony Kendrick
+//   position: Killeen City Council, District 4
+//   office: Killeen Council D4
+//   jurisdiction: Killeen
+//   status: incumbent
+//   party: null
+//   election_phase: seated
+//   FEC: 'no'
+//   facebook_url: https://www.facebook.com/61573556377934/photos/
+//   website_url: null
+//   group_city: Killeen
+//   group_state: Texas
+//   group_function: Legislative
+//   office_group_key: Killeen Council D4
+//   office_up_for_election_this_year: false
+//   office_incumbent_name: Anthony Kendrick
+//   office_opponents_platform_key_facts:
+//   - The clash between Sen. John Cornyn and Attorney General Ken Paxton in the Texas
+//     GOP is heating up. And Texas Democrats Sarah Eckhardt and ...
+//   - 'OCR: Do you really think this District 4 candidate is an independent thinker,
+//     or just another puppet for the mayor? How can we really trust ...'
+//   - "OCR: WHEN CITY COUNCIL TURNS INTO REALITY \u03BD... THE RECKLESS & ARROGANT EDITION\
+//     \ Columbus Ga City Council olumbusGaCiyCunciMetin1-1-2 Meeting ..."
+//   headshot_url: https://www.killeentexas.gov/ImageRepository/Document?documentID=12239
+//   largest_financial_supporter_name: null
+//   largest_financial_supporter_work_for: null
+//   instagram_url: https://archive.org/stream/The_Austin_Chronicle-2014-12-19/The_Austin_Chronicle-2014-12-19_djvu.txt
+//   linkedin_url: https://www.linkedin.com/in/anthony-kendrick-814576368
+#ifndef CANDIDATES_C
 #include <stdio.h>
-#include "candidates.h"
+#include <stdlib.h>
 
 int main(void) {
-    const char *cash1 = "$2,691,075.95";
-    const char *cash2 = "$10,494.74";
-    const char *cash3 = "$0.00";
+    const char *path = "./candidates.c";
+    FILE *fp = fopen(path, "r");
 
-    printf("<p class=\"intro-text\">Candidates for %s. Cash-on-hand as reported. To change this content, edit <code>candidates.h</code> and <code>candidates.c</code> in <code>candidates_c/</code> and recompile.</p>\n", CANDIDATES_DISTRICT);
-    printf("<table class=\"candidates-table\" aria-label=\"Candidates and cash on hand\">\n");
-    printf("<thead><tr><th>Candidate</th><th>Cash on hand</th></tr></thead>\n<tbody>\n");
-    printf("<tr><td>%s</td><td>%s</td></tr>\n", CANDIDATE_1_NAME, cash1);
-    printf("<tr><td>%s</td><td>%s</td></tr>\n", CANDIDATE_2_NAME, cash2);
-    printf("<tr><td>%s</td><td>%s</td></tr>\n", CANDIDATE_3_NAME, cash3);
-    printf("</tbody></table>\n");
+    if (!fp) {
+        fprintf(stderr, "Error: unable to open %s\n", path);
+        return 1;
+    }
+
+    int ch;
+    while ((ch = fgetc(fp)) != EOF) {
+        if (putchar(ch) == EOF) {
+            fclose(fp);
+            return 1;
+        }
+    }
+
+    fclose(fp);
     return 0;
 }
+#ifdef CANDIDATES_C

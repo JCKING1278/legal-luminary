@@ -46,6 +46,8 @@ plugins:
 navigation:
   - title: Home
     url: /
+  - title: Fort Hood
+    url: /fort-cavazos/
   - title: Texas Law
     url: /texas-law/
   - title: Bell County
@@ -61,6 +63,8 @@ navigation:
   - title: Resources
     url: /resources/
     children:
+      - title: Fort Cavazos (Fort Hood)
+        url: /fort-cavazos/
       - title: Bell County Odyssey Portal
         url: https://justice.bellcounty.texas.gov/PublicPortal/
         alt: Search Court Hearings and Case Records
@@ -159,7 +163,12 @@ include:
 # Defaults for pages
 defaults:
   - scope:
-      path: ""
+      path: "_pages"
       type: "pages"
     values:
       layout: "default"
+      permalink: /:name/
+  - scope:
+      type: "candidates"
+    values:
+      layout: "candidates"

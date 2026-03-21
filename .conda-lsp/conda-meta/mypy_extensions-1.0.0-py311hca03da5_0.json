@@ -1,0 +1,113 @@
+{
+  "name": "mypy_extensions",
+  "version": "1.0.0",
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "mypy_extensions-1.0.0-py311hca03da5_0.conda",
+  "md5": "ac7e5aaaa9875029d989209e2cf2922a",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/mypy_extensions-1.0.0-py311hca03da5_0.conda",
+  "sha256": "28ac106f098510bf19ff107055389ef83f9e034d8d7849dcc7a2bf6f4b962a57",
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1695131047000,
+  "size": 13968,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/mypy_extensions-1.0.0-py311hca03da5_0.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/mypy_extensions-1.0.0-py311hca03da5_0",
+  "files": [
+    "lib/python3.11/site-packages/__pycache__/mypy_extensions.cpython-311.pyc",
+    "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/LICENSE",
+    "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/mypy_extensions.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/__pycache__/mypy_extensions.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d29d9b2e8fa45dc776925e95ae50f58ac261a05793c26cef9824d2f305e2baa8",
+        "size_in_bytes": 9976,
+        "sha256_in_prefix": "d29d9b2e8fa45dc776925e95ae50f58ac261a05793c26cef9824d2f305e2baa8"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "a50450da1d53cd777b80ced77c58ff96abe0ccd879706bd142c3ec20e245f0b4",
+        "size_in_bytes": 1204,
+        "sha256_in_prefix": "a50450da1d53cd777b80ced77c58ff96abe0ccd879706bd142c3ec20e245f0b4"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "617d60dffb00826a22f5662114d8111d02fa29ffb1ec67e39d6814084ef75486",
+        "size_in_bytes": 1134,
+        "sha256_in_prefix": "617d60dffb00826a22f5662114d8111d02fa29ffb1ec67e39d6814084ef75486"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8528b8d515d32f17187bf96640ba82a1bcf1a6111d239cdb52d9c964863a62da",
+        "size_in_bytes": 850,
+        "sha256_in_prefix": "8528b8d515d32f17187bf96640ba82a1bcf1a6111d239cdb52d9c964863a62da"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92,
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "79d20e89291a833d5ef3334f8f04f2ac7c0aba934aabedb1f6b36a1252844a92",
+        "size_in_bytes": 146,
+        "sha256_in_prefix": "79d20e89291a833d5ef3334f8f04f2ac7c0aba934aabedb1f6b36a1252844a92"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "4e5967196a83a053212b24e25fda5ea05d550b5c269118082c775e6e7b9b11bf",
+        "size_in_bytes": 16,
+        "sha256_in_prefix": "4e5967196a83a053212b24e25fda5ea05d550b5c269118082c775e6e7b9b11bf"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mypy_extensions.py",
+        "path_type": "hardlink",
+        "sha256": "8ba98ff3eeb4379923d56ede6ef3db53801e18e4a987f7a41cb90c6dfa0ad9ad",
+        "size_in_bytes": 6227,
+        "sha256_in_prefix": "8ba98ff3eeb4379923d56ede6ef3db53801e18e4a987f7a41cb90c6dfa0ad9ad"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/mypy_extensions-1.0.0-py311hca03da5_0",
+    "type": 1
+  }
+}

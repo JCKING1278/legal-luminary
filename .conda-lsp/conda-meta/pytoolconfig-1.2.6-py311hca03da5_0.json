@@ -1,0 +1,322 @@
+{
+  "name": "pytoolconfig",
+  "version": "1.2.6",
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "pytoolconfig-1.2.6-py311hca03da5_0.conda",
+  "md5": "afbb3abb4c05e97fae248a85709d9c56",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/pytoolconfig-1.2.6-py311hca03da5_0.conda",
+  "sha256": "8f8843a5feb437128e6dfa3eda9bef3fad4ee9d8dd1642fc07f6f41454aa12cd",
+  "depends": [
+    "packaging >=22.0",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "constrains": [],
+  "license": "LGPL-3.0-or-later",
+  "timestamp": 1701728829000,
+  "size": 37901,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/pytoolconfig-1.2.6-py311hca03da5_0.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/pytoolconfig-1.2.6-py311hca03da5_0",
+  "files": [
+    "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/METADATA",
+    "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/RECORD",
+    "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/WHEEL",
+    "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/licenses/LICENSE",
+    "lib/python3.11/site-packages/pytoolconfig/__init__.py",
+    "lib/python3.11/site-packages/pytoolconfig/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/__pycache__/_version.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/__pycache__/documentation.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/__pycache__/fields.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/__pycache__/pytoolconfig.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/__pycache__/types.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/__pycache__/universal_config.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/__pycache__/utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/_version.py",
+    "lib/python3.11/site-packages/pytoolconfig/documentation.py",
+    "lib/python3.11/site-packages/pytoolconfig/fields.py",
+    "lib/python3.11/site-packages/pytoolconfig/py.typed",
+    "lib/python3.11/site-packages/pytoolconfig/pytoolconfig.py",
+    "lib/python3.11/site-packages/pytoolconfig/sources/__init__.py",
+    "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/ini.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/pyproject.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/pytool.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/setup_cfg.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/source.cpython-311.pyc",
+    "lib/python3.11/site-packages/pytoolconfig/sources/ini.py",
+    "lib/python3.11/site-packages/pytoolconfig/sources/pyproject.py",
+    "lib/python3.11/site-packages/pytoolconfig/sources/pytool.py",
+    "lib/python3.11/site-packages/pytoolconfig/sources/setup_cfg.py",
+    "lib/python3.11/site-packages/pytoolconfig/sources/source.py",
+    "lib/python3.11/site-packages/pytoolconfig/types.py",
+    "lib/python3.11/site-packages/pytoolconfig/universal_config.py",
+    "lib/python3.11/site-packages/pytoolconfig/utils.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f914d27fb57944f5bfcf1fe9b7f0af332a76f147accf3b7d5df095fb117123bc",
+        "size_in_bytes": 1509,
+        "sha256_in_prefix": "f914d27fb57944f5bfcf1fe9b7f0af332a76f147accf3b7d5df095fb117123bc"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "fee01e8e543a9335408944c4a189fbcc349c5a4f3508f10ca18e618e52f356d1",
+        "size_in_bytes": 2675,
+        "sha256_in_prefix": "fee01e8e543a9335408944c4a189fbcc349c5a4f3508f10ca18e618e52f356d1"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "d43e1dfbf383b3394aebea85c9b73904b17e66166f79efae29587684b6b72087",
+        "size_in_bytes": 90,
+        "sha256_in_prefix": "d43e1dfbf383b3394aebea85c9b73904b17e66166f79efae29587684b6b72087"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "79c74635760828d5ced5b36eac83b6a16393a811a22c609b16aed97e26f2f589",
+        "size_in_bytes": 143,
+        "sha256_in_prefix": "79c74635760828d5ced5b36eac83b6a16393a811a22c609b16aed97e26f2f589"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig-1.2.6.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118",
+        "size_in_bytes": 7652,
+        "sha256_in_prefix": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "929c3c04b90158dee24dca7b9829aff335916cd566e4f93b7aa8e827d72d296a",
+        "size_in_bytes": 294,
+        "sha256_in_prefix": "929c3c04b90158dee24dca7b9829aff335916cd566e4f93b7aa8e827d72d296a"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "56b4986de5144491bd8bd80227a2c34f4de14b39cee3bec3a922f7656d5ec114",
+        "size_in_bytes": 558,
+        "sha256_in_prefix": "56b4986de5144491bd8bd80227a2c34f4de14b39cee3bec3a922f7656d5ec114"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/__pycache__/_version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a6b6489769acd4e61b8e37f63c575a82bfe013e3e1314652c1da3fd141b441a0",
+        "size_in_bytes": 1123,
+        "sha256_in_prefix": "a6b6489769acd4e61b8e37f63c575a82bfe013e3e1314652c1da3fd141b441a0"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/__pycache__/documentation.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "23e4da269b61dd47bbfe068abe30b5512f814e21d5f316c0d59212aeb3e301e7",
+        "size_in_bytes": 9179,
+        "sha256_in_prefix": "23e4da269b61dd47bbfe068abe30b5512f814e21d5f316c0d59212aeb3e301e7"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/__pycache__/fields.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "66da3e79469d24c5be542acf9b17c9d0c0c94ac77c34d96f1af51fc7f116d07a",
+        "size_in_bytes": 4168,
+        "sha256_in_prefix": "66da3e79469d24c5be542acf9b17c9d0c0c94ac77c34d96f1af51fc7f116d07a"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/__pycache__/pytoolconfig.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f7478374e0590225a12509c0746cfb1e050c7ae7dd148d4363de7c6bb8dbad05",
+        "size_in_bytes": 6328,
+        "sha256_in_prefix": "f7478374e0590225a12509c0746cfb1e050c7ae7dd148d4363de7c6bb8dbad05"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/__pycache__/types.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f84d915079b857502433955e4b4581b2fad1fc244f107e99185f75b77fde115a",
+        "size_in_bytes": 2097,
+        "sha256_in_prefix": "f84d915079b857502433955e4b4581b2fad1fc244f107e99185f75b77fde115a"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/__pycache__/universal_config.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff133a0b432416a0b9f57adb8b21b7e199241f07cae362f549cc53d556f1e4c3",
+        "size_in_bytes": 2097,
+        "sha256_in_prefix": "ff133a0b432416a0b9f57adb8b21b7e199241f07cae362f549cc53d556f1e4c3"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6889e12538475fba97701f898ec141f3f6c9ba33cf7704212baae20abd90da26",
+        "size_in_bytes": 5969,
+        "sha256_in_prefix": "6889e12538475fba97701f898ec141f3f6c9ba33cf7704212baae20abd90da26"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/_version.py",
+        "path_type": "hardlink",
+        "sha256": "85693f39d4e85e588c07cd09957a162744a848db1aa2d9c435372df8271ed476",
+        "size_in_bytes": 400,
+        "sha256_in_prefix": "85693f39d4e85e588c07cd09957a162744a848db1aa2d9c435372df8271ed476"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/documentation.py",
+        "path_type": "hardlink",
+        "sha256": "20751424d7c29965925f63a9d58d14dc4cfee9c16998d85dbfaf4782b3bed6b0",
+        "size_in_bytes": 5875,
+        "sha256_in_prefix": "20751424d7c29965925f63a9d58d14dc4cfee9c16998d85dbfaf4782b3bed6b0"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/fields.py",
+        "path_type": "hardlink",
+        "sha256": "bd3e11564ae437e834b9b9b6a3235ebc5e8e59227b4dc2c80ff7807f12719242",
+        "size_in_bytes": 3515,
+        "sha256_in_prefix": "bd3e11564ae437e834b9b9b6a3235ebc5e8e59227b4dc2c80ff7807f12719242"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/pytoolconfig.py",
+        "path_type": "hardlink",
+        "sha256": "0f60dfecb63d6dc9d8cfc508e9798fda562cf123e36e7077adaf3be946c186a5",
+        "size_in_bytes": 4676,
+        "sha256_in_prefix": "0f60dfecb63d6dc9d8cfc508e9798fda562cf123e36e7077adaf3be946c186a5"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "43984fb98811b85dff9eca43bc79ff23156a81f2eb39400d09fc026ab4805abe",
+        "size_in_bytes": 297,
+        "sha256_in_prefix": "43984fb98811b85dff9eca43bc79ff23156a81f2eb39400d09fc026ab4805abe"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "27f7ef39fbba96682c16afaf627cbdbea482db5d5da5fdc91a7142a23bdaac7d",
+        "size_in_bytes": 620,
+        "sha256_in_prefix": "27f7ef39fbba96682c16afaf627cbdbea482db5d5da5fdc91a7142a23bdaac7d"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/ini.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ffb3890e2e7de48ec57485c7c17ce4454780d2dd776b6598f47d28b75e4dbec2",
+        "size_in_bytes": 3877,
+        "sha256_in_prefix": "ffb3890e2e7de48ec57485c7c17ce4454780d2dd776b6598f47d28b75e4dbec2"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/pyproject.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "289baf28f759a4b0913bbb3079a4652e0934a40977fc2bcbacbbf53748cfb39f",
+        "size_in_bytes": 5162,
+        "sha256_in_prefix": "289baf28f759a4b0913bbb3079a4652e0934a40977fc2bcbacbbf53748cfb39f"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/pytool.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8fb7c35cc307e0b57dab37171330217abc9ae25c88997fffb04a15067001dfb0",
+        "size_in_bytes": 1990,
+        "sha256_in_prefix": "8fb7c35cc307e0b57dab37171330217abc9ae25c88997fffb04a15067001dfb0"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/setup_cfg.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "05ea26b2ec98703e84cff1cac05b8e1dc4346438b95d65c71f08947cbd1022ae",
+        "size_in_bytes": 1622,
+        "sha256_in_prefix": "05ea26b2ec98703e84cff1cac05b8e1dc4346438b95d65c71f08947cbd1022ae"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/__pycache__/source.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0ad42091bc7aefee0dd5d44984a99b68a4e708e5ffd003b3c9e6ad59fe9f3749",
+        "size_in_bytes": 1542,
+        "sha256_in_prefix": "0ad42091bc7aefee0dd5d44984a99b68a4e708e5ffd003b3c9e6ad59fe9f3749"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/ini.py",
+        "path_type": "hardlink",
+        "sha256": "d5d9da964924bd9bd2e34b2a228adad5ea025937a907508dbd37dfb77de17fda",
+        "size_in_bytes": 2394,
+        "sha256_in_prefix": "d5d9da964924bd9bd2e34b2a228adad5ea025937a907508dbd37dfb77de17fda"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/pyproject.py",
+        "path_type": "hardlink",
+        "sha256": "0ae73a05cbfd388cef261be010c41837f728e8c4ffdc60d46aa1d8a17f969374",
+        "size_in_bytes": 3837,
+        "sha256_in_prefix": "0ae73a05cbfd388cef261be010c41837f728e8c4ffdc60d46aa1d8a17f969374"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/pytool.py",
+        "path_type": "hardlink",
+        "sha256": "bffa44483dea8e56f327b884dc0bcc60c78a6b6fddc28ccf756a5a755562b6c3",
+        "size_in_bytes": 1181,
+        "sha256_in_prefix": "bffa44483dea8e56f327b884dc0bcc60c78a6b6fddc28ccf756a5a755562b6c3"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/setup_cfg.py",
+        "path_type": "hardlink",
+        "sha256": "c9dc867c5b118e7044cafe9d9df1d7f3fea6c66f4298f8be761eef49abc7c6d4",
+        "size_in_bytes": 867,
+        "sha256_in_prefix": "c9dc867c5b118e7044cafe9d9df1d7f3fea6c66f4298f8be761eef49abc7c6d4"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/sources/source.py",
+        "path_type": "hardlink",
+        "sha256": "94ff4c2a8a67f1028aab42ab224dc353e09585752e806f9a84debe087be698c3",
+        "size_in_bytes": 882,
+        "sha256_in_prefix": "94ff4c2a8a67f1028aab42ab224dc353e09585752e806f9a84debe087be698c3"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/types.py",
+        "path_type": "hardlink",
+        "sha256": "52111b972c61e52edb1aeadf58429501aa95def9e976005ef4adf1f96cfa798d",
+        "size_in_bytes": 1128,
+        "sha256_in_prefix": "52111b972c61e52edb1aeadf58429501aa95def9e976005ef4adf1f96cfa798d"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/universal_config.py",
+        "path_type": "hardlink",
+        "sha256": "1627b478cd3ffc4ce514ce82d377e45d9c09e2e5f3f07828c6102b35c637edd4",
+        "size_in_bytes": 1305,
+        "sha256_in_prefix": "1627b478cd3ffc4ce514ce82d377e45d9c09e2e5f3f07828c6102b35c637edd4"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pytoolconfig/utils.py",
+        "path_type": "hardlink",
+        "sha256": "71c564237083ccdced82898a3efd1166b63386d10caefec66926215f8eaa6ec7",
+        "size_in_bytes": 3868,
+        "sha256_in_prefix": "71c564237083ccdced82898a3efd1166b63386d10caefec66926215f8eaa6ec7"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/pytoolconfig-1.2.6-py311hca03da5_0",
+    "type": 1
+  }
+}

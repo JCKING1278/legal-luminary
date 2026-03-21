@@ -1,0 +1,341 @@
+{
+  "search_metadata": {
+    "id": "69bb5e5c868180fcffab8a24",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Du6koGy2AUaVmM5DRJsFYQ/69bb5e5c868180fcffab8a24.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Du6koGy2AUaVmM5DRJsFYQ/69bb5e5c868180fcffab8a24.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:28 UTC",
+    "processed_at": "2026-03-19 02:24:28 UTC",
+    "google_url": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&oq=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Du6koGy2AUaVmM5DRJsFYQ/69bb5e5c868180fcffab8a24.html",
+    "total_time_taken": 1.16
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Debbie Nash-King \"Killeen Mayor\" \"Killeen\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Debbie Nash-King \"Killeen Mayor\" \"Killeen\" Facebook",
+    "total_results": 1590,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Mayor Debbie Nash-King shares a special Black History ...",
+      "link": "https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi/1333794652117779/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi/1333794652117779/&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQFnoECBsQAQ",
+      "displayed_link": "120+ reactions · 4 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo1kGLnpWpMtVunXtQ8oOnjE.png",
+      "snippet": "Killeen Mayor's Involvement in Embezzlement Scandal. Profile photo of Killeen. Killeen Resident ▻ Killeen TX Citizen Expressions. 1y · Public ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor's",
+        "Killeen",
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Mayor's Involvement in Embezzlement Scandal. Profile photo of Killeen. Killeen Resident ▻ Killeen TX Citizen Expressions. 1y · Public ...",
+          "source_info_link": "https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi/1333794652117779/",
+          "icon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqox1tizFQIXYvjKxd40CuoWSaEgHaC2FfPetnZCR_Ei8r.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi/1333794652117779/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKilleenTexas%2Fposts%2Fmayor-debbie-nash-king-shares-a-special-black-history-month-message-honoring-thi%2F1333794652117779%2F",
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 2,
+      "title": "BREAKING: The City of Killeen says Mayor Debbie Nash ...",
+      "link": "https://www.facebook.com/FOX44tv/posts/breaking-the-city-of-killeen-says-mayor-debbie-nash-king-will-be-stepping-down-f/1449268787082355/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/FOX44tv/posts/breaking-the-city-of-killeen-says-mayor-debbie-nash-king-will-be-stepping-down-f/1449268787082355/&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQFnoECB4QAQ",
+      "displayed_link": "260+ reactions · 4 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo7_ynLr5lRxOoxwPbuZK1jk.png",
+      "snippet": "Killeen Daily Herald. 2y · Public · Killeen Mayor Debbie Nash-King Wednesday called the situation at the Killeen Housing Authority a “crisis ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen Mayor Debbie Nash",
+        "King",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Daily Herald. 2y · Public · Killeen Mayor Debbie Nash-King Wednesday called the situation at the Killeen Housing Authority a “crisis ...",
+          "source_info_link": "https://www.facebook.com/FOX44tv/posts/breaking-the-city-of-killeen-says-mayor-debbie-nash-king-will-be-stepping-down-f/1449268787082355/",
+          "icon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo8f2jTrRucl__2CzPY9wTdR0Pt-JRmD7xDSINQlewJYZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/FOX44tv/posts/breaking-the-city-of-killeen-says-mayor-debbie-nash-king-will-be-stepping-down-f/1449268787082355/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FFOX44tv%2Fposts%2Fbreaking-the-city-of-killeen-says-mayor-debbie-nash-king-will-be-stepping-down-f%2F1449268787082355%2F",
+      "source": "Facebook · KWKT FOX 44"
+    },
+    {
+      "position": 3,
+      "title": "Killeen Mayor Debbie Nash-King announced that she has ...",
+      "link": "https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQFnoECB0QAQ",
+      "displayed_link": "170+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqoyKPpcYSkXzuHtwxvPu8d4Y.png",
+      "snippet": "Killeen Mayor Debbie Nash-King announced that she has filed to run for one of the three at-large Killeen City Council seats in a news release ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor Debbie Nash",
+        "King",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Mayor Debbie Nash-King announced that she has filed to run for one of the three at-large Killeen City Council seats in a news release ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/",
+          "icon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqoxHSMAVbPCF4D_Km_4BhV5CxmsHTN91RDwSRwt2cI2Jf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/killeen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th/1456150003125816/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fkilleen-mayor-debbie-nash-king-announced-that-she-has-filed-to-run-for-one-of-th%2F1456150003125816%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 4,
+      "title": "Mayor Debbie Nash-King sat down with the CTC KNCT ...",
+      "link": "https://www.facebook.com/story.php?story_fbid=1010984274398820&id=100064617702956",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/story.php%3Fstory_fbid%3D1010984274398820%26id%3D100064617702956&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQFnoECB8QAQ",
+      "displayed_link": "6 reactions",
+      "favicon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo7FUdJVN4vrDBzkNNyji6Ic.png",
+      "snippet": "What a wonderful and magical time last night at the city of Killeen Texas tree lighting ceremony with #MayorDebbieNashKing. ... Killeen Mayor Jose Segarra is also ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "MayorDebbieNashKing",
+        "Killeen Mayor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What a wonderful and magical time last night at the city of Killeen Texas tree lighting ceremony with #MayorDebbieNashKing. ... Killeen Mayor Jose Segarra is also ...",
+          "source_info_link": "https://www.facebook.com/story.php?story_fbid=1010984274398820&id=100064617702956",
+          "icon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo5zk4nPfeg-03vWpDWxvH3cZQeW233x7RkLcLg6dsZKN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/story.php?story_fbid=1010984274398820&id=100064617702956&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fstory.php%3Fstory_fbid%3D1010984274398820%26id%3D100064617702956",
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 5,
+      "title": "Debbie Nash-King, Killeen Mayor, MTO members, and AKA YLI",
+      "link": "https://m.facebook.com/61552278985359/photos/122216963438075966/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.facebook.com/61552278985359/photos/122216963438075966/&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQFnoECBoQAQ",
+      "displayed_link": "https://m.facebook.com › photos",
+      "favicon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo47zTkbxUtKoDsO0A4AGiyM.png",
+      "snippet": "Debbie Nash-King, Killeen Mayor, MTO members, and AKA YLI.",
+      "snippet_highlighted_words": [
+        "Debbie Nash",
+        "King",
+        "Killeen Mayor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Debbie Nash-King, Killeen Mayor, MTO members, and AKA YLI.",
+          "source_info_link": "https://m.facebook.com/61552278985359/photos/122216963438075966/",
+          "icon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo-pC8rVN6dnan8IcxQ0XClQLJuXV00wTFjp6x9dYJHbU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://m.facebook.com/61552278985359/photos/122216963438075966/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fm.facebook.com%2F61552278985359%2Fphotos%2F122216963438075966%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 6,
+      "title": "Mayor Debbie Nash-King's 2025 State of the City address ...",
+      "link": "https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-kings-2025-state-of-the-city-address-is-today-at-2-pm-in-the-c/1036599538503960/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-kings-2025-state-of-the-city-address-is-today-at-2-pm-in-the-c/1036599538503960/&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQFnoECBwQAQ",
+      "displayed_link": "50+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqoxKMPMvHfrxUHflGmAI-F2I.png",
+      "snippet": "... Facebook. This has been through flyers, Good News Killeen video ... Killeen mayor is worthless and costing Killeen $$$ city doesnt have.",
+      "snippet_highlighted_words": [
+        "Facebook",
+        "Killeen",
+        "Killeen mayor",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Facebook. This has been through flyers, Good News Killeen video ... Killeen mayor is worthless and costing Killeen $$$ city doesnt have.",
+          "source_info_link": "https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-kings-2025-state-of-the-city-address-is-today-at-2-pm-in-the-c/1036599538503960/",
+          "icon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo7OeLse2slm-lc5ILC7FoFSihgwvYbkKvvp7sl0_POI_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KilleenTexas/posts/mayor-debbie-nash-kings-2025-state-of-the-city-address-is-today-at-2-pm-in-the-c/1036599538503960/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKilleenTexas%2Fposts%2Fmayor-debbie-nash-kings-2025-state-of-the-city-address-is-today-at-2-pm-in-the-c%2F1036599538503960%2F",
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 7,
+      "title": "Killeen Mayor Pro Tem Debbie Nash-King was sworn in as the ...",
+      "link": "https://www.facebook.com/kdhnews/videos/killeen-mayor-pro-tem-debbie-nash-king-was-sworn-in-as-the-first-black-female-ma/318218243734981/",
+      "displayed_link": "40+ reactions · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo8hnuEnA6INd-OGJr_T0SLM.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqozunWuG49tPZLFtJq1iwyyo.png",
+      "snippet": "Killeen Mayor Pro Tem Debbie Nash-King was sworn in as the first Black female mayor in the city's 140-year history Friday afternoon...",
+      "duration": "24:19",
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Mayor Pro Tem Debbie Nash-King was sworn in as the first Black female mayor in the city's 140-year history Friday afternoon...",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/killeen-mayor-pro-tem-debbie-nash-king-was-sworn-in-as-the-first-black-female-ma/318218243734981/",
+          "icon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo85meVAVzWsqgqifx2jTpkgGF104g4jPUH8RTnweHvpc.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/killeen-mayor-pro-tem-debbie-nash-king-was-sworn-in-as-the-first-black-female-ma/318218243734981/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fkilleen-mayor-pro-tem-debbie-nash-king-was-sworn-in-as-the-first-black-female-ma%2F318218243734981%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 8,
+      "title": "City of Killeen, Texas - Government",
+      "link": "https://www.facebook.com/KilleenTexas/posts/-hear-the-latest-on-killeens-progress-and-whats-ahead-mayor-debbie-nash-king-wil/1028507705979810/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KilleenTexas/posts/-hear-the-latest-on-killeens-progress-and-whats-ahead-mayor-debbie-nash-king-wil/1028507705979810/&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQFnoECDIQAQ",
+      "displayed_link": "20+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo13CXmoUsnChOAvpq3mtz44.png",
+      "snippet": "Hear the latest on Killeen's progress and what's ahead! Mayor Debbie Nash-King ... Killeen Mayor Jose Segarra issued a ...",
+      "snippet_highlighted_words": [
+        "Killeen's",
+        "Debbie Nash",
+        "King",
+        "Killeen Mayor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Hear the latest on Killeen's progress and what's ahead! Mayor Debbie Nash-\nKing ... Killeen Mayor Jose Segarra issued a ...",
+          "source_info_link": "https://www.facebook.com/KilleenTexas/posts/-hear-the-latest-on-killeens-progress-and-whats-ahead-mayor-debbie-nash-king-wil/1028507705979810/",
+          "icon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo_2wGFlyrudxzx5G9pZd3LwHYvTWdsvnGgixI5YZChAN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KilleenTexas/posts/-hear-the-latest-on-killeens-progress-and-whats-ahead-mayor-debbie-nash-king-wil/1028507705979810/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKilleenTexas%2Fposts%2F-hear-the-latest-on-killeens-progress-and-whats-ahead-mayor-debbie-nash-king-wil%2F1028507705979810%2F",
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 9,
+      "title": "Riakos Adams is Killeen's new mayor following Debbie Nash ...",
+      "link": "https://www.facebook.com/6NewsKCEN/videos/killeen-swears-in-new-mayor/2373600466414832/",
+      "displayed_link": "80+ reactions · 3 weeks ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqoxLvxSfJHZbzl5tgiwfF4fk.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo59amnoUgk889hjk7C5TBAE.png",
+      "snippet": "Adams was previously the mayor pro tem. He will serve as mayor until May's local election when he will run against former Killeen Mayor Jose ...",
+      "duration": "0:23",
+      "about_this_result": {
+        "source": {
+          "description": "Adams was previously the mayor pro tem. He will serve as mayor until May's local election when he will run against former Killeen Mayor Jose ...",
+          "source_info_link": "https://www.facebook.com/6NewsKCEN/videos/killeen-swears-in-new-mayor/2373600466414832/",
+          "icon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo0CugGFfNTAlk3g4XbdGEqqf47u-SY6377lqiNdnD8lT.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/6NewsKCEN/videos/killeen-swears-in-new-mayor/2373600466414832/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F6NewsKCEN%2Fvideos%2Fkilleen-swears-in-new-mayor%2F2373600466414832%2F",
+      "source": "Facebook · 6 News KCEN TV"
+    },
+    {
+      "position": 10,
+      "title": "Killeen Mayor Debbie Nash-King and Councilman Jose ...",
+      "link": "https://www.facebook.com/kdhnews/posts/mayor-vs-former-mayor-killeen-mayor-debbie-nash-king-and-councilman-jose-segarra/1373048948102589/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/mayor-vs-former-mayor-killeen-mayor-debbie-nash-king-and-councilman-jose-segarra/1373048948102589/&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQFnoECDEQAQ",
+      "displayed_link": "220+ reactions · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo7lseEFCEui5ATP24NjpxaE.png",
+      "snippet": "Mayor vs. Former Mayor: Killeen Mayor Debbie Nash-King and Councilman Jose Segarra, the city's former mayor, threw accusations at one other ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor Debbie Nash",
+        "King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mayor vs. Former Mayor: Killeen Mayor Debbie Nash-King and Councilman Jose Segarra, the city's former mayor, threw accusations at one other ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/mayor-vs-former-mayor-killeen-mayor-debbie-nash-king-and-councilman-jose-segarra/1373048948102589/",
+          "icon": "https://serpapi.com/searches/69bb5e5c868180fcffab8a24/images/VGS90g__E0LYuiXzWmDqo329d7q7SPSCtom_m1nhIOjzWCUTQ7tdklmKE7byxunO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/mayor-vs-former-mayor-killeen-mayor-debbie-nash-king-and-councilman-jose-segarra/1373048948102589/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fmayor-vs-former-mayor-killeen-mayor-debbie-nash-king-and-councilman-jose-segarra%2F1373048948102589%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=XV67aZvLEJyWwbkP0NPrkAg&start=10&sa=N&sstk=Af77f_esvAtGSvg8YCecH1pI4T7wzvmSx9Vp4WaZ5VezynIQCk3cn19w0HJriVSFwq1DyborZccEK5Jj8J0oai_XFKO3GgMRPXF_XA&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQ8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=XV67aZvLEJyWwbkP0NPrkAg&start=10&sa=N&sstk=Af77f_esvAtGSvg8YCecH1pI4T7wzvmSx9Vp4WaZ5VezynIQCk3cn19w0HJriVSFwq1DyborZccEK5Jj8J0oai_XFKO3GgMRPXF_XA&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=XV67aZvLEJyWwbkP0NPrkAg&start=20&sa=N&sstk=Af77f_esvAtGSvg8YCecH1pI4T7wzvmSx9Vp4WaZ5VezynIQCk3cn19w0HJriVSFwq1DyborZccEK5Jj8J0oai_XFKO3GgMRPXF_XA&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=XV67aZvLEJyWwbkP0NPrkAg&start=30&sa=N&sstk=Af77f_esvAtGSvg8YCecH1pI4T7wzvmSx9Vp4WaZ5VezynIQCk3cn19w0HJriVSFwq1DyborZccEK5Jj8J0oai_XFKO3GgMRPXF_XA&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=XV67aZvLEJyWwbkP0NPrkAg&start=40&sa=N&sstk=Af77f_esvAtGSvg8YCecH1pI4T7wzvmSx9Vp4WaZ5VezynIQCk3cn19w0HJriVSFwq1DyborZccEK5Jj8J0oai_XFKO3GgMRPXF_XA&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQ8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=XV67aZvLEJyWwbkP0NPrkAg&start=50&sa=N&sstk=Af77f_esvAtGSvg8YCecH1pI4T7wzvmSx9Vp4WaZ5VezynIQCk3cn19w0HJriVSFwq1DyborZccEK5Jj8J0oai_XFKO3GgMRPXF_XA&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQ8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=XV67aZvLEJyWwbkP0NPrkAg&start=60&sa=N&sstk=Af77f_esvAtGSvg8YCecH1pI4T7wzvmSx9Vp4WaZ5VezynIQCk3cn19w0HJriVSFwq1DyborZccEK5Jj8J0oai_XFKO3GgMRPXF_XA&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQ8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=XV67aZvLEJyWwbkP0NPrkAg&start=70&sa=N&sstk=Af77f_esvAtGSvg8YCecH1pI4T7wzvmSx9Vp4WaZ5VezynIQCk3cn19w0HJriVSFwq1DyborZccEK5Jj8J0oai_XFKO3GgMRPXF_XA&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQ8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=XV67aZvLEJyWwbkP0NPrkAg&start=80&sa=N&sstk=Af77f_esvAtGSvg8YCecH1pI4T7wzvmSx9Vp4WaZ5VezynIQCk3cn19w0HJriVSFwq1DyborZccEK5Jj8J0oai_XFKO3GgMRPXF_XA&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQ8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=XV67aZvLEJyWwbkP0NPrkAg&start=90&sa=N&sstk=Af77f_esvAtGSvg8YCecH1pI4T7wzvmSx9Vp4WaZ5VezynIQCk3cn19w0HJriVSFwq1DyborZccEK5Jj8J0oai_XFKO3GgMRPXF_XA&ved=2ahUKEwjb7Yql9KqTAxUcSzABHdDpGoIQ8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+Facebook&start=90"
+    }
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "search_metadata": {
+    "id": "69bb5c80f5c2f8566801526c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mgL6NmaD42VKRxCfukrbog/69bb5c80f5c2f8566801526c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/mgL6NmaD42VKRxCfukrbog/69bb5c80f5c2f8566801526c.json_with_pixel_position",
+    "created_at": "2026-03-19 02:16:32 UTC",
+    "processed_at": "2026-03-19 02:16:32 UTC",
+    "google_url": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&oq=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/mgL6NmaD42VKRxCfukrbog/69bb5c80f5c2f8566801526c.html",
+    "total_time_taken": 3.12
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bell County Commissioner P4 election. Key platform issues for candidates: Curtis Emmons, Ernest Wilkerson. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bell County Commissioner P4 election. Key platform issues for candidates: Curtis Emmons, Ernest Wilkerson. Provide a short factual summary.",
+    "total_results": 2040,
+    "time_taken_displayed": 0.49,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Ernest Wilkerson (Bell County Commissioner Precinct 4 ...",
+      "link": "https://ballotpedia.org/Ernest_Wilkerson_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Ernest_Wilkerson_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQFnoECCAQAQ",
+      "displayed_link": "https://ballotpedia.org › Ernest_Wilkerson_(Bell_County...",
+      "favicon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY3zU0a2cz4PDRFvZZQX6fXY.png",
+      "snippet": "Ernest Wilkerson (Democratic Party) ran for election for Bell County Commissioner Precinct 4 in Texas. Wilkerson was on the ballot in the Democratic primary on ...",
+      "snippet_highlighted_words": [
+        "Ernest Wilkerson",
+        "election",
+        "Bell County Commissioner",
+        "4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ernest Wilkerson (Democratic Party) ran for election for Bell County Commissioner Precinct 4 in Texas. Wilkerson was on the ballot in the Democratic primary on ...",
+          "source_info_link": "https://ballotpedia.org/Ernest_Wilkerson_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY1SVaqzW1XqHqz_8Iv8CT3nx4P7RgrNvBk2RNHpM8KUq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Ernest_Wilkerson_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FErnest_Wilkerson_%28Bell_County_Commissioner_Precinct_4%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "platform",
+        "short",
+        "factual"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 2,
+      "title": "Curtis Emmons (Bell County Commissioner Precinct 4, ...",
+      "link": "https://ballotpedia.org/Curtis_Emmons_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Curtis_Emmons_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQFnoECBwQAQ",
+      "displayed_link": "https://ballotpedia.org › Curtis_Emmons_(Bell_County_...",
+      "favicon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY00_WchjEeJVYiYTbZRZdF8.png",
+      "snippet": "Completing the survey will update the candidate's Ballotpedia profile, letting voters know who they are and what they stand for. More than 25,000 candidates ...",
+      "snippet_highlighted_words": [
+        "candidate's",
+        "candidates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Completing the survey will update the candidate's Ballotpedia profile, letting voters know who they are and what they stand for. More than 25,000 candidates ...",
+          "source_info_link": "https://ballotpedia.org/Curtis_Emmons_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY_4uzF_U9awTMcltRPtUthM_yVxAVeSKtjjvS3OoJxfl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Curtis_Emmons_(Bell_County_Commissioner_Precinct_4,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FCurtis_Emmons_%28Bell_County_Commissioner_Precinct_4%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "platform",
+        "issues",
+        "short",
+        "factual"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 3,
+      "title": "at nu.gr rs s tnnal",
+      "link": "https://www.congress.gov/67/crecb/1922/05/09/GPO-CRECB-1922-pt7-v62-1.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/67/crecb/1922/05/09/GPO-CRECB-1922-pt7-v62-1.pdf&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQFnoECBoQAQ",
+      "displayed_link": "https://www.congress.gov › crecb › 1922/05/09",
+      "favicon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY5NykXl2VS3dx9y7wv5QBW4.png",
+      "snippet": "The PRESIDENT pro tempore. Sixty-five Senators have an- swered to their names. A quorum is present. NOMINATION OF NAT GOLDSTEIN,.",
+      "snippet_highlighted_words": [
+        "present"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The PRESIDENT pro tempore. Sixty-five Senators have an- swered to their names. A quorum is present. NOMINATION OF NAT GOLDSTEIN,.",
+          "source_info_link": "https://www.congress.gov/67/crecb/1922/05/09/GPO-CRECB-1922-pt7-v62-1.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY2bHJYEjjLH1SN_xQw778WHpcVkl_IV6xONpvykRzXWc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/67/crecb/1922/05/09/GPO-CRECB-1922-pt7-v62-1.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2F67%2Fcrecb%2F1922%2F05%2F09%2FGPO-CRECB-1922-pt7-v62-1.pdf",
+      "missing": [
+        "P4",
+        "Key",
+        "Ernest"
+      ],
+      "source": "Congress.gov"
+    },
+    {
+      "position": 4,
+      "title": "https://moakleyarchive.omeka.net/items/browse?advanced ...",
+      "link": "https://moakleyarchive.omeka.net/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=Suffolk+University+&page=2&output=omeka-xml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://moakleyarchive.omeka.net/items/browse%3Fadvanced%255B0%255D%255Belement_id%255D%3D49%26advanced%255B0%255D%255Btype%255D%3Dis%2Bexactly%26advanced%255B0%255D%255Bterms%255D%3DSuffolk%2BUniversity%2B%26page%3D2%26output%3Domeka-xml&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQFnoECBsQAQ",
+      "displayed_link": "https://moakleyarchive.omeka.net › items › browse",
+      "favicon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCYzoFiAObU6upqohQ7JuhMpo.png",
+      "snippet": "The notice in many cases was very short. What I desired, however, was to get together a few law school executives from different sections and with them to ...",
+      "snippet_highlighted_words": [
+        "cases",
+        "short"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The notice in many cases was very short. What I desired, however, was to get together a few law school executives from different sections and with them to ...",
+          "source_info_link": "https://moakleyarchive.omeka.net/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=Suffolk+University+&page=2&output=omeka-xml",
+          "icon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY3Qk6aRvcrdUrq_dNsb1EYYaI-QwMKR812aH4xWga9RK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://moakleyarchive.omeka.net/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=Suffolk+University+&page=2&output=omeka-xml&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmoakleyarchive.omeka.net%2Fitems%2Fbrowse%3Fadvanced%255B0%255D%255Belement_id%255D%3D49%26advanced%255B0%255D%255Btype%255D%3Dis%2Bexactly%26advanced%255B0%255D%255Bterms%255D%3DSuffolk%2BUniversity%2B%26page%3D2%26output%3Domeka-xml",
+      "source": "Omeka.net"
+    },
+    {
+      "position": 5,
+      "title": "Journal",
+      "link": "https://www.awfumc.org/files/websites/www/1966_JOURNAL.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.awfumc.org/files/websites/www/1966_JOURNAL.pdf&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQFnoECB0QAQ",
+      "displayed_link": "https://www.awfumc.org › files › 1966_JOURNAL",
+      "favicon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY13fdJikfAtXPRpeCmS3QPQ.jpeg",
+      "date": "Jun 1, 2025",
+      "snippet": "... Bell Bldg., Montgomery,. Ala.; Director at Large, Haniel Jones, 1016 ... Wilkerson, Panama City, Fla.; Methodist. Men, M. B. Davis ...",
+      "snippet_highlighted_words": [
+        "Bell",
+        "Wilkerson"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 356
+          },
+          "extensions": [
+            "356 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... Bell Bldg., Montgomery,. Ala.; Director at Large, Haniel Jones, 1016 ... Wilkerson, Panama City, Fla.; Methodist. Men, M. B. Davis ...",
+          "source_info_link": "https://www.awfumc.org/files/websites/www/1966_JOURNAL.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY9t43B20aMJunozz2krDo9quDCuQwEbBW-Yrspi2TlMq.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.awfumc.org/files/websites/www/1966_JOURNAL.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.awfumc.org%2Ffiles%2Fwebsites%2Fwww%2F1966_JOURNAL.pdf",
+      "source": "AWFUMC"
+    },
+    {
+      "position": 6,
+      "title": "Browse Theses, Dissertations, or other Student Work By Type",
+      "link": "https://libres.uncg.edu/ir/list-etd.aspx?styp=ty&bs=doctoral%20dissertation&lrec=100000&amt=100000&th=inst",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://libres.uncg.edu/ir/list-etd.aspx%3Fstyp%3Dty%26bs%3Ddoctoral%2520dissertation%26lrec%3D100000%26amt%3D100000%26th%3Dinst&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQFnoECDQQAQ",
+      "displayed_link": "https://libres.uncg.edu › list-etd",
+      "favicon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY-c2foR94ddyP1SpJ-0DkcI.png",
+      "snippet": "Jordan, Shannon N. Doctor of Education, Educational Leadership - Student, ASU · Community College Student Stories Of Lateral Transfer (Student Work), 2018 ...",
+      "about_this_result": {
+        "source": {
+          "description": "Jordan, Shannon N. Doctor of Education, Educational Leadership - Student, ASU · Community College Student Stories Of Lateral Transfer (Student Work), 2018 ...",
+          "source_info_link": "https://libres.uncg.edu/ir/list-etd.aspx?styp=ty&bs=doctoral%20dissertation&lrec=100000&amt=100000&th=inst",
+          "icon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY0pvvVf3V1AJQmXuGupR6EbTHq5YmgwCjLBUztEZu_ji.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://libres.uncg.edu/ir/list-etd.aspx?styp=ty&bs=doctoral%20dissertation&lrec=100000&amt=100000&th=inst&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flibres.uncg.edu%2Fir%2Flist-etd.aspx%3Fstyp%3Dty%26bs%3Ddoctoral%2520dissertation%26lrec%3D100000%26amt%3D100000%26th%3Dinst",
+      "source": "NC DOCKS"
+    },
+    {
+      "position": 7,
+      "title": "October 29",
+      "link": "https://www.prentisscounty.org/sites/default/files/newspapers/19641029.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.prentisscounty.org/sites/default/files/newspapers/19641029.pdf&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQFnoECDIQAQ",
+      "displayed_link": "https://www.prentisscounty.org › newspapers",
+      "favicon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY-rXYHu9D-wh_-pOJ9jRxwc.jpeg",
+      "snippet": "The faculty members from the they wound up on the short end. Northeast Mississippi Junior Col- lege business department, who plan to attend the conference are ...",
+      "snippet_highlighted_words": [
+        "short"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 12
+          },
+          "extensions": [
+            "12 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The faculty members from the they wound up on the short end. Northeast Mississippi Junior Col- lege business department, who plan to attend the conference are ...",
+          "source_info_link": "https://www.prentisscounty.org/sites/default/files/newspapers/19641029.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY5bfN9cpgmJ8QoGQkhhh_7SNcwI36f04PnTqDmwDWVYw.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.prentisscounty.org/sites/default/files/newspapers/19641029.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.prentisscounty.org%2Fsites%2Fdefault%2Ffiles%2Fnewspapers%2F19641029.pdf",
+      "source": "Prentiss County website"
+    },
+    {
+      "position": 8,
+      "title": "Maryland State Firemen's Association",
+      "link": "https://msfa.org/wp-content/uploads/2024/03/122nd_Annual_2014_MSFA_Proceedings_Book.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://msfa.org/wp-content/uploads/2024/03/122nd_Annual_2014_MSFA_Proceedings_Book.pdf&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQFnoECDoQAQ",
+      "displayed_link": "https://msfa.org › wp-content › uploads › 2024/03",
+      "favicon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY2yDaHpZrdGjc5Q0uxcgk4A.png",
+      "snippet": "... provide better service to the community. Nozzle - used to dispense water-result of success applied by firemen. Oak Leaves - White Oak is the tree of the ...",
+      "snippet_highlighted_words": [
+        "provide"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 510
+          },
+          "extensions": [
+            "510 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... provide better service to the community. Nozzle - used to dispense water-result of success applied by firemen. Oak Leaves - White Oak is the tree of the ...",
+          "source_info_link": "https://msfa.org/wp-content/uploads/2024/03/122nd_Annual_2014_MSFA_Proceedings_Book.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY4dSvfCCk9goCu_90tRXirqbkBfzQZJ6LkdbnnvZZxqX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://msfa.org/wp-content/uploads/2024/03/122nd_Annual_2014_MSFA_Proceedings_Book.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmsfa.org%2Fwp-content%2Fuploads%2F2024%2F03%2F122nd_Annual_2014_MSFA_Proceedings_Book.pdf",
+      "source": "Maryland State Firefighters Association"
+    },
+    {
+      "position": 9,
+      "title": "CONGRESSIONAL RECORD-SENATE",
+      "link": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1926-pt8-v67/pdf/GPO-CRECB-1926-pt8-v67-16.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/GPO-CRECB-1926-pt8-v67/pdf/GPO-CRECB-1926-pt8-v67-16.pdf&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQFnoECDUQAQ",
+      "displayed_link": "https://www.govinfo.gov › content › pkg › pdf",
+      "favicon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY_Kj3iIbydtKKWY6tGtwD70.png",
+      "snippet": "The PRESIDING OFFICER. The question is ori agreeing to the resolutions. Mr. CURTIS. l\\Ir. President, I regret to announce the ab~.",
+      "snippet_highlighted_words": [
+        "CURTIS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The PRESIDING OFFICER. The question is ori agreeing to the resolutions. Mr. CURTIS. l\\Ir. President, I regret to announce the ab~.",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1926-pt8-v67/pdf/GPO-CRECB-1926-pt8-v67-16.pdf",
+          "icon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY3OthWkYMrS7xgdf06h1eWHG4ZH_ozUjyMP4z7q68vJ2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/GPO-CRECB-1926-pt8-v67/pdf/GPO-CRECB-1926-pt8-v67-16.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FGPO-CRECB-1926-pt8-v67%2Fpdf%2FGPO-CRECB-1926-pt8-v67-16.pdf",
+      "source": "GovInfo (.gov)"
+    },
+    {
+      "position": 10,
+      "title": "2003",
+      "link": "https://citysecretary2.dallascityhall.com/resolutions/index/CSI2003.txt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://citysecretary2.dallascityhall.com/resolutions/index/CSI2003.txt&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQFnoECDMQAQ",
+      "displayed_link": "https://citysecretary2.dallascityhall.com › index › CSI2003",
+      "favicon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY1XtoPGXNH-nyb1ZYiGsAoU.png",
+      "snippet": "... 4-1-10 -010703 03-0010-OPEN RECORDS REQUEST - 2003 -CONTENTS DESTROYED AFRD 10-0048 4-1-10 -010703 03-0011-REAL PROPERTY CONVEYANCE (SHORT FORM) ...",
+      "snippet_highlighted_words": [
+        "4",
+        "4",
+        "SHORT"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... 4-1-10 -010703 03-0010-OPEN RECORDS REQUEST - 2003 -CONTENTS DESTROYED AFRD 10-0048 4-1-10 -010703 03-0011-REAL PROPERTY CONVEYANCE (SHORT FORM) ...",
+          "source_info_link": "https://citysecretary2.dallascityhall.com/resolutions/index/CSI2003.txt",
+          "icon": "https://serpapi.com/searches/69bb5c80f5c2f8566801526c/images/lNDwHLX_uJ39uVV8UctCY2OZl3SffTCKm_cL1ysCZ6kMb7wtdg99-GgNbL5M308d.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://citysecretary2.dallascityhall.com/resolutions/index/CSI2003.txt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcitysecretary2.dallascityhall.com%2Fresolutions%2Findex%2FCSI2003.txt",
+      "source": "City of Dallas"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates:+Curtis+Emmons,+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=gly7afvQBo6awbkPn_D0mAo&start=10&sa=N&sstk=Af77f_fdAfbsbON5uYNXwwUxANkc7opV-c_BPhk_ndxEwUSDSR7xAicUoDxUqDr-zQ4XIjL9drU2pW11iZma85-zaUu6JmYAZ4YeGQ&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQ8NMDegQIEBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates:+Curtis+Emmons,+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=gly7afvQBo6awbkPn_D0mAo&start=10&sa=N&sstk=Af77f_fdAfbsbON5uYNXwwUxANkc7opV-c_BPhk_ndxEwUSDSR7xAicUoDxUqDr-zQ4XIjL9drU2pW11iZma85-zaUu6JmYAZ4YeGQ&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQ8tMDegQIEBAE",
+      "3": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates:+Curtis+Emmons,+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=gly7afvQBo6awbkPn_D0mAo&start=20&sa=N&sstk=Af77f_fdAfbsbON5uYNXwwUxANkc7opV-c_BPhk_ndxEwUSDSR7xAicUoDxUqDr-zQ4XIjL9drU2pW11iZma85-zaUu6JmYAZ4YeGQ&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQ8tMDegQIEBAG",
+      "4": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates:+Curtis+Emmons,+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=gly7afvQBo6awbkPn_D0mAo&start=30&sa=N&sstk=Af77f_fdAfbsbON5uYNXwwUxANkc7opV-c_BPhk_ndxEwUSDSR7xAicUoDxUqDr-zQ4XIjL9drU2pW11iZma85-zaUu6JmYAZ4YeGQ&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQ8tMDegQIEBAI",
+      "5": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates:+Curtis+Emmons,+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=gly7afvQBo6awbkPn_D0mAo&start=40&sa=N&sstk=Af77f_fdAfbsbON5uYNXwwUxANkc7opV-c_BPhk_ndxEwUSDSR7xAicUoDxUqDr-zQ4XIjL9drU2pW11iZma85-zaUu6JmYAZ4YeGQ&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQ8tMDegQIEBAK",
+      "6": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates:+Curtis+Emmons,+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=gly7afvQBo6awbkPn_D0mAo&start=50&sa=N&sstk=Af77f_fdAfbsbON5uYNXwwUxANkc7opV-c_BPhk_ndxEwUSDSR7xAicUoDxUqDr-zQ4XIjL9drU2pW11iZma85-zaUu6JmYAZ4YeGQ&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQ8tMDegQIEBAM",
+      "7": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates:+Curtis+Emmons,+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=gly7afvQBo6awbkPn_D0mAo&start=60&sa=N&sstk=Af77f_fdAfbsbON5uYNXwwUxANkc7opV-c_BPhk_ndxEwUSDSR7xAicUoDxUqDr-zQ4XIjL9drU2pW11iZma85-zaUu6JmYAZ4YeGQ&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQ8tMDegQIEBAO",
+      "8": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates:+Curtis+Emmons,+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=gly7afvQBo6awbkPn_D0mAo&start=70&sa=N&sstk=Af77f_fdAfbsbON5uYNXwwUxANkc7opV-c_BPhk_ndxEwUSDSR7xAicUoDxUqDr-zQ4XIjL9drU2pW11iZma85-zaUu6JmYAZ4YeGQ&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQ8tMDegQIEBAQ",
+      "9": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates:+Curtis+Emmons,+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=gly7afvQBo6awbkPn_D0mAo&start=80&sa=N&sstk=Af77f_fdAfbsbON5uYNXwwUxANkc7opV-c_BPhk_ndxEwUSDSR7xAicUoDxUqDr-zQ4XIjL9drU2pW11iZma85-zaUu6JmYAZ4YeGQ&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQ8tMDegQIEBAS",
+      "10": "https://www.google.com/search?q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates:+Curtis+Emmons,+Ernest+Wilkerson.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=gly7afvQBo6awbkPn_D0mAo&start=90&sa=N&sstk=Af77f_fdAfbsbON5uYNXwwUxANkc7opV-c_BPhk_ndxEwUSDSR7xAicUoDxUqDr-zQ4XIjL9drU2pW11iZma85-zaUu6JmYAZ4YeGQ&ved=2ahUKEwj7mcHC8qqTAxUOTTABHR84HaMQ8tMDegQIEBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bell+County+Commissioner+P4+election.+Key+platform+issues+for+candidates%3A+Curtis+Emmons%2C+Ernest+Wilkerson.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

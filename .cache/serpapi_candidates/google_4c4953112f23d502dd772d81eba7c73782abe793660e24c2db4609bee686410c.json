@@ -1,0 +1,396 @@
+{
+  "search_metadata": {
+    "id": "69bb5d81792d68fe271605e1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_Xu0VsJprM2-0-kPoex34Q/69bb5d81792d68fe271605e1.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_Xu0VsJprM2-0-kPoex34Q/69bb5d81792d68fe271605e1.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:49 UTC",
+    "processed_at": "2026-03-19 02:20:49 UTC",
+    "google_url": "https://www.google.com/search?q=Eric+R.+Armstrong+%22CTC+Trustee+Place+4%22+%22Central+Texas%22+Facebook&oq=Eric+R.+Armstrong+%22CTC+Trustee+Place+4%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_Xu0VsJprM2-0-kPoex34Q/69bb5d81792d68fe271605e1.html",
+    "total_time_taken": 3.29
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Eric R. Armstrong \"CTC Trustee Place 4\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Eric R. Armstrong \"CTC Trustee Place 4\" \"Central Texas\" Facebook",
+    "total_results": 1830,
+    "time_taken_displayed": 0.91,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Eric R. Armstrong CTC Trustee Place 4 Central Texas Facebook",
+    "spelling_fix": "Eric R. Armstrong CTC Trustee Place 4 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Central Texas College swore in four trustees during its May ...",
+      "link": "https://www.facebook.com/CentralTexasCollege/posts/central-texas-college-swore-in-four-trustees-during-its-may-board-workshop-chair/1122327049921241/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/CentralTexasCollege/posts/central-texas-college-swore-in-four-trustees-during-its-may-board-workshop-chair/1122327049921241/&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0QFnoECC8QAQ",
+      "displayed_link": "50+ reactions · 10 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKnVUPDoauh8R_-fsPlH_Dws.png",
+      "snippet": "Central Texas College swore in four trustees during its May board workshop. Chairman Jimmy Towers and Trustee Eric Armstrong were re-sworn ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Trustee Eric Armstrong"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Central Texas College swore in four trustees during its May board workshop. Chairman Jimmy Towers and Trustee Eric Armstrong were re-sworn ...",
+          "source_info_link": "https://www.facebook.com/CentralTexasCollege/posts/central-texas-college-swore-in-four-trustees-during-its-may-board-workshop-chair/1122327049921241/",
+          "icon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKi84UQ3mhJcKjplNGqAstqUb3zKmlxRAWnqPprZI83uI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/CentralTexasCollege/posts/central-texas-college-swore-in-four-trustees-during-its-may-board-workshop-chair/1122327049921241/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FCentralTexasCollege%2Fposts%2Fcentral-texas-college-swore-in-four-trustees-during-its-may-board-workshop-chair%2F1122327049921241%2F",
+      "missing": [
+        "R."
+      ],
+      "must_include": {
+        "word": "R.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Eric+%22R.%22+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sa=X&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q5t4CegQIMhAB"
+      },
+      "source": "Facebook · Central Texas College"
+    },
+    {
+      "position": 2,
+      "title": "Eric R. Armstrong (Central Texas College District Trustee ...",
+      "link": "https://ballotpedia.org/Eric_R._Armstrong_(Central_Texas_College_District_Trustee_Board_Place_4,_Texas,_candidate_2025)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Eric_R._Armstrong_(Central_Texas_College_District_Trustee_Board_Place_4,_Texas,_candidate_2025)&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0QFnoECCsQAQ",
+      "displayed_link": "https://ballotpedia.org › Eric_R._Armstrong_(Central_Te...",
+      "favicon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKtjJzf0N_eRSvYzXkSQYR34.png",
+      "snippet": "Eric R. Armstrong ran for election to the Central Texas College District Trustee Board Place 4. Armstrong was on the ballot in the general election on May 3 ...",
+      "snippet_highlighted_words": [
+        "Eric R",
+        "Armstrong",
+        "for",
+        "Central Texas",
+        "Trustee",
+        "Place 4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Eric R. Armstrong ran for election to the Central Texas College District Trustee Board Place 4. Armstrong was on the ballot in the general election on May 3 ...",
+          "source_info_link": "https://ballotpedia.org/Eric_R._Armstrong_(Central_Texas_College_District_Trustee_Board_Place_4,_Texas,_candidate_2025)",
+          "icon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKp1BLOdeild4BEDdxXhKqYk6OzyRGfwvKN1VK3nBpcvn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Eric_R._Armstrong_(Central_Texas_College_District_Trustee_Board_Place_4,_Texas,_candidate_2025)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FEric_R._Armstrong_%28Central_Texas_College_District_Trustee_Board_Place_4%2C_Texas%2C_candidate_2025%29",
+      "missing": [
+        "CTC"
+      ],
+      "must_include": {
+        "word": "CTC",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Eric+R.+Armstrong+%22CTC%22+Trustee+Place+4+Central+Texas+Facebook&sa=X&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q5t4CegQILhAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 3,
+      "title": "James Pierce for CTC Trustee Place 3",
+      "link": "https://www.facebook.com/jamespierceforctctrusteeplace3/?locale=cy_GB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/jamespierceforctctrusteeplace3/%3Flocale%3Dcy_GB&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0QFnoECCgQAQ",
+      "displayed_link": "https://www.facebook.com › jamespierceforctctrusteepl...",
+      "favicon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKnH4y9cF33UncmNq9ussHaM.png",
+      "snippet": "James Pierce for CTC Trustee Place 3, 595 yn hoffi, I am running for CTC Trustee because, as a veteran, I feel we need more representation at all levels.",
+      "snippet_highlighted_words": [
+        "for CTC Trustee Place",
+        "for CTC Trustee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "James Pierce for CTC Trustee Place 3, 595 yn hoffi, I am running for CTC Trustee because, as a veteran, I feel we need more representation at all levels.",
+          "source_info_link": "https://www.facebook.com/jamespierceforctctrusteeplace3/?locale=cy_GB",
+          "icon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKqDvpLgQzUM-JQ1TsdL7Q7rQpqvIFk86nTKjJWv9GdFY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/jamespierceforctctrusteeplace3/?locale=cy_GB&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fjamespierceforctctrusteeplace3%2F%3Flocale%3Dcy_GB",
+      "source": "Facebook"
+    },
+    {
+      "position": 4,
+      "title": "Candidates for CTC Board answer questions about their role",
+      "link": "https://kdhnews.com/centerforpolitics/candidates-for-ctc-board-answer-questions-about-their-role/article_0cfd3b1f-2019-41af-ad72-6463852b8d25.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/candidates-for-ctc-board-answer-questions-about-their-role/article_0cfd3b1f-2019-41af-ad72-6463852b8d25.html&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0QFnoECBwQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › candidates-for...",
+      "favicon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKm-6x63tzIUYeE7yJ-PNKHo.png",
+      "date": "Apr 20, 2025",
+      "snippet": "The vision of Central Texas College Central Texas College is to be a leader in providing innovative academic, technical, continuing and ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The vision of Central Texas College Central Texas College is to be a leader in providing innovative academic, technical, continuing and ...",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/candidates-for-ctc-board-answer-questions-about-their-role/article_0cfd3b1f-2019-41af-ad72-6463852b8d25.html",
+          "icon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKiq1cfTWfYMmyLuVHYSBXiZ7xS7B-Lcz2llKeudrPWlF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/candidates-for-ctc-board-answer-questions-about-their-role/article_0cfd3b1f-2019-41af-ad72-6463852b8d25.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fcandidates-for-ctc-board-answer-questions-about-their-role%2Farticle_0cfd3b1f-2019-41af-ad72-6463852b8d25.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 5,
+      "title": "Corporations Division",
+      "link": "https://dlcp.dc.gov/sites/default/files/dc/sites/DLCP/publication/attachments/2020%20List%20of%20All%20Entities%20Required%20To%20File%20Biennial%20Report_0.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dlcp.dc.gov/sites/default/files/dc/sites/DLCP/publication/attachments/2020%2520List%2520of%2520All%2520Entities%2520Required%2520To%2520File%2520Biennial%2520Report_0.pdf&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0QFnoECCAQAQ",
+      "displayed_link": "https://dlcp.dc.gov › publication › attachments",
+      "favicon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKobdAiH410R-mh31YmP5ZuE.png",
+      "snippet": "Entity Name. File Number. 1950. 752947. #1 A LifeSafer of Maryland, LLC. L00006390132. #1 BEAUTY SUPPLY OF GOOD HOPE, Inc. C00005109425.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 1024
+          },
+          "extensions": [
+            "1,024 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Entity Name. File Number. 1950. 752947. #1 A LifeSafer of Maryland, LLC. L00006390132. #1 BEAUTY SUPPLY OF GOOD HOPE, Inc. C00005109425.",
+          "source_info_link": "https://dlcp.dc.gov/sites/default/files/dc/sites/DLCP/publication/attachments/2020%20List%20of%20All%20Entities%20Required%20To%20File%20Biennial%20Report_0.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKsO8MMAb1KVLuTOoJiChOifgjQOXUkpY_shQkbRxd-pR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://dlcp.dc.gov/sites/default/files/dc/sites/DLCP/publication/attachments/2020%20List%20of%20All%20Entities%20Required%20To%20File%20Biennial%20Report_0.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdlcp.dc.gov%2Fsites%2Fdefault%2Ffiles%2Fdc%2Fsites%2FDLCP%2Fpublication%2Fattachments%2F2020%2520List%2520of%2520All%2520Entities%2520Required%2520To%2520File%2520Biennial%2520Report_0.pdf",
+      "source": "DC.gov"
+    },
+    {
+      "position": 6,
+      "title": "New York City Local Lights up The Late Show with ...",
+      "link": "https://ibew.org/wp-content/uploads/2024/10/IBEW-EW-V10-N02.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ibew.org/wp-content/uploads/2024/10/IBEW-EW-V10-N02.pdf&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0QFnoECB0QAQ",
+      "displayed_link": "https://ibew.org › 2024/10 › IBEW-EW-V10-N02",
+      "favicon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKi-QcbSphZ7cCtm-m2dIkV8.png",
+      "snippet": "be beautiful.” That's what Stephen Colbert told GQ last August about the renovation of The Ed. Sullivan Theater, where he hosts “The Late Show.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 20
+          },
+          "extensions": [
+            "20 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "be beautiful.” That's what Stephen Colbert told GQ last August about the renovation of The Ed. Sullivan Theater, where he hosts “The Late Show.",
+          "source_info_link": "https://ibew.org/wp-content/uploads/2024/10/IBEW-EW-V10-N02.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKmQStul3kuJ4-X7ocNFK-tWApBg-v_u3R6cK6GTpUOnR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ibew.org/wp-content/uploads/2024/10/IBEW-EW-V10-N02.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fibew.org%2Fwp-content%2Fuploads%2F2024%2F10%2FIBEW-EW-V10-N02.pdf",
+      "source": "International Brotherhood of Electrical Workers"
+    },
+    {
+      "position": 7,
+      "title": "EXAMINING CHARITABLE GIVING AND TRENDS IN THE ...",
+      "link": "https://www.finance.senate.gov/imo/media/doc/examining_charitable_giving_and_trends_in_the_nonprofit_sector.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.finance.senate.gov/imo/media/doc/examining_charitable_giving_and_trends_in_the_nonprofit_sector.pdf&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0QFnoECCIQAQ",
+      "displayed_link": "https://www.finance.senate.gov › media › doc",
+      "favicon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKjGmY2Noj6BHLyMCxMeD8yo.png",
+      "date": "Dec 11, 2025",
+      "snippet": "(III). C O N T E N T S. OPENING STATEMENTS. Page. Wyden, Hon. Ron, a U.S. Senator from Oregon, chairman, Committee on. Finance .",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 200
+          },
+          "extensions": [
+            "200 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "(III). C O N T E N T S. OPENING STATEMENTS. Page. Wyden, Hon. Ron, a U.S. Senator from Oregon, chairman, Committee on. Finance .",
+          "source_info_link": "https://www.finance.senate.gov/imo/media/doc/examining_charitable_giving_and_trends_in_the_nonprofit_sector.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKjQ5pVSKO64fsJsxAKzePlPR_SY4hjX8EzRJSj3-qnXR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.finance.senate.gov/imo/media/doc/examining_charitable_giving_and_trends_in_the_nonprofit_sector.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.finance.senate.gov%2Fimo%2Fmedia%2Fdoc%2Fexamining_charitable_giving_and_trends_in_the_nonprofit_sector.pdf",
+      "source": "Senate Committee on Finance (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "ANNUAL REPORT",
+      "link": "https://oif.org/wp-content/uploads/2019/08/Annual_Report_2018.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://oif.org/wp-content/uploads/2019/08/Annual_Report_2018.pdf&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0QFnoECDcQAQ",
+      "displayed_link": "https://oif.org › wp-content › uploads › 2019/08",
+      "snippet": "The OIF team presented up- dates regarding new activities of the OI Foundation and the latest research updates from the Brittle Bone Disorders Con- sortium.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 35
+          },
+          "extensions": [
+            "35 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The OIF team presented up- dates regarding new activities of the OI Foundation and the latest research updates from the Brittle Bone Disorders Con- sortium.",
+          "source_info_link": "https://oif.org/wp-content/uploads/2019/08/Annual_Report_2018.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://oif.org/wp-content/uploads/2019/08/Annual_Report_2018.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Foif.org%2Fwp-content%2Fuploads%2F2019%2F08%2FAnnual_Report_2018.pdf",
+      "source": "OI Foundation"
+    },
+    {
+      "position": 9,
+      "title": "Humanae Vitae - School of Theology and Religious Studies",
+      "link": "https://trs.catholic.edu/humanae-vitae/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://trs.catholic.edu/humanae-vitae/index.html&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0QFnoECDgQAQ",
+      "displayed_link": "https://trs.catholic.edu › humanae-vitae",
+      "snippet": "Hundreds of clergy, religious, and lay ministers from around the country gathered at Catholic University for a symposium discussing Blessed Paul VI&#8217;s ...",
+      "snippet_highlighted_words": [
+        "for"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Hundreds of clergy, religious, and lay ministers from around the country gathered at Catholic University for a symposium discussing Blessed Paul VI&#8217;s ...",
+          "source_info_link": "https://trs.catholic.edu/humanae-vitae/index.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://trs.catholic.edu/humanae-vitae/index.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftrs.catholic.edu%2Fhumanae-vitae%2Findex.html",
+      "source": "The Catholic University of America"
+    },
+    {
+      "position": 10,
+      "title": "Jim: attached are the memos prepared by Indian Affairs for ...",
+      "link": "https://www.doi.gov/sites/doi.gov/files/uploads/17-00434cc.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doi.gov/sites/doi.gov/files/uploads/17-00434cc.pdf&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0QFnoECDkQAQ",
+      "displayed_link": "https://www.doi.gov › doi.gov › files › uploads",
+      "favicon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKsnIrU22MVSJ5r4-_XJu4xc.jpeg",
+      "date": "Mar 5, 2017",
+      "snippet": "If there are any briefing papers you want to make sure the Secretary reviews, let me know. I will be sending you the Member profiles OCL has put ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 1266
+          },
+          "extensions": [
+            "1,266 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "If there are any briefing papers you want to make sure the Secretary reviews, let me know. I will be sending you the Member profiles OCL has put ...",
+          "source_info_link": "https://www.doi.gov/sites/doi.gov/files/uploads/17-00434cc.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d81792d68fe271605e1/images/SkwUu7UZLE6d6x0ZpGJpKpmMd7YakoLDRVXQ3tDX6SicYUDVTa6QPkcZqX2ALZGn.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.doi.gov/sites/doi.gov/files/uploads/17-00434cc.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.doi.gov%2Fsites%2Fdoi.gov%2Ffiles%2Fuploads%2F17-00434cc.pdf",
+      "source": "U.S. Department of the Interior (.gov)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=g127aaXYCquYwbkP4YP56AE&start=10&sa=N&sstk=Af77f_edmSIR5tunxQI1TLMyMDgg80MhjzRDmP6ErxVVt7LuOoeohiXg_UIumyo0RTG3K3_g7EhJ2VsiGGS3Dze0iIyV67cLWvAfAQ&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q8NMDegQIEBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=g127aaXYCquYwbkP4YP56AE&start=10&sa=N&sstk=Af77f_edmSIR5tunxQI1TLMyMDgg80MhjzRDmP6ErxVVt7LuOoeohiXg_UIumyo0RTG3K3_g7EhJ2VsiGGS3Dze0iIyV67cLWvAfAQ&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q8tMDegQIEBAE",
+      "3": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=g127aaXYCquYwbkP4YP56AE&start=20&sa=N&sstk=Af77f_edmSIR5tunxQI1TLMyMDgg80MhjzRDmP6ErxVVt7LuOoeohiXg_UIumyo0RTG3K3_g7EhJ2VsiGGS3Dze0iIyV67cLWvAfAQ&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q8tMDegQIEBAG",
+      "4": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=g127aaXYCquYwbkP4YP56AE&start=30&sa=N&sstk=Af77f_edmSIR5tunxQI1TLMyMDgg80MhjzRDmP6ErxVVt7LuOoeohiXg_UIumyo0RTG3K3_g7EhJ2VsiGGS3Dze0iIyV67cLWvAfAQ&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q8tMDegQIEBAI",
+      "5": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=g127aaXYCquYwbkP4YP56AE&start=40&sa=N&sstk=Af77f_edmSIR5tunxQI1TLMyMDgg80MhjzRDmP6ErxVVt7LuOoeohiXg_UIumyo0RTG3K3_g7EhJ2VsiGGS3Dze0iIyV67cLWvAfAQ&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q8tMDegQIEBAK",
+      "6": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=g127aaXYCquYwbkP4YP56AE&start=50&sa=N&sstk=Af77f_edmSIR5tunxQI1TLMyMDgg80MhjzRDmP6ErxVVt7LuOoeohiXg_UIumyo0RTG3K3_g7EhJ2VsiGGS3Dze0iIyV67cLWvAfAQ&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q8tMDegQIEBAM",
+      "7": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=g127aaXYCquYwbkP4YP56AE&start=60&sa=N&sstk=Af77f_edmSIR5tunxQI1TLMyMDgg80MhjzRDmP6ErxVVt7LuOoeohiXg_UIumyo0RTG3K3_g7EhJ2VsiGGS3Dze0iIyV67cLWvAfAQ&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q8tMDegQIEBAO",
+      "8": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=g127aaXYCquYwbkP4YP56AE&start=70&sa=N&sstk=Af77f_edmSIR5tunxQI1TLMyMDgg80MhjzRDmP6ErxVVt7LuOoeohiXg_UIumyo0RTG3K3_g7EhJ2VsiGGS3Dze0iIyV67cLWvAfAQ&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q8tMDegQIEBAQ",
+      "9": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=g127aaXYCquYwbkP4YP56AE&start=80&sa=N&sstk=Af77f_edmSIR5tunxQI1TLMyMDgg80MhjzRDmP6ErxVVt7LuOoeohiXg_UIumyo0RTG3K3_g7EhJ2VsiGGS3Dze0iIyV67cLWvAfAQ&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q8tMDegQIEBAS",
+      "10": "https://www.google.com/search?q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=g127aaXYCquYwbkP4YP56AE&start=90&sa=N&sstk=Af77f_edmSIR5tunxQI1TLMyMDgg80MhjzRDmP6ErxVVt7LuOoeohiXg_UIumyo0RTG3K3_g7EhJ2VsiGGS3Dze0iIyV67cLWvAfAQ&ved=2ahUKEwjlpYu986qTAxUrTDABHeFBHh0Q8tMDegQIEBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eric+R.+Armstrong+CTC+Trustee+Place+4+Central+Texas+Facebook&start=90"
+    }
+  }
+}

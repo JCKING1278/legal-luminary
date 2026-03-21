@@ -1,0 +1,87 @@
+{
+  "search_metadata": {
+    "id": "69bb5dfdd2d74065f7b26745",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gyRGRaIDReIXiwkeh5QBnA/69bb5dfdd2d74065f7b26745.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/gyRGRaIDReIXiwkeh5QBnA/69bb5dfdd2d74065f7b26745.json_with_pixel_position",
+    "created_at": "2026-03-19 02:22:53 UTC",
+    "processed_at": "2026-03-19 02:22:53 UTC",
+    "google_url": "https://www.google.com/search?q=Abhiram+Garapati+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&oq=Abhiram+Garapati+%22US+House+TX-31%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/gyRGRaIDReIXiwkeh5QBnA/69bb5dfdd2d74065f7b26745.html",
+    "total_time_taken": 1.52
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Abhiram Garapati \"US House TX-31\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Abhiram Garapati \"US House TX-31\" \"Central Texas\" Facebook",
+    "total_results": 2,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Army Veteran William Abel for US House District 31 is working ...",
+      "link": "https://www.facebook.com/groups/1722046241675118/posts/2007714723108267/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1722046241675118/posts/2007714723108267/&ved=2ahUKEwjYsdn386qTAxWwLrkGHTocF-IQFnoECBcQAQ",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/searches/69bb5dfdd2d74065f7b26745/images/a-sKqvWqbQ18hToRfVCgkEbOijhTS1BpqZ2xGHfoWdI.png",
+      "snippet": "... U.S. House TX-31. @Abel tx31 has committed to ... Central Texas BBQ Roundup at the Cadence Bank ... Abhiram Garapati For Congress. 1 reaction ·. 2 ...",
+      "snippet_highlighted_words": [
+        "U.S. House TX-31",
+        "Central Texas",
+        "Abhiram Garapati"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... U.S. House TX-31. @Abel tx31 has committed to ... Central Texas BBQ Roundup at the Cadence Bank ... Abhiram Garapati For Congress. 1 reaction ·. 2 ...",
+          "source_info_link": "https://www.facebook.com/groups/1722046241675118/posts/2007714723108267/",
+          "icon": "https://serpapi.com/searches/69bb5dfdd2d74065f7b26745/images/a-sKqvWqbQ18hToRfVCgkMpNMheozpHS3oaj0Q8lHDvO7HacePbPwdIUu0mMBIoi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1722046241675118/posts/2007714723108267/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1722046241675118%2Fposts%2F2007714723108267%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 2,
+      "title": "Panama City Bar&Grill drink specials happening NOW!! Food ...",
+      "link": "https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/&ved=2ahUKEwjYsdn386qTAxWwLrkGHTocF-IQFnoECBgQAQ",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/searches/69bb5dfdd2d74065f7b26745/images/a-sKqvWqbQ18hToRfVCgkO0HFCtfDNij0Fdua0Ut9d0.png",
+      "snippet": "... U.S. House (TX-31) https://www.votejustinearly ... Abhiram Garapati For Congress ▻ Temple Strong - Open for Business ... Cowtown Card Show Fort Worth ▻ Central ...",
+      "snippet_highlighted_words": [
+        "U.S. House (TX-31",
+        "Abhiram Garapati",
+        "Central"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... U.S. House (TX-31) https://www.votejustinearly ... Abhiram Garapati For Congress ▻ Temple Strong - Open for Business ... Cowtown Card Show Fort Worth ▻ Central ...",
+          "source_info_link": "https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/",
+          "icon": "https://serpapi.com/searches/69bb5dfdd2d74065f7b26745/images/a-sKqvWqbQ18hToRfVCgkPyIvsc9NSDE-mK5TYZ9Fku8g4lghmB_k80cRXBVNdlI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1627499834129884%2Fposts%2F4350125031867337%2F",
+      "source": "Facebook"
+    }
+  ]
+}

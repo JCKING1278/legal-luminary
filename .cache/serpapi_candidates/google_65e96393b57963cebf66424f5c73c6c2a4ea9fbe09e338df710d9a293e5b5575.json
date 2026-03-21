@@ -1,0 +1,377 @@
+{
+  "search_metadata": {
+    "id": "69bb5cfb28b27bb2b275f898",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Wavqm5XbOPOy78zUd1iT7Q/69bb5cfb28b27bb2b275f898.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Wavqm5XbOPOy78zUd1iT7Q/69bb5cfb28b27bb2b275f898.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:35 UTC",
+    "processed_at": "2026-03-19 02:18:35 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+John+R.+Carter+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+John+R.+Carter+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Wavqm5XbOPOy78zUd1iT7Q/69bb5cfb28b27bb2b275f898.html",
+    "total_time_taken": 1.08
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of John R. Carter for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of John R. Carter for US House TX-31? Include who that supporter works for.",
+    "total_results": 26,
+    "time_taken_displayed": 0.59,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "31ipVHicxZRbk6o4EIDf93-sLxy5qDMOU0WdSiKOjDqKjrfzYiFgQC4ZCQ7q2_kv-6v212zAGzrD7J6t2touCpLuTid0f-mff_hu6P35W9uJ4zf6KAhJkvCYEOzbvEkCwaC70BSWxKeR6XzfvSvVkkkVsWS7Slna1Y2FPdWeN_E6pv1tXHkSgVjKlijzhUHtFYu4XVFhLrCX93u1wSY85e2Q9-Q61ObBy3DX5SuiJPM9wQiYA_iPRAUD9oYaGzDB10aUqdTi1bqaWZ9zqkMImNPMDkqMVaCn8-bnB1GzlUPE1vbheznpGoW7Ai03g7Ns22a6D0AYZg63on3QXI7YPgYt2OtjoMPKxiVZEBSKpp2sUAcIgVaCLsZjCHzcpAY6CJ3DQWZGfVhFGikOz1aOcUt1yjr4qk7MSxu8JNaMVUKwMONJFBYR-0iCazpmNohoihl6lUXSfOjvxz19Ae592RvvpJcRMGe6VwH9BAjmgvn5xLBsa-7MxW8Z0CY9E03zRG9WGrC2cNd_MfkOD6UczmkmMbo6ZFrYgjp8IqjYdCgpAWoK95nqfjqAo5PTA4AYIPVSPPUY8yPOmWhXSowPNpRO8Y1rGss7jk7xzbwZnv-AnYFV-rJHkndDebQ0TVPT3WaHCDjvxuaQXaF01M6uWSsfBmi5XMH02rI865d_St-N03nTNKTBVYAbNuqmbohlBKVO6QSiLKlQV2_Bh_gy7wJUQwecf11g4XU8iQ5O_N7gmMf4qSHNpbq42r4uNSPYPGw7e33Z3q_em018xJYEi1_oxOb_B_axT7ezW07wR7DxV2DrKvqiTx_BvvTprCGh5udgqxkouT5t5815sHWo5cDeFvbpHNja34I9vUrLGWz9E7DhLdiwGOy0T5_BRgje9Onst7K05MD-V31a_-d9OuPbPnyum_ZmhYubt14j8nKTSNP15H29M6rRZLiCeDzt9PSPzXsZxI-G5X-bu9YjrDzHO6u0ViYO4VzKxY7N-UaEbRpzFglJxLFn6YZGaLqGz9HN2xuJYpupl9wzcUJuwHPIyDRL5jkaci2yoTb3Oi1Xpe-cFpr-xrK5hEWPHSPOBUhI5NF0EV8K_IgoolG_g6OBPJzP1DkpT-RZYMnj8l7qrBvhtu7VBvu1hO4qkhR4vnu_bHvb6C5ohGV50ZKNcDKm1Xu3d3__o06lfQ-2nkZEJBNb_JHUnqoLd9ZtJrsaMKe1jtZbmWoHr6K9OhaHNRmA0HMsDGrICUAnOw1VynF1MHArGzzzSkFkKqz4NQxedDDBaVsvUdOY2_RdMSumIdt1SX4Qq7K9rJYCHO_eFFks0TBSpL8AiFv0_A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=31ipVHicxZRbk6o4EIDf93-sLxy5qDMOU0WdSiKOjDqKjrfzYiFgQC4ZCQ7q2_kv-6v212zAGzrD7J6t2touCpLuTid0f-mff_hu6P35W9uJ4zf6KAhJkvCYEOzbvEkCwaC70BSWxKeR6XzfvSvVkkkVsWS7Slna1Y2FPdWeN_E6pv1tXHkSgVjKlijzhUHtFYu4XVFhLrCX93u1wSY85e2Q9-Q61ObBy3DX5SuiJPM9wQiYA_iPRAUD9oYaGzDB10aUqdTi1bqaWZ9zqkMImNPMDkqMVaCn8-bnB1GzlUPE1vbheznpGoW7Ai03g7Ns22a6D0AYZg63on3QXI7YPgYt2OtjoMPKxiVZEBSKpp2sUAcIgVaCLsZjCHzcpAY6CJ3DQWZGfVhFGikOz1aOcUt1yjr4qk7MSxu8JNaMVUKwMONJFBYR-0iCazpmNohoihl6lUXSfOjvxz19Ae592RvvpJcRMGe6VwH9BAjmgvn5xLBsa-7MxW8Z0CY9E03zRG9WGrC2cNd_MfkOD6UczmkmMbo6ZFrYgjp8IqjYdCgpAWoK95nqfjqAo5PTA4AYIPVSPPUY8yPOmWhXSowPNpRO8Y1rGss7jk7xzbwZnv-AnYFV-rJHkndDebQ0TVPT3WaHCDjvxuaQXaF01M6uWSsfBmi5XMH02rI865d_St-N03nTNKTBVYAbNuqmbohlBKVO6QSiLKlQV2_Bh_gy7wJUQwecf11g4XU8iQ5O_N7gmMf4qSHNpbq42r4uNSPYPGw7e33Z3q_em018xJYEi1_oxOb_B_axT7ezW07wR7DxV2DrKvqiTx_BvvTprCGh5udgqxkouT5t5815sHWo5cDeFvbpHNja34I9vUrLGWz9E7DhLdiwGOy0T5_BRgje9Onst7K05MD-V31a_-d9OuPbPnyum_ZmhYubt14j8nKTSNP15H29M6rRZLiCeDzt9PSPzXsZxI-G5X-bu9YjrDzHO6u0ViYO4VzKxY7N-UaEbRpzFglJxLFn6YZGaLqGz9HN2xuJYpupl9wzcUJuwHPIyDRL5jkaci2yoTb3Oi1Xpe-cFpr-xrK5hEWPHSPOBUhI5NF0EV8K_IgoolG_g6OBPJzP1DkpT-RZYMnj8l7qrBvhtu7VBvu1hO4qkhR4vnu_bHvb6C5ohGV50ZKNcDKm1Xu3d3__o06lfQ-2nkZEJBNb_JHUnqoLd9ZtJrsaMKe1jtZbmWoHr6K9OhaHNRmA0HMsDGrICUAnOw1VynF1MHArGzzzSkFkKqz4NQxedDDBaVsvUdOY2_RdMSumIdt1SX4Qq7K9rJYCHO_eFFks0TBSpL8AiFv0_A"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Rep. John Carter - Campaign Finance Summary",
+      "link": "https://www.opensecrets.org/members-of-congress/john-carter/summary?cid=N00025095",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/members-of-congress/john-carter/summary%3Fcid%3DN00025095&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQFnoECB8QAQ",
+      "displayed_link": "https://www.opensecrets.org › members-of-congress › s...",
+      "favicon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1ECHIupJSijMLSJJ9sZFAlA.png",
+      "snippet": "NOTE: All the numbers on this page are for the 2023 - 2024 election cycle and based on Federal Election Commission data released electronically on 09/16/25 for ...",
+      "about_this_result": {
+        "source": {
+          "description": "NOTE: All the numbers on this page are for the 2023 - 2024 election cycle and based on Federal Election Commission data released electronically on 09/16/25 for ...",
+          "source_info_link": "https://www.opensecrets.org/members-of-congress/john-carter/summary?cid=N00025095",
+          "icon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1PrJnf8hPPAIfs8vRs0Q--GAGzz3ywrN5X5Ub8iw3YY4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/members-of-congress/john-carter/summary?cid=N00025095&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fmembers-of-congress%2Fjohn-carter%2Fsummary%3Fcid%3DN00025095",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 2,
+      "title": "Fundraising in Texas' 31st Congressional District",
+      "link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quiverquant.com/election-fundraising/house/TX/31&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQFnoECBgQAQ",
+      "displayed_link": "https://www.quiverquant.com › house",
+      "favicon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1DNFc-6xZH3jem4MDt9o3Hc.png",
+      "snippet": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+      "snippet_highlighted_words": [
+        "John Carter",
+        "Texas",
+        "31st Congressional",
+        "R",
+        "M"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Incumbent John Carter is up for election in Texas' 31st Congressional District in 2026. This race is rated as Solid R. We estimate that $2.12M has been ...",
+          "source_info_link": "https://www.quiverquant.com/election-fundraising/house/TX/31",
+          "icon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1FC6cA6QD8a31dfG2oSfTNvRrHjqEWEHUXT7AEo_NWUY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quiverquant.com/election-fundraising/house/TX/31&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quiverquant.com%2Felection-fundraising%2Fhouse%2FTX%2F31",
+      "missing": [
+        "financial"
+      ],
+      "must_include": {
+        "word": "financial",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+%22financial%22+supporter+of+John+R.+Carter+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQ5t4CegQIKRAB"
+      },
+      "source": "Quiver Quantitative"
+    },
+    {
+      "position": 3,
+      "title": "CARTER, JOHN R REP. - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H2TX31044/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H2TX31044/&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQFnoECBkQAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H2TX31044",
+      "favicon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1IDy-q7fYKnOIE5P_GlCP-k.png",
+      "snippet": "Candidate for House Texas - 31 ID: H2TX31044 REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary. About this candidate.",
+      "snippet_highlighted_words": [
+        "House Texas",
+        "31",
+        "Financial"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Candidate for House Texas - 31 ID: H2TX31044 REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary. About this candidate.",
+          "source_info_link": "https://www.fec.gov/data/candidate/H2TX31044/",
+          "icon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1KjcOTCNKVPIQ1kHIYVwQDUSWdD374r9T2l7Llvgp_PK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H2TX31044/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH2TX31044%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+John+R.+Carter+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQ5t4CegQIKBAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 4,
+      "title": "Follow the Money: Defense PACs and a 10-Way Primary ...",
+      "link": "http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQFnoECBoQAQ",
+      "displayed_link": "http://legis1.com › Legis1 Newsroom",
+      "favicon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1IoXib-OltCG9-qjyGzAzYk.png",
+      "date": "Feb 21, 2026",
+      "snippet": "Rep. John Carter, the 84-year-old Republican who has held Texas's 31st Congressional District since 2003, is facing the most crowded primary ...",
+      "snippet_highlighted_words": [
+        "John Carter",
+        "Texas's 31st Congressional",
+        "most"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Rep. John Carter, the 84-year-old Republican who has held Texas's 31st Congressional District since 2003, is facing the most crowded primary ...",
+          "source_info_link": "http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/",
+          "icon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1B5nGtG_ME0sM05IbEAdwIQwn2LuxhmMa7ZPSXMGVXKE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://legis1.com/news/follow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Flegis1.com%2Fnews%2Ffollow-the-money-defense-pacs-and-a-10-way-primary-define-the-fight-for-john-carter-texass-congressional-seat%2F",
+      "missing": [
+        "R."
+      ],
+      "must_include": {
+        "word": "R.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+John+%22R.%22+Carter+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQ5t4CegQIJBAB"
+      },
+      "source": "Legis1"
+    },
+    {
+      "position": 5,
+      "title": "Donors and Members",
+      "link": "https://support.texastribune.org/members",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.texastribune.org/members&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQFnoECBsQAQ",
+      "displayed_link": "https://support.texastribune.org › members",
+      "favicon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1En-l1y_wDfnKPX2_4tMwFk.png",
+      "snippet": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+      "snippet_highlighted_words": [
+        "donations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+          "source_info_link": "https://support.texastribune.org/members",
+          "icon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1K5GX-CR0567BNyU1FsVXAk6wZ8AYK-9pMMXb3h6GqOJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://support.texastribune.org/members&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsupport.texastribune.org%2Fmembers",
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 6,
+      "title": "Texas District 31 2024 Race",
+      "link": "https://www.opensecrets.org/races/geography?cycle=2024&id=TX31&spec=N",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/geography%3Fcycle%3D2024%26id%3DTX31%26spec%3DN&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQFnoECDIQAQ",
+      "displayed_link": "https://www.opensecrets.org › races › geography › id=...",
+      "favicon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1MZc7FbJ3mtiC4SsCLS2yOc.png",
+      "snippet": "OpenSecrets.org geographical data of contributions to candidates running in the Texas congressional race in 2024. Contributions for candidates are broken ...",
+      "snippet_highlighted_words": [
+        "Texas congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "OpenSecrets.org geographical data of contributions to candidates running in the Texas congressional race in 2024. Contributions for candidates are broken ...",
+          "source_info_link": "https://www.opensecrets.org/races/geography?cycle=2024&id=TX31&spec=N",
+          "icon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1FLTAwOJUDzQRObMsPmOk6fSR7EiU7rKUO96ZVou6ou9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/geography?cycle=2024&id=TX31&spec=N&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Fgeography%3Fcycle%3D2024%26id%3DTX31%26spec%3DN",
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 7,
+      "title": "US Representative John Carter",
+      "link": "https://www.billtrack50.com/legislatordetail/15938",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.billtrack50.com/legislatordetail/15938&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQFnoECC0QAQ",
+      "displayed_link": "https://www.billtrack50.com › legislatordetail",
+      "favicon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1H8ybXoXKuGLxaWjeM_9e0Y.png",
+      "snippet": "A BILL To prohibit taxpayer funded abortions. In Committee. HR21, Born-Alive Abortion Survivors Protection Act, AN ACT To amend title 18, United States Code, to ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A BILL To prohibit taxpayer funded abortions. In Committee. HR21, Born-Alive Abortion Survivors Protection Act, AN ACT To amend title 18, United States Code, to ...",
+          "source_info_link": "https://www.billtrack50.com/legislatordetail/15938",
+          "icon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1Cf6mI9idlRH_o_qy3apa3xdVoDO81UiknST07eQA0h2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.billtrack50.com/legislatordetail/15938&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.billtrack50.com%2Flegislatordetail%2F15938",
+      "missing": [
+        "largest",
+        "donor"
+      ],
+      "source": "BillTrack50"
+    },
+    {
+      "position": 8,
+      "title": "John Carter (Texas)",
+      "link": "https://ballotpedia.org/John_Carter_(Texas)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/John_Carter_(Texas)&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQFnoECCoQAQ",
+      "displayed_link": "https://ballotpedia.org › John_Carter_(Texas)",
+      "favicon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1JkKf5_Gum9m6YA2NGYNFM8.png",
+      "snippet": "John Carter (Republican Party) is a member of the US House, representing Texas' 31st Congressional District. He assumed office on January 3, 2003.",
+      "snippet_highlighted_words": [
+        "John Carter",
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "John Carter (Republican Party) is a member of the US House, representing Texas' 31st Congressional District. He assumed office on January 3, 2003.",
+          "source_info_link": "https://ballotpedia.org/John_Carter_(Texas)",
+          "icon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1EhJZuoR0CKy-8MLFbGLPetkhca6tJn6933RTyR-AmsU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/John_Carter_(Texas)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FJohn_Carter_%28Texas%29",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 9,
+      "title": "The Republican Party of Texas congratulates John Carter ...",
+      "link": "https://www.facebook.com/TexasGOP/posts/the-republican-party-of-texas-congratulates-john-carter-on-winning-the-republica/1357107189794105/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/TexasGOP/posts/the-republican-party-of-texas-congratulates-john-carter-on-winning-the-republica/1357107189794105/&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQFnoECC8QAQ",
+      "displayed_link": "180+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1P9vdq_a1UCwvoqjIIjQSnU.png",
+      "snippet": "The Republican Party of Texas congratulates John Carter on winning the Republican nomination for US House CD31!",
+      "snippet_highlighted_words": [
+        "Texas",
+        "John Carter",
+        "US House"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Republican Party of Texas congratulates John Carter on winning the Republican nomination for US House CD31!",
+          "source_info_link": "https://www.facebook.com/TexasGOP/posts/the-republican-party-of-texas-congratulates-john-carter-on-winning-the-republica/1357107189794105/",
+          "icon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1EdoXqf8bDMv8JlnQ-hdguakvBzTEpqRKVMphVKZzzXl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/TexasGOP/posts/the-republican-party-of-texas-congratulates-john-carter-on-winning-the-republica/1357107189794105/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FTexasGOP%2Fposts%2Fthe-republican-party-of-texas-congratulates-john-carter-on-winning-the-republica%2F1357107189794105%2F",
+      "missing": [
+        "donor"
+      ],
+      "must_include": {
+        "word": "donor",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+%22donor%22+or+financial+supporter+of+John+R.+Carter+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQ5t4CegQINxAB"
+      },
+      "source": "Facebook · Republican Party of Texas"
+    },
+    {
+      "position": 10,
+      "title": "Rep. John Carter - Texas District 31",
+      "link": "https://www.opensecrets.org/members-of-congress/john-carter/elections?cid=N00025095&cycle=2012",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/members-of-congress/john-carter/elections%3Fcid%3DN00025095%26cycle%3D2012&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQFnoECDgQAQ",
+      "displayed_link": "https://www.opensecrets.org › john-carter › elections",
+      "favicon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1AO7NV1867l3IPhkz5_v_w4.png",
+      "snippet": "Cycle, Race, Top vote-getting candidates, Raised, Spent, Election Results. 2024, TX31, John Carter* Stuart Norman Whitlow, $1,199,327 $292,070, $1,548,019",
+      "snippet_highlighted_words": [
+        "Top",
+        "TX31",
+        "John Carter"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cycle, Race, Top vote-getting candidates, Raised, Spent, Election Results. 2024, TX31, John Carter* Stuart Norman Whitlow, $1,199,327 $292,070, $1,548,019",
+          "source_info_link": "https://www.opensecrets.org/members-of-congress/john-carter/elections?cid=N00025095&cycle=2012",
+          "icon": "https://serpapi.com/searches/69bb5cfb28b27bb2b275f898/images/RaDpLBOJzWj1antU68kX1FK7OJaBJez_5TiqaIZ3weTvWLyDKdB6Q8zYmVUh9e-T.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/members-of-congress/john-carter/elections?cid=N00025095&cycle=2012&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fmembers-of-congress%2Fjohn-carter%2Felections%3Fcid%3DN00025095%26cycle%3D2012",
+      "missing": [
+        "R."
+      ],
+      "must_include": {
+        "word": "R.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+John+%22R.%22+Carter+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQ5t4CegQIOxAB"
+      },
+      "source": "OpenSecrets"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+John+R.+Carter+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-1y7abeXIJutqtsPxt2G0A0&start=10&sa=N&sstk=Af77f_exayM4E5N9Kxg2oC8_E5Vfs1CmLShXWt2MCChu5Uj8LugJfEG1kVLKw1fGTDRr41AOFEFXscUf4srtFOFhVsVt5rTZqSTIoQ&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQ8NMDegQICRAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+John+R.+Carter+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-1y7abeXIJutqtsPxt2G0A0&start=10&sa=N&sstk=Af77f_exayM4E5N9Kxg2oC8_E5Vfs1CmLShXWt2MCChu5Uj8LugJfEG1kVLKw1fGTDRr41AOFEFXscUf4srtFOFhVsVt5rTZqSTIoQ&ved=2ahUKEwj3gLT88qqTAxWblmoFHcauAdoQ8tMDegQICRAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+John+R.+Carter+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+John+R.+Carter+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+John+R.+Carter+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10"
+    }
+  }
+}

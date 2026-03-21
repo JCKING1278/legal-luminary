@@ -1,0 +1,357 @@
+{
+  "search_metadata": {
+    "id": "69bb5e63018c483344db10b3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6sGFIzNvyI3FC5VDzNGnrA/69bb5e63018c483344db10b3.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6sGFIzNvyI3FC5VDzNGnrA/69bb5e63018c483344db10b3.json_with_pixel_position",
+    "created_at": "2026-03-19 02:24:35 UTC",
+    "processed_at": "2026-03-19 02:24:35 UTC",
+    "google_url": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&oq=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6sGFIzNvyI3FC5VDzNGnrA/69bb5e63018c483344db10b3.html",
+    "total_time_taken": 4.41
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Debbie Nash-King \"Killeen Mayor\" \"Killeen\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Debbie Nash-King \"Killeen Mayor\" \"Killeen\" LinkedIn",
+    "total_results": 273,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Killeen Mayor prioritizes relationship with Fort Hood | Eric Von ...",
+      "link": "https://www.linkedin.com/posts/ericvonfranklin_killeen-mayor-prioritizes-relationship-with-activity-7048617639597772800-eiE0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/ericvonfranklin_killeen-mayor-prioritizes-relationship-with-activity-7048617639597772800-eiE0&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQFnoECB4QAQ",
+      "displayed_link": "https://www.linkedin.com › posts › ericvonfranklin_kille...",
+      "favicon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7XoTFJZS9ps39vQWlm0lqhw.png",
+      "snippet": "... Killeen. Her military experience has shaped her, motivating her to give back to her community. Killeen ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Killeen. Her military experience has shaped her, motivating her to give back to her community. Killeen ...",
+          "source_info_link": "https://www.linkedin.com/posts/ericvonfranklin_killeen-mayor-prioritizes-relationship-with-activity-7048617639597772800-eiE0",
+          "icon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7ZimKm8g_XZkmzczzUQ4BJ71AdbNMkSlD7lsW--W2TOT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/ericvonfranklin_killeen-mayor-prioritizes-relationship-with-activity-7048617639597772800-eiE0&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fericvonfranklin_killeen-mayor-prioritizes-relationship-with-activity-7048617639597772800-eiE0",
+      "source": "LinkedIn"
+    },
+    {
+      "position": 2,
+      "title": "Workforce Solutions of Central Texas' Post",
+      "link": "https://www.linkedin.com/posts/wfsctx_proud-moment-for-students-in-killeen-activity-7242261550235836422-0sKJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/wfsctx_proud-moment-for-students-in-killeen-activity-7242261550235836422-0sKJ&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQFnoECB0QAQ",
+      "displayed_link": "https://www.linkedin.com › posts › wfsctx_proud-mome...",
+      "favicon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7XG6L3TOdQflU7Mgsfb_icY.png",
+      "snippet": "Proud moment for students in Killeen! Mayor Debbie Nash King and the City Council celebrated a group of remarkable young achievers who completed the Career ...",
+      "snippet_highlighted_words": [
+        "Killeen! Mayor Debbie Nash King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Proud moment for students in Killeen! Mayor Debbie Nash King and the City Council celebrated a group of remarkable young achievers who completed the Career ...",
+          "source_info_link": "https://www.linkedin.com/posts/wfsctx_proud-moment-for-students-in-killeen-activity-7242261550235836422-0sKJ",
+          "icon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7RwpPWt0G5rrugYFD8whzA-4LbNy5AvCKqqhXYL5xR7Z.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/wfsctx_proud-moment-for-students-in-killeen-activity-7242261550235836422-0sKJ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fwfsctx_proud-moment-for-students-in-killeen-activity-7242261550235836422-0sKJ",
+      "source": "LinkedIn"
+    },
+    {
+      "position": 3,
+      "title": "#heroesworkhere #wearekisd #kisdproud | Killeen ISD",
+      "link": "https://www.linkedin.com/posts/killeen-isd_heroesworkhere-wearekisd-kisdproud-activity-7122635521503227904-UP21?trk=public_profile_like_view",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/killeen-isd_heroesworkhere-wearekisd-kisdproud-activity-7122635521503227904-UP21%3Ftrk%3Dpublic_profile_like_view&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQFnoECCkQAQ",
+      "displayed_link": "40+ reactions · 2 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7SBxoNiiTsDhW84EWx-uj6I.png",
+      "snippet": "... Killeen Mayor Debbie Nash-King joined Superintendent Jo Ann Fey and Director of Transportation Services Ed Thomas to surprise her with a ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor Debbie Nash",
+        "King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Killeen Mayor Debbie Nash-King joined Superintendent Jo Ann Fey and Director of Transportation Services Ed Thomas to surprise her with a ...",
+          "source_info_link": "https://www.linkedin.com/posts/killeen-isd_heroesworkhere-wearekisd-kisdproud-activity-7122635521503227904-UP21?trk=public_profile_like_view",
+          "icon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7Tn-9K1pIYxSBchsCs6sLDKkuwxhToMh-oTWPp-HmeQA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/killeen-isd_heroesworkhere-wearekisd-kisdproud-activity-7122635521503227904-UP21?trk=public_profile_like_view&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkilleen-isd_heroesworkhere-wearekisd-kisdproud-activity-7122635521503227904-UP21%3Ftrk%3Dpublic_profile_like_view",
+      "source": "LinkedIn · Killeen ISD"
+    },
+    {
+      "position": 4,
+      "title": "Killeen Mayor to discuss successes and opportunities in ...",
+      "link": "https://www.killeentexas.gov/CivicAlerts.aspx?AID=2446",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.killeentexas.gov/CivicAlerts.aspx%3FAID%3D2446&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQFnoECCAQAQ",
+      "displayed_link": "https://www.killeentexas.gov › CivicAlerts",
+      "favicon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7brDBH-z2L3WNEpsw4DU9Mc.png",
+      "date": "Jan 3, 2025",
+      "snippet": "Killeen Mayor to discuss successes and opportunities in State of the City address ... KILLEEN, Texas (Jan. 3, 2025) – Mayor Debbie Nash-King will ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor",
+        "KILLEEN",
+        "Debbie Nash",
+        "King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Mayor to discuss successes and opportunities in State of the City address ... KILLEEN, Texas (Jan. 3, 2025) – Mayor Debbie Nash-King will ...",
+          "source_info_link": "https://www.killeentexas.gov/CivicAlerts.aspx?AID=2446",
+          "icon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7T6hF4g6XoiIObvxIpZOW_ezlR5YSFmA5pbHhlVGLBhP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.killeentexas.gov/CivicAlerts.aspx?AID=2446&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.killeentexas.gov%2FCivicAlerts.aspx%3FAID%3D2446",
+      "source": "City of Killeen, TX (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "Tiffanie McNair's Post",
+      "link": "https://www.linkedin.com/posts/tiffanie-mcnair-81ab2aa6_thank-you-greater-killeen-chamber-of-commerce-activity-7196561074513477633-zAR5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/tiffanie-mcnair-81ab2aa6_thank-you-greater-killeen-chamber-of-commerce-activity-7196561074513477633-zAR5&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQFnoECCUQAQ",
+      "displayed_link": "60+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7aKHP4LapZZmSBZMKOhUhQQ.png",
+      "snippet": "Leadership Killeen Class of 2024 . (Pictured: Kent Cagle, Killeen City Manager, me☺️, Debbie Nash-King, Killeen Mayor, and Francisco Gonzales, ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen",
+        "Debbie Nash",
+        "King",
+        "Killeen Mayor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Leadership Killeen Class of 2024 . (Pictured: Kent Cagle, Killeen City Manager, me☺️, Debbie Nash-King, Killeen Mayor, and Francisco Gonzales, ...",
+          "source_info_link": "https://www.linkedin.com/posts/tiffanie-mcnair-81ab2aa6_thank-you-greater-killeen-chamber-of-commerce-activity-7196561074513477633-zAR5",
+          "icon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7UfeVycWTuhaMygAWPzSLPKV2N3qLIVDYuUO_VTgS3Yb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/tiffanie-mcnair-81ab2aa6_thank-you-greater-killeen-chamber-of-commerce-activity-7196561074513477633-zAR5&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ftiffanie-mcnair-81ab2aa6_thank-you-greater-killeen-chamber-of-commerce-activity-7196561074513477633-zAR5",
+      "source": "LinkedIn · Tiffanie McNair"
+    },
+    {
+      "position": 6,
+      "title": "Nash-King files 2 criminal complaints against a resident",
+      "link": "https://kdhnews.com/news/local/nash-king-files-2-criminal-complaints-against-a-resident/article_7a0fae4e-81de-11ef-98c9-2b1d64b1da45.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/news/local/nash-king-files-2-criminal-complaints-against-a-resident/article_7a0fae4e-81de-11ef-98c9-2b1d64b1da45.html&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQFnoECCYQAQ",
+      "displayed_link": "https://kdhnews.com › news › local › nash-king-files-2-...",
+      "favicon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7ebi-ydbrn-_yUSMr4lnWPs.png",
+      "date": "Oct 3, 2024",
+      "snippet": "Killeen Mayor Debbie Nash-King filed two criminal complaints this week against an outspoken resident and council critic who recently pulled ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor Debbie Nash",
+        "King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen Mayor Debbie Nash-King filed two criminal complaints this week against an outspoken resident and council critic who recently pulled ...",
+          "source_info_link": "https://kdhnews.com/news/local/nash-king-files-2-criminal-complaints-against-a-resident/article_7a0fae4e-81de-11ef-98c9-2b1d64b1da45.html",
+          "icon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7XBcxa5OxTLu9l0N-sB11ETGHVny8C9GisaCOtI25NqC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/news/local/nash-king-files-2-criminal-complaints-against-a-resident/article_7a0fae4e-81de-11ef-98c9-2b1d64b1da45.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fnews%2Flocal%2Fnash-king-files-2-criminal-complaints-against-a-resident%2Farticle_7a0fae4e-81de-11ef-98c9-2b1d64b1da45.html",
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 7,
+      "title": "Board of Directors",
+      "link": "https://www.killeenedc.com/board-of-directors",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.killeenedc.com/board-of-directors&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQFnoECB8QAQ",
+      "displayed_link": "https://www.killeenedc.com › board-of-directors",
+      "favicon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7eCVlvVyko8TqMu4XDB0nZA.png",
+      "snippet": "There shall be three (3) directors nominated by and representing each of the following organizations: Three (3) from the City of Killeen Mayor and City Council, ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "There shall be three (3) directors nominated by and representing each of the following organizations: Three (3) from the City of Killeen Mayor and City Council, ...",
+          "source_info_link": "https://www.killeenedc.com/board-of-directors",
+          "icon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7SzVanqVzv1FIbkXN_xZnvqhXXLFeANyLcxtXsMnasFY.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.killeenedc.com/board-of-directors&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.killeenedc.com%2Fboard-of-directors",
+      "source": "Killeen Economic Development Corporation"
+    },
+    {
+      "position": 8,
+      "title": "School Bus Driver's Quick Action Saves Student's Life",
+      "link": "https://www.linkedin.com/pulse/hero-behind-wheel-school-bus-drivers-quick-action-saves-students-ivdhc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pulse/hero-behind-wheel-school-bus-drivers-quick-action-saves-students-ivdhc&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQFnoECDkQAQ",
+      "displayed_link": "10+ reactions · 2 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7SdbMWgU6uZw-GxQwqduOEg.png",
+      "snippet": "City of Killeen Mayor, Debbie Nash-King, honored her with a certificate of appreciation and the mayor's coin, recognizing her dedication and ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor",
+        "Debbie Nash",
+        "King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "City of Killeen Mayor, Debbie Nash-King, honored her with a certificate of appreciation and the mayor's coin, recognizing her dedication and ...",
+          "source_info_link": "https://www.linkedin.com/pulse/hero-behind-wheel-school-bus-drivers-quick-action-saves-students-ivdhc",
+          "icon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7Z3bXJi_o33vrhNUbK8NAIBmXSQw86EPSLtIbwZLJZxy.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pulse/hero-behind-wheel-school-bus-drivers-quick-action-saves-students-ivdhc&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhero-behind-wheel-school-bus-drivers-quick-action-saves-students-ivdhc",
+      "source": "LinkedIn · Killeen ISD"
+    },
+    {
+      "position": 9,
+      "title": "GRK hits 20th anniversary milestone",
+      "link": "https://www.army.mil/article/278732/grk_hits_20th_anniversary_milestone",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.army.mil/article/278732/grk_hits_20th_anniversary_milestone&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQFnoECDwQAQ",
+      "displayed_link": "https://www.army.mil › article",
+      "favicon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7SrKUSw1o41rs1aaTSVE738.png",
+      "date": "Aug 8, 2024",
+      "snippet": "... Killeen Mayor Debbie Nash-King said of the airport. “Our airport has since become a vital space for our residents, our families, Soldiers ...",
+      "snippet_highlighted_words": [
+        "Killeen Mayor Debbie Nash",
+        "King"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Killeen Mayor Debbie Nash-King said of the airport. “Our airport has since become a vital space for our residents, our families, Soldiers ...",
+          "source_info_link": "https://www.army.mil/article/278732/grk_hits_20th_anniversary_milestone",
+          "icon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7TYnOOWU6dWi0E7sWAEp3o-wzTfCslVd7rY_RZkEHXlo.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.army.mil/article/278732/grk_hits_20th_anniversary_milestone&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.army.mil%2Farticle%2F278732%2Fgrk_hits_20th_anniversary_milestone",
+      "source": "Army.mil"
+    },
+    {
+      "position": 10,
+      "title": "From poverty to making history: Nash-King overcomes ...",
+      "link": "https://kdhnews.com/government/council/killeen/from-poverty-to-making-history-nash-king-overcomes-hardships-to-become-killeen-mayor/article_62a7dfa4-a988-11ed-9547-33902451cdcd.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/government/council/killeen/from-poverty-to-making-history-nash-king-overcomes-hardships-to-become-killeen-mayor/article_62a7dfa4-a988-11ed-9547-33902451cdcd.html&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQFnoECDgQAQ",
+      "displayed_link": "https://kdhnews.com › government › council › killeen",
+      "favicon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7fQYS6uYAflwpoR6H8BcB6U.png",
+      "date": "Feb 12, 2023",
+      "snippet": "From poverty to making history: Nash-King overcomes hardships to become Killeen mayor. By Paul Bryant | Herald Staff.",
+      "snippet_highlighted_words": [
+        "Nash",
+        "King",
+        "Killeen mayor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "From poverty to making history: Nash-King overcomes hardships to become Killeen mayor. By Paul Bryant | Herald Staff.",
+          "source_info_link": "https://kdhnews.com/government/council/killeen/from-poverty-to-making-history-nash-king-overcomes-hardships-to-become-killeen-mayor/article_62a7dfa4-a988-11ed-9547-33902451cdcd.html",
+          "icon": "https://serpapi.com/searches/69bb5e63018c483344db10b3/images/au7pQ802p4YsW_CCgdQI7ZcfHU_1iV7AakfTyWk6CaB5pm7is92DIUnPvQmy5KOv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/government/council/killeen/from-poverty-to-making-history-nash-king-overcomes-hardships-to-become-killeen-mayor/article_62a7dfa4-a988-11ed-9547-33902451cdcd.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fgovernment%2Fcouncil%2Fkilleen%2Ffrom-poverty-to-making-history-nash-king-overcomes-hardships-to-become-killeen-mayor%2Farticle_62a7dfa4-a988-11ed-9547-33902451cdcd.html",
+      "source": "The Killeen Daily Herald"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ZV67aeaoOu-sw8cPoNvMmAg&start=10&sa=N&sstk=Af77f_eznvJE-mT2GrqTTSPlmyh9VL3HIFiXowV7N89QCY7DxQkV9pQiuHEVKKt6KKHmc87FQ9zg4HLI_prN7mneUHUSSyuEt4t7kw&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQ8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ZV67aeaoOu-sw8cPoNvMmAg&start=10&sa=N&sstk=Af77f_eznvJE-mT2GrqTTSPlmyh9VL3HIFiXowV7N89QCY7DxQkV9pQiuHEVKKt6KKHmc87FQ9zg4HLI_prN7mneUHUSSyuEt4t7kw&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQ8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ZV67aeaoOu-sw8cPoNvMmAg&start=20&sa=N&sstk=Af77f_eznvJE-mT2GrqTTSPlmyh9VL3HIFiXowV7N89QCY7DxQkV9pQiuHEVKKt6KKHmc87FQ9zg4HLI_prN7mneUHUSSyuEt4t7kw&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQ8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ZV67aeaoOu-sw8cPoNvMmAg&start=30&sa=N&sstk=Af77f_eznvJE-mT2GrqTTSPlmyh9VL3HIFiXowV7N89QCY7DxQkV9pQiuHEVKKt6KKHmc87FQ9zg4HLI_prN7mneUHUSSyuEt4t7kw&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQ8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ZV67aeaoOu-sw8cPoNvMmAg&start=40&sa=N&sstk=Af77f_eznvJE-mT2GrqTTSPlmyh9VL3HIFiXowV7N89QCY7DxQkV9pQiuHEVKKt6KKHmc87FQ9zg4HLI_prN7mneUHUSSyuEt4t7kw&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQ8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ZV67aeaoOu-sw8cPoNvMmAg&start=50&sa=N&sstk=Af77f_eznvJE-mT2GrqTTSPlmyh9VL3HIFiXowV7N89QCY7DxQkV9pQiuHEVKKt6KKHmc87FQ9zg4HLI_prN7mneUHUSSyuEt4t7kw&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQ8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ZV67aeaoOu-sw8cPoNvMmAg&start=60&sa=N&sstk=Af77f_eznvJE-mT2GrqTTSPlmyh9VL3HIFiXowV7N89QCY7DxQkV9pQiuHEVKKt6KKHmc87FQ9zg4HLI_prN7mneUHUSSyuEt4t7kw&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQ8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ZV67aeaoOu-sw8cPoNvMmAg&start=70&sa=N&sstk=Af77f_eznvJE-mT2GrqTTSPlmyh9VL3HIFiXowV7N89QCY7DxQkV9pQiuHEVKKt6KKHmc87FQ9zg4HLI_prN7mneUHUSSyuEt4t7kw&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQ8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ZV67aeaoOu-sw8cPoNvMmAg&start=80&sa=N&sstk=Af77f_eznvJE-mT2GrqTTSPlmyh9VL3HIFiXowV7N89QCY7DxQkV9pQiuHEVKKt6KKHmc87FQ9zg4HLI_prN7mneUHUSSyuEt4t7kw&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQ8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=ZV67aeaoOu-sw8cPoNvMmAg&start=90&sa=N&sstk=Af77f_eznvJE-mT2GrqTTSPlmyh9VL3HIFiXowV7N89QCY7DxQkV9pQiuHEVKKt6KKHmc87FQ9zg4HLI_prN7mneUHUSSyuEt4t7kw&ved=2ahUKEwim75yp9KqTAxVv1vACHaAtE4MQ8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Debbie+Nash-King+%22Killeen+Mayor%22+%22Killeen%22+LinkedIn&start=90"
+    }
+  }
+}

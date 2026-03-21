@@ -1,0 +1,392 @@
+{
+  "search_metadata": {
+    "id": "69bb5daa3b93e314f2ac21f3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/s6f88WIkWP3Uv_MXhyvYVA/69bb5daa3b93e314f2ac21f3.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/s6f88WIkWP3Uv_MXhyvYVA/69bb5daa3b93e314f2ac21f3.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:30 UTC",
+    "processed_at": "2026-03-19 02:21:30 UTC",
+    "google_url": "https://www.google.com/search?q=Nicola+J.+James+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Instagram&oq=Nicola+J.+James+%22Bell+JP+P4+Place+2%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/s6f88WIkWP3Uv_MXhyvYVA/69bb5daa3b93e314f2ac21f3.html",
+    "total_time_taken": 3.52
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Nicola J. James \"Bell JP P4 Place 2\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Nicola J. James \"Bell JP P4 Place 2\" \"Central Texas\" Instagram",
+    "total_results": 48300,
+    "time_taken_displayed": 0.49,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Nicola J. James Bell JP P4 Place 2 Central Texas Instagram",
+    "spelling_fix": "Nicola J. James Bell JP P4 Place 2 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Nicola J. James (@james4txjustice)",
+      "link": "https://www.instagram.com/james4txjustice/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/james4txjustice/&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQFnoECCAQAQ",
+      "displayed_link": "150+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgmu0FEm2BXNiQ9UAQ7mH340.png",
+      "snippet": "158 followers · 283 following · 206 posts · @james4txjustice: “Justice of the Peace - Precinct 4 Place 2- Bell County, TX”",
+      "snippet_highlighted_words": [
+        "Justice of the Peace",
+        "4 Place 2",
+        "Bell",
+        "TX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "158 followers · 283 following · 206 posts · @james4txjustice: “Justice of the Peace - Precinct 4 Place 2- Bell County, TX”",
+          "source_info_link": "https://www.instagram.com/james4txjustice/",
+          "icon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgu1KII3l9_uO811sIjttV2EQwfAksKC8Gt-jwBJBqK1Q.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/james4txjustice/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fjames4txjustice%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nicola+J.+James+Bell+JP+P4+Place+2+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ5t4CegQIMRAB"
+      },
+      "source": "Instagram · james4txjustice"
+    },
+    {
+      "position": 2,
+      "title": "Nicola J. James on Instagram: \"May you feel our love. ...",
+      "link": "https://www.instagram.com/p/DStgKEvDP0B/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DStgKEvDP0B/&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQFnoECB8QAQ",
+      "displayed_link": "https://www.instagram.com › ...",
+      "favicon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgoMaZeub4E6DemRict9_ssg.png",
+      "date": "Dec 25, 2025",
+      "snippet": "May you feel our love. May you feel our Joy. May you enjoy the peace of laughter. Have an amazing Christmas from Re-elect Judge Nicola J. James ...",
+      "snippet_highlighted_words": [
+        "Nicola J",
+        "James"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "May you feel our love. May you feel our Joy. May you enjoy the peace of laughter. Have an amazing Christmas from Re-elect Judge Nicola J. James ...",
+          "source_info_link": "https://www.instagram.com/p/DStgKEvDP0B/",
+          "icon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejggIU1BgNlqH9zXE5Whp_fwUDvBDRI91rS7zxfehCddBl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DStgKEvDP0B/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDStgKEvDP0B%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nicola+J.+James+Bell+JP+%22P4%22+Place+2+Central+Texas+Instagram&sa=X&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ5t4CegQINxAB"
+      },
+      "source": "Instagram"
+    },
+    {
+      "position": 3,
+      "title": "Special greetings on this Love Day💕. Thank you for coming ...",
+      "link": "https://www.instagram.com/p/DUwgAbFkePP/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUwgAbFkePP/&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQFnoECB4QAQ",
+      "displayed_link": "https://www.instagram.com › DUwgAbFkePP",
+      "favicon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgrMIkXvUSmihAv6eJI75aNQ.png",
+      "date": "Feb 14, 2026",
+      "snippet": "Photo by Julie Hammond on February 06, 2026. May be an image of magazine.",
+      "about_this_result": {
+        "source": {
+          "description": "Photo by Julie Hammond on February 06, 2026. May be an image of magazine.",
+          "source_info_link": "https://www.instagram.com/p/DUwgAbFkePP/",
+          "icon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgj2BVxtTXvvufLj8FiNHP2aYqXnvV1MCPULoyrOl_jCl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUwgAbFkePP/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUwgAbFkePP%2F",
+      "missing": [
+        "P4",
+        "Central"
+      ],
+      "source": "Instagram"
+    },
+    {
+      "position": 4,
+      "title": "Special greetings on this Love Day💕. Thank you for coming ...",
+      "link": "https://www.instagram.com/p/DUwfQQ5Guu2/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUwfQQ5Guu2/&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQFnoECCIQAQ",
+      "displayed_link": "https://www.instagram.com › james4txjustice",
+      "favicon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgmvs_xwM_eZ7ReipskyC244.png",
+      "date": "Feb 14, 2026",
+      "snippet": "Photo by Nicola J. James on February 14, 2026. May be an image.",
+      "snippet_highlighted_words": [
+        "Nicola J",
+        "James"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Photo by Nicola J. James on February 14, 2026. May be an image.",
+          "source_info_link": "https://www.instagram.com/p/DUwfQQ5Guu2/",
+          "icon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgpmLvjsteR9bRCfRV1xfBM8vbTiNoJQIVD0hVOHY2Cwd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUwfQQ5Guu2/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUwfQQ5Guu2%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nicola+J.+James+Bell+JP+P4+Place+2+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ5t4CegQINBAB"
+      },
+      "source": "Instagram"
+    },
+    {
+      "position": 5,
+      "title": "Ms. Rosa, thank you for gracing me with your presence and ...",
+      "link": "https://www.instagram.com/p/DBxZ4HxsPcn/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DBxZ4HxsPcn/&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQFnoECBwQAQ",
+      "displayed_link": "https://www.instagram.com › ...",
+      "favicon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejggi9tAbhkziMMXS8SiMsTJ4.png",
+      "date": "Oct 30, 2024",
+      "snippet": "Greetings Bell County. You have the great opportunity to hear from various candidates happening right now at the 146th Judicial District ...",
+      "snippet_highlighted_words": [
+        "Bell"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Greetings Bell County. You have the great opportunity to hear from various candidates happening right now at the 146th Judicial District ...",
+          "source_info_link": "https://www.instagram.com/p/DBxZ4HxsPcn/",
+          "icon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejghz4iyalFzHgHBkdOFmuW8hsr7EyZ-zSi1TA7yPRZknG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DBxZ4HxsPcn/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDBxZ4HxsPcn%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nicola+J.+James+Bell+JP+P4+Place+2+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ5t4CegQIMxAB"
+      },
+      "source": "Instagram"
+    },
+    {
+      "position": 6,
+      "title": "Support Judge Nicola James for Re-election",
+      "link": "https://www.instagram.com/p/DQzliVJE_5s/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DQzliVJE_5s/&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQFnoECB0QAQ",
+      "displayed_link": "https://www.instagram.com › ...",
+      "favicon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgk0-KE_Uz44aZ0NYEILcrss.png",
+      "date": "Nov 8, 2025",
+      "snippet": "JAM FOR JUSTICE 6 \"A JAMAICAN CUISINE CAMPAIGN FUNDRAISER\" JUDGE NICOLA JAMES JUSTICE OF THE PEACE PRECINCT 4, PLACE 2 BELL COUNTY, TEXAS ...",
+      "snippet_highlighted_words": [
+        "NICOLA JAMES JUSTICE OF THE PEACE",
+        "4",
+        "PLACE 2 BELL",
+        "TEXAS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "JAM FOR JUSTICE 6 \"A JAMAICAN CUISINE CAMPAIGN FUNDRAISER\" JUDGE NICOLA JAMES JUSTICE OF THE PEACE PRECINCT 4, PLACE 2 BELL COUNTY, TEXAS ...",
+          "source_info_link": "https://www.instagram.com/p/DQzliVJE_5s/",
+          "icon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgpsSJ0b5zBM5O41MCDMC7tM9qOdY7nhVNJ8eCkOnUBxS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DQzliVJE_5s/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDQzliVJE_5s%2F",
+      "missing": [
+        "J."
+      ],
+      "must_include": {
+        "word": "J.",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nicola+%22J.%22+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sa=X&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ5t4CegQIMhAB"
+      },
+      "source": "Instagram"
+    },
+    {
+      "position": 7,
+      "title": "Surprise platforms, education claims highlight Bell County ...",
+      "link": "https://www.tdtnews.com/news/central_texas_news/article_aeb1ef24-4c50-4955-9131-f5f78eb84cf8.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tdtnews.com/news/central_texas_news/article_aeb1ef24-4c50-4955-9131-f5f78eb84cf8.html&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQFnoECCEQAQ",
+      "displayed_link": "https://www.tdtnews.com › news › central_texas_news",
+      "favicon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgs2uByri7h59h65Lfu5k4OY.png",
+      "date": "6 days ago",
+      "snippet": "BELTON — Imagine trying to get 32 politicians to agree to anything, then try to imagine getting them to agree to appear in the same room.",
+      "about_this_result": {
+        "source": {
+          "description": "BELTON — Imagine trying to get 32 politicians to agree to anything, then try to imagine getting them to agree to appear in the same room.",
+          "source_info_link": "https://www.tdtnews.com/news/central_texas_news/article_aeb1ef24-4c50-4955-9131-f5f78eb84cf8.html",
+          "icon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgn5MxRYqrkN3f72FKuEm0KL8UcV75cnoNWdzNjEc-q7n.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tdtnews.com/news/central_texas_news/article_aeb1ef24-4c50-4955-9131-f5f78eb84cf8.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tdtnews.com%2Fnews%2Fcentral_texas_news%2Farticle_aeb1ef24-4c50-4955-9131-f5f78eb84cf8.html",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nicola+J.+James+Bell+JP+%22P4%22+Place+2+Central+Texas+Instagram&sa=X&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ5t4CegQINhAB"
+      },
+      "source": "tdtnews.com"
+    },
+    {
+      "position": 8,
+      "title": "Hey everyone please welcome and go follow new ...",
+      "link": "https://www.facebook.com/groups/texascma/posts/2093293088116656/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/texascma/posts/2093293088116656/&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQFnoECDwQAQ",
+      "displayed_link": "2 days ago",
+      "favicon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgt--rxZPU7YG804FQTycFLs.png",
+      "snippet": "Hey everyone please welcome and go follow new #TCMAMember Darryl Lee Rush Band! https://www.facebook.com/darrylleerushband.",
+      "about_this_result": {
+        "source": {
+          "description": "Hey everyone please welcome and go follow new #TCMAMember Darryl Lee Rush Band! https://www.facebook.com/darrylleerushband.",
+          "source_info_link": "https://www.facebook.com/groups/texascma/posts/2093293088116656/",
+          "icon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgsjx1jdPS59UXIKRV04HWHWEWz8P0Ki5A3IhHoTf8Fbf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/texascma/posts/2093293088116656/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Ftexascma%2Fposts%2F2093293088116656%2F",
+      "missing": [
+        "P4"
+      ],
+      "must_include": {
+        "word": "P4",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Nicola+J.+James+Bell+JP+%22P4%22+Place+2+Central+Texas+Instagram&sa=X&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ5t4CegQIQRAB"
+      },
+      "source": "Facebook · Texas Country Music"
+    },
+    {
+      "position": 9,
+      "title": "Archive",
+      "link": "https://www.cabinetmagazine.org/archive/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cabinetmagazine.org/archive/&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQFnoECEIQAQ",
+      "displayed_link": "https://www.cabinetmagazine.org › archive",
+      "favicon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgg6WynIphV_thQi2TY-B-Ic.png",
+      "snippet": "Welcome to Armageddon! Julian Lucas · Issue 64 / The Nose / Summer 2017 · Onfim the Artist · Justin E. H. Smith · Issue 64 / The Nose / Summer 2017 · Against ...",
+      "about_this_result": {
+        "source": {
+          "description": "Welcome to Armageddon! Julian Lucas · Issue 64 / The Nose / Summer 2017 · Onfim the Artist · Justin E. H. Smith · Issue 64 / The Nose / Summer 2017 · Against ...",
+          "source_info_link": "https://www.cabinetmagazine.org/archive/",
+          "icon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgmJZugR59Acw7LkAFf8KY2wLKF90aHK_-TmeCiGiYQ78.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cabinetmagazine.org/archive/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cabinetmagazine.org%2Farchive%2F",
+      "source": "Cabinet Magazine"
+    },
+    {
+      "position": 10,
+      "title": "References",
+      "link": "https://drawdown.org/references",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://drawdown.org/references&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQFnoECD0QAQ",
+      "displayed_link": "https://drawdown.org › references",
+      "favicon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejggyqKm1StWej9oKMNCdArFM.png",
+      "snippet": "Tackling Climate Change through Livestock: A Global Assessment of Emissions and Mitigation Opportunities. Rome: Food and Agriculture Organization of the United ...",
+      "about_this_result": {
+        "source": {
+          "description": "Tackling Climate Change through Livestock: A Global Assessment of Emissions and Mitigation Opportunities. Rome: Food and Agriculture Organization of the United ...",
+          "source_info_link": "https://drawdown.org/references",
+          "icon": "https://serpapi.com/searches/69bb5daa3b93e314f2ac21f3/images/iEQvzHhOnFgT6drsnIejgueymSwFwxj-GVFxI4HmgX84RR2kF4ectaiXobFvtmzf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://drawdown.org/references&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdrawdown.org%2Freferences",
+      "source": "Project Drawdown®"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=rF27aeCWNt3dwN4P7f6miQk&start=10&sa=N&sstk=Af77f_fdSJwSiDRhmP0ICppoc6hGdEyktlmTSEdRaxqOfeefoLbpBLIr8oaxusdl0EdlVQj3UkucNNAotCf1oiQl7SfP7dj6_hzAkQ&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=rF27aeCWNt3dwN4P7f6miQk&start=10&sa=N&sstk=Af77f_fdSJwSiDRhmP0ICppoc6hGdEyktlmTSEdRaxqOfeefoLbpBLIr8oaxusdl0EdlVQj3UkucNNAotCf1oiQl7SfP7dj6_hzAkQ&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=rF27aeCWNt3dwN4P7f6miQk&start=20&sa=N&sstk=Af77f_fdSJwSiDRhmP0ICppoc6hGdEyktlmTSEdRaxqOfeefoLbpBLIr8oaxusdl0EdlVQj3UkucNNAotCf1oiQl7SfP7dj6_hzAkQ&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=rF27aeCWNt3dwN4P7f6miQk&start=30&sa=N&sstk=Af77f_fdSJwSiDRhmP0ICppoc6hGdEyktlmTSEdRaxqOfeefoLbpBLIr8oaxusdl0EdlVQj3UkucNNAotCf1oiQl7SfP7dj6_hzAkQ&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=rF27aeCWNt3dwN4P7f6miQk&start=40&sa=N&sstk=Af77f_fdSJwSiDRhmP0ICppoc6hGdEyktlmTSEdRaxqOfeefoLbpBLIr8oaxusdl0EdlVQj3UkucNNAotCf1oiQl7SfP7dj6_hzAkQ&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=rF27aeCWNt3dwN4P7f6miQk&start=50&sa=N&sstk=Af77f_fdSJwSiDRhmP0ICppoc6hGdEyktlmTSEdRaxqOfeefoLbpBLIr8oaxusdl0EdlVQj3UkucNNAotCf1oiQl7SfP7dj6_hzAkQ&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=rF27aeCWNt3dwN4P7f6miQk&start=60&sa=N&sstk=Af77f_fdSJwSiDRhmP0ICppoc6hGdEyktlmTSEdRaxqOfeefoLbpBLIr8oaxusdl0EdlVQj3UkucNNAotCf1oiQl7SfP7dj6_hzAkQ&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=rF27aeCWNt3dwN4P7f6miQk&start=70&sa=N&sstk=Af77f_fdSJwSiDRhmP0ICppoc6hGdEyktlmTSEdRaxqOfeefoLbpBLIr8oaxusdl0EdlVQj3UkucNNAotCf1oiQl7SfP7dj6_hzAkQ&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=rF27aeCWNt3dwN4P7f6miQk&start=80&sa=N&sstk=Af77f_fdSJwSiDRhmP0ICppoc6hGdEyktlmTSEdRaxqOfeefoLbpBLIr8oaxusdl0EdlVQj3UkucNNAotCf1oiQl7SfP7dj6_hzAkQ&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=rF27aeCWNt3dwN4P7f6miQk&start=90&sa=N&sstk=Af77f_fdSJwSiDRhmP0ICppoc6hGdEyktlmTSEdRaxqOfeefoLbpBLIr8oaxusdl0EdlVQj3UkucNNAotCf1oiQl7SfP7dj6_hzAkQ&ved=2ahUKEwjgnP3Q86qTAxXdLtAFHW2_KZEQ8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicola+J.+James+Bell+JP+P4+Place+2+Central+Texas+Instagram&start=90"
+    }
+  }
+}

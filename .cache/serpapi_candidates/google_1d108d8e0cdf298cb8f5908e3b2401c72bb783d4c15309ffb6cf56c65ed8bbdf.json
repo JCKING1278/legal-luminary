@@ -1,0 +1,373 @@
+{
+  "search_metadata": {
+    "id": "69bb5d1a71a41d4b0cf3fe52",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/71p-HeWlA9LHz-UasoLdaw/69bb5d1a71a41d4b0cf3fe52.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/71p-HeWlA9LHz-UasoLdaw/69bb5d1a71a41d4b0cf3fe52.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:06 UTC",
+    "processed_at": "2026-03-19 02:19:06 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/71p-HeWlA9LHz-UasoLdaw/69bb5d1a71a41d4b0cf3fe52.html",
+    "total_time_taken": 3.2
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of Michael Howard Williams for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of Michael Howard Williams for US House TX-31? Include who that supporter works for.",
+    "total_results": 3340000,
+    "time_taken_displayed": 0.61,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "_Az2u3icxZTtcrI4FID_732sf3gVELdqZ5h3koiV149CbbX2jxMhRhSMEhT1397LXtVezQb8orZ0992ZnT3DQJLzFU6enN__8L3l4s9f-rMoWvF7WY7juEQZoz4pOSyQMd8vHXnKfB46s-_7ra4VHK4rBeLprWa5it0177Wr7YVlWl6vPC3ao0Lqoo8nmJO5iLibc3ksi9fiV60hJiVeIsvSol6F5jjo9ffdUllR66VHGQfCAPxHYoAn8YamGAih75UoXTLyvW0j1f7ILB1DwMzK6LhIqQHsZN78fCNG6tlHwteC22LcxblZgZmZwVGatpnkAYjC1OBWzA8r1y22T0Fzcn0MdPRsXIsFQa6Y5lkLbYAQaMXoqjyFoKckFdBB6BIOCjWyoIZMlh9eeA5oy5gVbfDVOQkr86kXuyNxErJLBU-KPAnFR5U9Z-akg5AnmKHnusKaNesweLQn4M6vLwZ7tfcCnJG9KAMrBrIzEXY-wy5xx7Ox8i0F2uEXonmW6M3cBO4O7q2eU-qUoJrBOakkRe82mRxszjl8IihfdTxSBowE7gvVVjKAL2ejGoAUION6eMYp5kecUzHfLVJ61KFkSm9Mk1iL0-gc38mq4eUPxB7ESV9zxFkzlEXLNE0jyTY6RqBZMzGH4golo3Z6zVrZMMDM1Aom11bU2b7-U_JunPeblCEJbgDaIKibmCFREZQYJROI0qJC27gFH9LrvAtQBR1x_nmBudfxLDY483uDYxbjh4Y6VqvKfPc8NXGwqe06B3vaPsy3zSY9YcuCyU90Yuf_A_vUp9vpLWf0I9j0K7BtA33Rp09gX_t02pBQ83OwjRSUTJ8mWXUWbBuaGbB3uX06A7b5t2C_vivLBWz7E7DhLdgwH-ykT1_ARgje9On0t9KyZMD-V33a_ud9OuWbHD_vm_ZmTvObt11h9ekmVl_Xw-16j7Vw2J9DOnjtPNofm_c0iO6x638be-49LP-I9m5hrQ9nTPK4FM2I5OOQEh5JLluyUBLP1FvipeNhX-Kb1YqFERHLU6krtoKJL7VYjENXGnq-7-GAS1Ph8tIXyxtOpOfXoqZ-l8yl429cIsUiTTTDUSZSzMJF6lQqBH7IdAVXmp2nTRFtem_tQYcYbG23-gD2Bqxda921sEI0v-cMHDLg4zvl5fA2qh4OxmzV6Y5-s_d3naeOFz8Ui77GobZHE6vG34JdYx48zO9ah7lVxmPH37Xf3iblHe1aj41-_8WtT7rlCmGLQK2sHx-iuGGkm-H6or0io2FZGxy6hSB0dAFBhYKeDYY0ae8F7uAx4VvdKTu4TqpqvaZodTLVCgGN9iu9rhT4MtTVvwA9g_mD",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_Az2u3icxZTtcrI4FID_732sf3gVELdqZ5h3koiV149CbbX2jxMhRhSMEhT1397LXtVezQb8orZ0992ZnT3DQJLzFU6enN__8L3l4s9f-rMoWvF7WY7juEQZoz4pOSyQMd8vHXnKfB46s-_7ra4VHK4rBeLprWa5it0177Wr7YVlWl6vPC3ao0Lqoo8nmJO5iLibc3ksi9fiV60hJiVeIsvSol6F5jjo9ffdUllR66VHGQfCAPxHYoAn8YamGAih75UoXTLyvW0j1f7ILB1DwMzK6LhIqQHsZN78fCNG6tlHwteC22LcxblZgZmZwVGatpnkAYjC1OBWzA8r1y22T0Fzcn0MdPRsXIsFQa6Y5lkLbYAQaMXoqjyFoKckFdBB6BIOCjWyoIZMlh9eeA5oy5gVbfDVOQkr86kXuyNxErJLBU-KPAnFR5U9Z-akg5AnmKHnusKaNesweLQn4M6vLwZ7tfcCnJG9KAMrBrIzEXY-wy5xx7Ox8i0F2uEXonmW6M3cBO4O7q2eU-qUoJrBOakkRe82mRxszjl8IihfdTxSBowE7gvVVjKAL2ejGoAUION6eMYp5kecUzHfLVJ61KFkSm9Mk1iL0-gc38mq4eUPxB7ESV9zxFkzlEXLNE0jyTY6RqBZMzGH4golo3Z6zVrZMMDM1Aom11bU2b7-U_JunPeblCEJbgDaIKibmCFREZQYJROI0qJC27gFH9LrvAtQBR1x_nmBudfxLDY483uDYxbjh4Y6VqvKfPc8NXGwqe06B3vaPsy3zSY9YcuCyU90Yuf_A_vUp9vpLWf0I9j0K7BtA33Rp09gX_t02pBQ83OwjRSUTJ8mWXUWbBuaGbB3uX06A7b5t2C_vivLBWz7E7DhLdgwH-ykT1_ARgje9On0t9KyZMD-V33a_ud9OuWbHD_vm_ZmTvObt11h9ekmVl_Xw-16j7Vw2J9DOnjtPNofm_c0iO6x638be-49LP-I9m5hrQ9nTPK4FM2I5OOQEh5JLluyUBLP1FvipeNhX-Kb1YqFERHLU6krtoKJL7VYjENXGnq-7-GAS1Ph8tIXyxtOpOfXoqZ-l8yl429cIsUiTTTDUSZSzMJF6lQqBH7IdAVXmp2nTRFtem_tQYcYbG23-gD2Bqxda921sEI0v-cMHDLg4zvl5fA2qh4OxmzV6Y5-s_d3naeOFz8Ui77GobZHE6vG34JdYx48zO9ah7lVxmPH37Xf3iblHe1aj41-_8WtT7rlCmGLQK2sHx-iuGGkm-H6or0io2FZGxy6hSB0dAFBhYKeDYY0ae8F7uAx4VvdKTu4TqpqvaZodTLVCgGN9iu9rhT4MtTVvwA9g_mD"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "WILLIAMS, MICHAEL HOWARD MR. - Candidate overview",
+      "link": "https://www.fec.gov/data/candidate/H0TX31048/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/data/candidate/H0TX31048/&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28QFnoECCIQAQ",
+      "displayed_link": "https://www.fec.gov › data › candidate › H0TX31048",
+      "favicon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSddD28ALeMwoC4YGPThGSJlY.png",
+      "snippet": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+      "snippet_highlighted_words": [
+        "federal",
+        "finance"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+          "source_info_link": "https://www.fec.gov/data/candidate/H0TX31048/",
+          "icon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdeuhlm056nw_2JTs055gU2IM9Cre0E8C3qlhEwaL-vuE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/data/candidate/H0TX31048/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Fdata%2Fcandidate%2FH0TX31048%2F",
+      "missing": [
+        "largest"
+      ],
+      "must_include": {
+        "word": "largest",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+%22largest%22+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q5t4CegQIKxAB"
+      },
+      "source": "FEC.gov"
+    },
+    {
+      "position": 2,
+      "title": "Houston's biggest Republican and Democratic donors ...",
+      "link": "https://www.houstonchronicle.com/politics/texas/article/houston-political-donors-democrat-republican-21114292.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.houstonchronicle.com/politics/texas/article/houston-political-donors-democrat-republican-21114292.php&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28QFnoECBwQAQ",
+      "displayed_link": "https://www.houstonchronicle.com › ... › Texas Politics",
+      "favicon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdfChwhgPDY7Wj4RjJAyi0Po.png",
+      "date": "Nov 28, 2025",
+      "snippet": "Nearly a dozen people who live in Houston donated more than $1 million to political candidates in 2024. The biggest donors are ...",
+      "snippet_highlighted_words": [
+        "biggest donors"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nearly a dozen people who live in Houston donated more than $1 million to political candidates in 2024. The biggest donors are ...",
+          "source_info_link": "https://www.houstonchronicle.com/politics/texas/article/houston-political-donors-democrat-republican-21114292.php",
+          "icon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdZBEq1IJoM9Thf_nFjk0HJg3_2ANLtUhW5B8dw0BM1cf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.houstonchronicle.com/politics/texas/article/houston-political-donors-democrat-republican-21114292.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.houstonchronicle.com%2Fpolitics%2Ftexas%2Farticle%2Fhouston-political-donors-democrat-republican-21114292.php",
+      "missing": [
+        "Michael",
+        "Howard",
+        "31?"
+      ],
+      "source": "Houston Chronicle"
+    },
+    {
+      "position": 3,
+      "title": "Donor Lookup Results • OpenSecrets",
+      "link": "https://www.opensecrets.org/pres08/search?amt=a&sort=A&zip=75205",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/pres08/search%3Famt%3Da%26sort%3DA%26zip%3D75205&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28QFnoECB4QAQ",
+      "displayed_link": "https://www.opensecrets.org › pres08 › search",
+      "favicon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdXqGH40MoaKpjmSZLC6KCHQ.png",
+      "snippet": "Your search has generated too many results. Only the top 1000 records are being displayed. If you would like to refine your search, return to the form page.",
+      "snippet_highlighted_words": [
+        "top"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Your search has generated too many results. Only the top 1000 records are being displayed. If you would like to refine your search, return to the form page.",
+          "source_info_link": "https://www.opensecrets.org/pres08/search?amt=a&sort=A&zip=75205",
+          "icon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdSj_RCl1pAWw6rnenuwPq8y4gcxybT_avcGM2UNpB3jB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/pres08/search?amt=a&sort=A&zip=75205&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fpres08%2Fsearch%3Famt%3Da%26sort%3DA%26zip%3D75205",
+      "missing": [
+        "largest",
+        "Include"
+      ],
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 4,
+      "title": "Donors and Members",
+      "link": "https://support.texastribune.org/members",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.texastribune.org/members&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28QFnoECCEQAQ",
+      "displayed_link": "https://support.texastribune.org › members",
+      "favicon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdaiZbtLJv5Cyg4T0jei3zls.png",
+      "snippet": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+      "snippet_highlighted_words": [
+        "donations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+          "source_info_link": "https://support.texastribune.org/members",
+          "icon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdfbD_k1ELTjXKtHq2phLUyh6IjE1b0bPfmTxqoog5l3G.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://support.texastribune.org/members&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsupport.texastribune.org%2Fmembers",
+      "missing": [
+        "31?"
+      ],
+      "must_include": {
+        "word": "31?",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-+%2231?%22+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q5t4CegQILRAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 5,
+      "title": "James Talarico points out the danger of ultra-wealthy ...",
+      "link": "https://www.facebook.com/PatrioticMillionaires/posts/james-talarico-points-out-the-danger-of-ultra-wealthy-donors-like-tim-dunn-and-f/1159534269552839/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/PatrioticMillionaires/posts/james-talarico-points-out-the-danger-of-ultra-wealthy-donors-like-tim-dunn-and-f/1159534269552839/&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28QFnoECCYQAQ",
+      "displayed_link": "71.1K+ reactions · 8 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdTEjzWHiFoguTXX5__oNRVU.png",
+      "snippet": "James Talarico points out the danger of ultra-wealthy donors like Tim Dunn and Farris Wilks in Texas. These billionaires use their fortunes ...",
+      "snippet_highlighted_words": [
+        "donors",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "James Talarico points out the danger of ultra-wealthy donors like Tim Dunn and Farris Wilks in Texas. These billionaires use their fortunes ...",
+          "source_info_link": "https://www.facebook.com/PatrioticMillionaires/posts/james-talarico-points-out-the-danger-of-ultra-wealthy-donors-like-tim-dunn-and-f/1159534269552839/",
+          "icon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdXmz6QlgyGSZftoLl9fDFoia4t62SmMwvhFhgKiaMuco.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/PatrioticMillionaires/posts/james-talarico-points-out-the-danger-of-ultra-wealthy-donors-like-tim-dunn-and-f/1159534269552839/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FPatrioticMillionaires%2Fposts%2Fjames-talarico-points-out-the-danger-of-ultra-wealthy-donors-like-tim-dunn-and-f%2F1159534269552839%2F",
+      "source": "Facebook · Patriotic Millionaires"
+    },
+    {
+      "position": 6,
+      "title": "Nearly a dozen people who live in Houston donated more ...",
+      "link": "https://www.facebook.com/houstonchronicle/posts/nearly-a-dozen-people-who-live-in-houston-donated-more-than-1-million-to-politic/1277703561040446/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/houstonchronicle/posts/nearly-a-dozen-people-who-live-in-houston-donated-more-than-1-million-to-politic/1277703561040446/&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28QFnoECEMQAQ",
+      "displayed_link": "5 reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdQi9d2siYD_0ld5637nCX94.png",
+      "snippet": "The biggest donors are overwhelmingly Republican. See Houston's biggest Republican and Democratic donors, listed by party. Kenny Williams and 4 ...",
+      "snippet_highlighted_words": [
+        "biggest donors",
+        "biggest",
+        "donors",
+        "Williams"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The biggest donors are overwhelmingly Republican. See Houston's biggest Republican and Democratic donors, listed by party. Kenny Williams and 4 ...",
+          "source_info_link": "https://www.facebook.com/houstonchronicle/posts/nearly-a-dozen-people-who-live-in-houston-donated-more-than-1-million-to-politic/1277703561040446/",
+          "icon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdXui8yD8DqGowQ40v_AETW17-gGXGWW-YqF1qyCsvNtE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/houstonchronicle/posts/nearly-a-dozen-people-who-live-in-houston-donated-more-than-1-million-to-politic/1277703561040446/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fhoustonchronicle%2Fposts%2Fnearly-a-dozen-people-who-live-in-houston-donated-more-than-1-million-to-politic%2F1277703561040446%2F",
+      "source": "Facebook · Houston Chronicle"
+    },
+    {
+      "position": 7,
+      "title": "US sports owners make huge political donations. Which ...",
+      "link": "https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28QFnoECEAQAQ",
+      "displayed_link": "https://www.theguardian.com › sport › nov › us-sports-...",
+      "favicon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdUHy0m9gnhBVapMh_zIMIfM.png",
+      "date": "Nov 5, 2024",
+      "snippet": "Nearly 95% of total contributions from owners across America's major sports leagues went to Republicans. See how your team fared in our ...",
+      "snippet_highlighted_words": [
+        "major"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nearly 95% of total contributions from owners across America's major sports leagues went to Republicans. See how your team fared in our ...",
+          "source_info_link": "https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database",
+          "icon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdc5mByjn29xuioDDJQ6uWDBGQaJT2dZhuoC7V3Rg0lCP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.theguardian.com/sport/2024/nov/05/us-sports-team-political-donations-database&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.theguardian.com%2Fsport%2F2024%2Fnov%2F05%2Fus-sports-team-political-donations-database",
+      "source": "The Guardian"
+    },
+    {
+      "position": 8,
+      "title": "Robert F. Smith (investor)",
+      "link": "https://en.wikipedia.org/wiki/Robert_F._Smith_(investor)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Robert_F._Smith_(investor)&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28QFnoECD8QAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Robert_F._Smith_(inv...",
+      "favicon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdXmupVIIYTPKDzWR65DxuPc.png",
+      "snippet": "Robert Frederick Smith (born December 1, 1962) is an American businessman. He is the founder, chairman, and CEO of private equity firm Vista Equity Partners ...",
+      "snippet_highlighted_words": [
+        "American"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Robert Frederick Smith (born December 1, 1962) is an American businessman. He is the founder, chairman, and CEO of private equity firm Vista Equity Partners ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Robert_F._Smith_(investor)",
+          "icon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdfboTCdFFv-tx4vFzAZhyJavgtXxRgZagHhp-Za9Chm9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Robert_F._Smith_(investor)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRobert_F._Smith_%28investor%29",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 9,
+      "title": "TikTok: Frequently Asked Questions and Issues for Congress",
+      "link": "https://www.congress.gov/crs-product/R48023",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/crs-product/R48023&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28QFnoECD0QAQ",
+      "displayed_link": "https://www.congress.gov › crs-product",
+      "favicon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdYAownJGTOZpGrVRaJNZ4Lw.png",
+      "date": "Feb 18, 2025",
+      "snippet": "They argue that the PRC government could apply these laws and regulations to compel ByteDance to turn over U.S. user data. Some Members have ...",
+      "snippet_highlighted_words": [
+        "U.S.",
+        "have"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "They argue that the PRC government could apply these laws and regulations to compel ByteDance to turn over U.S. user data. Some Members have ...",
+          "source_info_link": "https://www.congress.gov/crs-product/R48023",
+          "icon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdU25B7C5CdYRokPNDw-D35FIE5s6G1y8Kn_zHP0n0aJf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/crs-product/R48023&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2Fcrs-product%2FR48023",
+      "source": "Congress.gov"
+    },
+    {
+      "position": 10,
+      "title": "Mikal Williams",
+      "link": "https://ballotpedia.org/Mikal_Williams",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Mikal_Williams&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28QFnoECD4QAQ",
+      "displayed_link": "https://ballotpedia.org › Mikal_Williams",
+      "favicon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdbFTjqzAN9cXatDR63sBPsw.png",
+      "snippet": "Incumbent Randy Weber defeated Mikal Williams in the general election for U.S. House Texas District 14 on November 8, 2022. Candidate. %. Votes. ✓. Image of ...",
+      "snippet_highlighted_words": [
+        "Williams",
+        "U.S. House Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Incumbent Randy Weber defeated Mikal Williams in the general election for U.S. House Texas District 14 on November 8, 2022. Candidate. %. Votes. ✓. Image of ...",
+          "source_info_link": "https://ballotpedia.org/Mikal_Williams",
+          "icon": "https://serpapi.com/searches/69bb5d1a71a41d4b0cf3fe52/images/vDfwzvKwXWLhOSRvILwSdXbk6Sh-a3tm5FOWHlxJV9zgsfWibSHRVy8edYwKAnvh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Mikal_Williams&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FMikal_Williams",
+      "source": "Ballotpedia"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=HF27adqsNK7KkPIPiN2f-QY&start=10&sa=N&sstk=Af77f_etNv01ov2_ur8EKLv9e22bUEWZ92DgBjL7f-i5fKM8aG7uSBGRQQDGVqU0-l42eXv36kHrUChI8DTCv7ihFneRxt41n6rNFg&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q8NMDegQIDRAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=HF27adqsNK7KkPIPiN2f-QY&start=10&sa=N&sstk=Af77f_etNv01ov2_ur8EKLv9e22bUEWZ92DgBjL7f-i5fKM8aG7uSBGRQQDGVqU0-l42eXv36kHrUChI8DTCv7ihFneRxt41n6rNFg&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=HF27adqsNK7KkPIPiN2f-QY&start=20&sa=N&sstk=Af77f_etNv01ov2_ur8EKLv9e22bUEWZ92DgBjL7f-i5fKM8aG7uSBGRQQDGVqU0-l42eXv36kHrUChI8DTCv7ihFneRxt41n6rNFg&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=HF27adqsNK7KkPIPiN2f-QY&start=30&sa=N&sstk=Af77f_etNv01ov2_ur8EKLv9e22bUEWZ92DgBjL7f-i5fKM8aG7uSBGRQQDGVqU0-l42eXv36kHrUChI8DTCv7ihFneRxt41n6rNFg&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=HF27adqsNK7KkPIPiN2f-QY&start=40&sa=N&sstk=Af77f_etNv01ov2_ur8EKLv9e22bUEWZ92DgBjL7f-i5fKM8aG7uSBGRQQDGVqU0-l42eXv36kHrUChI8DTCv7ihFneRxt41n6rNFg&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=HF27adqsNK7KkPIPiN2f-QY&start=50&sa=N&sstk=Af77f_etNv01ov2_ur8EKLv9e22bUEWZ92DgBjL7f-i5fKM8aG7uSBGRQQDGVqU0-l42eXv36kHrUChI8DTCv7ihFneRxt41n6rNFg&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=HF27adqsNK7KkPIPiN2f-QY&start=60&sa=N&sstk=Af77f_etNv01ov2_ur8EKLv9e22bUEWZ92DgBjL7f-i5fKM8aG7uSBGRQQDGVqU0-l42eXv36kHrUChI8DTCv7ihFneRxt41n6rNFg&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=HF27adqsNK7KkPIPiN2f-QY&start=70&sa=N&sstk=Af77f_etNv01ov2_ur8EKLv9e22bUEWZ92DgBjL7f-i5fKM8aG7uSBGRQQDGVqU0-l42eXv36kHrUChI8DTCv7ihFneRxt41n6rNFg&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=HF27adqsNK7KkPIPiN2f-QY&start=80&sa=N&sstk=Af77f_etNv01ov2_ur8EKLv9e22bUEWZ92DgBjL7f-i5fKM8aG7uSBGRQQDGVqU0-l42eXv36kHrUChI8DTCv7ihFneRxt41n6rNFg&ved=2ahUKEwjaqqaM86qTAxUuJUQIHYjuJ28Q8tMDegQIDRAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+Michael+Howard+Williams+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=80"
+    }
+  }
+}

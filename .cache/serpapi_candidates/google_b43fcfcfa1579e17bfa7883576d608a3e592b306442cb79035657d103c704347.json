@@ -1,0 +1,363 @@
+{
+  "search_metadata": {
+    "id": "69bb5ce60558c021a9b17fed",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OY8hjWk1wjRG5M4fKpyNhg/69bb5ce60558c021a9b17fed.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/OY8hjWk1wjRG5M4fKpyNhg/69bb5ce60558c021a9b17fed.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:14 UTC",
+    "processed_at": "2026-03-19 02:18:14 UTC",
+    "google_url": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/OY8hjWk1wjRG5M4fKpyNhg/69bb5ce60558c021a9b17fed.html",
+    "total_time_taken": 1.83
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Killeen Council D1 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Killeen Council D1 election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 1560,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Lawsuit filed against former candidate for defamation and ...",
+      "link": "https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQFnoECCEQAQ",
+      "displayed_link": "80+ comments · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUaeQWO8eiIQPImgCWVEYwwBc.png",
+      "snippet": "Deb For Long Beach I want to publicly thank you for taking the time to chat with me in person about the law suit. The FPPC process is in ...",
+      "about_this_result": {
+        "source": {
+          "description": "Deb For Long Beach I want to publicly thank you for taking the time to chat with me in person about the law suit. The FPPC process is in ...",
+          "source_info_link": "https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/",
+          "icon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUaXP9Q8iI2AlgAL2yyB3f4nGMtOAU2drBB2esG479PArH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/LBpolitics/posts/26068769562761880/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2FLBpolitics%2Fposts%2F26068769562761880%2F",
+      "source": "Facebook · Long Beach Politics"
+    },
+    {
+      "position": 2,
+      "title": "3 Addendum",
+      "link": "https://documents.coastal.ca.gov/reports/2017/3/w28a-3-2017.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://documents.coastal.ca.gov/reports/2017/3/w28a-3-2017.pdf&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQFnoECBgQAQ",
+      "displayed_link": "https://documents.coastal.ca.gov › reports",
+      "date": "Mar 2, 2017",
+      "snippet": "The purpose of this addendum is to attach a comment letter from the owner of Anthony's. Fish Grotto, which is the existing restaurant that ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 834
+          },
+          "extensions": [
+            "834 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The purpose of this addendum is to attach a comment letter from the owner of Anthony's. Fish Grotto, which is the existing restaurant that ...",
+          "source_info_link": "https://documents.coastal.ca.gov/reports/2017/3/w28a-3-2017.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://documents.coastal.ca.gov/reports/2017/3/w28a-3-2017.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdocuments.coastal.ca.gov%2Freports%2F2017%2F3%2Fw28a-3-2017.pdf",
+      "source": "California State Portal | CA.gov"
+    },
+    {
+      "position": 3,
+      "title": "SENATE",
+      "link": "https://www.congress.gov/83/crecb/1953/06/15/GPO-CRECB-1953-pt5-11.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/83/crecb/1953/06/15/GPO-CRECB-1953-pt5-11.pdf&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQFnoECBoQAQ",
+      "displayed_link": "https://www.congress.gov › crecb › 1953/06/15",
+      "favicon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUaSXvns73DEuL5V-ykPq-_sA.png",
+      "snippet": "By Mr. RABAUT: Resolution of the Senate of the State of Michigan requesting the Fed- eral Government to give consideration to the. Hearst plan ...",
+      "snippet_highlighted_words": [
+        "give"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 161
+          },
+          "extensions": [
+            "161 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "By Mr. RABAUT: Resolution of the Senate of the State of Michigan requesting the Fed- eral Government to give consideration to the. Hearst plan ...",
+          "source_info_link": "https://www.congress.gov/83/crecb/1953/06/15/GPO-CRECB-1953-pt5-11.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUaQMR1nKM94q7DRbJ7A5FeVT77i4xpI26KUclbUt6KzFK.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/83/crecb/1953/06/15/GPO-CRECB-1953-pt5-11.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2F83%2Fcrecb%2F1953%2F06%2F15%2FGPO-CRECB-1953-pt5-11.pdf",
+      "source": "Congress.gov | Library of Congress"
+    },
+    {
+      "position": 4,
+      "title": "Drought risk management: a strategic approach",
+      "link": "https://unesdoc.unesco.org/ark:/48223/pf0000245633",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://unesdoc.unesco.org/ark:/48223/pf0000245633&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQFnoECBkQAQ",
+      "displayed_link": "https://unesdoc.unesco.org › ark:",
+      "snippet": "Drought risk management Drought risk m anagem ent A strategic approach 9 789231 000942 Printed on recycled paper GIWP (General Institute of Water Resources ...",
+      "about_this_result": {
+        "source": {
+          "description": "Drought risk management Drought risk m anagem ent A strategic approach 9 789231 000942 Printed on recycled paper GIWP (General Institute of Water Resources ...",
+          "source_info_link": "https://unesdoc.unesco.org/ark:/48223/pf0000245633"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://unesdoc.unesco.org/ark:/48223/pf0000245633&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Funesdoc.unesco.org%2Fark%3A%2F48223%2Fpf0000245633",
+      "source": "UNESCO"
+    },
+    {
+      "position": 5,
+      "title": "City Council City Council Regular Meeting Agenda Monday ...",
+      "link": "https://mccmeetings.blob.core.usgovcloudapi.net/burlesontx-pubu/MEET-Packet-4e46e9a7a51c426682f90be947e9666f.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mccmeetings.blob.core.usgovcloudapi.net/burlesontx-pubu/MEET-Packet-4e46e9a7a51c426682f90be947e9666f.pdf&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQFnoECBsQAQ",
+      "displayed_link": "https://mccmeetings.blob.core.usgovcloudapi.net › ...",
+      "date": "Sep 15, 2025",
+      "snippet": "B. Consider and take possible action on a resolution approving settlement participation form to participate in the settlement of the State ...",
+      "about_this_result": {
+        "source": {
+          "description": "B. Consider and take possible action on a resolution approving settlement participation form to participate in the settlement of the State ...",
+          "source_info_link": "https://mccmeetings.blob.core.usgovcloudapi.net/burlesontx-pubu/MEET-Packet-4e46e9a7a51c426682f90be947e9666f.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mccmeetings.blob.core.usgovcloudapi.net/burlesontx-pubu/MEET-Packet-4e46e9a7a51c426682f90be947e9666f.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmccmeetings.blob.core.usgovcloudapi.net%2Fburlesontx-pubu%2FMEET-Packet-4e46e9a7a51c426682f90be947e9666f.pdf",
+      "source": "usgovcloudapi.net"
+    },
+    {
+      "position": 6,
+      "title": "Central Texas Conference",
+      "link": "https://www.ctcumc.org/files/galleries/archived_journals/1915journal.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ctcumc.org/files/galleries/archived_journals/1915journal.pdf&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQFnoECBcQAQ",
+      "displayed_link": "https://www.ctcumc.org › files › archived_journals",
+      "favicon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUaTNxNQe45NcWC46DXnS-ZuM.png",
+      "snippet": "Conference Officers. President—Bishop James H. McCoy, D. D., Birmingham, Ala. Secretary—A. D. Porter, Cleburne, Texas. ASSISTANT SECRETARIES.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 120
+          },
+          "extensions": [
+            "120 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Conference Officers. President—Bishop James H. McCoy, D. D., Birmingham, Ala. Secretary—A. D. Porter, Cleburne, Texas. ASSISTANT SECRETARIES.",
+          "source_info_link": "https://www.ctcumc.org/files/galleries/archived_journals/1915journal.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUaS8FLjxPtxbggLCy1OgmWQuRRdsmRdA_cqR-opr-fRsg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ctcumc.org/files/galleries/archived_journals/1915journal.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ctcumc.org%2Ffiles%2Fgalleries%2Farchived_journals%2F1915journal.pdf",
+      "source": "CTCUMC.org"
+    },
+    {
+      "position": 7,
+      "title": "Sep 3",
+      "link": "https://www.k-state.edu/news/articles/newsclips/25/Sept25clips.xls",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.k-state.edu/news/articles/newsclips/25/Sept25clips.xls&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQFnoECBYQAQ",
+      "displayed_link": "https://www.k-state.edu › articles › newsclips",
+      "favicon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUaajLEKysSuO49IKUZBsqGqA.png",
+      "snippet": "... a little of this, a dash of that and you're set. But as Kansas State University beef cattle experts remind ed producers in a recent ... KSAL-AM, 60404 ...",
+      "snippet_highlighted_words": [
+        "little"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... a little of this, a dash of that and you're set. But as Kansas State University beef cattle experts remind ed producers in a recent ... KSAL-AM, 60404 ...",
+          "source_info_link": "https://www.k-state.edu/news/articles/newsclips/25/Sept25clips.xls",
+          "icon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUaVI8YMESQDYa9_D8xU1eSFAFMkY9oL9mGR8PABq9OAhd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.k-state.edu/news/articles/newsclips/25/Sept25clips.xls&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.k-state.edu%2Fnews%2Farticles%2Fnewsclips%2F25%2FSept25clips.xls",
+      "source": "Kansas State University"
+    },
+    {
+      "position": 8,
+      "title": "THE ECONOMICS OF ECOSYSTEMS AND BIODIVERSITY",
+      "link": "https://www.vliz.be/imisdocs/publications/396127.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vliz.be/imisdocs/publications/396127.pdf&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQFnoECDwQAQ",
+      "displayed_link": "https://www.vliz.be › imisdocs › publications",
+      "favicon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUafI7qeq3yYA4UsCW3NKFH_8.png",
+      "author": "by M Kettunen",
+      "snippet": "Chapter 1 provides an overview of key issues and priorities related to the global biodiversity crisis. 1.1 in- troduces policy-makers to basic terms ...",
+      "snippet_highlighted_words": [
+        "provides",
+        "overview",
+        "key issues"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 429
+          },
+          "extensions": [
+            "429 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Chapter 1 provides an overview of key issues and priorities related to the global biodiversity crisis. 1.1 in- troduces policy-makers to basic terms ...",
+          "source_info_link": "https://www.vliz.be/imisdocs/publications/396127.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUadvyk93Rk82qMLpUuhKgELsJzrEGNIIzfbf35_yBygM6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.vliz.be/imisdocs/publications/396127.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.vliz.be%2Fimisdocs%2Fpublications%2F396127.pdf",
+      "source": "Vlaams Instituut voor de Zee"
+    },
+    {
+      "position": 9,
+      "title": "February 17, 2009 Agenda",
+      "link": "https://lfpubweb.cityofdenton.com/PublicWeblink/docview.aspx?id=4736&dbid=0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lfpubweb.cityofdenton.com/PublicWeblink/docview.aspx%3Fid%3D4736%26dbid%3D0&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQFnoECD4QAQ",
+      "displayed_link": "https://lfpubweb.cityofdenton.com › docview",
+      "date": "Feb 16, 2009",
+      "snippet": "February 17, 2009 AgendaAGENDA CITY OF DENTON CITY COUNCIL February 17, 2009 After determining that a quorum is present, the City Council of ...",
+      "snippet_highlighted_words": [
+        "COUNCIL",
+        "present",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "February 17, 2009 AgendaAGENDA CITY OF DENTON CITY COUNCIL February 17, 2009 After determining that a quorum is present, the City Council of ...",
+          "source_info_link": "https://lfpubweb.cityofdenton.com/PublicWeblink/docview.aspx?id=4736&dbid=0"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://lfpubweb.cityofdenton.com/PublicWeblink/docview.aspx?id=4736&dbid=0&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flfpubweb.cityofdenton.com%2FPublicWeblink%2Fdocview.aspx%3Fid%3D4736%26dbid%3D0",
+      "source": "City of Denton, TX"
+    },
+    {
+      "position": 10,
+      "title": "Learning Representations for Information-rich Graphs",
+      "link": "https://escholarship.org/content/qt7v14d6vv/qt7v14d6vv_noSplash_ab4725609f8d4725da6f58961f369293.pdf?t=s05jdb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://escholarship.org/content/qt7v14d6vv/qt7v14d6vv_noSplash_ab4725609f8d4725da6f58961f369293.pdf%3Ft%3Ds05jdb&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQFnoECD0QAQ",
+      "displayed_link": "https://escholarship.org › content",
+      "favicon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUaTktEakHN6GC9Pew6GZfNpI.png",
+      "snippet": "Publications. Refereed conference papers: Zexi Huang, Mert Kosan, Sourav Medya, Sayan Ranu, Ambuj Singh. Global Coun- terfactual Explainer for Graph Neural ...",
+      "snippet_highlighted_words": [
+        "terfactual"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Publications. Refereed conference papers: Zexi Huang, Mert Kosan, Sourav Medya, Sayan Ranu, Ambuj Singh. Global Coun- terfactual Explainer for Graph Neural ...",
+          "source_info_link": "https://escholarship.org/content/qt7v14d6vv/qt7v14d6vv_noSplash_ab4725609f8d4725da6f58961f369293.pdf?t=s05jdb",
+          "icon": "https://serpapi.com/searches/69bb5ce60558c021a9b17fed/images/F29LR6-B4-STgaSGIyAUaYEgEC-RTWZvWXHk7MAfrodyBkUJPD9qJqsU60YdS6Ut.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://escholarship.org/content/qt7v14d6vv/qt7v14d6vv_noSplash_ab4725609f8d4725da6f58961f369293.pdf?t=s05jdb&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fescholarship.org%2Fcontent%2Fqt7v14d6vv%2Fqt7v14d6vv_noSplash_ab4725609f8d4725da6f58961f369293.pdf%3Ft%3Ds05jdb",
+      "source": "eScholarship"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=51y7ac7BEaqfi-gPk9P64As&start=10&sa=N&sstk=Af77f_fi-RpgUw6KiifyRDOTJSiAKxBAT2RMk-5YUGYRXtB-sZNVoY9pgoszsLAfarjQpyN2I4uknLex_uwkHp9Gpam8dFZEacBRbQ&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=51y7ac7BEaqfi-gPk9P64As&start=10&sa=N&sstk=Af77f_fi-RpgUw6KiifyRDOTJSiAKxBAT2RMk-5YUGYRXtB-sZNVoY9pgoszsLAfarjQpyN2I4uknLex_uwkHp9Gpam8dFZEacBRbQ&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=51y7ac7BEaqfi-gPk9P64As&start=20&sa=N&sstk=Af77f_fi-RpgUw6KiifyRDOTJSiAKxBAT2RMk-5YUGYRXtB-sZNVoY9pgoszsLAfarjQpyN2I4uknLex_uwkHp9Gpam8dFZEacBRbQ&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=51y7ac7BEaqfi-gPk9P64As&start=30&sa=N&sstk=Af77f_fi-RpgUw6KiifyRDOTJSiAKxBAT2RMk-5YUGYRXtB-sZNVoY9pgoszsLAfarjQpyN2I4uknLex_uwkHp9Gpam8dFZEacBRbQ&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=51y7ac7BEaqfi-gPk9P64As&start=40&sa=N&sstk=Af77f_fi-RpgUw6KiifyRDOTJSiAKxBAT2RMk-5YUGYRXtB-sZNVoY9pgoszsLAfarjQpyN2I4uknLex_uwkHp9Gpam8dFZEacBRbQ&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=51y7ac7BEaqfi-gPk9P64As&start=50&sa=N&sstk=Af77f_fi-RpgUw6KiifyRDOTJSiAKxBAT2RMk-5YUGYRXtB-sZNVoY9pgoszsLAfarjQpyN2I4uknLex_uwkHp9Gpam8dFZEacBRbQ&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=51y7ac7BEaqfi-gPk9P64As&start=60&sa=N&sstk=Af77f_fi-RpgUw6KiifyRDOTJSiAKxBAT2RMk-5YUGYRXtB-sZNVoY9pgoszsLAfarjQpyN2I4uknLex_uwkHp9Gpam8dFZEacBRbQ&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=51y7ac7BEaqfi-gPk9P64As&start=70&sa=N&sstk=Af77f_fi-RpgUw6KiifyRDOTJSiAKxBAT2RMk-5YUGYRXtB-sZNVoY9pgoszsLAfarjQpyN2I4uknLex_uwkHp9Gpam8dFZEacBRbQ&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=51y7ac7BEaqfi-gPk9P64As&start=80&sa=N&sstk=Af77f_fi-RpgUw6KiifyRDOTJSiAKxBAT2RMk-5YUGYRXtB-sZNVoY9pgoszsLAfarjQpyN2I4uknLex_uwkHp9Gpam8dFZEacBRbQ&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=51y7ac7BEaqfi-gPk9P64As&start=90&sa=N&sstk=Af77f_fi-RpgUw6KiifyRDOTJSiAKxBAT2RMk-5YUGYRXtB-sZNVoY9pgoszsLAfarjQpyN2I4uknLex_uwkHp9Gpam8dFZEacBRbQ&ved=2ahUKEwiO0eDy8qqTAxWqzwIHHZOpHrwQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Killeen+Council+D1+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

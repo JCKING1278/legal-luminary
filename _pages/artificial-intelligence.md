@@ -1,443 +1,274 @@
 ---
 layout: default
-title: Artificial Intelligence
+title: Trustworthy AI Legal Validator
 permalink: /artificial-intelligence/
 hero: true
-hero_title: "Artificial Intelligence Integrations"
-hero_subtitle: "Advanced AI solutions from Cloud Fronts Group - Central Texas Legal Aids"
-description: "Explore AI integrations and services available from Cloud Fronts Group for Central Texas Legal Aids. Document automation, legal research, client intake, and more."
-verified_at: 2026-02-11
+hero_title: "Trustworthy AI Legal Validator"
+hero_subtitle: "Verification & Validation Project - Texas Tech Graduate School"
+description: "A CS5374 Software Verification and Validation project building a trustable AI pipeline for legal and governmental content using Texas Open Data."
+sources:
+  - url: "https://data.texas.gov"
+    label: "Texas Open Data Portal"
+    evidence: "Official Texas state open data - primary authoritative source for verification"
+    visited: true
+    confirmed: true
+  - url: "https://data.capitol.texas.gov"
+    label: "Capitol Data Portal"
+    evidence: "Official Texas election and legislative data - authoritative source for officials and elections"
+    visited: true
+    confirmed: true
+  - url: "https://www.depts.ttu.edu/cs/faculty/namin.php"
+    label: "TTU Computer Science Faculty"
+    evidence: "Official Texas Tech University faculty page for Dr. Akbar S. Namin"
+    visited: true
+    confirmed: true
+  - url: "https://linkedin.com/in/weedens"
+    label: "Scott Weeden LinkedIn"
+    evidence: "Personal LinkedIn profile for project author"
+    visited: true
+    confirmed: true
+confidence:
+  base: 0.707
+  current: 0.85
+  formula: "compound_ema_qfa"
+  qfa_state: VALIDATE
+  milestone: M2
+  validation: 0.05
+  aho_corasick: 0.05
+  code_refactor: 0.0
+  vv_integration: 0.004
+verified_at: 2026-03-21
 ---
 
-<p class="intro-text">
-Cloud Fronts Group - Central Texas Legal Aids provides cutting-edge artificial intelligence integrations designed to enhance legal services, improve efficiency, and better serve clients throughout Central Texas. These AI-powered solutions help legal professionals streamline workflows, automate routine tasks, and deliver more effective representation.
-</p>
+# Trustworthy AI Legal and Governmental Content Validator
 
-## Legal Luminary Validation Pipeline
-
-The Legal Luminary platform uses a six-stage validation pipeline to ensure content accuracy and traceability:
-
-{% assign pipeline = site.data.pipeline %}
-{% if pipeline and pipeline.agents %}
-<ul>
-  {% for agent in pipeline.agents %}
-  <li><strong>{{ agent.name }}</strong> ({{ agent.order }}/6): {{ agent.description }} — {{ agent.spec_count }} specs, {{ agent.test_case_count }} test cases</li>
-  {% endfor %}
-</ul>
-<p>Thresholds: confidence ≥ {{ pipeline.validation_thresholds.confidence_verified }} for VERIFIED; readiness ≥ {{ pipeline.validation_thresholds.readiness_publish }} to publish; max {{ pipeline.validation_thresholds.max_retries }} retries.</p>
-{% endif %}
-
-## AI Integration Services
-
-### Document Automation & Management
-
-**Intelligent Document Processing** — AI-powered systems that automatically extract, categorize, and organize legal documents from various sources. These integrations can:
-
-- Parse and extract key information from contracts, pleadings, and case files
-- Automatically categorize documents by case type, date, and relevance
-- Generate document summaries and key point extraction
-- Enable intelligent search across document repositories
-
-**Contract Analysis & Review** — Advanced AI tools that analyze legal contracts and documents to:
-
-- Identify key terms, clauses, and potential issues
-- Compare documents against standard templates
-- Flag non-standard provisions and potential risks
-- Generate compliance reports and recommendations
-
-### Legal Research & Case Analysis
-
-**AI-Powered Legal Research** — Intelligent research assistants that help legal professionals:
-
-- Search and analyze case law, statutes, and legal precedents
-- Identify relevant cases based on fact patterns and legal issues
-- Generate case briefs and legal memoranda
-- Track changes in legislation and case law updates
-
-**Case Outcome Prediction** — Machine learning models that analyze historical case data to:
-
-- Assess case strength and potential outcomes
-- Identify similar cases and their resolutions
-- Provide risk assessment and settlement recommendations
-- Support strategic decision-making
-
-### Client Intake & Communication
-
-**Intelligent Client Intake Systems** — Automated systems that streamline the client onboarding process:
-
-- Natural language processing for initial client interviews
-- Automated eligibility screening and case assessment
-- Intelligent routing to appropriate legal services
-- Multi-language support for diverse client populations
-
-**AI Chatbots & Virtual Assistants** — Conversational AI tools that provide:
-
-- 24/7 client support and information access
-- Automated responses to common legal questions
-- Appointment scheduling and case status updates
-- Initial case screening and triage
-
-### Case Management & Workflow Automation
-
-**Predictive Case Management** — AI systems that optimize case workflows:
-
-- Automated deadline tracking and reminder systems
-- Intelligent task prioritization based on urgency and importance
-- Resource allocation and workload balancing
-- Performance analytics and efficiency metrics
-
-**Workflow Automation** — AI-driven automation for routine legal tasks:
-
-- Automated form generation and filing
-- Court document preparation and submission
-- Client communication templates and updates
-- Billing and time tracking automation
-
-### Data Analytics & Reporting
-
-**Legal Analytics Dashboards** — Comprehensive analytics platforms that provide:
-
-- Case outcome tracking and trend analysis
-- Service delivery metrics and performance indicators
-- Client demographic and need analysis
-- Resource utilization and efficiency reports
-
-**Predictive Analytics** — Advanced analytics that help organizations:
-
-- Forecast case volumes and resource needs
-- Identify emerging legal issues and trends
-- Optimize service delivery strategies
-- Measure program effectiveness and impact
-
-### Compliance & Risk Management
-
-**Regulatory Compliance Monitoring** — AI systems that ensure adherence to legal and ethical standards:
-
-- Automated compliance checking against bar rules and regulations
-- Conflict of interest detection and prevention
-- Data privacy and security compliance monitoring
-- Ethical guidelines adherence verification
-
-**Risk Assessment Tools** — Intelligent systems that evaluate:
-
-- Case risk factors and potential complications
-- Client eligibility and case viability
-- Resource requirements and capacity planning
-- Strategic case selection and prioritization
-
-### Specialized Legal AI Applications
-
-**Family Law Support Systems** — AI tools specifically designed for family law matters:
-
-- Child support calculation and modification analysis
-- Divorce settlement analysis and recommendations
-- Custody arrangement evaluation and support
-
-**Housing & Eviction Prevention** — AI-powered assistance for housing-related legal issues:
-
-- Tenant rights information and guidance
-- Eviction defense case analysis
-- Housing discrimination detection and reporting
-
-**Consumer Protection Tools** — AI systems for consumer legal matters:
-
-- Debt collection harassment detection
-- Consumer fraud identification
-- Contract review for consumer protection issues
-
-**Immigration Law Support** — Specialized AI tools for immigration cases:
-
-- Form completion assistance and validation
-- Eligibility screening for various immigration programs
-- Document translation and preparation support
-
-### Featured AI Application: Luminary Law
-
-**Luminary Law** — A revolutionary GenAI-powered legal aid web application designed specifically for small Texas plaintiff-side law firms. This cutting-edge application represents a significant advancement in legal technology integration.
-
-**Key Features:**
-
-- **Multi-Provider Authentication** — Supports Microsoft, Apple, and other providers for enhanced security and accessibility
-- **Role-Based Workflows** — Tailored interfaces for different legal professionals:
-  - Attorneys: Deep case law discussion, strategic analysis, and advanced legal research
-  - Paralegals: Rules, deadlines, drafting structure, and procedural guidance
-  - Admin/Intake Staff: Plain language support, fact gathering, and client summaries
-- **Advanced AI Integration** — Powered by leading language models with specialized legal guardrails
-- **Multimodal Capabilities** — Supports text, image, and audio processing for comprehensive case analysis
-- **Legal Practice Areas** — Covers commercial law, civil litigation, construction law, consumer law, personal injury, probate/wills, real estate, SSDI, and veterans benefits
-
-**Technical Capabilities:**
-
-- **Intelligent Document Processing** — Advanced parsing and categorization of legal documents
-- **Case Analysis & Intake** — Automated case assessment and potential claim identification
-- **Strategic Planning** — AI-assisted case strategy development and outcome prediction
-- **Texas-Specific Legal Focus** — Specialized for Texas state law and local court procedures
-- **Confidentiality & Compliance** — Built-in legal ethics and confidentiality safeguards
-
-**Benefits for Legal Practice:**
-
-- Streamlines client intake processes
-- Enhances legal research capabilities
-- Improves case management efficiency
-- Reduces time spent on routine tasks
-- Provides strategic insights for better case outcomes
-- Maintains ethical compliance and confidentiality standards
-
-**Getting Started with Luminary Law:**
-- Visit the [Luminary Law repository](https://github.com/sweeden-ttu/luminary-law) on GitHub
-- Requires Node.js and a Gemini API key for operation
-- Features comprehensive documentation for setup and deployment
-- Designed for integration with existing legal practice workflows
-
-**Note:** Luminary Law is designed to assist legal professionals and should be used as a supplementary tool alongside traditional legal research and analysis methods.
+This project is part of **CS5374 Software Verification and Validation** at [Texas Tech University](https://www.ttu.edu), Department of Computer Science. The project builds a **Trustworthy AI validation pipeline** that verifies legal and governmental content against authoritative Texas open data before any AI system presents it to users.
 
 ---
 
-## Legal Luminary Agent — Demonstration
+## Project Personnel
 
-The **Legal Luminary** agent is a LangGraph-based validator that checks legal and governmental content against authoritative sources (court rosters, Congress.gov, Texas SOS, CourtListener, etc.). Below are example **demonstration calls** and **sample outputs** that the agent can produce. These correspond to the [Human Test Questions](https://github.com/sweeden-ttu/software-vv-asn1/blob/main/SPEC.md#9-human-test-questions-user-facing) defined in the project specification.
+| Role | Name | Contact | Link |
+|------|------|---------|------|
+| **Student** | Scott Weeden | sweeden@ttu.edu | [LinkedIn](https://linkedin.com/in/weedens) |
+| **Instructor** | Dr. Akbar S. Namin | akbar.namin@ttu.edu | [TTU CS Faculty](https://www.depts.ttu.edu/cs/faculty/namin.php) |
 
-### How to call the agent
-
-From Python (or the pipeline CLI):
-
-```python
-from pipeline import validate
-
-result = validate(
-    content_type="judge",           # or "" for auto-detect
-    query="Chief Justice John Roberts, U.S. Supreme Court",
-    raw_content=""
-)
-# result is the final PipelineState (dict) with overall_status, provenance, etc.
-```
-
-From the command line (project root):
-
-```bash
-cd legal-luminary && python pipeline.py
-# Runs built-in demo cases and prints results
-```
-
-### Example 1: Judge verification (valid)
-
-**Call:**
-
-```python
-validate(content_type="judge", query="Chief Justice John Roberts", raw_content="")
-```
-
-**Sample output:**
-
-```json
-{
-  "overall_status": "verified",
-  "overall_confidence": 0.92,
-  "detected_content_type": "judge",
-  "provenance": {
-    "source_name": "CourtListener",
-    "authoritative_source": "courtlistener.com",
-    "verification_status": "verified",
-    "confidence_score": 0.92
-  },
-  "judge_validation": {
-    "is_valid": true,
-    "confidence": 0.92,
-    "source_used": "CourtListener",
-    "details": "Judge found in court roster: John G. Roberts Jr., Supreme Court of the United States"
-  }
-}
-```
-
-### Example 2: Elected official (valid)
-
-**Call:**
-
-```python
-validate(content_type="official", query="Senator Ted Cruz, Texas", raw_content="")
-```
-
-**Sample output:**
-
-```json
-{
-  "overall_status": "verified",
-  "overall_confidence": 0.88,
-  "detected_content_type": "official",
-  "provenance": {
-    "source_name": "Congress.gov",
-    "authoritative_source": "congress.gov",
-    "verification_status": "verified"
-  },
-  "official_validation": {
-    "is_valid": true,
-    "confidence": 0.88,
-    "source_used": "Congress.gov",
-    "details": "Member found: Ted Cruz (R-TX), U.S. Senate"
-  }
-}
-```
-
-### Example 3: Court case citation (valid)
-
-**Call:**
-
-```python
-validate(content_type="court_document", query="Brown v. Board of Education, 347 U.S. 483 (1954)", raw_content="")
-```
-
-**Sample output:**
-
-```json
-{
-  "overall_status": "verified",
-  "overall_confidence": 0.95,
-  "detected_content_type": "court_document",
-  "provenance": {
-    "source_name": "CourtListener",
-    "authoritative_source": "courtlistener.com",
-    "verification_status": "verified"
-  },
-  "court_doc_validation": {
-    "is_valid": true,
-    "confidence": 0.95,
-    "source_used": "CourtListener",
-    "details": "Case found: Brown v. Board of Education, 347 U.S. 483 (1954)"
-  }
-}
-```
-
-### Example 4: Notary lookup — negative test (must fail)
-
-A name that is **not** in the Texas Secretary of State Notary Public database should return unverified/failed.
-
-**Call:**
-
-```python
-validate(content_type="notary_public", query="Example Name Not In Database", raw_content="")
-```
-
-**Sample output:**
-
-```json
-{
-  "overall_status": "escalated",
-  "overall_confidence": 0.0,
-  "detected_content_type": "notary_public",
-  "provenance": {
-    "source_name": "Texas Open Data Portal",
-    "authoritative_source": "data.texas.gov",
-    "verification_status": "unverified"
-  },
-  "notary_validation": {
-    "is_valid": false,
-    "confidence": 0.0,
-    "source_used": "Texas Notary Public Commissions (data.texas.gov)",
-    "details": "No Texas notaries found for: Example Name Not In Database"
-  }
-}
-```
-
-### Example 5: Fabricated judge (invalid)
-
-**Call:**
-
-```python
-validate(content_type="judge", query="Judge Marcus Thornberry, Supreme Court", raw_content="")
-```
-
-**Sample output:**
-
-```json
-{
-  "overall_status": "escalated",
-  "overall_confidence": 0.12,
-  "detected_content_type": "judge",
-  "judge_validation": {
-    "is_valid": false,
-    "confidence": 0.12,
-    "source_used": "CourtListener",
-    "details": "Not found in court roster"
-  }
-}
-```
-
-### Content types supported
-
-| Content type       | Example query | Authoritative source(s)        |
-|--------------------|---------------|-------------------------------|
-| `news_source`      | URL to article or domain | Allow list, NewsGuard        |
-| `judge`            | Judge name + court        | CourtListener, uscourts.gov  |
-| `official`         | Elected official name    | Congress.gov, FEC            |
-| `election`         | Election or candidate     | FEC, state election boards    |
-| `law`              | Statute citation          | statutes.capitol.texas.gov, Congress |
-| `court_document`    | Case citation or docket  | CourtListener, PACER        |
-| `legal_template`   | Form name or ID           | USCourt.gov, txcourts.gov    |
-| `notary_public`    | Notary name or location   | Texas SOS, data.texas.gov   |
-
-For full specification and test oracle details, see the [Legal Luminary SPEC](https://github.com/sweeden-ttu/software-vv-asn1/blob/main/SPEC.md) and [RUBRIC](https://github.com/sweeden-ttu/software-vv-asn1/blob/main/RUBRIC.md) in the project repository.
+**Course:** CS 5374 - Software Verification and Validation | Spring 2026  
+**Repository:** [CS5374 Software V&V on GitHub](https://github.com/sweeden-ttu/software-vv-asn1)
 
 ---
 
-## Integration Capabilities
+## The Problem: AI Hallucination in Legal Research
 
-### Platform Integrations
+Large language models and retrieval-augmented generation (RAG) systems are increasingly used to answer questions about legal and governmental matters, yet they frequently hallucinate or return outdated information. Invented judge names, non-existent laws, fabricated election details, or unverified court documents can cause serious harm: incorrect legal advice, misrepresentation of officials, and invalid citations presented as binding authority.
 
-Cloud Fronts Group AI integrations are designed to work seamlessly with:
+### Notable Cases & Studies
 
-- **Case Management Systems** — Integration with popular legal case management platforms
-- **Document Management Systems** — Compatibility with document storage and organization tools
-- **Court Filing Systems** — Direct integration with electronic court filing platforms
-- **Client Communication Platforms** — Integration with email, SMS, and client portal systems
-- **Billing & Accounting Software** — Automated time tracking and billing integration
+| Reference | Description |
+|-----------|-------------|
+| **Stanford Law - "Hallucination-Free?"** | Assessing the reliability of leading AI legal research tools ([link](https://law.stanford.edu/publications/hallucination-free-assessing-the-reliability-of-leading-ai-legal-research-tools)) |
+| **Stanford Law - "Large Legal Fictions"** | Profiling legal hallucinations in large language models ([link](https://law.stanford.edu/publications/large-legal-fictions-profiling-legal-hallucinations-in-large-language-models)) |
+| **Mata v. Avianca, Inc.** | Court sanctions for AI-generated fake citations ([link](https://www.courtlistener.com/docket/63107798/54/mata-v-avianca-inc)) |
 
-### API & Custom Integration
+---
 
-**RESTful API Access** — Programmatic access to AI services for custom integrations
+## Content Verification Architecture
 
-**Webhook Support** — Real-time notifications and event-driven automation
+The pipeline verifies content across seven domains using authoritative Texas sources:
 
-**Custom Development** — Tailored AI solutions designed for specific organizational needs
+| Content Type | Authoritative Texas Source | Verification Approach |
+|--------------|---------------------------|---------------------|
+| **Legal/Government News** | Trust lists, NewsGuard, AllSides | URL and domain checks; cross-check with Texas agency press releases |
+| **Judges** | Texas judicial directories, court rosters | Name and court match against official rosters |
+| **Elected Officials** | data.texas.gov, data.capitol.texas.gov | Match names, offices, and terms to official datasets |
+| **Elections & Opponents** | Capitol Data Portal (116+ datasets) | Certified filings and results; candidate/race verification |
+| **Laws & Ordinances** | Texas Legislature, agency sites | Citation and text match against official code/statute datasets |
+| **Court Documents** | Texas court datasets, e-filing metadata | Docket/case ID and document metadata validation |
+| **Legal Templates** | Texas court form registries | Checksum and version validation against known good templates |
 
-## Benefits for Legal Aid Organizations
+**Note:** Federal sources (CourtListener, PACER, FEC) are not used as primary authorities; the focus is on **Texas legal and governmental sources** via the Texas Open Data Portal and Capitol Data Portal.
+
+---
+
+## LangGraph Validation Pipeline
+
+The system uses **LangChain** and **LangGraph** to implement validator agents that ingest, parse, and verify content at each stage.
+
+### Pipeline Stages
+
+1. **Content Extraction** - Parse and normalize input content
+2. **Schema Validation** - Verify required fields and data types
+3. **Source Authority Check** - Validate against allowlist of authoritative domains
+4. **Temporal Validation** - Verify timestamps are valid and current
+5. **Content Verification** - Cross-reference with authoritative Texas databases
+6. **Provenance Attribution** - Attach verification metadata to all outputs
+
+### Key Features
+
+- **Schema validation** at every stage
+- **Source grounding** requirements before indexing
+- **Pass/fail routing** with retry or escalation
+- **Provenance metadata** on all outputs (source, date, verification status)
+- Only content that passes verification is indexed and made available to downstream AI systems
+
+---
+
+## AI Agent Design Patterns
+
+The project leverages 21 AI agent design patterns documented in the [DesignPatterns repository](https://github.com/sweeden-ttu/software-vv-asn1/tree/main/DesignPatterns):
+
+| Pattern | Application in Project |
+|---------|----------------------|
+| **01 - Prompt Chaining** | Sequential validation steps where output of one step feeds the next |
+| **02 - Routing** | Content-type classification directing to appropriate validators |
+| **03 - Parallelization** | Concurrent checking of multiple authoritative sources |
+| **04 - Reflection** | Self-verification of validator outputs before acceptance |
+| **05 - Tool Use** | Integration with Texas Open Data APIs |
+| **06 - Planning** | Multi-step validation workflows for complex content |
+| **07 - Multi-Agent Collaboration** | Distributed validators for different content types |
+| **08 - Memory Management** | Preservation of verification context across pipeline |
+| **09 - Learning & Adaptation** | Pattern learning from verification results |
+| **10 - Model Context Protocol** | Standardized context passing between agents |
+| **11 - Goal Setting** | Defining verification thresholds and targets |
+| **12 - Exception Handling** | Graceful handling of API failures and timeouts |
+| **13 - Human-in-the-Loop** | Escalation paths for ambiguous verifications |
+| **14 - RAG (Retrieval-Augmented Generation)** | Ground truth retrieval from Texas databases |
+| **15 - Inter-Agent Communication** | Coordination between validator nodes |
+| **16 - Resource-Aware Optimization** | Efficient API usage and rate limiting |
+| **17 - Reasoning Techniques** | Logical inference for complex content types |
+| **18 - Guardrails & Safety** | Input sanitization and output validation |
+| **19 - Evaluation & Monitoring** | Metrics tracking with LangSmith/Phoenix |
+| **20 - Prioritization** | Queue management for verification tasks |
+| **21 - Exploration & Discovery** | New source identification and validation |
+
+---
+
+## Experiments & Evaluation
+
+### Experiment 1: Baseline Hallucination Rate
+
+- **Objective:** Establish baseline hallucination rate for LLM on Texas legal citation tasks without verification
+- **Data:** Held-out set of legal questions with ground-truth citations from data.texas.gov
+- **Metrics:** Proportion of generated citations that do not exist, are misattributed, or have incorrect holdings
+- **Tools:** LangSmith, Ragas, DeepEval, promptfoo
+
+### Experiment 2: Verification Pipeline Effectiveness
+
+- **Objective:** Measure impact of Texas-data-backed validator on hallucination and citation quality
+- **Setup:** Same Texas legal citation tasks passed through LLM, then through validator
+- **Metrics:** Precision, Recall, Hallucination rate reduction
+- **Tools:** Ragas, LangSmith, Phoenix, DeepEval
+
+### Experiment 3: Validator Nodes vs Post-Hoc Verification
+
+- **Objective:** Compare LangGraph with validator nodes (reject/retry on failure) vs simple RAG with post-hoc filtering
+- **Metrics:** End-to-end accuracy and latency
+- **Tools:** LangSmith, promptfoo, TruLens, Phoenix
+
+### Experiment 4: Security Red-Team Evaluation
+
+- **Objective:** Apply adversarial testing to the validator pipeline
+- **Tests:** Prompt injection, data exfiltration, source spoofing
+- **Tools:** GARAK (NVIDIA), LLM Canary, TextAttack, OpenAttack
+- **Deliverable:** Documented vulnerabilities and mitigations
+
+---
+
+## Open-Source Tool Integration
+
+### LLM / AI Evaluation & Testing
+
+| Tool | Role |
+|------|------|
+| **DeepEval** | LLM evaluation metrics (faithfulness, answer relevancy) |
+| **promptfoo** | Local testing of LLM application behavior; regression tests |
+| **Ragas** | RAG evaluation using Texas-sourced context and ground truth |
+| **LangSmith** | Tracing and evaluation of LangChain/LangGraph runs |
+| **TruLens** | LLM evaluation framework for monitoring pipeline |
+| **Phoenix (Arize)** | Observability and hallucination detection |
+| **Langfuse** | Open-source LLM engineering platform |
+
+### Adversarial & Robustness Testing
+
+| Tool | Role |
+|------|------|
+| **GARAK (NVIDIA)** | Red-teaming and vulnerability scanning |
+| **LLM Canary** | Security benchmarking test suite |
+| **TextAttack** | Adversarial attacks on validator inputs |
+| **OpenAttack** | Textual adversarial attack toolkit |
+
+### Systematic Testing & Error Analysis
+
+| Tool | Role |
+|------|------|
+| **Azimuth** | Dataset and error analysis for classifiers |
+| **CheckList** | Behavioral NLP testing for validator logic |
+| **Deepchecks** | Validation of ML/data components |
+
+---
+
+## Project Deliverables
+
+### First Round
+
+1. Design document and threat model for validation pipeline
+2. Implemented validator modules:
+   - Legal news source verification
+   - Judge name verification against Texas court rosters
+   - Elected official verification against Texas data portals
+3. LangGraph prototype with validator nodes
+4. Unit and integration tests with documented coverage
+
+### Final Round
+
+1. Full validator suite (7 content types)
+2. Integration with at least one authoritative Texas source per content type
+3. End-to-end RAG pipeline with validation gates
+4. Security review report (GARAK red-team results)
+5. Evaluation metrics report (Experiments 1-3)
+
+---
+
+## Texas Open Data Resources
+
+| Resource | URL |
+|----------|-----|
+| **State of Texas Open Data Portal** | [data.texas.gov](https://data.texas.gov) |
+| **Capitol Data Portal** | [data.capitol.texas.gov](https://data.capitol.texas.gov) |
+| **Texas Open Data Overview** | [texas.gov/texas-open-data-portal](https://texas.gov/texas-open-data-portal) |
+
+---
+
+## Framework & Tool References
+
+| Category | Links |
+|---------|-------|
+| **Core Frameworks** | [LangChain](https://langchain.com), [LangGraph](https://langchain-ai.github.io/langgraph), [LangSmith](https://smith.langchain.com) |
+| **Evaluation** | [DeepEval](https://github.com/confident-ai/deepeval), [Ragas](https://github.com/vibrantlabsai/ragas), [TruLens](https://github.com/truera/trulens), [Phoenix](https://github.com/Arize-ai/phoenix), [Langfuse](https://github.com/langfuse/langfuse) |
+| **Testing** | [promptfoo](https://github.com/promptfoo/promptfoo), [CheckList](https://github.com/marcotcr/checklist), [Deepchecks](https://github.com/deepchecks/deepchecks) |
+| **Security** | [GARAK](https://github.com/NVIDIA/garak), [LLM Canary](https://github.com/LLM-Canary/LLM-Canary), [TextAttack](https://github.com/QData/TextAttack), [OpenAttack](https://github.com/thunlp/OpenAttack) |
+
+---
+
+## Course Alignment
+
+| Syllabus Week | Course Topic | Project Alignment |
+|--------------|-------------|-------------------|
+| Week 1 | Introduction to V&V | Problem definition; verification vs. validation |
+| Week 2 | Adequacy criterion | Defining "verified" criteria (Texas source, schema, provenance) |
+| Week 4 | Black-box testing | Black-box validation of LLM outputs against Texas data |
+| Week 12 | Formal verification | Formal spec for verification contracts |
+| Week 13 | Model checking | Model checking for validator correctness |
+| Week 16 | LangSmith + hands-on | LangSmith tracing and evaluation |
+| Week 17 | AI/LLM/RL evaluation | LLM evaluation and hallucination detection |
+
+---
 
 <div class="info-box">
-<h4>Why AI Integration Matters</h4>
-<p>AI-powered tools help legal aid organizations serve more clients, improve case outcomes, and operate more efficiently. By automating routine tasks and providing intelligent insights, legal professionals can focus on high-value work and direct client representation.</p>
-</div>
-
-**Increased Efficiency** — Automate time-consuming tasks to handle more cases
-
-**Improved Accuracy** — Reduce human error in document processing and case analysis
-
-**Enhanced Access** — Provide 24/7 information and support to clients
-
-**Better Outcomes** — Data-driven insights support better case strategy and decision-making
-
-**Cost Effectiveness** — Optimize resource allocation and reduce operational costs
-
-## Getting Started
-
-For more information about AI integration services from Cloud Fronts Group - Central Texas Legal Aids, please contact:
-
-**Cloud Fronts Group**<br>
-Killeen, TX<br>
-Email: <a href="mailto:scott_weeden@fronts.cloud">scott_weeden@fronts.cloud</a>
-
-<div class="cards-grid">
-<div class="card">
-<h3>Legal Resources</h3>
-<p>Explore additional legal resources and information for Central Texas residents.</p>
-<a href="/resources/" class="btn btn-primary">View Resources</a>
-</div>
-
-<div class="card">
-<h3>About Our Services</h3>
-<p>Learn more about Central Texas Legal Resource and our mission.</p>
-<a href="/about/" class="btn btn-primary">About Us</a>
-</div>
+<h4>About This Project</h4>
+<p>This validation pipeline ensures that information about legal news, judges, elected officials, elections, laws, court documents, and legal templates is grounded in verifiable data from Texas government open data portals, with clear provenance on every output.</p>
 </div>
 
 <div class="legal-notice">
-<strong>Note:</strong> AI tools are designed to assist legal professionals and should not replace the judgment and expertise of qualified attorneys. All AI-generated content and recommendations should be reviewed and validated by licensed legal professionals before use in client representation.
+<strong>Disclaimer:</strong> This is an academic project for CS5374 Software Verification and Validation at Texas Tech University. The validation pipeline is designed to reduce hallucination rates but should not be used as the sole source for legal research or advice.
 </div>

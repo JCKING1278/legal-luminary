@@ -1,0 +1,24 @@
+{
+  "search_metadata": {
+    "id": "69bb5c99ecf5edbf8db76ae8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VTxA5oQeObF0N6EW4daefQ/69bb5c99ecf5edbf8db76ae8.json",
+    "created_at": "2026-03-19 02:16:57 UTC",
+    "processed_at": "2026-03-19 02:16:57 UTC",
+    "google_images_url": "https://www.google.com/search?udm=2&q=James+A.+Pierce+Jr.+headshot+official+portrait&oq=James+A.+Pierce+Jr.+headshot+official+portrait&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/VTxA5oQeObF0N6EW4daefQ/69bb5c99ecf5edbf8db76ae8.html",
+    "total_time_taken": 7.9
+  },
+  "search_parameters": {
+    "engine": "google_images",
+    "q": "James A. Pierce Jr. headshot official portrait",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "image_results_state": "Fully empty"
+  },
+  "error": "Google Images hasn't returned any results for this query."
+}

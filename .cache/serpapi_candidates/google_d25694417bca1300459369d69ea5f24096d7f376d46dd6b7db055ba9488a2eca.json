@@ -1,0 +1,413 @@
+{
+  "search_metadata": {
+    "id": "69bb5cf6a8dce64939270e08",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/j5FvvpYcb8N3y7Zj_kEwOQ/69bb5cf6a8dce64939270e08.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/j5FvvpYcb8N3y7Zj_kEwOQ/69bb5cf6a8dce64939270e08.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:30 UTC",
+    "processed_at": "2026-03-19 02:18:30 UTC",
+    "google_url": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&oq=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/j5FvvpYcb8N3y7Zj_kEwOQ/69bb5cf6a8dce64939270e08.html",
+    "total_time_taken": 3.23
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Who is the largest donor or financial supporter of William P. Abel for US House TX-31? Include who that supporter works for.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Who is the largest donor or financial supporter of William P. Abel for US House TX-31? Include who that supporter works for.",
+    "total_results": 276000,
+    "time_taken_displayed": 0.63,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "baADJnicxZTbcqM4EEDf9z_WL0y4GM_YThU1JcnYIU5s5Hv2xYUFFrbBOAiCydv-y37Vfs0KfCNOyMxs1dZ2USCpLxLdR_3nX95qu_n7twc3inbsVpKSJBFpEFDPEUngSxZLt0RaBh4Lifs9fdHUCmGaXHFW2k07rVuLrtmN1MUuwqZqTtsxblRyF22-sJiz5hH3aybNJf7a_K62-ERkorMVN806NOZ-b5g-ilVZaYp9yfK5AfiPRAcD_oYGH3Chb5UoX9LLvbGea-8LS4cQsLDydFikVAc4m7c_Poieew4R9zXhy03yaJXuCozCDD7l27azfQCiMDe4FuPdyuWI3WPQkr3eBzp4ti7JgqBUDOOkhRggBO4SdFEeQ9DjJjXwgNA5HORqZEIVGUF5eO45oXe6e4PBZ3XiVsagl9hPvBKSTTlPsrQI-UeRVsQl-SBkGWZo1JSDdsN8nfTxAnzzmptJqvTGgDzhTRWYCZDIgtt5gWU79tydy19yoAk7E82KRMdrA9h7mJo9Ij6IUCngnGWSojeHzApbUocPBJWrDiUNgJ7BfabazAZwfDJqAEgB0i_F048x3-Oci_FmkdKDDmVTemWaxdocR6f4pKiG5z_gZ-CVvuyRFM1QES3DMPRst6dDBFo043PIr1A26ubX7K4YBhiFXMHs2vI848s_Ze_W6bxZGrLgOqAtBz1mZohnBGVG2QSiPKkQ69fgQ3qZPwJUQwecf11g6XU8CQYnfq9wLGLcaSlzpS6v96OlYflxY__wipfd1_VLu02P2Ab-4hc6Mfn_wD726W5-ywP6Hmz6GdhYR5_06SPYlz6dNyTU_hhsPQel0KedoroINoZGAex9aZ8ugG38EOzZm7ScwcYfgA2vwYblYGd9-gw2QvCqT-e_laelAPa_6tP45_t0zrdz-Lxt2vGaljdvXAuayzhRZs_Tl-fUUsPpcA3pZPbQx--b99KPbi3b-zJf2beweh-lduVZm7qBsGJC5DqCZ4XUYZFgB9sgFPizXG2tLVlZnsDi3S4II4cvL4XpyvNWli-YogAWjicsuel4KNwFMXOE0exGVb4LxpZ4se0ICQ8fuVZUiJAE4YZlTmLF98JAk636M-k_Am_42vGUr39stvowmstM7sMp_epGpFUd7dW0oRIWtqaLGDQcZZN8q47te7_e9-5b5qqz7ijz7mJXHexxOpRrbbVRdUKOZCuKJ42ZSnebG08eVGcDWUepr7vuqF8d2J30ORiMlDj1ujV9n5-GaYP2DMf7zrTRG1f8kGi8-jUKehhMadbXK4xYc4e9aKRKrKZTV5oNWW06S7Xi0yjdaU25wrahpvwDnaH17Q",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=baADJnicxZTbcqM4EEDf9z_WL0y4GM_YThU1JcnYIU5s5Hv2xYUFFrbBOAiCydv-y37Vfs0KfCNOyMxs1dZ2USCpLxLdR_3nX95qu_n7twc3inbsVpKSJBFpEFDPEUngSxZLt0RaBh4Lifs9fdHUCmGaXHFW2k07rVuLrtmN1MUuwqZqTtsxblRyF22-sJiz5hH3aybNJf7a_K62-ERkorMVN806NOZ-b5g-ilVZaYp9yfK5AfiPRAcD_oYGH3Chb5UoX9LLvbGea-8LS4cQsLDydFikVAc4m7c_Poieew4R9zXhy03yaJXuCozCDD7l27azfQCiMDe4FuPdyuWI3WPQkr3eBzp4ti7JgqBUDOOkhRggBO4SdFEeQ9DjJjXwgNA5HORqZEIVGUF5eO45oXe6e4PBZ3XiVsagl9hPvBKSTTlPsrQI-UeRVsQl-SBkGWZo1JSDdsN8nfTxAnzzmptJqvTGgDzhTRWYCZDIgtt5gWU79tydy19yoAk7E82KRMdrA9h7mJo9Ij6IUCngnGWSojeHzApbUocPBJWrDiUNgJ7BfabazAZwfDJqAEgB0i_F048x3-Oci_FmkdKDDmVTemWaxdocR6f4pKiG5z_gZ-CVvuyRFM1QES3DMPRst6dDBFo043PIr1A26ubX7K4YBhiFXMHs2vI848s_Ze_W6bxZGrLgOqAtBz1mZohnBGVG2QSiPKkQ69fgQ3qZPwJUQwecf11g6XU8CQYnfq9wLGLcaSlzpS6v96OlYflxY__wipfd1_VLu02P2Ab-4hc6Mfn_wD726W5-ywP6Hmz6GdhYR5_06SPYlz6dNyTU_hhsPQel0KedoroINoZGAex9aZ8ugG38EOzZm7ScwcYfgA2vwYblYGd9-gw2QvCqT-e_laelAPa_6tP45_t0zrdz-Lxt2vGaljdvXAuayzhRZs_Tl-fUUsPpcA3pZPbQx--b99KPbi3b-zJf2beweh-lduVZm7qBsGJC5DqCZ4XUYZFgB9sgFPizXG2tLVlZnsDi3S4II4cvL4XpyvNWli-YogAWjicsuel4KNwFMXOE0exGVb4LxpZ4se0ICQ8fuVZUiJAE4YZlTmLF98JAk636M-k_Am_42vGUr39stvowmstM7sMp_epGpFUd7dW0oRIWtqaLGDQcZZN8q47te7_e9-5b5qqz7ijz7mJXHexxOpRrbbVRdUKOZCuKJ42ZSnebG08eVGcDWUepr7vuqF8d2J30ORiMlDj1ujV9n5-GaYP2DMf7zrTRG1f8kGi8-jUKehhMadbXK4xYc4e9aKRKrKZTV5oNWW06S7Xi0yjdaU25wrahpvwDnaH17Q"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Donors and Members",
+      "link": "https://support.texastribune.org/members",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.texastribune.org/members&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQFnoECBgQAQ",
+      "displayed_link": "https://support.texastribune.org › members",
+      "favicon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-_Zr1fDIYkqrbs0JM10yz78.png",
+      "snippet": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+      "snippet_highlighted_words": [
+        "donations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tribune is committed to full transparency into our funding. Below you can see total donations from this calendar year and gifts pledged through the end of ...",
+          "source_info_link": "https://support.texastribune.org/members",
+          "icon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-29MFCm5biDzOUcZCZZFCq2OjRMx1PNuD8PKie4vRpW8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://support.texastribune.org/members&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsupport.texastribune.org%2Fmembers",
+      "missing": [
+        "31?"
+      ],
+      "must_include": {
+        "word": "31?",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-+%2231?%22+Include+who+that+supporter+works+for.&sa=X&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ5t4CegQIJRAB"
+      },
+      "source": "The Texas Tribune"
+    },
+    {
+      "position": 2,
+      "title": "Oilseeds and Oilseed Products, Inv. 332-240",
+      "link": "https://www.usitc.gov/publications/332/pub2045.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usitc.gov/publications/332/pub2045.pdf&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQFnoECBoQAQ",
+      "displayed_link": "https://www.usitc.gov › publications › pub2045",
+      "favicon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-zF6S8jCx-O_HJ2dSw0cJFw.png",
+      "snippet": "U.S. Senate!/ and in accordance with section 332(g) of the Tariff Act of 1930. (19 U.S.C. 1332(g)), the U.S. International Trade Commission instituted.",
+      "snippet_highlighted_words": [
+        "U.S.",
+        "U.S."
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 270
+          },
+          "extensions": [
+            "270 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "U.S. Senate!/ and in accordance with section 332(g) of the Tariff Act of 1930. (19 U.S.C. 1332(g)), the U.S. International Trade Commission instituted.",
+          "source_info_link": "https://www.usitc.gov/publications/332/pub2045.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-zC7S5TOJbGcvxouahK0D_a551Flw1mbjfI4v-DYptIe.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.usitc.gov/publications/332/pub2045.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.usitc.gov%2Fpublications%2F332%2Fpub2045.pdf",
+      "source": "United States International Trade Commission (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "https://jsdp.enslaved.org/assets/downloaded/40-59-...",
+      "link": "https://jsdp.enslaved.org/assets/downloaded/40-59-10/AANB-Data-Final20201221.csv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jsdp.enslaved.org/assets/downloaded/40-59-10/AANB-Data-Final20201221.csv&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQFnoECB4QAQ",
+      "displayed_link": "https://jsdp.enslaved.org › AANB-Data-Final20201221",
+      "favicon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-8kGkp_EIW5VJNV5nqlTaqA.png",
+      "snippet": "... 31,3,1876,,,,,,,Near Natchez,,Mississippi,United States,,,,,,,Philadelphia,,Pennsylvania,United States,,,,Slave, Music Educator, Concert Singer,,,,, 36967 ...",
+      "snippet_highlighted_words": [
+        "31",
+        "United States",
+        "United States"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... 31,3,1876,,,,,,,Near Natchez,,Mississippi,United States\n,,,,,,,Philadelphia,,Pennsylvania,United States,,,,Slave, Music Educator, Concert Singer,,,,, 36967 ...",
+          "source_info_link": "https://jsdp.enslaved.org/assets/downloaded/40-59-10/AANB-Data-Final20201221.csv",
+          "icon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-9w4mJadIjuCgT56Zcn7jgMIS474DQ39TyNVJ637nrLH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://jsdp.enslaved.org/assets/downloaded/40-59-10/AANB-Data-Final20201221.csv&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fjsdp.enslaved.org%2Fassets%2Fdownloaded%2F40-59-10%2FAANB-Data-Final20201221.csv",
+      "source": "Journal of Slavery and Data Preservation"
+    },
+    {
+      "position": 4,
+      "title": "Urology at Michigan: The Origin Story",
+      "link": "https://medicine.umich.edu/sites/default/files/downloads/Urology%20at%20Michigan%20The%20Origin%20Story.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medicine.umich.edu/sites/default/files/downloads/Urology%2520at%2520Michigan%2520The%2520Origin%2520Story.pdf&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQFnoECBkQAQ",
+      "displayed_link": "https://medicine.umich.edu › files › downloads",
+      "favicon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-1nshV3xIOyzEtGuE-cgkh8.png",
+      "snippet": "Hugh Cabot was the reason for that transi- tion, as the Konnak and Pardanani book slyly reveals, with the section. “Why is Hugh Cabot included?” While it was a ...",
+      "snippet_highlighted_words": [
+        "included"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 258
+          },
+          "extensions": [
+            "258 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Hugh Cabot was the reason for that transi- tion, as the Konnak and Pardanani book slyly reveals, with the section. “Why is Hugh Cabot included?” While it was a ...",
+          "source_info_link": "https://medicine.umich.edu/sites/default/files/downloads/Urology%20at%20Michigan%20The%20Origin%20Story.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-9ujinPrFKATVJBWxw_vIR6eEmCSs_xSDRmz1TkSKdvD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://medicine.umich.edu/sites/default/files/downloads/Urology%20at%20Michigan%20The%20Origin%20Story.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmedicine.umich.edu%2Fsites%2Fdefault%2Ffiles%2Fdownloads%2FUrology%2520at%2520Michigan%2520The%2520Origin%2520Story.pdf",
+      "source": "umich.edu"
+    },
+    {
+      "position": 5,
+      "title": "CONGRESSIONAL RECORD- SENATE.",
+      "link": "https://www.congress.gov/61/crecb/1909/07/09/GPO-CRECB-1909-pt4-v44-20.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/61/crecb/1909/07/09/GPO-CRECB-1909-pt4-v44-20.pdf&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQFnoECBsQAQ",
+      "displayed_link": "https://www.congress.gov › crecb › 1909/07/09",
+      "favicon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-zCvKtHmz809ZIf4Xj6lbDg.png",
+      "snippet": "Also, petition of Chelsea Fiber l\\Iills, protesting paragraph. 334, page 117, lines 6, 7, and 8, and other features of tariff bill-to the Committee on Ways and ...",
+      "snippet_highlighted_words": [
+        "bill"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 65
+          },
+          "extensions": [
+            "65 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Also, petition of Chelsea Fiber l\\Iills, protesting paragraph. 334, page 117, lines 6, 7, and 8, and other features of tariff bill-to the Committee on Ways and ...",
+          "source_info_link": "https://www.congress.gov/61/crecb/1909/07/09/GPO-CRECB-1909-pt4-v44-20.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-wUn1tmXLlGNyxJGmfeSHlLt7xetXVKO9zgEVf_tkix4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.congress.gov/61/crecb/1909/07/09/GPO-CRECB-1909-pt4-v44-20.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.congress.gov%2F61%2Fcrecb%2F1909%2F07%2F09%2FGPO-CRECB-1909-pt4-v44-20.pdf",
+      "source": "Congress.gov"
+    },
+    {
+      "position": 6,
+      "title": "Candidates Search Results",
+      "link": "https://www.opensecrets.org/races/candidate_search_results",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opensecrets.org/races/candidate_search_results&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQFnoECDAQAQ",
+      "displayed_link": "https://www.opensecrets.org › candidate_search_results",
+      "favicon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-4D5oiKaomYyfkK2w-52i_8.png",
+      "snippet": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2024 Races · Princess Vlandamir (Washington Senate) · Michael A Brown (District of Columbia District 00) · Andrew Aasen (Oregon District 05) · Chad Abbey (Texas ...",
+          "source_info_link": "https://www.opensecrets.org/races/candidate_search_results",
+          "icon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-1iickLEjXzDCtpxWWzN959l3J-LvRZ1o6iQakSm9ryW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opensecrets.org/races/candidate_search_results&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opensecrets.org%2Fraces%2Fcandidate_search_results",
+      "missing": [
+        "Include"
+      ],
+      "must_include": {
+        "word": "Include",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+%22Include%22+who+that+supporter+works+for.&sa=X&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ5t4CegQINxAB"
+      },
+      "source": "OpenSecrets"
+    },
+    {
+      "position": 7,
+      "title": "Spring 2022",
+      "link": "https://www.fws.gov/sites/default/files/documents/Spring-News-2022_0.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fws.gov/sites/default/files/documents/Spring-News-2022_0.pdf&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQFnoECC4QAQ",
+      "displayed_link": "https://www.fws.gov › files › Spring-News-2022_0",
+      "favicon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-4FbocIt044OQBnO4LYbKAg.jpeg",
+      "author": "by A KURTZ",
+      "snippet": "Climate change is threatening the country's plants and animals. The United States has over 1,600 endangered species and 12,000 species in conservation need. One ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 47
+          },
+          "extensions": [
+            "47 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Climate change is threatening the country's plants and animals. The United States has over 1,600 endangered species and 12,000 species in conservation need. One ...",
+          "source_info_link": "https://www.fws.gov/sites/default/files/documents/Spring-News-2022_0.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-7m0W8jWl_Bj_kOD-m5f7qsoX7fknKLqFBCyPDVLvspd.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fws.gov/sites/default/files/documents/Spring-News-2022_0.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fws.gov%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2FSpring-News-2022_0.pdf",
+      "source": "U.S. Fish and Wildlife Service (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "WHAT GIDEON DID",
+      "link": "https://www.columbialawreview.org/content/what-gideon-did/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.columbialawreview.org/content/what-gideon-did/&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQFnoECCgQAQ",
+      "displayed_link": "https://www.columbialawreview.org › content › what-gid...",
+      "favicon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-91BFcxjKlAF_Z80P_VWguQ.png",
+      "author": "by S Mayeux",
+      "snippet": "Close Ten years before, the U.S. Supreme Court had famously held, in the landmark case of Gideon v. Wainwright, that judges must appoint counsel for criminal ...",
+      "snippet_highlighted_words": [
+        "U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Close Ten years before, the U.S. Supreme Court had famously held, in the landmark case of Gideon v. Wainwright, that judges must appoint counsel for criminal ...",
+          "source_info_link": "https://www.columbialawreview.org/content/what-gideon-did/",
+          "icon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-3YqsvnLB-g-p9FQ7yWyPmqxaJ0wFYHCQHVycZxhVskI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.columbialawreview.org/content/what-gideon-did/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.columbialawreview.org%2Fcontent%2Fwhat-gideon-did%2F",
+      "source": "Columbia Law Review -"
+    },
+    {
+      "position": 9,
+      "title": "Early Acute Management in Adults with Spinal Cord Injury:",
+      "link": "https://pva.org/wp-content/uploads/2021/09/early_acute_cpg_web.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pva.org/wp-content/uploads/2021/09/early_acute_cpg_web.pdf&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQFnoECCsQAQ",
+      "displayed_link": "https://pva.org › 2021/09 › early_acute_cpg_web",
+      "favicon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd--Jd9wIFe-RnhgiuPFl-pdo.png",
+      "date": "Cited by 1",
+      "snippet": "Survival and preserva- tion of neurological function are dependent on an effective system of care that includes prehospital management, trauma centers, and ...",
+      "snippet_highlighted_words": [
+        "includes"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 84
+          },
+          "extensions": [
+            "84 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Survival and preserva- tion of neurological function are dependent on an effective system of care that includes prehospital management, trauma centers, and ...",
+          "source_info_link": "https://pva.org/wp-content/uploads/2021/09/early_acute_cpg_web.pdf",
+          "icon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd--dLRMeAGo-bUOjvZNdT7qt-k_4JeRHNo_CBSeiUrxsy.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pva.org/wp-content/uploads/2021/09/early_acute_cpg_web.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpva.org%2Fwp-content%2Fuploads%2F2021%2F09%2Fearly_acute_cpg_web.pdf",
+      "source": "Paralyzed Veterans of America"
+    },
+    {
+      "position": 10,
+      "title": "Jimmy Carter",
+      "link": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Jimmy_Carter&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQFnoECCwQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Jimmy_Carter",
+      "favicon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-8tV4GmCpVvrtUFh9XIzFoc.png",
+      "snippet": "James Earl Carter Jr. (October 1, 1924 – December 29, 2024) was an American politician and humanitarian who served as the 39th president of the United ...",
+      "snippet_highlighted_words": [
+        "American",
+        "United"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "James Earl Carter Jr. (October 1, 1924 – December 29, 2024) was an American politician and humanitarian who served as the 39th president of the United\n ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+          "icon": "https://serpapi.com/searches/69bb5cf6a8dce64939270e08/images/JzPYs4ZbOqA_WB9eV3Wd-7gqC3NjY3xrsLkG_TtKsqMQiofnWoyRaGIvGVDn4jhn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Jimmy_Carter&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJimmy_Carter",
+      "source": "Wikipedia"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-Fy7abKPKt3bptQP3PWFuQ8&start=10&sa=N&sstk=Af77f_fgYNfmO-fLqJ7wAbl2hmnVbxHc2XBA1zWoPX3jeaPyYD6xbSr1uERJkd6TmHeK55LPw76J0xq7X3K62xwSvu-s72nWHjlntA&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ8NMDegQIDRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-Fy7abKPKt3bptQP3PWFuQ8&start=10&sa=N&sstk=Af77f_fgYNfmO-fLqJ7wAbl2hmnVbxHc2XBA1zWoPX3jeaPyYD6xbSr1uERJkd6TmHeK55LPw76J0xq7X3K62xwSvu-s72nWHjlntA&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-Fy7abKPKt3bptQP3PWFuQ8&start=20&sa=N&sstk=Af77f_fgYNfmO-fLqJ7wAbl2hmnVbxHc2XBA1zWoPX3jeaPyYD6xbSr1uERJkd6TmHeK55LPw76J0xq7X3K62xwSvu-s72nWHjlntA&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-Fy7abKPKt3bptQP3PWFuQ8&start=30&sa=N&sstk=Af77f_fgYNfmO-fLqJ7wAbl2hmnVbxHc2XBA1zWoPX3jeaPyYD6xbSr1uERJkd6TmHeK55LPw76J0xq7X3K62xwSvu-s72nWHjlntA&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-Fy7abKPKt3bptQP3PWFuQ8&start=40&sa=N&sstk=Af77f_fgYNfmO-fLqJ7wAbl2hmnVbxHc2XBA1zWoPX3jeaPyYD6xbSr1uERJkd6TmHeK55LPw76J0xq7X3K62xwSvu-s72nWHjlntA&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-Fy7abKPKt3bptQP3PWFuQ8&start=50&sa=N&sstk=Af77f_fgYNfmO-fLqJ7wAbl2hmnVbxHc2XBA1zWoPX3jeaPyYD6xbSr1uERJkd6TmHeK55LPw76J0xq7X3K62xwSvu-s72nWHjlntA&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-Fy7abKPKt3bptQP3PWFuQ8&start=60&sa=N&sstk=Af77f_fgYNfmO-fLqJ7wAbl2hmnVbxHc2XBA1zWoPX3jeaPyYD6xbSr1uERJkd6TmHeK55LPw76J0xq7X3K62xwSvu-s72nWHjlntA&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-Fy7abKPKt3bptQP3PWFuQ8&start=70&sa=N&sstk=Af77f_fgYNfmO-fLqJ7wAbl2hmnVbxHc2XBA1zWoPX3jeaPyYD6xbSr1uERJkd6TmHeK55LPw76J0xq7X3K62xwSvu-s72nWHjlntA&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-Fy7abKPKt3bptQP3PWFuQ8&start=80&sa=N&sstk=Af77f_fgYNfmO-fLqJ7wAbl2hmnVbxHc2XBA1zWoPX3jeaPyYD6xbSr1uERJkd6TmHeK55LPw76J0xq7X3K62xwSvu-s72nWHjlntA&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ8tMDegQIDRAS",
+      "10": "https://www.google.com/search?q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31?+Include+who+that+supporter+works+for.&sca_esv=c2ca9e7198039ef3&ei=-Fy7abKPKt3bptQP3PWFuQ8&start=90&sa=N&sstk=Af77f_fgYNfmO-fLqJ7wAbl2hmnVbxHc2XBA1zWoPX3jeaPyYD6xbSr1uERJkd6TmHeK55LPw76J0xq7X3K62xwSvu-s72nWHjlntA&ved=2ahUKEwiy64b78qqTAxXdrYkEHdx6IfcQ8tMDegQIDRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+largest+donor+or+financial+supporter+of+William+P.+Abel+for+US+House+TX-31%3F+Include+who+that+supporter+works+for.&start=90"
+    }
+  }
+}

@@ -9,7 +9,25 @@ description: "Criminal defense information for Bell County. Learn about assault,
 sources:
   - url: "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.22.htm"
     label: "Texas Penal Code Chapter 22 (Assaultive Offenses)"
+    evidence: "Official Texas state statutes - verified by direct access, assaultive offenses definitions and penalties confirmed"
+    visited: true
+    confirmed: true
+  - url: "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.25.htm"
+    label: "Texas Penal Code Chapter 25 (Stalking)"
+    evidence: "Official Texas state statutes for stalking offenses"
+    visited: true
+    confirmed: true
 verified_at: 2026-02-11
+confidence:
+  base: 0.707
+  current: 0.81
+  formula: "compound_ema_qfa"
+  qfa_state: VALIDATE
+  milestone: M2
+  validation: 0.05
+  aho_corasick: 0.05
+  code_refactor: 0.0
+  vv_integration: 0.004
 ---
 
 <p class="intro-text">

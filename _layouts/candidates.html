@@ -1,0 +1,186 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/candidates.css' | relative_url }}">
+
+<section class="candidates-explorer" aria-label="Candidate directory">
+  <h2 class="sr-only">Browse candidates</h2>
+  {% assign meta = site.data.candidates.metadata %}
+  {% if meta.last_updated %}
+  <p class="candidates-meta">Data last updated {{ meta.last_updated }}. Source: <code>_data/candidates.yml</code>.</p>
+  {% endif %}
+  <div class="candidates-columns">
+    <div class="left-column">
+      <h3>Candidates</h3>
+      <ul id="candidates-list" class="candidate-links"></ul>
+      <div id="candidates-loading" style="display:none; padding: 8px 0;">Loading more…</div>
+      <div id="candidates-scroll-sentinel" aria-hidden="true"></div>
+    </div>
+    <div class="right-column">
+      <h3>Details</h3>
+      <p id="candidates-detail-hint" class="candidates-meta">Select a candidate to see notes, supporters, and social links.</p>
+      <div id="left-news"></div>
+      <div id="right-news"></div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      function escapeHtml(s) {
+        return String(s ?? "")
+          .replaceAll("&", "&amp;")
+          .replaceAll("<", "&lt;")
+          .replaceAll(">", "&gt;")
+          .replaceAll('"', "&quot;")
+          .replaceAll("'", "&#039;");
+      }
+
+      const pageSize = {{ meta.infinite_scroll.page_size | default: 20 }};
+      const allCandidates = [
+        {% for candidate in site.data.candidates.candidates %}
+          {
+            id: {{ candidate.id | default: 0 }},
+            name: {{ candidate.name | jsonify }},
+            office: {{ candidate.office | jsonify }},
+            status: {{ candidate.status | jsonify }},
+            office_up_for_election_this_year: {{ candidate.office_up_for_election_this_year | default: false | jsonify }},
+            group_city: {{ candidate.group_city | jsonify }},
+            group_function: {{ candidate.group_function | jsonify }},
+            facebook_url: {{ candidate.facebook_url | jsonify }},
+            instagram_url: {{ candidate.instagram_url | jsonify }},
+            linkedin_url: {{ candidate.linkedin_url | jsonify }},
+            headshot_url: {{ candidate.headshot_url | jsonify }},
+            office_opponents_platform_key_facts: {{ candidate.office_opponents_platform_key_facts | jsonify }},
+            largest_financial_supporter_name: {{ candidate.largest_financial_supporter_name | jsonify }},
+            largest_financial_supporter_work_for: {{ candidate.largest_financial_supporter_work_for | jsonify }}
+          }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ];
+
+      const listEl = document.getElementById("candidates-list");
+      const loadingEl = document.getElementById("candidates-loading");
+      const sentinelEl = document.getElementById("candidates-scroll-sentinel");
+      const hintEl = document.getElementById("candidates-detail-hint");
+
+      function candidateLabel(candidate) {
+        const up = candidate.office_up_for_election_this_year ? " (up for election)" : "";
+        const inc = candidate.status === "incumbent" ? " (incumbent)" : "";
+        return `${candidate.name}${inc}${up}`;
+      }
+
+      function renderCandidatesRange(startInclusive, endExclusive) {
+        const frag = document.createDocumentFragment();
+        for (let i = startInclusive; i < endExclusive; i++) {
+          const c = allCandidates[i];
+          const li = document.createElement("li");
+          const a = document.createElement("a");
+          a.className = "candidate-link";
+          a.href = "#";
+          a.dataset.candidateId = String(c.id);
+          a.innerHTML = escapeHtml(candidateLabel(c));
+          li.appendChild(a);
+          frag.appendChild(li);
+        }
+        listEl.appendChild(frag);
+      }
+
+      let nextIndex = 0;
+      let isLoading = false;
+
+      function appendMore() {
+        if (isLoading) return;
+        if (nextIndex >= allCandidates.length) return;
+
+        isLoading = true;
+        loadingEl.style.display = "block";
+
+        const start = nextIndex;
+        const end = Math.min(nextIndex + pageSize, allCandidates.length);
+        renderCandidatesRange(start, end);
+        nextIndex = end;
+
+        loadingEl.style.display = "none";
+        isLoading = false;
+      }
+
+      function loadNewsResults(candidateId) {
+        const candidate = allCandidates.find(c => c.id === candidateId);
+        if (!candidate) return;
+
+        if (hintEl) hintEl.style.display = "none";
+
+        const facts = Array.isArray(candidate.office_opponents_platform_key_facts)
+          ? candidate.office_opponents_platform_key_facts.slice(0, 3)
+          : [];
+
+        const supporterName = candidate.largest_financial_supporter_name || "";
+        const supporterWorkFor = candidate.largest_financial_supporter_work_for || "";
+
+        const left = document.getElementById("left-news");
+        const right = document.getElementById("right-news");
+
+        const socialParts = [
+          candidate.facebook_url ? `Facebook: <a target="_blank" rel="noopener noreferrer" href="${escapeHtml(candidate.facebook_url)}">${escapeHtml(candidate.facebook_url)}</a>` : null,
+          candidate.instagram_url ? `Instagram: <a target="_blank" rel="noopener noreferrer" href="${escapeHtml(candidate.instagram_url)}">${escapeHtml(candidate.instagram_url)}</a>` : null,
+          candidate.linkedin_url ? `LinkedIn: <a target="_blank" rel="noopener noreferrer" href="${escapeHtml(candidate.linkedin_url)}">${escapeHtml(candidate.linkedin_url)}</a>` : null,
+        ].filter(Boolean);
+
+        const supporterLine =
+          supporterName
+            ? `Largest financial supporter: ${escapeHtml(supporterName)}${supporterWorkFor ? ` (works for ${escapeHtml(supporterWorkFor)})` : ""}`
+            : `Largest financial supporter: not looked up for this candidate`;
+
+        const factsLine = facts.length
+          ? facts.map(f => `• ${escapeHtml(f)}`).join("<br>")
+          : `• Opponents platform facts not available yet`;
+
+        left.innerHTML = `
+          <div class="news-results">
+            <strong>${escapeHtml(candidate.name)}</strong><br>
+            <span>${escapeHtml(candidate.office)}</span><br>
+            <span>${escapeHtml(candidate.status === "incumbent" ? "Incumbent" : "Candidate")}</span><br>
+            <br>
+            ${supporterLine}
+          </div>
+        `;
+
+        right.innerHTML = `
+          <div class="news-results">
+            <strong>Opponents platform (key facts)</strong><br>
+            <div>${factsLine}</div>
+            <br>
+            ${socialParts.length ? `<strong>Social</strong><br>${socialParts.join("<br>")}` : ""}
+          </div>
+        `;
+      }
+
+      appendMore();
+
+      if ("IntersectionObserver" in window) {
+        const observer = new IntersectionObserver((entries) => {
+          const entry = entries[0];
+          if (entry && entry.isIntersecting) {
+            appendMore();
+          }
+        }, { root: null, rootMargin: "200px", threshold: 0.01 });
+        observer.observe(sentinelEl);
+      } else {
+        window.addEventListener("scroll", function () {
+          const rect = sentinelEl.getBoundingClientRect();
+          if (rect.top <= window.innerHeight + 200) appendMore();
+        });
+      }
+
+      document.addEventListener("click", (event) => {
+        const link = event.target.closest(".candidate-link");
+        if (!link) return;
+        event.preventDefault();
+        const id = parseInt(link.dataset.candidateId, 10);
+        loadNewsResults(id);
+      });
+    })();
+  </script>
+</section>
+
+{{ content }}

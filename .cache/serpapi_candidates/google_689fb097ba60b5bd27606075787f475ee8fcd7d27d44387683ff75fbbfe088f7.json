@@ -1,0 +1,381 @@
+{
+  "search_metadata": {
+    "id": "69bb5db96539a2c59df0d78c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/u5KS2woutvmi5qnsTQg8nQ/69bb5db96539a2c59df0d78c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/u5KS2woutvmi5qnsTQg8nQ/69bb5db96539a2c59df0d78c.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:45 UTC",
+    "processed_at": "2026-03-19 02:21:45 UTC",
+    "google_url": "https://www.google.com/search?q=Brad+Buckley+%22State+House+TX-54%22+%22Central+Texas%22+Facebook&oq=Brad+Buckley+%22State+House+TX-54%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/u5KS2woutvmi5qnsTQg8nQ/69bb5db96539a2c59df0d78c.html",
+    "total_time_taken": 1.66
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Brad Buckley \"State House TX-54\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Brad Buckley \"State House TX-54\" \"Central Texas\" Facebook",
+    "total_results": 156000,
+    "time_taken_displayed": 0.73,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Brad Buckley State House TX-54 Central Texas Facebook",
+    "spelling_fix": "Brad Buckley State House TX-54 Central Texas Facebook"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Representative Brad Buckley (@bradbuckleyfortexas)",
+      "link": "https://www.facebook.com/bradbuckleyfortexas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bradbuckleyfortexas/&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4QFnoECCAQAQ",
+      "displayed_link": "9.3K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW780yA2jXKFS7r2gv7Nyl9q8I.png",
+      "snippet": "Representative Brad Buckley. 9325 likes · 336 talking about this. Texan, Conservative, and State Representative for Texas's House District 54.",
+      "snippet_highlighted_words": [
+        "Brad Buckley",
+        "State",
+        "Texas's House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Representative Brad Buckley. 9325 likes · 336 talking about this. Texan, Conservative, and State Representative for Texas's House District 54.",
+          "source_info_link": "https://www.facebook.com/bradbuckleyfortexas/",
+          "icon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW781wHMCoL8U9QK9lIYCmc7tsoxpxZPVQ1khs2DXc-de7j.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bradbuckleyfortexas/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbradbuckleyfortexas%2F",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+%22TX-%22+54+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q5t4CegQIMRAB"
+      },
+      "source": "Facebook · Representative Brad Buckley"
+    },
+    {
+      "position": 2,
+      "title": "Representative Brad Buckley (@bradbuckleyfortexas)",
+      "link": "https://www.facebook.com/bradbuckleyfortexas/mentions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bradbuckleyfortexas/mentions/&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4QFnoECBwQAQ",
+      "displayed_link": "https://www.facebook.com › mentions",
+      "favicon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW78xcy5mizwdpbOCwaqEIujhQ.png",
+      "snippet": "Representative Brad Buckley. 9316 likes · 421 talking about this. Texan, Conservative, and State Representative for Texas's House District 54.",
+      "snippet_highlighted_words": [
+        "Brad Buckley",
+        "State",
+        "Texas's House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Representative Brad Buckley. 9316 likes · 421 talking about this. Texan, Conservative, and State Representative for Texas's House District 54.",
+          "source_info_link": "https://www.facebook.com/bradbuckleyfortexas/mentions/",
+          "icon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW785Nvu7PyKVc-Z6wAf2NffDcAN9EovvoPQ-nLyk9aEPqp.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bradbuckleyfortexas/mentions/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbradbuckleyfortexas%2Fmentions%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 3,
+      "title": "Representative Brad Buckley‎‏ ‏‎(@bradbuckleyfortexas)",
+      "link": "https://ar-ar.facebook.com/bradbuckleyfortexas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ar-ar.facebook.com/bradbuckleyfortexas&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4QFnoECB8QAQ",
+      "displayed_link": "9.3K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW78_I-2T4kP_unVCvo9LHxt8s.png",
+      "snippet": "Representative Brad Buckley‎‏. ‏‏٩٬٣٢٢‏ تسجيل إعجاب · يتحدث ‏٨٦‏ عن هذا‏. ‏‎Texan, Conservative, and State Representative for Texas's House District 54.‎‏",
+      "snippet_highlighted_words": [
+        "Brad Buckley",
+        "State",
+        "Texas's House",
+        "54"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Representative Brad Buckley‎‏. ‏‏٩٬٣٢٢‏ تسجيل إعجاب · يتحدث ‏٨٦‏ عن هذا‏. ‏‎Texan, Conservative, and State Representative for Texas's House District 54.‎‏",
+          "source_info_link": "https://ar-ar.facebook.com/bradbuckleyfortexas",
+          "icon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW7852zEJ7xvIKtby38iKq_i33islZzd_EMz8FZlIQ3tOWj.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ar-ar.facebook.com/bradbuckleyfortexas&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Far-ar.facebook.com%2Fbradbuckleyfortexas",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+%22TX-%22+54+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q5t4CegQINBAB"
+      },
+      "source": "Facebook · Representative Brad Buckley"
+    },
+    {
+      "position": 4,
+      "title": "Representative Brad Buckley",
+      "link": "https://www.facebook.com/bradbuckleyfortexas/photos/d41d8cd9/1342481057691377/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bradbuckleyfortexas/photos/d41d8cd9/1342481057691377/&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4QFnoECCEQAQ",
+      "displayed_link": "4 reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW789cbtZ_y621g_yWq6owpE0s.png",
+      "snippet": "Hope you'll support an \"all the above\" energy strategy and embrace solar paired with BESS to accompany other energy sources that are ...",
+      "about_this_result": {
+        "source": {
+          "description": "Hope you'll support an \"all the above\" energy strategy and embrace solar paired with BESS to accompany other energy sources that are ...",
+          "source_info_link": "https://www.facebook.com/bradbuckleyfortexas/photos/d41d8cd9/1342481057691377/",
+          "icon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW786s-R_jzlP6nTTvGUUAQ9RmznXnnQAn2kh1f06sk3nMx.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bradbuckleyfortexas/photos/d41d8cd9/1342481057691377/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbradbuckleyfortexas%2Fphotos%2Fd41d8cd9%2F1342481057691377%2F",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+%22TX-%22+54+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q5t4CegQIMhAB"
+      },
+      "source": "Facebook · Representative Brad Buckley"
+    },
+    {
+      "position": 5,
+      "title": "Representative - Today is Election Day! I am honored to be ...",
+      "link": "https://www.facebook.com/bradbuckleyfortexas/photos/today-is-election-day-i-am-honored-to-be-your-republican-nominee-for-hd54-and-lo/1340696447869838/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bradbuckleyfortexas/photos/today-is-election-day-i-am-honored-to-be-your-republican-nominee-for-hd54-and-lo/1340696447869838/&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4QFnoECB4QAQ",
+      "displayed_link": "40+ reactions · 2 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW783utqm5YtPWK2hoaTF7pd0I.png",
+      "snippet": "Today is Election Day! I am honored to be your Republican nominee for #HD54 and look forward to representing you again in Austin!",
+      "about_this_result": {
+        "source": {
+          "description": "Today is Election Day! I am honored to be your Republican nominee for #HD54 and look forward to representing you again in Austin!",
+          "source_info_link": "https://www.facebook.com/bradbuckleyfortexas/photos/today-is-election-day-i-am-honored-to-be-your-republican-nominee-for-hd54-and-lo/1340696447869838/",
+          "icon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW78_GKeFyBPjiTBkfCyVz5bKvnugMxD9HTNAH6l0IGDckM.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bradbuckleyfortexas/photos/today-is-election-day-i-am-honored-to-be-your-republican-nominee-for-hd54-and-lo/1340696447869838/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbradbuckleyfortexas%2Fphotos%2Ftoday-is-election-day-i-am-honored-to-be-your-republican-nominee-for-hd54-and-lo%2F1340696447869838%2F",
+      "missing": [
+        "State",
+        "TX-",
+        "Central"
+      ],
+      "source": "Facebook · Representative Brad Buckley"
+    },
+    {
+      "position": 6,
+      "title": "Representative Brad Buckley",
+      "link": "https://www.facebook.com/bradbuckleyfortexas/posts/representative-brad-buckley-advocates-for-texas-homeschool-families-and-educatio/1329698682302948/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bradbuckleyfortexas/posts/representative-brad-buckley-advocates-for-texas-homeschool-families-and-educatio/1329698682302948/&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4QFnoECCMQAQ",
+      "displayed_link": "60+ reactions · 4 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW78xSHLSoe9vY-TuStfH_W74M.png",
+      "snippet": "\"Representative Brad Buckley advocates for Texas homeschool families and educational freedom, and we are proud to once again stand with him ...",
+      "snippet_highlighted_words": [
+        "Brad Buckley",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "\"Representative Brad Buckley advocates for Texas homeschool families and educational freedom, and we are proud to once again stand with him ...",
+          "source_info_link": "https://www.facebook.com/bradbuckleyfortexas/posts/representative-brad-buckley-advocates-for-texas-homeschool-families-and-educatio/1329698682302948/",
+          "icon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW7844eIegdyc3xBSoByZnqn9FbtiDjvSpqmABYHxBhRBAO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bradbuckleyfortexas/posts/representative-brad-buckley-advocates-for-texas-homeschool-families-and-educatio/1329698682302948/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbradbuckleyfortexas%2Fposts%2Frepresentative-brad-buckley-advocates-for-texas-homeschool-families-and-educatio%2F1329698682302948%2F",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+%22TX-%22+54+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q5t4CegQIMxAB"
+      },
+      "source": "Facebook · Representative Brad Buckley"
+    },
+    {
+      "position": 7,
+      "title": "Representative Brad Buckley",
+      "link": "https://www.facebook.com/bradbuckleyfortexas/photos/d41d8cd9/1317801180159365/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bradbuckleyfortexas/photos/d41d8cd9/1317801180159365/&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4QFnoECCIQAQ",
+      "displayed_link": "2 reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW789SIQOZbCP4Vh4JE7S4QgEU.png",
+      "snippet": "Is there a reason that aerobic septic systems cannot be used? That is what we have on most of Salado Oaks. Each home would have this septic ...",
+      "snippet_highlighted_words": [
+        "home"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Is there a reason that aerobic septic systems cannot be used? That is what we have on most of Salado Oaks. Each home would have this septic ...",
+          "source_info_link": "https://www.facebook.com/bradbuckleyfortexas/photos/d41d8cd9/1317801180159365/",
+          "icon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW78zUkX2GmqMtnzTY6Pdc_IKVc1eFfWfgFn80himFiyroe.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bradbuckleyfortexas/photos/d41d8cd9/1317801180159365/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbradbuckleyfortexas%2Fphotos%2Fd41d8cd9%2F1317801180159365%2F",
+      "source": "Facebook · Representative Brad Buckley"
+    },
+    {
+      "position": 8,
+      "title": "VOTE FOR DR. BRAD BUCKLEY in the Republican Primary ...",
+      "link": "https://www.facebook.com/bradbuckleyfortexas/videos/vote-for-dr-brad-buckey-for-state-rep/1838320346178981/",
+      "displayed_link": "380+ reactions · 8 years ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW780bPt7XIY39q_jcatmpVfhs.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW78-PUgW5RAX-2aK3PwUimYmY.png",
+      "snippet": "VOTE FOR DR. BRAD BUCKLEY in the Republican Primary RUNOFF election, on Tuesday, May 22nd! I would be honored to have your vote to be your ...",
+      "duration": "1:27",
+      "about_this_result": {
+        "source": {
+          "description": "VOTE FOR DR. BRAD BUCKLEY in the Republican Primary RUNOFF election, on Tuesday, May 22nd! I would be honored to have your vote to be your ...",
+          "source_info_link": "https://www.facebook.com/bradbuckleyfortexas/videos/vote-for-dr-brad-buckey-for-state-rep/1838320346178981/",
+          "icon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW783bZIXM2kt3nQBrCkW_enVi0Q48oC9MfbUPBgaN9dfuO.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bradbuckleyfortexas/videos/vote-for-dr-brad-buckey-for-state-rep/1838320346178981/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbradbuckleyfortexas%2Fvideos%2Fvote-for-dr-brad-buckey-for-state-rep%2F1838320346178981%2F",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+%22TX-%22+54+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q5t4CegQIORAS"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSAgE_OdPDn1d7A9y398G76gGhZiuiox950qw",
+      "source": "Facebook · Representative Brad Buckley"
+    },
+    {
+      "position": 9,
+      "title": "State - Thank you Representative Brad Buckley for greeting ...",
+      "link": "https://www.facebook.com/TerriLeoWilson/photos/thank-you-representative-brad-buckley-for-greeting-voters-at-the-polls-with-me-a/941029675113891/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/TerriLeoWilson/photos/thank-you-representative-brad-buckley-for-greeting-voters-at-the-polls-with-me-a/941029675113891/&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4QFnoECDsQAQ",
+      "displayed_link": "50+ reactions · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW785mJTi_bJnF-Fibly87BKJA.png",
+      "snippet": "Thank you Representative Brad Buckley for greeting voters at the polls with me and for your continued leadership on behalf of Texas students ...",
+      "snippet_highlighted_words": [
+        "Brad Buckley",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Thank you Representative Brad Buckley for greeting voters at the polls with me and for your continued leadership on behalf of Texas students ...",
+          "source_info_link": "https://www.facebook.com/TerriLeoWilson/photos/thank-you-representative-brad-buckley-for-greeting-voters-at-the-polls-with-me-a/941029675113891/",
+          "icon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW787-W2zdtIdq0et_GulNWMgpFBfrNkYxbzZYMqS8sIRlv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/TerriLeoWilson/photos/thank-you-representative-brad-buckley-for-greeting-voters-at-the-polls-with-me-a/941029675113891/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FTerriLeoWilson%2Fphotos%2Fthank-you-representative-brad-buckley-for-greeting-voters-at-the-polls-with-me-a%2F941029675113891%2F",
+      "missing": [
+        "TX-",
+        "54"
+      ],
+      "source": "Facebook · State Representative Terri Leo Wilson"
+    },
+    {
+      "position": 10,
+      "title": "Wishing you a Happy Presidents Day! #txlege #HD54 ...",
+      "link": "https://www.facebook.com/bradbuckleyfortexas/posts/wishing-you-a-happy-presidents-day-txlege-hd54-teambuckley/1328592775746872/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bradbuckleyfortexas/posts/wishing-you-a-happy-presidents-day-txlege-hd54-teambuckley/1328592775746872/&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4QFnoECDoQAQ",
+      "displayed_link": "20+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW789m50-7KFLRGn93HMeIh_20.png",
+      "snippet": "U.S. Army Fort Hood Garrison Commander Col Mark McLellan for an outstanding update for community leaders at Central Texas College today. The ...",
+      "snippet_highlighted_words": [
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "U.S. Army Fort Hood Garrison Commander Col Mark McLellan for an outstanding update for community leaders at Central Texas College today. The ...",
+          "source_info_link": "https://www.facebook.com/bradbuckleyfortexas/posts/wishing-you-a-happy-presidents-day-txlege-hd54-teambuckley/1328592775746872/",
+          "icon": "https://serpapi.com/searches/69bb5db96539a2c59df0d78c/images/1zWxinEttvVqdreBkJW78-wWNYPflvHjolaRcxLvJ6bbZ9rCwOv9PZCtrNuyPRHv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/bradbuckleyfortexas/posts/wishing-you-a-happy-presidents-day-txlege-hd54-teambuckley/1328592775746872/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fbradbuckleyfortexas%2Fposts%2Fwishing-you-a-happy-presidents-day-txlege-hd54-teambuckley%2F1328592775746872%2F",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Brad+Buckley+State+House+%22TX-%22+54+Central+Texas+Facebook&sa=X&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q5t4CegQIPxAB"
+      },
+      "source": "Facebook · Representative Brad Buckley"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=uV27abjEOqWt0PEPvo6o8Qg&start=10&sa=N&sstk=Af77f_dGpWnAy5PkVGFp-uvpfyjqgBxiM5mF9x8e47xSuydLnJ4D5BW8dAEnJHkzI1Qnt36o8lWBBYt40KWQDIL9W4aZ3uC5rYyAVA&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q8NMDegQIDhAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=uV27abjEOqWt0PEPvo6o8Qg&start=10&sa=N&sstk=Af77f_dGpWnAy5PkVGFp-uvpfyjqgBxiM5mF9x8e47xSuydLnJ4D5BW8dAEnJHkzI1Qnt36o8lWBBYt40KWQDIL9W4aZ3uC5rYyAVA&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q8tMDegQIDhAE",
+      "3": "https://www.google.com/search?q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=uV27abjEOqWt0PEPvo6o8Qg&start=20&sa=N&sstk=Af77f_dGpWnAy5PkVGFp-uvpfyjqgBxiM5mF9x8e47xSuydLnJ4D5BW8dAEnJHkzI1Qnt36o8lWBBYt40KWQDIL9W4aZ3uC5rYyAVA&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q8tMDegQIDhAG",
+      "4": "https://www.google.com/search?q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=uV27abjEOqWt0PEPvo6o8Qg&start=30&sa=N&sstk=Af77f_dGpWnAy5PkVGFp-uvpfyjqgBxiM5mF9x8e47xSuydLnJ4D5BW8dAEnJHkzI1Qnt36o8lWBBYt40KWQDIL9W4aZ3uC5rYyAVA&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q8tMDegQIDhAI",
+      "5": "https://www.google.com/search?q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=uV27abjEOqWt0PEPvo6o8Qg&start=40&sa=N&sstk=Af77f_dGpWnAy5PkVGFp-uvpfyjqgBxiM5mF9x8e47xSuydLnJ4D5BW8dAEnJHkzI1Qnt36o8lWBBYt40KWQDIL9W4aZ3uC5rYyAVA&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q8tMDegQIDhAK",
+      "6": "https://www.google.com/search?q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&sca_esv=c2ca9e7198039ef3&ei=uV27abjEOqWt0PEPvo6o8Qg&start=50&sa=N&sstk=Af77f_dGpWnAy5PkVGFp-uvpfyjqgBxiM5mF9x8e47xSuydLnJ4D5BW8dAEnJHkzI1Qnt36o8lWBBYt40KWQDIL9W4aZ3uC5rYyAVA&ved=2ahUKEwj4hJvX86qTAxWlFjQIHT4HKo4Q8tMDegQIDhAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Buckley+State+House+TX-54+Central+Texas+Facebook&start=50"
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "search_metadata": {
+    "id": "69bb5ce1822c5f837e17002a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MFGu1mNNGNB_l5TPva9xkA/69bb5ce1822c5f837e17002a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/MFGu1mNNGNB_l5TPva9xkA/69bb5ce1822c5f837e17002a.json_with_pixel_position",
+    "created_at": "2026-03-19 02:18:09 UTC",
+    "processed_at": "2026-03-19 02:18:09 UTC",
+    "google_url": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&oq=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/MFGu1mNNGNB_l5TPva9xkA/69bb5ce1822c5f837e17002a.html",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Killeen Mayor election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Killeen Mayor election. Key platform issues for candidates: opponents. Provide a short factual summary.",
+    "total_results": 14100,
+    "time_taken_displayed": 0.87,
+    "organic_results_state": "Results for exact spelling",
+    "query_feedback": {
+      "title": "It looks like there aren't many great matches for your search",
+      "description": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake.\""
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "At the end of candidate filings, a crowded field for city, ...",
+      "link": "https://kdhnews.com/centerforpolitics/at-the-end-of-candidate-filings-a-crowded-field-for-city-school-elections/article_f3dddece-212d-4e2d-a459-b33e4197836b.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kdhnews.com/centerforpolitics/at-the-end-of-candidate-filings-a-crowded-field-for-city-school-elections/article_f3dddece-212d-4e2d-a459-b33e4197836b.html&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQFnoECBMQAQ",
+      "displayed_link": "https://kdhnews.com › centerforpolitics › at-the-end-of-...",
+      "favicon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKIUQr_pAAUL7fwiF3jGxaHA.png",
+      "date": "Feb 13, 2026",
+      "snippet": "The filing period for the May 2 election ended Friday, with races in Killeen looking especially competitive.",
+      "snippet_highlighted_words": [
+        "election",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The filing period for the May 2 election ended Friday, with races in Killeen looking especially competitive.",
+          "source_info_link": "https://kdhnews.com/centerforpolitics/at-the-end-of-candidate-filings-a-crowded-field-for-city-school-elections/article_f3dddece-212d-4e2d-a459-b33e4197836b.html",
+          "icon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKGbp20drM9jgDF0Lvv5XippcWYFf619IVVGK50EvQS4g.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kdhnews.com/centerforpolitics/at-the-end-of-candidate-filings-a-crowded-field-for-city-school-elections/article_f3dddece-212d-4e2d-a459-b33e4197836b.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkdhnews.com%2Fcenterforpolitics%2Fat-the-end-of-candidate-filings-a-crowded-field-for-city-school-elections%2Farticle_f3dddece-212d-4e2d-a459-b33e4197836b.html",
+      "missing": [
+        "platform",
+        "opponents.",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "The Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "The Killeen Charter Review Committee, tasked with ...",
+      "link": "https://www.facebook.com/kdhnews/posts/the-killeen-charter-review-committee-tasked-with-making-recommendations-to-the-k/1485844970156319/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/the-killeen-charter-review-committee-tasked-with-making-recommendations-to-the-k/1485844970156319/&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQFnoECBUQAQ",
+      "displayed_link": "3 reactions · 1 day ago",
+      "favicon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKG9YsiyOH1y_wyWf4dvOjTg.png",
+      "snippet": "The Killeen Charter Review Committee, tasked with making recommendations to the Killeen City Council for changes to the city charter, ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Killeen"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Killeen Charter Review Committee, tasked with making recommendations to the Killeen City Council for changes to the city charter, ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/the-killeen-charter-review-committee-tasked-with-making-recommendations-to-the-k/1485844970156319/",
+          "icon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKIy27QyudXZkDvrZfkjqNcD9yOpIkcdDP8qMRKsFJE2K.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/the-killeen-charter-review-committee-tasked-with-making-recommendations-to-the-k/1485844970156319/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fthe-killeen-charter-review-committee-tasked-with-making-recommendations-to-the-k%2F1485844970156319%2F",
+      "missing": [
+        "Key",
+        "opponents.",
+        "summary."
+      ],
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 3,
+      "title": "Mayor Pro Tem Riakos Adams discusses some of the issues ...",
+      "link": "https://www.facebook.com/kdhnews/videos/mayor-pro-tem-riakos-adams-discusses-some-of-the-issues-as-he-runs-for-the-city-/905684571947033/",
+      "displayed_link": "8 reactions · 1 month ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKGaa-mwVtUNZkacAslcRc7c.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKDM9xQry9qc_d1eLIWP6NVs.png",
+      "snippet": "... video series leading up to the May 2, 2026 election. | Killeen Daily Herald | Facebook. Log in · Video. 󱡘. Killeen Daily Herald. Feb 6󰞋󱟠. 󳄫 ...",
+      "duration": "27:58",
+      "about_this_result": {
+        "source": {
+          "description": "... video series leading up to the May 2, 2026 election. | Killeen Daily Herald | Facebook. Log in · Video. 󱡘. Killeen Daily Herald. Feb 6󰞋󱟠. 󳄫 ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/videos/mayor-pro-tem-riakos-adams-discusses-some-of-the-issues-as-he-runs-for-the-city-/905684571947033/",
+          "icon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKCBckVmm6x5UN-Ord6jHQ42WyJvjFsb1HT3s8kWGkVj7.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/videos/mayor-pro-tem-riakos-adams-discusses-some-of-the-issues-as-he-runs-for-the-city-/905684571947033/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fvideos%2Fmayor-pro-tem-riakos-adams-discusses-some-of-the-issues-as-he-runs-for-the-city-%2F905684571947033%2F",
+      "missing": [
+        "platform",
+        "factual",
+        "summary."
+      ],
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 4,
+      "title": "3 Killeen City Council seats sit empty ahead of May special ...",
+      "link": "https://www.youtube.com/watch?v=IsVAldMKmTI",
+      "displayed_link": "50+ views · 1 week ago",
+      "thumbnail": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKL-R6ePCvhKebQKxPE1w5yc.jpeg",
+      "favicon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKPWZOUQJ6qoE1svpDQQu3BE.png",
+      "snippet": "3 Killeen City Council seats sit empty ahead of May special election. 57 views · 6 days ago ...more. 25 News KXXV. 219K. Subscribe. 3. Share.",
+      "duration": "1:44",
+      "about_this_result": {
+        "source": {
+          "description": "3 Killeen City Council seats sit empty ahead of May special election. 57 views · 6 days ago ...more. 25 News KXXV. 219K. Subscribe. 3. Share.",
+          "source_info_link": "https://www.youtube.com/watch?v=IsVAldMKmTI",
+          "icon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKCxBJnAeGmJjZeTNIsKSh5x1-RPGJoJyJflkhypA0lT0.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=IsVAldMKmTI&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIsVAldMKmTI",
+      "missing": [
+        "Mayor",
+        "platform",
+        "issues",
+        "candidates:",
+        "opponents.",
+        "short",
+        "factual",
+        "summary."
+      ],
+      "source": "YouTube · 25 News KXXV"
+    },
+    {
+      "position": 5,
+      "title": "The Killeen Charter Review Committee met this week and ...",
+      "link": "https://www.facebook.com/kdhnews/posts/the-killeen-charter-review-committee-met-this-week-and-recommended-changes-that-/1476046044469545/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/the-killeen-charter-review-committee-met-this-week-and-recommended-changes-that-/1476046044469545/&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQFnoECDAQAQ",
+      "displayed_link": "6 reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKLr68Ze1izzK0OgncDTEWRk.png",
+      "snippet": "The elected made it harder to recall them from office. I'm running for Mayor to cease the \"we're the Council, we don't need your citizen input\" ...",
+      "snippet_highlighted_words": [
+        "Mayor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The elected made it harder to recall them from office. I'm running for Mayor to cease the \"we're the Council, we don't need your citizen input\" ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/the-killeen-charter-review-committee-met-this-week-and-recommended-changes-that-/1476046044469545/",
+          "icon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKOHbKMA9sSuegn8Oh8aDkE2yOhNIFGEwddhJmcO9tte0.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/the-killeen-charter-review-committee-met-this-week-and-recommended-changes-that-/1476046044469545/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fthe-killeen-charter-review-committee-met-this-week-and-recommended-changes-that-%2F1476046044469545%2F",
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 6,
+      "title": "- CONFIRMATION HEARING ON THE NOMINATION OF ...",
+      "link": "https://www.govinfo.gov/content/pkg/CHRG-111shrg56940/html/CHRG-111shrg56940.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govinfo.gov/content/pkg/CHRG-111shrg56940/html/CHRG-111shrg56940.htm&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQFnoECCoQAQ",
+      "displayed_link": "https://www.govinfo.gov › content › pkg › html",
+      "favicon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKD1O1E7GL30v47q9K_s0SXs.png",
+      "snippet": "[Senate Hearing 111-503] [From the U.S. Government Publishing Office] S. Hrg. 111-503 CONFIRMATION HEARING ON THE NOMINATION OF HON. SONIA SOTOMAYOR, TO BE ...",
+      "snippet_highlighted_words": [
+        "SOTOMAYOR"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "[Senate Hearing 111-503] [From the U.S. Government Publishing Office] S. Hrg. 111-503 CONFIRMATION HEARING ON THE NOMINATION OF HON. SONIA SOTOMAYOR, TO BE ...",
+          "source_info_link": "https://www.govinfo.gov/content/pkg/CHRG-111shrg56940/html/CHRG-111shrg56940.htm",
+          "icon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKDahE71Qcvp6V8lXAyePqQHa_6FX-85KGAhdUvjHMb2C.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.govinfo.gov/content/pkg/CHRG-111shrg56940/html/CHRG-111shrg56940.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.govinfo.gov%2Fcontent%2Fpkg%2FCHRG-111shrg56940%2Fhtml%2FCHRG-111shrg56940.htm",
+      "source": "GovInfo (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "house of representatives",
+      "link": "https://capitol.texas.gov/tlodocs/89R/publiccomments/Meetings/C0552025072611001/InputItems/2038e263-4aea-4c61-b488-1e5ec2197efa.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://capitol.texas.gov/tlodocs/89R/publiccomments/Meetings/C0552025072611001/InputItems/2038e263-4aea-4c61-b488-1e5ec2197efa.pdf&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQFnoECCwQAQ",
+      "displayed_link": "https://capitol.texas.gov › Meetings › InputItems",
+      "favicon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKNkuAPaLgpbYWTB8qMEY7yQ.jpeg",
+      "date": "Jul 26, 2025",
+      "snippet": "And btw, give us our special election. We are currently without a House Representative for District 18. Prove to me that this. Isn't racist ...",
+      "snippet_highlighted_words": [
+        "give",
+        "election"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 386
+          },
+          "extensions": [
+            "386 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "And btw, give us our special election. We are currently without a House Representative for District 18. Prove to me that this. Isn't racist ...",
+          "source_info_link": "https://capitol.texas.gov/tlodocs/89R/publiccomments/Meetings/C0552025072611001/InputItems/2038e263-4aea-4c61-b488-1e5ec2197efa.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKGxnRNzVwJzyh1RL9RFAjfCj4aH1fjNskgQeZd1MZz9l.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://capitol.texas.gov/tlodocs/89R/publiccomments/Meetings/C0552025072611001/InputItems/2038e263-4aea-4c61-b488-1e5ec2197efa.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcapitol.texas.gov%2Ftlodocs%2F89R%2Fpubliccomments%2FMeetings%2FC0552025072611001%2FInputItems%2F2038e263-4aea-4c61-b488-1e5ec2197efa.pdf",
+      "source": "Texas Legislature Online (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "EXEMPTION (b)(6) IS APPLIED TO ALL REDACTIONS IN ...",
+      "link": "https://www.epa.gov/system/files/documents/2024-04/fiscal-year-2017-epa-foia-log.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.epa.gov/system/files/documents/2024-04/fiscal-year-2017-epa-foia-log.pdf&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQFnoECCsQAQ",
+      "displayed_link": "https://www.epa.gov › system › files › documents",
+      "favicon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKE25hIFMRmjCs0m4Cisy2js.png",
+      "date": "Apr 1, 2024",
+      "snippet": "We're conducting an environmental assessment on a piece of property and are looking to review files pertaining to a site listed as a US ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 461
+          },
+          "extensions": [
+            "461 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "We're conducting an environmental assessment on a piece of property and are looking to review files pertaining to a site listed as a US ...",
+          "source_info_link": "https://www.epa.gov/system/files/documents/2024-04/fiscal-year-2017-epa-foia-log.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKNIrHrwCmOw3I8fhlfFqRfT4mFMMvxVMXeJcozMGfyI_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.epa.gov/system/files/documents/2024-04/fiscal-year-2017-epa-foia-log.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.epa.gov%2Fsystem%2Ffiles%2Fdocuments%2F2024-04%2Ffiscal-year-2017-epa-foia-log.pdf",
+      "source": "U.S. Environmental Protection Agency (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "MUNICIPAL POLICY SUMMIT",
+      "link": "https://www.tml.org/DocumentCenter/View/1982/Policy-Summit-Packet_Final",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tml.org/DocumentCenter/View/1982/Policy-Summit-Packet_Final&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQFnoECC0QAQ",
+      "displayed_link": "https://www.tml.org › Policy-Summit-Packet_Final",
+      "favicon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKPg5U8rLxrR7oJMcGtoTBm4.png",
+      "date": "Jul 24, 2020",
+      "snippet": "Ryan Adams, Deputy Director of Public Affairs/IGR, Denton. Glen T. Adams, City Manager, Santa Fe. Joe Ashton, Councilmember, River Oaks.",
+      "about_this_result": {
+        "source": {
+          "description": "Ryan Adams, Deputy Director of Public Affairs/IGR, Denton. Glen T. Adams, City Manager, Santa Fe. Joe Ashton, Councilmember, River Oaks.",
+          "source_info_link": "https://www.tml.org/DocumentCenter/View/1982/Policy-Summit-Packet_Final",
+          "icon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKDQfA6HyUorQjMCkqIqvPerTlj-CubLWxFqr-x-slLZ4.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tml.org/DocumentCenter/View/1982/Policy-Summit-Packet_Final&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tml.org%2FDocumentCenter%2FView%2F1982%2FPolicy-Summit-Packet_Final",
+      "source": "Texas Municipal League"
+    },
+    {
+      "position": 10,
+      "title": "3/t/9 4",
+      "link": "https://www.fec.gov/files/legal/murs/4451.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fec.gov/files/legal/murs/4451.pdf&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQFnoECCkQAQ",
+      "displayed_link": "https://www.fec.gov › files › legal › murs",
+      "favicon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKBaTwWzCN72wLzpzCEZwdEM.png",
+      "snippet": "... candidates may participate in a debate. For general election debates, staging organization(s) shl Mo use nomination by a particular political party as the ...",
+      "snippet_highlighted_words": [
+        "candidates",
+        "election"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... candidates may participate in a debate. For general election debates, staging organization(s) shl Mo use nomination by a particular political party as the ...",
+          "source_info_link": "https://www.fec.gov/files/legal/murs/4451.pdf",
+          "icon": "https://serpapi.com/searches/69bb5ce1822c5f837e17002a/images/R6Gj0pNKiVA6IGCZXQJPKJt-iz1RTdRVbvFyPfvmT9Jn3uIbkMNOvJXLev1dCGpl.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/files/legal/murs/4451.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fec.gov%2Ffiles%2Flegal%2Fmurs%2F4451.pdf",
+      "source": "FEC.gov"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=4ly7adukEYGQwbkP58-D0AU&start=10&sa=N&sstk=Af77f_cEfMjIky8PDVzhOnd3dYD2p7Qpm4Pbi80p4u9p2QDpBHphHc8xKu7kYdKylowtZnkEUdxOI6JUj8wQi8ESRI66IlGONzf_-A&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=4ly7adukEYGQwbkP58-D0AU&start=10&sa=N&sstk=Af77f_cEfMjIky8PDVzhOnd3dYD2p7Qpm4Pbi80p4u9p2QDpBHphHc8xKu7kYdKylowtZnkEUdxOI6JUj8wQi8ESRI66IlGONzf_-A&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=4ly7adukEYGQwbkP58-D0AU&start=20&sa=N&sstk=Af77f_cEfMjIky8PDVzhOnd3dYD2p7Qpm4Pbi80p4u9p2QDpBHphHc8xKu7kYdKylowtZnkEUdxOI6JUj8wQi8ESRI66IlGONzf_-A&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=4ly7adukEYGQwbkP58-D0AU&start=30&sa=N&sstk=Af77f_cEfMjIky8PDVzhOnd3dYD2p7Qpm4Pbi80p4u9p2QDpBHphHc8xKu7kYdKylowtZnkEUdxOI6JUj8wQi8ESRI66IlGONzf_-A&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=4ly7adukEYGQwbkP58-D0AU&start=40&sa=N&sstk=Af77f_cEfMjIky8PDVzhOnd3dYD2p7Qpm4Pbi80p4u9p2QDpBHphHc8xKu7kYdKylowtZnkEUdxOI6JUj8wQi8ESRI66IlGONzf_-A&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=4ly7adukEYGQwbkP58-D0AU&start=50&sa=N&sstk=Af77f_cEfMjIky8PDVzhOnd3dYD2p7Qpm4Pbi80p4u9p2QDpBHphHc8xKu7kYdKylowtZnkEUdxOI6JUj8wQi8ESRI66IlGONzf_-A&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=4ly7adukEYGQwbkP58-D0AU&start=60&sa=N&sstk=Af77f_cEfMjIky8PDVzhOnd3dYD2p7Qpm4Pbi80p4u9p2QDpBHphHc8xKu7kYdKylowtZnkEUdxOI6JUj8wQi8ESRI66IlGONzf_-A&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=4ly7adukEYGQwbkP58-D0AU&start=70&sa=N&sstk=Af77f_cEfMjIky8PDVzhOnd3dYD2p7Qpm4Pbi80p4u9p2QDpBHphHc8xKu7kYdKylowtZnkEUdxOI6JUj8wQi8ESRI66IlGONzf_-A&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=4ly7adukEYGQwbkP58-D0AU&start=80&sa=N&sstk=Af77f_cEfMjIky8PDVzhOnd3dYD2p7Qpm4Pbi80p4u9p2QDpBHphHc8xKu7kYdKylowtZnkEUdxOI6JUj8wQi8ESRI66IlGONzf_-A&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQ8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=Killeen+Mayor+election.+Key+platform+issues+for+candidates:+opponents.+Provide+a+short+factual+summary.&sca_esv=c2ca9e7198039ef3&ei=4ly7adukEYGQwbkP58-D0AU&start=90&sa=N&sstk=Af77f_cEfMjIky8PDVzhOnd3dYD2p7Qpm4Pbi80p4u9p2QDpBHphHc8xKu7kYdKylowtZnkEUdxOI6JUj8wQi8ESRI66IlGONzf_-A&ved=2ahUKEwjbna_w8qqTAxUBSDABHefnAFoQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Killeen+Mayor+election.+Key+platform+issues+for+candidates%3A+opponents.+Provide+a+short+factual+summary.&start=90"
+    }
+  }
+}

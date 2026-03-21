@@ -1,0 +1,405 @@
+{
+  "search_metadata": {
+    "id": "69bb5d764707f18cae7d766f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e2qKTzGgfo131ioyyrsaDQ/69bb5d764707f18cae7d766f.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/e2qKTzGgfo131ioyyrsaDQ/69bb5d764707f18cae7d766f.json_with_pixel_position",
+    "created_at": "2026-03-19 02:20:38 UTC",
+    "processed_at": "2026-03-19 02:20:38 UTC",
+    "google_url": "https://www.google.com/search?q=Charles+Hollinger+%22CTC+Trustee+Place+2%22+%22Central+Texas%22+Instagram&oq=Charles+Hollinger+%22CTC+Trustee+Place+2%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/e2qKTzGgfo131ioyyrsaDQ/69bb5d764707f18cae7d766f.html",
+    "total_time_taken": 1.25
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Charles Hollinger \"CTC Trustee Place 2\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Charles Hollinger \"CTC Trustee Place 2\" \"Central Texas\" Instagram",
+    "total_results": 383,
+    "time_taken_displayed": 0.62,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Charles Hollinger CTC Trustee Place 2 Central Texas Instagram",
+    "spelling_fix": "Charles Hollinger CTC Trustee Place 2 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Charles Hollinger's Instagram, Twitter & Facebook on ...",
+      "link": "https://www.idcrawl.com/charles-hollinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.idcrawl.com/charles-hollinger&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQFnoECB0QAQ",
+      "displayed_link": "https://www.idcrawl.com › 🔍 C › Charles...Horace",
+      "favicon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN6fu7HETtPl8ux7K8pE4dyU.png",
+      "snippet": "Looking for Charles Hollinger? Found 85 people named Charles Hollinger. Instagram, Twitter, Facebook, TikTok profiles, and images on IDCrawl - free people ...",
+      "snippet_highlighted_words": [
+        "Charles Hollinger",
+        "Charles Hollinger",
+        "Instagram"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Looking for Charles Hollinger? Found 85 people named Charles Hollinger. Instagram, Twitter, Facebook, TikTok profiles, and images on IDCrawl - free people ...",
+          "source_info_link": "https://www.idcrawl.com/charles-hollinger",
+          "icon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fNwpvIxjtt0iXQrxuKtMrSUYJ7SDPBqGfxuIbugx_vb9g.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.idcrawl.com/charles-hollinger&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.idcrawl.com%2Fcharles-hollinger",
+      "source": "IDCrawl"
+    },
+    {
+      "position": 2,
+      "title": "Charles Hollinger (Central Texas College District Trustee ...",
+      "link": "https://ballotpedia.org/Charles_Hollinger_(Central_Texas_College_District_Trustee_Board_Place_2,_Texas,_candidate_2025)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Charles_Hollinger_(Central_Texas_College_District_Trustee_Board_Place_2,_Texas,_candidate_2025)&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQFnoECCQQAQ",
+      "displayed_link": "https://ballotpedia.org › Charles_Hollinger_(Central_Tex...",
+      "favicon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN-2LaA3SMYWkZlxnH67cl1k.png",
+      "snippet": "Charles Hollinger ran for election to the Central Texas College District Trustee Board Place 2. Hollinger was on the ballot in the general election on May 3, ...",
+      "snippet_highlighted_words": [
+        "Charles Hollinger",
+        "Central Texas",
+        "Trustee",
+        "Place 2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Charles Hollinger ran for election to the Central Texas College District Trustee Board Place 2. Hollinger was on the ballot in the general election on May 3, ...",
+          "source_info_link": "https://ballotpedia.org/Charles_Hollinger_(Central_Texas_College_District_Trustee_Board_Place_2,_Texas,_candidate_2025)",
+          "icon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fNyhtexu6Qx7gM8LZG9wb4GamWsFM-PjG-7kt44mqjFpu.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Charles_Hollinger_(Central_Texas_College_District_Trustee_Board_Place_2,_Texas,_candidate_2025)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FCharles_Hollinger_%28Central_Texas_College_District_Trustee_Board_Place_2%2C_Texas%2C_candidate_2025%29",
+      "missing": [
+        "Instagram"
+      ],
+      "must_include": {
+        "word": "Instagram",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+%22Instagram%22&sa=X&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ5t4CegQIMhAB"
+      },
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 3,
+      "title": "2025-ISGAP-Oxford-Summer-Institute- ...",
+      "link": "https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQFnoECB8QAQ",
+      "displayed_link": "https://isgap.org › wp-content › uploads › 2025/08",
+      "favicon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN9WX5Mp5EPbEEPwsKWqehFQ.png",
+      "date": "Aug 7, 2025",
+      "snippet": "Charles convened groundbreaking academic seminar series in the emerging field of contemporary antisemitism studies at Columbia University, ...",
+      "snippet_highlighted_words": [
+        "Charles"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 67
+          },
+          "extensions": [
+            "67 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Charles convened groundbreaking academic seminar series in the emerging field of contemporary antisemitism studies at Columbia University, ...",
+          "source_info_link": "https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN2Vj8UxQk-XnyyGaExE72wBULnLiMZ8NzKEoW0yjDvG6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://isgap.org/wp-content/uploads/2025/08/2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fisgap.org%2Fwp-content%2Fuploads%2F2025%2F08%2F2025-ISGAP-Oxford-Summer-Institute-Programme-210825.pdf",
+      "source": "ISGAP"
+    },
+    {
+      "position": 4,
+      "title": "LIST OF UNLAWFULLY OPERATING COMPANIES",
+      "link": "https://www.cryptolegal.uk/list-of-unlawfully-operating-companies/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cryptolegal.uk/list-of-unlawfully-operating-companies/&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQFnoECCMQAQ",
+      "displayed_link": "https://www.cryptolegal.uk › list-of-unlawfully-operatin...",
+      "favicon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN5lEAUajpyiXdVAe2p6GJDk.png",
+      "date": "Mar 4, 2026",
+      "snippet": "Find below our list of fraudulent investment companies, financial services, trading platforms, forex brokers and cryptocurrency exchanges that have been ...",
+      "about_this_result": {
+        "source": {
+          "description": "Find below our list of fraudulent investment companies, financial services, trading platforms, forex brokers and cryptocurrency exchanges that have been ...",
+          "source_info_link": "https://www.cryptolegal.uk/list-of-unlawfully-operating-companies/",
+          "icon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN0uKuzZ9-5hudwi6SERPU3NMbKpfFsjHm8GOmGpE8T1e.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cryptolegal.uk/list-of-unlawfully-operating-companies/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cryptolegal.uk%2Flist-of-unlawfully-operating-companies%2F",
+      "source": "Crypto Legal"
+    },
+    {
+      "position": 5,
+      "title": "Tax Mob Member List | PDF | Financial Services | Business",
+      "link": "https://www.scribd.com/document/959510231/Tax-Mob-Member-List",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/959510231/Tax-Mob-Member-List&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQFnoECCcQAQ",
+      "displayed_link": "https://www.scribd.com › document › Tax-Mob-Memb...",
+      "favicon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN0JfoWcel25X2OO_6y0bEsU.png",
+      "snippet": "Owner/Tax Preparer at C & C Tax and Accounting Inc. Mary P Rogers Joined about 2 years ago. Enrolled Agent - Owner at MPR Taxes and Representation Mariela Ramos",
+      "snippet_highlighted_words": [
+        "2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Owner/Tax Preparer at C & C Tax and Accounting Inc. Mary P Rogers Joined about 2 years ago. Enrolled Agent - Owner at MPR Taxes and Representation Mariela Ramos",
+          "source_info_link": "https://www.scribd.com/document/959510231/Tax-Mob-Member-List",
+          "icon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN-1k1IxOuoe9ay7I0de8gc8iJVruu9NxwvPmD0hXJ3pe.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.scribd.com/document/959510231/Tax-Mob-Member-List&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.scribd.com%2Fdocument%2F959510231%2FTax-Mob-Member-List",
+      "source": "Scribd"
+    },
+    {
+      "position": 6,
+      "title": "Curtis Miller at 88. OGBB descendant of: ...",
+      "link": "https://www.facebook.com/groups/1679542502370571/posts/4099724690352328/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1679542502370571/posts/4099724690352328/&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQFnoECCkQAQ",
+      "displayed_link": "1 comment · 11 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN3O4OvhGIJ1bD5Yx0KBdXu0.png",
+      "snippet": "OCR: หวธ8นกหนป leakairdats Huraom.alTiceVica Ancesty Farebuus Hancestry lAnenatry اال_ایمادم Hame Trees Mestarry Famih Traa Search Memories ...",
+      "about_this_result": {
+        "source": {
+          "description": "OCR: หวธ8นกหนป leakairdats Huraom.alTiceVica Ancesty Farebuus Hancestry lAnenatry اال_ایمادم Hame Trees Mestarry Famih Traa Search Memories ...",
+          "source_info_link": "https://www.facebook.com/groups/1679542502370571/posts/4099724690352328/",
+          "icon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN1VojMRSndYpySCQkROm-Fe5FsExGOb7Qh0lhowALuqZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1679542502370571/posts/4099724690352328/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1679542502370571%2Fposts%2F4099724690352328%2F",
+      "source": "Facebook · Covington Ohio Yesterday and Today"
+    },
+    {
+      "position": 7,
+      "title": "333333 23135851162 the 13151942776 of 12997637966",
+      "link": "https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQFnoECB4QAQ",
+      "displayed_link": "https://www.cs.princeton.edu › testing › words-333333",
+      "favicon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fNx5ZC2XBulDLUjJ6PkqbMRk.png",
+      "snippet": "... place 220812328 end 220709925 following 220626128 download 220523502 h 219516023 him 219190105 without 218945655 per 217986984 access 217856550 think ...",
+      "snippet_highlighted_words": [
+        "place"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... place 220812328 end 220709925 following 220626128 download 220523502 h 219516023 him 219190105 without 218945655 per 217986984 access 217856550 think ...",
+          "source_info_link": "https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt",
+          "icon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fNzv9JF5fE--jqRea3f6AcxGSTc3LjLi30vehyfbRzJ7D.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cs.princeton.edu%2Fcourses%2Farchive%2Fspring18%2Fcos226%2Fassignments%2Fautocomplete%2Ftesting%2Fwords-333333.txt",
+      "source": "Princeton University"
+    },
+    {
+      "position": 8,
+      "title": "https://snap.berkeley.edu/project/9274006",
+      "link": "https://snap.berkeley.edu/project/9274006",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://snap.berkeley.edu/project/9274006&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQFnoECEAQAQ",
+      "displayed_link": "https://snap.berkeley.edu › project",
+      "favicon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN4KAHNHJmfiQWTByAn30kmM.png",
+      "snippet": "... 2\"></list></costumes><sounds><list struct=\"atomic\" id=\"3\"></list></sounds><variables></variables><blocks></blocks><scripts></scripts><sprites><sprite name ...",
+      "snippet_highlighted_words": [
+        "2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... 2\"></list></costumes><sounds><list struct=\"atomic\" id=\"3\"></list></sounds><variables></variables><blocks></blocks><scripts></scripts><sprites><sprite name ...",
+          "source_info_link": "https://snap.berkeley.edu/project/9274006",
+          "icon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fNzlm4TvGwUeZdDhODuGUIWNCKK0z-c4nalrDsHmILZjn.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://snap.berkeley.edu/project/9274006&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsnap.berkeley.edu%2Fproject%2F9274006",
+      "source": "University of California, Berkeley"
+    },
+    {
+      "position": 9,
+      "title": "2020 Fall_the_record_Vol139_No2",
+      "link": "https://saearchives.net/wp-content/uploads/2024/02/2020-Fall_the_record_Vol139_No2.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://saearchives.net/wp-content/uploads/2024/02/2020-Fall_the_record_Vol139_No2.pdf&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQFnoECEMQAQ",
+      "displayed_link": "https://saearchives.net › uploads › 2024/02 › 202...",
+      "favicon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN26BviMWj-5oyDP0SnVnrQk.png",
+      "snippet": "Chris Hancock (Indiana State '96) has been appointed as the 15th Eminent Supreme. Recorder & Chief Executive Officer of Sigma Alpha Epsilon. He will lead the ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 76
+          },
+          "extensions": [
+            "76 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Chris Hancock (Indiana State '96) has been appointed as the 15th Eminent Supreme. Recorder & Chief Executive Officer of Sigma Alpha Epsilon. He will lead the ...",
+          "source_info_link": "https://saearchives.net/wp-content/uploads/2024/02/2020-Fall_the_record_Vol139_No2.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN2LA2lJ6ED-IqJtizxglD1Yv3_2uOX3KN6Q3q47J-a0h.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://saearchives.net/wp-content/uploads/2024/02/2020-Fall_the_record_Vol139_No2.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsaearchives.net%2Fwp-content%2Fuploads%2F2024%2F02%2F2020-Fall_the_record_Vol139_No2.pdf",
+      "source": "saearchives.net"
+    },
+    {
+      "position": 10,
+      "title": "The University of Akron",
+      "link": "https://www.uakron.edu/bot/docs/2018/board%20book%20for%20oct%2010%202018%20updated%2010162018.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uakron.edu/bot/docs/2018/board%2520book%2520for%2520oct%252010%25202018%2520updated%252010162018.pdf&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQFnoECEYQAQ",
+      "displayed_link": "https://www.uakron.edu › bot › docs",
+      "favicon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN-wXudvf-NF8s-oc4pmJG18.png",
+      "date": "Oct 15, 2018",
+      "snippet": "Board Members Present: Joseph M. Gingo, Chair. Lewis W. Adkins, Jr. Ralph J. Palmisano. Olivia P. Demas, Vice Chair. Roland H. Bauer.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 315
+          },
+          "extensions": [
+            "315 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Board Members Present: Joseph M. Gingo, Chair. Lewis W. Adkins, Jr. Ralph J. Palmisano. Olivia P. Demas, Vice Chair. Roland H. Bauer.",
+          "source_info_link": "https://www.uakron.edu/bot/docs/2018/board%20book%20for%20oct%2010%202018%20updated%2010162018.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d764707f18cae7d766f/images/JLw86klS0fWy-Rzjtp-fN4FQHp0YJRpg1xcEBvT6cpqEefneNfuDgaBAi1LCjtWU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.uakron.edu/bot/docs/2018/board%20book%20for%20oct%2010%202018%20updated%2010162018.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.uakron.edu%2Fbot%2Fdocs%2F2018%2Fboard%2520book%2520for%2520oct%252010%25202018%2520updated%252010162018.pdf",
+      "source": "The University of Akron"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Bitcoin scammer list",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bitcoin+scammer+list&sa=X&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bitcoin+scammer+list"
+    },
+    {
+      "block_position": 1,
+      "query": "Investment scammer list",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Investment+scammer+list&sa=X&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Investment+scammer+list"
+    },
+    {
+      "block_position": 1,
+      "query": "How to check if an investment company is real",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=How+to+check+if+an+investment+company+is+real&sa=X&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+check+if+an+investment+company+is+real"
+    },
+    {
+      "block_position": 1,
+      "query": "Search for scammer names",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Search+for+scammer+names&sa=X&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Search+for+scammer+names"
+    },
+    {
+      "block_position": 1,
+      "query": "International scammer list",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=International+scammer+list&sa=X&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=International+scammer+list"
+    },
+    {
+      "block_position": 1,
+      "query": "Whitmore Investigative Group",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Whitmore+Investigative+Group&sa=X&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Whitmore+Investigative+Group"
+    },
+    {
+      "block_position": 1,
+      "query": "Evergreen Advisory",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Evergreen+Advisory&sa=X&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Evergreen+Advisory"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=d127aazgCbXV5NoP89rsgA4&start=10&sa=N&sstk=Af77f_cfJx_PXtHaFbeGPY3ZhvAZ-XBCa-2ia6Shy3K1mBXIzT7cV3qWSpp9pg3QI1AhTkuWIuaaxxuJH0b4IB27bKKjClimblvDsg&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ8NMDegQIDRAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=d127aazgCbXV5NoP89rsgA4&start=10&sa=N&sstk=Af77f_cfJx_PXtHaFbeGPY3ZhvAZ-XBCa-2ia6Shy3K1mBXIzT7cV3qWSpp9pg3QI1AhTkuWIuaaxxuJH0b4IB27bKKjClimblvDsg&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=d127aazgCbXV5NoP89rsgA4&start=20&sa=N&sstk=Af77f_cfJx_PXtHaFbeGPY3ZhvAZ-XBCa-2ia6Shy3K1mBXIzT7cV3qWSpp9pg3QI1AhTkuWIuaaxxuJH0b4IB27bKKjClimblvDsg&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Instagram&sca_esv=c2ca9e7198039ef3&ei=d127aazgCbXV5NoP89rsgA4&start=30&sa=N&sstk=Af77f_cfJx_PXtHaFbeGPY3ZhvAZ-XBCa-2ia6Shy3K1mBXIzT7cV3qWSpp9pg3QI1AhTkuWIuaaxxuJH0b4IB27bKKjClimblvDsg&ved=2ahUKEwjs962386qTAxW1KlkFHXMtG-AQ8tMDegQIDRAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Hollinger+CTC+Trustee+Place+2+Central+Texas+Instagram&start=30"
+    }
+  }
+}

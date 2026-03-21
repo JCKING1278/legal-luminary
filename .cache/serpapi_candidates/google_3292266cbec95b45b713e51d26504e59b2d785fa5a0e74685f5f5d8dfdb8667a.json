@@ -1,0 +1,375 @@
+{
+  "search_metadata": {
+    "id": "69bb5d2b932b0e595ef7faf0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qeqeWnHhpWRd8GBn2nwtbw/69bb5d2b932b0e595ef7faf0.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/qeqeWnHhpWRd8GBn2nwtbw/69bb5d2b932b0e595ef7faf0.json_with_pixel_position",
+    "created_at": "2026-03-19 02:19:23 UTC",
+    "processed_at": "2026-03-19 02:19:23 UTC",
+    "google_url": "https://www.google.com/search?q=Bobby+Whitson+%22Bell+County+Commissioner+P2%22+%22Central+Texas%22+LinkedIn&oq=Bobby+Whitson+%22Bell+County+Commissioner+P2%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/qeqeWnHhpWRd8GBn2nwtbw/69bb5d2b932b0e595ef7faf0.html",
+    "total_time_taken": 1.31
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bobby Whitson \"Bell County Commissioner P2\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bobby Whitson \"Bell County Commissioner P2\" \"Central Texas\" LinkedIn",
+    "total_results": 103,
+    "time_taken_displayed": 0.43,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Bobby Whitson Bell County Commissioner P2 Central Texas LinkedIn",
+    "spelling_fix": "Bobby Whitson Bell County Commissioner P2 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bobby Whitson - Bell County",
+      "link": "https://www.linkedin.com/in/bobbywhitson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bobbywhitson&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQFnoECB0QAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsOOLFP_D1gbipmUWObpPX-8.png",
+      "snippet": "Banking: 28 years of consumer, commercial, construction, and real estate lending, branch… · Experience: Bell County · Education: Texas A&M University ...",
+      "snippet_highlighted_words": [
+        "Bell County",
+        "Texas"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Salado, Texas, United States",
+            "Bell County"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Banking: 28 years of consumer, commercial, construction, and real estate lending, branch… · Experience: Bell County · Education: Texas A&M University ...",
+          "source_info_link": "https://www.linkedin.com/in/bobbywhitson",
+          "icon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsFSN01LCjnpxBW2IXIRyKVWI-1r3x57L5uDFvXfbEtDV.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/bobbywhitson&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbobbywhitson",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQ5t4CegQINxAB"
+      },
+      "source": "LinkedIn · Bobby Whitson"
+    },
+    {
+      "position": 2,
+      "title": "Business Principles in Government Leadership",
+      "link": "https://www.linkedin.com/posts/bobbywhitson_well-said-brooks-while-distinctly-different-activity-7437116354039586816-H-jm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/bobbywhitson_well-said-brooks-while-distinctly-different-activity-7437116354039586816-H-jm&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQFnoECCEQAQ",
+      "displayed_link": "1 reaction · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsL2wLiDI1C0IoiC8VqbpEDs.png",
+      "snippet": "Business Principles in Government Leadership. View profile for Bobby Whitson. Bobby Whitson. Bell County Commissioner, Pct. 2. 4d. Report this ...",
+      "snippet_highlighted_words": [
+        "Bobby Whitson",
+        "Bobby Whitson",
+        "Bell County Commissioner"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Business Principles in Government Leadership. View profile for Bobby Whitson. Bobby Whitson. Bell County Commissioner, Pct. 2. 4d. Report this ...",
+          "source_info_link": "https://www.linkedin.com/posts/bobbywhitson_well-said-brooks-while-distinctly-different-activity-7437116354039586816-H-jm",
+          "icon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsBg6vobJHomDkrxGwEOo6sHMeMFG5SXbDIX1a16l8nvd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/bobbywhitson_well-said-brooks-while-distinctly-different-activity-7437116354039586816-H-jm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbobbywhitson_well-said-brooks-while-distinctly-different-activity-7437116354039586816-H-jm",
+      "missing": [
+        "P2",
+        "Central",
+        "Texas"
+      ],
+      "source": "LinkedIn · Bobby Whitson"
+    },
+    {
+      "position": 3,
+      "title": "7 \"Bobby Whitson\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Bobby/Whitson/us-0-United-States",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Bobby/Whitson/us-0-United-States&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQFnoECCIQAQ",
+      "displayed_link": "https://www.linkedin.com › Whitson › us-0-United-States",
+      "favicon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsIiJnQsjRnnYFiHnm_bJDvM.png",
+      "snippet": "Bobby Whitson. Bell County Commissioner, Pct. 2. Salado, TX. Bell County, +7 more. Texas A&M University, +1 more · Bobby Whitson.",
+      "snippet_highlighted_words": [
+        "Bobby Whitson",
+        "Bell County Commissioner",
+        "TX",
+        "Bell County",
+        "Texas",
+        "Bobby Whitson"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bobby Whitson. Bell County Commissioner, Pct. 2. Salado, TX. Bell County, +7 more. Texas A&M University, +1 more · Bobby Whitson.",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Bobby/Whitson/us-0-United-States",
+          "icon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsGN6vMoAX3Ijm63PTK_GjFhxKjRqitOsDzTxGWcJnweS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Bobby/Whitson/us-0-United-States&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FBobby%2FWhitson%2Fus-0-United-States",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQ5t4CegQINBAB"
+      },
+      "source": "LinkedIn"
+    },
+    {
+      "position": 4,
+      "title": "60+ \"Bob Whitson\" profiles",
+      "link": "https://www.linkedin.com/pub/dir/Bob/Whitson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pub/dir/Bob/Whitson&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQFnoECBwQAQ",
+      "displayed_link": "https://www.linkedin.com › pub › dir › Bob › Whitson",
+      "favicon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsPdfrfDPxYbK4SpqOs5QCyA.png",
+      "snippet": "View the profiles of professionals named \"Bob Whitson\" on LinkedIn. There are 60+ professionals named \"Bob Whitson\", who use LinkedIn to exchange ...",
+      "snippet_highlighted_words": [
+        "View the profiles of professionals named \"Bob Whitson\" on LinkedIn"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "View the profiles of professionals named \"Bob Whitson\" on LinkedIn. There are 60+ professionals named \"Bob Whitson\", who use LinkedIn to exchange ...",
+          "source_info_link": "https://www.linkedin.com/pub/dir/Bob/Whitson",
+          "icon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsPxYTQVX2k4hi-G27Xxtwnvj368X0MMTHfHDe3oomb0T.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/pub/dir/Bob/Whitson&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FBob%2FWhitson",
+      "missing": [
+        "Bell",
+        "Commissioner",
+        "P2",
+        "Central"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 5,
+      "title": "Bobby Whitson - Bell County (Texas) Commissioners Court ...",
+      "link": "https://www.legistorm.com/person/bio/495068/Robert_D_Whitson.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.legistorm.com/person/bio/495068/Robert_D_Whitson.html&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQFnoECCQQAQ",
+      "displayed_link": "https://www.legistorm.com › bio › Robert_D_Whitson",
+      "snippet": "See more about Bobby Whitson including contact information, employment history, education and other biographical information.",
+      "snippet_highlighted_words": [
+        "Bobby Whitson"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "See more about Bobby Whitson including contact information, employment history, education and other biographical information.",
+          "source_info_link": "https://www.legistorm.com/person/bio/495068/Robert_D_Whitson.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.legistorm.com/person/bio/495068/Robert_D_Whitson.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.legistorm.com%2Fperson%2Fbio%2F495068%2FRobert_D_Whitson.html",
+      "missing": [
+        "P2"
+      ],
+      "must_include": {
+        "word": "P2",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Bobby+Whitson+Bell+County+Commissioner+%22P2%22+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQ5t4CegQINRAB"
+      },
+      "source": "LegiStorm"
+    },
+    {
+      "position": 6,
+      "title": "Meet Bobby - Bobby Whitson for Bell County Commissioner",
+      "link": "https://www.bobbywhitson.com/meet_bobby",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bobbywhitson.com/meet_bobby&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQFnoECBsQAQ",
+      "displayed_link": "https://www.bobbywhitson.com › meet_bobby",
+      "favicon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsICm57AAAWW2dSzD7jGv9G4.png",
+      "snippet": "Meet Bobby. Committed to the Prosperity of Bell County. Facilitate planned and qualitative growth in a way that ensures our quality of life.",
+      "snippet_highlighted_words": [
+        "Committed to the Prosperity of Bell County"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Meet Bobby. Committed to the Prosperity of Bell County. Facilitate planned and qualitative growth in a way that ensures our quality of life.",
+          "source_info_link": "https://www.bobbywhitson.com/meet_bobby",
+          "icon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsMkQYOxk5B2w4wc8R36xvDF5FiwNKMMr2xkd24MOPT5-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bobbywhitson.com/meet_bobby&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bobbywhitson.com%2Fmeet_bobby",
+      "missing": [
+        "P2",
+        "LinkedIn"
+      ],
+      "source": "bobbywhitson.com"
+    },
+    {
+      "position": 7,
+      "title": "Bobby Whitson (Bell County Commissioner Precinct 2 ...",
+      "link": "https://ballotpedia.org/Bobby_Whitson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Bobby_Whitson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQFnoECB4QAQ",
+      "displayed_link": "https://ballotpedia.org › Bobby_Whitson_(Bell_County_...",
+      "favicon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsKQKCf4DVR2KLk9Ok2HQ8_w.png",
+      "snippet": "Bobby Whitson (Republican Party) ran for re-election for Bell County Commissioner Precinct 2 in Texas. Whitson was on the ballot in the Republican primary on ...",
+      "snippet_highlighted_words": [
+        "Bobby Whitson (Republican Party"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bobby Whitson (Republican Party) ran for re-election for Bell County Commissioner Precinct 2 in Texas. Whitson was on the ballot in the Republican primary on ...",
+          "source_info_link": "https://ballotpedia.org/Bobby_Whitson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)",
+          "icon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsHpL2Dt3dpuN0DSaWdtopOBh2cIQO2esXjCV6t14rOgy.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Bobby_Whitson_(Bell_County_Commissioner_Precinct_2,_Texas,_candidate_2026)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FBobby_Whitson_%28Bell_County_Commissioner_Precinct_2%2C_Texas%2C_candidate_2026%29",
+      "missing": [
+        "P2",
+        "Central",
+        "LinkedIn"
+      ],
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 8,
+      "title": "City Commission - Dec 16 2021 - Agenda - Pdf",
+      "link": "https://johnsoncitytn.civicweb.net/document/36714/City%20Commission%20-%20Dec%2016%202021.pdf?handle=7DA72E6C2D6E4DABA81EDCB13DBBC0F2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://johnsoncitytn.civicweb.net/document/36714/City%2520Commission%2520-%2520Dec%252016%25202021.pdf%3Fhandle%3D7DA72E6C2D6E4DABA81EDCB13DBBC0F2&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQFnoECDwQAQ",
+      "displayed_link": "https://johnsoncitytn.civicweb.net › document",
+      "favicon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsLH0ZOBRECbeZRBJS38QKIM.png",
+      "date": "Dec 16, 2021",
+      "snippet": "5.1.2 Consider approval of a revision to the Johnson City Senior Services Advisory. Council By-Laws: Parks & Recreation Department.",
+      "about_this_result": {
+        "source": {
+          "description": "5.1.2 Consider approval of a revision to the Johnson City Senior Services Advisory. Council By-Laws: Parks & Recreation Department.",
+          "source_info_link": "https://johnsoncitytn.civicweb.net/document/36714/City%20Commission%20-%20Dec%2016%202021.pdf?handle=7DA72E6C2D6E4DABA81EDCB13DBBC0F2",
+          "icon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsJluxXTsyUcc7nYNo3bOv7OBgsB6Y1fMfiERH_n_l0mo.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://johnsoncitytn.civicweb.net/document/36714/City%20Commission%20-%20Dec%2016%202021.pdf?handle=7DA72E6C2D6E4DABA81EDCB13DBBC0F2&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fjohnsoncitytn.civicweb.net%2Fdocument%2F36714%2FCity%2520Commission%2520-%2520Dec%252016%25202021.pdf%3Fhandle%3D7DA72E6C2D6E4DABA81EDCB13DBBC0F2",
+      "source": "Diligent"
+    },
+    {
+      "position": 9,
+      "title": "Abstracts From the 24th Annual Health Care Systems ... - PMC",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6664338/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC6664338/&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQFnoECEIQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC6664338",
+      "favicon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsJMk6RHUbYv2BBnfrfsi9PU.png",
+      "snippet": "Founded in 1994, the Health Care Systems Research Network (HCSRN, formerly named the HMO Research Network) is a consortium of 18 research centers that are ...",
+      "about_this_result": {
+        "source": {
+          "description": "Founded in 1994, the Health Care Systems Research Network (HCSRN, formerly named the HMO Research Network) is a consortium of 18 research centers that are ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6664338/",
+          "icon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsDwVnwSbHmHZcMlgf6Bk9zeQOjyAD9VOpP9mceNQqnfH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pmc.ncbi.nlm.nih.gov/articles/PMC6664338/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC6664338%2F",
+      "source": "National Institutes of Health (.gov)"
+    },
+    {
+      "position": 10,
+      "title": "ACADEMY OF ENTREPRENEURSHIP JOURNAL",
+      "link": "https://www.abacademies.org/articles/aejvol20no22014.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.abacademies.org/articles/aejvol20no22014.pdf&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQFnoECD0QAQ",
+      "displayed_link": "https://www.abacademies.org › articles",
+      "favicon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsFvBx3GHwRE8r7SNAkSjFZo.png",
+      "snippet": "The Academy of Entrepreneurship Journal is owned and published by Jordan Whitney. Enterprises, Inc. Editorial content is under the control of the Academy of ...",
+      "about_this_result": {
+        "source": {
+          "description": "The Academy of Entrepreneurship Journal is owned and published by Jordan Whitney. Enterprises, Inc. Editorial content is under the control of the Academy of ...",
+          "source_info_link": "https://www.abacademies.org/articles/aejvol20no22014.pdf",
+          "icon": "https://serpapi.com/searches/69bb5d2b932b0e595ef7faf0/images/8WS0Jr_aEvkUoT2hCCZvsM0t-vOPPLMW0P1LV3aXMwCOwhIdt0TwPQaqhyi0R5Fd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.abacademies.org/articles/aejvol20no22014.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.abacademies.org%2Farticles%2Faejvol20no22014.pdf",
+      "source": "Allied Business Academies"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=K127acyFNKDGp84PycDgkQ4&start=10&sa=N&sstk=Af77f_ercy1dCSbiJ87sq5libb-n4xo3LDQqwKLjiu16twVbhOg2zh4RpnyUM0AqgGblXBvieQcR7LNxaURGCYODiVKJzonPO-hqOQ&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQ8NMDegQIDhAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=K127acyFNKDGp84PycDgkQ4&start=10&sa=N&sstk=Af77f_ercy1dCSbiJ87sq5libb-n4xo3LDQqwKLjiu16twVbhOg2zh4RpnyUM0AqgGblXBvieQcR7LNxaURGCYODiVKJzonPO-hqOQ&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQ8tMDegQIDhAE",
+      "3": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=K127acyFNKDGp84PycDgkQ4&start=20&sa=N&sstk=Af77f_ercy1dCSbiJ87sq5libb-n4xo3LDQqwKLjiu16twVbhOg2zh4RpnyUM0AqgGblXBvieQcR7LNxaURGCYODiVKJzonPO-hqOQ&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQ8tMDegQIDhAG",
+      "4": "https://www.google.com/search?q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=K127acyFNKDGp84PycDgkQ4&start=30&sa=N&sstk=Af77f_ercy1dCSbiJ87sq5libb-n4xo3LDQqwKLjiu16twVbhOg2zh4RpnyUM0AqgGblXBvieQcR7LNxaURGCYODiVKJzonPO-hqOQ&ved=2ahUKEwiMx7mT86qTAxUg48kDHUkgOOIQ8tMDegQIDhAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bobby+Whitson+Bell+County+Commissioner+P2+Central+Texas+LinkedIn&start=30"
+    }
+  }
+}

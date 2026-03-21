@@ -1,0 +1,346 @@
+{
+  "search_metadata": {
+    "id": "69bb5e9213f4b60393733e2c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/09f85rov1-uTVBBeBPaaCA/69bb5e9213f4b60393733e2c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/09f85rov1-uTVBBeBPaaCA/69bb5e9213f4b60393733e2c.json_with_pixel_position",
+    "created_at": "2026-03-19 02:25:22 UTC",
+    "processed_at": "2026-03-19 02:25:22 UTC",
+    "google_url": "https://www.google.com/search?q=Nina+Cobb+%22Killeen+Council+D3%22+%22Killeen%22+Facebook&oq=Nina+Cobb+%22Killeen+Council+D3%22+%22Killeen%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/09f85rov1-uTVBBeBPaaCA/69bb5e9213f4b60393733e2c.html",
+    "total_time_taken": 1.52
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Nina Cobb \"Killeen Council D3\" \"Killeen\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Nina Cobb \"Killeen Council D3\" \"Killeen\" Facebook",
+    "total_results": 373,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Nina Cobb Killeen Council D3 Killeen Facebook",
+    "spelling_fix": "Nina Cobb Killeen Council D3 Killeen Facebook"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Long-time Killeen resident David Bass is running for the ...",
+      "link": "https://www.facebook.com/kdhnews/videos/long-time-killeen-resident-david-bass-is-running-for-the-district-3-killeen-city/868580162899077/",
+      "thumbnail": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/wpHN8BQ7GPj3q37cWWM-um9nYsZigtI4FjCn0ciY-rA.jpeg",
+      "channel": "Killeen Daily Herald",
+      "platform": "Facebook"
+    },
+    {
+      "position": 2,
+      "title": "Killeen City Council Meeting Decision Part 2 | Killeen Daily ...",
+      "link": "https://www.facebook.com/kdhnews/videos/killeen-city-council-meeting-decision-part-2/1561242058541615/",
+      "thumbnail": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/hVLL3a5CIvzh8gHaY70dGObIzX4mW6TsLBQUaioxH1g.jpeg",
+      "channel": "Killeen Daily Herald",
+      "platform": "Facebook"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "3 people have filed to run for Killeen City Council District ...",
+      "link": "https://www.facebook.com/kdhnews/posts/since-the-start-of-the-filing-period-on-march-4-three-people-have-filed-to-run-f/1475216821219134/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/since-the-start-of-the-filing-period-on-march-4-three-people-have-filed-to-run-f/1475216821219134/&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8QFnoECCAQAQ",
+      "displayed_link": "3 reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_S_0XWocqLi9OWgpubfl2rU.png",
+      "snippet": "Since the start of the filing period on March 4, three people have filed to run for former councilwoman Nina Cobb's District 3 seat on the ...",
+      "snippet_highlighted_words": [
+        "Nina Cobb's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Since the start of the filing period on March 4, three people have filed to run for former councilwoman Nina Cobb's District 3 seat on the ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/since-the-start-of-the-filing-period-on-march-4-three-people-have-filed-to-run-f/1475216821219134/",
+          "icon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_Q2OTJJqLucuG1c4fkPT8YvGrsdCNHKVU0drYu8Dw95f.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/since-the-start-of-the-filing-period-on-march-4-three-people-have-filed-to-run-f/1475216821219134/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fsince-the-start-of-the-filing-period-on-march-4-three-people-have-filed-to-run-f%2F1475216821219134%2F",
+      "missing": [
+        "D3"
+      ],
+      "must_include": {
+        "word": "D3",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Nina+Cobb+Killeen+Council+%22D3%22+Killeen+Facebook&sa=X&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q5t4CegQIJBAB"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    },
+    {
+      "position": 2,
+      "title": "City - Councilwoman Nina Cobb",
+      "link": "https://m.facebook.com/119198378143050/photos/a.254030141326539/4698830616846447/?type=3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.facebook.com/119198378143050/photos/a.254030141326539/4698830616846447/%3Ftype%3D3&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8QFnoECCwQAQ",
+      "displayed_link": "2 reactions · 4 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_fvIS00hpfFl3h9sFXLBupg.png",
+      "snippet": "Saturday, March 7 | 9 a.m. to 12 p.m. Long Branch Park (1101 Branch Drive) For more info, call (254) 501-6390 or email kpr@killeentexas.gov.",
+      "snippet_highlighted_words": [
+        "killeentexas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Saturday, March 7 | 9 a.m. to 12 p.m. Long Branch Park (1101 Branch Drive) For more info, call (254) 501-6390 or email kpr@killeentexas.gov.",
+          "source_info_link": "https://m.facebook.com/119198378143050/photos/a.254030141326539/4698830616846447/?type=3",
+          "icon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_dKEapLoSMRaAD5CJKuWQZ_WlxVi1674zzpYMJx7rHeH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://m.facebook.com/119198378143050/photos/a.254030141326539/4698830616846447/?type=3&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fm.facebook.com%2F119198378143050%2Fphotos%2Fa.254030141326539%2F4698830616846447%2F%3Ftype%3D3",
+      "missing": [
+        "Council",
+        "D3"
+      ],
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 3,
+      "title": "Killeen City Councilmembers Nina Cobb and Joseph ...",
+      "link": "https://www.facebook.com/25NewsKXXV/posts/killeen-city-councilmembers-nina-cobb-and-joseph-solomon-have-received-recall-pe/1297868612374490/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/25NewsKXXV/posts/killeen-city-councilmembers-nina-cobb-and-joseph-solomon-have-received-recall-pe/1297868612374490/&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8QFnoECCIQAQ",
+      "displayed_link": "10+ reactions · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_aRIzkMclLNwm-PODqgaPdM.png",
+      "snippet": "Killeen City Councilmembers Nina Cobb and Joseph Solomon have received recall petitions, demanding their resignation or an election for ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Nina Cobb"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Killeen City Councilmembers Nina Cobb and Joseph Solomon have received recall petitions, demanding their resignation or an election for ...",
+          "source_info_link": "https://www.facebook.com/25NewsKXXV/posts/killeen-city-councilmembers-nina-cobb-and-joseph-solomon-have-received-recall-pe/1297868612374490/",
+          "icon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_RWXThPnyV10QpvBYg9KzdqC-jKMgHXuuaoNBuFJbMRx.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/25NewsKXXV/posts/killeen-city-councilmembers-nina-cobb-and-joseph-solomon-have-received-recall-pe/1297868612374490/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F25NewsKXXV%2Fposts%2Fkilleen-city-councilmembers-nina-cobb-and-joseph-solomon-have-received-recall-pe%2F1297868612374490%2F",
+      "missing": [
+        "D3"
+      ],
+      "must_include": {
+        "word": "D3",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Nina+Cobb+Killeen+Council+%22D3%22+Killeen+Facebook&sa=X&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q5t4CegQIMRAB"
+      },
+      "source": "Facebook · 25 News KXXV"
+    },
+    {
+      "position": 4,
+      "title": "City of Killeen, Texas - Government",
+      "link": "https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilwoman-nina-cobb-presented-the-s/1205448508285728/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilwoman-nina-cobb-presented-the-s/1205448508285728/&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8QFnoECCUQAQ",
+      "displayed_link": "30+ reactions · 6 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_cjUFmyTkE-njMqIpy7EVTY.png",
+      "snippet": "During this evening's city council meeting, Councilwoman Nina Cobb presented the Star Award to Sherry Kelley. Kelley has spent more than ...",
+      "snippet_highlighted_words": [
+        "council",
+        "Nina Cobb"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "During this evening's city council meeting, Councilwoman Nina Cobb presented the Star Award to Sherry Kelley. Kelley has spent more than ...",
+          "source_info_link": "https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilwoman-nina-cobb-presented-the-s/1205448508285728/",
+          "icon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_dLTm9QNo0tAbpe2rpMqlQzv-ZY0pzgSis3MnPv4Xq0g.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KilleenTexas/posts/during-this-evenings-city-council-meeting-councilwoman-nina-cobb-presented-the-s/1205448508285728/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKilleenTexas%2Fposts%2Fduring-this-evenings-city-council-meeting-councilwoman-nina-cobb-presented-the-s%2F1205448508285728%2F",
+      "missing": [
+        "D3"
+      ],
+      "must_include": {
+        "word": "D3",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Nina+Cobb+Killeen+Council+%22D3%22+Killeen+Facebook&sa=X&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q5t4CegQIMBAB"
+      },
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 5,
+      "title": "Nina Cobb resigns from Killeen City Council",
+      "link": "https://www.facebook.com/HarkerHeightsHerald/posts/the-killeen-city-council-will-soon-have-a-fifth-member-who-has-resigned-from-its/1504598101669833/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/HarkerHeightsHerald/posts/the-killeen-city-council-will-soon-have-a-fifth-member-who-has-resigned-from-its/1504598101669833/&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8QFnoECCEQAQ",
+      "displayed_link": "1 reaction · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_Tr1Pps0gcYVioouKacgLWo.png",
+      "snippet": "The Killeen City Council will soon have a fifth member who has resigned from its body after a surprise announcement by District 3 ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Council"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Killeen City Council will soon have a fifth member who has resigned from its body after a surprise announcement by District 3 ...",
+          "source_info_link": "https://www.facebook.com/HarkerHeightsHerald/posts/the-killeen-city-council-will-soon-have-a-fifth-member-who-has-resigned-from-its/1504598101669833/",
+          "icon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_WgUs2NYN2YHUpU6iE3GkFYRD1K2N015WylEGPf27fet.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/HarkerHeightsHerald/posts/the-killeen-city-council-will-soon-have-a-fifth-member-who-has-resigned-from-its/1504598101669833/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FHarkerHeightsHerald%2Fposts%2Fthe-killeen-city-council-will-soon-have-a-fifth-member-who-has-resigned-from-its%2F1504598101669833%2F",
+      "missing": [
+        "D3"
+      ],
+      "must_include": {
+        "word": "D3",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Nina+Cobb+Killeen+Council+%22D3%22+Killeen+Facebook&sa=X&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q5t4CegQIMxAB"
+      },
+      "source": "Facebook · Harker Heights Herald"
+    },
+    {
+      "position": 6,
+      "title": "Recall petition for Killeen, TX district 2 and 3",
+      "link": "https://www.facebook.com/groups/1935070693170186/posts/25577276228522967/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1935070693170186/posts/25577276228522967/&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8QFnoECEEQAQ",
+      "displayed_link": "20+ comments · 4 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_VzfhU_Me6ysO6r9Zez7t4o.png",
+      "snippet": "For those who live and work in District 2 and District 3, you already know why signing this petition is important.",
+      "about_this_result": {
+        "source": {
+          "description": "For those who live and work in District 2 and District 3, you already know why signing this petition is important.",
+          "source_info_link": "https://www.facebook.com/groups/1935070693170186/posts/25577276228522967/",
+          "icon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_eFYZeLbMxrlK5xI_dy1dH1sv3RWkAsZ_UX36G_102Tz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1935070693170186/posts/25577276228522967/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1935070693170186%2Fposts%2F25577276228522967%2F",
+      "source": "Facebook · Killeen/Ft Hood (No Rules)"
+    },
+    {
+      "position": 7,
+      "title": "From L-R: Assistant City Manager Danielle Singh ...",
+      "link": "https://m.facebook.com/KilleenTexas/photos/a.704726582923557/4586985568030953/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.facebook.com/KilleenTexas/photos/a.704726582923557/4586985568030953/&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8QFnoECDgQAQ",
+      "displayed_link": "4 years ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_dFxEyvphW14KmcIoz1_9j8.png",
+      "snippet": "From L-R: Assistant City Manager Danielle Singh, Councilwoman Nina Cobb, Councilman Rick Williams.",
+      "snippet_highlighted_words": [
+        "Nina Cobb"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "From L-R: Assistant City Manager Danielle Singh, Councilwoman Nina Cobb, Councilman Rick Williams.",
+          "source_info_link": "https://m.facebook.com/KilleenTexas/photos/a.704726582923557/4586985568030953/",
+          "icon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_cfvqRztEu-aK06qadBgHw3W65kwimIUl9Zt_PviEcW-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://m.facebook.com/KilleenTexas/photos/a.704726582923557/4586985568030953/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fm.facebook.com%2FKilleenTexas%2Fphotos%2Fa.704726582923557%2F4586985568030953%2F",
+      "missing": [
+        "Council",
+        "D3"
+      ],
+      "source": "Facebook · City of Killeen, Texas - Government"
+    },
+    {
+      "position": 8,
+      "title": "The recent recall petition that aims to boot Killeen ...",
+      "link": "https://www.facebook.com/kdhnews/posts/the-recent-recall-petition-that-aims-to-boot-killeen-councilman-joseph-solomon-a/1382168443857306/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/kdhnews/posts/the-recent-recall-petition-that-aims-to-boot-killeen-councilman-joseph-solomon-a/1382168443857306/&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8QFnoECDkQAQ",
+      "displayed_link": "20+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_U0hy7XZyu7BggINxRo8Uy0.png",
+      "snippet": "The recent recall petition that aims to boot Killeen Councilman Joseph Solomon and Councilwoman Nina Cobb out of office is based on ...",
+      "snippet_highlighted_words": [
+        "Killeen",
+        "Nina Cobb"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The recent recall petition that aims to boot Killeen Councilman Joseph Solomon and Councilwoman Nina Cobb out of office is based on ...",
+          "source_info_link": "https://www.facebook.com/kdhnews/posts/the-recent-recall-petition-that-aims-to-boot-killeen-councilman-joseph-solomon-a/1382168443857306/",
+          "icon": "https://serpapi.com/searches/69bb5e9213f4b60393733e2c/images/FzMMTsAK5isa1yJ9G1X-_d44DH3-QlhMMdjzQny91Vq98q6sT7I0rP_m1YluD0Gi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/kdhnews/posts/the-recent-recall-petition-that-aims-to-boot-killeen-councilman-joseph-solomon-a/1382168443857306/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fkdhnews%2Fposts%2Fthe-recent-recall-petition-that-aims-to-boot-killeen-councilman-joseph-solomon-a%2F1382168443857306%2F",
+      "missing": [
+        "D3"
+      ],
+      "must_include": {
+        "word": "D3",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&gl=us&hl=en&q=Nina+Cobb+Killeen+Council+%22D3%22+Killeen+Facebook&sa=X&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q5t4CegQIOhAB"
+      },
+      "source": "Facebook · Killeen Daily Herald"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=k167ab_5FfvK1sQPjsjp-AY&start=10&sa=N&sstk=Af77f_dLZN1KQWYZJiLWOEyJzKxpUTKinKnrD8Qg3wWVcOCAeLyZKO2Legk7b0q_PiDtcgPKCmCzgL_tFMyn9eUr_Rng4IiIU_mQOA&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q8NMDegQIDRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=k167ab_5FfvK1sQPjsjp-AY&start=10&sa=N&sstk=Af77f_dLZN1KQWYZJiLWOEyJzKxpUTKinKnrD8Qg3wWVcOCAeLyZKO2Legk7b0q_PiDtcgPKCmCzgL_tFMyn9eUr_Rng4IiIU_mQOA&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=k167ab_5FfvK1sQPjsjp-AY&start=20&sa=N&sstk=Af77f_dLZN1KQWYZJiLWOEyJzKxpUTKinKnrD8Qg3wWVcOCAeLyZKO2Legk7b0q_PiDtcgPKCmCzgL_tFMyn9eUr_Rng4IiIU_mQOA&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=k167ab_5FfvK1sQPjsjp-AY&start=30&sa=N&sstk=Af77f_dLZN1KQWYZJiLWOEyJzKxpUTKinKnrD8Qg3wWVcOCAeLyZKO2Legk7b0q_PiDtcgPKCmCzgL_tFMyn9eUr_Rng4IiIU_mQOA&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=k167ab_5FfvK1sQPjsjp-AY&start=40&sa=N&sstk=Af77f_dLZN1KQWYZJiLWOEyJzKxpUTKinKnrD8Qg3wWVcOCAeLyZKO2Legk7b0q_PiDtcgPKCmCzgL_tFMyn9eUr_Rng4IiIU_mQOA&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=k167ab_5FfvK1sQPjsjp-AY&start=50&sa=N&sstk=Af77f_dLZN1KQWYZJiLWOEyJzKxpUTKinKnrD8Qg3wWVcOCAeLyZKO2Legk7b0q_PiDtcgPKCmCzgL_tFMyn9eUr_Rng4IiIU_mQOA&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=k167ab_5FfvK1sQPjsjp-AY&start=60&sa=N&sstk=Af77f_dLZN1KQWYZJiLWOEyJzKxpUTKinKnrD8Qg3wWVcOCAeLyZKO2Legk7b0q_PiDtcgPKCmCzgL_tFMyn9eUr_Rng4IiIU_mQOA&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=k167ab_5FfvK1sQPjsjp-AY&start=70&sa=N&sstk=Af77f_dLZN1KQWYZJiLWOEyJzKxpUTKinKnrD8Qg3wWVcOCAeLyZKO2Legk7b0q_PiDtcgPKCmCzgL_tFMyn9eUr_Rng4IiIU_mQOA&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=k167ab_5FfvK1sQPjsjp-AY&start=80&sa=N&sstk=Af77f_dLZN1KQWYZJiLWOEyJzKxpUTKinKnrD8Qg3wWVcOCAeLyZKO2Legk7b0q_PiDtcgPKCmCzgL_tFMyn9eUr_Rng4IiIU_mQOA&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q8tMDegQIDRAS",
+      "10": "https://www.google.com/search?q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&sca_esv=c2ca9e7198039ef3&gl=us&hl=en&ei=k167ab_5FfvK1sQPjsjp-AY&start=90&sa=N&sstk=Af77f_dLZN1KQWYZJiLWOEyJzKxpUTKinKnrD8Qg3wWVcOCAeLyZKO2Legk7b0q_PiDtcgPKCmCzgL_tFMyn9eUr_Rng4IiIU_mQOA&ved=2ahUKEwj_jvC-9KqTAxV7pZUCHQ5kGm8Q8tMDegQIDRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nina+Cobb+Killeen+Council+D3+Killeen+Facebook&start=90"
+    }
+  }
+}

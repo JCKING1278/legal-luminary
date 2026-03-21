@@ -1,0 +1,354 @@
+{
+  "search_metadata": {
+    "id": "69bb5d8e95e950368245ca32",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/HdG-yKnKYJsDXm8dWebh4g/69bb5d8e95e950368245ca32.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/HdG-yKnKYJsDXm8dWebh4g/69bb5d8e95e950368245ca32.json_with_pixel_position",
+    "created_at": "2026-03-19 02:21:02 UTC",
+    "processed_at": "2026-03-19 02:21:02 UTC",
+    "google_url": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&oq=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/HdG-yKnKYJsDXm8dWebh4g/69bb5d8e95e950368245ca32.html",
+    "total_time_taken": 1.03
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bill Cooke \"Bell County Sheriff\" \"Central Texas\" Facebook",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bill Cooke \"Bell County Sheriff\" \"Central Texas\" Facebook",
+    "total_results": 1200,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bell County Sheriff's Office",
+      "link": "https://www.facebook.com/BCSD13/posts/1336213528532414/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BCSD13/posts/1336213528532414/&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQFnoECC8QAQ",
+      "displayed_link": "40+ reactions · 4 days ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfHH5h4HFjO5z1tj3R8HV5Xc.png",
+      "snippet": "The Bell County Sheriff's Office is pleased to announce that ... Local assistance is available through Aware Central Texas at 254-939 ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff's",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Bell County Sheriff's Office is pleased to announce that ... Local assistance is available through Aware Central Texas at 254-939 ...",
+          "source_info_link": "https://www.facebook.com/BCSD13/posts/1336213528532414/",
+          "icon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfP0Ez22Z6QMcMxe5XUizqMK3wIaVzgm3Ups3MB0aJvyW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BCSD13/posts/1336213528532414/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBCSD13%2Fposts%2F1336213528532414%2F",
+      "source": "Facebook · Bell County Sheriff's Office"
+    },
+    {
+      "position": 2,
+      "title": "Word is that the new Bell County Sheriff, Bill Cooke had ...",
+      "link": "https://www.facebook.com/groups/573711993358976/posts/1671491066914391/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/573711993358976/posts/1671491066914391/&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQFnoECB4QAQ",
+      "displayed_link": "4 comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfBhOVK17_nROptw7HqCMB2Q.png",
+      "snippet": "Word is that the new Bell County Sheriff, Bill Cooke had something to do with this . ... Human-Animal Support Coalition ▻ Central Texas Animal ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff",
+        "Bill Cooke",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Word is that the new Bell County Sheriff, Bill Cooke had something to do with this . ... Human-Animal Support Coalition ▻ Central Texas Animal ...",
+          "source_info_link": "https://www.facebook.com/groups/573711993358976/posts/1671491066914391/",
+          "icon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfHH6L4EanouXSIcLP22P3Ybj2Ks58vsux1ZgwuW7nUJh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/573711993358976/posts/1671491066914391/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F573711993358976%2Fposts%2F1671491066914391%2F",
+      "source": "Facebook · Central Texas Animal Advocates"
+    },
+    {
+      "position": 3,
+      "title": "Bell County Sheriff's Office",
+      "link": "https://www.facebook.com/BCSD13/posts/at-the-end-of-february-the-texas-commission-on-jail-standards-conducted-anunanno/1333807045439729/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BCSD13/posts/at-the-end-of-february-the-texas-commission-on-jail-standards-conducted-anunanno/1333807045439729/&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQFnoECBsQAQ",
+      "displayed_link": "40+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfFrRZxgiScUVcMRKU6QIW0Q.png",
+      "snippet": "Anca Neagu ▻ Central Texas Animal Advocates. 1y · Public. Word is that the new Bell County Sheriff, Bill Cooke had something to do with this ...",
+      "snippet_highlighted_words": [
+        "Central Texas",
+        "Bell County Sheriff",
+        "Bill Cooke"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Anca Neagu ▻ Central Texas Animal Advocates. 1y · Public. Word is that the new Bell County Sheriff, Bill Cooke had something to do with this ...",
+          "source_info_link": "https://www.facebook.com/BCSD13/posts/at-the-end-of-february-the-texas-commission-on-jail-standards-conducted-anunanno/1333807045439729/",
+          "icon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfImpSKzDdOq2Q3Xc16bE63Yv9bLkMQ2V7KN8TNba7U4O.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BCSD13/posts/at-the-end-of-february-the-texas-commission-on-jail-standards-conducted-anunanno/1333807045439729/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBCSD13%2Fposts%2Fat-the-end-of-february-the-texas-commission-on-jail-standards-conducted-anunanno%2F1333807045439729%2F",
+      "source": "Facebook · Bell County Sheriff's Office"
+    },
+    {
+      "position": 4,
+      "title": "NEW OVERNIGHT: Bill Cooke was sworn in at 12:01 AM ...",
+      "link": "https://www.facebook.com/BayleeBatesNews/posts/new-overnight-bill-cooke-was-sworn-in-at-1201-am-on-january-1-2025-as-the-new-sh/1188430023288287/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BayleeBatesNews/posts/new-overnight-bill-cooke-was-sworn-in-at-1201-am-on-january-1-2025-as-the-new-sh/1188430023288287/&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQFnoECCAQAQ",
+      "displayed_link": "20+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfE8y3HLa2cn2mDeavDwooyw.png",
+      "snippet": "6 News KCEN TV More info: https://www.kcentv. com/article/life/people/bill-cooke-sworn-in-new-bell- county-sheriff ... Chip Howell ▻ Central Texas ...",
+      "snippet_highlighted_words": [
+        "bill",
+        "cooke",
+        "bell- county-sheriff",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "6 News KCEN TV More info: https://www.kcentv. com/article/life/people/bill-\ncooke-sworn-in-new-bell- county-sheriff ... Chip Howell ▻ Central Texas ...",
+          "source_info_link": "https://www.facebook.com/BayleeBatesNews/posts/new-overnight-bill-cooke-was-sworn-in-at-1201-am-on-january-1-2025-as-the-new-sh/1188430023288287/",
+          "icon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfGiIGgxm5t4qVtBp5uFoL7WWN-SmTL7ylw63yBWOEPTr.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BayleeBatesNews/posts/new-overnight-bill-cooke-was-sworn-in-at-1201-am-on-january-1-2025-as-the-new-sh/1188430023288287/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBayleeBatesNews%2Fposts%2Fnew-overnight-bill-cooke-was-sworn-in-at-1201-am-on-january-1-2025-as-the-new-sh%2F1188430023288287%2F",
+      "source": "Facebook · Baylee Bates"
+    },
+    {
+      "position": 5,
+      "title": "Bell County Sheriff's Office | Belton TX",
+      "link": "https://bs-ba.facebook.com/BCSD13/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bs-ba.facebook.com/BCSD13/&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQFnoECB8QAQ",
+      "displayed_link": "35.6K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfL7uJ8iMb9MDmkUT_Yo_J0w.png",
+      "snippet": "Bell County Sheriff's Office, Belton. 35.482 oznake „sviđa mi se ... Local assistance is available through Aware Central Texas at 254-939-7582 or ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff's",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bell County Sheriff's Office, Belton. 35.482 oznake „sviđa mi se ... Local assistance is available through Aware Central Texas at 254-939-7582 or ...",
+          "source_info_link": "https://bs-ba.facebook.com/BCSD13/",
+          "icon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfFMwlgw37tfR_4hBN3NyWEkygzkLzEO4GG0vrwHXoOdG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bs-ba.facebook.com/BCSD13/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbs-ba.facebook.com%2FBCSD13%2F",
+      "source": "Facebook · Bell County Sheriff's Office"
+    },
+    {
+      "position": 6,
+      "title": "Bell County Sheriff's Office",
+      "link": "https://www.facebook.com/BCSD13/posts/the-bell-county-sheriffs-office-mourns-alongside-the-family-of-the-fallen-office/1284274550392979/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BCSD13/posts/the-bell-county-sheriffs-office-mourns-alongside-the-family-of-the-fallen-office/1284274550392979/&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQFnoECB0QAQ",
+      "displayed_link": "250+ reactions · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfHRbOEpsIHd_NXvSZxWa9Ys.png",
+      "snippet": "The Bell County Sheriff's Office mourns alongside the family of ... Central Texas College Police Academy, where he earned the Academic ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff's",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Bell County Sheriff's Office mourns alongside the family of ... Central Texas College Police Academy, where he earned the Academic ...",
+          "source_info_link": "https://www.facebook.com/BCSD13/posts/the-bell-county-sheriffs-office-mourns-alongside-the-family-of-the-fallen-office/1284274550392979/",
+          "icon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfBFequvoUMTQzfzC0IgLa4ENyrwr6LG1S7xeH9zxEgJM.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BCSD13/posts/the-bell-county-sheriffs-office-mourns-alongside-the-family-of-the-fallen-office/1284274550392979/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBCSD13%2Fposts%2Fthe-bell-county-sheriffs-office-mourns-alongside-the-family-of-the-fallen-office%2F1284274550392979%2F",
+      "source": "Facebook · Bell County Sheriff's Office"
+    },
+    {
+      "position": 7,
+      "title": "Bell County Sheriff's Office | Belton TX",
+      "link": "https://www.facebook.com/BCSD13/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BCSD13/&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQFnoECBwQAQ",
+      "displayed_link": "35.6K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfMQ7yHxdCFWiO-bEMt_Y1Ac.png",
+      "snippet": "Bell County Sheriff's Office, Belton. 35556 likes · 859 talking about ... Local assistance is available through Aware Central Texas at 254-939-7582 or ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff's",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bell County Sheriff's Office, Belton. 35556 likes · 859 talking about ... Local assistance is available through Aware Central Texas at 254-939-7582 or ...",
+          "source_info_link": "https://www.facebook.com/BCSD13/",
+          "icon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfLkxYXSZE-dxblUA3-1iEYEDifMqIwIoVsdZHCRQPSYF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BCSD13/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBCSD13%2F",
+      "source": "Facebook · Bell County Sheriff's Office"
+    },
+    {
+      "position": 8,
+      "title": "Bell County Sheriff's Office",
+      "link": "https://www.facebook.com/photo.php?fbid=1306075511546216&set=a.222682659885512&type=3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/photo.php%3Ffbid%3D1306075511546216%26set%3Da.222682659885512%26type%3D3&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQFnoECDQQAQ",
+      "displayed_link": "https://www.facebook.com › photo",
+      "favicon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfK37IXnsq_oaVgmrD-sklEM.png",
+      "snippet": "Facebook. May be an image of ambulance and text. 󱣽 · 󱙆 · Bell County Sheriff's Office ... Bill Cooke ... Local assistance is available through Aware Central Texas ...",
+      "snippet_highlighted_words": [
+        "Facebook",
+        "Bell County Sheriff's",
+        "Bill Cooke",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Facebook. May be an image of ambulance and text. 󱣽 · 󱙆 · Bell County Sheriff's Office ... Bill Cooke ... Local assistance is available through Aware Central Texas ...",
+          "source_info_link": "https://www.facebook.com/photo.php?fbid=1306075511546216&set=a.222682659885512&type=3",
+          "icon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfNB5lFofas4DRaWlS0Vsa4LS3jCI7hO8oy-aqJ9T4oF8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/photo.php?fbid=1306075511546216&set=a.222682659885512&type=3&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1306075511546216%26set%3Da.222682659885512%26type%3D3",
+      "source": "Facebook"
+    },
+    {
+      "position": 9,
+      "title": "Bell County Sheriff's Office",
+      "link": "https://www.facebook.com/BCSD13/photos/d41d8cd9/1150577197096049/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BCSD13/photos/d41d8cd9/1150577197096049/&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQFnoECDcQAQ",
+      "displayed_link": "30+ reactions · 7 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfH-L75rcHu621I3eSSwkQr8.png",
+      "snippet": "Bell County Sheriff's Office added a new photo ... Local assistance is available through Aware Central Texas at 254-939 ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff's",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bell County Sheriff's Office added a new photo ... Local assistance is available through Aware Central Texas at 254-939 ...",
+          "source_info_link": "https://www.facebook.com/BCSD13/photos/d41d8cd9/1150577197096049/",
+          "icon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfJB-nstpnyCEYgoII3v0KrhpEjr4WCljKkJK6vxXaA0o.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BCSD13/photos/d41d8cd9/1150577197096049/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBCSD13%2Fphotos%2Fd41d8cd9%2F1150577197096049%2F",
+      "source": "Facebook · Bell County Sheriff's Office"
+    },
+    {
+      "position": 10,
+      "title": "Bell County Sheriff's Office",
+      "link": "https://www.facebook.com/BCSD13/posts/on-saturday-march-7-2026-at-approximately-250-am-the-bell-county-sheriffs-office/1332781942208906/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BCSD13/posts/on-saturday-march-7-2026-at-approximately-250-am-the-bell-county-sheriffs-office/1332781942208906/&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQFnoECDYQAQ",
+      "displayed_link": "180+ reactions · 1 week ago",
+      "favicon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfAAFW_gKmUyDOoOcWwhz5BI.png",
+      "snippet": "On Saturday, March 7, 2026, at approximately 2:50 a.m., the Bell County Sheriff's ... Central Texas at 254-939-7582 or online at https://www ...",
+      "snippet_highlighted_words": [
+        "Bell County Sheriff's",
+        "Central Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On Saturday, March 7, 2026, at approximately 2:50 a.m., the Bell County Sheriff's ... Central Texas at 254-939-7582 or online at https://www ...",
+          "source_info_link": "https://www.facebook.com/BCSD13/posts/on-saturday-march-7-2026-at-approximately-250-am-the-bell-county-sheriffs-office/1332781942208906/",
+          "icon": "https://serpapi.com/searches/69bb5d8e95e950368245ca32/images/W3ryWYSMEE8gw-9qxegJfO58qU9v3yAtPrnXcGS9vf6PN6HzeJzEcNx0tomD6vz5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/BCSD13/posts/on-saturday-march-7-2026-at-approximately-250-am-the-bell-county-sheriffs-office/1332781942208906/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FBCSD13%2Fposts%2Fon-saturday-march-7-2026-at-approximately-250-am-the-bell-county-sheriffs-office%2F1332781942208906%2F",
+      "source": "Facebook · Bell County Sheriff's Office"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=j127acmJH-6ZptQPtKzq0QY&start=10&sa=N&sstk=Af77f_efKjf-FoGhztO2nSgFLccb6hVZAl7ER4imZrDHzEVBKg7MDHV2STloEIMY5LJAqqgFYp8lFLk3ffBRpkKTc1exXZGUEQT0cA&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQ8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=j127acmJH-6ZptQPtKzq0QY&start=10&sa=N&sstk=Af77f_efKjf-FoGhztO2nSgFLccb6hVZAl7ER4imZrDHzEVBKg7MDHV2STloEIMY5LJAqqgFYp8lFLk3ffBRpkKTc1exXZGUEQT0cA&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQ8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=j127acmJH-6ZptQPtKzq0QY&start=20&sa=N&sstk=Af77f_efKjf-FoGhztO2nSgFLccb6hVZAl7ER4imZrDHzEVBKg7MDHV2STloEIMY5LJAqqgFYp8lFLk3ffBRpkKTc1exXZGUEQT0cA&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQ8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=j127acmJH-6ZptQPtKzq0QY&start=30&sa=N&sstk=Af77f_efKjf-FoGhztO2nSgFLccb6hVZAl7ER4imZrDHzEVBKg7MDHV2STloEIMY5LJAqqgFYp8lFLk3ffBRpkKTc1exXZGUEQT0cA&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQ8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=j127acmJH-6ZptQPtKzq0QY&start=40&sa=N&sstk=Af77f_efKjf-FoGhztO2nSgFLccb6hVZAl7ER4imZrDHzEVBKg7MDHV2STloEIMY5LJAqqgFYp8lFLk3ffBRpkKTc1exXZGUEQT0cA&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQ8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=j127acmJH-6ZptQPtKzq0QY&start=50&sa=N&sstk=Af77f_efKjf-FoGhztO2nSgFLccb6hVZAl7ER4imZrDHzEVBKg7MDHV2STloEIMY5LJAqqgFYp8lFLk3ffBRpkKTc1exXZGUEQT0cA&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQ8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=j127acmJH-6ZptQPtKzq0QY&start=60&sa=N&sstk=Af77f_efKjf-FoGhztO2nSgFLccb6hVZAl7ER4imZrDHzEVBKg7MDHV2STloEIMY5LJAqqgFYp8lFLk3ffBRpkKTc1exXZGUEQT0cA&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQ8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=j127acmJH-6ZptQPtKzq0QY&start=70&sa=N&sstk=Af77f_efKjf-FoGhztO2nSgFLccb6hVZAl7ER4imZrDHzEVBKg7MDHV2STloEIMY5LJAqqgFYp8lFLk3ffBRpkKTc1exXZGUEQT0cA&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQ8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=j127acmJH-6ZptQPtKzq0QY&start=80&sa=N&sstk=Af77f_efKjf-FoGhztO2nSgFLccb6hVZAl7ER4imZrDHzEVBKg7MDHV2STloEIMY5LJAqqgFYp8lFLk3ffBRpkKTc1exXZGUEQT0cA&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQ8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&sca_esv=c2ca9e7198039ef3&ei=j127acmJH-6ZptQPtKzq0QY&start=90&sa=N&sstk=Af77f_efKjf-FoGhztO2nSgFLccb6hVZAl7ER4imZrDHzEVBKg7MDHV2STloEIMY5LJAqqgFYp8lFLk3ffBRpkKTc1exXZGUEQT0cA&ved=2ahUKEwiJjfzC86qTAxXujIkEHTSWOmoQ8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bill+Cooke+%22Bell+County+Sheriff%22+%22Central+Texas%22+Facebook&start=90"
+    }
+  }
+}

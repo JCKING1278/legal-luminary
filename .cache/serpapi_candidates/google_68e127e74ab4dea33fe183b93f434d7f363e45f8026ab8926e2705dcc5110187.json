@@ -1,0 +1,406 @@
+{
+  "search_metadata": {
+    "id": "69bb5e3cd3fb85fc912c04a1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Q4QVJ2fYy2RGii02OjBmQA/69bb5e3cd3fb85fc912c04a1.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Q4QVJ2fYy2RGii02OjBmQA/69bb5e3cd3fb85fc912c04a1.json_with_pixel_position",
+    "created_at": "2026-03-19 02:23:56 UTC",
+    "processed_at": "2026-03-19 02:23:56 UTC",
+    "google_url": "https://www.google.com/search?q=Gregory+James+Stoker+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&oq=Gregory+James+Stoker+%22US+House+TX-31%22+%22Central+Texas%22+Instagram&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Q4QVJ2fYy2RGii02OjBmQA/69bb5e3cd3fb85fc912c04a1.html",
+    "total_time_taken": 2.0
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Gregory James Stoker \"US House TX-31\" \"Central Texas\" Instagram",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Gregory James Stoker \"US House TX-31\" \"Central Texas\" Instagram",
+    "total_results": 90,
+    "time_taken_displayed": 0.47,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Gregory James Stoker US House TX-31 Central Texas Instagram",
+    "spelling_fix": "Gregory James Stoker US House TX-31 Central Texas Instagram"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Greg Stoker (@greg.j.stoker) • Instagram photos and videos",
+      "link": "https://www.instagram.com/greg.j.stoker/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/greg.j.stoker/&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQFnoECCgQAQ",
+      "displayed_link": "492.4K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlXZ4J1A3HxOq5PEA7_bRijg.png",
+      "snippet": "493K followers · 1.5K+ following · 1597 posts · @greg.j.stoker: “Anti-Imperialist <2> Veteran Running for Congress in TX 31 A better politics/future is ...",
+      "snippet_highlighted_words": [
+        "greg",
+        "stoker",
+        "TX 31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "493K followers · 1.5K+ following · 1597 posts · @greg.j.stoker: “Anti-Imperialist <2> Veteran Running for Congress in TX 31 A better politics/future is ...",
+          "source_info_link": "https://www.instagram.com/greg.j.stoker/",
+          "icon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlbJbagskM7xItRoWrgw9t5ylNb8e08dAfcvwtLGv4qD-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/greg.j.stoker/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fgreg.j.stoker%2F",
+      "missing": [
+        "House"
+      ],
+      "must_include": {
+        "word": "House",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+%22House%22+TX-31+Central+Texas+Instagram&sa=X&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ5t4CegQINBAB"
+      },
+      "source": "Instagram · greg.j.stoker"
+    },
+    {
+      "position": 2,
+      "title": "Meet Greg Stoker — a soldier, a Texan, and a leader ready ...",
+      "link": "https://www.instagram.com/reel/DTihBKiEQls/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DTihBKiEQls/&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQFnoECCcQAQ",
+      "displayed_link": "1.4K+ likes · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlYdzTOI2hr2gdrp4jrDQW8M.png",
+      "snippet": "We're currently in Chandler Creek outside of Round Rock where Texas District 31 starts and goes all the way up north past Fort Hood. So this is ...",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We're currently in Chandler Creek outside of Round Rock where Texas District 31 starts and goes all the way up north past Fort Hood. So this is ...",
+          "source_info_link": "https://www.instagram.com/reel/DTihBKiEQls/",
+          "icon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlVP228UgyjGArTe1Y8dcoFo9Xc08yKeF6DLCssa0DmH8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DTihBKiEQls/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDTihBKiEQls%2F",
+      "source": "Instagram · greenpartyamac"
+    },
+    {
+      "position": 3,
+      "title": "greg.j.stoker",
+      "link": "https://secure.instagram.com/greg.j.stoker/related_profiles/?hl=te",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://secure.instagram.com/greg.j.stoker/related_profiles/%3Fhl%3Dte&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQFnoECBwQAQ",
+      "displayed_link": "https://secure.instagram.com › greg.j.stoker",
+      "favicon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlQkf648AMe3Tr_-nVVFNsEo.png",
+      "date": "2 days ago",
+      "snippet": "491K followers · 1.5K+ following · 1590 posts · @greg.j.stoker: “Anti-Imperialist <2> Veteran Running for Congress in TX 31 A better ...",
+      "snippet_highlighted_words": [
+        "greg",
+        "stoker",
+        "TX 31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "491K followers · 1.5K+ following · 1590 posts · @greg.j.stoker: “Anti-Imperialist <2> Veteran Running for Congress in TX 31 A better ...",
+          "source_info_link": "https://secure.instagram.com/greg.j.stoker/related_profiles/?hl=te",
+          "icon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlc5Zf-APQLXbTJQcec6xM_KNLvYhjbkTyxukhKF0EoAi.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://secure.instagram.com/greg.j.stoker/related_profiles/?hl=te&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsecure.instagram.com%2Fgreg.j.stoker%2Frelated_profiles%2F%3Fhl%3Dte",
+      "missing": [
+        "US",
+        "House",
+        "Central",
+        "Texas"
+      ],
+      "source": "Instagram"
+    },
+    {
+      "position": 4,
+      "title": "@greg.j.stoker is running for congress in TX-31. His ...",
+      "link": "https://www.instagram.com/reel/DT3igJsCL7d/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DT3igJsCL7d/&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQFnoECCEQAQ",
+      "displayed_link": "100+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlZajkyGiql5ELVv-q2pVsJU.png",
+      "snippet": "101 likes, 15 comments - missninanika on January 23, 2026: \"@greg.j.stoker is running for congress in TX-31. His campaign slogan is \"Just a ...",
+      "snippet_highlighted_words": [
+        "greg",
+        "stoker",
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "101 likes, 15 comments - missninanika on January 23, 2026: \"@greg.j.stoker is running for congress in TX-31. His campaign slogan is \"Just a ...",
+          "source_info_link": "https://www.instagram.com/reel/DT3igJsCL7d/",
+          "icon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlS414BAXvJd5G1cW8Kwtj5UrHOK1F96gzfLaVofSeFrx.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DT3igJsCL7d/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDT3igJsCL7d%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+House+TX-31+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ5t4CegQINRAB"
+      },
+      "source": "Instagram · missninanika"
+    },
+    {
+      "position": 5,
+      "title": "greg.j.stoker",
+      "link": "https://secure.instagram.com/greg.j.stoker/?hl=hi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://secure.instagram.com/greg.j.stoker/%3Fhl%3Dhi&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQFnoECB8QAQ",
+      "displayed_link": "https://secure.instagram.com › greg.j.stoker",
+      "favicon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlewnre3f-7PzsQZ0QYWOonw.png",
+      "date": "6 days ago",
+      "snippet": "491K फ़ॉलोअर · 1.5K+ को फ़ॉलो कर रहे हैं · 1589 पोस्ट · @greg.j.stoker: “Anti-Imperialist <2> Veteran Running for Congress in TX 31 A better ...",
+      "snippet_highlighted_words": [
+        "greg",
+        "stoker",
+        "TX 31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "491K फ़ॉलोअर · 1.5K+ को फ़ॉलो कर रहे हैं · 1589 पोस्ट · @greg.j.stoker: “Anti-Imperialist <2> Veteran Running for Congress in TX 31 A better ...",
+          "source_info_link": "https://secure.instagram.com/greg.j.stoker/?hl=hi",
+          "icon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlTV-FOQB--AiQE7DSYv6Zy8D0th-WMFCGjbMEhb-eDLz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://secure.instagram.com/greg.j.stoker/?hl=hi&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsecure.instagram.com%2Fgreg.j.stoker%2F%3Fhl%3Dhi",
+      "missing": [
+        "House",
+        "Central"
+      ],
+      "source": "Instagram"
+    },
+    {
+      "position": 6,
+      "title": "Greg Stoker who is running for Congress in Texas district ...",
+      "link": "https://www.instagram.com/reel/DT8vuFREQ4D/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DT8vuFREQ4D/&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQFnoECCUQAQ",
+      "displayed_link": "78.6K+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlXOH91qMrps3j9U_UJ2sNDw.png",
+      "snippet": "... Texas district 31 and a veteran reminds us that ICE terrorizing our communities is the war on terror coming home to roost\".",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31",
+        "us",
+        "home"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Texas district 31 and a veteran reminds us that ICE terrorizing our communities is the war on terror coming home to roost\".",
+          "source_info_link": "https://www.instagram.com/reel/DT8vuFREQ4D/",
+          "icon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlTnLgCa_XtD0_fVT_n6w0RZ8fsKGH3lwlQ6Iyw937mXh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DT8vuFREQ4D/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDT8vuFREQ4D%2F",
+      "missing": [
+        "TX-"
+      ],
+      "must_include": {
+        "word": "TX-",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+House+%22TX-%22+31+Central+Texas+Instagram&sa=X&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ5t4CegQIMBAB"
+      },
+      "source": "Instagram · mnar_mpn"
+    },
+    {
+      "position": 7,
+      "title": "Greg Stoker, a former U.S. Army Ranger who served ...",
+      "link": "https://www.instagram.com/p/DUEPt6kDQri/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DUEPt6kDQri/&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQFnoECCYQAQ",
+      "displayed_link": "420+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlYYnmxEXfxw_75XSENhtjCY.png",
+      "snippet": "... Texas's 31st Congressional District in an Instagram video on January 15. The district is considered solidly Republican, but Stoker believes ...",
+      "snippet_highlighted_words": [
+        "Texas's 31st Congressional",
+        "Instagram",
+        "Stoker"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Texas's 31st Congressional District in an Instagram video on January 15. The district is considered solidly Republican, but Stoker believes ...",
+          "source_info_link": "https://www.instagram.com/p/DUEPt6kDQri/",
+          "icon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlfQsce-IMQvkobc3CNjT3xtWSDZ17RNNjwQImEnU5wTo.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DUEPt6kDQri/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDUEPt6kDQri%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+House+TX-31+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ5t4CegQIMRAB"
+      },
+      "source": "Instagram · tmjnewsnetwork"
+    },
+    {
+      "position": 8,
+      "title": "He is a prominent anti-war activist and a vocal critic ...",
+      "link": "https://www.instagram.com/reel/DV_-qpgksla/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DV_-qpgksla/&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQFnoECD8QAQ",
+      "displayed_link": "1 day ago",
+      "favicon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlUMwYrZCuQaIhQyr-KMksGk.png",
+      "snippet": "Greg J. Stoker is a former U.S. Army Ranger, anti-war activist, and independent political candidate. He has gained significant visibility since ...",
+      "snippet_highlighted_words": [
+        "Greg",
+        "Stoker",
+        "U.S."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Greg J. Stoker is a former U.S. Army Ranger, anti-war activist, and independent political candidate. He has gained significant visibility since ...",
+          "source_info_link": "https://www.instagram.com/reel/DV_-qpgksla/",
+          "icon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlU0B44Wsr5CUuFHUaozRs8X5fgc3-PSWlI2gE9VvVoa6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DV_-qpgksla/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDV_-qpgksla%2F",
+      "missing": [
+        "TX-",
+        "Central"
+      ],
+      "source": "Instagram · artsinvegas"
+    },
+    {
+      "position": 9,
+      "title": "MintPress journalist Greg Stoker announces his run ...",
+      "link": "https://www.instagram.com/reel/DTi3sWZCB_6/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DTi3sWZCB_6/&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQFnoECDsQAQ",
+      "displayed_link": "2.9K+ likes · 2 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlUglFc7l2pcbvcRvDMD1gB0.png",
+      "snippet": "A lot of y'all have been telling me to run for congress for years now. So, here I am doing it. We're currently in Chandler Creek outside of ...",
+      "about_this_result": {
+        "source": {
+          "description": "A lot of y'all have been telling me to run for congress for years now. So, here I am doing it. We're currently in Chandler Creek outside of ...",
+          "source_info_link": "https://www.instagram.com/reel/DTi3sWZCB_6/",
+          "icon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlbSXHxIcRMcSWniPNi1E_j_HNDhX7vBjKVZfN6urMLSv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DTi3sWZCB_6/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDTi3sWZCB_6%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+House+TX-31+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ5t4CegQIPRAB"
+      },
+      "source": "Instagram · mintpress"
+    },
+    {
+      "position": 10,
+      "title": "🎉 ENDORSEMENT ALERT! 🎉 We are ...",
+      "link": "https://www.instagram.com/p/DU9AYUUAWN8/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DU9AYUUAWN8/&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQFnoECEAQAQ",
+      "displayed_link": "3.2K+ likes · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRle-hmVaQfFi3e4Whzr1dkYM.png",
+      "snippet": "I want to commend my friend Greg, who came with the large flotilla to support Gaza. He has always stood with the oppressed against genocide.",
+      "snippet_highlighted_words": [
+        "Greg"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I want to commend my friend Greg, who came with the large flotilla to support Gaza. He has always stood with the oppressed against genocide.",
+          "source_info_link": "https://www.instagram.com/p/DU9AYUUAWN8/",
+          "icon": "https://serpapi.com/searches/69bb5e3cd3fb85fc912c04a1/images/ysOS0Z-WWa43ZhQwQKfRlbvIjhwndSBfIa5YJi6dPgVXTQB72dvRmxp3cmSUEd16.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DU9AYUUAWN8/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDU9AYUUAWN8%2F",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?newwindow=1&sca_esv=c2ca9e7198039ef3&q=Gregory+James+Stoker+US+House+TX-31+%22Central%22+Texas+Instagram&sa=X&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ5t4CegQIRRAB"
+      },
+      "source": "Instagram · trackaipac"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&newwindow=1&sca_esv=c2ca9e7198039ef3&ei=PV67abWaKoiikdUPxNuKkAw&start=10&sa=N&sstk=Af77f_c0BxH9t4LXYnDXxq0exIbx5nfrFVTfcNsyRwvDRfOfYfsmfRWQ6NQHvLHc6GzSyXzzX81Y7MxhxDvYz6jJISuOc8uX_Tb79w&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ8NMDegQICRAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&newwindow=1&sca_esv=c2ca9e7198039ef3&ei=PV67abWaKoiikdUPxNuKkAw&start=10&sa=N&sstk=Af77f_c0BxH9t4LXYnDXxq0exIbx5nfrFVTfcNsyRwvDRfOfYfsmfRWQ6NQHvLHc6GzSyXzzX81Y7MxhxDvYz6jJISuOc8uX_Tb79w&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&newwindow=1&sca_esv=c2ca9e7198039ef3&ei=PV67abWaKoiikdUPxNuKkAw&start=20&sa=N&sstk=Af77f_c0BxH9t4LXYnDXxq0exIbx5nfrFVTfcNsyRwvDRfOfYfsmfRWQ6NQHvLHc6GzSyXzzX81Y7MxhxDvYz6jJISuOc8uX_Tb79w&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&newwindow=1&sca_esv=c2ca9e7198039ef3&ei=PV67abWaKoiikdUPxNuKkAw&start=30&sa=N&sstk=Af77f_c0BxH9t4LXYnDXxq0exIbx5nfrFVTfcNsyRwvDRfOfYfsmfRWQ6NQHvLHc6GzSyXzzX81Y7MxhxDvYz6jJISuOc8uX_Tb79w&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&newwindow=1&sca_esv=c2ca9e7198039ef3&ei=PV67abWaKoiikdUPxNuKkAw&start=40&sa=N&sstk=Af77f_c0BxH9t4LXYnDXxq0exIbx5nfrFVTfcNsyRwvDRfOfYfsmfRWQ6NQHvLHc6GzSyXzzX81Y7MxhxDvYz6jJISuOc8uX_Tb79w&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&newwindow=1&sca_esv=c2ca9e7198039ef3&ei=PV67abWaKoiikdUPxNuKkAw&start=50&sa=N&sstk=Af77f_c0BxH9t4LXYnDXxq0exIbx5nfrFVTfcNsyRwvDRfOfYfsmfRWQ6NQHvLHc6GzSyXzzX81Y7MxhxDvYz6jJISuOc8uX_Tb79w&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&newwindow=1&sca_esv=c2ca9e7198039ef3&ei=PV67abWaKoiikdUPxNuKkAw&start=60&sa=N&sstk=Af77f_c0BxH9t4LXYnDXxq0exIbx5nfrFVTfcNsyRwvDRfOfYfsmfRWQ6NQHvLHc6GzSyXzzX81Y7MxhxDvYz6jJISuOc8uX_Tb79w&ved=2ahUKEwj1rIOW9KqTAxUIUaQEHcStAsIQ8tMDegQICRAO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gregory+James+Stoker+US+House+TX-31+Central+Texas+Instagram&start=60"
+    }
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "search_metadata": {
+    "id": "69bb5e09de1f335755ec3609",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/S197d7Ja1oiPfcKOhYOEvg/69bb5e09de1f335755ec3609.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/S197d7Ja1oiPfcKOhYOEvg/69bb5e09de1f335755ec3609.json_with_pixel_position",
+    "created_at": "2026-03-19 02:23:05 UTC",
+    "processed_at": "2026-03-19 02:23:05 UTC",
+    "google_url": "https://www.google.com/search?q=Abhiram+Garapati+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&oq=Abhiram+Garapati+%22US+House+TX-31%22+%22Central+Texas%22+LinkedIn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/S197d7Ja1oiPfcKOhYOEvg/69bb5e09de1f335755ec3609.html",
+    "total_time_taken": 1.74
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Abhiram Garapati \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Abhiram Garapati \"US House TX-31\" \"Central Texas\" LinkedIn",
+    "total_results": 280,
+    "time_taken_displayed": 0.49,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "Abhiram Garapati US House TX-31 Central Texas LinkedIn",
+    "spelling_fix": "Abhiram Garapati US House TX-31 Central Texas LinkedIn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Abhiram Garapati - Candidate for US Congress, Texas 31st ...",
+      "link": "https://www.linkedin.com/in/abhiram-garapati-58b5b2180",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/abhiram-garapati-58b5b2180&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0QFnoECDEQAQ",
+      "displayed_link": "100+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mkg-r-_yYzyIb7eacitmA88.png",
+      "snippet": "Ant Savings is a value investment & commercial real estate firm based out of Austin, Texas, specializing in commercial Real Estate.",
+      "snippet_highlighted_words": [
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ant Savings is a value investment & commercial real estate firm based out of Austin, Texas, specializing in commercial Real Estate.",
+          "source_info_link": "https://www.linkedin.com/in/abhiram-garapati-58b5b2180",
+          "icon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mv7ju5cLEK5NQ9tSFfKofvoGwQTQ03CLjvM_W5H2aar0.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/abhiram-garapati-58b5b2180&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabhiram-garapati-58b5b2180",
+      "missing": [
+        "Central"
+      ],
+      "must_include": {
+        "word": "Central",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Abhiram+Garapati+US+House+TX-31+%22Central%22+Texas+LinkedIn&sa=X&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q5t4CegQIMhAB"
+      },
+      "source": "LinkedIn · Abhiram Garapati"
+    },
+    {
+      "position": 2,
+      "title": "Abhiram Garapati",
+      "link": "https://ballotpedia.org/Abhiram_Garapati",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Abhiram_Garapati&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0QFnoECBwQAQ",
+      "displayed_link": "https://ballotpedia.org › Abhiram_Garapati",
+      "favicon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mn0FTCujyFlU-4srSJl-wHM.png",
+      "snippet": "Garapati has been affiliated with the National Association of Realtors and Williamson County Republican Leaders. Texas' 31st Congressional District election, ...",
+      "snippet_highlighted_words": [
+        "Garapati",
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Garapati has been affiliated with the National Association of Realtors and Williamson County Republican Leaders. Texas' 31st Congressional District election, ...",
+          "source_info_link": "https://ballotpedia.org/Abhiram_Garapati",
+          "icon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mirqHeWQwIvzzy5fqiBlBHG7pCqS-tkZta_6iuHucs8J.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Abhiram_Garapati&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FAbhiram_Garapati",
+      "source": "Ballotpedia"
+    },
+    {
+      "position": 3,
+      "title": "About Abhiram Garapati — Abhiram Garapati for Congress",
+      "link": "https://www.garapatifortexas.com/about-abhiram",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.garapatifortexas.com/about-abhiram&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0QFnoECCAQAQ",
+      "displayed_link": "https://www.garapatifortexas.com › about-abhiram",
+      "favicon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mtnu_8pSKYMFd1vrj0PV05U.png",
+      "snippet": "Over the years, I have founded and led multiple successful businesses and currently serve as the President of Ant Savings, a commercial real estate investment ...",
+      "about_this_result": {
+        "source": {
+          "description": "Over the years, I have founded and led multiple successful businesses and currently serve as the President of Ant Savings, a commercial real estate investment ...",
+          "source_info_link": "https://www.garapatifortexas.com/about-abhiram",
+          "icon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mishyhnZMGfUfc8he4ulw_pTA8InjldtftB2Tl9VK7ok.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.garapatifortexas.com/about-abhiram&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.garapatifortexas.com%2Fabout-abhiram",
+      "missing": [
+        "LinkedIn"
+      ],
+      "must_include": {
+        "word": "LinkedIn",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Abhiram+Garapati+US+House+TX-31+Central+Texas+%22LinkedIn%22&sa=X&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q5t4CegQIMBAB"
+      },
+      "source": "Abhiram Garapati for Congress"
+    },
+    {
+      "position": 4,
+      "title": "Candidate announces run for 31st district of texas",
+      "link": "https://www.facebook.com/groups/1706070329689760/posts/3699827273647379/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1706070329689760/posts/3699827273647379/&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0QFnoECCQQAQ",
+      "displayed_link": "6 comments · 3 months ago",
+      "favicon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mpIuY3Y1ZDGMB8nudaOV8Og.png",
+      "snippet": "Today, I officially filed to be on the ballot for the 2026 Republican Primary in the 31st District of Texas. The 31st District encompasses ...",
+      "snippet_highlighted_words": [
+        "31st",
+        "Texas",
+        "31st"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Today, I officially filed to be on the ballot for the 2026 Republican Primary in the 31st District of Texas. The 31st District encompasses ...",
+          "source_info_link": "https://www.facebook.com/groups/1706070329689760/posts/3699827273647379/",
+          "icon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mu7FsO3M5u_9yVwrwGYenLsiGvHEqWKd1neC5rTEWYWD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1706070329689760/posts/3699827273647379/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1706070329689760%2Fposts%2F3699827273647379%2F",
+      "source": "Facebook · Liberty Hill Bulletin"
+    },
+    {
+      "position": 5,
+      "title": "Congressman John Carter Faces Valentina Gomez ...",
+      "link": "https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0QFnoECB4QAQ",
+      "displayed_link": "https://thetexan.news › Elections › 2026",
+      "favicon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mhna4YMmOziVRGUKCIDTmPg.png",
+      "date": "Feb 23, 2026",
+      "snippet": "Congressman John Carter (R-TX-31) is facing nine Republican challengers in the 2026 primary election for his seat, which he has held for 23 ...",
+      "snippet_highlighted_words": [
+        "TX",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Congressman John Carter (R-TX-31) is facing nine Republican challengers in the 2026 primary election for his seat, which he has held for 23 ...",
+          "source_info_link": "https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html",
+          "icon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8muvdbIaxeSpPYGCF8b9HzS0ZaJLUyWDO2Lb90D7VdP8W.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thetexan.news/elections/2026/congressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary/article_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthetexan.news%2Felections%2F2026%2Fcongressman-john-carter-faces-valentina-gomez-shamwow-guy-in-crowded-gop-primary%2Farticle_7ea84b22-0c7f-4403-9cdf-659f07c45b1d.html",
+      "source": "thetexan.news"
+    },
+    {
+      "position": 6,
+      "title": "Jack McConnell - Abhiram Garapati for Congress",
+      "link": "https://www.linkedin.com/in/jackmcconnell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jackmcconnell&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0QFnoECCYQAQ",
+      "displayed_link": "11.2K+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8miiwlomagIPjJIeVE-6hSjs.png",
+      "snippet": "Melba Culp's debut album A Darkened Rose was released on September 6th, 2024. … · Experience: Abhiram Garapati for Congress · Education: Round Rock High ...",
+      "snippet_highlighted_words": [
+        "Abhiram Garapati"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas Metropolitan Area",
+            "Abhiram Garapati for Congress"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Melba Culp's debut album A Darkened Rose was released on September 6th, 2024. … · Experience: Abhiram Garapati for Congress · Education: Round Rock High ...",
+          "source_info_link": "https://www.linkedin.com/in/jackmcconnell",
+          "icon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8moEel8SSZSLXeDyaxgLJgARJ-BBKab9yOn6s4A3OKYuE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/in/jackmcconnell&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjackmcconnell",
+      "missing": [
+        "31"
+      ],
+      "must_include": {
+        "word": "31",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Abhiram+Garapati+US+House+TX-+%2231%22+Central+Texas+LinkedIn&sa=X&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q5t4CegQILhAB"
+      },
+      "source": "LinkedIn · Jack McConnell"
+    },
+    {
+      "position": 7,
+      "title": "Abhiram Garapati For Congress (@garapatiabhiram)",
+      "link": "https://www.instagram.com/garapatiabhiram/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/garapatiabhiram/&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0QFnoECB8QAQ",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8msTiM9Gm6yu5aX98ZD_of6U.png",
+      "snippet": "Cattle Rancher, Real Estate Investor, Husband, Father, Former GOP Delegate, Conservative Candidate for US Congress, 31st District of Texas.",
+      "snippet_highlighted_words": [
+        "31st",
+        "Texas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cattle Rancher, Real Estate Investor, Husband, Father, Former GOP Delegate, Conservative Candidate for US Congress, 31st District of Texas.",
+          "source_info_link": "https://www.instagram.com/garapatiabhiram/",
+          "icon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mlRlk2xclNI_0BxCSon2LFocL0IgdxaG7bJTLse7AD2l.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/garapatiabhiram/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fgarapatiabhiram%2F",
+      "missing": [
+        "LinkedIn"
+      ],
+      "must_include": {
+        "word": "LinkedIn",
+        "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Abhiram+Garapati+US+House+TX-31+Central+Texas+%22LinkedIn%22&sa=X&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q5t4CegQILxAB"
+      },
+      "source": "Instagram · garapatiabhiram"
+    },
+    {
+      "position": 8,
+      "title": "Q&A: Hear from the Republican candidates running for US ...",
+      "link": "https://communityimpact.com/austin/georgetown/election/2026/01/28/qa-hear-from-the-republican-candidates-running-for-us-house-district-31/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://communityimpact.com/austin/georgetown/election/2026/01/28/qa-hear-from-the-republican-candidates-running-for-us-house-district-31/&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0QFnoECD0QAQ",
+      "displayed_link": "https://communityimpact.com › election › 2026/01/28",
+      "favicon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8muDMiGTnbNf-fTvj7HVzHag.png",
+      "date": "Jan 28, 2026",
+      "snippet": "Texas' 31st Congressional District covers part of Williamson County, including Round Rock, Georgetown, Liberty Hill, Leander and Cedar Park.",
+      "snippet_highlighted_words": [
+        "Texas",
+        "31st Congressional"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Texas' 31st Congressional District covers part of Williamson County, including Round Rock, Georgetown, Liberty Hill, Leander and Cedar Park.",
+          "source_info_link": "https://communityimpact.com/austin/georgetown/election/2026/01/28/qa-hear-from-the-republican-candidates-running-for-us-house-district-31/",
+          "icon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8ml4GsXLJvtuMd4TQ7NohbuzmkVOkS6tKsmOg_sgHEnoO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://communityimpact.com/austin/georgetown/election/2026/01/28/qa-hear-from-the-republican-candidates-running-for-us-house-district-31/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcommunityimpact.com%2Faustin%2Fgeorgetown%2Felection%2F2026%2F01%2F28%2Fqa-hear-from-the-republican-candidates-running-for-us-house-district-31%2F",
+      "source": "Community Impact | News"
+    },
+    {
+      "position": 9,
+      "title": "Inside the Central Texas Congressional Map",
+      "link": "https://www.austinchronicle.com/news/inside-the-central-texas-congressional-map-12125253/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.austinchronicle.com/news/inside-the-central-texas-congressional-map-12125253/&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0QFnoECEIQAQ",
+      "displayed_link": "https://www.austinchronicle.com › news › inside-the-ce...",
+      "favicon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mtidH_D4hteiIhMZkgMg9jU.png",
+      "date": "Feb 3, 2022",
+      "snippet": "What about these other districts? • TX-10: Rep. Michael McCaul, R-West Lake Hills, could have stood for reelection in his newly configured, much ...",
+      "snippet_highlighted_words": [
+        "TX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What about these other districts? • TX-10: Rep. Michael McCaul, R-West Lake Hills, could have stood for reelection in his newly configured, much ...",
+          "source_info_link": "https://www.austinchronicle.com/news/inside-the-central-texas-congressional-map-12125253/",
+          "icon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8msN7KBkHTrSnyt4BJDF5GojrQwxCFEFW8Q08UTUF0RkQ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.austinchronicle.com/news/inside-the-central-texas-congressional-map-12125253/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.austinchronicle.com%2Fnews%2Finside-the-central-texas-congressional-map-12125253%2F",
+      "source": "The Austin Chronicle"
+    },
+    {
+      "position": 10,
+      "title": "Texas' 31st Congressional District election, 2026 (March 3 ...",
+      "link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026_(March_3_Republican_primary)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ballotpedia.org/Texas%2527_31st_Congressional_District_election,_2026_(March_3_Republican_primary)&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0QFnoECDwQAQ",
+      "displayed_link": "https://ballotpedia.org › ...",
+      "favicon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mtkB78xWaBwNBCurPB-Oc5A.png",
+      "snippet": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+      "snippet_highlighted_words": [
+        "U.S. House Texas",
+        "31"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following candidates ran in the Republican primary for U.S. House Texas District 31 on March 3, 2026. Candidate. %. Votes. ✓. Image of John Carter.",
+          "source_info_link": "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026_(March_3_Republican_primary)",
+          "icon": "https://serpapi.com/searches/69bb5e09de1f335755ec3609/images/cykiD4waZ0xtePRidYl8mns2W3LhpT7nrvynLCryPbCITHbbxFW4sTACwghAONiS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026_(March_3_Republican_primary)&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fballotpedia.org%2FTexas%2527_31st_Congressional_District_election%2C_2026_%28March_3_Republican_primary%29",
+      "source": "Ballotpedia"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Abhiram Garapati nationality",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Abhiram+Garapati+nationality&sa=X&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati+nationality"
+    },
+    {
+      "block_position": 1,
+      "query": "Abhiram garapati religion",
+      "link": "https://www.google.com/search?sca_esv=c2ca9e7198039ef3&q=Abhiram+garapati+religion&sa=X&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+garapati+religion"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=Cl67ad6tNZOnmtkPhv2naQ&start=10&sa=N&sstk=Af77f_c8hK5cKpcXqAfOR-ca4fPqVEvK0euMqLrDi1Cfeh7vK-LgyNtWkKjgigVSl4Olcxm73hlejQ9SR0gvhJ9BXlnEl-uvMWFShA&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q8NMDegQIDhAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=Cl67ad6tNZOnmtkPhv2naQ&start=10&sa=N&sstk=Af77f_c8hK5cKpcXqAfOR-ca4fPqVEvK0euMqLrDi1Cfeh7vK-LgyNtWkKjgigVSl4Olcxm73hlejQ9SR0gvhJ9BXlnEl-uvMWFShA&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q8tMDegQIDhAE",
+      "3": "https://www.google.com/search?q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=Cl67ad6tNZOnmtkPhv2naQ&start=20&sa=N&sstk=Af77f_c8hK5cKpcXqAfOR-ca4fPqVEvK0euMqLrDi1Cfeh7vK-LgyNtWkKjgigVSl4Olcxm73hlejQ9SR0gvhJ9BXlnEl-uvMWFShA&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q8tMDegQIDhAG",
+      "4": "https://www.google.com/search?q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=Cl67ad6tNZOnmtkPhv2naQ&start=30&sa=N&sstk=Af77f_c8hK5cKpcXqAfOR-ca4fPqVEvK0euMqLrDi1Cfeh7vK-LgyNtWkKjgigVSl4Olcxm73hlejQ9SR0gvhJ9BXlnEl-uvMWFShA&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q8tMDegQIDhAI",
+      "5": "https://www.google.com/search?q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=Cl67ad6tNZOnmtkPhv2naQ&start=40&sa=N&sstk=Af77f_c8hK5cKpcXqAfOR-ca4fPqVEvK0euMqLrDi1Cfeh7vK-LgyNtWkKjgigVSl4Olcxm73hlejQ9SR0gvhJ9BXlnEl-uvMWFShA&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q8tMDegQIDhAK",
+      "6": "https://www.google.com/search?q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=Cl67ad6tNZOnmtkPhv2naQ&start=50&sa=N&sstk=Af77f_c8hK5cKpcXqAfOR-ca4fPqVEvK0euMqLrDi1Cfeh7vK-LgyNtWkKjgigVSl4Olcxm73hlejQ9SR0gvhJ9BXlnEl-uvMWFShA&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q8tMDegQIDhAM",
+      "7": "https://www.google.com/search?q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&sca_esv=c2ca9e7198039ef3&ei=Cl67ad6tNZOnmtkPhv2naQ&start=60&sa=N&sstk=Af77f_c8hK5cKpcXqAfOR-ca4fPqVEvK0euMqLrDi1Cfeh7vK-LgyNtWkKjgigVSl4Olcxm73hlejQ9SR0gvhJ9BXlnEl-uvMWFShA&ved=2ahUKEwje2uX986qTAxWTkyYFHYb-KQ0Q8tMDegQIDhAO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abhiram+Garapati+US+House+TX-31+Central+Texas+LinkedIn&start=60"
+    }
+  }
+}

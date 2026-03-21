@@ -6,8 +6,28 @@ hero: true
 hero_title: "Legal Resources"
 hero_subtitle: "Helpful links and information for Bell County residents"
 description: "Legal resources for Bell County Texas. Court contacts, legal aid, and helpful information."
-source_url: "https://www.bellcountytx.com/"
+sources:
+  - url: "https://www.bellcountytx.com/"
+    label: "Bell County Official Website"
+    evidence: "Official Bell County government website - verified by direct access"
+    visited: true
+    confirmed: true
+  - url: "https://justice.bellcounty.texas.gov/PublicPortal/"
+    label: "Bell County Odyssey Portal"
+    evidence: "Official court case search system - verified by direct access"
+    visited: true
+    confirmed: true
 verified_at: 2026-02-11
+confidence:
+  base: 0.707
+  current: 0.80
+  formula: "compound_ema_qfa"
+  qfa_state: VALIDATE
+  milestone: M2
+  validation: 0.05
+  aho_corasick: 0.05
+  code_refactor: 0.0
+  vv_integration: 0.004
 ---
 
 <p class="intro-text">
