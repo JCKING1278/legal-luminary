@@ -1,0 +1,364 @@
+# Placeholder candidates for offices not yet in the main data file.
+candidates:
+  - id: 801
+    name: John Cornyn
+    position: "U.S. Senator from Texas (Class II)"
+    office: "US Senate TX - Cornyn"
+    jurisdiction: Texas
+    status: incumbent
+    party: REP
+    election_phase: primary_runoff_2026
+    FEC: "yes"
+    facebook_url: null
+    website_url: https://www.cornyn.senate.gov
+    notes: "In May 2026 primary runoff against Ken Paxton for the Republican nomination."
+    group_city: ""
+    group_state: Texas
+    group_function: Legislative
+    office_group_key: "US Senate TX - Cornyn"
+    office_up_for_election_this_year: true
+    office_incumbent_name: John Cornyn
+    office_opponents_platform_key_facts: []
+    headshot_url: null
+    largest_financial_supporter_name: null
+    largest_financial_supporter_work_for: null
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "January 3, 2027"
+    demo: true
+  - id: 802
+    name: Ken Paxton
+    position: "Candidate for U.S. Senate, Texas (R)"
+    office: "US Senate TX - Cornyn"
+    jurisdiction: Texas
+    status: candidate
+    party: REP
+    election_phase: primary_runoff_2026
+    FEC: "yes"
+    facebook_url: null
+    website_url: null
+    notes: "Texas Attorney General; in primary runoff against Cornyn (May 26, 2026)."
+    group_city: ""
+    group_state: Texas
+    group_function: Legislative
+    office_group_key: "US Senate TX - Cornyn"
+    office_up_for_election_this_year: true
+    office_incumbent_name: John Cornyn
+    office_opponents_platform_key_facts: []
+    headshot_url: null
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "If elected — January 2033"
+    demo: true
+  - id: 803
+    name: James Talarico
+    position: "Candidate for U.S. Senate, Texas (D)"
+    office: "US Senate TX - Cornyn"
+    jurisdiction: Texas
+    status: candidate
+    party: DEM
+    election_phase: general_2026
+    FEC: "yes"
+    facebook_url: null
+    website_url: null
+    notes: "State representative and Democratic nominee for U.S. Senate in November 2026."
+    group_city: ""
+    group_state: Texas
+    group_function: Legislative
+    office_group_key: "US Senate TX - Cornyn"
+    office_up_for_election_this_year: true
+    office_incumbent_name: John Cornyn
+    office_opponents_platform_key_facts: []
+    headshot_url: null
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "If elected — January 2033"
+    demo: true
+  - id: 810
+    name: Greg Abbott
+    position: "Governor of Texas"
+    office: "TX Governor"
+    jurisdiction: Texas
+    status: incumbent
+    party: REP
+    election_phase: primary_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: https://gov.texas.gov
+    notes: "Serving third term as Governor. Up for reelection in 2026."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Governor"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Greg Abbott
+    office_opponents_platform_key_facts: []
+    headshot_url: null
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "January 2027"
+    demo: true
+
+  - id: 831
+    name: Mayes Middleton
+    position: "Candidate for Attorney General (R); Texas State Senator, SD 11"
+    office: "TX Attorney General"
+    jurisdiction: Texas
+    status: candidate
+    party: REP
+    election_phase: primary_runoff_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: https://www.mayesmiddleton.com/
+    notes: "Oil-and-gas executive and attorney; former Texas House member (2019–2022) and current senator from SD 11 (Galveston-area counties). Finished first in the March 3, 2026 Republican primary (about 39%) and faces Chip Roy in the May 26 runoff. Headshot from Texas Senate official photo."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Attorney General"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Ken Paxton
+    office_opponents_platform_key_facts: []
+    headshot_url: "https://senate.texas.gov/members/d11/img/Middleton_87-0662D-009.jpg"
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "If elected — January 2031"
+    demo: true
+
+  - id: 832
+    name: Chip Roy
+    position: "Candidate for Attorney General (R); U.S. Representative, TX-21"
+    office: "TX Attorney General"
+    jurisdiction: Texas
+    status: candidate
+    party: REP
+    election_phase: primary_runoff_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: https://www.chiproy.com/
+    notes: "U.S. House member since 2019; former First Assistant Texas Attorney General and chief of staff to Sen. Ted Cruz. Finished second in the March 3, 2026 Republican primary (about 32%) and faces Mayes Middleton in the May 26 runoff. Congressional portrait via Wikimedia Commons (U.S. House work)."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Attorney General"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Ken Paxton
+    office_opponents_platform_key_facts: []
+    headshot_url: "https://upload.wikimedia.org/wikipedia/commons/1/13/Chip_Roy%2C_official_portrait%2C_116th_Congress.jpg"
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "If elected — January 2031"
+    demo: true
+
+  - id: 833
+    name: Nathan Johnson
+    position: "Candidate for Attorney General (D); Texas State Senator, SD 16"
+    office: "TX Attorney General"
+    jurisdiction: Texas
+    status: candidate
+    party: DEM
+    election_phase: primary_runoff_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: https://www.nathanfortexas.com/
+    notes: "Dallas County–based senator since 2019; commercial litigator (Thompson Coburn), UT Law graduate, physics undergraduate. Led on grid, health care, and transparency issues. Led the March 3 Democratic field with about 48% and meets Joe Jaworski in the May 26 runoff. Headshot from Texas Senate official photo."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Attorney General"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Ken Paxton
+    office_opponents_platform_key_facts: []
+    headshot_url: "https://senate.texas.gov/members/d16/img/SNJ-Headshot-2023-web.jpg"
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "If elected — January 2031"
+    demo: true
+
+  - id: 834
+    name: Joe Jaworski
+    position: "Candidate for Attorney General (D); attorney, former Mayor of Galveston"
+    office: "TX Attorney General"
+    jurisdiction: Texas
+    status: candidate
+    party: DEM
+    election_phase: primary_runoff_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: https://www.jaworskifortexas.com/
+    notes: "Trial lawyer and mediator; former Galveston mayor (2010–2012) and city councilmember; grandson of Watergate special prosecutor Leon Jaworski. Placed second in the March 3 Democratic primary (about 26%) and faces Nathan Johnson in the May 26 runoff. Headshot from campaign site."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Attorney General"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Ken Paxton
+    office_opponents_platform_key_facts: []
+    headshot_url: "https://images.squarespace-cdn.com/content/v1/64a8227283689139612b94f2/43ad78b1-5808-410c-8958-cdb4a1f7e3c1/Joe-Jaworski-Headshot-2026.png"
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "If elected — January 2031"
+    demo: true
+
+  - id: 835
+    name: Joan Huffman
+    position: "Former candidate for Attorney General (R); Texas State Senator, SD 17"
+    office: "TX Attorney General"
+    jurisdiction: Texas
+    status: eliminated
+    party: REP
+    election_phase: primary_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: https://senate.texas.gov/member.php?d=17
+    notes: "Longtime Houston-area senator and former Harris County felony court judge; former chair of Senate Redistricting. Eliminated in the March 3, 2026 Republican primary (about 15%). Headshot from Texas Senate official photo."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Attorney General"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Ken Paxton
+    office_opponents_platform_key_facts: []
+    headshot_url: "https://senate.texas.gov/members/d17/img/Huffman_9S5A0096-2021web.jpg"
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "—"
+    demo: true
+
+  - id: 836
+    name: Aaron Reitz
+    position: "Former candidate for Attorney General (R); attorney"
+    office: "TX Attorney General"
+    jurisdiction: Texas
+    status: eliminated
+    party: REP
+    election_phase: primary_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: https://www.reitzfortexas.com/
+    notes: "Former deputy AG for legal strategy under Ken Paxton, Ted Cruz chief of staff, Marine veteran, and former Assistant Attorney General (Office of Legal Policy) at the U.S. Department of Justice. Eliminated in the March 3, 2026 Republican primary (about 14%). Photo from campaign site."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Attorney General"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Ken Paxton
+    office_opponents_platform_key_facts: []
+    headshot_url: "https://reitzfortexas.com/wp-content/uploads/2025/06/Photo-Nov-05-2024-9-07-45-PM-768x513.jpg"
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "—"
+    demo: true
+
+  - id: 837
+    name: Tony Box
+    position: "Former candidate for Attorney General (D); attorney"
+    office: "TX Attorney General"
+    jurisdiction: Texas
+    status: eliminated
+    party: DEM
+    election_phase: primary_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: https://www.tonyboxfortexas.com/
+    notes: "Dallas attorney; Army veteran (airborne), former FBI agent and assistant U.S. attorney, JAG officer deployed to Iraq, and former congressional investigator. Finished third in the March 3, 2026 Democratic primary (about 25.5%). Image from campaign site meta/hero asset."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Attorney General"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Ken Paxton
+    office_opponents_platform_key_facts: []
+    headshot_url: "https://tonyboxfortexas.com/wp-content/uploads/2025/10/SBD-TBOX-Website-Meta.webp"
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "—"
+    demo: true
+
+  - id: 812
+    name: Glenn Hegar
+    position: "Comptroller of Public Accounts of Texas"
+    office: "TX Comptroller"
+    jurisdiction: Texas
+    status: incumbent
+    party: REP
+    election_phase: primary_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: https://comptroller.texas.gov
+    notes: "Serving since 2015. Responsible for the Biennial Revenue Estimate and state tax collection."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Comptroller"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Glenn Hegar
+    office_opponents_platform_key_facts: []
+    headshot_url: null
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "January 2027"
+    demo: true
+
+  - id: 820
+    name: Henry Garza
+    position: "District Attorney, 27th Judicial District"
+    office: "Bell County DA"
+    jurisdiction: "Bell County"
+    status: incumbent
+    party: REP
+    election_phase: primary_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: null
+    notes: "Serving since 2013. Prosecutes felony cases in Bell County."
+    group_city: ""
+    group_state: Texas
+    group_function: Judicial
+    office_group_key: "Bell County DA"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Henry Garza
+    office_opponents_platform_key_facts: []
+    headshot_url: null
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "January 2027"
+    demo: true
+
+  - id: 804
+    name: Ted Cruz
+    position: "U.S. Senator from Texas (Class I)"
+    office: "US Senate TX - Cruz"
+    jurisdiction: Texas
+    status: incumbent
+    party: REP
+    election_phase: seated
+    FEC: "yes"
+    facebook_url: null
+    website_url: https://www.cruz.senate.gov
+    notes: "Reelected November 2024 for a third term. Not up for reelection until 2030."
+    group_city: ""
+    group_state: Texas
+    group_function: Legislative
+    office_group_key: "US Senate TX - Cruz"
+    office_up_for_election_this_year: false
+    office_incumbent_name: Ted Cruz
+    office_opponents_platform_key_facts: []
+    headshot_url: null
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "January 3, 2031"
+    demo: true

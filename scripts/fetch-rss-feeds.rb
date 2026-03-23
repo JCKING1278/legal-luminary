@@ -7,7 +7,8 @@
 require 'yaml'
 require 'json'
 require 'feedjira'
-require 'faraday'
+require 'net/http'
+require 'uri'
 require 'time'
 require 'logger'
 
@@ -43,26 +44,30 @@ def fetch_feed(url, timeout: 10, retries: 2)
   retries.times do |attempt|
     begin
       log.info "Fetching feed: #{url} (attempt #{attempt + 1}/#{retries})"
-      
-      response = Faraday.get(url) do |req|
-        req.options.timeout = timeout
-        req.headers['User-Agent'] = 'Legal Luminary RSS Fetcher/1.0'
-      end
-      
-      unless response.success?
-        log.warn "HTTP error #{response.status} for #{url}"
+
+      uri = URI(url)
+      http = Net::HTTP.new(uri.host, uri.port)
+      http.use_ssl = (uri.scheme == 'https')
+      http.open_timeout = timeout
+      http.read_timeout = timeout
+      req = Net::HTTP::Get.new(uri)
+      req['User-Agent'] = 'Legal Luminary RSS Fetcher/1.0'
+      response = http.request(req)
+
+      unless response.is_a?(Net::HTTPSuccess)
+        log.warn "HTTP error #{response.code} for #{url}"
         next
       end
-      
+
       feed = Feedjira.parse(response.body)
       log.info "Successfully parsed feed: #{feed.title || 'Untitled'}"
       return feed
-      
-    rescue Faraday::TimeoutError => e
+
+    rescue Net::OpenTimeout, Net::ReadTimeout => e
       log.warn "Timeout fetching #{url}: #{e.message}"
       next if attempt < retries - 1
-      
-    rescue Faraday::Error => e
+
+    rescue SocketError, SystemCallError => e
       log.warn "Network error fetching #{url}: #{e.message}"
       next if attempt < retries - 1
       

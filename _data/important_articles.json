@@ -1,6 +1,6 @@
 {
-  "validated_at": "2026-03-15T15:24:41.863784",
-  "total_articles": 37,
+  "validated_at": "2026-03-23T16:18:45.030396",
+  "total_articles": 55,
   "by_relevance": {
     "critical": [
       {
@@ -172,6 +172,173 @@
             "priority": "critical",
             "count": 21,
             "score": 2100
+          },
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 16,
+            "score": 1600
+          },
+          {
+            "keyword": "democratic",
+            "priority": "critical",
+            "count": 13,
+            "score": 1300
+          },
+          {
+            "keyword": "senate",
+            "priority": "critical",
+            "count": 12,
+            "score": 1200
+          },
+          {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 12,
+            "score": 1200
+          },
+          {
+            "keyword": "voter",
+            "priority": "critical",
+            "count": 11,
+            "score": 1100
+          },
+          {
+            "keyword": "republican",
+            "priority": "critical",
+            "count": 9,
+            "score": 900
+          },
+          {
+            "keyword": "gop",
+            "priority": "critical",
+            "count": 7,
+            "score": 700
+          },
+          {
+            "keyword": "campaign",
+            "priority": "high",
+            "count": 13,
+            "score": 650
+          },
+          {
+            "keyword": "congress",
+            "priority": "critical",
+            "count": 6,
+            "score": 600
+          },
+          {
+            "keyword": "candidate",
+            "priority": "critical",
+            "count": 6,
+            "score": 600
+          },
+          {
+            "keyword": "voting",
+            "priority": "critical",
+            "count": 5,
+            "score": 500
+          },
+          {
+            "keyword": "congresswoman",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "ballot",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "trump",
+            "priority": "high",
+            "count": 5,
+            "score": 250
+          },
+          {
+            "keyword": "runoff",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "congressman",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "abbott",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "attorney general",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "incumbent",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "court",
+            "priority": "medium",
+            "count": 2,
+            "score": 50
+          },
+          {
+            "keyword": "scandal",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "judge",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "legal",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "attorney",
+            "priority": "low",
+            "count": 1,
+            "score": 10
+          }
+        ]
+      },
+      {
+        "title": "Talarico defeats Crockett in Texas Democratic Senate primary",
+        "date": "2026-03-03",
+        "source": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/03/03/texas-jasmine-crockett-james-talarico-us-senate-democratic-primary/",
+        "path": "_posts/2026-03-03-talarico-defeats-crockett-in-texas-democratic-sena-expanded.md",
+        "score": 1908,
+        "relevance": "critical",
+        "matched_keywords": [
+          {
+            "keyword": "democrat",
+            "priority": "critical",
+            "count": 24,
+            "score": 2400
+          },
+          {
+            "keyword": "primary",
+            "priority": "critical",
+            "count": 20,
+            "score": 2000
           },
           {
             "keyword": "texas",
@@ -1342,12 +1509,12 @@
         ]
       },
       {
-        "title": "How to score free Girl Scout cookies by donating blood in February | kvue.com",
-        "date": "2026-02-04",
-        "source": "KVUE",
-        "url": "https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196",
-        "path": "_posts/2026-02-04-how-to-score-free-girl-scout-c.md",
-        "score": 548,
+        "title": "Xtra! Xtra! Interviews",
+        "date": "2025-07-17",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/video-gallery/news/xtra/xtra-xtra",
+        "path": "_posts/2025-07-17-xtra-xtra-interviews.md",
+        "score": 552,
         "relevance": "low",
         "matched_keywords": [
           {
@@ -1359,13 +1526,13 @@
           {
             "keyword": "central texas",
             "priority": "high",
-            "count": 2,
-            "score": 100
+            "count": 3,
+            "score": 150
           },
           {
-            "keyword": "election",
-            "priority": "critical",
-            "count": 1,
+            "keyword": "waco",
+            "priority": "high",
+            "count": 2,
             "score": 100
           },
           {
@@ -1373,12 +1540,45 @@
             "priority": "high",
             "count": 1,
             "score": 50
+          }
+        ]
+      },
+      {
+        "title": "Hardwired",
+        "date": "2025-12-11",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/content/news/entertainment/Hardwired",
+        "path": "_posts/2025-12-11-hardwired.md",
+        "score": 500,
+        "relevance": "low",
+        "matched_keywords": []
+      },
+      {
+        "title": "Restaurant Report Card",
+        "date": "2025-12-19",
+        "source": "KWTX",
+        "url": "https://www.kwtx.com/news/restaurant-report-card",
+        "path": "_posts/2025-12-19-restaurant-report-card.md",
+        "score": 543,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
           },
           {
-            "keyword": "appoint",
-            "priority": "low",
+            "keyword": "central texas",
+            "priority": "high",
+            "count": 3,
+            "score": 150
+          },
+          {
+            "keyword": "waco",
+            "priority": "high",
             "count": 1,
-            "score": 10
+            "score": 50
           }
         ]
       },
@@ -1414,6 +1614,35 @@
             "priority": "medium",
             "count": 1,
             "score": 25
+          },
+          {
+            "keyword": "attorney",
+            "priority": "low",
+            "count": 1,
+            "score": 10
+          }
+        ]
+      },
+      {
+        "title": "Killeen Police Identify and Arrest Murder Suspect",
+        "date": "2026-02-11",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/02/11/killeen-police-identify-and-arrest-murder-suspect-3/",
+        "path": "_posts/2026-02-11-killeen-police-identify-and-arrest-murder-sus.md",
+        "score": 526,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "killeen",
+            "priority": "high",
+            "count": 5,
+            "score": 250
+          },
+          {
+            "keyword": "bell county",
+            "priority": "high",
+            "count": 1,
+            "score": 50
           },
           {
             "keyword": "attorney",
@@ -1471,6 +1700,29 @@
         ]
       },
       {
+        "title": "Links mentioned on KVUE News | kvue.com",
+        "date": "2026-02-18",
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/news-links-on-kvue/269-44048917",
+        "path": "_posts/2026-02-18-links-mentioned-on-kvue-news.md",
+        "score": 513,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "central texas",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          }
+        ]
+      },
+      {
         "title": "Brazos Valley Groundwater Conservation",
         "date": "2026-02-19",
         "source": "KBTX",
@@ -1521,14 +1773,45 @@
         ]
       },
       {
-        "title": "Hardwired",
+        "title": "How to score free Girl Scout cookies by donating blood in February | kvue.com",
         "date": "2026-02-19",
-        "source": "KWTX",
-        "url": "https://www.kwtx.com/content/news/entertainment/Hardwired",
-        "path": "_posts/2026-02-19-hardwired.md",
-        "score": 500,
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/news/local/free-girl-scout-cookies-donating-blood-february-austin-texas-2026/269-a6a02d4f-35cf-4eb5-a1cf-735007ba5196",
+        "path": "_posts/2026-02-19-how-to-score-free-girl-scout-c.md",
+        "score": 548,
         "relevance": "low",
-        "matched_keywords": []
+        "matched_keywords": [
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 3,
+            "score": 300
+          },
+          {
+            "keyword": "central texas",
+            "priority": "high",
+            "count": 2,
+            "score": 100
+          },
+          {
+            "keyword": "election",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "campaign",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "appoint",
+            "priority": "low",
+            "count": 1,
+            "score": 10
+          }
+        ]
       },
       {
         "title": "Husband of US Rep. Tony Gonzales' deceased staffer alleges they were having",
@@ -1597,29 +1880,6 @@
             "priority": "critical",
             "count": 5,
             "score": 500
-          },
-          {
-            "keyword": "central texas",
-            "priority": "high",
-            "count": 1,
-            "score": 50
-          }
-        ]
-      },
-      {
-        "title": "Links mentioned on KVUE News | kvue.com",
-        "date": "2026-02-19",
-        "source": "KVUE",
-        "url": "https://www.kvue.com/article/news/news-links-on-kvue/269-44048917",
-        "path": "_posts/2026-02-19-links-mentioned-on-kvue-news.md",
-        "score": 513,
-        "relevance": "low",
-        "matched_keywords": [
-          {
-            "keyword": "texas",
-            "priority": "critical",
-            "count": 1,
-            "score": 100
           },
           {
             "keyword": "central texas",
@@ -1712,35 +1972,6 @@
             "keyword": "legal",
             "priority": "medium",
             "count": 2,
-            "score": 50
-          }
-        ]
-      },
-      {
-        "title": "Restaurant Report Card",
-        "date": "2026-02-19",
-        "source": "KWTX",
-        "url": "https://www.kwtx.com/news/restaurant-report-card",
-        "path": "_posts/2026-02-19-restaurant-report-card.md",
-        "score": 543,
-        "relevance": "low",
-        "matched_keywords": [
-          {
-            "keyword": "texas",
-            "priority": "critical",
-            "count": 3,
-            "score": 300
-          },
-          {
-            "keyword": "central texas",
-            "priority": "high",
-            "count": 3,
-            "score": 150
-          },
-          {
-            "keyword": "waco",
-            "priority": "high",
-            "count": 1,
             "score": 50
           }
         ]
@@ -1971,37 +2202,117 @@
         "matched_keywords": []
       },
       {
-        "title": "Xtra! Xtra! Interviews",
-        "date": "2026-02-19",
-        "source": "KWTX",
-        "url": "https://www.kwtx.com/video-gallery/news/xtra/xtra-xtra",
-        "path": "_posts/2026-02-19-xtra-xtra-interviews.md",
-        "score": 552,
+        "title": "Killeen Police Announce Arrests in 2019 Murder",
+        "date": "2026-02-25",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/02/25/killeen-police-announce-arrests-in-2019-murder/",
+        "path": "_posts/2026-02-25-killeen-police-announce-arrests-in-2019-murde.md",
+        "score": 532,
         "relevance": "low",
         "matched_keywords": [
           {
-            "keyword": "texas",
-            "priority": "critical",
-            "count": 3,
+            "keyword": "killeen",
+            "priority": "high",
+            "count": 7,
+            "score": 350
+          },
+          {
+            "keyword": "investigation",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Killeen Police Investigate the Murder of a 35-Year-Old Male",
+        "date": "2026-02-26",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/02/26/killeen-police-investigate-the-murder-of-a-35-year-old-male/",
+        "path": "_posts/2026-02-26-killeen-police-investigate-the-murder-of-a-35.md",
+        "score": 528,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "killeen",
+            "priority": "high",
+            "count": 6,
             "score": 300
           },
           {
-            "keyword": "central texas",
+            "keyword": "law",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "Killeen Police Investigating the Murder of a 21-Year-Old Male",
+        "date": "2026-02-26",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/02/26/killeen-police-investigating-the-murder-of-a-21-year-old-male/",
+        "path": "_posts/2026-02-26-killeen-police-investigating-the-murder-of-a-.md",
+        "score": 526,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "killeen",
             "priority": "high",
-            "count": 3,
-            "score": 150
+            "count": 6,
+            "score": 300
+          }
+        ]
+      },
+      {
+        "title": "Killeen Police Charge 36-Year-Old Male with Murder",
+        "date": "2026-03-01",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/03/01/killeen-police-charge-36-year-old-male-with-murder-2/",
+        "path": "_posts/2026-03-01-killeen-police-charge-36-year-old-male-with-m.md",
+        "score": 533,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "killeen",
+            "priority": "high",
+            "count": 6,
+            "score": 300
           },
           {
-            "keyword": "waco",
-            "priority": "high",
-            "count": 2,
-            "score": 100
-          },
-          {
-            "keyword": "campaign",
+            "keyword": "bell county",
             "priority": "high",
             "count": 1,
             "score": 50
+          },
+          {
+            "keyword": "investigation",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "attorney",
+            "priority": "low",
+            "count": 1,
+            "score": 10
+          }
+        ]
+      },
+      {
+        "title": "A Message from the City Manager",
+        "date": "2026-03-06",
+        "source": "Temple Police Department",
+        "url": "https://city-of-temple.prowly.com/449389-a-message-from-the-city-manager",
+        "path": "_posts/2026-03-06-a-message-from-the-city-manager.md",
+        "score": 508,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "temple",
+            "priority": "high",
+            "count": 2,
+            "score": 100
           }
         ]
       },
@@ -2071,6 +2382,35 @@
         ]
       },
       {
+        "title": "Killeen Police Seek Public\u2019s Help Identifying Three Men in Shots Fired Incident",
+        "date": "2026-03-07",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/03/07/killeen-police-seek-publics-help-identifying-three-men-in-shots-fired-incident/",
+        "path": "_posts/2026-03-07-killeen-police-seek-public-s-help-identifying.md",
+        "score": 539,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "killeen",
+            "priority": "high",
+            "count": 6,
+            "score": 300
+          },
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          },
+          {
+            "keyword": "central texas",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          }
+        ]
+      },
+      {
         "title": "Texas hemp businesses fear an uptick in police raids",
         "date": "2026-03-09",
         "source": "Texas Tribune",
@@ -2096,6 +2436,172 @@
             "priority": "critical",
             "count": 1,
             "score": 100
+          }
+        ]
+      },
+      {
+        "title": "Midway Drive",
+        "date": "2026-03-10",
+        "source": "Temple Police Department",
+        "url": "https://city-of-temple.prowly.com/449783-midway-drive",
+        "path": "_posts/2026-03-10-midway-drive.md",
+        "score": 513,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "temple",
+            "priority": "high",
+            "count": 3,
+            "score": 150
+          }
+        ]
+      },
+      {
+        "title": "Killeen Police Investigate an Early Morning Robbery",
+        "date": "2026-03-11",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/03/11/killeen-police-investigate-an-early-morning-robbery/",
+        "path": "_posts/2026-03-11-killeen-police-investigate-an-early-morning-r.md",
+        "score": 526,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "killeen",
+            "priority": "high",
+            "count": 6,
+            "score": 300
+          }
+        ]
+      },
+      {
+        "title": "Killeen Police Charge Suspect in Aggravated Robbery",
+        "date": "2026-03-12",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/03/12/killeen-police-charge-suspect-in-aggravated-robbery/",
+        "path": "_posts/2026-03-12-killeen-police-charge-suspect-in-aggravated-r.md",
+        "score": 529,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "killeen",
+            "priority": "high",
+            "count": 5,
+            "score": 250
+          },
+          {
+            "keyword": "bell county",
+            "priority": "high",
+            "count": 1,
+            "score": 50
+          },
+          {
+            "keyword": "investigation",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          },
+          {
+            "keyword": "attorney",
+            "priority": "low",
+            "count": 1,
+            "score": 10
+          }
+        ]
+      },
+      {
+        "title": "Killeen Police Investigate a Shooting on N. Gray Street",
+        "date": "2026-03-12",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/03/12/killeen-police-investigate-a-shooting-on-n-gray-street/",
+        "path": "_posts/2026-03-12-killeen-police-investigate-a-shooting-on-n-gr.md",
+        "score": 526,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "killeen",
+            "priority": "high",
+            "count": 6,
+            "score": 300
+          }
+        ]
+      },
+      {
+        "title": "Murder Suspect Arrested in Ohio",
+        "date": "2026-03-12",
+        "source": "Killeen Police Department",
+        "url": "https://killeenpdnews.com/2026/03/12/murder-suspect-arrested-in-ohio/",
+        "path": "_posts/2026-03-12-murder-suspect-arrested-in-ohio.md",
+        "score": 519,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "killeen",
+            "priority": "high",
+            "count": 4,
+            "score": 200
+          },
+          {
+            "keyword": "investigation",
+            "priority": "medium",
+            "count": 1,
+            "score": 25
+          }
+        ]
+      },
+      {
+        "title": "City of Temple Parks & Recreation Department Receives Multiple Statewide Honors from Texas Recreation and Park Society",
+        "date": "2026-03-13",
+        "source": "Temple Police Department",
+        "url": "https://city-of-temple.prowly.com/447551-city-of-temple-parks-recreation-department-receives-multiple-statewide-honors-from-texas-recreation-and-park-society",
+        "path": "_posts/2026-03-13-city-of-temple-parks-recreation-department-re.md",
+        "score": 565,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 4,
+            "score": 400
+          },
+          {
+            "keyword": "temple",
+            "priority": "high",
+            "count": 7,
+            "score": 350
+          }
+        ]
+      },
+      {
+        "title": "City of Temple to Host 2nd Annual Petals & Pints Event",
+        "date": "2026-03-13",
+        "source": "Temple Police Department",
+        "url": "https://city-of-temple.prowly.com/449552-city-of-temple-to-host-2nd-annual-petals-pints-event",
+        "path": "_posts/2026-03-13-city-of-temple-to-host-2nd-annual-petals-pint.md",
+        "score": 530,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "temple",
+            "priority": "high",
+            "count": 7,
+            "score": 350
+          }
+        ]
+      },
+      {
+        "title": "Temple Police Department investigates a traffic accident, 1 deceased, 1 injured",
+        "date": "2026-03-13",
+        "source": "Temple Police Department",
+        "url": "https://city-of-temple.prowly.com/450388-temple-police-department-investigates-a-traffic-accident-1-deceased-1-injured",
+        "path": "_posts/2026-03-13-temple-police-department-investigates-a-traff.md",
+        "score": 530,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "temple",
+            "priority": "high",
+            "count": 7,
+            "score": 350
           }
         ]
       },
@@ -2128,6 +2634,58 @@
           },
           {
             "keyword": "election",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          }
+        ]
+      },
+      {
+        "title": "No bills have been filed today.",
+        "date": "2026-03-15",
+        "source": "Texas Legislature - Today's Bills Filed",
+        "url": "https://capitol.texas.gov/Reports/General.aspx",
+        "path": "_posts/2026-03-15-no-bills-have-been-filed-today.md",
+        "score": 526,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 2,
+            "score": 200
+          },
+          {
+            "keyword": "legislature",
+            "priority": "critical",
+            "count": 1,
+            "score": 100
+          }
+        ]
+      },
+      {
+        "title": "Upcoming Texas Legislature committee meetings",
+        "date": "2026-03-15",
+        "source": "Texas Legislature",
+        "url": "https://capitol.texas.gov",
+        "path": "_posts/2026-03-15-upcoming-texas-legislature-committee-meetings.md",
+        "score": 630,
+        "relevance": "low",
+        "matched_keywords": [
+          {
+            "keyword": "texas",
+            "priority": "critical",
+            "count": 8,
+            "score": 800
+          },
+          {
+            "keyword": "legislature",
+            "priority": "critical",
+            "count": 6,
+            "score": 600
+          },
+          {
+            "keyword": "senate",
             "priority": "critical",
             "count": 1,
             "score": 100

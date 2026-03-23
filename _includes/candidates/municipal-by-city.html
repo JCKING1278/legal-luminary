@@ -1,0 +1,16 @@
+{% assign hub = site.data.municipal_hub %}
+{% if hub and hub.cities %}
+  {% for city in hub.cities %}
+  <section class="municipal-city-block" data-city="{{ city.slug }}" style="--city-seal-url: url('{{ city.logo | relative_url }}');">
+    <header class="municipal-city-block__header">
+      <h3 class="municipal-city-block__title">{{ city.name }}</h3>
+      <p class="municipal-city-block__hint">Municipal offices (sample rows in non-Killeen cities for layout)</p>
+    </header>
+    <div class="municipal-city-block__races">
+      {% for race in city.races %}
+        {% include candidates/race-card.html race=race %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+{% endif %}
