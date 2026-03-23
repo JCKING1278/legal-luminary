@@ -1,0 +1,95 @@
+# Design tokens for Legal Luminary of Central Texas.
+# This is the single source of truth for the visual language.
+# CSS custom properties mirror these tokens in assets/css/candidates-new.css
+# (:root), including navy/slate/gold/blue/green/red/purple/sky and palette.amber.
+# Reference this file (or design/styleguide.md) in any LLM prompt
+# that touches the site's UI.
+
+palette:
+  navy:
+    950: { hex: "#0b1420", use: "Darkest background — hub container gradient start" }
+    900: { hex: "#0f172a", use: "Near-black — text on light surfaces, deep backgrounds" }
+    875: { hex: "#121e2e", use: "Hub background gradient midpoint" }
+    850: { hex: "#0f233c", use: "Hub background gradient end, flag banner fade target" }
+    800: { hex: "#1e293b", use: "Dark slate — card headers, strong body text" }
+    700: { hex: "#334155", use: "Medium-dark slate — secondary dark elements" }
+  slate:
+    600: { hex: "#475569", use: "Medium slate — subdued text, badge backgrounds" }
+    500: { hex: "#64748b", use: "Muted text — labels, placeholder prose, light-mode secondary" }
+    400: { hex: "#94a3b8", use: "Secondary text on dark — tab labels, hints, notes" }
+    350: { hex: "#b8c5d6", use: "Hub intro text" }
+    300: { hex: "#cbd5e1", use: "Pale slate — hover borders, light accents" }
+    200: { hex: "#e2e8f0", use: "Default borders — cards, dividers, rules" }
+    150: { hex: "#e8edf4", use: "Hub body text" }
+    100: { hex: "#f1f5f9", use: "Near-white — subtle backgrounds, hover states" }
+    50:  { hex: "#f8fafc", use: "Off-white — card backgrounds, tab-nav light mode" }
+  gold:
+    600: { hex: "#c9a227", use: "Primary gold — border accents, office-detail markers" }
+    400: { hex: "#fbbf24", use: "Bright gold — active tab, primary accent, hub links" }
+    200: { hex: "#fde68a", use: "Light gold — link hover on dark" }
+    100: { hex: "#fef3c7", use: "Cream — subsection titles on dark" }
+    50:  { hex: "#fefce8", use: "Lightest cream — city block title" }
+  blue:
+    700: { hex: "#1d4ed8", use: "Dark blue — gradient end for DEM badge and election badge" }
+    600: { hex: "#2563eb", use: "Primary blue — links, DEM badge, active tab light-mode" }
+  green:
+    600: { hex: "#16a34a", use: "Dark green — incumbent badge gradient end" }
+    500: { hex: "#22c55e", use: "Incumbent green — border, badge background" }
+  red:
+    700: { hex: "#b91c1c", use: "Dark red — REP badge gradient end" }
+    600: { hex: "#dc2626", use: "Red — REP badge, negative finance" }
+  purple:
+    600: { hex: "#9333ea", use: "IND badge gradient start" }
+    500: { hex: "#7c3aed", use: "IND badge gradient end" }
+  sky:
+    700: { hex: "#0369a1", use: "Winner badge gradient end" }
+    500: { hex: "#0ea5e9", use: "Winner badge gradient start" }
+
+# Amber/brown tones used only in the general-election banner
+  amber:
+    900: { hex: "#78350f", use: "Banner strong text" }
+    800: { hex: "#b45309", use: "Banner badge background" }
+    700: { hex: "#d97706", use: "Banner border" }
+
+typography:
+  families:
+    display: '"Source Serif 4", "Georgia", "Times New Roman", serif'
+    body: 'system-ui, -apple-system, "Segoe UI", Roboto, sans-serif'
+    base: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, sans-serif'
+  scale:
+    h1:    { size: "2.25rem", weight: 700, leading: "1.2", tracking: "-0.02em" }
+    h2:    { size: "1.5rem",  weight: 600, leading: "1.3", tracking: "normal" }
+    h3:    { size: "1.4rem",  weight: 700, leading: "1.3", tracking: "-0.01em" }
+    sub-h: { size: "1.15rem", weight: 600, leading: "1.4", tracking: "normal" }
+    body:  { size: "1rem",    weight: 400, leading: "1.6", tracking: "normal" }
+    small: { size: "0.85rem", weight: 500, leading: "1.55", tracking: "normal" }
+    xs:    { size: "0.72rem", weight: 700, leading: "1.4", tracking: "0.06em" }
+    label: { size: "0.68rem", weight: 700, leading: "1.3", tracking: "0.1em", transform: "uppercase" }
+
+spacing:
+  scale:
+    1:  "0.25rem"
+    2:  "0.5rem"
+    3:  "0.75rem"
+    4:  "1rem"
+    5:  "1.25rem"
+    6:  "1.5rem"
+    7:  "1.75rem"
+    8:  "2rem"
+    10: "2.5rem"
+    12: "3rem"
+
+radii:
+  sm:   "5px"
+  md:   "8px"
+  lg:   "12px"
+  xl:   "16px"
+  pill: "20px"
+
+shadows:
+  card-rest:    "0 1px 3px rgba(0, 0, 0, 0.05)"
+  card-hover:   "0 4px 12px rgba(0, 0, 0, 0.08)"
+  hub-card:     "0 8px 28px rgba(0, 0, 0, 0.2)"
+  hub-card-hov: "0 14px 40px rgba(0, 0, 0, 0.28)"
+  hub-outer:    "0 24px 48px rgba(5, 12, 24, 0.35)"
+  tab-active:   "0 4px 14px rgba(251, 191, 36, 0.35)"

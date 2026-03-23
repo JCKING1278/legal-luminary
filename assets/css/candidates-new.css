@@ -1,0 +1,1601 @@
+/* Candidates Page - Professional 5-Tab Layout with Cards */
+
+/* ============================================================
+   Design tokens — single source of truth for the visual language.
+   Mirror: _data/design_tokens.yml  ·  Docs: design/styleguide.md
+   ============================================================ */
+:root {
+  /* Navy scale */
+  --navy-950: #0b1420;
+  --navy-900: #0f172a;
+  --navy-875: #121e2e;
+  --navy-850: #0f233c;
+  --navy-800: #1e293b;
+  --navy-700: #334155;
+
+  /* Slate scale */
+  --slate-600: #475569;
+  --slate-500: #64748b;
+  --slate-400: #94a3b8;
+  --slate-350: #b8c5d6;
+  --slate-300: #cbd5e1;
+  --slate-200: #e2e8f0;
+  --slate-150: #e8edf4;
+  --slate-100: #f1f5f9;
+  --slate-50:  #f8fafc;
+
+  /* Gold scale */
+  --gold-600: #c9a227;
+  --gold-400: #fbbf24;
+  --gold-200: #fde68a;
+  --gold-100: #fef3c7;
+  --gold-50:  #fefce8;
+
+  /* Functional */
+  --blue-700: #1d4ed8;
+  --blue-600: #2563eb;
+  --green-600: #16a34a;
+  --green-500: #22c55e;
+  --red-700: #b91c1c;
+  --red-600: #dc2626;
+  --purple-600: #9333ea;
+  --purple-500: #7c3aed;
+  --sky-700: #0369a1;
+  --sky-500: #0ea5e9;
+
+  /* Amber — general-election banner (palette.amber in design_tokens.yml) */
+  --amber-900: #78350f;
+  --amber-800: #b45309;
+  --amber-700: #d97706;
+
+  /* Typography */
+  --font-display: "Source Serif 4", "Georgia", "Times New Roman", serif;
+  --font-body: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  /* Radii */
+  --radius-sm: 5px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-pill: 20px;
+
+  /* Shadows */
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.05);
+  --shadow-card-hover: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --shadow-hub-card: 0 8px 28px rgba(0, 0, 0, 0.2);
+  --shadow-hub-card-hover: 0 14px 40px rgba(0, 0, 0, 0.28);
+  --shadow-hub-outer: 0 24px 48px rgba(5, 12, 24, 0.35);
+  --shadow-tab-active: 0 4px 14px rgba(251, 191, 36, 0.35);
+}
+
+/* ============================================================
+   Full-width layout: hide sidebar + recent articles
+   ============================================================ */
+body.page-candidates .sidebar,
+body.page-candidates .recent-articles-section {
+  display: none !important;
+}
+
+body.page-candidates .content-wrapper {
+  display: block;
+}
+
+body.page-candidates .main-content {
+  max-width: none;
+  width: 100%;
+}
+
+body.page-candidates .container {
+  max-width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* ============================================================
+   Base section
+   ============================================================ */
+.candidates-section {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+}
+
+.candidates-section h1 {
+  font-size: 2.25rem;
+  margin-bottom: 0.5rem;
+  color: var(--navy-900);
+  font-weight: 700;
+}
+
+.section-intro {
+  color: var(--slate-500);
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.section-intro a {
+  color: var(--blue-600);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.section-intro a:hover {
+  text-decoration: underline;
+}
+
+/* ============================================================
+   Candidates hub: distinct editorial theme (scoped)
+   ============================================================ */
+.candidates-hub.candidates-section {
+  font-family: var(--font-display);
+  background:
+    radial-gradient(
+      ellipse 120% 80% at 10% 0%,
+      color-mix(in srgb, var(--gold-600) 22%, transparent) 0%,
+      transparent 50%
+    ),
+    radial-gradient(
+      ellipse 90% 60% at 100% 20%,
+      color-mix(in srgb, var(--navy-800) 35%, transparent) 0%,
+      transparent 45%
+    ),
+    linear-gradient(165deg, var(--navy-950) 0%, var(--navy-875) 40%, var(--navy-850) 100%);
+  color: var(--slate-150);
+  border-radius: 16px;
+  padding: 2.25rem 2rem 2.5rem;
+  margin: 1rem auto 2.5rem;
+  box-shadow: var(--shadow-hub-outer);
+  transition: box-shadow 0.35s ease;
+}
+
+.candidates-hub.candidates-section h1 {
+  font-family: var(--font-display);
+  color: var(--slate-50);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  border-bottom: 1px solid rgba(201, 162, 39, 0.35);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.candidates-hub .section-intro {
+  color: var(--slate-200);
+}
+
+.candidates-hub .section-intro a {
+  color: var(--gold-400);
+}
+
+.candidates-hub .section-intro a:hover {
+  color: var(--gold-200);
+}
+
+.candidates-hub .candidates-subsection-title {
+  font-size: 0.8rem;
+  color: var(--gold-100);
+  margin: 2rem 0 0.75rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid rgba(251, 191, 36, 0.35);
+  font-weight: 700;
+  font-family: var(--font-body);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+}
+
+.candidates-hub .candidates-subsection-note {
+  color: var(--slate-350);
+  font-size: 0.9rem;
+  line-height: 1.55;
+  margin: 0 0 1rem;
+  font-style: italic;
+}
+
+/* Long-form context below state-tab race cards (e.g. comptroller primary) */
+.candidates-hub .candidates-prose-block {
+  margin-top: 2.5rem;
+  padding: 1.25rem 1.35rem 1.5rem;
+  border: 1px solid rgba(251, 191, 36, 0.28);
+  border-radius: 12px;
+  background: linear-gradient(
+    165deg,
+    rgba(15, 23, 42, 0.92) 0%,
+    rgba(30, 41, 59, 0.88) 50%,
+    rgba(15, 35, 60, 0.9) 100%
+  );
+  color: var(--slate-150);
+  font-size: 0.92rem;
+  line-height: 1.6;
+  max-width: 52rem;
+}
+
+.candidates-hub .candidates-prose-block__title {
+  font-family: var(--font-display, var(--font-body));
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--gold-50);
+  margin: 0 0 0.75rem;
+  line-height: 1.35;
+  text-transform: none;
+  letter-spacing: normal;
+  border: none;
+  padding: 0;
+}
+
+.candidates-hub .candidates-prose-block__sources {
+  margin: 0 0 1.25rem;
+  font-size: 0.88rem;
+  color: var(--slate-350);
+}
+
+.candidates-hub .candidates-prose-block__sources a {
+  color: var(--gold-400);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.candidates-hub .candidates-prose-block__sources a:hover {
+  color: var(--gold-200);
+}
+
+.candidates-hub .candidates-prose-block__h {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gold-400);
+  margin: 1.35rem 0 0.5rem;
+}
+
+.candidates-hub .candidates-prose-block__h:first-of-type {
+  margin-top: 0;
+}
+
+.candidates-hub .candidates-prose-block p {
+  margin: 0 0 0.65rem;
+}
+
+.candidates-hub .candidates-prose-block__list {
+  margin: 0 0 0.65rem;
+  padding-left: 1.2rem;
+}
+
+.candidates-hub .candidates-prose-block__list li {
+  margin-bottom: 0.5rem;
+}
+
+.candidates-hub .candidates-prose-block__table-wrap {
+  overflow-x: auto;
+  margin: 0.5rem 0 0.85rem;
+  -webkit-overflow-scrolling: touch;
+}
+
+.candidates-hub .candidates-prose-block__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+.candidates-hub .candidates-prose-block__table th,
+.candidates-hub .candidates-prose-block__table td {
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  padding: 0.45rem 0.65rem;
+  text-align: left;
+}
+
+.candidates-hub .candidates-prose-block__table thead th {
+  background: rgba(251, 191, 36, 0.18);
+  color: var(--gold-50);
+  font-weight: 700;
+}
+
+.candidates-hub .candidates-prose-block__table tbody th {
+  font-weight: 600;
+  color: var(--slate-50);
+}
+
+.candidates-hub .candidates-prose-block--compact {
+  margin-top: 1.25rem;
+  padding: 1rem 1.15rem 1.15rem;
+}
+
+.general-election-banner {
+  background: rgba(251, 191, 36, 0.08);
+  border: 1px solid rgba(251, 191, 36, 0.3);
+  border-radius: 10px;
+  padding: 0.85rem 1.35rem;
+  min-height: 48px;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  color: var(--slate-200);
+  font-size: 0.9rem;
+  transition: box-shadow 0.25s ease;
+}
+
+.general-election-banner:hover {
+  box-shadow: 0 4px 16px rgba(251, 191, 36, 0.12);
+}
+
+.general-election-banner__badge {
+  background: var(--gold-400);
+  color: var(--navy-900);
+  padding: 0.35rem 0.85rem;
+  border-radius: 20px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  flex-shrink: 0;
+}
+
+.general-election-banner strong {
+  color: var(--gold-200);
+}
+
+/* Hub: banner sits on navy — lift contrast using amber + cream tokens */
+.candidates-hub .general-election-banner {
+  background: rgba(254, 252, 232, 0.12);
+  border: 1px solid color-mix(in srgb, var(--amber-700) 50%, transparent);
+  color: var(--slate-50);
+}
+
+.candidates-hub .general-election-banner strong {
+  color: var(--gold-50);
+}
+
+.candidates-hub .general-election-banner__badge {
+  background: var(--amber-800);
+  color: var(--gold-50);
+  box-shadow: 0 2px 8px rgba(120, 53, 15, 0.35);
+}
+
+/* ============================================================
+   Tab Navigation
+   ============================================================ */
+.tab-nav {
+  display: flex;
+  border-bottom: 2px solid var(--slate-200);
+  margin-bottom: 2rem;
+  gap: 0;
+  background: var(--slate-50);
+  border-radius: 12px 12px 0 0;
+  padding: 0.5rem 0.5rem 0 0.5rem;
+}
+
+.candidates-hub .tab-nav {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--navy-850) 88%, var(--navy-800)) 0%,
+    color-mix(in srgb, var(--navy-900) 92%, transparent) 100%
+  );
+  border: 1px solid rgba(251, 191, 36, 0.22);
+  border-bottom-color: rgba(201, 162, 39, 0.4);
+  border-radius: 12px;
+  padding: 0.35rem;
+  backdrop-filter: blur(8px);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+.candidates-hub .tab-nav--stuck {
+  border-radius: 0 0 12px 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+}
+
+.tab-nav-sentinel {
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.candidates-hub .tab-btn {
+  color: var(--slate-300);
+  border-radius: 8px;
+}
+
+.candidates-hub .tab-icon svg {
+  filter: brightness(1.15);
+}
+
+.candidates-hub .tab-btn:hover {
+  color: var(--slate-50);
+  background: rgba(251, 191, 36, 0.16);
+}
+
+.candidates-hub .tab-btn.active {
+  color: var(--navy-950);
+  background: linear-gradient(180deg, var(--gold-400) 0%, var(--gold-600) 100%);
+  border-bottom-color: transparent;
+  box-shadow: var(--shadow-tab-active);
+}
+
+.tab-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  cursor: pointer;
+  color: var(--slate-500);
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 8px 8px 0 0;
+  position: relative;
+}
+
+.tab-btn:hover {
+  color: var(--navy-700);
+  background: rgba(37, 99, 235, 0.05);
+}
+
+.tab-btn.active {
+  color: var(--blue-600);
+  background: white;
+  border-bottom-color: var(--blue-600);
+  box-shadow: 0 -2px 8px rgba(37, 99, 235, 0.1);
+}
+
+.tab-icon {
+  font-size: 1.25rem;
+  transition: transform 0.3s ease;
+}
+
+.tab-btn:hover .tab-icon {
+  transform: scale(1.1);
+}
+
+.tab-btn.active .tab-icon {
+  transform: scale(1.15);
+}
+
+.tab-label {
+  letter-spacing: 0.01em;
+}
+
+/* ============================================================
+   Tab Content Panels
+   ============================================================ */
+.tab-content {
+  display: none;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.tab-content.active {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.candidates-section h2 {
+  font-size: 1.5rem;
+  margin: 2rem 0 1.25rem 0;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--slate-200);
+  color: var(--navy-800);
+  font-weight: 600;
+}
+
+.candidates-hub.candidates-section h2 {
+  color: var(--slate-50);
+  border-bottom-color: rgba(251, 191, 36, 0.3);
+}
+
+/* ============================================================
+   Race Card — the office panel
+   ============================================================ */
+.race-card {
+  background: white;
+  border: 1px solid var(--slate-200);
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.race-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.candidates-hub .race-card {
+  background: linear-gradient(180deg, var(--slate-50) 0%, var(--slate-100) 100%);
+  border: 1px solid color-mix(in srgb, var(--navy-800) 22%, var(--slate-200));
+  box-shadow: var(--shadow-hub-card);
+}
+
+.candidates-hub .race-card:hover {
+  box-shadow: var(--shadow-hub-card-hover);
+  transform: translateY(-2px);
+}
+
+/* Race header — prominent office title */
+.race-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 1.5rem 1.75rem;
+  background: linear-gradient(135deg, var(--slate-50) 0%, var(--slate-100) 100%);
+  border-bottom: 1px solid var(--slate-200);
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.race-header-titles {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.race-header h3,
+.race-header-titles h3 {
+  margin: 0;
+  font-size: 1.4rem;
+  color: var(--navy-900);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+}
+
+.race-header-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.candidates-hub .race-header {
+  background: linear-gradient(135deg, var(--navy-800) 0%, var(--navy-900) 100%);
+  border-bottom-color: rgba(251, 191, 36, 0.25);
+}
+
+.candidates-hub .race-header h3,
+.candidates-hub .race-header-titles h3 {
+  color: var(--slate-50);
+}
+
+.race-chip {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.28rem 0.55rem;
+  border-radius: 6px;
+  transition: opacity 0.2s ease;
+}
+
+.race-chip--election {
+  background: var(--gold-100);
+  color: var(--amber-900);
+  border: 1px solid var(--gold-600);
+}
+
+.election-badge {
+  background: linear-gradient(135deg, var(--blue-600) 0%, var(--blue-700) 100%);
+  color: white;
+  padding: 0.35rem 0.85rem;
+  border-radius: 20px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  box-shadow: 0 2px 4px rgba(37, 99, 235, 0.3);
+  flex-shrink: 0;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.candidates-hub .election-badge {
+  background: linear-gradient(135deg, var(--gold-600) 0%, var(--amber-800) 100%);
+  color: var(--gold-50);
+  box-shadow: 0 2px 8px rgba(201, 162, 39, 0.4);
+}
+
+/* ============================================================
+   Office Details Panel — the prominent office description
+   ============================================================ */
+.office-details {
+  padding: 1.25rem 1.75rem;
+  border-bottom: 1px solid var(--slate-200);
+  background: linear-gradient(180deg, var(--slate-100) 0%, #ffffff 100%);
+}
+
+.candidates-hub .office-details {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--slate-100) 96%, var(--sky-500)) 0%,
+    var(--slate-50) 100%
+  );
+  border-bottom-color: color-mix(in srgb, var(--navy-800) 15%, var(--slate-200));
+}
+
+.office-details__desc {
+  margin: 0 0 1rem;
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: var(--navy-700);
+}
+
+.candidates-hub .office-details__desc {
+  color: var(--navy-800);
+}
+
+.office-details__grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0;
+  padding: 0;
+}
+
+.office-details__item {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  padding: 0.3rem 0.65rem;
+  border-radius: 9999px;
+  background: rgba(15, 23, 42, 0.04);
+  border-left: none;
+  transition: background 0.2s ease;
+}
+
+.office-details__item:hover {
+  background: rgba(15, 23, 42, 0.07);
+}
+
+.candidates-hub .office-details__item {
+  background: color-mix(in srgb, var(--slate-200) 35%, transparent);
+  border: 1px solid color-mix(in srgb, var(--navy-800) 8%, transparent);
+}
+
+.candidates-hub .office-details__item:hover {
+  background: color-mix(in srgb, var(--gold-400) 12%, var(--slate-100));
+}
+
+.office-details__item dt {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--slate-500);
+  white-space: nowrap;
+}
+
+.office-details__item dt::after {
+  content: ":";
+}
+
+.candidates-hub .office-details__item dt {
+  color: var(--slate-600);
+}
+
+.office-details__item dd {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--navy-800);
+  font-weight: 500;
+}
+
+.candidates-hub .office-details__item dd {
+  color: var(--navy-900);
+}
+
+/* ============================================================
+   Race card body / featured / challengers
+   ============================================================ */
+.race-card-body {
+  padding: 0;
+}
+
+.candidate-featured-wrap {
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px dashed rgba(148, 163, 184, 0.5);
+}
+
+.candidates-hub .candidate-featured-wrap {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, transparent 100%);
+}
+
+.challengers-section {
+  padding: 0.85rem 1.5rem 1.25rem;
+  background: rgba(241, 245, 249, 0.65);
+}
+
+.candidates-hub .challengers-section {
+  background: color-mix(in srgb, var(--slate-200) 45%, var(--slate-50));
+  border-top: 1px solid color-mix(in srgb, var(--navy-800) 10%, var(--slate-200));
+}
+
+.challengers-heading {
+  margin: 0 0 0.75rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--slate-500);
+}
+
+.candidates-hub .challengers-heading {
+  color: var(--navy-800);
+}
+
+.challengers-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.85rem;
+}
+
+@media (min-width: 1280px) {
+  .challengers-row {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* ============================================================
+   Candidates Grid (flat mode)
+   ============================================================ */
+.candidates-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  padding: 1.25rem 1.5rem;
+}
+
+/* ============================================================
+   Candidate Card — compact by default
+   ============================================================ */
+.candidate-card {
+  background: white;
+  border: 1px solid var(--slate-200);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+              box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+              border-color 0.2s ease;
+  position: relative;
+}
+
+.candidate-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  border-color: var(--slate-300);
+}
+
+.candidate-card.incumbent {
+  border: 2px solid var(--green-500);
+  background: linear-gradient(to bottom, rgba(34, 197, 94, 0.03) 0%, white 100%);
+}
+
+.candidate-card.incumbent:hover {
+  box-shadow: 0 10px 20px rgba(34, 197, 94, 0.15);
+}
+
+/* Featured card — sized down from previous */
+.candidate-card--featured {
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+/* Challenger card — compact and visibly different */
+.candidate-card--challenger {
+  max-width: none;
+  border-style: dashed;
+  border-width: 2px;
+  border-color: rgba(148, 163, 184, 0.5);
+  background: var(--slate-50);
+  box-shadow: none;
+}
+
+.candidate-card--challenger .card-header {
+  padding: 0.75rem 0.75rem 0.5rem;
+  background: linear-gradient(135deg, var(--navy-800) 0%, var(--navy-700) 100%);
+}
+
+.candidate-card--challenger .candidate-term-expires,
+.candidate-card--challenger .candidate-bio p:not(.notes),
+.candidate-card--challenger .candidate-finance {
+  display: none;
+}
+
+.candidate-card--challenger .headshot,
+.candidate-card--challenger .headshot-placeholder {
+  width: 56px;
+  height: 70px;
+}
+
+.candidate-card--challenger .headshot-placeholder span {
+  font-size: 1.6rem;
+}
+
+.candidate-card--challenger .card-body {
+  padding: 0.65rem;
+}
+
+.candidate-card--challenger .candidate-name {
+  font-size: 0.88rem;
+}
+
+.candidate-card--challenger .candidate-position {
+  font-size: 0.72rem;
+  margin-bottom: 0.4rem;
+}
+
+.candidate-card--challenger .candidate-term-expires {
+  font-size: 0.72rem;
+  padding: 0.3rem 0.4rem;
+  margin-bottom: 0.4rem;
+}
+
+.candidate-card--challenger .candidate-bio {
+  font-size: 0.72rem;
+  margin-bottom: 0.4rem;
+}
+
+.candidate-card--challenger .candidate-bio p {
+  margin: 0.2rem 0;
+}
+
+.candidate-card--challenger .candidate-links {
+  gap: 0.3rem;
+}
+
+.candidate-card--challenger .social-link {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.68rem;
+}
+
+.candidate-card--challenger:hover {
+  transform: translateY(-2px);
+  border-color: var(--slate-500);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.candidate-card--challenger.incumbent {
+  border-style: dashed;
+  background: var(--slate-50);
+}
+
+/* ============================================================
+   Card Header with Headshot — reduced
+   ============================================================ */
+.card-header {
+  position: relative;
+  background: linear-gradient(135deg, var(--navy-800) 0%, var(--navy-700) 50%, var(--slate-600) 100%);
+  padding: 1.25rem 1rem 1rem;
+  text-align: center;
+}
+
+.headshot {
+  width: 100px;
+  height: 125px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 8px;
+  border: 3px solid white;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.candidate-card:hover .headshot {
+  transform: scale(1.02);
+}
+
+.headshot-placeholder {
+  width: 100px;
+  height: 125px;
+  margin: 0 auto;
+  background: linear-gradient(135deg, var(--slate-500) 0%, var(--slate-600) 100%);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid white;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.18);
+}
+
+.headshot-placeholder span {
+  font-size: 3rem;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;
+}
+
+.card-badges {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.incumbent-badge {
+  background: linear-gradient(135deg, var(--green-500) 0%, var(--green-600) 100%);
+  color: white;
+}
+
+.party-badge {
+  color: white;
+}
+
+.party-badge.REP {
+  background: linear-gradient(135deg, var(--red-600) 0%, var(--red-700) 100%);
+}
+
+.party-badge.DEM {
+  background: linear-gradient(135deg, var(--blue-600) 0%, var(--blue-700) 100%);
+}
+
+.party-badge.GRE {
+  background: linear-gradient(135deg, var(--green-500) 0%, var(--green-600) 100%);
+}
+
+.party-badge.IND {
+  background: linear-gradient(135deg, var(--purple-600) 0%, var(--purple-500) 100%);
+}
+
+.demo-badge {
+  background: var(--slate-500);
+  color: var(--slate-100);
+}
+
+.winner-badge {
+  background: linear-gradient(135deg, var(--sky-500) 0%, var(--sky-700) 100%);
+  color: white;
+}
+
+.eliminated-badge {
+  background: var(--navy-800);
+  color: var(--slate-50);
+  text-decoration: line-through;
+  text-decoration-color: rgba(255, 255, 255, 0.5);
+}
+
+/* ============================================================
+   Card Body — tighter
+   ============================================================ */
+.card-body {
+  padding: 0.85rem 1rem;
+}
+
+.candidate-name {
+  margin: 0 0 0.15rem 0;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--navy-800);
+  font-family: var(--font-display);
+}
+
+.candidate-position {
+  color: var(--slate-500);
+  font-size: 0.8rem;
+  margin: 0 0 0.6rem 0;
+  font-weight: 500;
+}
+
+.candidate-term-expires {
+  font-size: 0.78rem;
+  color: var(--slate-600);
+  margin: 0 0 0.55rem;
+  padding: 0.35rem 0.5rem;
+  background: color-mix(in srgb, var(--navy-850) 8%, var(--slate-50));
+  border-radius: 6px;
+  border-left: 3px solid var(--navy-850);
+}
+
+.candidates-hub .candidate-term-expires {
+  color: var(--navy-900);
+  background: color-mix(in srgb, var(--sky-500) 10%, var(--gold-50));
+  border-left-color: var(--sky-700);
+}
+
+.candidate-bio {
+  font-size: 0.8rem;
+  margin-bottom: 0.6rem;
+  color: var(--slate-600);
+  line-height: 1.55;
+}
+
+.candidate-bio p {
+  margin: 0.25rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.candidate-bio strong {
+  color: var(--navy-800);
+  min-width: 60px;
+}
+
+.candidate-bio .notes {
+  font-style: italic;
+  color: var(--slate-500);
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed var(--slate-200);
+  font-size: 0.75rem;
+}
+
+/* Finance Section */
+.candidate-finance {
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--green-500) 8%, var(--slate-50)) 0%,
+    color-mix(in srgb, var(--green-500) 14%, var(--slate-100)) 100%
+  );
+  border: 1px solid color-mix(in srgb, var(--green-500) 35%, var(--slate-200));
+  padding: 0.75rem;
+  border-radius: 6px;
+  margin-bottom: 0.65rem;
+}
+
+.candidate-finance h5 {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.78rem;
+  color: var(--green-600);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.candidate-finance h5::before {
+  content: "\1F4B0";
+  font-size: 0.8rem;
+}
+
+.finance-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.78rem;
+  margin: 0.3rem 0;
+  padding: 0.2rem 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--green-500) 22%, var(--slate-200));
+}
+
+.finance-row:last-child {
+  border-bottom: none;
+}
+
+.finance-label {
+  color: var(--navy-900);
+  font-weight: 700;
+}
+
+.finance-value {
+  font-weight: 700;
+  color: var(--green-600);
+}
+
+.finance-value.negative {
+  color: var(--red-600);
+}
+
+.candidate-finance p {
+  margin: 0;
+  font-size: 0.78rem;
+}
+
+.finance-note {
+  color: var(--slate-600);
+  font-style: italic;
+  text-align: center;
+}
+
+/* Social Links */
+.candidate-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.45rem 0.7rem;
+  min-height: 44px;
+  min-width: 44px;
+  background: var(--slate-100);
+  color: var(--slate-600);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  border: 1px solid var(--slate-200);
+}
+
+.social-link:hover {
+  background: var(--blue-600);
+  color: white;
+  border-color: var(--blue-600);
+  transform: translateY(-1px);
+}
+
+/* No Candidates */
+.no-candidates {
+  padding: 2rem;
+  text-align: center;
+  color: var(--slate-500);
+  font-style: italic;
+  background: var(--slate-50);
+  border-radius: 8px;
+  margin: 1rem;
+}
+
+/* Coming Soon */
+.coming-soon {
+  text-align: center;
+  padding: 3rem 2rem;
+  color: var(--slate-400);
+  font-style: italic;
+  background: var(--slate-50);
+  border-radius: 12px;
+  border: 2px dashed var(--slate-200);
+}
+
+/* ============================================================
+   Municipal city blocks
+   ============================================================ */
+.municipal-city-block {
+  position: relative;
+  margin-bottom: 2.5rem;
+  padding: 1.5rem 1.25rem 0.25rem;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  overflow: hidden;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.municipal-city-block::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--city-seal-url);
+  background-repeat: no-repeat;
+  background-position: 92% 45%;
+  background-size: min(280px, 42vw);
+  opacity: 0.14;
+  pointer-events: none;
+  transition: opacity 0.35s ease, transform 0.45s ease;
+}
+
+.municipal-city-block:hover {
+  border-color: rgba(251, 191, 36, 0.35);
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.2);
+}
+
+.municipal-city-block:hover::before {
+  opacity: 0.2;
+  transform: scale(1.04);
+}
+
+.municipal-city-block__header {
+  position: relative;
+  z-index: 1;
+  margin-bottom: 0.5rem;
+}
+
+.municipal-city-block__title {
+  margin: 0;
+  font-size: 1.35rem;
+  color: var(--gold-50);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.municipal-city-block__hint {
+  margin: 0.35rem 0 0;
+  font-size: 0.82rem;
+  color: var(--slate-350);
+}
+
+.municipal-city-block__races {
+  position: relative;
+  z-index: 1;
+}
+
+/* ============================================================
+   Font override for card body in hub
+   ============================================================ */
+.candidates-hub .card-body,
+.candidates-hub .candidate-bio,
+.candidates-hub .candidate-links,
+.candidates-hub .office-details {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Hub race cards: light surfaces — enforce readable navy/slate text */
+.candidates-hub .candidate-card .candidate-name {
+  color: var(--navy-900);
+}
+
+.candidates-hub .candidate-card .candidate-position {
+  color: var(--slate-600);
+}
+
+.candidates-hub .candidate-card .candidate-bio {
+  color: var(--navy-700);
+}
+
+.candidates-hub .candidate-card .candidate-bio strong {
+  color: var(--navy-900);
+}
+
+.candidates-hub .candidate-card .candidate-bio .notes {
+  color: var(--slate-600);
+  border-top-color: var(--slate-300);
+}
+
+.candidates-hub .no-candidates {
+  color: var(--navy-800);
+  background: color-mix(in srgb, var(--slate-100) 85%, var(--gold-50));
+  border: 1px solid color-mix(in srgb, var(--gold-600) 25%, var(--slate-200));
+}
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+@media (max-width: 768px) {
+  .candidates-section {
+    padding: 1rem 0.5rem;
+  }
+
+  .candidates-section h1 {
+    font-size: 1.75rem;
+  }
+
+  .tab-nav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding: 0.5rem;
+  }
+
+  .tab-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .tab-btn {
+    padding: 0.85rem 1rem;
+    flex-shrink: 0;
+    font-size: 0.85rem;
+  }
+
+  .tab-icon {
+    font-size: 1.1rem;
+  }
+
+  .candidates-grid {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+    gap: 0.85rem;
+  }
+
+  .race-header {
+    flex-direction: column;
+    gap: 0.75rem;
+    text-align: center;
+    padding: 1.25rem 1rem;
+  }
+
+  .race-header h3 {
+    font-size: 1.1rem;
+  }
+
+  .office-details {
+    padding: 1rem;
+  }
+
+  .office-details__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .challengers-row {
+    grid-template-columns: 1fr;
+  }
+
+  .candidate-card--featured {
+    max-width: none;
+    width: 100%;
+  }
+}
+
+/* ============================================================
+   Tab banner — patriotic flag headers
+   ============================================================ */
+.tab-banner {
+  position: relative;
+  width: 100%;
+  height: 160px;
+  overflow: hidden;
+  border-radius: 12px 12px 0 0;
+  opacity: 0.5;
+  transform-origin: left center;
+  margin-bottom: 0.75rem;
+  pointer-events: none;
+  border-bottom: 3px solid var(--gold-600);
+}
+
+.tab-banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    transparent 10%,
+    rgba(11, 20, 32, 0.3) 50%,
+    rgba(15, 35, 60, 0.8) 78%,
+    var(--navy-850) 100%
+  );
+  pointer-events: none;
+}
+
+.tab-banner--us-flag {
+  background:
+    linear-gradient(#002868, #002868) no-repeat 0 0 / 40% 53.85%,
+    repeating-linear-gradient(
+      to bottom,
+      #bf0a30 0, #bf0a30 7.692%,
+      #fff 7.692%, #fff 15.385%
+    );
+}
+
+.tab-banner--us-flag::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40%;
+  height: 53.85%;
+  background:
+    radial-gradient(circle, rgba(255,255,255,0.9) 1.3px, transparent 1.3px),
+    radial-gradient(circle, rgba(255,255,255,0.9) 1.3px, transparent 1.3px);
+  background-size: 13px 17px, 13px 17px;
+  background-position: 4px 3px, 10.5px 11.5px;
+  pointer-events: none;
+}
+
+.tab-banner--tx-flag {
+  background:
+    linear-gradient(#002868, #002868) no-repeat 0 0 / 33.33% 100%,
+    linear-gradient(to bottom, #fff 50%, #bf0a30 50%) no-repeat 33.33% 0 / 66.67% 100%;
+}
+
+.tab-banner--tx-flag::before {
+  content: "\2605";
+  position: absolute;
+  top: 50%;
+  left: 16.67%;
+  transform: translate(-50%, -50%);
+  font-size: 3rem;
+  color: white;
+  line-height: 1;
+  pointer-events: none;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+}
+
+/* ============================================================
+   Animation for tab content
+   ============================================================ */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.tab-content.active > * {
+  animation: fadeInUp 0.4s ease forwards;
+}
+
+.tab-content.active > *:nth-child(1) { animation-delay: 0.05s; }
+.tab-content.active > *:nth-child(2) { animation-delay: 0.1s; }
+.tab-content.active > *:nth-child(3) { animation-delay: 0.15s; }
+.tab-content.active > *:nth-child(4) { animation-delay: 0.2s; }
+.tab-content.active > *:nth-child(5) { animation-delay: 0.25s; }
+
+@media (max-width: 768px) {
+  .tab-banner {
+    height: 80px;
+  }
+
+  .tab-banner--tx-flag::before {
+    font-size: 2rem;
+  }
+}
+
+/* ============================================================
+   Skip link
+   ============================================================ */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 1rem;
+  padding: 0.75rem 1.5rem;
+  background: var(--gold-400);
+  color: var(--navy-900);
+  font-weight: 700;
+  font-size: 0.875rem;
+  border-radius: var(--radius-md);
+  z-index: 100;
+  text-decoration: none;
+  transition: top 0.15s ease;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+/* ============================================================
+   Incumbent strip — full-width banner above featured card header
+   ============================================================ */
+.incumbent-strip {
+  background: var(--green-600);
+  color: var(--slate-100);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 0.3rem;
+}
+
+/* ============================================================
+   Party-colored headshot placeholders
+   ============================================================ */
+.headshot-placeholder--REP {
+  background: linear-gradient(135deg, var(--red-600) 0%, var(--red-700) 100%);
+}
+
+.headshot-placeholder--DEM {
+  background: linear-gradient(135deg, var(--blue-600) 0%, var(--blue-700) 100%);
+}
+
+.headshot-placeholder--GRE {
+  background: linear-gradient(135deg, var(--green-500) 0%, var(--green-600) 100%);
+}
+
+.headshot-placeholder--IND {
+  background: linear-gradient(135deg, var(--purple-600) 0%, var(--purple-500) 100%);
+}
+
+/* ============================================================
+   Eliminated group — collapsed by default via <details>
+   ============================================================ */
+.eliminated-group {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--slate-200);
+}
+
+.candidates-hub .eliminated-group {
+  border-top-color: rgba(255, 255, 255, 0.12);
+}
+
+.eliminated-group__summary {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--slate-500);
+  cursor: pointer;
+  padding: 0.35rem 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.eliminated-group__summary::-webkit-details-marker {
+  display: none;
+}
+
+.eliminated-group__summary::before {
+  content: "\25B6";
+  font-size: 0.55rem;
+  transition: transform 0.2s ease;
+}
+
+.eliminated-group[open] > .eliminated-group__summary::before {
+  transform: rotate(90deg);
+}
+
+.candidates-hub .eliminated-group__summary {
+  color: var(--slate-400);
+}
+
+.eliminated-group .challengers-row {
+  margin-top: 0.5rem;
+  opacity: 0.75;
+}
+
+.candidate-card.eliminated .headshot,
+.candidate-card.eliminated .headshot-placeholder {
+  filter: grayscale(0.6);
+  opacity: 0.7;
+}
+
+.candidate-card.eliminated .candidate-name {
+  text-decoration: line-through;
+  text-decoration-color: var(--slate-400);
+}
+
+/* ============================================================
+   Focus-visible — keyboard navigation rings
+   ============================================================ */
+.tab-btn:focus-visible {
+  outline: 3px solid var(--gold-400);
+  outline-offset: -3px;
+}
+
+.candidate-card:focus-visible,
+.race-card:focus-visible {
+  outline: 3px solid var(--gold-400);
+  outline-offset: 3px;
+}
+
+.social-link:focus-visible {
+  outline: 2px solid var(--gold-400);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tab-content,
+  .tab-content.active,
+  .tab-btn,
+  .tab-icon,
+  .race-card,
+  .candidate-card,
+  .general-election-banner,
+  .election-badge,
+  .municipal-city-block,
+  .municipal-city-block::before,
+  .tab-banner,
+  .skip-link,
+  .eliminated-group,
+  .social-link {
+    transition: none !important;
+    animation: none !important;
+  }
+
+  .tab-content.active > * {
+    animation: none !important;
+  }
+
+  .candidate-card:hover,
+  .race-card:hover,
+  .municipal-city-block:hover::before {
+    transform: none !important;
+  }
+}

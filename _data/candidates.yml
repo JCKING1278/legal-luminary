@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-23'
   infinite_scroll:
     page_size: 20
   scope:
@@ -9,9 +9,9 @@ metadata:
   - Bell County elected offices on 2026 ballot where listed
   - Killeen mayor and council (seated until next municipal election)
   - Central Texas College trustees (major elections in odd years; confirm with CTC)
-  fec_note: "US House TX-31 filers below match texas_candidates.csv. Seated Representative\
-    \ is Roger Williams (house.gov); CSV lists different incumbent flag for one TX-31\
-    \ row\u2014verify against SOS."
+  fec_note: "US House TX-31: post\u2011March 2026 primary, site lists general matchup\
+    \ only (John R. Carter vs. Justin Early). Verify certification with Texas SOS and\
+    \ FEC."
 candidates:
 - id: 20
   name: Bill Schumann
@@ -610,472 +610,57 @@ candidates:
   instagram_url: https://www.instagram.com/peteflores_tx/
   linkedin_url: https://senate.texas.gov/member.php?d=24
 - id: 1
-  name: Roger Williams
-  position: US Representative, Texas Congressional District 31
+  name: John R. Carter
+  position: U.S. Representative, Texas 31st Congressional District
   office: US House TX-31
   jurisdiction: United States
   status: incumbent
   party: REP
   election_phase: general_2026
-  FEC: 'no'
-  facebook_url: https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/
-  website_url: null
-  notes: Incumbent per U.S. House; not listed as TX-31 filer in texas_candidates.csv
-    export.
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: null
-  largest_financial_supporter_work_for: null
-  instagram_url: https://www.instagram.com/reprwilliams/
-  linkedin_url: https://www.linkedin.com/posts/nsbaadvocate_sbc-2025-representative-roger-williams-activity-7293626336168820737-xBYJ
-- id: 2
-  name: William P. Abel
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: REP
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/groups/1722046241675118/posts/2007716099774796/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: The Tribune is committed to full transparency
-    into our funding. Below you can see total donations from this calendar year and
-    gifts pledged through the end of ...
-  largest_financial_supporter_work_for: null
-  instagram_url: https://www.instagram.com/reel/DVbdXM0iMkO/
-  linkedin_url: https://www.linkedin.com/in/will-abel-055a1010
-- id: 3
-  name: David Lee Berry
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: REP
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/KCBDNewsChannel11/posts/meet-the-candidates-part-two-there-are-seven-candidates-hoping-to-earn-your-vote/1371321371695185/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: Incumbent John Carter is up for election in Texas'
-    31st Congressional District in 2026. This race is rated as Solid R. We estimate
-    that $2.12M has been ...
-  largest_financial_supporter_work_for: null
-  instagram_url: https://www.instagram.com/p/DQupCPKib5S/
-  linkedin_url: null
-- id: 4
-  name: John R. Carter
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: REP
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/
-  website_url: null
-  notes: FEC marks INCUMBENT for TX-31 in this CSV; cross-check with current seated
-    member.
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: 'NOTE: All the numbers on this page are for the
-    2023 - 2024 election cycle and based on Federal Election Commission data released
-    electronically on 09/16/25 for ...'
-  largest_financial_supporter_work_for: null
-  instagram_url: https://www.savephr.org/
-  linkedin_url: https://www.linkedin.com/in/matthew-key-460b48a3?trk=pub-pbmap
-- id: 5
-  name: Steven Clay Dowell Jr.
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: REP
-  election_phase: primary_2026
   FEC: 'yes'
   facebook_url: null
-  website_url: null
+  website_url: https://carter.house.gov
+  notes: >-
+    Incumbent; won March 2026 Republican primary with a majority in a crowded field.
+    General election Nov. 3, 2026. Confirm certification with Texas SOS / FEC.
   group_city: ''
   group_state: Texas
   group_function: Legislative
   office_group_key: US House TX-31
   office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: "2024 Races \xB7 Princess Vlandamir (Washington\
-    \ Senate) \xB7 Michael A Brown (District of Columbia District 00) \xB7 Andrew\
-    \ Aasen (Oregon District 05) \xB7 Chad Abbey (Texas ..."
+  office_incumbent_name: John R. Carter
+  office_opponents_platform_key_facts: []
+  headshot_url: https://unitedstates.github.io/images/congress/450x550/C001051.jpg
+  largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
-  instagram_url: https://stevendowell.com/
-  linkedin_url: https://stevendowell.com/
+  instagram_url: null
+  linkedin_url: null
 - id: 6
   name: Justin Early
-  position: US Representative, Texas Congressional District 31 (candidate)
+  position: U.S. Representative candidate, Texas 31st Congressional District
   office: US House TX-31
   jurisdiction: United States
   status: candidate
   party: DEM
-  election_phase: primary_2026
+  election_phase: general_2026
   FEC: 'yes'
-  facebook_url: https://www.facebook.com/wearemarchon/posts/stuart-whitlow-for-congress-is-our-pick-for-us-house-tx-31stuart-whitlow-is-a-fi/1341895734645553/
-  website_url: null
+  facebook_url: null
+  website_url: https://votejustinearly.com
+  notes: >-
+    Democratic nominee after March 2026 primary (~57.6% vs. Stuart Whitlow per NBC News).
+    Faces Carter in November general. Confirm certification with Texas SOS.
   group_city: ''
   group_state: Texas
   group_function: Legislative
   office_group_key: US House TX-31
   office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: John Cornyn, Ken Paxton and Wesley Hunt are the
-    Republicans vying for the job. Jasmine Crockett and James Talarico are the Democrats
-    ...
+  office_incumbent_name: John R. Carter
+  office_opponents_platform_key_facts: []
+  headshot_url: null
+  largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
-  instagram_url: https://www.facebook.com/WhitlowForCongress/mentions/
+  instagram_url: null
   linkedin_url: https://communityimpact.com/austin/georgetown/election/2026/01/28/qa-hear-from-the-democratic-candidates-running-for-us-house-district-31/
-- id: 7
-  name: Abhiram Garapati
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: REP
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/groups/1722046241675118/posts/2007714723108267/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: 'Candidate for House Texas - 31 ID: H0TX31030
-    REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary.
-    About this candidate.'
-  largest_financial_supporter_work_for: null
-  instagram_url: null
-  linkedin_url: https://www.linkedin.com/in/abhiram-garapati-58b5b2180
-- id: 8
-  name: Valentina Gomez Noriega
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: REP
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/groups/950642862921772/posts/1618133492839369/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: 'Candidate for House Texas - 31 ID: H6TX31078
-    REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary.
-    About this candidate.'
-  largest_financial_supporter_work_for: null
-  instagram_url: null
-  linkedin_url: https://ballotpedia.org/Valentina_Gomez_Noriega
-- id: 9
-  name: Raymond H. Hamden II
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: REP
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/470924206103859/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: "HAMDEN, RAYMOND H II, Candidate for House Texas\
-    \ - 31, ID: H6TX31086, REPUBLICAN PARTY, Financial summary, Election 2026, Time\
-    \ period: 2025\u20132026."
-  largest_financial_supporter_work_for: null
-  instagram_url: https://www.instagram.com/p/DVOy8F4mipb/
-  linkedin_url: https://www.linkedin.com/in/raymond-hamden-659a3447
-- id: 10
-  name: Elvis Arturo Lossa
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: REP
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/people/Elvis-Lossa-for-Congress-TX-31/61584903837276/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: 'Candidate for House Texas - 31 ID: H6TX31177
-    REPUBLICAN PARTY. Financial Summary. Total raised; Total spent; Cash summary.
-    About this candidate.'
-  largest_financial_supporter_work_for: null
-  instagram_url: https://www.instagram.com/elvisforcongress/
-  linkedin_url: https://www.linkedin.com/in/elvis-a-lossa
-- id: 11
-  name: Jack McConnell
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: REP
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/jackfortexas/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: 'NOTE: All the numbers on this page are for the
-    2019 - 2024 election cycle and based on Federal Election Commission data released
-    electronically on 09/16/25 for ...'
-  largest_financial_supporter_work_for: null
-  instagram_url: https://www.instagram.com/p/DQNP5LoCVYm/
-  linkedin_url: https://www.linkedin.com/in/jackmcconnell
-- id: 12
-  name: Gregory James Stoker
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: GRE
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/greg.stoker.7583/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: 'Greg Stoker for Texas, district 31. # A former
-    U.S. Army Ranger and neighbor who refuses corporate and foreign-influenced money.
-    #VoteGreen.'
-  largest_financial_supporter_work_for: null
-  instagram_url: https://www.instagram.com/greg.j.stoker/
-  linkedin_url: null
-- id: 13
-  name: Brian Trautner
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: DEM
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/kdhnews/posts/brian-trautner-d-hutto-cannot-sit-on-the-sidelines-any-longer/1288097353264416/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: Contributor, Occupation, Date, Amount, Recipient.
-    BIANCONI, DAVID WESTERVILLE, OH, Retired, 10/18/24, $25,000, Red Senate PAC. COX,
-    BOBBY
-  largest_financial_supporter_work_for: null
-  instagram_url: null
-  linkedin_url: https://www.linkedin.com/in/brian-trautner-6a609813b
-- id: 14
-  name: Stuart Norman Whitlow
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: DEM
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/groups/1627499834129884/posts/4350125031867337/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: OpenSecrets.org geographical data of contributions
-    to candidates running in the Texas congressional race in 2024. Contributions for
-    candidates are broken ...
-  largest_financial_supporter_work_for: null
-  instagram_url: https://www.instagram.com/p/DVYufOLINEX/
-  linkedin_url: https://www.linkedin.com/in/stuart-whitlow-18887a10
-- id: 15
-  name: Michael Howard Williams
-  position: US Representative, Texas Congressional District 31 (candidate)
-  office: US House TX-31
-  jurisdiction: United States
-  status: candidate
-  party: REP
-  election_phase: primary_2026
-  FEC: 'yes'
-  facebook_url: https://www.facebook.com/DrMaryTalleyBowden/posts/22-candidates-running-for-congress-have-signed-our-pledge-calling-for-the-covid-/936734028884543/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Legislative
-  office_group_key: US House TX-31
-  office_up_for_election_this_year: true
-  office_incumbent_name: Roger Williams
-  office_opponents_platform_key_facts:
-  - 'BUNN, from the Committee on Claims: A bill (H. R.. 8070) for the relief of Henry
-    A. Webb. (Report No. 195~.) PUBLIC BILLS, MEMORIALS, AND RESOLUTIONS ...'
-  - Wood, Jno 85 Montague. Warington, W H 56 Fulton. Walsh, J 15 Monroe place. Waldron,
-    H Jr 22 Clinton. Williams, J H 89 Atlantic.
-  - Academy of Science. 195. Adjutant General . '. 153-154. Agricultural Department.
-    137-141. Appeal Board. 145. Attorney General. 136. Auditor of State.
-  headshot_url: https://williams.house.gov/sites/evo-subsites/williams.house.gov/files/styles/large/public/wysiwyg_uploaded/2022%20Rep%20Williams%20Official%20Portrait.jpg?itok=anP2X6eG
-  largest_financial_supporter_name: Explore current and historic federal campaign
-    finance data on the new fec.gov. Look at totals and trends, and see how candidates
-    and committees raise and ...
-  largest_financial_supporter_work_for: null
-  instagram_url: https://www.sanmarcostx.gov/4598/Vision-SMTX-Process
-  linkedin_url: https://www.linkedin.com/in/michael-williams-008998104
 - id: 34
   name: Ramon Alvarez
   position: Killeen City Council, At-Large / Mayor Pro Tem

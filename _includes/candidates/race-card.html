@@ -1,0 +1,153 @@
+{% assign all_candidates = site.data.candidates.candidates %}
+{% if site.data.candidates_placeholders and site.data.candidates_placeholders.candidates %}
+  {% assign all_candidates = all_candidates | concat: site.data.candidates_placeholders.candidates %}
+{% endif %}
+{% assign race_candidates = all_candidates | where: "office_group_key", include.race %}
+{% assign election_label = include.election_label | default: "Primary March 3, 2026" %}
+{% assign office = site.data.offices[include.race] %}
+
+{% assign race_up_for_election = false %}
+{% for rc in race_candidates %}
+  {% if rc.office_up_for_election_this_year == true %}
+    {% assign race_up_for_election = true %}
+  {% endif %}
+{% endfor %}
+
+{% assign incumbents = race_candidates | where: "status", "incumbent" %}
+{% assign use_flat_grid = false %}
+{% assign featured = "" %}
+
+{% if incumbents.size > 1 %}
+  {% assign use_flat_grid = true %}
+{% elsif incumbents.size == 1 %}
+  {% assign featured = incumbents.first %}
+{% elsif race_candidates.size == 1 %}
+  {% assign featured = race_candidates.first %}
+{% elsif race_candidates.size > 1 %}
+  {% assign featured = race_candidates.first %}
+{% endif %}
+
+<div class="race-card" data-race="{{ include.race | escape }}">
+  <div class="race-header">
+    <div class="race-header-titles">
+      <h3>{% if office and office.formal_title %}{{ office.formal_title }}{% else %}{{ include.race }}{% endif %}</h3>
+      <div class="race-header-chips">
+        {% if race_up_for_election %}
+        <span class="race-chip race-chip--election">Up for election</span>
+        {% endif %}
+        <span class="election-badge">{{ election_label }}</span>
+      </div>
+    </div>
+  </div>
+
+  {% if office %}
+  <div class="office-details">
+    {% if office.description %}
+    <p class="office-details__desc">{{ office.description }}</p>
+    {% endif %}
+    <dl class="office-details__grid">
+      {% if office.term_length %}
+      <div class="office-details__item">
+        <dt>Term</dt>
+        <dd>{{ office.term_length }}</dd>
+      </div>
+      {% endif %}
+      {% if office.election_cycle %}
+      <div class="office-details__item">
+        <dt>Election cycle</dt>
+        <dd>{{ office.election_cycle }}</dd>
+      </div>
+      {% endif %}
+      {% if office.jurisdiction %}
+      <div class="office-details__item">
+        <dt>Jurisdiction</dt>
+        <dd>{{ office.jurisdiction }}</dd>
+      </div>
+      {% endif %}
+      {% if office.previous_holder %}
+      <div class="office-details__item">
+        <dt>Previous / current holder</dt>
+        <dd>{{ office.previous_holder }}</dd>
+      </div>
+      {% endif %}
+      {% if office.salary %}
+      <div class="office-details__item">
+        <dt>Salary</dt>
+        <dd>{{ office.salary }}</dd>
+      </div>
+      {% endif %}
+    </dl>
+  </div>
+  {% endif %}
+
+  {% if race_candidates.size == 0 %}
+  <p class="no-candidates">No candidates registered for this race yet.</p>
+  {% elsif use_flat_grid %}
+  <div class="candidates-grid candidates-grid--flat">
+    {% for candidate in race_candidates %}
+      {% include candidates/candidate-card.html candidate=candidate mode="featured" %}
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="race-card-body">
+    <div class="candidate-featured-wrap">
+      {% include candidates/candidate-card.html candidate=featured mode="featured" %}
+    </div>
+    {% assign challenger_count = 0 %}
+    {% for candidate in race_candidates %}
+      {% unless candidate.id == featured.id %}
+        {% assign challenger_count = challenger_count | plus: 1 %}
+      {% endunless %}
+    {% endfor %}
+    {% if challenger_count > 0 %}
+    <div class="challengers-section">
+      {% assign active_count = 0 %}
+      {% for candidate in race_candidates %}
+        {% unless candidate.id == featured.id %}
+          {% unless candidate.status == "eliminated" %}
+            {% assign active_count = active_count | plus: 1 %}
+          {% endunless %}
+        {% endunless %}
+      {% endfor %}
+
+      {% if active_count > 0 %}
+      <h4 class="challengers-heading">Also running</h4>
+      <div class="candidates-row challengers-row">
+        {% for candidate in race_candidates %}
+          {% unless candidate.id == featured.id %}
+            {% unless candidate.status == "eliminated" %}
+              {% include candidates/candidate-card.html candidate=candidate mode="challenger" %}
+            {% endunless %}
+          {% endunless %}
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% assign eliminated_count = 0 %}
+      {% for candidate in race_candidates %}
+        {% unless candidate.id == featured.id %}
+          {% if candidate.status == "eliminated" %}
+            {% assign eliminated_count = eliminated_count | plus: 1 %}
+          {% endif %}
+        {% endunless %}
+      {% endfor %}
+
+      {% if eliminated_count > 0 %}
+      <details class="eliminated-group">
+        <summary class="eliminated-group__summary">Eliminated in primary ({{ eliminated_count }})</summary>
+        <div class="candidates-row challengers-row">
+          {% for candidate in race_candidates %}
+            {% unless candidate.id == featured.id %}
+              {% if candidate.status == "eliminated" %}
+                {% include candidates/candidate-card.html candidate=candidate mode="challenger" %}
+              {% endif %}
+            {% endunless %}
+          {% endfor %}
+        </div>
+      </details>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>

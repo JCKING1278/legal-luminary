@@ -1,0 +1,91 @@
+{% assign c = include.candidate %}
+{% assign mode = include.mode | default: "featured" %}
+<div class="candidate-card candidate-card--{{ mode }}
+  {% if c.status == 'incumbent' %}incumbent{% endif %}
+  {% if c.status == 'primary_winner' %}primary-winner{% endif %}
+  {% if c.status == 'eliminated' %}eliminated{% endif %}">
+  {% if c.status == 'incumbent' and mode == 'featured' %}
+  <div class="incumbent-strip">Incumbent</div>
+  {% endif %}
+  <div class="card-header">
+    {% if c.headshot_url and c.headshot_url != '' and c.headshot_url != 'null' %}
+    <img src="{{ c.headshot_url }}" alt="{{ c.name }}" class="headshot" width="120" height="150" loading="lazy">
+    {% else %}
+    <div class="headshot-placeholder headshot-placeholder--{{ c.party }}">
+      <span>{{ c.name | slice: 0, 1 }}</span>
+    </div>
+    {% endif %}
+    <div class="card-badges">
+      {% if c.status == 'incumbent' %}
+      <span class="badge incumbent-badge">Incumbent</span>
+      {% endif %}
+      {% if c.status == 'primary_winner' %}
+      <span class="badge winner-badge">Primary Winner</span>
+      {% endif %}
+      {% if c.status == 'eliminated' %}
+      <span class="badge eliminated-badge">Eliminated</span>
+      {% endif %}
+      {% if c.party %}
+      <span class="badge party-badge {{ c.party }}">{{ c.party }}</span>
+      {% endif %}
+      {% if c.demo %}
+      <span class="badge demo-badge">Sample data</span>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="card-body">
+    <h4 class="candidate-name">{{ c.name }}</h4>
+    <p class="candidate-position">{{ c.position }}</p>
+    <p class="candidate-term-expires"><strong>Term expires:</strong> {{ c.term_expires | default: "TBD (sample)" }}</p>
+
+    <div class="candidate-bio">
+      <p><strong>Status:</strong> {{ c.status | replace: "_", " " | capitalize }}</p>
+      <p><strong>Election:</strong> {{ c.election_phase | replace: "_", " " | capitalize }}</p>
+      {% if c.fec == 'yes' %}
+      <p><strong>FEC:</strong> Registered</p>
+      {% endif %}
+      {% if c.notes %}
+      <p class="notes">{{ c.notes }}</p>
+      {% endif %}
+    </div>
+
+    {% if c.finance %}
+    <div class="candidate-finance">
+      <h5>Campaign Finance</h5>
+      <div class="finance-row">
+        <span class="finance-label">Raised:</span>
+        <span class="finance-value">${{ c.finance.raised | default: 0 }}</span>
+      </div>
+      <div class="finance-row">
+        <span class="finance-label">Cash on Hand:</span>
+        <span class="finance-value {% if c.finance.cash < 0 %}negative{% endif %}">${{ c.finance.cash | default: 0 }}</span>
+      </div>
+      <div class="finance-row">
+        <span class="finance-label">Individual:</span>
+        <span class="finance-value">{{ c.finance.individual_pct }}%</span>
+      </div>
+    </div>
+    {% elsif c.fec == 'yes' %}
+    <div class="candidate-finance">
+      <h5>Campaign Finance</h5>
+      <p class="finance-note">Reports pending</p>
+    </div>
+    {% endif %}
+
+    <div class="candidate-links">
+      {% if c.facebook_url and c.facebook_url != '' %}
+      <a href="{{ c.facebook_url }}" target="_blank" rel="noopener" class="social-link" title="Facebook">FB</a>
+      {% endif %}
+      {% if c.instagram_url and c.instagram_url != '' %}
+      <a href="{{ c.instagram_url }}" target="_blank" rel="noopener" class="social-link" title="Instagram">IG</a>
+      {% endif %}
+      {% if c.linkedin_url and c.linkedin_url != '' %}
+      <a href="{{ c.linkedin_url }}" target="_blank" rel="noopener" class="social-link" title="LinkedIn">LI</a>
+      {% endif %}
+      {% if c.website_url and c.website_url != '' %}
+      <a href="{{ c.website_url }}" target="_blank" rel="noopener" class="social-link" title="Website">Web</a>
+      {% endif %}
+    </div>
+  </div>
+</div>

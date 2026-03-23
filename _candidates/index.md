@@ -1,235 +1,198 @@
 ---
-layout: candidates
-title: Candidates
+layout: default
+title: "Candidates - Elected Officials & Races"
 permalink: /candidates/
-hero: true
-hero_title: "Candidates"
-hero_subtitle: "Texas House District 11, Senate District 22, "
-description: "Central Texas candidates and elected offices. Interactive list is generated from _data/candidates.yml."
+description: "Browse candidates for Federal, State, County, Municipal, and Education offices in Central Texas"
+body_class: page-candidates
 ---
 
-<p class="intro-text">The candidate list and detail panel above are built from <code>_data/candidates.yml</code> (metadata, offices, social links, and research notes). Update that file to change who appears and what shows when you click a name.</p>
+<link rel="stylesheet" href="{{ '/assets/css/candidates-new.css' | relative_url }}">
 
-## Elected Officials
+<section class="candidates-hub candidates-section" aria-label="Candidates and elected offices">
+  <a href="#candidates-content" class="skip-link">Skip to candidates</a>
+  <h1>Candidates & Elected Officials</h1>
+  <p class="section-intro">Research candidates running for office in Bell County and Central Texas. Data sourced from FEC filings, campaign disclosures, and Ballotpedia. Rows marked <strong>Sample data</strong> are placeholders for layout until verified. <a href="{{ '/candidates/FINANCIALS/' | relative_url }}">View FEC Finance Report</a></p>
 
-County and city governments in Bell County, starting with county officials then cities (Belton through Morgan's Point Resort).
+  <div class="tab-nav-sentinel"></div>
+  {% include candidates/tab-navigation.html %}
 
-### Bell County Officials
+  <div id="candidates-content"></div>
+  <div class="tab-content active" id="tab-federal" role="tabpanel" aria-labelledby="tab-btn-federal">
+    <div class="tab-banner tab-banner--us-flag" aria-hidden="true"></div>
+    <h2>Federal offices</h2>
 
-| Position | Name |
-|----------|------|
-| County Judge | David Blackburn |
-| Sheriff | Bill Cooke |
-| District Attorney | Stephanie Newell |
-| County Attorney | Jim Nichols |
-| District Clerk | Office of the District Clerk |
-| County Clerk | Office of the County Clerk |
+    <div class="general-election-banner">
+      <span class="general-election-banner__badge">November 3, 2026</span>
+      <strong>General election:</strong> Confirm matchups with the Secretary of State and FEC.
+    </div>
 
-**Website**: [bellcountytx.com](https://www.bellcountytx.com)
+    <h3 class="candidates-subsection-title">U.S. Senate</h3>
+    {% include candidates/race-card.html race="US Senate TX - Cornyn" %}
+    {% include candidates/race-card.html race="US Senate TX - Cruz" %}
 
-### Belton
+    <h3 class="candidates-subsection-title">U.S. House of Representatives</h3>
+    {% include candidates/race-card.html race="US House TX-31" election_label="General November 3, 2026" %}
 
-| Position | Name | Term Expires |
-|----------|------|--------------|
-| Mayor | David K. Leigh | May 2027 |
-| Mayor Pro Tem | John R. Holmes Sr. | May 2026 |
-| Councilmember Place 2 | Dave Covington | May 2026 |
-| Councilmember Place 3 | Craig Pearson | May 2027 |
-| Councilmember Place 5 | Daniel Bucher | May 2028 |
-| Councilmember Place 6 | Luke Potts | May 2028 |
-| Councilmember Place 7 | Stephanie O'Banion | May 2028 |
+    <section class="candidates-prose-block candidates-prose-block--compact" id="tx-31-primary-context" aria-labelledby="tx-31-primary-heading">
+      <h3 id="tx-31-primary-heading" class="candidates-prose-block__title">TX-31: after the March 2026 primaries</h3>
+      <p class="candidates-prose-block__sources"><strong>Sources:</strong> <a href="https://www.nbcnews.com/politics/2026-primary-elections/texas-us-house-district-31-results">NBC News 2026 TX-31 results</a>, <a href="https://www.kten.com/john-carter-wins-republican-nomination-for-u-s-house-in-texas-31st-congressional-district/article_a01067b4-85ce-5780-a780-dae34b99a1fe.html">KTEN (Carter, GOP)</a>, <a href="https://www.sos.texas.gov/">Texas Secretary of State</a> (official certification).</p>
+      <p>The March 2026 primaries narrowed each party to one nominee for U.S. House District 31. <strong>Republican:</strong> Incumbent <strong>John Carter</strong> won the GOP nomination with a majority in a large field (reported near 60%). <strong>Democratic:</strong> <strong>Justin Early</strong> won the nomination over Stuart Whitlow (reported ~57.6% / ~42.4%). The <strong>November 3, 2026</strong> general is between those two nominees. This page lists only that incumbent and challenger; primary also-rans were removed from the data.</p>
+    </section>
+  </div>
 
-**Website**: [beltontexas.gov](https://www.beltontexas.gov/government/city_council/index.php)
+  <div class="tab-content" id="tab-state" role="tabpanel" aria-labelledby="tab-btn-state">
+    <div class="tab-banner tab-banner--tx-flag" aria-hidden="true"></div>
+    <h2>State offices</h2>
 
-### Harker Heights
+    <h3 class="candidates-subsection-title">Statewide Executive</h3>
+    {% include candidates/race-card.html race="TX Governor" %}
+    {% include candidates/race-card.html race="TX Attorney General" election_label="Primary runoff May 26, 2026 · General Nov 3, 2026" %}
+    {% include candidates/race-card.html race="TX Comptroller" %}
 
-| Position | Name | Term Expires |
-|----------|------|--------------|
-| Mayor | Michael Blomquist | May 2026 |
-| Mayor Pro Tem | Lynda Nash | May 2026 |
-| Councilmember Place 1 | Brian Burt | May 2028 |
-| Councilmember Place 2 | Shane Hodyniak | May 2027 |
-| Councilmember Place 3 | Jesse Lee Myles III | May 2028 |
-| Councilmember Place 5 | Sam Halabi | May 2027 |
+    <h3 class="candidates-subsection-title">Texas Senate</h3>
+    {% include candidates/race-card.html race="State Senate TX-24" %}
 
-**Website**: [harkerheights.gov](https://www.harkerheights.gov/mayor-city-council)
+    <h3 class="candidates-subsection-title">Texas House of Representatives</h3>
+    {% include candidates/race-card.html race="State House TX-54" %}
 
-### Temple
+    <section class="candidates-prose-block" id="comptroller-primary-context" aria-labelledby="comptroller-primary-heading">
+      <h3 id="comptroller-primary-heading" class="candidates-prose-block__title">Comptroller primary (what deep-search would have synthesized)</h3>
+      <p class="candidates-prose-block__sources"><strong>Sources:</strong> <a href="https://en.wikipedia.org/wiki/2026_Texas_Comptroller_of_Public_Accounts_election">2026 Texas Comptroller election (Wikipedia)</a>, <a href="https://www.texastribune.org/2026/03/03/don-huffines-christi-craddick-kelly-hancock-texas-gop-primary-comptroller/">Texas Tribune — Huffines wins GOP primary</a>, <a href="https://www.statesman.com/politics/election/2026/article/comptroller-primary-results-21329222.php">Austin American-Statesman / general matchup</a>.</p>
 
-| Position | Name | District |
-|---------|------|----------|
-| Mayor | Tim Davis | At-Large |
-| Mayor Pro Tem | Jessica Walker | District 1 |
-| Councilmember | Dr. Zoe Grant | District 2 |
-| Councilmember | Karl Kuykendall | District 3 |
-| Councilmember | Mike Pilkington | District 4 |
+      <h4 class="candidates-prose-block__h">Office (why it mattered in 2026)</h4>
+      <p>The Comptroller of Public Accounts is Texas’s chief financial officer: tax collection, revenue estimating (drives the Legislature’s budget process), disbursements, and oversight of large state spending. Texas Tribune notes the comptroller helps oversee execution of a very large biennial budget.</p>
 
-**Website**: [templetx.gov](https://www.templetx.gov/departments/city_council/meet_the_council.php)
+      <h4 class="candidates-prose-block__h">Why the seat was open</h4>
+      <p>Glenn Hegar was elected comptroller in 2014 and reelected (including 2022). He resigned effective July 1, 2025 to become chancellor of the Texas A&amp;M University System (Wikipedia, Tribune).</p>
+      <p>Kelly Hancock (former state senator) became acting comptroller after being positioned as chief clerk and taking office in July 2025; the appointment followed a path around limits on appointing sitting legislators (Wikipedia, Tribune).</p>
 
-### Killeen
+      <h4 class="candidates-prose-block__h">Republican primary — candidates and result</h4>
+      <p><strong>Candidates:</strong> Don Huffines, Kelly Hancock (acting), Christi Craddick (Railroad Commissioner), Michael Berlanga.</p>
+      <p>March 2026 primary vote totals (Wikipedia):</p>
+      <div class="candidates-prose-block__table-wrap">
+        <table class="candidates-prose-block__table">
+          <thead>
+            <tr><th scope="col">Candidate</th><th scope="col">Votes</th><th scope="col">%</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">Don Huffines</th><td>1,191,830</td><td>57.4</td></tr>
+            <tr><th scope="row">Kelly Hancock</th><td>491,358</td><td>23.7</td></tr>
+            <tr><th scope="row">Christi Craddick</th><td>312,626</td><td>15.1</td></tr>
+            <tr><th scope="row">Michael Berlanga</th><td>80,985</td><td>3.9</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p><strong>No runoff</strong> — Huffines won outright.</p>
 
-| Position | Name |
-|----------|------|
-| Mayor | Riakos Adams |
-| Mayor Pro Tem | Ramon Alvarez |
-| Councilmember District 3 | Nina Cobb |
-| Councilmember At-Large | Joseph Solomon |
+      <h4 class="candidates-prose-block__h">Themes / money / endorsements (high level)</h4>
+      <ul class="candidates-prose-block__list">
+        <li><strong>Texas Tribune:</strong> Huffines cast himself as “DOGE-ing” state government, self-funded heavily, late Trump endorsement, plus Cruz and other MAGA-aligned figures; Abbott spent heavily for Hancock in the final stretch (~two-thirds of Hancock’s late spend from Abbott’s war chest in one cited report). Total spend among the top three was on the order of $16M vs. much less for Hegar’s 2022 primary at the same point.</li>
+        <li>Hancock pitched implementation of school vouchers, ICE collaboration grants, and DEI-related contracting changes; Craddick also emphasized audits/waste and culture-war touchpoints. Tribune also notes legislature has narrowed some comptroller audit authority over time.</li>
+      </ul>
 
-**Website**: [killeentexas.gov](https://www.killeentexas.gov/city-council)
+      <h4 class="candidates-prose-block__h">Democratic primary</h4>
+      <p><strong>Candidates:</strong> Sarah Eckhardt (state senator, SD-14), Savant Moore, Michael Lange.</p>
+      <p>Results (Wikipedia):</p>
+      <div class="candidates-prose-block__table-wrap">
+        <table class="candidates-prose-block__table">
+          <thead>
+            <tr><th scope="col">Candidate</th><th scope="col">Votes</th><th scope="col">%</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">Sarah Eckhardt</th><td>1,317,024</td><td>64.1</td></tr>
+            <tr><th scope="row">Savant Moore</th><td>392,043</td><td>19.1</td></tr>
+            <tr><th scope="row">Michael Lange</th><td>346,484</td><td>16.9</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Eckhardt switched from a congressional path to comptroller near the filing deadline (Wikipedia).</p>
 
-### Nolanville
+      <h4 class="candidates-prose-block__h">General election (November 3, 2026)</h4>
+      <p>Don Huffines (R) vs. Sarah Eckhardt (D). Texas has not elected a Democratic comptroller since the 1990s (Tribune).</p>
 
-| Position | Name |
-|----------|------|
-| Mayor | Andy Williams |
-| Mayor Pro Tem | James Lynn Bilberry |
-| Councilmember Seat 1 | Karishma Talbott |
-| Councilmember Seat 2 | Juanita Sims |
-| Councilmember Seat 3 | Tanara Grisham |
-| Councilmember Seat 4 | Mikayla Mondragon |
+      <h4 class="candidates-prose-block__h">Libertarian line</h4>
+      <p>Wikipedia lists Alonzo Echavarria-Garza as a declared Libertarian convention candidate.</p>
+    </section>
+  </div>
 
-**Website**: [nolanvilletx.gov](https://www.nolanvilletx.gov/)
+  <div class="tab-content" id="tab-county" role="tabpanel" aria-labelledby="tab-btn-county">
+    <h2>County offices</h2>
+    {% include candidates/race-card.html race="Bell County DA" %}
+    {% include candidates/race-card.html race="Bell County Commissioner P4" %}
+    {% include candidates/race-card.html race="Bell JP P4 Place 2" %}
+  </div>
 
-### Salado
+  <div class="tab-content" id="tab-municipal" role="tabpanel" aria-labelledby="tab-btn-municipal">
+    <h2>Municipal offices</h2>
+    {% include candidates/municipal-by-city.html %}
+  </div>
 
-| Position | Name |
-|----------|------|
-| Mayor | (vacant) |
-| Mayor Pro Tem | Zach Hurst |
-| Alderman | Neil Dunch |
-| Alderman | James (Jim) Lassiter |
-| Alderman | Allen Sandor |
-| Alderman | (vacant) |
+  <div class="tab-content" id="tab-education" role="tabpanel" aria-labelledby="tab-btn-education">
+    <h2>Education</h2>
+    {% include candidates/race-card.html race="SBOE TX-10" %}
+    {% include candidates/race-card.html race="CTC Trustee Place 1" %}
+    {% include candidates/race-card.html race="CTC Trustee Place 2" %}
+    {% include candidates/race-card.html race="CTC Trustee Place 3" %}
+    {% include candidates/race-card.html race="CTC Trustee Place 4" %}
+  </div>
+</section>
 
-**Website**: [saladotx.gov](https://www.saladotx.gov/board-aldermen)
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const tabs = document.querySelectorAll('.tab-btn');
+  const contents = document.querySelectorAll('.tab-content');
 
-### Moody
+  tabs.forEach(tab => {
+    tab.addEventListener('click', function() {
+      const targetId = this.dataset.tab;
 
-| Position | Name |
-|----------|------|
-| Mayor | Charleen Dowell |
-| Alderperson | Cody Goodwin |
-| Alderperson | John Carpenter |
-| Alderperson | Carol Haas |
-| Alderperson | Richard Moore |
-| Alderperson | Michael Bransford |
+      tabs.forEach(t => {
+        t.classList.remove('active');
+        t.setAttribute('aria-selected', 'false');
+        t.setAttribute('tabindex', '-1');
+      });
 
-**Website**: [moodytx.gov](https://moodytx.gov/city/)
+      contents.forEach(c => c.classList.remove('active'));
 
-### Troy
+      this.classList.add('active');
+      this.setAttribute('aria-selected', 'true');
+      this.setAttribute('tabindex', '0');
 
-| Position | Name |
-|----------|------|
-| Mayor | Michael Morgan |
-| Mayor Pro Tem | Laurie Bailey |
-| Councilmember | Leland Boykin |
-| Councilmember | Brett Hanson |
-| Councilmember | James Hicks |
-| Councilmember | Paul Ramirez |
+      const targetContent = document.getElementById('tab-' + targetId);
+      if (targetContent) {
+        targetContent.classList.add('active');
+        targetContent.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
 
-**Website**: [cityoftroy.us](https://www.cityoftroy.us/10878/city-council)
+    tab.addEventListener('keydown', function(e) {
+      if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
+        const currentIndex = Array.from(tabs).indexOf(this);
+        let newIndex;
+        if (e.key === 'ArrowRight') {
+          newIndex = currentIndex === tabs.length - 1 ? 0 : currentIndex + 1;
+        } else {
+          newIndex = currentIndex === 0 ? tabs.length - 1 : currentIndex - 1;
+        }
+        tabs[newIndex].focus();
+        tabs[newIndex].click();
+      }
+    });
+  });
 
-### Bartlett
+  const hash = window.location.hash.replace('#', '');
+  if (hash && document.getElementById('tab-' + hash)) {
+    const btn = document.querySelector('[data-tab="' + hash + '"]');
+    if (btn) btn.click();
+  }
 
-| Position | Name | Term Expires |
-|----------|------|-------------|
-| Mayor | Chad Mees | 2026 |
-| Mayor Pro Tem | Vickie Cooper | 2026 |
-| Councilmember Place 1 | Gayle Jones | 2027 |
-| Councilmember Place 3 | Jesse Luna | 2027 |
-| Councilmember Place 4 | Jackie Ivicic | 2026 |
-| Councilmember Place 5 | Thomas Zimmer | 2027 |
-
-**Website**: [bartlett-tx.us](https://www.bartlett-tx.us/citycouncil)
-
-### Holland
-
-| Position | Name | Term |
-|----------|------|------|
-| Mayor | Johnny Kallus | 2023-2025 |
-| Mayor Pro Tem | AJ Hill | 2025-2027 |
-| Councilmember Seat 1 | Oscar Perez | 2025-2027 |
-| Councilmember Seat 2 | Barbara Critchfield | 2023-2025 |
-| Councilmember Seat 3 | Dale Rendon | 2025-2027 |
-| Councilmember Seat 4 | Laura Cosper | 2023-2025 |
-
-**Website**: [cityofholland.org](https://cityofholland.org/mayor-and-city-council)
-
-### Little River-Academy
-
-| Position | Name |
-|----------|------|
-| Mayor | Domingo Montalbo |
-| Councilmember | Elmer Williams |
-| Councilmember | Russ Nelson |
-| Councilmember | David Newsome |
-| Councilmember | Robert Kirkpatrick |
-| Councilmember | James Baker |
-
-**Website**: [littleriveracademy.us](https://www.littleriveracademy.us/city-council/)
-
-### Rogers
-
-| Position | Name |
-|----------|------|
-| Mayor | Jeff Watson |
-| Mayor Pro Tem | Ernest Stroud |
-| Councilmember | Robyn Skrhak |
-| Councilmember | Joshua Norsworthy |
-| Councilmember | Mallory Anthony |
-| Councilmember | Doyle Ray Harris |
-
-**Website**: [cityofrogerstx.gov](https://www.cityofrogerstx.gov/)
-
-### Morgan's Point Resort
-
-| Position | Name |
-|----------|------|
-| Mayor | James Snyder |
-| Mayor Pro Tem | Roxanne Stryker |
-| Councilmember | Stephen Bishop |
-| Councilmember | Dorothy Allyn |
-| Councilmember | Samuel Pallin |
-| Councilmember | Bruce Leonhardt |
-
-**Website**: [morganspointresorttx.com](https://morganspointresorttx.com/)
-
-## Elected Judges
-
-Bell County district courts, county courts at law, and justices of the peace. Term expiration and reelection years will be added when available. Texas district and county court judges typically serve 4-year terms; JP terms vary by precinct.
-
-{% assign dir = site.data.bell_county_directory %}
-
-### District Courts
-
-| Court | Judge |
-|-------|-------|
-{% for court in dir.district_courts %}| {{ court.name }} | {{ court.judge }} |
-{% endfor %}
-
-### County Courts at Law
-
-| Court | Judge |
-|-------|-------|
-{% for court in dir.county_courts_at_law %}| {{ court.name }} | {{ court.judge }} |
-{% endfor %}
-
-### Justices of the Peace
-
-| Court | Judge |
-|-------|-------|
-{% for jp in dir.justice_of_the_peace %}| {{ jp.name }} | {{ jp.judge }} |
-{% endfor %}
-
-## Other Elected Offices
-
-State and federal officials and Texas elections-related agencies relevant to the area. Names and terms will be filled once researched.
-
-| Office | Notes |
-|--------|--------|
-| **State Comptroller** | *To be added.* [comptroller.texas.gov](https://comptroller.texas.gov) |
-| **State Governor** | *To be added.* |
-| **U.S. Senators** (2) | *To be added.* |
-| **U.S. Congressman** | District(s) covering Bell County / Texas HD 11 — *to be added.* |
-| **Secretary of State** | Chief elections officer for Texas (appointed by governor). *To be added.* [sos.texas.gov](https://www.sos.texas.gov/) |
-| **Texas Ethics Commission** | Campaign finance and ethics; oversees political contributions and lobbyist registration. [ethics.state.tx.us](https://www.ethics.state.tx.us/) |
+  var sentinel = document.querySelector('.tab-nav-sentinel');
+  var tabNav = document.querySelector('.tab-nav');
+  if (sentinel && tabNav && window.IntersectionObserver) {
+    var obs = new IntersectionObserver(function(entries) {
+      tabNav.classList.toggle('tab-nav--stuck', !entries[0].isIntersecting);
+    }, { threshold: 0 });
+    obs.observe(sentinel);
+  }
+});
+</script>
