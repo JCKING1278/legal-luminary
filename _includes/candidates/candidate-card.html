@@ -1,5 +1,19 @@
 {% assign c = include.candidate %}
 {% assign mode = include.mode | default: "featured" %}
+{% assign show_headshot = false %}
+{% assign has_headshot = c.headshot_url and c.headshot_url != '' and c.headshot_url != 'null' %}
+{% if has_headshot %}
+  {% assign show_headshot = true %}
+  {% if c.status != 'incumbent' and c.office_group_key and c.office_incumbent_name %}
+    {% assign incumbent_pool = site.data.candidates.candidates | where: "office_group_key", c.office_group_key | where: "name", c.office_incumbent_name %}
+    {% if incumbent_pool.size > 0 %}
+      {% assign incumbent_candidate = incumbent_pool.first %}
+      {% if incumbent_candidate.headshot_url and incumbent_candidate.headshot_url == c.headshot_url %}
+        {% assign show_headshot = false %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endif %}
 <div class="candidate-card candidate-card--{{ mode }}
   {% if c.status == 'incumbent' %}incumbent{% endif %}
   {% if c.status == 'primary_winner' %}primary-winner{% endif %}
@@ -8,7 +22,7 @@
   <div class="incumbent-strip">Incumbent</div>
   {% endif %}
   <div class="card-header">
-    {% if c.headshot_url and c.headshot_url != '' and c.headshot_url != 'null' %}
+    {% if show_headshot %}
     <img src="{{ c.headshot_url }}" alt="{{ c.name }}" class="headshot" width="120" height="150" loading="lazy">
     {% else %}
     <div class="headshot-placeholder headshot-placeholder--{{ c.party }}">

@@ -406,7 +406,7 @@ def enrich_candidates(
             incumb = office_incumbent[office]
             opponents = _pick_office_opponents_names(group)
 
-            # Headshot URL: prefer incumbent portrait.
+            # Office-level incumbent fallback headshot (used only when candidate-specific headshot missing).
             headshot_query = f"{incumb} headshot official portrait"
             office_headshot_url[office] = serp.google_images_headshot_url(headshot_query)
 
@@ -432,7 +432,12 @@ def enrich_candidates(
         c["office_opponents_platform_key_facts"] = list(
             office_opponents_platform_facts.get(office, [])
         )
-        c["headshot_url"] = office_headshot_url.get(office)
+        # Keep an existing candidate-specific headshot when present.
+        existing_headshot = c.get("headshot_url")
+        if existing_headshot:
+            c["headshot_url"] = existing_headshot
+        else:
+            c["headshot_url"] = None
 
         # Supporter fields default.
         c["largest_financial_supporter_name"] = None
@@ -475,6 +480,16 @@ def enrich_candidates(
             if not c.get("linkedin_url"):
                 li_query = f'{name} "{office}" "{city}" LinkedIn'
                 c["linkedin_url"] = serp.google_search_top_link(li_query)
+
+            # Candidate-specific headshots:
+            # never silently copy the incumbent image to every candidate in the office.
+            if not c.get("headshot_url"):
+                specific_query = f'{name} "{office}" "{city}" official headshot'
+                c["headshot_url"] = serp.google_images_headshot_url(specific_query)
+
+            # Final fallback: incumbents may use office-level incumbent image if still missing.
+            if not c.get("headshot_url") and _is_incumbent(c):
+                c["headshot_url"] = office_headshot_url.get(office)
 
     # Reorder candidates to cluster by opponent/office and show incumbents first.
     def sort_key(c: Dict[str, Any]) -> Tuple[str, str, str, int]:
