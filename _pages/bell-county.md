@@ -12,6 +12,11 @@ sources:
     evidence: "Official Bell County government website - verified by direct access"
     visited: true
     confirmed: true
+  - url: "https://www.bellcountytx.com/county_government/justice_of_the_peace/index.php"
+    label: "Bell County Justice of the Peace"
+    evidence: "Ground-truth directory used for all Bell County JP precinct and place validation."
+    visited: true
+    confirmed: true
 confidence:
   base: 0.707
   current: 0.81

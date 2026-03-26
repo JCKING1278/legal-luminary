@@ -98,7 +98,7 @@ candidates:
   - '... election - the three top vote-getters are elected as County Commissioners.
     The results were: Dawida(D) 27% Dunn (R) 26% :Cramner(R) 24 % Vuono (0) 23% The
     ...'
-  headshot_url: null
+  headshot_url: https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/8/ed/8ed67ba6-9fdc-11eb-93f0-0717e0675f16/607b7c70494ce.image.jpg
   largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
   instagram_url: https://www.facebook.com/bellcodems/posts/-stacey-wilson-for-county-commissioner-precinct-2-stacey-l-wilson-instagramcomst/1281821050654714/
@@ -127,7 +127,7 @@ candidates:
     risk analysis), and I have been hired as a data scientist ...
   - Pleadings Allowed; Form of Motions and Other Papers. 8. General Rules of Pleading.
     9. Pleading Special Matters. 10. Form of Pleadings.
-  headshot_url: null
+  headshot_url: https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/0/d0/0d0d83ac-8bf0-4b55-a0a1-853c4d270690/699108418a698.image.jpg
   largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
   instagram_url: https://www.mintmuseum.org/news/author/taylorsocialdesignhouse-com/
@@ -190,7 +190,7 @@ candidates:
     ...
   - The PRESIDENT pro tempore. Sixty-five Senators have an- swered to their names.
     A quorum is present. NOMINATION OF NAT GOLDSTEIN,.
-  headshot_url: null
+  headshot_url: https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/8/89/88970ff3-fcef-57a6-b898-cde53e954eda/698f913bcc816.image.jpg
   largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
   instagram_url: null
@@ -221,7 +221,7 @@ candidates:
     ...
   - The PRESIDENT pro tempore. Sixty-five Senators have an- swered to their names.
     A quorum is present. NOMINATION OF NAT GOLDSTEIN,.
-  headshot_url: null
+  headshot_url: https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/b/66/b662c147-deda-4fab-80be-540ec5b17f1c/698d1b6ab788c.image.jpg
   largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
   instagram_url: https://www.instagram.com/votewilkerson/
@@ -311,7 +311,7 @@ candidates:
     the benefits of gender equality and women's empowerment across the whole of ...
   - '[Senate Hearing 114-687] [From the U.S. Government Publishing Office] S. Hrg.
     114-687 U.S. NATIONAL SECURITY CHALLENGES AND ONGOING MILITARY OPERATIONS ...'
-  headshot_url: null
+  headshot_url: https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/e/43/e433d406-b0cf-11ef-b1f4-6b4c9c7d6bd2/674de9487cadd.image.jpg
   largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
   instagram_url: https://ppdphoto.photoshelter.com/archive/
@@ -405,35 +405,6 @@ candidates:
   largest_financial_supporter_work_for: null
   instagram_url: https://www.instagram.com/p/DQAbB8vEx07/
   linkedin_url: https://www.facebook.com/48hours/posts/killeen-texas-police-say-spc-corey-grafton-20-was-arrested-in-the-july-2019-deat/10160353098473496/
-- id: 27
-  name: Beatrice Cox
-  position: Justice of the Peace, Bell County Precinct 4, Place 2 (candidate)
-  office: Bell JP P4 Place 2
-  jurisdiction: Bell County
-  status: candidate
-  party: REP
-  election_phase: primary_2026
-  FEC: 'no'
-  facebook_url: https://www.facebook.com/BeaForJP/
-  website_url: null
-  group_city: ''
-  group_state: Texas
-  group_function: Judicial
-  office_group_key: Bell JP P4 Place 2
-  office_up_for_election_this_year: true
-  office_incumbent_name: Beatrice Cox
-  office_opponents_platform_key_facts:
-  - Biography. Ballotpedia did not receive biographical information for this candidate.
-    Elections. Democratic primary. Democratic primary ...
-  - Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on
-    the Killeen City Council, and LaTasha Quarles, who is a veteran ...
-  - Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas,
-    candidate 2026).
-  headshot_url: https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/5/1b/51b5ffd6-a000-43e5-bd25-8cdb6b8ec70c/69a35d5105bc8.image.jpg
-  largest_financial_supporter_name: null
-  largest_financial_supporter_work_for: null
-  instagram_url: https://bulletin.yale.edu/sites/default/files/yale-law-school-2025-2026.pdf
-  linkedin_url: https://www.linkedin.com/in/bea-cox-a19b6176
 - id: 28
   name: Latasha Carroway Quarles
   position: Justice of the Peace, Bell County Precinct 4, Place 2 (candidate)
@@ -450,25 +421,25 @@ candidates:
   group_function: Judicial
   office_group_key: Bell JP P4 Place 2
   office_up_for_election_this_year: true
-  office_incumbent_name: Beatrice Cox
+  office_incumbent_name: Nicola J. James
   office_opponents_platform_key_facts:
   - Biography. Ballotpedia did not receive biographical information for this candidate.
     Elections. Democratic primary. Democratic primary ...
-  - Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on
-    the Killeen City Council, and LaTasha Quarles, who is a veteran ...
+  - Candidates for this race include Nicola J. James, Jessica A. Gonzalez, and
+    LaTasha Carroway Quarles.
   - Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas,
     candidate 2026).
-  headshot_url: null
+  headshot_url: https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/d/ad/dad258c5-582c-49a9-9071-8d3586530f43/6990ce1254a8e.image.jpg
   largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
   instagram_url: https://www.facebook.com/GrizzysHoodNews/posts/court-records-reveal-that-frank-steven-demo-from-spring-branch-has-been-charged-/1333301018156382/
   linkedin_url: https://www.linkedin.com/in/latashaquarles
 - id: 29
   name: Nicola J. James
-  position: Justice of the Peace, Bell County Precinct 4, Place 2 (candidate)
+  position: Justice of the Peace, Bell County Precinct 4, Place 2
   office: Bell JP P4 Place 2
   jurisdiction: Bell County
-  status: candidate
+  status: incumbent
   party: DEM
   election_phase: primary_2026
   FEC: 'no'
@@ -479,12 +450,12 @@ candidates:
   group_function: Judicial
   office_group_key: Bell JP P4 Place 2
   office_up_for_election_this_year: true
-  office_incumbent_name: Beatrice Cox
+  office_incumbent_name: Nicola J. James
   office_opponents_platform_key_facts:
   - Biography. Ballotpedia did not receive biographical information for this candidate.
     Elections. Democratic primary. Democratic primary ...
-  - Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on
-    the Killeen City Council, and LaTasha Quarles, who is a veteran ...
+  - Candidates for this race include Nicola J. James, Jessica A. Gonzalez, and
+    LaTasha Carroway Quarles.
   - Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas,
     candidate 2026).
   headshot_url: https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/f/f9/ff9c5d41-cfc0-4c88-be04-fdb81f30bab6/6905f3e5e463a.image.png
@@ -509,18 +480,43 @@ candidates:
   group_function: Judicial
   office_group_key: Bell JP P4 Place 2
   office_up_for_election_this_year: true
-  office_incumbent_name: Beatrice Cox
+  office_incumbent_name: Nicola J. James
   office_opponents_platform_key_facts:
   - Biography. Ballotpedia did not receive biographical information for this candidate.
     Elections. Democratic primary. Democratic primary ...
-  - Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on
-    the Killeen City Council, and LaTasha Quarles, who is a veteran ...
+  - Candidates for this race include Nicola J. James, Jessica A. Gonzalez, and
+    LaTasha Carroway Quarles.
   - Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas,
     candidate 2026).
-  headshot_url: null
+  headshot_url: https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/b/fc/bfc394bf-fcb6-4957-8757-91afd549cc7b/69a7bfea5188e.image.jpg
   largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
   instagram_url: https://www.instagram.com/p/DU6yQ0ckjUF/
+  linkedin_url: null
+- id: 44
+  name: Gregory Johnson
+  position: Justice of the Peace, Bell County Precinct 4, Place 1
+  office: Bell JP P4 Place 1
+  jurisdiction: Bell County
+  status: incumbent
+  party: null
+  election_phase: seated
+  FEC: 'no'
+  facebook_url: null
+  website_url: https://www.bellcountytx.com/county_government/justice_of_the_peace/precinct_4_place_1/index.php
+  notes: Ground truth from Bell County JP Precinct 4 Place 1 page.
+  group_city: Killeen
+  group_state: Texas
+  group_function: Judicial
+  office_group_key: Bell JP P4 Place 1
+  office_up_for_election_this_year: false
+  office_incumbent_name: Gregory Johnson
+  office_opponents_platform_key_facts:
+  - Bell County JP P4 Place 1 officeholder listing and contact details.
+  headshot_url: https://www.bellcountytx.com/county_government/justice_of_the_peace/precinct_4_place_1/index.php
+  largest_financial_supporter_name: null
+  largest_financial_supporter_work_for: null
+  instagram_url: null
   linkedin_url: null
 - id: 17
   name: Brad Buckley
@@ -575,7 +571,7 @@ candidates:
     not worried about having to buy things out of their own pockets.
   - Bell County is one county that has seen a low voter turnout over the last several
     years. However, with a strong turnout, they could quickly flip ...
-  headshot_url: null
+  headshot_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Dawn_Richardson.jpg
   largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
   instagram_url: https://www.instagram.com/anewdawnfortexas/
@@ -656,7 +652,7 @@ candidates:
   office_up_for_election_this_year: true
   office_incumbent_name: John R. Carter
   office_opponents_platform_key_facts: []
-  headshot_url: null
+  headshot_url: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Justin_Early_20250701_092705.png
   largest_financial_supporter_name: null
   largest_financial_supporter_work_for: null
   instagram_url: null

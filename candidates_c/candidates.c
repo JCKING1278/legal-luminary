@@ -409,35 +409,6 @@
 //   largest_financial_supporter_work_for: null
 //   instagram_url: https://www.instagram.com/p/DQAbB8vEx07/
 //   linkedin_url: https://www.facebook.com/48hours/posts/killeen-texas-police-say-spc-corey-grafton-20-was-arrested-in-the-july-2019-deat/10160353098473496/
-// - id: 27
-//   name: Beatrice Cox
-//   position: Justice of the Peace, Bell County Precinct 4, Place 2 (candidate)
-//   office: Bell JP P4 Place 2
-//   jurisdiction: Bell County
-//   status: candidate
-//   party: REP
-//   election_phase: primary_2026
-//   FEC: 'no'
-//   facebook_url: https://www.facebook.com/BeaForJP/
-//   website_url: null
-//   group_city: ''
-//   group_state: Texas
-//   group_function: Judicial
-//   office_group_key: Bell JP P4 Place 2
-//   office_up_for_election_this_year: true
-//   office_incumbent_name: Beatrice Cox
-//   office_opponents_platform_key_facts:
-//   - Biography. Ballotpedia did not receive biographical information for this candidate.
-//     Elections. Democratic primary. Democratic primary ...
-//   - Incumbent judge, Nicola James, faces Jessica Gonzalez, who currently serves on
-//     the Killeen City Council, and LaTasha Quarles, who is a veteran ...
-//   - Jessica A. Gonzalez (Bell County Justice of the Peace Precinct 4, Place 2, Texas,
-//     candidate 2026).
-//   headshot_url: https://fineartamerica.com/images/artistlogos/beatrice-cox-1714984374-medium.jpg
-//   largest_financial_supporter_name: null
-//   largest_financial_supporter_work_for: null
-//   instagram_url: https://bulletin.yale.edu/sites/default/files/yale-law-school-2025-2026.pdf
-//   linkedin_url: https://www.linkedin.com/in/bea-cox-a19b6176
 // - id: 28
 //   name: Latasha Carroway Quarles
 //   position: Justice of the Peace, Bell County Precinct 4, Place 2 (candidate)
@@ -454,7 +425,7 @@
 //   group_function: Judicial
 //   office_group_key: Bell JP P4 Place 2
 //   office_up_for_election_this_year: true
-//   office_incumbent_name: Beatrice Cox
+//   office_incumbent_name: Nicola J. James
 //   office_opponents_platform_key_facts:
 //   - Biography. Ballotpedia did not receive biographical information for this candidate.
 //     Elections. Democratic primary. Democratic primary ...
@@ -469,10 +440,10 @@
 //   linkedin_url: https://www.linkedin.com/in/latashaquarles
 // - id: 29
 //   name: Nicola J. James
-//   position: Justice of the Peace, Bell County Precinct 4, Place 2 (candidate)
+//   position: Justice of the Peace, Bell County Precinct 4, Place 2
 //   office: Bell JP P4 Place 2
 //   jurisdiction: Bell County
-//   status: candidate
+//   status: incumbent
 //   party: DEM
 //   election_phase: primary_2026
 //   FEC: 'no'
@@ -483,7 +454,7 @@
 //   group_function: Judicial
 //   office_group_key: Bell JP P4 Place 2
 //   office_up_for_election_this_year: true
-//   office_incumbent_name: Beatrice Cox
+//   office_incumbent_name: Nicola J. James
 //   office_opponents_platform_key_facts:
 //   - Biography. Ballotpedia did not receive biographical information for this candidate.
 //     Elections. Democratic primary. Democratic primary ...
@@ -513,7 +484,7 @@
 //   group_function: Judicial
 //   office_group_key: Bell JP P4 Place 2
 //   office_up_for_election_this_year: true
-//   office_incumbent_name: Beatrice Cox
+//   office_incumbent_name: Nicola J. James
 //   office_opponents_platform_key_facts:
 //   - Biography. Ballotpedia did not receive biographical information for this candidate.
 //     Elections. Democratic primary. Democratic primary ...

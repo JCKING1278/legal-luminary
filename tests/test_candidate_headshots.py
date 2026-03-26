@@ -1,5 +1,6 @@
 from pathlib import Path
 
+import pytest
 import yaml
 
 
@@ -25,6 +26,17 @@ def _incumbent_record_for_office(candidates, office_group_key, incumbent_name):
     return None
 
 
+def _has_valid_headshot_url(value) -> bool:
+    if value is None:
+        return False
+    if not isinstance(value, str):
+        return False
+    v = value.strip()
+    if not v:
+        return False
+    return v.lower() != "null"
+
+
 def test_commissioner_p4_challengers_do_not_reuse_incumbent_headshot():
     candidates = _load_candidates()
     louie = _incumbent_record_for_office(
@@ -38,7 +50,10 @@ def test_commissioner_p4_challengers_do_not_reuse_incumbent_headshot():
     assert ernest is not None
 
     louie_headshot = louie.get("headshot_url")
-    assert louie_headshot, "Incumbent headshot should exist for comparison."
+    assert _has_valid_headshot_url(louie_headshot), (
+        "Incumbent headshot should exist for comparison (set headshot_url for Louie Minor "
+        "in _data/candidates.yml)."
+    )
 
     assert curtis.get("headshot_url") != louie_headshot
     assert ernest.get("headshot_url") != louie_headshot
@@ -47,34 +62,56 @@ def test_commissioner_p4_challengers_do_not_reuse_incumbent_headshot():
 def test_justice_p4_place2_challengers_do_not_reuse_incumbent_headshot():
     candidates = _load_candidates()
     incumbent = _incumbent_record_for_office(
-        candidates, "Bell JP P4 Place 2", "Beatrice Cox"
+        candidates, "Bell JP P4 Place 2", "Nicola J. James"
     )
     latasha = _by_name(candidates, "Latasha Carroway Quarles")
-    nicola = _by_name(candidates, "Nicola J. James")
     jessica = _by_name(candidates, "Jessica A. Gonzalez")
 
     assert incumbent is not None
     assert latasha is not None
-    assert nicola is not None
     assert jessica is not None
 
     incumbent_headshot = incumbent.get("headshot_url")
-    assert incumbent_headshot, "Incumbent headshot should exist for comparison."
+    assert _has_valid_headshot_url(incumbent_headshot), (
+        "Incumbent headshot should exist for comparison (set headshot_url for Nicola J. James "
+        "in _data/candidates.yml)."
+    )
 
     assert latasha.get("headshot_url") != incumbent_headshot
-    assert nicola.get("headshot_url") != incumbent_headshot
     assert jessica.get("headshot_url") != incumbent_headshot
 
 
-def _has_valid_headshot_url(value) -> bool:
-    if value is None:
-        return False
-    if not isinstance(value, str):
-        return False
-    v = value.strip()
-    if not v:
-        return False
-    return v.lower() != "null"
+def _candidate_headshot_cases():
+    """Return one test case per person in candidates.yml."""
+    candidates = _load_candidates()
+    cases = []
+    for c in candidates:
+        candidate_id = c.get("id")
+        name = c.get("name")
+        status = c.get("status")
+        office_group_key = c.get("office_group_key")
+        headshot_url = c.get("headshot_url")
+        if not name:
+            continue
+        cases.append((candidate_id, name, status, office_group_key, headshot_url))
+    return cases
+
+
+@pytest.mark.parametrize(
+    "candidate_id,name,status,office_group_key,headshot_url",
+    _candidate_headshot_cases(),
+    ids=lambda case: str(case),
+)
+def test_each_candidate_and_incumbent_has_valid_headshot(
+    candidate_id, name, status, office_group_key, headshot_url
+):
+    """
+    One unit test case per candidate/incumbent requiring a non-null headshot URL.
+    """
+    assert _has_valid_headshot_url(headshot_url), (
+        f"Missing/invalid headshot_url for id={candidate_id}, name={name}, "
+        f"status={status}, office_group_key={office_group_key}"
+    )
 
 
 def test_no_two_people_share_same_headshot_within_office():

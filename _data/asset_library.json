@@ -1,5 +1,246 @@
 {
   "generated_by": "Assets Manager and Data Analyst Agent",
-  "generated_at_utc": "2026-03-25T00:00:00Z",
-  "records": []
+  "generated_at_utc": "2026-03-25T21:42:03.304262+00:00",
+  "records": [
+    {
+      "id": "ed742028-eaec-48bd-897e-3ac082e5b9b6",
+      "title": "Discovery queue: legal",
+      "source_url": "https://www.google.com/search?q=legal",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:21:08.755093+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "5b69ccaa-364c-49ec-b314-ffb96059ae2e",
+      "title": "Discovery queue: luminary",
+      "source_url": "https://www.google.com/search?q=luminary",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:21:08.755093+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "4ab8f3dc-d403-40b6-aa3d-eafa73531c14",
+      "title": "Discovery queue: verify",
+      "source_url": "https://www.google.com/search?q=verify",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:21:08.755093+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "5ffbb007-719f-4091-ae7a-977cc06ee39b",
+      "title": "Discovery queue: parallel-update",
+      "source_url": "https://www.google.com/search?q=parallel-update",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:21:08.755093+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "07cbfdfe-eae1-428e-9873-0ccf6f9450f4",
+      "title": "Discovery queue: wiring",
+      "source_url": "https://www.google.com/search?q=wiring",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:21:08.755093+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "d6456c02-3cca-43a1-8efd-109ed7085f78",
+      "title": "Discovery queue: short",
+      "source_url": "https://www.google.com/search?q=short",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:21:08.755093+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "f3d86176-ad32-4bd2-809d-28ce974d990e",
+      "title": "Discovery queue: legal",
+      "source_url": "https://www.google.com/search?q=legal",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:39:27.374690+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "af710bc0-ad3d-491c-8aa6-a280bed52975",
+      "title": "Discovery queue: luminary",
+      "source_url": "https://www.google.com/search?q=luminary",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:39:27.374690+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "97ad030c-56a1-40d8-abf6-d3300fe383f6",
+      "title": "Discovery queue: maintain",
+      "source_url": "https://www.google.com/search?q=maintain",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:39:27.374690+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "f39380c0-6d76-4f46-8c74-96650238a988",
+      "title": "Discovery queue: candidate",
+      "source_url": "https://www.google.com/search?q=candidate",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:39:27.374690+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "5ad2ceb4-8500-489b-a6f9-7413971ed299",
+      "title": "Discovery queue: headshot",
+      "source_url": "https://www.google.com/search?q=headshot",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:39:27.374690+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "9a4b0caa-883c-469e-b7b9-776397c17253",
+      "title": "Discovery queue: provenance",
+      "source_url": "https://www.google.com/search?q=provenance",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:39:27.374690+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "d8caf33f-20a0-4bbe-837a-bfeca5a0089e",
+      "title": "Discovery queue: legal",
+      "source_url": "https://www.google.com/search?q=legal",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:40:15.035612+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "558f559e-f9ed-411b-ac5e-2f2623776eb3",
+      "title": "Discovery queue: luminary",
+      "source_url": "https://www.google.com/search?q=luminary",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:40:15.035612+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "70b3e863-a1c0-4bd6-8922-935a5c45ff1f",
+      "title": "Discovery queue: iterate",
+      "source_url": "https://www.google.com/search?q=iterate",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:40:15.035612+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "840fbe5e-8016-4b58-b0cf-2bfdcc83b433",
+      "title": "Discovery queue: headshot",
+      "source_url": "https://www.google.com/search?q=headshot",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:40:15.035612+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "94e8c686-2a56-48fa-a0be-e9a6c4c4b7eb",
+      "title": "Discovery queue: provenance",
+      "source_url": "https://www.google.com/search?q=provenance",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:40:15.035612+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "f7da8813-03a9-459a-a006-c6b30971e700",
+      "title": "Discovery queue: asset",
+      "source_url": "https://www.google.com/search?q=asset",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:40:15.035612+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "ad5fa694-a7bc-4b60-9e34-bd14ee69069d",
+      "title": "Discovery queue: legal",
+      "source_url": "https://www.google.com/search?q=legal",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:42:03.304262+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "2e20a927-1eb5-4513-bff3-f1b6dc5e2db7",
+      "title": "Discovery queue: luminary",
+      "source_url": "https://www.google.com/search?q=luminary",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:42:03.304262+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "220976d4-7d4b-4012-9534-faebe781d0f6",
+      "title": "Discovery queue: maintain",
+      "source_url": "https://www.google.com/search?q=maintain",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:42:03.304262+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "975e3da7-497d-4373-846b-1d98f4b457d9",
+      "title": "Discovery queue: candidate",
+      "source_url": "https://www.google.com/search?q=candidate",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:42:03.304262+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "c47a36e4-e6e0-4b57-9a0b-699c0c100033",
+      "title": "Discovery queue: headshot",
+      "source_url": "https://www.google.com/search?q=headshot",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:42:03.304262+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    },
+    {
+      "id": "382099d5-2052-4eb0-88af-924630a6cc7f",
+      "title": "Discovery queue: provenance",
+      "source_url": "https://www.google.com/search?q=provenance",
+      "asset_type": "search-seed",
+      "discovered_at_utc": "2026-03-25T21:42:03.304262+00:00",
+      "relevance": "candidate",
+      "used_in_paths": [],
+      "notes": "Seed query for continual web discovery (photos/media/sheets/pdfs/apis)."
+    }
+  ]
 }

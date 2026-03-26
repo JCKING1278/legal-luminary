@@ -54,3 +54,5 @@ tmp/
 temp/
 ._*
 ._
+*.pyc
+tests/__pycache__/test_candidate_headshots.cpython-314-pytest-9.0.2.pyc

@@ -119,6 +119,7 @@ body_class: page-candidates
     <h2>County offices</h2>
     {% include candidates/race-card.html race="Bell County DA" %}
     {% include candidates/race-card.html race="Bell County Commissioner P4" %}
+    {% include candidates/race-card.html race="Bell JP P4 Place 1" %}
     {% include candidates/race-card.html race="Bell JP P4 Place 2" %}
   </div>
 

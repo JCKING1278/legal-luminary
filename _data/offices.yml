@@ -187,12 +187,20 @@
   previous_holder: "Sample — verify with Bell County"
   jurisdiction: "Bell County Precinct 3"
 
+"Bell JP P4 Place 1":
+  formal_title: "Justice of the Peace, Precinct 4, Place 1"
+  description: "Small claims, Class C misdemeanors, truancy, evictions, and inquests for Precinct 4. Place 1 is one of two JP seats in this precinct."
+  term_length: "4 years"
+  election_cycle: "Partisan general election"
+  previous_holder: "Gregory Johnson (current incumbent)"
+  jurisdiction: "Bell County Precinct 4"
+
 "Bell JP P4 Place 2":
   formal_title: "Justice of the Peace, Precinct 4, Place 2"
   description: "Small claims, Class C misdemeanors, truancy, evictions, and inquests for Precinct 4. Place 2 is one of two JP seats in this precinct."
   term_length: "4 years"
   election_cycle: "Partisan general election"
-  previous_holder: "Nicola James (seeking re-election)"
+  previous_holder: "Nicola J. James (current incumbent)"
   jurisdiction: "Bell County Precinct 4"
 
 "SBOE TX-10":
