@@ -9,6 +9,8 @@ metadata:
   - Bell County elected offices on 2026 ballot where listed
   - Killeen mayor and council (seated until next municipal election)
   - Central Texas College trustees (major elections in odd years; confirm with CTC)
+  - TX Comptroller 2026 general — Don Huffines (R) vs. Sarah Eckhardt (D); Kelly Hancock
+    acting until successor is sworn in
   fec_note: "US House TX-31: post\u2011March 2026 primary, site lists general matchup\
     \ only (John R. Carter vs. Justin Early). Verify certification with Texas SOS and\
     \ FEC."
@@ -890,3 +892,57 @@ candidates:
   largest_financial_supporter_work_for: null
   instagram_url: https://archive.org/stream/The_Austin_Chronicle-2014-12-19/The_Austin_Chronicle-2014-12-19_djvu.txt
   linkedin_url: https://www.linkedin.com/in/anthony-kendrick-814576368
+- id: 45
+  name: Don Huffines
+  position: Texas Comptroller of Public Accounts candidate (Republican nominee)
+  office: TX Comptroller
+  jurisdiction: Texas
+  status: candidate
+  party: REP
+  election_phase: general_2026
+  FEC: 'no'
+  facebook_url: null
+  website_url: null
+  notes: >-
+    Won the March 2026 Republican primary outright (no runoff). Faces Sarah Eckhardt
+    in the November 3, 2026 general. Kelly Hancock is acting Comptroller until the
+    elected successor takes office. Verify certification with Texas Secretary of State.
+  group_city: ''
+  group_state: Texas
+  group_function: Executive
+  office_group_key: TX Comptroller
+  office_up_for_election_this_year: true
+  office_incumbent_name: Kelly Hancock
+  office_opponents_platform_key_facts: []
+  headshot_url: null
+  largest_financial_supporter_name: null
+  largest_financial_supporter_work_for: null
+  instagram_url: null
+  linkedin_url: null
+- id: 46
+  name: Sarah Eckhardt
+  position: Texas Comptroller of Public Accounts candidate (Democratic nominee)
+  office: TX Comptroller
+  jurisdiction: Texas
+  status: candidate
+  party: DEM
+  election_phase: general_2026
+  FEC: 'no'
+  facebook_url: null
+  website_url: null
+  notes: >-
+    Democratic nominee after March 2026 primary. Faces Don Huffines in the November
+    3, 2026 general. Kelly Hancock is acting Comptroller until the elected successor
+    takes office. Verify certification with Texas Secretary of State.
+  group_city: ''
+  group_state: Texas
+  group_function: Executive
+  office_group_key: TX Comptroller
+  office_up_for_election_this_year: true
+  office_incumbent_name: Kelly Hancock
+  office_opponents_platform_key_facts: []
+  headshot_url: null
+  largest_financial_supporter_name: null
+  largest_financial_supporter_work_for: null
+  instagram_url: null
+  linkedin_url: null

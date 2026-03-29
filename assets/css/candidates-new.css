@@ -69,13 +69,8 @@
 }
 
 /* ============================================================
-   Full-width layout: hide sidebar + recent articles
+   Candidates hub: no sidebar (layout); tab strip + panels inset 20% each side.
    ============================================================ */
-body.page-candidates .sidebar,
-body.page-candidates .recent-articles-section {
-  display: none !important;
-}
-
 body.page-candidates .content-wrapper {
   display: block;
 }
@@ -85,10 +80,36 @@ body.page-candidates .main-content {
   width: 100%;
 }
 
-body.page-candidates .container {
+body.page-candidates .site-main > .container {
   max-width: 100%;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+body.page-candidates .candidates-tab-stack {
+  margin-left: 20%;
+  margin-right: 20%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 900px) {
+  body.page-candidates .candidates-tab-stack {
+    margin-left: 8%;
+    margin-right: 8%;
+  }
+}
+
+@media (max-width: 600px) {
+  body.page-candidates .candidates-tab-stack {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+body.page-candidates .candidates-hub .tab-nav {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 /* ============================================================

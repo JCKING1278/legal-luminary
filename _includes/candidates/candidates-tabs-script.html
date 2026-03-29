@@ -1,0 +1,59 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const tabs = document.querySelectorAll('.tab-btn');
+  const contents = document.querySelectorAll('.tab-content');
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', function() {
+      const targetId = this.dataset.tab;
+
+      tabs.forEach(t => {
+        t.classList.remove('active');
+        t.setAttribute('aria-selected', 'false');
+        t.setAttribute('tabindex', '-1');
+      });
+
+      contents.forEach(c => c.classList.remove('active'));
+
+      this.classList.add('active');
+      this.setAttribute('aria-selected', 'true');
+      this.setAttribute('tabindex', '0');
+
+      const targetContent = document.getElementById('tab-' + targetId);
+      if (targetContent) {
+        targetContent.classList.add('active');
+        targetContent.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+
+    tab.addEventListener('keydown', function(e) {
+      if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
+        const currentIndex = Array.from(tabs).indexOf(this);
+        let newIndex;
+        if (e.key === 'ArrowRight') {
+          newIndex = currentIndex === tabs.length - 1 ? 0 : currentIndex + 1;
+        } else {
+          newIndex = currentIndex === 0 ? tabs.length - 1 : currentIndex - 1;
+        }
+        tabs[newIndex].focus();
+        tabs[newIndex].click();
+      }
+    });
+  });
+
+  const hash = window.location.hash.replace('#', '');
+  if (hash && document.getElementById('tab-' + hash)) {
+    const btn = document.querySelector('[data-tab="' + hash + '"]');
+    if (btn) btn.click();
+  }
+
+  var sentinel = document.querySelector('.tab-nav-sentinel');
+  var tabNav = document.querySelector('.tab-nav');
+  if (sentinel && tabNav && window.IntersectionObserver) {
+    var obs = new IntersectionObserver(function(entries) {
+      tabNav.classList.toggle('tab-nav--stuck', !entries[0].isIntersecting);
+    }, { threshold: 0 });
+    obs.observe(sentinel);
+  }
+});
+</script>

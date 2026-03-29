@@ -285,32 +285,6 @@ candidates:
     term_expires: "—"
     demo: true
 
-  - id: 812
-    name: Glenn Hegar
-    position: "Comptroller of Public Accounts of Texas"
-    office: "TX Comptroller"
-    jurisdiction: Texas
-    status: incumbent
-    party: REP
-    election_phase: primary_2026
-    FEC: "no"
-    facebook_url: null
-    website_url: https://comptroller.texas.gov
-    notes: "Serving since 2015. Responsible for the Biennial Revenue Estimate and state tax collection."
-    group_city: ""
-    group_state: Texas
-    group_function: Executive
-    office_group_key: "TX Comptroller"
-    office_up_for_election_this_year: true
-    office_incumbent_name: Glenn Hegar
-    office_opponents_platform_key_facts: []
-    headshot_url: null
-    instagram_url: null
-    linkedin_url: null
-    finance: null
-    term_expires: "January 2027"
-    demo: true
-
   - id: 820
     name: Henry Garza
     position: "District Attorney, 27th Judicial District"

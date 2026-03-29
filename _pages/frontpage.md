@@ -78,22 +78,48 @@ Main Phone: <a href="tel:+12549335100">(254) 933-5100</a><br>
 <a href="https://www.bellcountytx.com" target="_blank" rel="noopener">bellcountytx.com</a></p>
 </div>
 
-| Office | Phone |
-|---<!--
-  CONFIDENCE SCORE: 1.0
-  BASE: 0.707 | AHO_CORASICK_BOOST: 0.542
-  VALIDATION: +0.05 | AHO_CORASICK: +0.542
-  LAST_UPDATED: 2026-03-20
--->
------|-------|
-| **District Clerk** (felony filings, civil over $200K) | [(254) 933-5197](tel:+12549335197) |
-| **County Clerk** (misdemeanors, probate, records) | [(254) 933-5160](tel:+12549335160) |
-| **District Attorney** — Stephanie Newell | [(254) 933-5215](tel:+12549335215) |
-| **County Attorney** (misdemeanor prosecution) | [(254) 933-5161](tel:+12549335161) |
-| **Sheriff / Jail** (warrants, inmates) | [(254) 933-5400](tel:+12549335400) |
-| **Killeen Municipal Court** | [(254) 501-7850](tel:+12545017850) |
-| **Temple Municipal Court** | [(254) 298-5690](tel:+12542985690) |
-| **Belton Municipal Court** | [(254) 933-5828](tel:+12549335828) |
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Office</th>
+      <th scope="col">Phone</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>District Clerk</strong> (felony filings, civil over $200K)</td>
+      <td><a href="tel:+12549335197">(254) 933-5197</a></td>
+    </tr>
+    <tr>
+      <td><strong>County Clerk</strong> (misdemeanors, probate, records)</td>
+      <td><a href="tel:+12549335160">(254) 933-5160</a></td>
+    </tr>
+    <tr>
+      <td><strong>District Attorney</strong> — Stephanie Newell</td>
+      <td><a href="tel:+12549335215">(254) 933-5215</a></td>
+    </tr>
+    <tr>
+      <td><strong>County Attorney</strong> (misdemeanor prosecution)</td>
+      <td><a href="tel:+12549335161">(254) 933-5161</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sheriff / Jail</strong> (warrants, inmates)</td>
+      <td><a href="tel:+12549335400">(254) 933-5400</a></td>
+    </tr>
+    <tr>
+      <td><strong>Killeen Municipal Court</strong></td>
+      <td><a href="tel:+12545017850">(254) 501-7850</a></td>
+    </tr>
+    <tr>
+      <td><strong>Temple Municipal Court</strong></td>
+      <td><a href="tel:+12542985690">(254) 298-5690</a></td>
+    </tr>
+    <tr>
+      <td><strong>Belton Municipal Court</strong></td>
+      <td><a href="tel:+12549335828">(254) 933-5828</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <a href="/court-directory/" class="btn btn-primary">Full Court Directory with Judges & Addresses</a>
 

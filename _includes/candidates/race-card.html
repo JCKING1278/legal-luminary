@@ -64,6 +64,18 @@
         <dd>{{ office.jurisdiction }}</dd>
       </div>
       {% endif %}
+      {% if office.current_holder %}
+      <div class="office-details__item">
+        <dt>Current holder</dt>
+        <dd>{{ office.current_holder }}</dd>
+      </div>
+      {% endif %}
+      {% if office.selection %}
+      <div class="office-details__item">
+        <dt>How filled</dt>
+        <dd>{% if office.selection == 'appointed' %}Appointed{% else %}Elected{% endif %}</dd>
+      </div>
+      {% endif %}
       {% if office.previous_holder %}
       <div class="office-details__item">
         <dt>Previous / current holder</dt>

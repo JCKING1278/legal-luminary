@@ -52,11 +52,6 @@ navigation:
     url: /texas-law/
   - title: Bell County
     url: /bell-county/
-  - title: Candidates
-    url: /candidates/
-  - title: Corrections
-    url: /corrections/
-    alt: Validation and verification error registry
   - title: Defense Attorneys
     url: /defense/
   - title: Personal Injury

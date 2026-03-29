@@ -1,6 +1,9 @@
 # Office-level metadata for the candidates hub. Keyed by office_group_key.
+# selection: elected | appointed (how the office is filled under law / charter).
 "US Senate TX - Cornyn":
   formal_title: "U.S. Senator from Texas (Class II)"
+  current_holder: "John Cornyn (R)"
+  selection: elected
   description: "One of two senators representing Texas in the U.S. Senate. Votes on federal legislation, confirms presidential nominations, and ratifies treaties. Class II seat up for election in 2026."
   term_length: "6 years"
   election_cycle: "Class II; this seat contested 2026"
@@ -10,6 +13,8 @@
 
 "US Senate TX - Cruz":
   formal_title: "U.S. Senator from Texas (Class I)"
+  current_holder: "Ted Cruz (R)"
+  selection: elected
   description: "One of two senators representing Texas in the U.S. Senate. Votes on federal legislation, confirms presidential nominations, and ratifies treaties."
   term_length: "6 years"
   election_cycle: "Class I; next election 2030"
@@ -19,6 +24,8 @@
 
 "US House TX-31":
   formal_title: "U.S. Representative, Texas 31st Congressional District"
+  current_holder: "John Carter (R)"
+  selection: elected
   description: "Represents Central Texas in the U.S. House of Representatives, including Bell and Williamson counties and surrounding areas. Votes on federal legislation, appropriations, and oversight."
   term_length: "2 years"
   election_cycle: "Every even-numbered year"
@@ -28,6 +35,8 @@
 
 "TX Governor":
   formal_title: "Governor of Texas"
+  current_holder: "Greg Abbott (R)"
+  selection: elected
   description: "Chief executive of the State of Texas. Signs or vetoes legislation, commands the Texas National Guard, appoints agency heads and judges, and sets the legislative agenda through the State of the State address."
   term_length: "4 years"
   election_cycle: "Midterm years (2026, 2030, etc.); no term limits"
@@ -37,6 +46,8 @@
 
 "TX Attorney General":
   formal_title: "Attorney General of Texas"
+  current_holder: "Ken Paxton (R) — through end of term; successor takes office after Nov. 2026 general"
+  selection: elected
   description: "Chief legal officer of Texas. Represents the state in litigation, issues advisory opinions on state law, enforces consumer-protection and antitrust statutes, and oversees the Crime Victims' Compensation program. Incumbent Ken Paxton is not seeking re-election (running for U.S. Senate); March 3, 2026 primaries sent both parties to a May 26 runoff before the November 3 general."
   term_length: "4 years"
   election_cycle: "Midterm years (2026, 2030, etc.); 2026 open seat with May 26 primary runoff"
@@ -46,15 +57,19 @@
 
 "TX Comptroller":
   formal_title: "Comptroller of Public Accounts of Texas"
-  description: "Texas's chief financial officer. Collects state taxes and fees, estimates revenue for the biennial budget (the Biennial Revenue Estimate), manages state investments, and certifies the state budget to ensure it is balanced."
+  current_holder: "Kelly Hancock (R) — acting Comptroller since Glenn Hegar resigned July 1, 2025 (Hegar became Texas A&M System chancellor)"
+  selection: elected
+  description: "Texas's chief financial officer. Collects state taxes and fees, estimates revenue for the biennial budget (the Biennial Revenue Estimate), manages state investments, and certifies the state budget to ensure it is balanced. March 2026 Republican primary was won outright by Don Huffines; he faces Democratic nominee Sarah Eckhardt in the November 3, 2026 general election."
   term_length: "4 years"
-  election_cycle: "Midterm years (2026, 2030, etc.)"
-  previous_holder: "Glenn Hegar (R) — serving since January 2015"
+  election_cycle: "General Nov. 3, 2026 — Don Huffines (R) vs. Sarah Eckhardt (D); acting Comptroller Hancock serves until the winner is sworn in"
+  previous_holder: "Glenn Hegar (R) — elected comptroller 2015–2025; succeeded in day-to-day duties by Kelly Hancock as acting Comptroller after resignation"
   jurisdiction: "State of Texas"
   salary: "$153,750/year"
 
 "TX Secretary of State":
   formal_title: "Secretary of State of Texas"
+  current_holder: "Jane Nelson — appointed by Governor Abbott (Jan. 2023)"
+  selection: appointed
   description: "Texas's chief elections officer. Administers election law, certifies candidates and results, maintains business filings, and serves as the Governor's liaison for border and Mexican affairs. This is an appointed position — the Secretary is appointed by the Governor, not elected."
   term_length: "Serves at the pleasure of the Governor"
   election_cycle: "Appointed (not elected)"
@@ -64,6 +79,8 @@
 
 "State Senate TX-24":
   formal_title: "Texas State Senator, District 24"
+  current_holder: "Pete Flores (R)"
+  selection: elected
   description: "Represents Central Texas in the 31-member Texas Senate. Votes on state legislation, the biennial budget, and gubernatorial confirmations."
   term_length: "4 years"
   election_cycle: "Staggered; this seat next contested 2026"
@@ -73,6 +90,8 @@
 
 "State House TX-54":
   formal_title: "Texas State Representative, District 54"
+  current_holder: "Brad Buckley (R)"
+  selection: elected
   description: "Represents the district in the 150-member Texas House. Authors and votes on state legislation during biennial sessions."
   term_length: "2 years"
   election_cycle: "Every even-numbered year"
@@ -82,15 +101,19 @@
 
 "Bell County DA":
   formal_title: "District Attorney, 27th Judicial District"
+  current_holder: "Stephanie Newell"
+  selection: elected
   description: "Prosecutes felony criminal cases in Bell County. The 27th Judicial District encompasses Bell County. The DA's office works with law enforcement, presents cases to grand juries, and represents the state in district court proceedings."
   term_length: "4 years"
   election_cycle: "Partisan general election, even years"
-  previous_holder: "Henry Garza (R) — serving since 2013"
+  previous_holder: "Henry Garza (R) — preceded current DA"
   jurisdiction: "Bell County (27th Judicial District)"
   salary: "Set by state; supplemented by county"
 
 "Bell County Sheriff":
   formal_title: "Sheriff of Bell County"
+  current_holder: "Bill Cooke — sworn in Jan. 2025"
+  selection: elected
   description: "Chief law-enforcement officer of Bell County. Operates the county jail, serves civil process, and provides patrol services to unincorporated areas."
   term_length: "4 years"
   election_cycle: "Partisan general election, even years"
@@ -100,6 +123,8 @@
 
 "Bell County Commissioner P1":
   formal_title: "Bell County Commissioner, Precinct 1"
+  current_holder: "Bill Schumann"
+  selection: elected
   description: "One of four commissioners on the Bell County Commissioners Court. Oversees roads, bridges, and county services in Precinct 1; votes on the county budget and tax rate."
   term_length: "4 years"
   election_cycle: "Staggered with other precincts; partisan election"
@@ -109,6 +134,8 @@
 
 "Bell County Commissioner P2":
   formal_title: "Bell County Commissioner, Precinct 2"
+  current_holder: "Bobby Whitson"
+  selection: elected
   description: "Oversees roads, bridges, and county services in Precinct 2. Sits on the Commissioners Court which sets the county budget and tax rate."
   term_length: "4 years"
   election_cycle: "Partisan election, staggered"
@@ -117,6 +144,8 @@
 
 "Bell County Commissioner P3":
   formal_title: "Bell County Commissioner, Precinct 3"
+  current_holder: "John Driver"
+  selection: elected
   description: "Oversees roads, bridges, and county services in Precinct 3. Sits on the Commissioners Court."
   term_length: "4 years"
   election_cycle: "Partisan election, staggered"
@@ -125,6 +154,8 @@
 
 "Bell County Commissioner P4":
   formal_title: "Bell County Commissioner, Precinct 4"
+  current_holder: "Louie Minor"
+  selection: elected
   description: "Oversees roads, bridges, and county services in Precinct 4. Sits on the Commissioners Court."
   term_length: "4 years"
   election_cycle: "Partisan election, staggered"
@@ -133,62 +164,78 @@
 
 "Bell 169th District Judge":
   formal_title: "Judge, 169th Judicial District Court"
+  current_holder: "Gordon Adams"
+  selection: elected
   description: "Presides over felony criminal cases and civil matters exceeding county-court jurisdiction. The 169th is one of several district courts serving Bell County."
   term_length: "4 years"
   election_cycle: "Partisan general election"
-  previous_holder: "Sample — verify with Texas Judicial Branch"
+  previous_holder: "Gordon Adams (incumbent)"
   jurisdiction: "Bell County"
 
 "Bell 426th District Judge":
   formal_title: "Judge, 426th Judicial District Court"
+  current_holder: "Steven Duskie"
+  selection: elected
   description: "Handles felony criminal and civil matters for the 426th District, which covers Bell County."
   term_length: "4 years"
   election_cycle: "Partisan general election"
-  previous_holder: "Sample — verify with Texas Judicial Branch"
+  previous_holder: "Steven Duskie (incumbent)"
   jurisdiction: "Bell County"
 
 "Bell County Court at Law 1":
   formal_title: "Judge, Bell County Court at Law No. 1"
+  current_holder: "Gonzalo Caraveo"
+  selection: elected
   description: "Statutory county court handling misdemeanor criminal cases, civil cases up to $200,000, probate, and appeals from JP courts."
   term_length: "4 years"
   election_cycle: "Partisan general election"
-  previous_holder: "Sample — verify with Bell County"
+  previous_holder: "Gonzalo Caraveo (incumbent)"
   jurisdiction: "Bell County"
 
 "Bell County Court at Law 2":
   formal_title: "Judge, Bell County Court at Law No. 2"
+  current_holder: "John Mischtian"
+  selection: elected
   description: "Statutory county court with jurisdiction over misdemeanors, small civil cases, probate matters, and JP appeals."
   term_length: "4 years"
   election_cycle: "Partisan general election"
-  previous_holder: "Sample — verify with Bell County"
+  previous_holder: "John Mischtian (incumbent)"
   jurisdiction: "Bell County"
 
 "Bell JP P1 Place 1":
   formal_title: "Justice of the Peace, Precinct 1, Place 1"
+  current_holder: "Theodore R. (Ted) Duffield"
+  selection: elected
   description: "Handles small claims (up to $20,000), Class C misdemeanors, truancy, evictions, and inquests. First point of contact for many Bell County residents seeking justice."
   term_length: "4 years"
   election_cycle: "Partisan general election"
-  previous_holder: "Sample — verify with Bell County"
+  previous_holder: "Theodore R. (Ted) Duffield (incumbent)"
   jurisdiction: "Bell County Precinct 1"
 
 "Bell JP P2":
   formal_title: "Justice of the Peace, Precinct 2"
+  current_holder: "Cliff Coleman"
+  selection: elected
   description: "Small claims, Class C misdemeanors, truancy, evictions, and inquests for Precinct 2."
   term_length: "4 years"
   election_cycle: "Partisan general election"
-  previous_holder: "Sample — verify with Bell County"
+  previous_holder: "Cliff Coleman (incumbent)"
   jurisdiction: "Bell County Precinct 2"
 
 "Bell JP P3":
   formal_title: "Justice of the Peace, Precinct 3"
+  current_holder: "Rosanne Fisher (Place 1); Larry Wilkey (Place 2)"
+  selection: elected
   description: "Small claims, Class C misdemeanors, truancy, evictions, and inquests for Precinct 3."
   term_length: "4 years"
   election_cycle: "Partisan general election"
-  previous_holder: "Sample — verify with Bell County"
+  previous_holder: "Rosanne Fisher (P3-1); Larry Wilkey (P3-2) (incumbents)"
   jurisdiction: "Bell County Precinct 3"
 
 "Bell JP P4 Place 1":
   formal_title: "Justice of the Peace, Precinct 4, Place 1"
+  current_holder: "Gregory Johnson"
+  selection: elected
   description: "Small claims, Class C misdemeanors, truancy, evictions, and inquests for Precinct 4. Place 1 is one of two JP seats in this precinct."
   term_length: "4 years"
   election_cycle: "Partisan general election"
@@ -197,6 +244,8 @@
 
 "Bell JP P4 Place 2":
   formal_title: "Justice of the Peace, Precinct 4, Place 2"
+  current_holder: "Nicola J. James"
+  selection: elected
   description: "Small claims, Class C misdemeanors, truancy, evictions, and inquests for Precinct 4. Place 2 is one of two JP seats in this precinct."
   term_length: "4 years"
   election_cycle: "Partisan general election"
@@ -205,6 +254,8 @@
 
 "SBOE TX-10":
   formal_title: "State Board of Education, District 10"
+  current_holder: "Tom Maynard (R)"
+  selection: elected
   description: "Sets curriculum standards, selects textbooks, and manages the Permanent School Fund for public schools across the district."
   term_length: "4 years"
   election_cycle: "Partisan general election; next for this seat typically 2028"
@@ -213,6 +264,8 @@
 
 "CTC Trustee Place 1":
   formal_title: "Central Texas College Board of Trustees, Place 1"
+  current_holder: "Jimmy D. Towers"
+  selection: elected
   description: "Governs CTC, a community college serving the Killeen-Fort Cavazos area. Sets tuition, approves budgets, and oversees academic programs."
   term_length: "6 years"
   election_cycle: "Nonpartisan; major elections in odd years"
@@ -221,6 +274,8 @@
 
 "CTC Trustee Place 2":
   formal_title: "Central Texas College Board of Trustees, Place 2"
+  current_holder: "Charles Hollinger"
+  selection: elected
   description: "Governs CTC. Sets tuition, approves budgets, and oversees academic programs."
   term_length: "6 years"
   election_cycle: "Nonpartisan; major elections in odd years"
@@ -229,6 +284,8 @@
 
 "CTC Trustee Place 3":
   formal_title: "Central Texas College Board of Trustees, Place 3"
+  current_holder: "James A. Pierce Jr."
+  selection: elected
   description: "Governs CTC. Sets tuition, approves budgets, and oversees academic programs."
   term_length: "6 years"
   election_cycle: "Nonpartisan; major elections in odd years"
@@ -237,6 +294,8 @@
 
 "CTC Trustee Place 4":
   formal_title: "Central Texas College Board of Trustees, Place 4"
+  current_holder: "Eric R. Armstrong"
+  selection: elected
   description: "Governs CTC. Sets tuition, approves budgets, and oversees academic programs."
   term_length: "6 years"
   election_cycle: "Nonpartisan; major elections in odd years"
@@ -245,6 +304,8 @@
 
 "Killeen Mayor":
   formal_title: "Mayor, City of Killeen"
+  current_holder: "Debbie Nash-King"
+  selection: elected
   description: "Presides over Killeen City Council meetings, serves as the city's ceremonial head, and casts tie-breaking votes. Killeen is the largest city in Bell County."
   term_length: "3 years"
   election_cycle: "Nonpartisan; municipal elections in odd years (May)"
@@ -253,30 +314,38 @@
 
 "Killeen Council At-Large":
   formal_title: "Killeen City Council, At-Large"
+  current_holder: "Ramon Alvarez; Ken Wilkerson — third at-large seat may be vacant or council-appointed interim (verify with City of Killeen)"
+  selection: elected
   description: "Represents the entire city rather than a single district. Votes on ordinances, the city budget, and policy."
   term_length: "3 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
-  previous_holder: "Dennis Drury / Ken Wilkerson (current)"
+  previous_holder: "Ramon Alvarez; Ken Wilkerson; third seat may be vacant or interim appointee (verify)"
   jurisdiction: "City of Killeen"
 
 "Killeen Council D1":
   formal_title: "Killeen City Council, District 1"
+  current_holder: "Jessica Gonzalez"
+  selection: elected
   description: "Represents District 1 residents on the Killeen City Council."
   term_length: "3 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
-  previous_holder: "Verify with City of Killeen"
+  previous_holder: "Jessica Gonzalez (incumbent)"
   jurisdiction: "City of Killeen, District 1"
 
 "Killeen Council D2":
   formal_title: "Killeen City Council, District 2"
+  current_holder: "Joseph Solomon"
+  selection: elected
   description: "Represents District 2 residents on the Killeen City Council."
   term_length: "3 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
-  previous_holder: "Verify with City of Killeen"
+  previous_holder: "Joseph Solomon (incumbent)"
   jurisdiction: "City of Killeen, District 2"
 
 "Killeen Council D3":
   formal_title: "Killeen City Council, District 3"
+  current_holder: "Nina Cobb"
+  selection: elected
   description: "Represents District 3 residents on the Killeen City Council."
   term_length: "3 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
@@ -285,6 +354,8 @@
 
 "Killeen Council D4":
   formal_title: "Killeen City Council, District 4"
+  current_holder: "Anthony Kendrick"
+  selection: elected
   description: "Represents District 4 residents on the Killeen City Council."
   term_length: "3 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
@@ -293,120 +364,150 @@
 
 "Temple Mayor":
   formal_title: "Mayor, City of Temple"
+  current_holder: "Tim Davis"
+  selection: elected
   description: "Presides over the Temple City Council and represents Temple in intergovernmental matters."
   term_length: "3 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
-  previous_holder: "Sample — verify with City of Temple"
+  previous_holder: "Tim Davis (incumbent)"
   jurisdiction: "City of Temple"
 
 "Belton Mayor":
   formal_title: "Mayor, City of Belton"
+  current_holder: "David K. Leigh"
+  selection: elected
   description: "Presides over the Belton City Council. Belton is the county seat of Bell County."
   term_length: "3 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
-  previous_holder: "Sample — verify with City of Belton"
+  previous_holder: "David K. Leigh (incumbent)"
   jurisdiction: "City of Belton"
 
 "Harker Heights Mayor":
   formal_title: "Mayor, City of Harker Heights"
+  current_holder: "Michael Blomquist"
+  selection: elected
   description: "Presides over the Harker Heights City Council."
   term_length: "3 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
-  previous_holder: "Sample — verify with City of Harker Heights"
+  previous_holder: "Michael Blomquist (incumbent)"
   jurisdiction: "City of Harker Heights"
 
 "Copperas Cove Mayor":
   formal_title: "Mayor, City of Copperas Cove"
+  current_holder: "Dan Yancey"
+  selection: elected
   description: "Presides over the Copperas Cove City Council."
   term_length: "3 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
-  previous_holder: "Sample — verify with City of Copperas Cove"
+  previous_holder: "Dan Yancey (incumbent)"
   jurisdiction: "City of Copperas Cove"
 
 "Nolanville Mayor":
   formal_title: "Mayor, City of Nolanville"
+  current_holder: "Andy Williams"
+  selection: elected
   description: "Presides over the Nolanville City Council."
   term_length: "2 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
-  previous_holder: "Sample — verify with City of Nolanville"
+  previous_holder: "Andy Williams (incumbent)"
   jurisdiction: "City of Nolanville"
 
 "Salado Mayor":
   formal_title: "Mayor, Village of Salado"
+  current_holder: "Bert Henry (verify — confirm with Village of Salado city secretary)"
+  selection: elected
   description: "Presides over the Village of Salado Board of Aldermen."
   term_length: "2 years"
   election_cycle: "Nonpartisan; municipal elections (May)"
-  previous_holder: "Sample — verify with Village of Salado"
+  previous_holder: "Bert Henry (verify with city secretary)"
   jurisdiction: "Village of Salado"
 
 "Killeen ISD Trustee At-Large 7":
   formal_title: "Killeen ISD Board of Trustees, At-Large Place 7"
+  current_holder: "Rodney Gilchrist (verify on district site)"
+  selection: elected
   description: "Governs the Killeen Independent School District, the largest district in the area. Sets policy, approves budgets, and hires the superintendent."
   term_length: "3 years"
   election_cycle: "Nonpartisan; May uniform election date"
-  previous_holder: "Sample — verify with Killeen ISD"
+  previous_holder: "Rodney Gilchrist (verify Place 7 on district site)"
   jurisdiction: "Killeen ISD boundaries"
 
 "Belton ISD Trustee Place 1":
   formal_title: "Belton ISD Board of Trustees, Place 1"
+  current_holder: "Jeff Norwood (Trustee Area 1 — verify mapping to Place 1 with Belton ISD)"
+  selection: elected
   description: "Governs Belton ISD. Sets policy, approves budgets, and hires the superintendent."
   term_length: "3 years"
   election_cycle: "Nonpartisan; May uniform election date"
-  previous_holder: "Sample — verify with Belton ISD"
+  previous_holder: "Jeff Norwood (Trustee Area 1 — verify place numbering)"
   jurisdiction: "Belton ISD boundaries"
 
 "Temple ISD Trustee Place 3":
   formal_title: "Temple ISD Board of Trustees, Place 3"
+  current_holder: "Dan Posey (District/Place 3 — verify with Temple ISD)"
+  selection: elected
   description: "Governs Temple ISD. Sets policy, approves budgets, and hires the superintendent."
   term_length: "3 years"
   election_cycle: "Nonpartisan; May uniform election date"
-  previous_holder: "Sample — verify with Temple ISD"
+  previous_holder: "Dan Posey (board president; verify Place 3)"
   jurisdiction: "Temple ISD boundaries"
 
 "Salado ISD Trustee Place 2":
   formal_title: "Salado ISD Board of Trustees, Place 2"
+  current_holder: "Verify with Salado ISD (roster lists members without Place numbers on public page)"
+  selection: elected
   description: "Governs Salado ISD. Sets policy, approves budgets, and hires the superintendent."
   term_length: "3 years"
   election_cycle: "Nonpartisan; May uniform election date"
-  previous_holder: "Sample — verify with Salado ISD"
+  previous_holder: "Verify Place 2 with district (public roster omits place numbers)"
   jurisdiction: "Salado ISD boundaries"
 
 "Academy ISD Trustee Place 1":
   formal_title: "Academy ISD Board of Trustees, Place 1"
+  current_holder: "Verify with Academy ISD (seated board includes Calvin Eshbaugh, Alex Bass, Jennifer Burnett, Amy Adcock, Kacee Nabours, Bobby D. Poncik, Dana White)"
+  selection: elected
   description: "Governs Academy ISD, a smaller district in the southern part of Bell County."
   term_length: "3 years"
   election_cycle: "Nonpartisan; May uniform election date"
-  previous_holder: "Sample — verify with Academy ISD"
+  previous_holder: "Verify Place 1 with district"
   jurisdiction: "Academy ISD boundaries"
 
 "Rogers ISD Trustee Place 1":
   formal_title: "Rogers ISD Board of Trustees, Place 1"
+  current_holder: "Verify with Rogers ISD (seated board includes Trey Richter, Sara Fuchs, Chad Green, Bradley Marek, Jesus Mejia, Keith Caldwell, John Paul Chervenka)"
+  selection: elected
   description: "Governs Rogers ISD, serving the Rogers community in eastern Bell County."
   term_length: "3 years"
   election_cycle: "Nonpartisan; May uniform election date"
-  previous_holder: "Sample — verify with Rogers ISD"
+  previous_holder: "Verify Place 1 with district"
   jurisdiction: "Rogers ISD boundaries"
 
 "Troy ISD Trustee Place 1":
   formal_title: "Troy ISD Board of Trustees, Place 1"
+  current_holder: "Verify with Troy ISD (seated board includes Gary McMurtry, Bill Negron, Carrie Trees, Jason Collier, Amy McKissick, Kirk Bailey, Lindsey Strait)"
+  selection: elected
   description: "Governs Troy ISD, serving the Troy area between Temple and Waco."
   term_length: "3 years"
   election_cycle: "Nonpartisan; May uniform election date"
-  previous_holder: "Sample — verify with Troy ISD"
+  previous_holder: "Verify Place 1 with district"
   jurisdiction: "Troy ISD boundaries"
 
 "Holland ISD Trustee Place 1":
   formal_title: "Holland ISD Board of Trustees, Place 1"
+  current_holder: "Verify with Holland ISD (seated board includes Jill Marwitz, Michael Kurtz, Cynthia Hernandez, Mike Cearley, Cliff Cosper, Kori Hall, Robert Wiley)"
+  selection: elected
   description: "Governs Holland ISD, a small district in southwestern Bell County."
   term_length: "3 years"
   election_cycle: "Nonpartisan; May uniform election date"
-  previous_holder: "Sample — verify with Holland ISD"
+  previous_holder: "Verify Place 1 with district"
   jurisdiction: "Holland ISD boundaries"
 
 "Pendleton ISD Trustee Place 1":
   formal_title: "Pendleton ISD Board of Trustees, Place 1"
+  current_holder: "Verify with Pendleton ISD"
+  selection: elected
   description: "Governs Pendleton ISD, one of the smallest districts in Bell County."
   term_length: "3 years"
   election_cycle: "Nonpartisan; May uniform election date"
-  previous_holder: "Sample — verify with Pendleton ISD"
+  previous_holder: "Verify with Pendleton ISD"
   jurisdiction: "Pendleton ISD boundaries"

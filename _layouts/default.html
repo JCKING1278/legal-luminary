@@ -153,7 +153,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/fonts.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
-<body>
+<body{% if page.body_class %} class="{{ page.body_class | escape }}"{% endif %}>
   <header class="site-header">
     <div class="header-top">
       <div class="container">
@@ -236,6 +236,10 @@
   </section>
   {% endif %}
 
+  {% assign candidates_hub = false %}
+  {% if page.body_class == 'page-candidates' %}
+    {% assign candidates_hub = true %}
+  {% endif %}
   <main id="main-content" class="site-main" tabindex="-1">
     <div class="container">
       {% if show_breadcrumbs %}
@@ -295,24 +299,32 @@
           </section>
           {% endif %}
         </article>
+        {% if page.url == '/' %}
         <aside class="sidebar" aria-label="Helpful resources">
-          {% if page.url == '/' %}
           {% include sidebar-important-articles.html %}
-          {% else %}
-          {% include sidebar-feed.html %}
-          {% include sidebar-professionals.html %}
-          {% endif %}
           <div class="sidebar-info">
             <h3>Need Legal Help?</h3>
             <p>Find court contacts, legal resources, and information for Bell County and Central Texas.</p>
             <a href="{{ '/court-directory/' | relative_url }}" class="btn btn-secondary">Court Directory</a>
           </div>
         </aside>
+        {% elsif candidates_hub %}
+        {% else %}
+        <aside class="sidebar" aria-label="Helpful resources">
+          {% include sidebar-feed.html %}
+          {% include sidebar-professionals.html %}
+          <div class="sidebar-info">
+            <h3>Need Legal Help?</h3>
+            <p>Find court contacts, legal resources, and information for Bell County and Central Texas.</p>
+            <a href="{{ '/court-directory/' | relative_url }}" class="btn btn-secondary">Court Directory</a>
+          </div>
+        </aside>
+        {% endif %}
       </div>
     </div>
   </main>
 
-  {% unless page.url == '/' %}
+  {% unless page.url == '/' or candidates_hub %}
   {%- assign ia = site.data.important_articles -%}
   {%- assign important_paths = "" | split: "" -%}
   {%- if ia and ia.by_relevance -%}
