@@ -402,3 +402,107 @@
   election_cycle: "Nonpartisan; May uniform election date"
   previous_holder: "Sample — verify with Pendleton ISD"
   jurisdiction: "Pendleton ISD boundaries"
+
+"Belton Municipal":
+  formal_title: "Belton — Mayor & City Council"
+  description: "Nonpartisan city government for Belton (county seat). Mayor, mayor pro tem, and council by place."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Belton"
+
+"Harker Heights Municipal":
+  formal_title: "Harker Heights — Mayor & City Council"
+  description: "Nonpartisan mayor-council government for Harker Heights."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Harker Heights"
+
+"Temple Municipal":
+  formal_title: "Temple — Mayor & City Council"
+  description: "Nonpartisan mayor and district council members."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Temple"
+
+"Killeen Municipal":
+  formal_title: "Killeen — Mayor & City Council (selected seats)"
+  description: "Nonpartisan city government. Listing shows mayor, mayor pro tem, and seated members listed in the Bell County city directory."
+  term_length: "3 years (mayor and council)"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Killeen"
+
+"Nolanville Municipal":
+  formal_title: "Nolanville — Mayor & City Council"
+  description: "Nonpartisan mayor-council government for Nolanville."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Nolanville"
+
+"Salado Municipal":
+  formal_title: "Salado — Mayor & Board of Aldermen"
+  description: "Village government with mayor, mayor pro tem, and aldermen."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "Village of Salado"
+
+"Moody Municipal":
+  formal_title: "Moody — Mayor & Aldermen"
+  description: "Nonpartisan city government for Moody."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Moody"
+
+"Troy Municipal":
+  formal_title: "Troy — Mayor & City Council"
+  description: "Nonpartisan mayor-council government for Troy."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Troy"
+
+"Bartlett Municipal":
+  formal_title: "Bartlett — Mayor & City Council"
+  description: "Nonpartisan mayor-council government for Bartlett."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Bartlett"
+
+"Holland Municipal":
+  formal_title: "Holland — Mayor & City Council"
+  description: "Nonpartisan mayor-council government for Holland."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Holland"
+
+"Little River-Academy Municipal":
+  formal_title: "Little River-Academy — Mayor & City Council"
+  description: "Nonpartisan city government for Little River-Academy."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Little River-Academy"
+
+"Rogers Municipal":
+  formal_title: "Rogers — Mayor & City Council"
+  description: "Nonpartisan mayor-council government for Rogers."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Rogers"
+
+"Morgans Point Resort Municipal":
+  formal_title: "Morgan's Point Resort — Mayor & City Council"
+  description: "Nonpartisan mayor-council government for Morgan's Point Resort."
+  term_length: "Varies by seat"
+  election_cycle: "Nonpartisan; municipal elections (May)"
+  previous_holder: "See roster in `_cities/bell_county.md`"
+  jurisdiction: "City of Morgan's Point Resort"

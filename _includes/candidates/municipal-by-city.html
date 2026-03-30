@@ -1,10 +1,10 @@
 {% assign hub = site.data.municipal_hub %}
 {% if hub and hub.cities %}
   {% for city in hub.cities %}
-  <section class="municipal-city-block" data-city="{{ city.slug }}" style="--city-seal-url: url('{{ city.logo | relative_url }}');">
+  <section class="municipal-city-block" data-city="{{ city.slug }}"{% if city.logo and city.logo != '' %} style="--city-seal-url: url('{{ city.logo | relative_url }}');"{% endif %}>
     <header class="municipal-city-block__header">
       <h3 class="municipal-city-block__title">{{ city.name }}</h3>
-      <p class="municipal-city-block__hint">Municipal offices (sample rows in non-Killeen cities for layout)</p>
+      <p class="municipal-city-block__hint">Mayor and council or aldermen — roster from the Bell County city directory (project _cities folder).</p>
     </header>
     <div class="municipal-city-block__races">
       {% for race in city.races %}

@@ -1,0 +1,68 @@
+# Municipal tab: city groupings for candidates hub. Names and roles match
+# `_cities/bell_county.md` (sourced from each `_cities/<city>/README.md`).
+cities:
+  - slug: belton
+    name: Belton
+    logo: ""
+    races:
+      - Belton Municipal
+  - slug: harker-heights
+    name: Harker Heights
+    logo: ""
+    races:
+      - Harker Heights Municipal
+  - slug: temple
+    name: Temple
+    logo: ""
+    races:
+      - Temple Municipal
+  - slug: killeen
+    name: Killeen
+    logo: ""
+    races:
+      - Killeen Municipal
+  - slug: nolanville
+    name: Nolanville
+    logo: ""
+    races:
+      - Nolanville Municipal
+  - slug: salado
+    name: Salado
+    logo: ""
+    races:
+      - Salado Municipal
+  - slug: moody
+    name: Moody
+    logo: ""
+    races:
+      - Moody Municipal
+  - slug: troy
+    name: Troy
+    logo: ""
+    races:
+      - Troy Municipal
+  - slug: bartlett
+    name: Bartlett
+    logo: ""
+    races:
+      - Bartlett Municipal
+  - slug: holland
+    name: Holland
+    logo: ""
+    races:
+      - Holland Municipal
+  - slug: little-river-academy
+    name: Little River-Academy
+    logo: ""
+    races:
+      - Little River-Academy Municipal
+  - slug: rogers
+    name: Rogers
+    logo: ""
+    races:
+      - Rogers Municipal
+  - slug: morgans-point-resort
+    name: Morgan's Point Resort
+    logo: ""
+    races:
+      - Morgans Point Resort Municipal
