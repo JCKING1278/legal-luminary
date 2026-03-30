@@ -45,9 +45,21 @@ body_class: page-candidates
     <h2>State offices</h2>
 
     <h3 class="candidates-subsection-title">Statewide Executive</h3>
-    {% include candidates/race-card.html race="TX Governor" %}
-    {% include candidates/race-card.html race="TX Attorney General" election_label="Primary runoff May 26, 2026 · General Nov 3, 2026" %}
-    {% include candidates/race-card.html race="TX Comptroller" %}
+    {% include candidates/race-card.html race="TX Governor" election_label="General November 3, 2026" %}
+    {% include candidates/race-card.html race="TX Attorney General" election_label="Primary runoff May 26, 2026 · General November 3, 2026" %}
+
+    <section class="candidates-prose-block candidates-prose-block--compact" id="tx-ag-candidate-profiles" aria-labelledby="tx-ag-candidate-profiles-heading">
+      <h3 id="tx-ag-candidate-profiles-heading" class="candidates-prose-block__title">Texas Attorney General: candidate profiles</h3>
+      <p>The <strong>May 26, 2026</strong> primary runoff decides each party’s nominee; the <strong>general election</strong> is <strong>November 3, 2026</strong>. Nonpartisan biographies (education, experience, and campaign context) with sources:</p>
+      <ul class="candidates-prose-block__list">
+        <li><a href="{{ '/texas-ag-race-26/chip-roy/' | relative_url }}">Chip Roy</a> (Republican)</li>
+        <li><a href="{{ '/texas-ag-race-26/mayes-middleton/' | relative_url }}">Mayes Middleton</a> (Republican)</li>
+        <li><a href="{{ '/texas-ag-race-26/nathan-johnson/' | relative_url }}">Nathan Johnson</a> (Democrat)</li>
+        <li><a href="{{ '/texas-ag-race-26/joe-jaworski/' | relative_url }}">Joe Jaworski</a> (Democrat)</li>
+      </ul>
+    </section>
+
+    {% include candidates/race-card.html race="TX Comptroller" election_label="General November 3, 2026" %}
 
     <h3 class="candidates-subsection-title">Texas Senate</h3>
     {% include candidates/race-card.html race="State Senate TX-24" %}
@@ -118,7 +130,7 @@ body_class: page-candidates
   <div class="tab-content" id="tab-county" role="tabpanel" aria-labelledby="tab-btn-county">
     <h2>County offices</h2>
     {% include candidates/race-card.html race="Bell County DA" %}
-    {% include candidates/race-card.html race="Bell County Commissioner P4" %}
+    {% include candidates/race-card.html race="Bell County Commissioner P4" election_label="General November 3, 2026" %}
     {% include candidates/race-card.html race="Bell JP P4 Place 2" %}
   </div>
 

@@ -38,7 +38,7 @@ candidates:
     FEC: "yes"
     facebook_url: null
     website_url: null
-    notes: "Texas Attorney General; in primary runoff against Cornyn (May 26, 2026)."
+    notes: "Incumbent Texas Attorney General through early January 2027 (successor sworn in). Not on the 2026 AG ballot — running in the May 2026 Republican primary runoff against Senator John Cornyn for U.S. Senate."
     group_city: ""
     group_state: Texas
     group_function: Legislative
@@ -84,11 +84,11 @@ candidates:
     jurisdiction: Texas
     status: incumbent
     party: REP
-    election_phase: primary_2026
+    election_phase: general_2026
     FEC: "no"
     facebook_url: null
     website_url: https://gov.texas.gov
-    notes: "Serving third term as Governor. Up for reelection in 2026."
+    notes: "Incumbent Republican governor. On the November 2026 ballot against Democratic nominee Gina Hinojosa."
     group_city: ""
     group_state: Texas
     group_function: Executive
@@ -103,26 +103,26 @@ candidates:
     term_expires: "January 2027"
     demo: true
 
-  - id: 831
-    name: Mayes Middleton
-    position: "Candidate for Attorney General (R); Texas State Senator, SD 11"
-    office: "TX Attorney General"
+  - id: 811
+    name: Gina Hinojosa
+    position: "Democratic nominee for Governor of Texas"
+    office: "TX Governor"
     jurisdiction: Texas
     status: candidate
-    party: REP
-    election_phase: primary_runoff_2026
+    party: DEM
+    election_phase: general_2026
     FEC: "no"
     facebook_url: null
-    website_url: https://www.mayesmiddleton.com/
-    notes: "Oil-and-gas executive and attorney; former Texas House member (2019–2022) and current senator from SD 11 (Galveston-area counties). Finished first in the March 3, 2026 Republican primary (about 39%) and faces Chip Roy in the May 26 runoff. Headshot from Texas Senate official photo."
+    website_url: null
+    notes: "State representative (HD 49, Austin); Democratic nominee for governor. Faces incumbent Greg Abbott in November 2026."
     group_city: ""
     group_state: Texas
     group_function: Executive
-    office_group_key: "TX Attorney General"
+    office_group_key: "TX Governor"
     office_up_for_election_this_year: true
-    office_incumbent_name: Ken Paxton
+    office_incumbent_name: Greg Abbott
     office_opponents_platform_key_facts: []
-    headshot_url: "https://senate.texas.gov/members/d11/img/Middleton_87-0662D-009.jpg"
+    headshot_url: null
     instagram_url: null
     linkedin_url: null
     finance: null
@@ -140,7 +140,7 @@ candidates:
     FEC: "no"
     facebook_url: null
     website_url: https://www.chiproy.com/
-    notes: "U.S. House member since 2019; former First Assistant Texas Attorney General and chief of staff to Sen. Ted Cruz. Finished second in the March 3, 2026 Republican primary (about 32%) and faces Mayes Middleton in the May 26 runoff. Congressional portrait via Wikimedia Commons (U.S. House work)."
+    notes: "Republican primary runoff for Attorney General of Texas on May 26, 2026 — running against Mayes Middleton. General election November 3, 2026; nominees will be listed after the runoff."
     group_city: ""
     group_state: Texas
     group_function: Executive
@@ -148,11 +148,37 @@ candidates:
     office_up_for_election_this_year: true
     office_incumbent_name: Ken Paxton
     office_opponents_platform_key_facts: []
-    headshot_url: "https://upload.wikimedia.org/wikipedia/commons/1/13/Chip_Roy%2C_official_portrait%2C_116th_Congress.jpg"
+    headshot_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/100/100/CHIP_ROY.jpg"
     instagram_url: null
     linkedin_url: null
     finance: null
-    term_expires: "If elected — January 2031"
+    term_expires: "TBD (after runoff)"
+    demo: true
+
+  - id: 831
+    name: Mayes Middleton
+    position: "Candidate for Attorney General (R); Texas State Senator, SD 11"
+    office: "TX Attorney General"
+    jurisdiction: Texas
+    status: candidate
+    party: REP
+    election_phase: primary_runoff_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: https://www.mayesmiddleton.com/
+    notes: "Republican primary runoff for Attorney General of Texas on May 26, 2026 — running against Chip Roy. General election November 3, 2026; nominees will be listed after the runoff."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Attorney General"
+    office_up_for_election_this_year: true
+    office_incumbent_name: Ken Paxton
+    office_opponents_platform_key_facts: []
+    headshot_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/100/100/Mayes_Middleton.jpg"
+    instagram_url: null
+    linkedin_url: null
+    finance: null
+    term_expires: "TBD (after runoff)"
     demo: true
 
   - id: 833
@@ -166,7 +192,7 @@ candidates:
     FEC: "no"
     facebook_url: null
     website_url: https://www.nathanfortexas.com/
-    notes: "Dallas County–based senator since 2019; commercial litigator (Thompson Coburn), UT Law graduate, physics undergraduate. Led on grid, health care, and transparency issues. Led the March 3 Democratic field with about 48% and meets Joe Jaworski in the May 26 runoff. Headshot from Texas Senate official photo."
+    notes: "Democratic primary runoff for Attorney General of Texas on May 26, 2026 — running against Joe Jaworski. General election November 3, 2026; nominees will be listed after the runoff."
     group_city: ""
     group_state: Texas
     group_function: Executive
@@ -174,11 +200,11 @@ candidates:
     office_up_for_election_this_year: true
     office_incumbent_name: Ken Paxton
     office_opponents_platform_key_facts: []
-    headshot_url: "https://senate.texas.gov/members/d16/img/SNJ-Headshot-2023-web.jpg"
+    headshot_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/100/100/Nathan_Johnson_20230724_022433.jpg"
     instagram_url: null
     linkedin_url: null
     finance: null
-    term_expires: "If elected — January 2031"
+    term_expires: "TBD (after runoff)"
     demo: true
 
   - id: 834
@@ -192,7 +218,7 @@ candidates:
     FEC: "no"
     facebook_url: null
     website_url: https://www.jaworskifortexas.com/
-    notes: "Trial lawyer and mediator; former Galveston mayor (2010–2012) and city councilmember; grandson of Watergate special prosecutor Leon Jaworski. Placed second in the March 3 Democratic primary (about 26%) and faces Nathan Johnson in the May 26 runoff. Headshot from campaign site."
+    notes: "Democratic primary runoff for Attorney General of Texas on May 26, 2026 — running against Nathan Johnson. General election November 3, 2026; nominees will be listed after the runoff."
     group_city: ""
     group_state: Texas
     group_function: Executive
@@ -200,11 +226,11 @@ candidates:
     office_up_for_election_this_year: true
     office_incumbent_name: Ken Paxton
     office_opponents_platform_key_facts: []
-    headshot_url: "https://images.squarespace-cdn.com/content/v1/64a8227283689139612b94f2/43ad78b1-5808-410c-8958-cdb4a1f7e3c1/Joe-Jaworski-Headshot-2026.png"
+    headshot_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/100/100/Joe_Jaworski_26.png"
     instagram_url: null
     linkedin_url: null
     finance: null
-    term_expires: "If elected — January 2031"
+    term_expires: "TBD (after runoff)"
     demo: true
 
   - id: 835
@@ -286,33 +312,94 @@ candidates:
     demo: true
 
   - id: 812
-    name: Glenn Hegar
-    position: "Comptroller of Public Accounts of Texas"
+    name: Don Huffines
+    position: "Republican nominee for Comptroller of Public Accounts of Texas"
     office: "TX Comptroller"
     jurisdiction: Texas
-    status: incumbent
+    status: primary_winner
     party: REP
-    election_phase: primary_2026
+    election_phase: general_2026
     FEC: "no"
     facebook_url: null
-    website_url: https://comptroller.texas.gov
-    notes: "Serving since 2015. Responsible for the Biennial Revenue Estimate and state tax collection."
+    website_url: null
+    notes: "Former state senator; won the March 2026 Republican primary outright over acting Comptroller Kelly Hancock, Christi Craddick, and others. Faces Democrat Sarah Eckhardt in November 2026."
     group_city: ""
     group_state: Texas
     group_function: Executive
     office_group_key: "TX Comptroller"
     office_up_for_election_this_year: true
-    office_incumbent_name: Glenn Hegar
+    office_incumbent_name: null
+    office_opponents_platform_key_facts: []
+    headshot_url: null
+    instagram_url: null
+    linkedin_url: null
+    finance:
+      cash_display: "$11.7 million (approx.)"
+      major_donors:
+        - "Phillip Huffines (brother) — $3 million"
+        - "Protect Freedom PAC (affiliated with U.S. Sen. Rand Paul) — $500,000"
+        - "Andrew Beal (founder and owner of Beal Bank) — $100,000"
+    term_expires: "If elected — January 2031"
+    demo: true
+
+  - id: 838
+    name: Sarah Eckhardt
+    position: "Democratic nominee for Comptroller of Public Accounts; Texas State Senator, SD 14"
+    office: "TX Comptroller"
+    jurisdiction: Texas
+    status: primary_winner
+    party: DEM
+    election_phase: general_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: null
+    notes: "State senator (Austin area); won the March 2026 Democratic primary. Faces Republican Don Huffines in November 2026."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Comptroller"
+    office_up_for_election_this_year: true
+    office_incumbent_name: null
+    office_opponents_platform_key_facts: []
+    headshot_url: null
+    instagram_url: null
+    linkedin_url: null
+    finance:
+      cash_display: "$183,691"
+      major_donors:
+        - "Texas Trial Lawyers Association PAC — $5,000"
+        - "R. Stephen McNally, Austin lawyer — $10,000"
+    term_expires: "If elected — January 2031"
+    demo: true
+
+  - id: 839
+    name: Kelly Hancock
+    position: "Former acting Comptroller; former Texas State Senator"
+    office: "TX Comptroller"
+    jurisdiction: Texas
+    status: eliminated
+    party: REP
+    election_phase: primary_2026
+    FEC: "no"
+    facebook_url: null
+    website_url: null
+    notes: "Appointed acting comptroller after Glenn Hegar resigned; Governor Abbott’s preferred candidate in the March 2026 Republican primary. Lost handily to Don Huffines (reported ~23.7% vs ~57.4%)."
+    group_city: ""
+    group_state: Texas
+    group_function: Executive
+    office_group_key: "TX Comptroller"
+    office_up_for_election_this_year: true
+    office_incumbent_name: null
     office_opponents_platform_key_facts: []
     headshot_url: null
     instagram_url: null
     linkedin_url: null
     finance: null
-    term_expires: "January 2027"
+    term_expires: "—"
     demo: true
 
   - id: 820
-    name: Henry Garza
+    name: Stephanie Newell
     position: "District Attorney, 27th Judicial District"
     office: "Bell County DA"
     jurisdiction: "Bell County"
@@ -321,16 +408,16 @@ candidates:
     election_phase: primary_2026
     FEC: "no"
     facebook_url: null
-    website_url: null
-    notes: "Serving since 2013. Prosecutes felony cases in Bell County."
+    website_url: https://www.bellcountytx.com/county_government/district_attorney/index.php
+    notes: "District Attorney for the 27th Judicial District (Bell County), per Bell County government. Prosecutes felony cases in District Courts."
     group_city: ""
     group_state: Texas
     group_function: Judicial
     office_group_key: "Bell County DA"
     office_up_for_election_this_year: true
-    office_incumbent_name: Henry Garza
+    office_incumbent_name: Stephanie Newell
     office_opponents_platform_key_facts: []
-    headshot_url: null
+    headshot_url: /assets/imgs/candidates/821.png
     instagram_url: null
     linkedin_url: null
     finance: null

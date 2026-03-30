@@ -1080,6 +1080,25 @@ body.page-candidates .container {
   border-bottom: none;
 }
 
+.finance-row--donors {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.35rem;
+}
+
+.finance-donors {
+  margin: 0;
+  padding-left: 1.15rem;
+  font-weight: 600;
+  color: var(--green-600);
+  font-size: 0.78rem;
+  list-style: disc;
+}
+
+.finance-donors li {
+  margin: 0.15rem 0;
+}
+
 .finance-label {
   color: var(--navy-900);
   font-weight: 700;

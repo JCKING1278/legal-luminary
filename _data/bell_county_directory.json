@@ -207,11 +207,26 @@
     },
     "sheriff": {
       "title": "Sheriff",
-      "name": "Office of the Sheriff",
+      "name": "Bill Cooke",
       "phone": "(254) 933-5400",
       "address": "111 W. Central Avenue, Belton, TX 76513",
       "website": "https://www.bellcountytx.com/county_government/sheriff/index.php",
       "role": "Warrant information, jail inquiries, civil process, inmate lookup"
+    },
+    "tax_assessor_collector": {
+      "title": "Tax Assessor-Collector",
+      "name": "Shay Luedeke",
+      "phone": "(254) 933-5318",
+      "website": "https://www.bellcountytx.com/county_government/tax_assessor-collector/index.php",
+      "role": "Vehicle registration and title services; elections commission (per county site)"
+    },
+    "treasurer": {
+      "title": "County Treasurer",
+      "name": "Gaylon Evans",
+      "phone": "(254) 933-5250",
+      "address": "Bell County Historic Courthouse, 101 E. Central Avenue, Belton, TX 76513",
+      "website": "https://www.bellcountytx.com/county_government/treasurer/index.php",
+      "role": "County treasury and related duties"
     },
     "county_judge": {
       "title": "County Judge",

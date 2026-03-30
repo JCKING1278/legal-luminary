@@ -30,26 +30,26 @@
   formal_title: "Governor of Texas"
   description: "Chief executive of the State of Texas. Signs or vetoes legislation, commands the Texas National Guard, appoints agency heads and judges, and sets the legislative agenda through the State of the State address."
   term_length: "4 years"
-  election_cycle: "Midterm years (2026, 2030, etc.); no term limits"
+  election_cycle: "2026 general (November 3): Greg Abbott (R) vs Gina Hinojosa (D); no term limits"
   previous_holder: "Greg Abbott (R) — serving since January 2015"
   jurisdiction: "State of Texas"
   salary: "$153,750/year"
 
 "TX Attorney General":
   formal_title: "Attorney General of Texas"
-  description: "Chief legal officer of Texas. Represents the state in litigation, issues advisory opinions on state law, enforces consumer-protection and antitrust statutes, and oversees the Crime Victims' Compensation program. Incumbent Ken Paxton is not seeking re-election (running for U.S. Senate); March 3, 2026 primaries sent both parties to a May 26 runoff before the November 3 general."
+  description: "Chief legal officer of Texas. Represents the state in litigation, issues advisory opinions on state law, enforces consumer-protection and antitrust statutes, and oversees the Crime Victims' Compensation program. Incumbent Ken Paxton is not seeking re-election as AG — he is running for U.S. Senate (runoff vs John Cornyn). AG term ends when the successor takes office in January 2027. Republican primary runoff May 26, 2026: Chip Roy vs Mayes Middleton. Democratic primary runoff May 26, 2026: Nathan Johnson vs Joe Jaworski. General election November 3, 2026 — nominees listed here after the runoffs."
   term_length: "4 years"
-  election_cycle: "Midterm years (2026, 2030, etc.); 2026 open seat with May 26 primary runoff"
-  previous_holder: "Ken Paxton (R) — serving since January 2015; not on the 2026 AG ballot"
+  election_cycle: "Primary runoff May 26, 2026 · General November 3, 2026 (nominees after runoff)"
+  previous_holder: "Ken Paxton (R) — last elected AG; term ends January 2027; running for U.S. Senate, not AG"
   jurisdiction: "State of Texas"
   salary: "$153,750/year"
 
 "TX Comptroller":
   formal_title: "Comptroller of Public Accounts of Texas"
-  description: "Texas's chief financial officer. Collects state taxes and fees, estimates revenue for the biennial budget (the Biennial Revenue Estimate), manages state investments, and certifies the state budget to ensure it is balanced."
+  description: "Texas's chief financial officer. Collects state taxes and fees, estimates revenue for the biennial budget (the Biennial Revenue Estimate), manages state investments, and certifies the state budget to ensure it is balanced. Glenn Hegar resigned in 2025; Kelly Hancock served as acting comptroller and lost the March 2026 Republican primary to Don Huffines. November 2026: Don Huffines (R) vs Sarah Eckhardt (D)."
   term_length: "4 years"
-  election_cycle: "Midterm years (2026, 2030, etc.)"
-  previous_holder: "Glenn Hegar (R) — serving since January 2015"
+  election_cycle: "2026 open seat — November 3: Don Huffines (R) vs Sarah Eckhardt (D)"
+  previous_holder: "Glenn Hegar (R) resigned July 2025; Kelly Hancock (acting) — not the November nominee"
   jurisdiction: "State of Texas"
   salary: "$153,750/year"
 
@@ -85,7 +85,7 @@
   description: "Prosecutes felony criminal cases in Bell County. The 27th Judicial District encompasses Bell County. The DA's office works with law enforcement, presents cases to grand juries, and represents the state in district court proceedings."
   term_length: "4 years"
   election_cycle: "Partisan general election, even years"
-  previous_holder: "Henry Garza (R) — serving since 2013"
+  previous_holder: "Stephanie Newell — District Attorney (per Bell County official site)"
   jurisdiction: "Bell County (27th Judicial District)"
   salary: "Set by state; supplemented by county"
 
@@ -103,7 +103,7 @@
   description: "One of four commissioners on the Bell County Commissioners Court. Oversees roads, bridges, and county services in Precinct 1; votes on the county budget and tax rate."
   term_length: "4 years"
   election_cycle: "Staggered with other precincts; partisan election"
-  previous_holder: "Bill Schumann (current incumbent)"
+  previous_holder: "Russell Schneider (current incumbent — per Bell County Commissioners Court)"
   jurisdiction: "Bell County Precinct 1"
   salary: "Set by Commissioners Court"
 
@@ -120,14 +120,14 @@
   description: "Oversees roads, bridges, and county services in Precinct 3. Sits on the Commissioners Court."
   term_length: "4 years"
   election_cycle: "Partisan election, staggered"
-  previous_holder: "John Driver (current incumbent)"
+  previous_holder: "Greg Reynolds (current incumbent — per Bell County Commissioners Court)"
   jurisdiction: "Bell County Precinct 3"
 
 "Bell County Commissioner P4":
   formal_title: "Bell County Commissioner, Precinct 4"
-  description: "Oversees roads, bridges, and county services in Precinct 4. Sits on the Commissioners Court."
+  description: "Oversees roads, bridges, and county services in Precinct 4. Sits on the Commissioners Court. After the March 2026 primaries, the November general is incumbent Louie Minor (D) vs Curtis Emmons (R)."
   term_length: "4 years"
-  election_cycle: "Partisan election, staggered"
+  election_cycle: "2026 general (November 3): Minor (D) vs Emmons (R)"
   previous_holder: "Louie Minor (current incumbent)"
   jurisdiction: "Bell County Precinct 4"
 

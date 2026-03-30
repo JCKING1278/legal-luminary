@@ -9,7 +9,12 @@
   {% endif %}
   <div class="card-header">
     {% if c.headshot_url and c.headshot_url != '' and c.headshot_url != 'null' %}
-    <img src="{{ c.headshot_url }}" alt="{{ c.name }}" class="headshot" width="120" height="150" loading="lazy">
+    {% assign _hs = c.headshot_url %}
+    {% if _hs contains '://' %}
+    <img src="{{ _hs }}" alt="{{ c.name }}" class="headshot" width="120" height="150" loading="lazy">
+    {% else %}
+    <img src="{{ _hs | relative_url }}" alt="{{ c.name }}" class="headshot" width="120" height="150" loading="lazy">
+    {% endif %}
     {% else %}
     <div class="headshot-placeholder headshot-placeholder--{{ c.party }}">
       <span>{{ c.name | slice: 0, 1 }}</span>
@@ -53,18 +58,39 @@
     {% if c.finance %}
     <div class="candidate-finance">
       <h5>Campaign Finance</h5>
+      {% if c.finance.raised %}
       <div class="finance-row">
         <span class="finance-label">Raised:</span>
-        <span class="finance-value">${{ c.finance.raised | default: 0 }}</span>
+        <span class="finance-value">${{ c.finance.raised }}</span>
       </div>
+      {% endif %}
+      {% if c.finance.cash_display %}
       <div class="finance-row">
         <span class="finance-label">Cash on Hand:</span>
-        <span class="finance-value {% if c.finance.cash < 0 %}negative{% endif %}">${{ c.finance.cash | default: 0 }}</span>
+        <span class="finance-value">{{ c.finance.cash_display }}</span>
       </div>
+      {% elsif c.finance.cash %}
+      <div class="finance-row">
+        <span class="finance-label">Cash on Hand:</span>
+        <span class="finance-value {% if c.finance.cash < 0 %}negative{% endif %}">${{ c.finance.cash }}</span>
+      </div>
+      {% endif %}
+      {% if c.finance.individual_pct %}
       <div class="finance-row">
         <span class="finance-label">Individual:</span>
         <span class="finance-value">{{ c.finance.individual_pct }}%</span>
       </div>
+      {% endif %}
+      {% if c.finance.major_donors %}
+      <div class="finance-row finance-row--donors">
+        <span class="finance-label">Major donors (this cycle):</span>
+        <ul class="finance-donors">
+          {% for donor in c.finance.major_donors %}
+          <li>{{ donor }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
     </div>
     {% elsif c.fec == 'yes' %}
     <div class="candidate-finance">
