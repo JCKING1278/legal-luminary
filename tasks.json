@@ -1,0 +1,88 @@
+{
+  "project": "jekyll-static-pages-expert-agent",
+  "language": "python",
+  "version": "1.0",
+  "tasks": [
+    {
+      "id": "LL-001",
+      "title": "Implement research input validation",
+      "description": "Validate presence and schema of required research artifacts from /Users/sweeden/research_paper before generation starts.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": []
+    },
+    {
+      "id": "LL-002",
+      "title": "Generate candidate collection markdown pages",
+      "description": "Create/update _candidates/<candidate_slug>.md with complete front matter and rendered sections for each candidate.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-001"
+      ]
+    },
+    {
+      "id": "LL-003",
+      "title": "Generate candidate data JSON files",
+      "description": "Write _data/candidates/<city>/<office>/<candidate_slug>.json from research artifacts for data-driven templates.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-001"
+      ]
+    },
+    {
+      "id": "LL-004",
+      "title": "Create candidate media directories",
+      "description": "Ensure assets/img/candidates/<candidate_slug>/ exists and include metadata placeholder per candidate.",
+      "priority": 2,
+      "status": "pending",
+      "dependencies": [
+        "LL-002"
+      ]
+    },
+    {
+      "id": "LL-005",
+      "title": "Update selenium candidate ui case inventory",
+      "description": "Generate tests/selenium/candidate_ui_cases.json using latest candidate pages and required assertion text.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-002",
+        "LL-003"
+      ]
+    },
+    {
+      "id": "LL-006",
+      "title": "Maintain selenium candidate page test hook",
+      "description": "Create/update tests/selenium/test_candidate_pages.py to assert candidate visibility and required page fields.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-005"
+      ]
+    },
+    {
+      "id": "LL-007",
+      "title": "Create github actions workflow for candidate sync",
+      "description": "Add .github/workflows/candidate-pages-sync.yml to run generation, Jekyll build, and UI verification.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-002",
+        "LL-003",
+        "LL-006"
+      ]
+    },
+    {
+      "id": "LL-008",
+      "title": "Emit sync run summary artifact",
+      "description": "Write a run summary file with candidate count, files written, and verification status for CI visibility.",
+      "priority": 2,
+      "status": "pending",
+      "dependencies": [
+        "LL-007"
+      ]
+    }
+  ]
+}

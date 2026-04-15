@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ui-000",
+    "candidate_slug": "beverly_ann_williams",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Beverly Ann Williams",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-001",
+    "candidate_slug": "c_cochran",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "C. Cochran",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-002",
+    "candidate_slug": "charles_chuck_kimble",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Charles “Chuck” Kimble",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-003",
+    "candidate_slug": "chet_southworth",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Chet Southworth",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-004",
+    "candidate_slug": "christy_wilbanks",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Christy Wilbanks",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-005",
+    "candidate_slug": "david_bass",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "David Bass",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-006",
+    "candidate_slug": "debbie_nash-king",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Debbie Nash-King",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-007",
+    "candidate_slug": "delsina_west",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Delsina West",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-008",
+    "candidate_slug": "dominic_quoc_vo",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Dominic Quoc Vo",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-009",
+    "candidate_slug": "john_crow_miller",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "John \"Crow\" Miller",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-010",
+    "candidate_slug": "jose_segarra",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Jose Segarra",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-011",
+    "candidate_slug": "joseph_solomon",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Joseph Solomon",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-012",
+    "candidate_slug": "kelese_richardson",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Kelese Richardson",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-013",
+    "candidate_slug": "macaire_mac_morrissey",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Macaire \"Mac\" Morrissey",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-014",
+    "candidate_slug": "mellisa_brown",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Mellisa Brown",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-015",
+    "candidate_slug": "myrna_malic-banzon",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Myrna Malic-Banzon",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-016",
+    "candidate_slug": "nicholas_guajardo",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Nicholas Guajardo",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-017",
+    "candidate_slug": "olayinka_adelusi",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Olayinka Adelusi",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-018",
+    "candidate_slug": "riakos_rock_adams",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Riakos ‘Rock’ Adams",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-019",
+    "candidate_slug": "shavonn_hull",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Shavonn Hull",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-020",
+    "candidate_slug": "sue_neesy_croft",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Sue “Neesy” Croft",
+    "selector_hint": "body"
+  },
+  {
+    "id": "ui-021",
+    "candidate_slug": "terry_mustapher",
+    "page_url": "https://www.killeentexas.gov/650/Elections",
+    "assertion_text": "Terry Mustapher",
+    "selector_hint": "body"
+  }
+]

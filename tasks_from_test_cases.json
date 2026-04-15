@@ -1,0 +1,118 @@
+{
+  "project": "ll-website-quality-from-test-cases",
+  "language": "typescript",
+  "version": "1.0",
+  "generated_from": "test_cases",
+  "tasks": [
+    {
+      "id": "TC-001",
+      "title": "Stabilize homepage advertisement section rendering",
+      "description": "Implement and validate sidebar advertisement rendering so .ad-section, .ad-card structure, labels, contact links, and CTA elements pass checks from ads-verification.spec.ts.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [],
+      "source_test_case": "test_cases/ads-verification.spec.ts"
+    },
+    {
+      "id": "TC-002",
+      "title": "Ensure ad links and media are valid and reachable",
+      "description": "Audit ad card links and images to ensure tel/mailto formats are valid, CTA links resolve, and ad images are visible and load correctly across supported viewport sizes.",
+      "priority": 2,
+      "status": "pending",
+      "dependencies": [
+        "TC-001"
+      ],
+      "source_test_case": "test_cases/ads-verification.spec.ts"
+    },
+    {
+      "id": "TC-003",
+      "title": "Publish verified article pages and archive integration",
+      "description": "Make sure homepage and /archive/ expose integrated article entries, individual article pages render correctly, and article metadata appears in expected locations per article-integration.spec.ts.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [],
+      "source_test_case": "test_cases/article-integration.spec.ts"
+    },
+    {
+      "id": "TC-004",
+      "title": "Enforce FCC source attribution metadata",
+      "description": "Add or repair attribution and verification metadata for integrated articles so FCC-approved source checks and verification expectations pass.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "TC-003"
+      ],
+      "source_test_case": "test_cases/article-integration.spec.ts"
+    },
+    {
+      "id": "TC-005",
+      "title": "Remove broken internal links across site routes",
+      "description": "Crawl internal links and repair 4xx/5xx destinations referenced from homepage, archive, resources, and related pages to satisfy broken-links.spec.ts and production UAT link checks.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [],
+      "source_test_case": "test_cases/broken-links.spec.ts"
+    },
+    {
+      "id": "TC-006",
+      "title": "Implement JavaScript cache/download verification path",
+      "description": "Ensure /m3u8downloader and related scripts load in a cache-observable way, downloaded-js output can be written, and script responses support cache status inspection from cache-js-files.spec.ts.",
+      "priority": 3,
+      "status": "pending",
+      "dependencies": [],
+      "source_test_case": "test_cases/cache-js-files.spec.ts"
+    },
+    {
+      "id": "TC-007",
+      "title": "Expose LangSmith LangGraph demo route",
+      "description": "Make sure /demos/langsmith_langgraph_demo/ is reachable on local dev server and returns success status as required by langsmith_langgraph_demo.spec.ts.",
+      "priority": 3,
+      "status": "pending",
+      "dependencies": [],
+      "source_test_case": "test_cases/langsmith_langgraph_demo.spec.ts"
+    },
+    {
+      "id": "TC-008",
+      "title": "Harden Mediasite to m3u8downloader flow",
+      "description": "Maintain redirect/navigation flow from Mediasite playback interaction into /m3u8downloader and support selector fallbacks used in mediasite-m3u8.spec.ts.",
+      "priority": 2,
+      "status": "pending",
+      "dependencies": [
+        "TC-006"
+      ],
+      "source_test_case": "test_cases/mediasite-m3u8.spec.ts"
+    },
+    {
+      "id": "TC-009",
+      "title": "Pass baseline Jekyll smoke suite",
+      "description": "Ensure key pages (/ , /about/, /archive/, /resources/, /news-feeds/) return non-error status, contain body text, and maintain navigation/sitemap expectations from smoke.spec.ts.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [],
+      "source_test_case": "test_cases/smoke.spec.ts"
+    },
+    {
+      "id": "TC-010",
+      "title": "Publish production featured articles from important_articles data",
+      "description": "Confirm _data/important_articles.json drives featured content rendering and title visibility in production homepage featured section per uat-production.spec.ts.",
+      "priority": 2,
+      "status": "pending",
+      "dependencies": [
+        "TC-003",
+        "TC-004"
+      ],
+      "source_test_case": "test_cases/uat-production.spec.ts"
+    },
+    {
+      "id": "TC-011",
+      "title": "Emit broken-links.json artifact during UAT",
+      "description": "Generate and maintain broken-links.json output for production UAT runs so link failures are actionable and tracked over time.",
+      "priority": 2,
+      "status": "pending",
+      "dependencies": [
+        "TC-005"
+      ],
+      "source_test_case": "test_cases/uat-production.spec.ts"
+    }
+  ]
+}
