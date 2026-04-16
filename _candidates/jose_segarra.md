@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Jose Segarra"
 candidate_slug: "jose_segarra"
 city: "killeen"

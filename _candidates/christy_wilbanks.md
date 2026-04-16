@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Christy Wilbanks"
 candidate_slug: "christy_wilbanks"
 city: "killeen"

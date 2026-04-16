@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Myrna Malic-Banzon"
 candidate_slug: "myrna_malic-banzon"
 city: "killeen"

@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "David Bass"
 candidate_slug: "david_bass"
 city: "killeen"

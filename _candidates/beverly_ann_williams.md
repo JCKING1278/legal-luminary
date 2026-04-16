@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Beverly Ann Williams"
 candidate_slug: "beverly_ann_williams"
 city: "killeen"
@@ -15,7 +15,7 @@ Beverly Ann Williams is listed as a candidate for Uncategorized. This biography 
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Beverly+Ann+Williams
+- https://www.facebook.com/drbeverly.jones
 - https://www.linkedin.com/search/results/all/?keywords=Beverly+Ann+Williams
 
 ## News Mentions

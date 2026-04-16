@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Mobile navigation toggle
   const navToggle = document.querySelector('.nav-toggle');
   const navMenu = document.getElementById('primary-menu') || document.querySelector('.nav-menu');
-  
+
   if (navToggle && navMenu) {
     navToggle.setAttribute('aria-expanded', 'false');
 
@@ -47,11 +47,11 @@ document.addEventListener('DOMContentLoaded', function() {
       if (window.innerWidth <= 768) {
         const parent = this.parentElement;
         const submenu = parent.querySelector('.nav-submenu');
-        
+
         if (submenu) {
           e.preventDefault();
           parent.classList.toggle('active');
-          
+
           // Close other open submenus
           document.querySelectorAll('.nav-item-has-children').forEach(function(otherItem) {
             if (otherItem !== parent && otherItem.classList.contains('active')) {
@@ -87,14 +87,14 @@ document.addEventListener('DOMContentLoaded', function() {
       const currentRel = link.getAttribute('rel') || '';
       const relTokens = currentRel.split(/\s+/).filter(token => token.length > 0);
       const requiredTokens = ['noopener', 'noreferrer'];
-      
+
       // Add required tokens if not already present
       requiredTokens.forEach(token => {
         if (!relTokens.includes(token)) {
           relTokens.push(token);
         }
       });
-      
+
       // Set the updated rel attribute, preserving any existing values like 'sponsored'
       link.setAttribute('rel', relTokens.join(' '));
     }

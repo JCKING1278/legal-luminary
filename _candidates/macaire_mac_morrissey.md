@@ -1,12 +1,12 @@
 ---
-layout: candidate
-title: "Macaire "Mac" Morrissey"
+layout: candidates
+title: 'Macaire "Mac" Morrissey'
 candidate_slug: "macaire_mac_morrissey"
 city: "killeen"
 office: "Uncategorized"
 address: "Address pending verification for Macaire 'Mac' Morrissey"
-headshot_url: "https://www.killeentexas.gov/search?query=Macaire+"Mac"+Morrissey+headshot"
-candidate_website: "https://www.google.com/search?q=Macaire+"Mac"+Morrissey+campaign+website"
+headshot_url: "https://www.killeentexas.gov/search?query=Macaire+%22Mac%22+Morrissey+headshot"
+candidate_website: "https://www.google.com/search?q=Macaire+%22Mac%22+Morrissey+campaign+website"
 ---
 
 ## Biography

@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Shavonn Hull"
 candidate_slug: "shavonn_hull"
 city: "killeen"

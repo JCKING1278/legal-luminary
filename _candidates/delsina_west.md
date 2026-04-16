@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Delsina West"
 candidate_slug: "delsina_west"
 city: "killeen"

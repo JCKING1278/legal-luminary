@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Joseph Solomon"
 candidate_slug: "joseph_solomon"
 city: "killeen"

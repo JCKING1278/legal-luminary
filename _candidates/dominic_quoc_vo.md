@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Dominic Quoc Vo"
 candidate_slug: "dominic_quoc_vo"
 city: "killeen"

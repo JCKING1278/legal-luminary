@@ -1,20 +1,68 @@
 {
-  "generated_utc": "2026-03-15T20:30:21Z",
+  "generated_utc": "2026-04-15T18:10:13Z",
   "week_start": "",
   "week_end": "",
   "source_index_url": "https://www.bellcountytx.com/about_us/school_districts/index.php",
   "districts": [],
   "legislature_upcoming": [
     {
-      "title": "No committee meetings scheduled.",
-      "url": "https://capitol.texas.gov/Committees/MeetingsUpcoming.aspx?Chamber=H",
-      "date": "2026-03-15",
+      "title": "Energy Resources - 4/21/2026",
+      "url": "https://capitol.texas.gov/tlodocs/89R/schedules/html/C2502026042109301.htm",
+      "date": "2026-04-15",
       "source": "Texas Legislature - Upcoming House Committee Meetings"
     },
     {
-      "title": "No committee meetings scheduled.",
-      "url": "https://capitol.texas.gov/Committees/MeetingsUpcoming.aspx?Chamber=S",
-      "date": "2026-03-15",
+      "title": "Water, Agriculture and Rural Affairs - 5/11/2026",
+      "url": "https://capitol.texas.gov/tlodocs/89R/schedules/html/C7002026051109001.htm",
+      "date": "2026-04-15",
+      "source": "Texas Legislature - Upcoming Senate Committee Meetings"
+    },
+    {
+      "title": "Business & Commerce - 6/24/2026",
+      "url": "https://capitol.texas.gov/tlodocs/89R/schedules/html/C5102026062409001.htm",
+      "date": "2026-04-15",
+      "source": "Texas Legislature - Upcoming Senate Committee Meetings"
+    },
+    {
+      "title": "Finance - 7/27/2026",
+      "url": "https://capitol.texas.gov/tlodocs/89R/schedules/html/C5402026072710301.htm",
+      "date": "2026-04-15",
+      "source": "Texas Legislature - Upcoming Senate Committee Meetings"
+    },
+    {
+      "title": "Finance - 7/28/2026",
+      "url": "https://capitol.texas.gov/tlodocs/89R/schedules/html/C5402026072809001.htm",
+      "date": "2026-04-15",
+      "source": "Texas Legislature - Upcoming Senate Committee Meetings"
+    },
+    {
+      "title": "Business & Commerce - 7/29/2026",
+      "url": "https://capitol.texas.gov/tlodocs/89R/schedules/html/C5102026072909001.htm",
+      "date": "2026-04-15",
+      "source": "Texas Legislature - Upcoming Senate Committee Meetings"
+    },
+    {
+      "title": "Transportation - 7/29/2026",
+      "url": "https://capitol.texas.gov/tlodocs/89R/schedules/html/C6402026072912001.htm",
+      "date": "2026-04-15",
+      "source": "Texas Legislature - Upcoming Senate Committee Meetings"
+    },
+    {
+      "title": "Water, Agriculture and Rural Affairs - 9/1/2026",
+      "url": "https://capitol.texas.gov/tlodocs/89R/schedules/html/C7002026090109001.htm",
+      "date": "2026-04-15",
+      "source": "Texas Legislature - Upcoming Senate Committee Meetings"
+    },
+    {
+      "title": "Finance - 9/2/2026",
+      "url": "https://capitol.texas.gov/tlodocs/89R/schedules/html/C5402026090210001.htm",
+      "date": "2026-04-15",
+      "source": "Texas Legislature - Upcoming Senate Committee Meetings"
+    },
+    {
+      "title": "Business & Commerce - 9/30/2026",
+      "url": "https://capitol.texas.gov/tlodocs/89R/schedules/html/C5102026093009001.htm",
+      "date": "2026-04-15",
       "source": "Texas Legislature - Upcoming Senate Committee Meetings"
     }
   ]

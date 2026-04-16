@@ -1,88 +1,267 @@
 {
-  "project": "jekyll-static-pages-expert-agent",
+  "project": "legal-luminary-central-texas-elections",
   "language": "python",
-  "version": "1.0",
+  "phases": [],
   "tasks": [
     {
       "id": "LL-001",
-      "title": "Implement research input validation",
-      "description": "Validate presence and schema of required research artifacts from /Users/sweeden/research_paper before generation starts.",
+      "title": "Audit candidate headshots",
+      "description": "Check each candidate in _candidates/ for headshot at /assets/imgs/candidates/{slug}/headshot.jpg. Emit _data/audit_headshots.json.",
       "priority": 1,
-      "status": "pending",
-      "dependencies": []
+      "status": "completed",
+      "dependencies": [],
+      "user_story_id": "US-002",
+      "estimated_complexity": "medium",
+      "files_created": [],
+      "files_modified": [
+        "_data/audit_headshots.json"
+      ],
+      "commit_hash": "dummyhash",
+      "attempts": 0,
+      "notes": "Former phase-1 data audit."
     },
     {
       "id": "LL-002",
-      "title": "Generate candidate collection markdown pages",
-      "description": "Create/update _candidates/<candidate_slug>.md with complete front matter and rendered sections for each candidate.",
+      "title": "Audit candidate sources",
+      "description": "Count sources per candidate; require minimum 2 for verified status. Emit _data/audit_sources.json.",
       "priority": 1,
-      "status": "pending",
-      "dependencies": [
-        "LL-001"
-      ]
+      "status": "in_progress",
+      "dependencies": [],
+      "user_story_id": "US-002",
+      "estimated_complexity": "medium",
+      "files_created": [],
+      "files_modified": [
+        "_data/audit_sources.json"
+      ],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-1 data audit."
     },
     {
       "id": "LL-003",
-      "title": "Generate candidate data JSON files",
-      "description": "Write _data/candidates/<city>/<office>/<candidate_slug>.json from research artifacts for data-driven templates.",
+      "title": "Create city jurisdiction structure",
+      "description": "Reorganize _cities/killeen to have office subfolders: mayor/, city-council/, school-board/.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [],
+      "user_story_id": "US-001",
+      "estimated_complexity": "medium",
+      "files_created": [
+        "_cities/killeen/mayor/",
+        "_cities/killeen/city-council/",
+        "_cities/killeen/school-board/"
+      ],
+      "files_modified": [],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-2 structure migration."
+    },
+    {
+      "id": "LL-004",
+      "title": "Create elections landing page",
+      "description": "Build /elections/ page with breadcrumb support and sub-navigation.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-003"
+      ],
+      "user_story_id": "US-001",
+      "estimated_complexity": "medium",
+      "files_created": [
+        "elections/index.md"
+      ],
+      "files_modified": [],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-3. Breadcrumb include is LL-005."
+    },
+    {
+      "id": "LL-005",
+      "title": "Create breadcrumb include",
+      "description": "Build _includes/breadcrumbs.html that generates Home > Elections > City > Office navigation.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [],
+      "user_story_id": "US-001",
+      "estimated_complexity": "medium",
+      "files_created": [
+        "_includes/breadcrumbs.html"
+      ],
+      "files_modified": [],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-3."
+    },
+    {
+      "id": "LL-006",
+      "title": "Create office index pages",
+      "description": "Generate index.md for each office (mayor, city-council) listing incumbents and challengers.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-003",
+        "LL-004"
+      ],
+      "user_story_id": "US-001",
+      "estimated_complexity": "medium",
+      "files_created": [
+        "_cities/killeen/mayor/index.md",
+        "_cities/killeen/city-council/index.md"
+      ],
+      "files_modified": [],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-3."
+    },
+    {
+      "id": "LL-007",
+      "title": "Implement headshot validator",
+      "description": "Script to check headshot existence and update verification_status.",
       "priority": 1,
       "status": "pending",
       "dependencies": [
         "LL-001"
-      ]
-    },
-    {
-      "id": "LL-004",
-      "title": "Create candidate media directories",
-      "description": "Ensure assets/img/candidates/<candidate_slug>/ exists and include metadata placeholder per candidate.",
-      "priority": 2,
-      "status": "pending",
-      "dependencies": [
-        "LL-002"
-      ]
-    },
-    {
-      "id": "LL-005",
-      "title": "Update selenium candidate ui case inventory",
-      "description": "Generate tests/selenium/candidate_ui_cases.json using latest candidate pages and required assertion text.",
-      "priority": 1,
-      "status": "pending",
-      "dependencies": [
-        "LL-002",
-        "LL-003"
-      ]
-    },
-    {
-      "id": "LL-006",
-      "title": "Maintain selenium candidate page test hook",
-      "description": "Create/update tests/selenium/test_candidate_pages.py to assert candidate visibility and required page fields.",
-      "priority": 1,
-      "status": "pending",
-      "dependencies": [
-        "LL-005"
-      ]
-    },
-    {
-      "id": "LL-007",
-      "title": "Create github actions workflow for candidate sync",
-      "description": "Add .github/workflows/candidate-pages-sync.yml to run generation, Jekyll build, and UI verification.",
-      "priority": 1,
-      "status": "pending",
-      "dependencies": [
-        "LL-002",
-        "LL-003",
-        "LL-006"
-      ]
+      ],
+      "user_story_id": "US-002",
+      "estimated_complexity": "medium",
+      "files_created": [
+        "scripts/validate_headshots.py"
+      ],
+      "files_modified": [],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-4 quality gates."
     },
     {
       "id": "LL-008",
-      "title": "Emit sync run summary artifact",
-      "description": "Write a run summary file with candidate count, files written, and verification status for CI visibility.",
+      "title": "Implement source validator",
+      "description": "Script to count sources and require minimum 2 for verified status.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-002"
+      ],
+      "user_story_id": "US-002",
+      "estimated_complexity": "medium",
+      "files_created": [
+        "scripts/validate_sources.py"
+      ],
+      "files_modified": [],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-4 quality gates."
+    },
+    {
+      "id": "LL-009",
+      "title": "Update candidate front matter schema",
+      "description": "Add role (incumbent/challenger), headshot_verified, office_district fields.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-007",
+        "LL-008"
+      ],
+      "user_story_id": "US-002",
+      "estimated_complexity": "medium",
+      "files_created": [],
+      "files_modified": [
+        "_candidates/*.md"
+      ],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-4."
+    },
+    {
+      "id": "LL-010",
+      "title": "Set published flag based on verification",
+      "description": "For each candidate, set published: true only if headshot exists AND 2+ sources.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-009"
+      ],
+      "user_story_id": "US-002",
+      "estimated_complexity": "medium",
+      "files_created": [],
+      "files_modified": [
+        "_candidates/*.md"
+      ],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-4."
+    },
+    {
+      "id": "LL-011",
+      "title": "Crawl Killeen election news",
+      "description": "Fetch latest news from killeentexas.gov and local news sources for election updates (allowlisted URLs only).",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [],
+      "user_story_id": "US-004",
+      "estimated_complexity": "medium",
+      "files_created": [
+        "_posts/elections-killeen-*.md"
+      ],
+      "files_modified": [],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-5 content refresh."
+    },
+    {
+      "id": "LL-012",
+      "title": "Update candidate news mentions",
+      "description": "For each candidate, add recent news mentions to their dossier.",
       "priority": 2,
       "status": "pending",
       "dependencies": [
-        "LL-007"
-      ]
+        "LL-011"
+      ],
+      "user_story_id": "US-004",
+      "estimated_complexity": "medium",
+      "files_created": [],
+      "files_modified": [
+        "_candidates/*.md"
+      ],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Former phase-5."
+    },
+    {
+      "id": "LL-013",
+      "title": "Build Jekyll and test",
+      "description": "Run bundle exec jekyll build and verify no errors.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-010"
+      ],
+      "user_story_id": "US-005",
+      "estimated_complexity": "medium",
+      "files_created": [],
+      "files_modified": [],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Command: bundle exec jekyll build"
+    },
+    {
+      "id": "LL-014",
+      "title": "Run Playwright UI tests",
+      "description": "Verify elections page, breadcrumbs, and candidate pages render correctly.",
+      "priority": 1,
+      "status": "pending",
+      "dependencies": [
+        "LL-013"
+      ],
+      "user_story_id": "US-005",
+      "estimated_complexity": "medium",
+      "files_created": [],
+      "files_modified": [],
+      "commit_hash": null,
+      "attempts": 0,
+      "notes": "Command: npx playwright test"
     }
-  ]
+  ],
+  "version": "2.1",
+  "created_at": "2026-04-15T20:00:00+00:00",
+  "updated_at": "2026-04-16T03:17:29.265496+00:00"
 }

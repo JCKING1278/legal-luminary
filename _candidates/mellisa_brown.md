@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Mellisa Brown"
 candidate_slug: "mellisa_brown"
 city: "killeen"

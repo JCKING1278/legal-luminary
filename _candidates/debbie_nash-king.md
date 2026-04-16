@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Debbie Nash-King"
 candidate_slug: "debbie_nash-king"
 city: "killeen"

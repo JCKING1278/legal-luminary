@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Olayinka Adelusi"
 candidate_slug: "olayinka_adelusi"
 city: "killeen"

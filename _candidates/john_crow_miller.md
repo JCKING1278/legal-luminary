@@ -1,12 +1,12 @@
 ---
-layout: candidate
-title: "John "Crow" Miller"
+layout: candidates
+title: 'John "Crow" Miller'
 candidate_slug: "john_crow_miller"
 city: "killeen"
 office: "Uncategorized"
 address: "Address pending verification for John 'Crow' Miller"
-headshot_url: "https://www.killeentexas.gov/search?query=John+"Crow"+Miller+headshot"
-candidate_website: "https://www.google.com/search?q=John+"Crow"+Miller+campaign+website"
+headshot_url: "https://www.killeentexas.gov/search?query=John+%22Crow%22+Miller+headshot"
+candidate_website: "https://www.google.com/search?q=John+%22Crow%22+Miller+campaign+website"
 ---
 
 ## Biography

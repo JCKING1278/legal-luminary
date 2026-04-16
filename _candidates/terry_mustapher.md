@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Terry Mustapher"
 candidate_slug: "terry_mustapher"
 city: "killeen"

@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Charles “Chuck” Kimble"
 candidate_slug: "charles_chuck_kimble"
 city: "killeen"

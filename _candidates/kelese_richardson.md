@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Kelese Richardson"
 candidate_slug: "kelese_richardson"
 city: "killeen"

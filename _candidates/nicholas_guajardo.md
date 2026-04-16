@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Nicholas Guajardo"
 candidate_slug: "nicholas_guajardo"
 city: "killeen"

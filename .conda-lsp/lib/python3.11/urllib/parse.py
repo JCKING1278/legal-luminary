@@ -167,7 +167,7 @@ class _NetlocResultMixinBase(object):
         if not hostname:
             return None
         # Scoped IPv6 address may have zone info, which must not be lowercased
-        # like http://[fe80::822a:a8ff:fe49:470c%tESt]:1234/keys
+        # like http://[fe80::822a:a8ff:fe49:470c%tESt]52047/keys
         separator = '%' if isinstance(hostname, str) else b'%'
         hostname, percent, zone = hostname.partition(separator)
         return hostname.lower() + percent + zone

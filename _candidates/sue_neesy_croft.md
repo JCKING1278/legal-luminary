@@ -1,5 +1,5 @@
 ---
-layout: candidate
+layout: candidates
 title: "Sue “Neesy” Croft"
 candidate_slug: "sue_neesy_croft"
 city: "killeen"

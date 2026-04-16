@@ -15,7 +15,7 @@ import requests
 
 DEFAULT_PROMPT = "Describe this image in two sentences"
 DEFAULT_MODEL = "zai-org/glm-4.6v-flash"
-DEFAULT_BASE_URL = "http://localhost:1234"
+DEFAULT_BASE_URL = "http://localhost:53985"
 EXT_TO_MEDIA_TYPE = {
     ".jpg": "image/jpeg",
     ".jpeg": "image/jpeg",
