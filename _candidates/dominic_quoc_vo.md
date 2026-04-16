@@ -15,7 +15,7 @@ Dominic Quoc Vo is listed as a candidate for Uncategorized. This biography requi
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Dominic+Quoc+Vo
+- https://www.facebook.com/dominicvo
 - https://www.linkedin.com/search/results/all/?keywords=Dominic+Quoc+Vo
 
 ## News Mentions

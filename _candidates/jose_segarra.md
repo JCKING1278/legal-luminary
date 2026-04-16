@@ -15,7 +15,7 @@ Jose Segarra is listed as a candidate for Uncategorized. This biography requires
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Jose+Segarra
+- https://www.facebook.com/JoseSegarra.Broker
 - https://www.linkedin.com/search/results/all/?keywords=Jose+Segarra
 
 ## News Mentions

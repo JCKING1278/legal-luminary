@@ -15,7 +15,7 @@ Christy Wilbanks is listed as a candidate for Uncategorized. This biography requ
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Christy+Wilbanks
+- https://www.facebook.com/groups/1347808815318664/
 - https://www.linkedin.com/search/results/all/?keywords=Christy+Wilbanks
 
 ## News Mentions

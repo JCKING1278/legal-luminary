@@ -15,7 +15,7 @@ Sue “Neesy” Croft is listed as a candidate for Uncategorized. This biography
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Sue+“Neesy”+Croft
+- https://www.facebook.com/FriendsofSueNeesyCroft
 - https://www.linkedin.com/search/results/all/?keywords=Sue+“Neesy”+Croft
 
 ## News Mentions

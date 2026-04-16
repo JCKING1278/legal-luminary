@@ -15,7 +15,7 @@ Myrna Malic-Banzon is listed as a candidate for Uncategorized. This biography re
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Myrna+Malic-Banzon
+- https://www.facebook.com/myrna.banzon.7
 - https://www.linkedin.com/search/results/all/?keywords=Myrna+Malic-Banzon
 
 ## News Mentions

@@ -15,7 +15,7 @@ Riakos ‘Rock’ Adams is listed as a candidate for Uncategorized. This biograp
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Riakos+‘Rock’+Adams
+- https://www.facebook.com/kdhnews
 - https://www.linkedin.com/search/results/all/?keywords=Riakos+‘Rock’+Adams
 
 ## News Mentions

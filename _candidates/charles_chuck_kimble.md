@@ -15,7 +15,7 @@ Charles “Chuck” Kimble is listed as a candidate for Uncategorized. This biog
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Charles+“Chuck”+Kimble
+- https://www.facebook.com/search/top?q=C.%20Cochran%20killeen%20central%20texas
 - https://www.linkedin.com/search/results/all/?keywords=Charles+“Chuck”+Kimble
 
 ## News Mentions

@@ -15,7 +15,7 @@ Terry Mustapher is listed as a candidate for Uncategorized. This biography requi
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Terry+Mustapher
+- https://www.facebook.com/phyjones
 - https://www.linkedin.com/search/results/all/?keywords=Terry+Mustapher
 
 ## News Mentions

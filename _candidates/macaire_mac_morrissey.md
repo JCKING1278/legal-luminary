@@ -15,7 +15,7 @@ Macaire "Mac" Morrissey is listed as a candidate for Uncategorized. This biograp
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Macaire+"Mac"+Morrissey
+- https://www.facebook.com/macaire.morrissey
 - https://www.linkedin.com/search/results/all/?keywords=Macaire+"Mac"+Morrissey
 
 ## News Mentions

@@ -15,7 +15,7 @@ Joseph Solomon is listed as a candidate for Uncategorized. This biography requir
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Joseph+Solomon
+- https://www.facebook.com/KilleenTexas
 - https://www.linkedin.com/search/results/all/?keywords=Joseph+Solomon
 
 ## News Mentions

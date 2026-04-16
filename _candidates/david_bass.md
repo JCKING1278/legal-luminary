@@ -15,7 +15,7 @@ David Bass is listed as a candidate for Uncategorized. This biography requires c
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=David+Bass
+- https://www.facebook.com/kffrg
 - https://www.linkedin.com/search/results/all/?keywords=David+Bass
 
 ## News Mentions

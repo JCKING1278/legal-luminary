@@ -15,7 +15,7 @@ Chet Southworth is listed as a candidate for Uncategorized. This biography requi
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Chet+Southworth
+- https://www.facebook.com/chet.southworth
 - https://www.linkedin.com/search/results/all/?keywords=Chet+Southworth
 
 ## News Mentions

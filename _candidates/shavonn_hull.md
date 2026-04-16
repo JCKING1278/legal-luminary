@@ -15,7 +15,7 @@ Shavonn Hull is listed as a candidate for Uncategorized. This biography requires
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Shavonn+Hull
+- https://www.facebook.com/kdhnews
 - https://www.linkedin.com/search/results/all/?keywords=Shavonn+Hull
 
 ## News Mentions

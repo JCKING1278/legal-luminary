@@ -15,7 +15,7 @@ Nicholas Guajardo is listed as a candidate for Uncategorized. This biography req
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Nicholas+Guajardo
+- https://www.facebook.com/kdhnews
 - https://www.linkedin.com/search/results/all/?keywords=Nicholas+Guajardo
 
 ## News Mentions

@@ -15,7 +15,7 @@ Debbie Nash-King is listed as a candidate for Uncategorized. This biography requ
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Debbie+Nash-King
+- https://www.facebook.com/profile.php?id=61588205712206
 - https://www.linkedin.com/search/results/all/?keywords=Debbie+Nash-King
 
 ## News Mentions

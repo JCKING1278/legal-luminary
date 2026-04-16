@@ -15,7 +15,7 @@ Delsina West is listed as a candidate for Uncategorized. This biography requires
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Delsina+West
+- https://www.facebook.com/search/top?q=Delsina%20West%20killeen%20central%20texas
 - https://www.linkedin.com/search/results/all/?keywords=Delsina+West
 
 ## News Mentions

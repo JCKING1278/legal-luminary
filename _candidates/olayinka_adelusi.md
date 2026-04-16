@@ -15,7 +15,7 @@ Olayinka Adelusi is listed as a candidate for Uncategorized. This biography requ
 
 ## Social Media
 
-- https://www.facebook.com/search/top?q=Olayinka+Adelusi
+- https://www.facebook.com/profile.php?id=61565470053264
 - https://www.linkedin.com/search/results/all/?keywords=Olayinka+Adelusi
 
 ## News Mentions
