@@ -6,7 +6,7 @@ city: "killeen"
 office: "Uncategorized"
 address: "Address pending verification for Riakos ‘Rock’ Adams"
 headshot_url: "https://www.killeentexas.gov/search?query=Riakos+‘Rock’+Adams+headshot"
-candidate_website: "https://www.google.com/search?q=Riakos+‘Rock’+Adams+campaign+website"
+candidate_website: "https://www.google.com/search?q=Riakos+%E2%80%98Rock%E2%80%99+Adams+campaign+website+killeen"
 ---
 
 ## Biography
@@ -20,4 +20,4 @@ Riakos ‘Rock’ Adams is listed as a candidate for Uncategorized. This biograp
 
 ## News Mentions
 
-- [Riakos ‘Rock’ Adams election filing coverage](https://news.google.com/search?q=Riakos+‘Rock’+Adams+Uncategorized) (google-news, 2026-04-15T16:24:00.968196+00:00)
+- [Riakos ‘Rock’ Adams election filing coverage](https://news.google.com/search?q=Riakos+%E2%80%98Rock%E2%80%99+Adams+Uncategorized+killeen) (google-news, 2026-04-15T16:24:00.968196+00:00)

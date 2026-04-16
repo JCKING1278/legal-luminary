@@ -1,0 +1,1038 @@
+[
+  {
+    "slug": "killeen",
+    "display_name": "Killeen",
+    "roster_names": [
+      "Riakos Adams",
+      "Ramon Alvarez",
+      "Nina Cobb",
+      "Joseph Solomon",
+      "Debbie Nash-King (running)"
+    ],
+    "downloads": [
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2026/4/2217_A_City_Council_26-04-21_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2217_A_City_Council_26-04-21_Agenda_30683d0a7a.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2026/4/2216_A_City_Council_26-04-07_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2216_A_City_Council_26-04-07_Agenda_6f5af2aba7.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2026/3/2215_A_City_Council_26-03-24_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2215_A_City_Council_26-03-24_Agenda_c54732004c.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2026/3/2214_A_City_Council_26-03-03_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2214_A_City_Council_26-03-03_Agenda_65703dbbef.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2026/2/2210_A_City_Council_26-02-17_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2210_A_City_Council_26-02-17_Agenda_aeca79bfa3.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2026/2/2209_A_City_Council_26-02-03_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2209_A_City_Council_26-02-03_Agenda_ed82adae86.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2026/2/2212_A_City_Council_26-02-03_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2212_A_City_Council_26-02-03_Agenda_e3bcd6ae53.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2026/1/2208_A_City_Council_26-01-20_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2208_A_City_Council_26-01-20_Agenda_61d13bf88e.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2026/1/2204_A_City_Council_26-01-06_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2204_A_City_Council_26-01-06_Agenda_6d4ba5cc31.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2026/1/2205_A_City_Council_26-01-06_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2205_A_City_Council_26-01-06_Agenda_25f6b3ad15.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/12/2207_A_City_Council_25-12-19_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2207_A_City_Council_25-12-19_Agenda_d67992d640.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/12/2203_A_City_Council_25-12-09_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2203_A_City_Council_25-12-09_Agenda_d89dd266d0.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/12/2201_A_City_Council_25-12-02_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2201_A_City_Council_25-12-02_Agenda_6bfa4e83d8.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/12/2202_A_City_Council_25-12-02_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2202_A_City_Council_25-12-02_Agenda_d9c4bf010a.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/11/2200_A_City_Council_25-11-18_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2200_A_City_Council_25-11-18_Agenda_6275ed05d4.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/11/2195_A_City_Council_25-11-04_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2195_A_City_Council_25-11-04_Agenda_d2185f45b5.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/11/2199_A_City_Council_25-11-04_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2199_A_City_Council_25-11-04_Agenda_bf0b301312.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/10/2198_A_City_Council_25-10-21_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2198_A_City_Council_25-10-21_Agenda_6ba40d8b3a.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/10/2197_A_City_Council_25-10-07_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2197_A_City_Council_25-10-07_Agenda_c4053a1420.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/9/2194_A_City_Council_25-09-16_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2194_A_City_Council_25-09-16_Agenda_ac98f11e77.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/9/2196_A_City_Council_25-09-16_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2196_A_City_Council_25-09-16_Agenda_ae57692bdd.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/9/2193_A_City_Council_25-09-02_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2193_A_City_Council_25-09-02_Agenda_c40037b2e0.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/8/2192_A_City_Council_25-08-19_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2192_A_City_Council_25-08-19_Agenda_3bc1ae3896.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/8/2191_A_City_Council_25-08-05_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2191_A_City_Council_25-08-05_Agenda_cb9a57d8d2.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/7/2186_A_City_Council_25-07-22_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2186_A_City_Council_25-07-22_Agenda_674a603912.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/7/2187_A_City_Council_25-07-15_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2187_A_City_Council_25-07-15_Agenda_9612376eb1.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/7/2188_A_City_Council_25-07-15_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2188_A_City_Council_25-07-15_Agenda_fa13ad41e2.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/7/2185_A_City_Council_25-07-01_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2185_A_City_Council_25-07-01_Agenda_105171c3fd.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/6/2182_A_City_Council_25-06-17_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2182_A_City_Council_25-06-17_Agenda_eac923b8bd.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/6/2176_A_City_Council_25-06-03_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2176_A_City_Council_25-06-03_Agenda_91f378fad0.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/6/2179_A_City_Council_25-06-03_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2179_A_City_Council_25-06-03_Agenda_aa10d07f07.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/5/2175_A_City_Council_25-05-20_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2175_A_City_Council_25-05-20_Agenda_ed5b797e45.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/5/2177_A_City_Council_25-05-13_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2177_A_City_Council_25-05-13_Agenda_3939504ca0.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/5/2178_A_City_Council_25-05-13_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2178_A_City_Council_25-05-13_Agenda_8d0195af35.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/5/2174_A_City_Council_25-05-06_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2174_A_City_Council_25-05-06_Agenda_6d0e11f4b7.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://legistar.granicus.com/killeen/meetings/2025/4/2171_A_City_Council_25-04-15_Agenda.pdf",
+        "kind": "agenda",
+        "path": "_data/meetings_cache/killeen/2171_A_City_Council_25-04-15_Agenda_ff07bbcffb.pdf",
+        "cached": false
+      }
+    ],
+    "errors": [],
+    "name_snippets": {}
+  },
+  {
+    "slug": "temple",
+    "display_name": "Temple",
+    "roster_names": [
+      "Tim Davis",
+      "Jessica Walker",
+      "Dr. Zoe Grant",
+      "Karl Kuykendall",
+      "Mike Pilkington"
+    ],
+    "downloads": [],
+    "errors": [
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/07-02-20 CC Agenda Packet.pdf?t=202507141404200",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/07-02-20%20CC%20Agenda%20Packet.pdf?t=202507141404200&t=202507141404200'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/06-18-20 CC Agenda Packet.pdf?t=202507141404200",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/06-18-20%20CC%20Agenda%20Packet.pdf?t=202507141404200&t=202507141404200'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/06-04-20 CC Agenda Packet.pdf?t=202507141404190",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/06-04-20%20CC%20Agenda%20Packet.pdf?t=202507141404190&t=202507141404190'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/05-21-20 CC Agenda Packet.pdf?t=202507141404190",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/05-21-20%20CC%20Agenda%20Packet.pdf?t=202507141404190&t=202507141404190'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/05-07-20 CC Agenda Packet.pdf?t=202507141404190",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/05-07-20%20CC%20Agenda%20Packet.pdf?t=202507141404190&t=202507141404190'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/04-16-20 CC Agenda Packet.pdf?t=202507141404180",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/04-16-20%20CC%20Agenda%20Packet.pdf?t=202507141404180&t=202507141404180'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/04-02-20 CC Agenda Packet.pdf?t=202507141404180",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/04-02-20%20CC%20Agenda%20Packet.pdf?t=202507141404180&t=202507141404180'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/03-19-20 CC Agenda Packet.pdf?t=202507141404180",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/03-19-20%20CC%20Agenda%20Packet.pdf?t=202507141404180&t=202507141404180'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/03-05-20 CC Agenda Packet.pdf?t=202507141404180",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/03-05-20%20CC%20Agenda%20Packet.pdf?t=202507141404180&t=202507141404180'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/02-20-20 CC Agenda Packet.pdf?t=202507141404180",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/02-20-20%20CC%20Agenda%20Packet.pdf?t=202507141404180&t=202507141404180'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/02-06-20 CC Agenda Packet.pdf?t=202507141404170",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/02-06-20%20CC%20Agenda%20Packet.pdf?t=202507141404170&t=202507141404170'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2020/01-16-20 CC Agenda Packet.pdf?t=202507141404170",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2020/01-16-20%20CC%20Agenda%20Packet.pdf?t=202507141404170&t=202507141404170'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/12-19-19 CC Agenda Packet.pdf?t=202507141404230",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/12-19-19%20CC%20Agenda%20Packet.pdf?t=202507141404230&t=202507141404230'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/11-21-19 CC Agenda Packet.pdf?t=202507141404230",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/11-21-19%20CC%20Agenda%20Packet.pdf?t=202507141404230&t=202507141404230'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/11-07-19 CC Agenda Packet.pdf?t=202507141404230",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/11-07-19%20CC%20Agenda%20Packet.pdf?t=202507141404230&t=202507141404230'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/10-17-19 CC Agenda Packet.pdf?t=202507141404220",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/10-17-19%20CC%20Agenda%20Packet.pdf?t=202507141404220&t=202507141404220'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/10-03-19 CC Agenda Packet.pdf?t=202507141404220",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/10-03-19%20CC%20Agenda%20Packet.pdf?t=202507141404220&t=202507141404220'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/09-19-19 CC Agenda Packet.pdf?t=202507141404210",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/09-19-19%20CC%20Agenda%20Packet.pdf?t=202507141404210&t=202507141404210'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/09-05-19 CC Agenda Packet.pdf?t=202507141404210",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/09-05-19%20CC%20Agenda%20Packet.pdf?t=202507141404210&t=202507141404210'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/08-15-19 CC Agenda Packet.pdf?t=202507141404210",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/08-15-19%20CC%20Agenda%20Packet.pdf?t=202507141404210&t=202507141404210'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/07-18-19 CC Agenda Packet.pdf?t=202507141404200",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/07-18-19%20CC%20Agenda%20Packet.pdf?t=202507141404200&t=202507141404200'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/07-11-19 CC Agenda Packet.pdf?t=202507141404200",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/07-11-19%20CC%20Agenda%20Packet.pdf?t=202507141404200&t=202507141404200'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/06-20-19 CC Agenda Packet.pdf?t=202507141404200",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/06-20-19%20CC%20Agenda%20Packet.pdf?t=202507141404200&t=202507141404200'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      },
+      {
+        "url": "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archive/city council/2019/06-06-19 CC Agenda Packet.pdf?t=202507141404190",
+        "error": "Client error '404 Not Found' for url 'https://cms9files.revize.com/templetx25/departments/administration/city_secretary/recent_agendas___minutes/archive/city%20council/2019/06-06-19%20CC%20Agenda%20Packet.pdf?t=202507141404190&t=202507141404190'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      }
+    ],
+    "name_snippets": {}
+  },
+  {
+    "slug": "bartlett",
+    "display_name": "Bartlett",
+    "roster_names": [
+      "Chad Mees",
+      "Vickie Cooper",
+      "Gayle Jones",
+      "Jesse Luna",
+      "Jackie Ivicic",
+      "Thomas Zimmer"
+    ],
+    "downloads": [
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2914/signed_minutes_3-23-26.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/signed_minutes_3-23-26_1ab9793baf.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2913/signed_minutes_3-9-26.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/signed_minutes_3-9-26_39004e7354.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2909/minutes_2-23-26.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/minutes_2-23-26_a7a9e5f22d.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2892/minutes_1-12-26_pz.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/minutes_1-12-26_pz_0bcc061b7a.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2891/signed_minutes_-_12.22.2025.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/signed_minutes_-_12.22.2025_8338bf4284.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2888/signed_minutes_12-08-25_regular_meeting.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/signed_minutes_12-08-25_regular_meeting_22c89d73c8.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2888/signed_minutes_p.z_12-08-25.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/signed_minutes_p.z_12-08-25_6da92fe5dd.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2887/signed_minutes_-_11.24.25_regular_meeting.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/signed_minutes_-_11.24.25_regular_meeting_9831dd16b2.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2887/signed_minutes_-_11.24.25_pz.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/signed_minutes_-_11.24.25_pz_db7a3d0330.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2903/signed_minutes_-_11.17.25_-_special.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/signed_minutes_-_11.17.25_-_special_6c52e4d1b6.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2885/signed_minutes_-_11.10.25_-_regular_meeting.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/signed_minutes_-_11.10.25_-_regular_meeting_84552f736f.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.bartlett-tx.us/sites/default/files/fileattachments/city_council/meeting/2877/signed_minutes_-_10.27.25.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/bartlett/signed_minutes_-_10.27.25_cf40df6c67.pdf",
+        "cached": false
+      }
+    ],
+    "errors": [],
+    "name_snippets": {}
+  },
+  {
+    "slug": "salado",
+    "display_name": "Salado",
+    "roster_names": [
+      "(vacant)",
+      "Zach Hurst",
+      "Neil Dunch",
+      "James (Jim) Lassiter",
+      "Allen Sandor"
+    ],
+    "downloads": [
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4994/special_meeting_minutes_03_26_2026_final.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/special_meeting_minutes_03_26_2026_final_72dca6277c.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4988/regular_meeting_minutes_03_05_2026_final.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/regular_meeting_minutes_03_05_2026_final_fc38075ad4.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4984/boa_regular_meeting_minutes_02_19_2026_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_regular_meeting_minutes_02_19_2026_signed_b17d8cb01c.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4973/signed_minutes_02-05-2026.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/signed_minutes_02-05-2026_99f06c28a1.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4967/boa_jan_23_2026_minutes_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_jan_23_2026_minutes_signed_2942d1c199.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4964/boa_jan_15_2026_minutes_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_jan_15_2026_minutes_signed_af722489c0.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4962/boa_jan_6_2026_630pm_minutes_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_jan_6_2026_630pm_minutes_signed_f5f08e0d62.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4961/boa_jan_6_2026_5pm_minutes_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_jan_6_2026_5pm_minutes_signed_a48199b881.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4956/boa_dec_18_2025_minutes_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_dec_18_2025_minutes_signed_66ae2413ca.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4954/boa_dec_11_2025_minutes_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_dec_11_2025_minutes_signed_2c2ba0f55c.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4945/boa_nov_20_2025_minutes_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_nov_20_2025_minutes_signed_a4c2466f97.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4942/boa_nov_18_2025_workshop_minutes_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_nov_18_2025_workshop_minutes_signed_ab9dffb309.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4940/boa_november_6_2025_minutes_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_november_6_2025_minutes_signed_80cc91040e.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.saladotx.gov/sites/default/files/fileattachments/board_of_aldermen/meeting/4929/boa_oct_16_2025_minutes_signed.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/salado/boa_oct_16_2025_minutes_signed_200b47a731.pdf",
+        "cached": false
+      }
+    ],
+    "errors": [],
+    "name_snippets": {}
+  },
+  {
+    "slug": "nolanville",
+    "display_name": "Nolanville",
+    "roster_names": [
+      "Andy Williams",
+      "James Lynn Bilberry",
+      "Karishma Talbott",
+      "Juanita Sims",
+      "Tanara Grisham",
+      "Mikayla Mondragon"
+    ],
+    "downloads": [
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/3024/0/Regular%20Council%20Meeting%20Minutes%20March%205%202026.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_March_5_2026_b116866d28.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/2897/0/Regular%20Council%20Meeting%20Minutes%2010.02.2025.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_10.02.2025_de699a9eb1.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/2897/0/Regular%20Council%20Meeting%20Minutes%20%2009.18.2025.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_09.18.2025_ea74856628.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/2897/0/Regular%20Council%20Meeting%20Minutes%20%2009.04.2025.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_09.04.2025_0944cd91bb.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/2897/0/Regular%20Council%20Meeting%20Minutes%2008.21.2025.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_08.21.2025_7c29b4147a.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/2897/0/Regular%20Council%20Meeting%20Minutes%2008.07.2025.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_08.07.2025_e2cdc38801.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/2897/0/Regular%20Council%20Meeting%20Minutes%20June%2012,%202024.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_June_12_2024_ebcd40d079.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/2897/0/Regular%20Council%20Meeting%20Minutes%20June%205,%202024.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_June_5_2024_0c575d6231.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/2897/0/Regular%20Council%20Meeting%20Minutes%20May%2015,%202024.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_May_15_2024_6dfbf46bbe.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/2897/0/Regular%20Council%20Meeting%20Minutes%20April%203,%202024.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_April_3_2024_d61c08b00c.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://www.nolanvilletx.gov/page/open/2499/0/Regular%20Council%20Meeting%20Minutes%20-%20October%2020,%202022.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/nolanville/Regular_Council_Meeting_Minutes_-_October_20_2022_ba0d2344da.pdf",
+        "cached": false
+      }
+    ],
+    "errors": [],
+    "name_snippets": {}
+  },
+  {
+    "slug": "morgans_point_resort",
+    "display_name": "Morgan's Point Resort",
+    "roster_names": [
+      "James Snyder",
+      "Roxanne Stryker",
+      "Stephen Bishop",
+      "Dorothy Allyn",
+      "Samuel Pallin",
+      "Bruce Leonhardt"
+    ],
+    "downloads": [
+      {
+        "url": "https://mccmeetings.blob.core.usgovcloudapi.net/morganspnt-pubu/MEET-Minutes-236f2307c8da4e5aa2f45526906d2c3a.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/morgans_point_resort/MEET-Minutes-236f2307c8da4e5aa2f45526906d2c3a_ecaba9dd2b.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://mccmeetings.blob.core.usgovcloudapi.net/morganspnt-pubu/MEET-Minutes-7dbb271e5d5f4132bbb59f1dd7d6d9a0.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/morgans_point_resort/MEET-Minutes-7dbb271e5d5f4132bbb59f1dd7d6d9a0_c78836da1c.pdf",
+        "cached": false
+      }
+    ],
+    "errors": [],
+    "name_snippets": {}
+  },
+  {
+    "slug": "rogers",
+    "display_name": "Rogers",
+    "roster_names": [
+      "Jeff Watson",
+      "Ernest Stroud",
+      "Robyn Skrhak",
+      "Joshua Norsworthy",
+      "Mallory Anthony",
+      "Doyle Ray Harris"
+    ],
+    "downloads": [
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2026/03/Agenda-040226.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Agenda-040226_f037e40e44.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2026/02/Agenda-030526.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Agenda-030526_674856fee5.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2025/10/Agenda-101625.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Agenda-101625_6bb39e5980.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2025/09/Agenda-2-092525.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Agenda-2-092525_f09070fc73.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2025/09/agenda-092525-1.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/agenda-092525-1_89c5d249c7.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2025/09/Agenda-091825-Ordinance.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Agenda-091825-Ordinance_4845b0b0ce.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2025/09/Agenda-Proposed-Budget.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Agenda-Proposed-Budget_2c8b188524.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2025/08/Agenda-82825.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Agenda-82825_54ed2940ce.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2025/08/Agenda-81825.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Agenda-81825_7581063054.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2025/04/Agenda-04212025.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Agenda-04212025_e010303a25.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2025/12/Minutes-11202025.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Minutes-11202025_c3c5916344.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2025/08/Minutes-080425.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Minutes-080425_8f99a06638.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2024/07/Minutes-03252024.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Minutes-03252024_3f1c3e7316.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2024/07/Minutes-03182024.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Minutes-03182024_7907bb1c43.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2024/07/Minutes-02262024.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Minutes-02262024_1ec43e67e5.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2024/07/Minutes-01222024.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Minutes-01222024_ef3eebbeaa.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2024/07/Minutes-12182023.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Minutes-12182023_243348529f.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofrogerstx.gov/wp-content/uploads/2024/07/Minutes-11202023.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/rogers/Minutes-11202023_42b644a701.pdf",
+        "cached": false
+      }
+    ],
+    "errors": [],
+    "name_snippets": {}
+  },
+  {
+    "slug": "holland",
+    "display_name": "Holland",
+    "roster_names": [
+      "Johnny Kallus",
+      "AJ Hill",
+      "Oscar Perez",
+      "Barbara Critchfield",
+      "Dale Rendon",
+      "Laura Cosper"
+    ],
+    "downloads": [
+      {
+        "url": "https://cityofholland.org/documents/311/04-20-2026_Special_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/04-20-2026_Special_City_Council_Meeting_Agenda_3f6a0137df.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/03-23-2026_Regular_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/03-23-2026_Regular_City_Council_Meeting_Agenda_851759ffe8.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/02-23-2026_P_Z_and_Regular_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/02-23-2026_P_Z_and_Regular_City_Council_Meeting_Agenda_42b514d87a.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/01-26-2026_P_Z_and_Regular_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/01-26-2026_P_Z_and_Regular_City_Council_Meeting_Agenda_934d57fe47.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/12-15-2025_P_Z_and_Regular_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/12-15-2025_P_Z_and_Regular_City_Council_Meeting_Agenda_7997934722.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/11-17-2025_P_Z_and_Regular_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/11-17-2025_P_Z_and_Regular_City_Council_Meeting_Agenda_20d71a27c3.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/10-27-2025_P_Z_and_Regular_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/10-27-2025_P_Z_and_Regular_City_Council_Meeting_Agenda_8f0a2d1dc8.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/10-14-2025__Special_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/10-14-2025__Special_City_Council_Meeting_Agenda_7986ae325d.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/09-22-2025_Public_Hearing___Regular_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/09-22-2025_Public_Hearing___Regular_City_Council_Meeting_Agenda_52cb40d5c1.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/08-25-2025_Regular_City_Council__.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/08-25-2025_Regular_City_Council___4599ce1caf.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/08-11-25_Special_City_Council_Meeting_minutes_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/08-11-25_Special_City_Council_Meeting_minutes_Agenda_deb6c2bd7d.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/07-14-2025__Special_Workshop_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/07-14-2025__Special_Workshop_City_Council_Meeting_Agenda_ef1852d350.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/07-01-2025__Special_Workshop_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/07-01-2025__Special_Workshop_City_Council_Meeting_Agenda_7ec90fedf4.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/06-30-2025__Special_Workshop_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/06-30-2025__Special_Workshop_City_Council_Meeting_Agenda_81edc7442b.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/06-23-2025_Regular_City_Council__.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/06-23-2025_Regular_City_Council___b9f081e96c.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/5-12-2025_Regular_City_Council_Metting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/5-12-2025_Regular_City_Council_Metting_Agenda_f4c5ba5fb8.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/05-06-2025__Special_Workshop_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/05-06-2025__Special_Workshop_City_Council_Meeting_Agenda_734f703339.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/04-28-2025_Regular_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/04-28-2025_Regular_City_Council_Meeting_Agenda_f3f1ebe8e0.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/04-16-2025__Special_City_Council_Meeting_minutes_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/04-16-2025__Special_City_Council_Meeting_minutes_Agenda_9b31736ea6.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://cityofholland.org/documents/311/03-24-2025_Regular_City_Council_Meeting_Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/holland/03-24-2025_Regular_City_Council_Meeting_Agenda_45735a0c4d.pdf",
+        "cached": false
+      }
+    ],
+    "errors": [],
+    "name_snippets": {}
+  },
+  {
+    "slug": "little_river_academy",
+    "display_name": "Little River-Academy",
+    "roster_names": [
+      "Domingo Montalbo",
+      "Anysia Jones",
+      "Elmer Williams",
+      "Russ Nelson",
+      "David Newsome",
+      "Robert Kirkpatrick",
+      "James Baker"
+    ],
+    "downloads": [
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/04/April-9th-Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/April-9th-Agenda_2811cab7e9.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/03/Minutes_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Minutes_001_0d1289556f.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/03/March-12th-Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/March-12th-Agenda_cc1951cdbe.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/02/Jan-23-minutes_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Jan-23-minutes_001_0be567e892.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/02/Jan-8th-minutes_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Jan-8th-minutes_001_5336a1a7d8.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/02/Agenda_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Agenda_001_8c9587c41f.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/02/Special-Meeting-Jan-23rd_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Special-Meeting-Jan-23rd_001_4747d5f2ba.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/01/Dec-11-2025-Minutes-_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Dec-11-2025-Minutes-_001_c68d263131.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/01/January-Agenda.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/January-Agenda_cf4d556a51.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2025/12/Special-Called-Meeting-12-20-2025-2.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Special-Called-Meeting-12-20-2025-2_8c7bcc62d2.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2025/12/December-11th-agenda-LRA-meeting.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/December-11th-agenda-LRA-meeting_302b014c60.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/01/Nov-20-2025-Minutes_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Nov-20-2025-Minutes_001_dc76bf735d.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2025/11/Cancellation_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Cancellation_001_61c8eddf20.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2025/11/Public-Hearing_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Public-Hearing_001_aea2496f64.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2025/11/November-Agenda_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/November-Agenda_001_f97d10e3f3.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/01/Oct-23-2025-Minutes_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Oct-23-2025-Minutes_001_a75809c79f.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2025/10/Agenda_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Agenda_001_4f86a7b0c8.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2026/01/Oct-9-2025-Minutes_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Oct-9-2025-Minutes_001_4b5e0ce2d2.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2025/10/October-Agenda_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/October-Agenda_001_974ba78b82.pdf",
+        "cached": false
+      },
+      {
+        "url": "https://littleriveracademy.us/wp-content/uploads/2025/09/Tax-Rate-Agenda_001.pdf",
+        "kind": "pdf",
+        "path": "_data/meetings_cache/little_river_academy/Tax-Rate-Agenda_001_607ea6f956.pdf",
+        "cached": false
+      }
+    ],
+    "errors": [],
+    "name_snippets": {}
+  }
+]

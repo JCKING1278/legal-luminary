@@ -1,0 +1,153 @@
+{
+  "$schema_comment": "Seeds for automated city council agenda/minutes PDF discovery under ll/scripts/sync_city_council_documents.py. Adjust max_downloads or filters if sites change.",
+  "output_subdir": "_data/meetings_cache",
+  "delay_seconds": 0.45,
+  "cities": [
+    {
+      "slug": "killeen",
+      "display_name": "Killeen",
+      "readme_path": "_cities/killeen/README.md",
+      "source": {
+        "type": "legistar",
+        "client": "killeen",
+        "body_name": "City Council",
+        "since": "2024-01-01",
+        "max_events": 36,
+        "max_downloads": 40,
+        "prefer": ["minutes", "agenda"]
+      }
+    },
+    {
+      "slug": "temple",
+      "display_name": "Temple",
+      "readme_path": "_cities/temple/README.md",
+      "source": {
+        "type": "html_pdf",
+        "seed_urls": [
+          "https://www.templetx.gov/departments/administration/city_secretary/recent_agendas___minutes/archivedcouncil.php"
+        ],
+        "relative_pdf_base": "https://cms9files.revize.com/templetx/",
+        "strip_query_parameters": true,
+        "include_url_regex": "(?i)archive/city council/.+CC Agenda Packet\\.pdf",
+        "max_downloads": 24
+      }
+    },
+    {
+      "slug": "bartlett",
+      "display_name": "Bartlett",
+      "readme_path": "_cities/bartlett/README.md",
+      "source": {
+        "type": "html_pdf",
+        "seed_urls": [
+          "https://www.bartlett-tx.us/meetings?field_microsite_tid_1=27"
+        ],
+        "include_url_regex": "(?i)bartlett-tx\\.us/.+city_council/meeting/.+minute",
+        "max_downloads": 24
+      }
+    },
+    {
+      "slug": "salado",
+      "display_name": "Salado",
+      "readme_path": "_cities/salado/README.md",
+      "source": {
+        "type": "html_pdf",
+        "seed_urls": [
+          "https://www.saladotx.gov/meetings?field_microsite_tid_1=27"
+        ],
+        "include_url_regex": "(?i)saladotx\\.gov/.+board_of_aldermen/meeting/.+minute",
+        "max_downloads": 24
+      }
+    },
+    {
+      "slug": "nolanville",
+      "display_name": "Nolanville",
+      "readme_path": "_cities/nolanville/README.md",
+      "source": {
+        "type": "html_pdf",
+        "seed_urls": [
+          "https://www.nolanvilletx.gov/page/city.agendas_minutes"
+        ],
+        "include_url_regex": "(?i)(Regular|Special).+Council.+Meeting.+Minutes.+\\.pdf|Council%20Meeting%20Minutes",
+        "max_downloads": 24
+      }
+    },
+    {
+      "slug": "morgans_point_resort",
+      "display_name": "Morgan's Point Resort",
+      "readme_path": "_cities/morgans_point_resort/README.md",
+      "source": {
+        "type": "html_pdf",
+        "seed_urls": [
+          "https://morganspointresort-tx.municodemeetings.com/"
+        ],
+        "include_url_regex": "(?i)MEET-Minutes-.+\\.pdf",
+        "max_downloads": 16
+      }
+    },
+    {
+      "slug": "rogers",
+      "display_name": "Rogers",
+      "readme_path": "_cities/rogers/README.md",
+      "source": {
+        "type": "html_pdf",
+        "seed_urls": [
+          "https://cityofrogerstx.gov/government/agendas-and-minutes/"
+        ],
+        "include_url_regex": "(?i)cityofrogerstx\\.gov/wp-content/uploads/.+/(Agenda|agenda|Minutes|minutes)[^/]*\\.pdf",
+        "exclude_url_regex": "(?i)Scanned-from",
+        "max_downloads": 20
+      }
+    },
+    {
+      "slug": "holland",
+      "display_name": "Holland",
+      "readme_path": "_cities/holland/README.md",
+      "source": {
+        "type": "html_pdf",
+        "seed_urls": [
+          "https://cityofholland.org/agendas"
+        ],
+        "include_url_regex": "(?i)City_Council|Regular_City_Council|Special_City_Council",
+        "exclude_url_regex": "(?i)Public_Meeting|Sidewalk|Grant\\.pdf$",
+        "max_downloads": 20
+      }
+    },
+    {
+      "slug": "little_river_academy",
+      "display_name": "Little River-Academy",
+      "readme_path": "_cities/little_river_academy/README.md",
+      "source": {
+        "type": "html_pdf",
+        "seed_urls": [
+          "https://littleriveracademy.us/city-council-agendas/"
+        ],
+        "include_url_regex": "(?i)littleriveracademy\\.us/wp-content/uploads/.+\\.(pdf)",
+        "max_downloads": 20
+      }
+    },
+    {
+      "slug": "belton",
+      "display_name": "Belton",
+      "readme_path": "_cities/belton/README.md",
+      "manual": "City council PDFs are embedded in Revize tables; add direct minute URLs or a working index when available."
+    },
+    {
+      "slug": "harker_heights",
+      "display_name": "Harker Heights",
+      "readme_path": "_cities/harker_heights/README.md",
+      "manual": "Cloudflare blocks unattended fetches from this environment; open agendas in a browser or paste PDF index URLs as html_pdf seeds."
+    },
+    {
+      "slug": "troy",
+      "display_name": "Troy",
+      "readme_path": "_cities/troy/README.md",
+      "manual": "cityoftroy.us returns HTTP 403 to scripted clients; use manual download or browser export."
+    },
+    {
+      "slug": "moody",
+      "display_name": "Moody",
+      "readme_path": "_cities/moody/README.md",
+      "manual": "Minutes appear as WordPress posts; add a stable index URL listing PDF attachments when identified."
+    }
+  ]
+}

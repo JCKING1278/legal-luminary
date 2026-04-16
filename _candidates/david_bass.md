@@ -6,7 +6,7 @@ city: "killeen"
 office: "Uncategorized"
 address: "Address pending verification for David Bass"
 headshot_url: "https://www.killeentexas.gov/search?query=David+Bass+headshot"
-candidate_website: "https://www.google.com/search?q=David+Bass+campaign+website"
+candidate_website: "https://www.google.com/search?q=David+Bass+campaign+website+killeen"
 ---
 
 ## Biography
@@ -20,4 +20,4 @@ David Bass is listed as a candidate for Uncategorized. This biography requires c
 
 ## News Mentions
 
-- [David Bass election filing coverage](https://news.google.com/search?q=David+Bass+Uncategorized) (google-news, 2026-04-15T16:24:00.965599+00:00)
+- [David Bass election filing coverage](https://news.google.com/search?q=David+Bass+Uncategorized+killeen) (google-news, 2026-04-15T16:24:00.965599+00:00)

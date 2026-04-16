@@ -6,7 +6,7 @@ city: "killeen"
 office: "Uncategorized"
 address: "Address pending verification for Chet Southworth"
 headshot_url: "https://www.killeentexas.gov/search?query=Chet+Southworth+headshot"
-candidate_website: "https://www.google.com/search?q=Chet+Southworth+campaign+website"
+candidate_website: "https://www.google.com/search?q=Chet+Southworth+campaign+website+killeen"
 ---
 
 ## Biography
@@ -20,4 +20,4 @@ Chet Southworth is listed as a candidate for Uncategorized. This biography requi
 
 ## News Mentions
 
-- [Chet Southworth election filing coverage](https://news.google.com/search?q=Chet+Southworth+Uncategorized) (google-news, 2026-04-15T16:24:00.965273+00:00)
+- [Chet Southworth election filing coverage](https://news.google.com/search?q=Chet+Southworth+Uncategorized+killeen) (google-news, 2026-04-15T16:24:00.965273+00:00)

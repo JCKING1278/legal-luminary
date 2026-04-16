@@ -6,7 +6,7 @@ city: "killeen"
 office: "Uncategorized"
 address: "Address pending verification for Dominic Quoc Vo"
 headshot_url: "https://www.killeentexas.gov/search?query=Dominic+Quoc+Vo+headshot"
-candidate_website: "https://www.google.com/search?q=Dominic+Quoc+Vo+campaign+website"
+candidate_website: "https://www.google.com/search?q=Dominic+Quoc+Vo+campaign+website+killeen"
 ---
 
 ## Biography
@@ -20,4 +20,4 @@ Dominic Quoc Vo is listed as a candidate for Uncategorized. This biography requi
 
 ## News Mentions
 
-- [Dominic Quoc Vo election filing coverage](https://news.google.com/search?q=Dominic+Quoc+Vo+Uncategorized) (google-news, 2026-04-15T16:24:00.966333+00:00)
+- [Dominic Quoc Vo election filing coverage](https://news.google.com/search?q=Dominic+Quoc+Vo+Uncategorized+killeen) (google-news, 2026-04-15T16:24:00.966333+00:00)

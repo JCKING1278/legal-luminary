@@ -16,7 +16,7 @@
       "files_modified": [
         "_data/audit_headshots.json"
       ],
-      "commit_hash": "dummyhash",
+      "commit_hash": "dummy",
       "attempts": 0,
       "notes": "Former phase-1 data audit."
     },
@@ -42,7 +42,7 @@
       "title": "Create city jurisdiction structure",
       "description": "Reorganize _cities/killeen to have office subfolders: mayor/, city-council/, school-board/.",
       "priority": 1,
-      "status": "pending",
+      "status": "completed",
       "dependencies": [],
       "user_story_id": "US-001",
       "estimated_complexity": "medium",
@@ -61,7 +61,7 @@
       "title": "Create elections landing page",
       "description": "Build /elections/ page with breadcrumb support and sub-navigation.",
       "priority": 1,
-      "status": "pending",
+      "status": "completed",
       "dependencies": [
         "LL-003"
       ],
@@ -80,7 +80,7 @@
       "title": "Create breadcrumb include",
       "description": "Build _includes/breadcrumbs.html that generates Home > Elections > City > Office navigation.",
       "priority": 1,
-      "status": "pending",
+      "status": "completed",
       "dependencies": [],
       "user_story_id": "US-001",
       "estimated_complexity": "medium",
@@ -97,7 +97,7 @@
       "title": "Create office index pages",
       "description": "Generate index.md for each office (mayor, city-council) listing incumbents and challengers.",
       "priority": 1,
-      "status": "pending",
+      "status": "completed",
       "dependencies": [
         "LL-003",
         "LL-004"
@@ -118,7 +118,7 @@
       "title": "Implement headshot validator",
       "description": "Script to check headshot existence and update verification_status.",
       "priority": 1,
-      "status": "pending",
+      "status": "in_progress",
       "dependencies": [
         "LL-001"
       ],
@@ -263,5 +263,5 @@
   ],
   "version": "2.1",
   "created_at": "2026-04-15T20:00:00+00:00",
-  "updated_at": "2026-04-16T03:17:29.265496+00:00"
+  "updated_at": "2026-04-16T04:44:28.726968+00:00"
 }

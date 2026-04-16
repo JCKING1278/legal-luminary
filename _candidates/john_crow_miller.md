@@ -6,7 +6,7 @@ city: "killeen"
 office: "Uncategorized"
 address: "Address pending verification for John 'Crow' Miller"
 headshot_url: "https://www.killeentexas.gov/search?query=John+%22Crow%22+Miller+headshot"
-candidate_website: "https://www.google.com/search?q=John+%22Crow%22+Miller+campaign+website"
+candidate_website: "https://www.google.com/search?q=John+%22Crow%22+Miller+campaign+website+killeen"
 ---
 
 ## Biography
@@ -20,4 +20,4 @@ John "Crow" Miller is listed as a candidate for Uncategorized. This biography re
 
 ## News Mentions
 
-- [John "Crow" Miller election filing coverage](https://news.google.com/search?q=John+"Crow"+Miller+Uncategorized) (google-news, 2026-04-15T16:24:00.966548+00:00)
+- [John "Crow" Miller election filing coverage](https://news.google.com/search?q=John+%22Crow%22+Miller+Uncategorized+killeen) (google-news, 2026-04-15T16:24:00.966548+00:00)

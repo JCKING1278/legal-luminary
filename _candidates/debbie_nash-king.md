@@ -6,7 +6,7 @@ city: "killeen"
 office: "Uncategorized"
 address: "Address pending verification for Debbie Nash-King"
 headshot_url: "https://www.killeentexas.gov/search?query=Debbie+Nash-King+headshot"
-candidate_website: "https://www.google.com/search?q=Debbie+Nash-King+campaign+website"
+candidate_website: "https://www.google.com/search?q=Debbie+Nash-King+campaign+website+killeen"
 ---
 
 ## Biography
@@ -20,4 +20,4 @@ Debbie Nash-King is listed as a candidate for Uncategorized. This biography requ
 
 ## News Mentions
 
-- [Debbie Nash-King election filing coverage](https://news.google.com/search?q=Debbie+Nash-King+Uncategorized) (google-news, 2026-04-15T16:24:00.965784+00:00)
+- [Debbie Nash-King election filing coverage](https://news.google.com/search?q=Debbie+Nash-King+Uncategorized+killeen) (google-news, 2026-04-15T16:24:00.965784+00:00)

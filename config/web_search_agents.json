@@ -1,0 +1,53 @@
+{
+  "search_agents": [
+    {
+      "name": "duckduckgo-agent",
+      "engine": "duckduckgo",
+      "enabled": true,
+      "query_suffix_default": "central texas"
+    },
+    {
+      "name": "brave-agent",
+      "engine": "brave",
+      "enabled": true,
+      "query_suffix_default": "central texas"
+    },
+    {
+      "name": "ecosia-agent",
+      "engine": "ecosia",
+      "enabled": true,
+      "query_suffix_default": "central texas"
+    },
+    {
+      "name": "bing-agent",
+      "engine": "bing",
+      "enabled": true,
+      "query_suffix_default": "central texas"
+    },
+    {
+      "name": "yahoo-agent",
+      "engine": "yahoo",
+      "enabled": true,
+      "query_suffix_default": "central texas"
+    },
+    {
+      "name": "wikipedia-agent",
+      "engine": "wikipedia",
+      "enabled": true,
+      "query_suffix_default": "central texas"
+    },
+    {
+      "name": "ballotpedia-agent",
+      "engine": "ballotpedia",
+      "enabled": true,
+      "query_suffix_default": "central texas"
+    }
+  ],
+  "requirements": {
+    "disallow_google_search_result_urls_as_final_sources": true,
+    "query_must_include_geo_context": [
+      "central texas",
+      "municipality"
+    ]
+  }
+}

@@ -6,7 +6,7 @@ city: "killeen"
 office: "Uncategorized"
 address: "Address pending verification for Myrna Malic-Banzon"
 headshot_url: "https://www.killeentexas.gov/search?query=Myrna+Malic-Banzon+headshot"
-candidate_website: "https://www.google.com/search?q=Myrna+Malic-Banzon+campaign+website"
+candidate_website: "https://www.google.com/search?q=Myrna+Malic-Banzon+campaign+website+killeen"
 ---
 
 ## Biography
@@ -20,4 +20,4 @@ Myrna Malic-Banzon is listed as a candidate for Uncategorized. This biography re
 
 ## News Mentions
 
-- [Myrna Malic-Banzon election filing coverage](https://news.google.com/search?q=Myrna+Malic-Banzon+Uncategorized) (google-news, 2026-04-15T16:24:00.967554+00:00)
+- [Myrna Malic-Banzon election filing coverage](https://news.google.com/search?q=Myrna+Malic-Banzon+Uncategorized+killeen) (google-news, 2026-04-15T16:24:00.967554+00:00)

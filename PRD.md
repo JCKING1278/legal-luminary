@@ -211,3 +211,9 @@ Elections
 - [ ] AC-005.1 bundle exec jekyll build or the repo build script completes without error on a clean checkout after documented setup.
 - [ ] AC-005.2 HTML or link checks configured in CI or scripts pass for candidate and elections routes.
 - [ ] AC-005.3 sitemap and primary navigation include new elections routes when those pages exist.
+
+
+## Project Manager Loop Update
+
+- Added municipal election specialist fan-out workflow.
+- Added dossier + news + UI validation feedback checkpoints.

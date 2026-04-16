@@ -6,7 +6,7 @@ city: "killeen"
 office: "Uncategorized"
 address: "Address pending verification for Macaire 'Mac' Morrissey"
 headshot_url: "https://www.killeentexas.gov/search?query=Macaire+%22Mac%22+Morrissey+headshot"
-candidate_website: "https://www.google.com/search?q=Macaire+%22Mac%22+Morrissey+campaign+website"
+candidate_website: "https://www.google.com/search?q=Macaire+%22Mac%22+Morrissey+campaign+website+killeen"
 ---
 
 ## Biography
@@ -20,4 +20,4 @@ Macaire "Mac" Morrissey is listed as a candidate for Uncategorized. This biograp
 
 ## News Mentions
 
-- [Macaire "Mac" Morrissey election filing coverage](https://news.google.com/search?q=Macaire+"Mac"+Morrissey+Uncategorized) (google-news, 2026-04-15T16:24:00.967216+00:00)
+- [Macaire "Mac" Morrissey election filing coverage](https://news.google.com/search?q=Macaire+%22Mac%22+Morrissey+Uncategorized+killeen) (google-news, 2026-04-15T16:24:00.967216+00:00)
