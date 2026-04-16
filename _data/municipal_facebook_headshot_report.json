@@ -1,0 +1,153 @@
+{
+  "beverly_ann_williams": {
+    "success": false,
+    "error": "No Facebook search URL found in /Users/sweeden/ll/_candidates/beverly_ann_williams.md"
+  },
+  "c_cochran": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=C.+Cochran+killeen+central+texas",
+    "final_url": "https://www.facebook.com/search/top?q=C.%20Cochran%20killeen%20central%20texas",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/c_cochran/headshot.jpg",
+    "faces_detected": 389
+  },
+  "charles_chuck_kimble": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Charles+%E2%80%9CChuck%E2%80%9D+Kimble+killeen+central+texas",
+    "final_url": "https://www.facebook.com/search/top?q=C.%20Cochran%20killeen%20central%20texas",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/charles_chuck_kimble/headshot.jpg",
+    "faces_detected": 174
+  },
+  "chet_southworth": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Chet+Southworth+Killeen+killeen+central+texas",
+    "final_url": "https://www.facebook.com/chet.southworth",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/chet_southworth/headshot.jpg",
+    "faces_detected": 185
+  },
+  "christy_wilbanks": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Christy+Wilbanks+killeen+central+texas",
+    "final_url": "https://www.facebook.com/groups/1347808815318664/",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/christy_wilbanks/headshot.jpg",
+    "faces_detected": 156
+  },
+  "david_bass": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=David+Bass+killeen+central+texas",
+    "final_url": "https://www.facebook.com/kffrg",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/david_bass/headshot.jpg",
+    "faces_detected": 115
+  },
+  "debbie_nash-king": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Debbie+Nash-King+killeen+central+texas",
+    "final_url": "https://www.facebook.com/profile.php?id=61588205712206",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/debbie_nash-king/headshot.jpg",
+    "faces_detected": 120
+  },
+  "delsina_west": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Delsina+West+killeen+central+texas",
+    "final_url": "https://www.facebook.com/search/top?q=Delsina%20West%20killeen%20central%20texas",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/delsina_west/headshot.jpg",
+    "faces_detected": 176
+  },
+  "dominic_quoc_vo": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Dominic+Quoc+Vo+killeen+central+texas",
+    "final_url": "https://www.facebook.com/dominicvo",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/dominic_quoc_vo/headshot.jpg",
+    "faces_detected": 213
+  },
+  "john_crow_miller": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=John+%22Crow%22+Miller+killeen+central+texas",
+    "final_url": "https://www.facebook.com/SlamKilleen",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/john_crow_miller/headshot.jpg",
+    "faces_detected": 149
+  },
+  "jose_segarra": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Jose+Segarra+killeen+central+texas",
+    "final_url": "https://www.facebook.com/JoseSegarra.Broker",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/jose_segarra/headshot.jpg",
+    "faces_detected": 181
+  },
+  "joseph_solomon": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Joseph+Solomon+killeen+central+texas",
+    "final_url": "https://www.facebook.com/KilleenTexas",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/joseph_solomon/headshot.jpg",
+    "faces_detected": 231
+  },
+  "kelese_richardson": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Kelese+Richardson+killeen+central+texas",
+    "final_url": "https://www.facebook.com/search/top?q=Kelese%20Richardson%20killeen%20central%20texas",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/kelese_richardson/headshot.jpg",
+    "faces_detected": 245
+  },
+  "macaire_mac_morrissey": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Macaire+%22Mac%22+Morrissey+killeen+central+texas",
+    "final_url": "https://www.facebook.com/macaire.morrissey",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/macaire_mac_morrissey/headshot.jpg",
+    "faces_detected": 168
+  },
+  "mellisa_brown": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Mellisa+Brown+killeen+central+texas",
+    "final_url": "https://www.facebook.com/search/top?q=Mellisa%20Brown%20killeen%20central%20texas",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/mellisa_brown/headshot.jpg",
+    "faces_detected": 190
+  },
+  "myrna_malic-banzon": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Myrna+Malic-Banzon+killeen+central+texas",
+    "final_url": "https://www.facebook.com/myrna.banzon.7",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/myrna_malic-banzon/headshot.jpg",
+    "faces_detected": 277
+  },
+  "nicholas_guajardo": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Nicholas+Guajardo+killeen+central+texas",
+    "final_url": "https://www.facebook.com/kdhnews",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/nicholas_guajardo/headshot.jpg",
+    "faces_detected": 258
+  },
+  "olayinka_adelusi": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Olayinka+Adelusi+killeen+central+texas",
+    "final_url": "https://www.facebook.com/profile.php?id=61565470053264",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/olayinka_adelusi/headshot.jpg",
+    "faces_detected": 192
+  },
+  "riakos_rock_adams": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Riakos+%E2%80%98Rock%E2%80%99+Adams+killeen+central+texas",
+    "final_url": "https://www.facebook.com/kdhnews",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/riakos_rock_adams/headshot.jpg",
+    "faces_detected": 253
+  },
+  "shavonn_hull": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Shavonn+Hull+killeen+central+texas",
+    "final_url": "https://www.facebook.com/kdhnews",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/shavonn_hull/headshot.jpg",
+    "faces_detected": 249
+  },
+  "sue_neesy_croft": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Sue+%E2%80%9CNeesy%E2%80%9D+Croft+killeen+central+texas",
+    "final_url": "https://www.facebook.com/FriendsofSueNeesyCroft",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/sue_neesy_croft/headshot.jpg",
+    "faces_detected": 205
+  },
+  "terry_mustapher": {
+    "success": true,
+    "search_url": "https://www.facebook.com/search/top?q=Terry+Mustapher+killeen+central+texas",
+    "final_url": "https://www.facebook.com/phyjones",
+    "output_path": "/Users/sweeden/research_paper/dossiers/municipal/terry_mustapher/headshot.jpg",
+    "faces_detected": 128
+  }
+}

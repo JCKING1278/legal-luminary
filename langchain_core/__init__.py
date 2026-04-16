@@ -1,3 +1,1 @@
-class BaseMessage:pass
-class HumanMessage(BaseMessage):pass
-class AIMessage(BaseMessage):pass
+# Dummy langchain_core package for testing
