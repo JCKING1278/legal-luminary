@@ -16,7 +16,7 @@ Kelese Richardson is listed as a candidate for Uncategorized. This biography req
 ## Social Media
 
 - https://www.facebook.com/search/top?q=Kelese%20Richardson%20killeen%20central%20texas
-- https://www.linkedin.com/search/results/all/?keywords=Kelese+Richardson
+
 
 ## News Mentions
 
